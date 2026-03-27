@@ -266,6 +266,11 @@ def fetch_tweets(username):
     tweets = fetch_via_guest_api(username)
     if not tweets:
         tweets = fetch_via_nitter(username)
+    # 如果还是失败，再重试一次（针对高流量账号如 elonmusk 可能偶发限速）
+    if not tweets:
+        print("  Retrying after 5s...")
+        time.sleep(5)
+        tweets = fetch_via_nitter(username)
     return tweets
 
 
