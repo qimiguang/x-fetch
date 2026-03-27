@@ -1,0 +1,45 @@
+# 放到你的 GitHub 仓库的 .github/workflows/fetch_tweets.yml
+# GitHub Actions 运行在境外服务器，能正常访问 Nitter/RSSHub
+# 抓取结果保存为 data/{username}.json，可通过 raw.githubusercontent.com 读取
+
+name: Fetch Tweets
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # 每 3 小时自动运行一次
+  workflow_dispatch:          # 支持手动触发
+    inputs:
+      usernames:
+        description: '用户名列表，逗号分隔，例如: elonmusk,sama,naval'
+        required: false
+        default: ''
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch tweets
+        env:
+          INPUT_USERNAMES: ${{ github.event.inputs.usernames }}
+        run: |
+          mkdir -p data
+          python .github/scripts/fetch_and_save.py
+
+      - name: Commit results
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: update tweets $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
