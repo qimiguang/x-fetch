@@ -1,0 +1,107 @@
+{
+  "username": "teslascope",
+  "updated_at": "2026-03-27T10:24:29Z",
+  "count": 20,
+  "tweets": [
+    {
+      "text": "We applaud @Tesla's transparency about these issues and for giving developers a heads-up to prepare for this upcoming update.\n\nAs we stated throughout the thread, while these are technically labeled as security issues, no Tesla or third-party customer information is at risk.",
+      "link": "https://nitter.net/teslascope/status/2037324887958979035#m",
+      "date": "Fri, 27 Mar 2026 00:24:39 GMT"
+    },
+    {
+      "text": "The second issue allows for a thread actor to determine usage and performance (in other words, loosely how many vehicles you're processing on a node).\n\nTeslaScope's Fleet Telemetry server infrastructure is configured not to use these parameters, so we're not impacted by this.",
+      "link": "https://nitter.net/teslascope/status/2037324886092529852#m",
+      "date": "Fri, 27 Mar 2026 00:24:39 GMT"
+    },
+    {
+      "text": "The first issue, which impacts all third-party services, allows a threat actor to impersonate other vehicles.\n\nIt's important to note that Fleet Telemetry is READ ONLY, so this can not result in any breach of vehicle information or user data.\n\nReal-world impact is someone sending garbage or false data to our servers, which our systems already largely detect as outliers. We've not detected any instances of this security issue on our infrastructure.",
+      "link": "https://nitter.net/teslascope/status/2037324883986891050#m",
+      "date": "Fri, 27 Mar 2026 00:24:38 GMT"
+    },
+    {
+      "text": "Tesla has sent an email to all developers about two upcoming security fixes for Fleet Telemetry servers, which will be released on March 30th.\n\nBoth are low- and medium-severity; in particular, only one affects Teslascope, and we'll patch it immediately once available.",
+      "link": "https://nitter.net/teslascope/status/2037324881336103364#m",
+      "date": "Fri, 27 Mar 2026 00:24:38 GMT"
+    },
+    {
+      "text": "We already know that @tesla_semi  is headed to high-volume production this year.\n\nThe new Roadster is set to be showcased in less than a month.\n\nSo could this be a whole new model? What are your thoughts?",
+      "link": "https://nitter.net/teslascope/status/2036675577437118665#m",
+      "date": "Wed, 25 Mar 2026 05:24:31 GMT"
+    },
+    {
+      "text": "A new Tesla vehicle has been teased!\n\n\nElon Musk (@elonmusk)\n\nSomething way cooler than a minivan is coming\n\n\n\n— https://nitter.net/elonmusk/status/2036673380582400198#m",
+      "link": "https://nitter.net/teslascope/status/2036675129133207997#m",
+      "date": "Wed, 25 Mar 2026 05:22:45 GMT"
+    },
+    {
+      "text": "You can check out our Full Self-Driving leaderboard on our platform and participate for free (no premium subscription required whatsoever)!\n\nteslascope.com/leaderboards/…\n\nJust sign up, add a virtual key in under a minute, and set your vehicle as public under Vehicle Settings. ✅",
+      "link": "https://nitter.net/teslascope/status/2036595656190775570#m",
+      "date": "Wed, 25 Mar 2026 00:06:57 GMT"
+    },
+    {
+      "text": "We're proud to be the first Tesla third-party app to support EU-based vehicle tracking for Full Self-Driving (Supervised)!\n\nIn April, we'll be overhauling our leaderboards to include the vehicle's country flag and current FSD version.\n\n\nMichał Gapiński (@mikegapinski)\n\nSomeone had to do it and I am very glad to be the first EU Tesla owner to participate in the @teslascope FSD leaderboard!\n\nI'll get that percentage up soon!\n\n\n\n\n\n— https://nitter.net/mikegapinski/status/2036593916430925967#m",
+      "link": "https://nitter.net/teslascope/status/2036595017737961801#m",
+      "date": "Wed, 25 Mar 2026 00:04:24 GMT"
+    },
+    {
+      "text": "It could also be something else entirely.\n\nWhat do you think this could be, and if it's the Model Y L, are you planning on ordering one?",
+      "link": "https://nitter.net/teslascope/status/2036170881119228162#m",
+      "date": "Mon, 23 Mar 2026 19:59:02 GMT"
+    },
+    {
+      "text": "It appears that Model Y L has arrived in North America (at Giga Texas)!\n\nThis doesn't guarantee that the model will be available any time soon, but still a nice discovery.\n\n\nJoe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer)\n\nWell this is interesting at Giga Texas today … what do YOU think this is? 🤔😎\n\n\n\n\n\n\n\n\n\n— https://nitter.net/JoeTegtmeyer/status/2036110880568431000#m",
+      "link": "https://nitter.net/teslascope/status/2036170446555717917#m",
+      "date": "Mon, 23 Mar 2026 19:57:19 GMT"
+    },
+    {
+      "text": "Just minor fixes in this one! (@BLKMDL3 best us to the post. 🙌)\n\nWorking on using X’s new APIs to automatically reply to our update posts when release notes are processed.",
+      "link": "https://nitter.net/teslascope/status/2035618102214611161#m",
+      "date": "Sun, 22 Mar 2026 07:22:30 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.9.3 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2035617011242283358#m",
+      "date": "Sun, 22 Mar 2026 07:18:10 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.200 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2035129561344594305#m",
+      "date": "Fri, 20 Mar 2026 23:01:12 GMT"
+    },
+    {
+      "text": "Another wave of Tesla update 2026.8.3 rolling out now, getting it on our 2019 Model 3. \n\nRelease notes are just security fixes and improvements.",
+      "link": "https://nitter.net/DriveTeslaca/status/2035121173948961101#m",
+      "date": "Fri, 20 Mar 2026 22:27:53 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.8.3 rolling out to more vehicles @teslascope",
+      "link": "https://nitter.net/RealTeslaNorth/status/2035113501744930907#m",
+      "date": "Fri, 20 Mar 2026 21:57:24 GMT"
+    },
+    {
+      "text": "A handful of improvements are coming soon to the Tesla mobile app, including a new feedback system (for reporting anything from general feedback to severe bugs with the vehicle’s software).\n\nThis appears to replace the recently deprecated feedback portal on Tesla’s website.\n\n\nTesla App Updates (iOS) (@Tesla_App_iOS)\n\nVersion 4.55.0 has been de-compiled and its got lots of quality of life improvements! (nitter.net/Tesla_App_iOS/status/2…)\n\n⚡ Energy Updates: Dedicated release notes for your Powerwall and smart breaker diagnostics. \n\n🐛 Native Feedback: A new bug reporting system\n\n🛡️ Insurance: Native photo estimates and complete total loss handling. \n\n🛠️ Service: Step by step collision repair tracking and insurance review status.\n\nHave a great weekend everyone ☀️\n\n\n\n— https://nitter.net/Tesla_App_iOS/status/2035024961094418579#m",
+      "link": "https://nitter.net/teslascope/status/2035037945481269626#m",
+      "date": "Fri, 20 Mar 2026 16:57:10 GMT"
+    },
+    {
+      "text": "Together with RDW, we have officially completed the final vehicle testing phase for Full Self-Driving (Supervised) and have submitted all documentation required for the UN R-171 approval + Article 39 exemptions. The RDW team is now reviewing the documentation and test results package internally. They have communicated the expected approval for Netherlands date of 4/10, shifting from 3/20 previously and we look forward to successful completion of this cooperation. \n\nFollowing the Netherlands’ approval, European countries will be able to recognize this approval nationally. We are anticipating a possible EU-wide approval during the summer.\n\nOver the past 18 months, this approval has involved a series of intense documentation, development, testing, research & audits. Including but certainly not limited to:\n\n– 1,600,000+ km of FSD (Supervised) testing on EU roads\n– 13,000+ customer sales ride-alongs\n– 4,500+ track test scenario executions\n– Thousands of pages of written documentation for 400+ compliance requirements\n– Dozens of research studies into safety performance/results\n\nWe're extremely proud of the work conducted with the RDW team up until this point.\n\nWe very much look forward to the approval in April, and sharing FSD (Supervised) with our patient EU customers!",
+      "link": "https://nitter.net/teslaeurope/status/2034872940542800361#m",
+      "date": "Fri, 20 Mar 2026 06:01:29 GMT"
+    },
+    {
+      "text": "Franz spotted driving the Cybercab down the 405 through Los Angeles\n\nVideo",
+      "link": "https://nitter.net/RyanZohoury/status/2034826755526336857#m",
+      "date": "Fri, 20 Mar 2026 02:57:58 GMT"
+    },
+    {
+      "text": "Lots of updates, but minor changes are included in this one.",
+      "link": "https://nitter.net/teslascope/status/2034841070513922358#m",
+      "date": "Fri, 20 Mar 2026 03:54:51 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.9.2 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2034830727359987901#m",
+      "date": "Fri, 20 Mar 2026 03:13:45 GMT"
+    }
+  ]
+}
