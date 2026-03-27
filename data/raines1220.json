@@ -1,0 +1,92 @@
+{
+  "username": "raines1220",
+  "updated_at": "2026-03-27T09:24:33Z",
+  "count": 17,
+  "tweets": [
+    {
+      "text": "Just finished my first drive on FSD 14.2.2.5, definitely an improvement but also noticed some weird behavior, such as swerving around tire marks. \n\nIn fact, I’ve noticed that every recent FSD version that tries to improve pothole avoidance also seems more likely to unnecessarily swerve around tire marks.\n\nI gave it some thought and realized that object avoidance, in general, is an extremely hard problem to solve. There are, in theory, unlimited types of road conditions, each requiring different strategies.\n\nIf you want to avoid everything, then what about leaves? You mostly want to ignore them. Do you still remember how FSD used to emergency brake for leaves?\n\nHowever, if you want to run over them, then what about black ice? It is also dark, soft, and flat, but definitely needs to be avoided.\n\nBut then, if you choose to avoid those, what about tire marks? People still want FSD to ignore them, right?\n\nTo perfectly solve this problem, you would need near lossless compression of vision input, large model capacity to store general world knowledge, and lightning fast reasoning in order to react correctly.",
+      "link": "https://nitter.net/raines1220/status/2025271329302462830#m",
+      "date": "Sat, 21 Feb 2026 18:08:07 GMT"
+    },
+    {
+      "text": "tbh, this is my favorite chart. It kind of show the fundamental difference between Waymo and Tesla.\n\n\nRaines (@raines1220)\n\nSafety Trajectories: Tesla vs. Waymo\n\n\n\n\n\n— https://nitter.net/raines1220/status/2024001882029449328#m",
+      "link": "https://nitter.net/raines1220/status/2024009192835625046#m",
+      "date": "Wed, 18 Feb 2026 06:32:50 GMT"
+    },
+    {
+      "text": "14 Robotaxi Crashes in Austin",
+      "link": "https://nitter.net/raines1220/status/2024002285425074536#m",
+      "date": "Wed, 18 Feb 2026 06:05:23 GMT"
+    },
+    {
+      "text": "Tesla Robotaxi: Mileage vs. At-fault crashes over time",
+      "link": "https://nitter.net/raines1220/status/2024002014884110467#m",
+      "date": "Wed, 18 Feb 2026 06:04:19 GMT"
+    },
+    {
+      "text": "Safety Trajectories: Tesla vs. Waymo",
+      "link": "https://nitter.net/raines1220/status/2024001882029449328#m",
+      "date": "Wed, 18 Feb 2026 06:03:47 GMT"
+    },
+    {
+      "text": "Community notes are wrong, and many others are also wrong in speculating about my method. I’ll explain a few common misunderstandings here:\n\n1. Lots of people assume that my analysis was calculated using fleet size, which is incorrect. The mileage data was extracted and projected using the Robotaxi mileage chart from the 2025 Q4 earnings report. So even if @ethanmckanna admitted that his website’s numbers are \"misleading\", that does not automatically make my analysis wrong.\n\n2. I used the mileage from the 2025 Q4 earnings report, which reported 650K miles and is only about Austin. People incorrectly assume that includes both the SF Bay Area and Austin. However, as reported in Q3 2025, the SF Bay Area already had over 1 million miles back then. If the earnings report included SF Bay Area mileage, then it would have to be over 1 million miles at the end of Q4.\n\n3. People pointed out that removing parking lot and stationary crashes is manipulating the data. I agree. However, I included a chart in the original post's replies to show how it looks when adding them back. As shown in that chart, the model can’t fit the data points, which means we don’t have enough data to make any conclusion if we include all kinds of crashes. I argue that removing those crashes was done transparently and only intended to make a limited prediction with higher confidence.\n\n\nRaines (@raines1220)\n\nI took a look at the Jan 2026 Robotaxi crash report, and the numbers are exciting🔥\n- when safety passenger got removed (Jan 2026), MPI is ~200K miles. \n- Now (Feb 2026), MPI is ~400K miles. \n- I predict Robotaxi in Austin will fully surpass human drivers by the end of Q1 (before April).  \n\nThese numbers deviate from my last prediction due to several methodological improvements: \n- I previously underestimated Robotaxi mileage by ~2.5x because I was guessing mileage using a few data points and a fleet size chart. This is now corrected using the actual Robotaxi mileage chart reported in Tesla’s 2025 Q4 financial statement. \n- I realized parking lot dents and stationary crashes were adding significant noise. After removing them, the model fits the data much better.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2023854888040411140#m",
+      "link": "https://nitter.net/raines1220/status/2023968515854655714#m",
+      "date": "Wed, 18 Feb 2026 03:51:12 GMT"
+    },
+    {
+      "text": "In case you’re curious, here’s the analysis without excluding stationary and parking lot incidents.",
+      "link": "https://nitter.net/raines1220/status/2023866069593862257#m",
+      "date": "Tue, 17 Feb 2026 21:04:07 GMT"
+    },
+    {
+      "text": "I took a look at the Jan 2026 Robotaxi crash report, and the numbers are exciting🔥\n- when safety passenger got removed (Jan 2026), MPI is ~200K miles. \n- Now (Feb 2026), MPI is ~400K miles. \n- I predict Robotaxi in Austin will fully surpass human drivers by the end of Q1 (before April).  \n\nThese numbers deviate from my last prediction due to several methodological improvements: \n- I previously underestimated Robotaxi mileage by ~2.5x because I was guessing mileage using a few data points and a fleet size chart. This is now corrected using the actual Robotaxi mileage chart reported in Tesla’s 2025 Q4 financial statement. \n- I realized parking lot dents and stationary crashes were adding significant noise. After removing them, the model fits the data much better.",
+      "link": "https://nitter.net/raines1220/status/2023854888040411140#m",
+      "date": "Tue, 17 Feb 2026 20:19:41 GMT"
+    },
+    {
+      "text": "I’ve been moving away from @cursor_ai because they’ve done a poor job with local parallel agents and are shipping more bugs than features.\n\nAs far as I know, many developers are moving away from Cursor for the same reasons, and I hope Cursor figure out a way to survive. After all, Cursor provided the best code review experience, in my opinion.\n\nHowever, if they can’t survive, I hope they understand how critical it is to move fast and do proper testing at the same time.\n\nTesting is easily 100x more important nowadays. I can have ~10 parallel agents filing PRs and another ~5 parallel agents reviewing them, with less and less human involvement in the loop. \n\nWithout a proper testing solution, nothing will work. In other words, AI products will not work without solutions like @stably_ai. You must solve AI testing at the same time when you trying to solve AI coding.",
+      "link": "https://nitter.net/raines1220/status/2018432830884212879#m",
+      "date": "Mon, 02 Feb 2026 21:14:22 GMT"
+    },
+    {
+      "text": "In passenger seat now\n\nVideo",
+      "link": "https://nitter.net/Tsla99T/status/2014401460205682824#m",
+      "date": "Thu, 22 Jan 2026 18:15:08 GMT"
+    },
+    {
+      "text": "Just started Tesla Robotaxi drives in Austin with no safety monitor in the car.\n\nCongrats to the @Tesla_AI team!\n\nIf you’re interested in solving real-world AI, which is likely to lead to AGI imo, join Tesla AI. Solving real-world AI for Optimus will be 100X harder than cars.\n\n\nTSLA99T (@Tsla99T)\n\nI am in a robotaxi without safety monitor\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2014392609028923782#m",
+      "link": "https://nitter.net/elonmusk/status/2014397578352226423#m",
+      "date": "Thu, 22 Jan 2026 17:59:43 GMT"
+    },
+    {
+      "text": "Robotaxi rides without any safety monitors are now publicly available in Austin.\n\nStarting with a few unsupervised vehicles mixed in with the broader robotaxi fleet with safety monitors, and the ratio will increase over time.\n\n\nTSLA99T (@Tsla99T)\n\nI am in a robotaxi without safety monitor\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2014392609028923782#m",
+      "link": "https://nitter.net/aelluswamy/status/2014398853991301538#m",
+      "date": "Thu, 22 Jan 2026 18:04:47 GMT"
+    },
+    {
+      "text": "I found another common misconception.\n\nThe Lemonade FSD discount does not specify the version, which means it includes HW3.\n\nIn fact, I don’t think Lemonade can tell which version you are using, so they basically conclude that 2x safer is the average (or worst) FSD can be, and they offer a 50% discount as a conservative starting point.\n\nBased on my understanding, FSD (supervised) v14 is much better than 2x safer.",
+      "link": "https://nitter.net/raines1220/status/2014384905182941349#m",
+      "date": "Thu, 22 Jan 2026 17:09:21 GMT"
+    },
+    {
+      "text": "For those TSLAQ who blame Elon for overpromising, I want to share Parkinson’s Law:\n\n“Work expands to fill the time available for its completion.”\n\nI believe this is one of the fundamental principles behind how Elon tries to get things done.\n\nIn other words, if Elon promised that Tesla would achieve fully autonomous driving in 50 years, then most likely it would arrive in around 47 years.\n\nBut if you promise everyone it will happen next year and work insanely hard toward it, will it be achieved? Maybe. But one thing is certain: you will reach your maximum efficiency, and you will not delay (and likely will accelerate) the final success.",
+      "link": "https://nitter.net/raines1220/status/2014378446055473444#m",
+      "date": "Thu, 22 Jan 2026 16:43:41 GMT"
+    },
+    {
+      "text": "You asked about a tricky question. But I could prove it using another method:\n\nI believe FSD v14.2 already achieved L3 in practice (except for legally taking liability), given that we are allowed to text while using it. In fact, Lemonade, as a third party, proved FSD to be at least 2x safer than average human. Note that it does not specify versions, so including HW3, which implies v14.2 is much more than 2x. And they lowered their insurance cost by 50% because of that (and they aim for 0). This is undeniable evidence showing that FSD v14.2 has achieved at least L3-level capability.\n\nOn the other hand, given people have already achieved zero-intervention coast to coast, we could even argue FSD v14.2 has achieved L4 capability (only capability), because that long-distance drive must include most edge cases you could imagine. Also, given that in extreme weather or when you fall asleep, it won’t panic but will drive you to a safe place and park. Therefore, we can conclude that FSD v14.2 is fully autonomous in LIMITED conditions, while being reasonably safe and efficient, and thus almost L4-capable.\n\nThen why is my FSD still named “supervised”? The only explanation is that Tesla’s interpretation of “unsupervised” means no supervision at all, which aligns better with my understanding than your hypothesis.\n\nAbove is my proof.",
+      "link": "https://nitter.net/raines1220/status/2014372446032244790#m",
+      "date": "Thu, 22 Jan 2026 16:19:51 GMT"
+    },
+    {
+      "text": "I just noticed that tons of people believe personal FSD (unsupervised) is Level 3, meaning it would still require someone to take over the car when requested. Most of them then conclude that personal FSD (unsupervised) is therefore easier to achieve than commercial Robotaxi. If you believe this, then this post is for you.\n\nI believe Elon Musk has explained multiple times that personal FSD (unsupervised) should:\n\n1. Allow you to sleep and still get to your destination\n\n2. Let you opt into the commercial Robotaxi fleet to make money for you when needed\n\n3. Support long-distance Summon and Banish\n\nTo summarize, (1) and (3) imply that no one is required to be in the car for potential takeover, which means it should be at least Level 4. Also, (2) implies that the capability of personal FSD (unsupervised) is a superset of Robotaxi, not a subset, which means it is “equal or harder,” but definitely not “easier.”\n\nIn fact, I believe that while Robotaxi could be achieved with Level 4 or Level 5, personal FSD (unsupervised) can only be launched when Level 5 capability is achieved. Because:\n\n1. Geofencing makes sense for a commercial Robotaxi fleet but does not make sense for personal FSD. People will drive it anywhere, across states, and even across the country. In fact, Elon has said that FSD should eventually work on another planet (e.g., Mars), which implies the system is designed to work with zero geofencing.\n\n2. Extreme weather (e.g., snow) is a must-have for personal unsupervised FSD but not necessarily a hard requirement for commercial Robotaxi. If the weather is bad, Robotaxi service can simply be “unavailable,” but your personal FSD (unsupervised) should still be able to take you to work.\n\n3. Personal unsupervised FSD could be used at any time, including 1 AM to 6 AM, and you cannot expect Tesla to deploy a large team of remote operators to monitor millions of vehicles during those hours.\n\nAs a result, you cannot assume the operating environment will always be well tested, nor can you guarantee it will only run in good weather, during business hours, or on well-mapped routes. \n\nBy definition, this is Level 5, not Level 4, because it must maintain safety and reasonable efficiency at all times, in all weather, and everywhere. Therefore, while I have high expectations for large-scale commercial Robotaxi to operate soon (possibly this year), I do not have high expectations for FSD unsupervised to be deployed at scale this year.",
+      "link": "https://nitter.net/raines1220/status/2014365743496720723#m",
+      "date": "Thu, 22 Jan 2026 15:53:13 GMT"
+    },
+    {
+      "text": "Believe it or not, @CyberCatX made this happen. Tesla and Lemonade are working together because of him. During shareholder meeting, he talked nonstop for five minutes to convince Elon to consider this possibility, and now it has become a reality. This story should be written down in our history books.",
+      "link": "https://nitter.net/raines1220/status/2014158168192860644#m",
+      "date": "Thu, 22 Jan 2026 02:08:23 GMT"
+    }
+  ]
+}
