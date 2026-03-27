@@ -2,8 +2,9 @@
 """
 GitHub Actions 运行脚本。
 方法优先级:
-  1. Twitter Guest API (直连 Twitter，GitHub Actions 服务器在境外，可直接访问)
-  2. Nitter RSS (动态测试实例列表)
+  1. Twitter Syndication API (timeline embed，无需认证，最稳定)
+  2. Twitter Guest API (GraphQL，需 guest token)
+  3. Nitter RSS (动态测试实例列表)
 读取 config.json 中配置的用户列表，结果保存到 data/{username}.json。
 """
 
@@ -42,7 +43,7 @@ NITTER_INSTANCES = [
 
 COUNT = 20
 HEADERS_COMMON = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) Chrome/122.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
 
 
@@ -71,7 +72,106 @@ def strip_html(text):
     return re.sub(r"<[^>]+>", "", text).strip()
 
 
-# ── Method 1: Twitter Guest API ───────────────────────────────────────────────
+# ── Method 1: Twitter Syndication API ─────────────────────────────────────────
+# 这是 Twitter 官方 embed timeline 使用的 API，无需认证，对高流量账号也有效
+
+def fetch_via_syndication(username):
+    """通过 syndication.twitter.com 获取用户时间线（无需认证）。"""
+    print(f"  [Method 1] Twitter Syndication API...")
+    url = (
+        f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
+        f"?count={COUNT}&showReplies=false"
+    )
+    headers = {
+        **HEADERS_COMMON,
+        "Referer": f"https://twitter.com/{username}",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "en-US,en;q=0.9",
+        "x-requested-with": "XMLHttpRequest",
+    }
+    content = fetch(url, headers=headers, timeout=20)
+    if not content:
+        return None
+
+    # 响应可能是 JSON 或包含 JSON 的 HTML
+    # 尝试直接解析
+    try:
+        data = json.loads(content)
+        tweets = _parse_syndication_data(data, username)
+        if tweets:
+            print(f"    Got {len(tweets)} tweets via Syndication API")
+            return tweets
+    except json.JSONDecodeError:
+        pass
+
+    # 尝试从 HTML 中提取 JSON
+    match = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
+    if match:
+        try:
+            data = json.loads(match.group(1))
+            tweets = _parse_next_data(data, username)
+            if tweets:
+                print(f"    Got {len(tweets)} tweets via Syndication (NEXT_DATA)")
+                return tweets
+        except (json.JSONDecodeError, KeyError):
+            pass
+
+    print("    Syndication API returned no usable data")
+    return None
+
+
+def _parse_syndication_data(data, username):
+    """解析 syndication API 的 JSON 响应。"""
+    tweets = []
+    try:
+        # 格式1: {"timeline": {"entries": [...]}}
+        entries = data.get("timeline", {}).get("entries", [])
+        for entry in entries:
+            tweet = entry.get("tweet") or entry.get("content", {}).get("tweet", {})
+            if not tweet:
+                continue
+            text = tweet.get("full_text") or tweet.get("text", "")
+            tweet_id = tweet.get("id_str") or tweet.get("id", "")
+            created_at = tweet.get("created_at", "")
+            if text and tweet_id:
+                tweets.append({
+                    "text": text,
+                    "link": f"https://x.com/{username}/status/{tweet_id}",
+                    "date": created_at,
+                    "tweet_id": str(tweet_id),
+                })
+    except (KeyError, TypeError, AttributeError):
+        pass
+    return tweets
+
+
+def _parse_next_data(data, username):
+    """解析 __NEXT_DATA__ 中的推文数据。"""
+    tweets = []
+    try:
+        # 深度搜索 tweets 数组
+        props = data.get("props", {})
+        page_props = props.get("pageProps", {})
+        timeline = page_props.get("timeline", {})
+        entries = timeline.get("entries", [])
+        for entry in entries:
+            tweet = entry.get("tweet", {})
+            text = tweet.get("full_text") or tweet.get("text", "")
+            tweet_id = tweet.get("id_str") or tweet.get("id", "")
+            created_at = tweet.get("created_at", "")
+            if text and tweet_id:
+                tweets.append({
+                    "text": text,
+                    "link": f"https://x.com/{username}/status/{tweet_id}",
+                    "date": created_at,
+                    "tweet_id": str(tweet_id),
+                })
+    except (KeyError, TypeError, AttributeError):
+        pass
+    return tweets
+
+
+# ── Method 2: Twitter Guest API ───────────────────────────────────────────────
 
 def get_guest_token():
     data = fetch_json(
@@ -154,7 +254,7 @@ def parse_tweet_results(data):
 
 
 def fetch_via_guest_api(username):
-    print(f"  [Method 1] Twitter Guest API...")
+    print(f"  [Method 2] Twitter Guest API...")
     guest_token = get_guest_token()
     if not guest_token:
         print("    Could not get guest token")
@@ -222,7 +322,7 @@ def fetch_via_guest_api(username):
     return None
 
 
-# ── Method 2: Nitter RSS ───────────────────────────────────────────────────────
+# ── Method 3: Nitter RSS ───────────────────────────────────────────────────────
 
 def parse_rss(content):
     try:
@@ -247,7 +347,7 @@ def parse_rss(content):
 
 
 def fetch_via_nitter(username):
-    print(f"  [Method 2] Nitter RSS...")
+    print(f"  [Method 3] Nitter RSS...")
     for instance in NITTER_INSTANCES:
         print(f"    Trying {instance}")
         content = fetch(f"{instance}/{username}/rss", timeout=15)
@@ -263,14 +363,25 @@ def fetch_via_nitter(username):
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def fetch_tweets(username):
+    # 方法1: Syndication API（最稳定，对高流量账号也有效）
+    tweets = fetch_via_syndication(username)
+    if tweets:
+        return tweets
+
+    # 方法2: Guest API
     tweets = fetch_via_guest_api(username)
-    if not tweets:
-        tweets = fetch_via_nitter(username)
-    # 如果还是失败，再重试一次（针对高流量账号如 elonmusk 可能偶发限速）
-    if not tweets:
-        print("  Retrying after 5s...")
-        time.sleep(5)
-        tweets = fetch_via_nitter(username)
+    if tweets:
+        return tweets
+
+    # 方法3: Nitter RSS
+    tweets = fetch_via_nitter(username)
+    if tweets:
+        return tweets
+
+    # 最后重试 Syndication（等待后再试一次）
+    print("  Retrying Syndication after 5s...")
+    time.sleep(5)
+    tweets = fetch_via_syndication(username)
     return tweets
 
 
