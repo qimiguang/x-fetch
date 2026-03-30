@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-03-30T19:07:48Z",
+  "updated_at": "2026-03-30T21:49:37Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "X after pushing Japanese posts",
+      "link": "https://nitter.net/dogeofficialceo/status/2038679168402309387#m",
+      "date": "Mon, 30 Mar 2026 18:06:05 GMT"
+    },
     {
       "text": "BREAKING: Grokipedia begins outranking Wikipedia for certain Google search results.",
       "link": "https://nitter.net/Polymarket/status/2038654599888764952#m",
@@ -97,11 +102,6 @@
       "text": "Video",
       "link": "https://nitter.net/elonmusk/status/2038531319496667561#m",
       "date": "Mon, 30 Mar 2026 08:18:35 GMT"
-    },
-    {
-      "text": "Try Grok Imagine\n\n\nDéborah (@dvorahfr)\n\n50 seconds entirely created using Grok Imagine's tools.\nGrok can create scenes that could be featured in a film.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2038194408714019117#m",
-      "link": "https://nitter.net/elonmusk/status/2038530285743260155#m",
-      "date": "Mon, 30 Mar 2026 08:14:28 GMT"
     }
   ]
 }
