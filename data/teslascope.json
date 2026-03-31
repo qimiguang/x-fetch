@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-03-31T10:09:26Z",
+  "updated_at": "2026-03-31T13:46:00Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.2.100 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2038953215723475007#m",
+      "date": "Tue, 31 Mar 2026 12:15:03 GMT"
+    },
     {
       "text": "Tesla has issued an official statement to vehicle owners in South Korea regarding recent unauthorized devices that enable Full Self-Driving in the region.\n\nTesla reiterates that the use of such devices means you are entirely liable (in every respect) for any incident that occurs due to the device. This closely matches the expectations in regions where Full Self-Driving (Supervised) is available, such as North America and Australia.\n\nThe company has also mentioned that, in the region, the usage of these devices may violate local law and that usage is at your own risk.\n\nAs with other modifications and devices over the years (across all regions), Tesla has also noted that it reserves the right to refuse warranty repairs, regardless of whether these devices cause the damage.\n\nThese devices have been used in many other countries outside South Korea. However, we’ve not been made aware of any emails or other communications from the company at this time.\n\n\nTsla Chan (@Tslachan)\n\n$TSLA 🇰🇷\nTesla Korea has informed you by email about the recent issue of unauthorized device use and software(FSD) changes.\n\n\n\n\n\n— https://nitter.net/Tslachan/status/2038858003500478796#m",
       "link": "https://nitter.net/teslascope/status/2038911944258994603#m",
@@ -97,11 +102,6 @@
       "text": "Tesla software update 2026.8.3 rolling out to more vehicles @teslascope",
       "link": "https://nitter.net/RealTeslaNorth/status/2035113501744930907#m",
       "date": "Fri, 20 Mar 2026 21:57:24 GMT"
-    },
-    {
-      "text": "A handful of improvements are coming soon to the Tesla mobile app, including a new feedback system (for reporting anything from general feedback to severe bugs with the vehicle’s software).\n\nThis appears to replace the recently deprecated feedback portal on Tesla’s website.\n\n\nTesla App Updates (iOS) (@Tesla_App_iOS)\n\nVersion 4.55.0 has been de-compiled and its got lots of quality of life improvements! (nitter.net/Tesla_App_iOS/status/2…)\n\n⚡ Energy Updates: Dedicated release notes for your Powerwall and smart breaker diagnostics. \n\n🐛 Native Feedback: A new bug reporting system\n\n🛡️ Insurance: Native photo estimates and complete total loss handling. \n\n🛠️ Service: Step by step collision repair tracking and insurance review status.\n\nHave a great weekend everyone ☀️\n\n\n\n— https://nitter.net/Tesla_App_iOS/status/2035024961094418579#m",
-      "link": "https://nitter.net/teslascope/status/2035037945481269626#m",
-      "date": "Fri, 20 Mar 2026 16:57:10 GMT"
     }
   ]
 }
