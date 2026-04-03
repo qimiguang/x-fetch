@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-03T13:15:58Z",
+  "updated_at": "2026-04-03T15:43:42Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "4.22财报我们看看FSD的订阅率\n下周我们感受一下14.3",
+      "link": "https://nitter.net/Tsla99T/status/2040056795100487971#m",
+      "date": "Fri, 03 Apr 2026 13:20:17 GMT"
+    },
     {
       "text": "SpaceX都2T了，TSLA还好意思回到200+吗？",
       "link": "https://nitter.net/Tsla99T/status/2039866290555269157#m",
@@ -97,11 +102,6 @@
       "text": "今天干了几个信息检索的活儿，Grok 完胜 Gemini",
       "link": "https://nitter.net/Tsla99T/status/2038756349333459222#m",
       "date": "Mon, 30 Mar 2026 23:12:46 GMT"
-    },
-    {
-      "text": "找了一个健身教练$135一小时，顿时觉得 $80 一小时的网球教练不贵了",
-      "link": "https://nitter.net/Tsla99T/status/2038736776844456198#m",
-      "date": "Mon, 30 Mar 2026 21:55:00 GMT"
     }
   ]
 }

@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-03T13:15:31Z",
+  "updated_at": "2026-04-03T15:43:06Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2025.38.13 on a Tesla vehicle (2014). View the rollout of this update here: teslascope.com/software/2025…",
+      "link": "https://nitter.net/teslascope/status/2040064556127449167#m",
+      "date": "Fri, 03 Apr 2026 13:51:07 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.8.6 on Model 3 AWD LR (2020) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2039588575893700873#m",
@@ -97,11 +102,6 @@
       "text": "Just minor fixes in this one! (@BLKMDL3 best us to the post. 🙌)\n\nWorking on using X’s new APIs to automatically reply to our update posts when release notes are processed.",
       "link": "https://nitter.net/teslascope/status/2035618102214611161#m",
       "date": "Sun, 22 Mar 2026 07:22:30 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.2.9.3 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2035617011242283358#m",
-      "date": "Sun, 22 Mar 2026 07:18:10 GMT"
     }
   ]
 }
