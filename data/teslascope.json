@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-04T02:40:31Z",
+  "updated_at": "2026-04-04T04:55:42Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Exclusive: Tesla has included strings in its Robotaxi User Agent, which can be used to track updates to its underlying infotainment software builds.\n\nMost recently, the build was: feature-robotaxi-2-71-5c2280d61e\n\nDays prior, the string was: feature-robotaxi-1-L4-40-7e197188b4",
+      "link": "https://nitter.net/teslascope/status/2040282076432441748#m",
+      "date": "Sat, 04 Apr 2026 04:15:28 GMT"
+    },
     {
       "text": "Our service will automatically publish a post on X once any new software update is detected across tens of thousands of vehicles. This includes automatically parsing release notes.\n\nWe remain eager and excited for the much-anticipated Full Self-Driving V14.3 release.",
       "link": "https://nitter.net/teslascope/status/2040254948714443020#m",
@@ -97,11 +102,6 @@
       "text": "You can check out our Full Self-Driving leaderboard on our platform and participate for free (no premium subscription required whatsoever)!\n\nteslascope.com/leaderboards/…\n\nJust sign up, add a virtual key in under a minute, and set your vehicle as public under Vehicle Settings. ✅",
       "link": "https://nitter.net/teslascope/status/2036595656190775570#m",
       "date": "Wed, 25 Mar 2026 00:06:57 GMT"
-    },
-    {
-      "text": "We're proud to be the first Tesla third-party app to support EU-based vehicle tracking for Full Self-Driving (Supervised)!\n\nIn April, we'll be overhauling our leaderboards to include the vehicle's country flag and current FSD version.\n\n\nMichał Gapiński (@mikegapinski)\n\nSomeone had to do it and I am very glad to be the first EU Tesla owner to participate in the @teslascope FSD leaderboard!\n\nI'll get that percentage up soon!\n\n\n\n\n\n— https://nitter.net/mikegapinski/status/2036593916430925967#m",
-      "link": "https://nitter.net/teslascope/status/2036595017737961801#m",
-      "date": "Wed, 25 Mar 2026 00:04:24 GMT"
     }
   ]
 }
