@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-04T09:44:52Z",
-  "count": 20,
+  "updated_at": "2026-04-04T15:37:49Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "A specific build, 2026.2.9.5, was spotted on another third-party service. However, the circumstances of its appearance are questionable.\n\nWhile this might be a real release, there is no evidence at this time that it includes Full Self-Driving V14.3.\n\nWe remain vigilant.",
+      "link": "https://nitter.net/teslascope/status/2040254945828680150#m",
+      "date": "Sat, 04 Apr 2026 02:27:39 GMT"
+    },
     {
       "text": "We've confirmed that this update does not include Full Self-Driving V14.3.\n\nWe'll be keeping an eye out for the first software update to include V14.3 this weekend and throughout next week.",
       "link": "https://nitter.net/teslascope/status/2040317259479150608#m",
@@ -14,19 +19,14 @@
       "date": "Sat, 04 Apr 2026 04:15:28 GMT"
     },
     {
-      "text": "Our service will automatically publish a post on X once any new software update is detected across tens of thousands of vehicles. This includes automatically parsing release notes.\n\nWe remain eager and excited for the much-anticipated Full Self-Driving V14.3 release.",
-      "link": "https://nitter.net/teslascope/status/2040254948714443020#m",
-      "date": "Sat, 04 Apr 2026 02:27:40 GMT"
-    },
-    {
       "text": "Unlike other software releases on the specific third-party app, this update never parsed release notes and shows zero vehicles.\n\nThis implies that the version was either manually added to the service or the update was pulled from the vehicle before it had a chance to install it.",
       "link": "https://nitter.net/teslascope/status/2040254947149910515#m",
       "date": "Sat, 04 Apr 2026 02:27:40 GMT"
     },
     {
-      "text": "A specific build, 2026.2.9.5, was spotted on another third-party service. However, the circumstances of its appearance are questionable.\n\nWhile this might be a real release, there is no evidence at this time that it includes Full Self-Driving V14.3.\n\nWe remain vigilant.",
-      "link": "https://nitter.net/teslascope/status/2040254945828680150#m",
-      "date": "Sat, 04 Apr 2026 02:27:39 GMT"
+      "text": "Our service will automatically publish a post on X once any new software update is detected across tens of thousands of vehicles. This includes automatically parsing release notes.\n\nWe remain eager and excited for the much-anticipated Full Self-Driving V14.3 release.",
+      "link": "https://nitter.net/teslascope/status/2040254948714443020#m",
+      "date": "Sat, 04 Apr 2026 02:27:40 GMT"
     },
     {
       "text": "We noticed a new Tesla software update 2025.38.13 on a Tesla vehicle (2014). View the rollout of this update here: teslascope.com/software/2025…",
@@ -39,14 +39,14 @@
       "date": "Thu, 02 Apr 2026 06:19:44 GMT"
     },
     {
-      "text": "Couldn't tag you in the screenshot @Scobleizer, but thought you'd enjoy this 😉",
-      "link": "https://nitter.net/teslascope/status/2039440880143355957#m",
-      "date": "Wed, 01 Apr 2026 20:32:51 GMT"
-    },
-    {
       "text": "We're pleased to announce our newest feature: AI-powered recommendations based on your listening habits in your Tesla!\n\nWe've trained an AI model that accurately determines whether you'd be most interested in concert tickets, merch, or therapy.\n\nTentatively launching April 31st.",
       "link": "https://nitter.net/teslascope/status/2039436691031957720#m",
       "date": "Wed, 01 Apr 2026 20:16:12 GMT"
+    },
+    {
+      "text": "Couldn't tag you in the screenshot @Scobleizer, but thought you'd enjoy this 😉",
+      "link": "https://nitter.net/teslascope/status/2039440880143355957#m",
+      "date": "Wed, 01 Apr 2026 20:32:51 GMT"
     },
     {
       "text": "We noticed a new Tesla software update 2026.2.100 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
@@ -64,29 +64,14 @@
       "date": "Sat, 28 Mar 2026 14:35:00 GMT"
     },
     {
-      "text": "Didn't get a good picture of the food this time but had a Giga Burger with Wagyu Chili and Fries. It was even better than around the opening.\n\nMy wife and I devoured it. ☺️🍔",
-      "link": "https://nitter.net/teslascope/status/2038118070917693459#m",
-      "date": "Sun, 29 Mar 2026 04:56:29 GMT"
-    },
-    {
       "text": "Always enjoy stopping at the @Tesla Diner.\n\nAlmost every charger (including the larger lot) was taken, but managed to get a table with friends inside.",
       "link": "https://nitter.net/teslascope/status/2038116891890479235#m",
       "date": "Sun, 29 Mar 2026 04:51:48 GMT"
     },
     {
-      "text": "We applaud @Tesla's transparency about these issues and for giving developers a heads-up to prepare for this upcoming update.\n\nAs we stated throughout the thread, while these are technically labeled as security issues, no Tesla or third-party customer information is at risk.",
-      "link": "https://nitter.net/teslascope/status/2037324887958979035#m",
-      "date": "Fri, 27 Mar 2026 00:24:39 GMT"
-    },
-    {
-      "text": "The second issue allows for a thread actor to determine usage and performance (in other words, loosely how many vehicles you're processing on a node).\n\nTeslaScope's Fleet Telemetry server infrastructure is configured not to use these parameters, so we're not impacted by this.",
-      "link": "https://nitter.net/teslascope/status/2037324886092529852#m",
-      "date": "Fri, 27 Mar 2026 00:24:39 GMT"
-    },
-    {
-      "text": "The first issue, which impacts all third-party services, allows a threat actor to impersonate other vehicles.\n\nIt's important to note that Fleet Telemetry is READ ONLY, so this can not result in any breach of vehicle information or user data.\n\nReal-world impact is someone sending garbage or false data to our servers, which our systems already largely detect as outliers. We've not detected any instances of this security issue on our infrastructure.",
-      "link": "https://nitter.net/teslascope/status/2037324883986891050#m",
-      "date": "Fri, 27 Mar 2026 00:24:38 GMT"
+      "text": "Didn't get a good picture of the food this time but had a Giga Burger with Wagyu Chili and Fries. It was even better than around the opening.\n\nMy wife and I devoured it. ☺️🍔",
+      "link": "https://nitter.net/teslascope/status/2038118070917693459#m",
+      "date": "Sun, 29 Mar 2026 04:56:29 GMT"
     },
     {
       "text": "Tesla has sent an email to all developers about two upcoming security fixes for Fleet Telemetry servers, which will be released on March 30th.\n\nBoth are low- and medium-severity; in particular, only one affects Teslascope, and we'll patch it immediately once available.",
@@ -94,14 +79,24 @@
       "date": "Fri, 27 Mar 2026 00:24:38 GMT"
     },
     {
-      "text": "We already know that @tesla_semi  is headed to high-volume production this year.\n\nThe new Roadster is set to be showcased in less than a month.\n\nSo could this be a whole new model? What are your thoughts?",
-      "link": "https://nitter.net/teslascope/status/2036675577437118665#m",
-      "date": "Wed, 25 Mar 2026 05:24:31 GMT"
+      "text": "The second issue allows for a thread actor to determine usage and performance (in other words, loosely how many vehicles you're processing on a node).\n\nTeslaScope's Fleet Telemetry server infrastructure is configured not to use these parameters, so we're not impacted by this.",
+      "link": "https://nitter.net/teslascope/status/2037324886092529852#m",
+      "date": "Fri, 27 Mar 2026 00:24:39 GMT"
+    },
+    {
+      "text": "We applaud @Tesla's transparency about these issues and for giving developers a heads-up to prepare for this upcoming update.\n\nAs we stated throughout the thread, while these are technically labeled as security issues, no Tesla or third-party customer information is at risk.",
+      "link": "https://nitter.net/teslascope/status/2037324887958979035#m",
+      "date": "Fri, 27 Mar 2026 00:24:39 GMT"
     },
     {
       "text": "A new Tesla vehicle has been teased!\n\n\nElon Musk (@elonmusk)\n\nSomething way cooler than a minivan is coming\n\n\n\n— https://nitter.net/elonmusk/status/2036673380582400198#m",
       "link": "https://nitter.net/teslascope/status/2036675129133207997#m",
       "date": "Wed, 25 Mar 2026 05:22:45 GMT"
+    },
+    {
+      "text": "We already know that @tesla_semi  is headed to high-volume production this year.\n\nThe new Roadster is set to be showcased in less than a month.\n\nSo could this be a whole new model? What are your thoughts?",
+      "link": "https://nitter.net/teslascope/status/2036675577437118665#m",
+      "date": "Wed, 25 Mar 2026 05:24:31 GMT"
     }
   ]
 }
