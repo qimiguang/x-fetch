@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-04T04:55:42Z",
+  "updated_at": "2026-04-04T07:08:44Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We've confirmed that this update does not include Full Self-Driving V14.3.\n\nWe'll be keeping an eye out for the first software update to include V14.3 this weekend and throughout next week.",
+      "link": "https://nitter.net/teslascope/status/2040317259479150608#m",
+      "date": "Sat, 04 Apr 2026 06:35:16 GMT"
+    },
     {
       "text": "Exclusive: Tesla has included strings in its Robotaxi User Agent, which can be used to track updates to its underlying infotainment software builds.\n\nMost recently, the build was: feature-robotaxi-2-71-5c2280d61e\n\nDays prior, the string was: feature-robotaxi-1-L4-40-7e197188b4",
       "link": "https://nitter.net/teslascope/status/2040282076432441748#m",
@@ -97,11 +102,6 @@
       "text": "A new Tesla vehicle has been teased!\n\n\nElon Musk (@elonmusk)\n\nSomething way cooler than a minivan is coming\n\n\n\n— https://nitter.net/elonmusk/status/2036673380582400198#m",
       "link": "https://nitter.net/teslascope/status/2036675129133207997#m",
       "date": "Wed, 25 Mar 2026 05:22:45 GMT"
-    },
-    {
-      "text": "You can check out our Full Self-Driving leaderboard on our platform and participate for free (no premium subscription required whatsoever)!\n\nteslascope.com/leaderboards/…\n\nJust sign up, add a virtual key in under a minute, and set your vehicle as public under Vehicle Settings. ✅",
-      "link": "https://nitter.net/teslascope/status/2036595656190775570#m",
-      "date": "Wed, 25 Mar 2026 00:06:57 GMT"
     }
   ]
 }
