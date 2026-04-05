@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-05T03:16:08Z",
+  "updated_at": "2026-04-05T07:15:17Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Here's the job listing, as kindly shared by @99_Colorado!\n\nnitter.net/99_Colorado/status/204…\n\n\n🎀 Diana 🎀 (@99_Colorado)\n\nSo it appears that there is a Robotaxi in Aurora, CO that came up from Texas. This tracks, as we noticed a week ago Tesla was advertising positions for RoboTaxi monitors in Aurora.  @Man_Cave_Mike @kneubuehl @Te5laLi5a @LandonoftheWest @DenverTeslaClub\n\n\n\n\n\n— https://nitter.net/99_Colorado/status/2040674059692953915#m",
+      "link": "https://nitter.net/teslascope/status/2040676096837083627#m",
+      "date": "Sun, 05 Apr 2026 06:21:10 GMT"
+    },
+    {
+      "text": "Robotaxi is showing up in more locations, now in Aurora, Colorado!\n\nTesla was recently hiring for Robotaxi roles in the region, so this appears to be the first spotting since those job listings.\n\n\nHW3 FSD (@HW3TSLA)\n\n@teslascope @SawyerMerritt @wholemars Robotaxi config Model Y seen in Colorado (with TX manufacturer plates!!)\n\nVideo\n  \n\n\n\n\n\n\n\n\n\n— https://nitter.net/HW3TSLA/status/2040666885877047394#m",
+      "link": "https://nitter.net/teslascope/status/2040671644516253988#m",
+      "date": "Sun, 05 Apr 2026 06:03:28 GMT"
+    },
     {
       "text": "If a rollout actually occurs we'll report on it! 🫡",
       "link": "https://nitter.net/teslascope/status/2040476634105680160#m",
@@ -92,16 +102,6 @@
       "text": "The second issue allows for a thread actor to determine usage and performance (in other words, loosely how many vehicles you're processing on a node).\n\nTeslaScope's Fleet Telemetry server infrastructure is configured not to use these parameters, so we're not impacted by this.",
       "link": "https://nitter.net/teslascope/status/2037324886092529852#m",
       "date": "Fri, 27 Mar 2026 00:24:39 GMT"
-    },
-    {
-      "text": "The first issue, which impacts all third-party services, allows a threat actor to impersonate other vehicles.\n\nIt's important to note that Fleet Telemetry is READ ONLY, so this can not result in any breach of vehicle information or user data.\n\nReal-world impact is someone sending garbage or false data to our servers, which our systems already largely detect as outliers. We've not detected any instances of this security issue on our infrastructure.",
-      "link": "https://nitter.net/teslascope/status/2037324883986891050#m",
-      "date": "Fri, 27 Mar 2026 00:24:38 GMT"
-    },
-    {
-      "text": "Tesla has sent an email to all developers about two upcoming security fixes for Fleet Telemetry servers, which will be released on March 30th.\n\nBoth are low- and medium-severity; in particular, only one affects Teslascope, and we'll patch it immediately once available.",
-      "link": "https://nitter.net/teslascope/status/2037324881336103364#m",
-      "date": "Fri, 27 Mar 2026 00:24:38 GMT"
     }
   ]
 }
