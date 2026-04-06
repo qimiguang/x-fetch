@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-06T15:54:32Z",
-  "count": 20,
+  "updated_at": "2026-04-06T19:10:05Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Tonight, we've released several improvements to our @Tesla software-focused features based on community feedback.\n\nFirstly, our software announcement posts now specify if an update is a factory update! 🚘\n\nNext, release notes will instantly appear as replies on our update posts.",
+      "link": "https://nitter.net/teslascope/status/2041063338848006404#m",
+      "date": "Mon, 06 Apr 2026 07:59:55 GMT"
+    },
     {
       "text": "Your feedback matters a bunch to us, so always let us know if we can improve.\n\nAdditional improvements are underway this week.",
       "link": "https://nitter.net/teslascope/status/2041067997134266375#m",
@@ -12,11 +17,6 @@
       "text": "In addition to the aforementioned changes, the following minor changes have been applied:\n\n– A pie chart of update distribution has been added to our Software home page (shown above)\n\n– FSD version is now extracted automatically from release notes and displayed on the platform.\n\n– Software update pages now display distribution across countries in percentage instead of total count.\n\nRead more on our blog post:\nteslascope.com/blog/6.2.4\n\n(Additional changes applied today will appear within the same blog post.)",
       "link": "https://nitter.net/teslascope/status/2041063341032952297#m",
       "date": "Mon, 06 Apr 2026 07:59:56 GMT"
-    },
-    {
-      "text": "Tonight, we've released several improvements to our @Tesla software-focused features based on community feedback.\n\nFirstly, our software announcement posts now specify if an update is a factory update! 🚘\n\nNext, release notes will instantly appear as replies on our update posts.",
-      "link": "https://nitter.net/teslascope/status/2041063338848006404#m",
-      "date": "Mon, 06 Apr 2026 07:59:55 GMT"
     },
     {
       "text": "The third and largest wave of Tesla software update 2026.8.6 is now going out to the global fleet.\n\nThis wave includes HW3 and AI4 vehicles.\n\nteslascope.com/software/2026…\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.8.6 on Model 3 AWD LR (2020) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2039588575893700873#m",
@@ -97,11 +97,6 @@
       "text": "We're pleased to announce our newest feature: AI-powered recommendations based on your listening habits in your Tesla!\n\nWe've trained an AI model that accurately determines whether you'd be most interested in concert tickets, merch, or therapy.\n\nTentatively launching April 31st.",
       "link": "https://nitter.net/teslascope/status/2039436691031957720#m",
       "date": "Wed, 01 Apr 2026 20:16:12 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.2.100 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2038953215723475007#m",
-      "date": "Tue, 31 Mar 2026 12:15:03 GMT"
     }
   ]
 }
