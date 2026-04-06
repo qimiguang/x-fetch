@@ -1,12 +1,12 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-06T10:14:11Z",
+  "updated_at": "2026-04-06T13:22:30Z",
   "count": 20,
   "tweets": [
     {
-      "text": "Tonight, we've released several improvements to our @Tesla software-focused features based on community feedback.\n\nFirstly, our software announcement posts now specify if an update is a factory update! 🚘\n\nNext, release notes will instantly appear as replies on our update posts.",
-      "link": "https://nitter.net/teslascope/status/2041063338848006404#m",
-      "date": "Mon, 06 Apr 2026 07:59:55 GMT"
+      "text": "Your feedback matters a bunch to us, so always let us know if we can improve.\n\nAdditional improvements are underway this week.",
+      "link": "https://nitter.net/teslascope/status/2041067997134266375#m",
+      "date": "Mon, 06 Apr 2026 08:18:26 GMT"
     },
     {
       "text": "In addition to the aforementioned changes, the following minor changes have been applied:\n\n– A pie chart of update distribution has been added to our Software home page (shown above)\n\n– FSD version is now extracted automatically from release notes and displayed on the platform.\n\n– Software update pages now display distribution across countries in percentage instead of total count.\n\nRead more on our blog post:\nteslascope.com/blog/6.2.4\n\n(Additional changes applied today will appear within the same blog post.)",
@@ -14,9 +14,9 @@
       "date": "Mon, 06 Apr 2026 07:59:56 GMT"
     },
     {
-      "text": "Your feedback matters a bunch to us, so always let us know if we can improve.\n\nAdditional improvements are underway this week.",
-      "link": "https://nitter.net/teslascope/status/2041067997134266375#m",
-      "date": "Mon, 06 Apr 2026 08:18:26 GMT"
+      "text": "Tonight, we've released several improvements to our @Tesla software-focused features based on community feedback.\n\nFirstly, our software announcement posts now specify if an update is a factory update! 🚘\n\nNext, release notes will instantly appear as replies on our update posts.",
+      "link": "https://nitter.net/teslascope/status/2041063338848006404#m",
+      "date": "Mon, 06 Apr 2026 07:59:55 GMT"
     },
     {
       "text": "The third and largest wave of Tesla software update 2026.8.6 is now going out to the global fleet.\n\nThis wave includes HW3 and AI4 vehicles.\n\nteslascope.com/software/2026…\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.8.6 on Model 3 AWD LR (2020) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2039588575893700873#m",
@@ -24,19 +24,14 @@
       "date": "Mon, 06 Apr 2026 05:27:42 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.2.200.1 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2040769204295532742#m",
-      "date": "Sun, 05 Apr 2026 12:31:08 GMT"
-    },
-    {
       "text": "We'll be updating our software detection system to determine whether an update is a factory update and mention this within future posts.",
       "link": "https://nitter.net/teslascope/status/2040843404217921786#m",
       "date": "Sun, 05 Apr 2026 17:25:59 GMT"
     },
     {
-      "text": "Robotaxi is showing up in more locations, now in Aurora, Colorado!\n\nTesla was recently hiring for Robotaxi roles in the region, so this appears to be the first spotting since those job listings.\n\n\nHW3 FSD (@HW3TSLA)\n\n@teslascope @SawyerMerritt @wholemars Robotaxi config Model Y seen in Colorado (with TX manufacturer plates!!)\n\nVideo\n  \n\n\n\n\n\n\n\n\n\n— https://nitter.net/HW3TSLA/status/2040666885877047394#m",
-      "link": "https://nitter.net/teslascope/status/2040671644516253988#m",
-      "date": "Sun, 05 Apr 2026 06:03:28 GMT"
+      "text": "We noticed a new Tesla software update 2026.2.200.1 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2040769204295532742#m",
+      "date": "Sun, 05 Apr 2026 12:31:08 GMT"
     },
     {
       "text": "Here's the job listing, as kindly shared by @99_Colorado!\n\nnitter.net/99_Colorado/status/204…\n\n\n🎀 Diana 🎀 (@99_Colorado)\n\nSo it appears that there is a Robotaxi in Aurora, CO that came up from Texas. This tracks, as we noticed a week ago Tesla was advertising positions for RoboTaxi monitors in Aurora.  @Man_Cave_Mike @kneubuehl @Te5laLi5a @LandonoftheWest @DenverTeslaClub\n\n\n\n\n\n— https://nitter.net/99_Colorado/status/2040674059692953915#m",
@@ -44,9 +39,9 @@
       "date": "Sun, 05 Apr 2026 06:21:10 GMT"
     },
     {
-      "text": "Despite many accounts reporting otherwise, this update has NOT begun rolling out to Tesla customer-owned vehicles.\n\nA single vehicle was detected, and no further rollout has occurred. No Early Access Program participant nor \"OG\" tester has received this specific build.\n\n\nTeslascope (@teslascope)\n\nA specific build, 2026.2.9.5, was spotted on another third-party service. However, the circumstances of its appearance are questionable.\n\nWhile this might be a real release, there is no evidence at this time that it includes Full Self-Driving V14.3.\n\nWe remain vigilant.\n\n\n\n— https://nitter.net/teslascope/status/2040254945828680150#m",
-      "link": "https://nitter.net/teslascope/status/2040476629391347897#m",
-      "date": "Sat, 04 Apr 2026 17:08:33 GMT"
+      "text": "Robotaxi is showing up in more locations, now in Aurora, Colorado!\n\nTesla was recently hiring for Robotaxi roles in the region, so this appears to be the first spotting since those job listings.\n\n\nHW3 FSD (@HW3TSLA)\n\n@teslascope @SawyerMerritt @wholemars Robotaxi config Model Y seen in Colorado (with TX manufacturer plates!!)\n\nVideo\n  \n\n\n\n\n\n\n\n\n\n— https://nitter.net/HW3TSLA/status/2040666885877047394#m",
+      "link": "https://nitter.net/teslascope/status/2040671644516253988#m",
+      "date": "Sun, 05 Apr 2026 06:03:28 GMT"
     },
     {
       "text": "If a rollout actually occurs we'll report on it! 🫡",
@@ -54,9 +49,9 @@
       "date": "Sat, 04 Apr 2026 17:08:34 GMT"
     },
     {
-      "text": "A specific build, 2026.2.9.5, was spotted on another third-party service. However, the circumstances of its appearance are questionable.\n\nWhile this might be a real release, there is no evidence at this time that it includes Full Self-Driving V14.3.\n\nWe remain vigilant.",
-      "link": "https://nitter.net/teslascope/status/2040254945828680150#m",
-      "date": "Sat, 04 Apr 2026 02:27:39 GMT"
+      "text": "Despite many accounts reporting otherwise, this update has NOT begun rolling out to Tesla customer-owned vehicles.\n\nA single vehicle was detected, and no further rollout has occurred. No Early Access Program participant nor \"OG\" tester has received this specific build.\n\n\nTeslascope (@teslascope)\n\nA specific build, 2026.2.9.5, was spotted on another third-party service. However, the circumstances of its appearance are questionable.\n\nWhile this might be a real release, there is no evidence at this time that it includes Full Self-Driving V14.3.\n\nWe remain vigilant.\n\n\n\n— https://nitter.net/teslascope/status/2040254945828680150#m",
+      "link": "https://nitter.net/teslascope/status/2040476629391347897#m",
+      "date": "Sat, 04 Apr 2026 17:08:33 GMT"
     },
     {
       "text": "We've confirmed that this update does not include Full Self-Driving V14.3.\n\nWe'll be keeping an eye out for the first software update to include V14.3 this weekend and throughout next week.",
@@ -69,14 +64,19 @@
       "date": "Sat, 04 Apr 2026 04:15:28 GMT"
     },
     {
+      "text": "Our service will automatically publish a post on X once any new software update is detected across tens of thousands of vehicles. This includes automatically parsing release notes.\n\nWe remain eager and excited for the much-anticipated Full Self-Driving V14.3 release.",
+      "link": "https://nitter.net/teslascope/status/2040254948714443020#m",
+      "date": "Sat, 04 Apr 2026 02:27:40 GMT"
+    },
+    {
       "text": "Unlike other software releases on the specific third-party app, this update never parsed release notes and shows zero vehicles.\n\nThis implies that the version was either manually added to the service or the update was pulled from the vehicle before it had a chance to install it.",
       "link": "https://nitter.net/teslascope/status/2040254947149910515#m",
       "date": "Sat, 04 Apr 2026 02:27:40 GMT"
     },
     {
-      "text": "Our service will automatically publish a post on X once any new software update is detected across tens of thousands of vehicles. This includes automatically parsing release notes.\n\nWe remain eager and excited for the much-anticipated Full Self-Driving V14.3 release.",
-      "link": "https://nitter.net/teslascope/status/2040254948714443020#m",
-      "date": "Sat, 04 Apr 2026 02:27:40 GMT"
+      "text": "A specific build, 2026.2.9.5, was spotted on another third-party service. However, the circumstances of its appearance are questionable.\n\nWhile this might be a real release, there is no evidence at this time that it includes Full Self-Driving V14.3.\n\nWe remain vigilant.",
+      "link": "https://nitter.net/teslascope/status/2040254945828680150#m",
+      "date": "Sat, 04 Apr 2026 02:27:39 GMT"
     },
     {
       "text": "We noticed a new Tesla software update 2025.38.13 on a Tesla vehicle (2014). View the rollout of this update here: teslascope.com/software/2025…",
@@ -89,14 +89,14 @@
       "date": "Thu, 02 Apr 2026 06:19:44 GMT"
     },
     {
-      "text": "We're pleased to announce our newest feature: AI-powered recommendations based on your listening habits in your Tesla!\n\nWe've trained an AI model that accurately determines whether you'd be most interested in concert tickets, merch, or therapy.\n\nTentatively launching April 31st.",
-      "link": "https://nitter.net/teslascope/status/2039436691031957720#m",
-      "date": "Wed, 01 Apr 2026 20:16:12 GMT"
-    },
-    {
       "text": "Couldn't tag you in the screenshot @Scobleizer, but thought you'd enjoy this 😉",
       "link": "https://nitter.net/teslascope/status/2039440880143355957#m",
       "date": "Wed, 01 Apr 2026 20:32:51 GMT"
+    },
+    {
+      "text": "We're pleased to announce our newest feature: AI-powered recommendations based on your listening habits in your Tesla!\n\nWe've trained an AI model that accurately determines whether you'd be most interested in concert tickets, merch, or therapy.\n\nTentatively launching April 31st.",
+      "link": "https://nitter.net/teslascope/status/2039436691031957720#m",
+      "date": "Wed, 01 Apr 2026 20:16:12 GMT"
     },
     {
       "text": "We noticed a new Tesla software update 2026.2.100 on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…",
