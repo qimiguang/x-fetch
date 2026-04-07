@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-04-07T19:14:00Z",
+  "updated_at": "2026-04-07T21:50:22Z",
   "count": 17,
   "tweets": [
+    {
+      "text": "I don’t have FSD 14.3, and I don’t think I’m in a hurry to get it. Maybe I’d like a slightly better parking upgrade, but honestly, for all the other problems 14.3 is supposed to solve, I have almost never run into them myself. Tesla is really trying to solve the last missing piece, and that piece is so tiny that I’m barely even aware of it. So I wonder whether it will actually just feel the same, as perfect as v14.2.2.5, and whether a lot of the perceived improvements people are sharing on X are probably just psychological suggestion. Why? Because at this point, without driving it for a year and collecting 10k miles, how can you be sure 14.3 is actually safer than 14.2?",
+      "link": "https://nitter.net/raines1220/status/2041621526274044199#m",
+      "date": "Tue, 07 Apr 2026 20:57:58 GMT"
+    },
     {
       "text": "Just finished my first drive on FSD 14.2.2.5, definitely an improvement but also noticed some weird behavior, such as swerving around tire marks. \n\nIn fact, I’ve noticed that every recent FSD version that tries to improve pothole avoidance also seems more likely to unnecessarily swerve around tire marks.\n\nI gave it some thought and realized that object avoidance, in general, is an extremely hard problem to solve. There are, in theory, unlimited types of road conditions, each requiring different strategies.\n\nIf you want to avoid everything, then what about leaves? You mostly want to ignore them. Do you still remember how FSD used to emergency brake for leaves?\n\nHowever, if you want to run over them, then what about black ice? It is also dark, soft, and flat, but definitely needs to be avoided.\n\nBut then, if you choose to avoid those, what about tire marks? People still want FSD to ignore them, right?\n\nTo perfectly solve this problem, you would need near lossless compression of vision input, large model capacity to store general world knowledge, and lightning fast reasoning in order to react correctly.",
       "link": "https://nitter.net/raines1220/status/2025271329302462830#m",
@@ -82,11 +87,6 @@
       "text": "I just noticed that tons of people believe personal FSD (unsupervised) is Level 3, meaning it would still require someone to take over the car when requested. Most of them then conclude that personal FSD (unsupervised) is therefore easier to achieve than commercial Robotaxi. If you believe this, then this post is for you.\n\nI believe Elon Musk has explained multiple times that personal FSD (unsupervised) should:\n\n1. Allow you to sleep and still get to your destination\n\n2. Let you opt into the commercial Robotaxi fleet to make money for you when needed\n\n3. Support long-distance Summon and Banish\n\nTo summarize, (1) and (3) imply that no one is required to be in the car for potential takeover, which means it should be at least Level 4. Also, (2) implies that the capability of personal FSD (unsupervised) is a superset of Robotaxi, not a subset, which means it is “equal or harder,” but definitely not “easier.”\n\nIn fact, I believe that while Robotaxi could be achieved with Level 4 or Level 5, personal FSD (unsupervised) can only be launched when Level 5 capability is achieved. Because:\n\n1. Geofencing makes sense for a commercial Robotaxi fleet but does not make sense for personal FSD. People will drive it anywhere, across states, and even across the country. In fact, Elon has said that FSD should eventually work on another planet (e.g., Mars), which implies the system is designed to work with zero geofencing.\n\n2. Extreme weather (e.g., snow) is a must-have for personal unsupervised FSD but not necessarily a hard requirement for commercial Robotaxi. If the weather is bad, Robotaxi service can simply be “unavailable,” but your personal FSD (unsupervised) should still be able to take you to work.\n\n3. Personal unsupervised FSD could be used at any time, including 1 AM to 6 AM, and you cannot expect Tesla to deploy a large team of remote operators to monitor millions of vehicles during those hours.\n\nAs a result, you cannot assume the operating environment will always be well tested, nor can you guarantee it will only run in good weather, during business hours, or on well-mapped routes. \n\nBy definition, this is Level 5, not Level 4, because it must maintain safety and reasonable efficiency at all times, in all weather, and everywhere. Therefore, while I have high expectations for large-scale commercial Robotaxi to operate soon (possibly this year), I do not have high expectations for FSD unsupervised to be deployed at scale this year.",
       "link": "https://nitter.net/raines1220/status/2014365743496720723#m",
       "date": "Thu, 22 Jan 2026 15:53:13 GMT"
-    },
-    {
-      "text": "Believe it or not, @CyberCatX made this happen. Tesla and Lemonade are working together because of him. During shareholder meeting, he talked nonstop for five minutes to convince Elon to consider this possibility, and now it has become a reality. This story should be written down in our history books.",
-      "link": "https://nitter.net/raines1220/status/2014158168192860644#m",
-      "date": "Thu, 22 Jan 2026 02:08:23 GMT"
     }
   ]
 }
