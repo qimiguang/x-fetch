@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-08T19:26:24Z",
+  "updated_at": "2026-04-08T21:50:51Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "谷歌赢得美国AI竞赛，真不是随便说说的，gemini纵使不是最好的AI，你也不得不用，因为gmail，chrome，youtbue这些必用产品完全与之绑定了。上周卖的$280 put今天close了",
+      "link": "https://nitter.net/Tsla99T/status/2041961786782425586#m",
+      "date": "Wed, 08 Apr 2026 19:30:02 GMT"
+    },
     {
       "text": "常识\n\n\nDan Burkland (@DBurkland)\n\nFor those of you who are surprised or upset that regressions are present in FSD v14.3, keep the following in mind:\n\n- This is completely normal in neural network development cycles.\n- Progress is not linear, especially after major architectural changes are made, which is exactly what happened in v14.2 and v14.3.\n- The upcoming v14.3.x minor builds will focus on eliminating those regressions, and the end result should still be a clear step forward from v14.2.x.\n\nPatience is key here. Big leaps often come with temporary bumps.\n\n\n\n— https://nitter.net/DBurkland/status/2041912742664155543#m",
       "link": "https://nitter.net/Tsla99T/status/2041950277410943070#m",
@@ -92,11 +97,6 @@
       "text": "第一代移民，现在有了AI加持，大大方方地走出去，发出自己的声音，在HOA，在学区发言/参选，写信给本地议员表达自己的诉求，多参加志愿者活动。给学校，学区捐款。\n这不比终日担忧中美开战要进集中营了，或者在小红书上炫富强多了？\n\n\nTSLA99T (@Tsla99T)\n\n摒弃一切受害者心态，走进你的社区。从 HOA member meeting 开始。捐款给能表达你声音的当地的政治人物。远离一切依靠中美之间灰色收入的人和组织。\n\n\n\n— https://nitter.net/Tsla99T/status/2041195890203910365#m",
       "link": "https://nitter.net/Tsla99T/status/2041509161335161189#m",
       "date": "Tue, 07 Apr 2026 13:31:28 GMT"
-    },
-    {
-      "text": "I’ve never seen more than 2 people in a Waymo.",
-      "link": "https://nitter.net/greggertruck/status/2041265690045554726#m",
-      "date": "Mon, 06 Apr 2026 21:24:00 GMT"
     }
   ]
 }
