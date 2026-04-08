@@ -1,8 +1,33 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-08T16:17:57Z",
-  "count": 20,
+  "updated_at": "2026-04-08T19:26:24Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "常识\n\n\nDan Burkland (@DBurkland)\n\nFor those of you who are surprised or upset that regressions are present in FSD v14.3, keep the following in mind:\n\n- This is completely normal in neural network development cycles.\n- Progress is not linear, especially after major architectural changes are made, which is exactly what happened in v14.2 and v14.3.\n- The upcoming v14.3.x minor builds will focus on eliminating those regressions, and the end result should still be a clear step forward from v14.2.x.\n\nPatience is key here. Big leaps often come with temporary bumps.\n\n\n\n— https://nitter.net/DBurkland/status/2041912742664155543#m",
+      "link": "https://nitter.net/Tsla99T/status/2041950277410943070#m",
+      "date": "Wed, 08 Apr 2026 18:44:18 GMT"
+    },
+    {
+      "text": "马斯克要把告openai可能赢得的赔偿$150Billion留给openai的charity arm，这事都没啥人说。现在连赞扬一下首富的初心和情怀都没人敢了吗？",
+      "link": "https://nitter.net/Tsla99T/status/2041943789523083397#m",
+      "date": "Wed, 08 Apr 2026 18:18:31 GMT"
+    },
+    {
+      "text": "我还卖了TSLA $300的Put",
+      "link": "https://nitter.net/Tsla99T/status/2041937831027704269#m",
+      "date": "Wed, 08 Apr 2026 17:54:50 GMT"
+    },
+    {
+      "text": "Alexandr Wang交活了，我卖的$495 Meta Put可以close了，没有任何内部消息，就是尊重常识",
+      "link": "https://nitter.net/Tsla99T/status/2041936906330460172#m",
+      "date": "Wed, 08 Apr 2026 17:51:10 GMT"
+    },
+    {
+      "text": "其实我想表达的是：但凡你持有超过一年，你都不会为今天的股价所动。所以，你是不是假装长线投资者呢？\n\n\nTSLA99T (@Tsla99T)\n\n今天你卖了没有？还比一年前赚呢\n\n\n\n— https://nitter.net/Tsla99T/status/2041519931922038798#m",
+      "link": "https://nitter.net/Tsla99T/status/2041918896005902400#m",
+      "date": "Wed, 08 Apr 2026 16:39:36 GMT"
+    },
     {
       "text": "增强学习RL，一切都在训练应用的细节中，无数个类似的细节组成了特斯拉AI的护城河\n\n\nJulian Ibarz (@julianibarz)\n\nI said last year that RL will be back with a vengeance for embodied AI after so many years of focus by the community on pure offline imitation learning.\n\nCase in point: Latest release of FSD uses RL extensively to solve tricky and rare scenarios. For truly reliable embodied AI that scales, RL is critical and Tesla is at the forefront of that.\n\n\n\n— https://nitter.net/julianibarz/status/2041881115292791233#m",
       "link": "https://nitter.net/Tsla99T/status/2041883156345651353#m",
@@ -72,36 +97,6 @@
       "text": "I’ve never seen more than 2 people in a Waymo.",
       "link": "https://nitter.net/greggertruck/status/2041265690045554726#m",
       "date": "Mon, 06 Apr 2026 21:24:00 GMT"
-    },
-    {
-      "text": "其实现在的有效时间每周已经不到24小时了\n\n\nTSLA99T (@Tsla99T)\n\n当然更好的是没有那么多人失业，但是每周的工作时间从 5 天变成 3 天，这是最好的结局。\n\n\n\n— https://nitter.net/Tsla99T/status/2041244527676018926#m",
-      "link": "https://nitter.net/Tsla99T/status/2041265599456723254#m",
-      "date": "Mon, 06 Apr 2026 21:23:38 GMT"
-    },
-    {
-      "text": "眼神太好了，这公司也不用布盖一盖，一路明牌\n\n\nGreggertruck (@greggertruck)\n\nWe are ready for Tesla @Robotaxi here in Phoenix! \n\nFound about 60 Modey Y's this morning, with rear sprayers for unsurepervised.\n\n\n\n\n\n\n\n— https://nitter.net/greggertruck/status/2041220574706565201#m",
-      "link": "https://nitter.net/Tsla99T/status/2041237791460192464#m",
-      "date": "Mon, 06 Apr 2026 19:33:08 GMT"
-    },
-    {
-      "text": "摒弃一切受害者心态，走进你的社区。从 HOA member meeting 开始。捐款给能表达你声音的当地的政治人物。远离一切依靠中美之间灰色收入的人和组织。",
-      "link": "https://nitter.net/Tsla99T/status/2041195890203910365#m",
-      "date": "Mon, 06 Apr 2026 16:46:38 GMT"
-    },
-    {
-      "text": "$15早餐",
-      "link": "https://nitter.net/Tsla99T/status/2041172364185022747#m",
-      "date": "Mon, 06 Apr 2026 15:13:09 GMT"
-    },
-    {
-      "text": "变成乐高玩具了",
-      "link": "https://nitter.net/Tsla99T/status/2041153148929089566#m",
-      "date": "Mon, 06 Apr 2026 13:56:48 GMT"
-    },
-    {
-      "text": "没有什么金饭碗了",
-      "link": "https://nitter.net/Tsla99T/status/2041151642108608718#m",
-      "date": "Mon, 06 Apr 2026 13:50:48 GMT"
     }
   ]
 }
