@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-08T13:45:03Z",
+  "updated_at": "2026-04-08T16:17:57Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "增强学习RL，一切都在训练应用的细节中，无数个类似的细节组成了特斯拉AI的护城河\n\n\nJulian Ibarz (@julianibarz)\n\nI said last year that RL will be back with a vengeance for embodied AI after so many years of focus by the community on pure offline imitation learning.\n\nCase in point: Latest release of FSD uses RL extensively to solve tricky and rare scenarios. For truly reliable embodied AI that scales, RL is critical and Tesla is at the forefront of that.\n\n\n\n— https://nitter.net/julianibarz/status/2041881115292791233#m",
+      "link": "https://nitter.net/Tsla99T/status/2041883156345651353#m",
+      "date": "Wed, 08 Apr 2026 14:17:35 GMT"
+    },
     {
       "text": "Robotaxi 去年 6 月首发，我作为首批乘坐者，提出特斯拉应该不要急于扩展城市，要在奥斯汀充分验证运营, 验证盈利。到今年 1 月，我又有幸成为第一个乘坐无监督无人出租车的人，并于上个月连续在旧金山湾区体验\n结论: 对于这仅仅3 个月时间的扩展速度非常满意，完全符合我的期待。Stay Positive!\n\n\n海轩梦 (@HXM_196_44)\n\n🤖🚖\n\nRobotaxi 无人监督版 时间线：\n\n- 26.01.24 = 1辆\n- 26.04.07 = 10辆 | 73天\n\n$TSLA\n\n\n\n\n\n— https://nitter.net/HXM_196_44/status/2041661401794802054#m",
       "link": "https://nitter.net/Tsla99T/status/2041855113824718987#m",
@@ -97,11 +102,6 @@
       "text": "没有什么金饭碗了",
       "link": "https://nitter.net/Tsla99T/status/2041151642108608718#m",
       "date": "Mon, 06 Apr 2026 13:50:48 GMT"
-    },
-    {
-      "text": "我发现绝大多数臆想华人进集中营的人连美国签证都没有",
-      "link": "https://nitter.net/Tsla99T/status/2041141422464643201#m",
-      "date": "Mon, 06 Apr 2026 13:10:12 GMT"
     }
   ]
 }
