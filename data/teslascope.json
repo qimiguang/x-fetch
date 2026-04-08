@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-07T21:50:02Z",
+  "updated_at": "2026-04-08T02:54:01Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Some encouraging first impressions of Tesla's latest Full Self-Driving V14.3.\n\nNotably, speed profiles may have been refined to reduce speeding and improve overall smoothness.\n\n\nRoger Kappler (@roger_kappler)\n\nFSD 14.3 initial thoughts:\n\n- Speed profiles seem to have been toned down, i.e. not speeding as much\n- Very smooth driving overall\n- Parking spot is definitely selected quicker and more decisive than before\n- Tested one school parking lot, ignored handicapped parking spots (great), but happily parked in \"Reserved for Principal\" spot.\n- Stop sign behavior feels a tad quicker (not waiting so long after coming to a complete stop)\n- Blinker is activated later than previous versions (good)\n- Havent seen the \"P\" icon to indicate the selected parking spot yet.\n- Mini-braking for dancing leaves on road (might be a side-effect of \"small animal detection\". Certainly reminded me of early 14.2 releases...\n\nAgain, very early, so more to come...\n\n\n\n\n\n— https://nitter.net/roger_kappler/status/2041630174886682737#m",
+      "link": "https://nitter.net/teslascope/status/2041639748247400798#m",
+      "date": "Tue, 07 Apr 2026 22:10:22 GMT"
+    },
     {
       "text": "\"You have to perfect parking before you roll this out.\"  – @wholemars is in agreement with our viewpoint.",
       "link": "https://nitter.net/teslascope/status/2041630838262264115#m",
@@ -92,11 +97,6 @@
       "text": "The third and largest wave of Tesla software update 2026.8.6 is now going out to the global fleet.\n\nThis wave includes HW3 and AI4 vehicles.\n\nteslascope.com/software/2026…\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.8.6 on Model 3 AWD LR (2020) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2039588575893700873#m",
       "link": "https://nitter.net/teslascope/status/2041025032689000800#m",
       "date": "Mon, 06 Apr 2026 05:27:42 GMT"
-    },
-    {
-      "text": "We'll be updating our software detection system to determine whether an update is a factory update and mention this within future posts.",
-      "link": "https://nitter.net/teslascope/status/2040843404217921786#m",
-      "date": "Sun, 05 Apr 2026 17:25:59 GMT"
     }
   ]
 }

@@ -1,8 +1,23 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-07T19:14:02Z",
+  "updated_at": "2026-04-08T02:54:23Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "特斯拉推出端到端V12,13,14三个版本了，还在基础的训练算法上不断更新，这就是护城河",
+      "link": "https://nitter.net/Tsla99T/status/2041620382549946761#m",
+      "date": "Tue, 07 Apr 2026 20:53:25 GMT"
+    },
+    {
+      "text": "从14.3的日志来看，这次更新是全网络的大更新：\n只要vision encoder一变，所有模块都要重新训练，更不要提RL训练方法的更新和AI编译器的重写\n晚了2天而已，那些在周末散播FUD的人继续寻找下一个槽点吧",
+      "link": "https://nitter.net/Tsla99T/status/2041614228994359338#m",
+      "date": "Tue, 07 Apr 2026 20:28:58 GMT"
+    },
+    {
+      "text": "下一个视频：开V14.3到Dallas Downtown乘坐Waymo\n\n\nSawyer Merritt (@SawyerMerritt)\n\nBREAKING: Tesla has officially released FSD V14.3\n\nI'm downloading it in my Model Y right now. Here's everything that's new:\n• Improved parking location pin prediction, now shown on a map with a P icon.\n• Increased decisiveness of parking spot selection and maneuvering.\n• Rewrote the Al compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed.\n• Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles.\n• Mitigated unnecessary lane biasing and minor tailgating behaviors.\n• Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety.\n• Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping - driven by training on hard RL examples sourced from the Tesla fleet.\n• Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios.\n• Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding.\n• Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet.\n• Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements.\n\nUpcoming Improvements:\n• Expand reasoning to all behaviors beyond destination handling.\n• Add pothole avoidance.\n• Improve driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions.\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2041596640453165171#m",
+      "link": "https://nitter.net/Tsla99T/status/2041604330587865343#m",
+      "date": "Tue, 07 Apr 2026 19:49:38 GMT"
+    },
     {
       "text": "情绪还没到位，有些人距离Fred Lambert只差一个Gordon Johnson的距离",
       "link": "https://nitter.net/Tsla99T/status/2041585062659924089#m",
@@ -82,21 +97,6 @@
       "text": "周末人群里大家的话题基本就是：裁员和AI，满眼的焦虑\n行业包括： 银行，软件，食品。。。。\n家长见到我说咱们孩子现在学AI太必要了，我说我现在啥都不用教，都是他们自己在摸索，因为工具太强大了，过不了多久，今天学的一切技巧也都没用了",
       "link": "https://nitter.net/Tsla99T/status/2041141141198819387#m",
       "date": "Mon, 06 Apr 2026 13:09:05 GMT"
-    },
-    {
-      "text": "我就纳闷，  FSD保险半价这么大的折扣，在AZ和OR推出后岂不是应该卖爆了，所有特斯拉FSD车主都无脑入？但是都2个多月了怎么没听说什么具体案例呢？弄了半天，它在价格上都和传统保险公司没有竞争力，也就是说，他的全价至少是竞争对手的2倍多。那它的AI作用到哪里了呢？如此不透明的价格体系，是不是在利用特斯拉呢？我现在好奇，它对其他车的保费是多少，不会比特斯拉还低吧？\n\n\nWei (@Ambulocetusz)\n\n我98%FSD，在Oregon quote了一下lemonade，发现价格并不比我现在的state farm便宜，感觉就是噱头。还有就是为什么lemonade能用AI，传统state farm geico不能用AI？lemonade我觉得并无优势\n\n\n\n— https://nitter.net/Ambulocetusz/status/2040602151668547741#m",
-      "link": "https://nitter.net/Tsla99T/status/2040787976058265946#m",
-      "date": "Sun, 05 Apr 2026 13:45:44 GMT"
-    },
-    {
-      "text": "把他们vibe coding的成果分享给全世界，获得最高赞的视频会赢得一台macbook neo laptop\npiped.video/playlist?list=PL…\n\n\n\nTSLA99T (@Tsla99T)\n\n教小孩vibe coding真没什么可教的，模型的能力越来越强，怎么写prompt已经越来越不重要了。关键是在实践中传达一种思想：想象力才是最大的限制，只要你敢想，一切皆有可能。还有就是大家一起玩的时候互相交流的过程。\n\n\n\n— https://nitter.net/Tsla99T/status/2040575529321968026#m",
-      "link": "https://nitter.net/Tsla99T/status/2040782326217556414#m",
-      "date": "Sun, 05 Apr 2026 13:23:17 GMT"
-    },
-    {
-      "text": "如果你不是天龙人，在洛杉矶没有豪宅，没有干“反美是工作，在美是生活”的事情，就踏踏实实的生活不要强行加戏。周围的在美伊朗人过的好好的，从来没担心什么集中营",
-      "link": "https://nitter.net/Tsla99T/status/2040780255498010863#m",
-      "date": "Sun, 05 Apr 2026 13:15:03 GMT"
     }
   ]
 }
