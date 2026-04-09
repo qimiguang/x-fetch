@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-09T19:16:58Z",
+  "updated_at": "2026-04-09T21:51:01Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "建好了$239一个月，看清楚了再订阅啊",
+      "link": "https://nitter.net/Tsla99T/status/2042349281332301994#m",
+      "date": "Thu, 09 Apr 2026 21:09:48 GMT"
+    },
     {
       "text": "难怪最近做作业总能得到高论\n\n\nElon Musk (@elonmusk)\n\nGrok Law\n\n\n\n— https://nitter.net/elonmusk/status/2042299684182769672#m",
       "link": "https://nitter.net/Tsla99T/status/2042303497803055188#m",
@@ -92,11 +97,6 @@
       "text": "下一个视频：开V14.3到Dallas Downtown乘坐Waymo\n\n\nSawyer Merritt (@SawyerMerritt)\n\nBREAKING: Tesla has officially released FSD V14.3\n\nI'm downloading it in my Model Y right now. Here's everything that's new:\n• Improved parking location pin prediction, now shown on a map with a P icon.\n• Increased decisiveness of parking spot selection and maneuvering.\n• Rewrote the Al compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed.\n• Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles.\n• Mitigated unnecessary lane biasing and minor tailgating behaviors.\n• Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety.\n• Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping - driven by training on hard RL examples sourced from the Tesla fleet.\n• Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios.\n• Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding.\n• Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet.\n• Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements.\n\nUpcoming Improvements:\n• Expand reasoning to all behaviors beyond destination handling.\n• Add pothole avoidance.\n• Improve driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions.\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2041596640453165171#m",
       "link": "https://nitter.net/Tsla99T/status/2041604330587865343#m",
       "date": "Tue, 07 Apr 2026 19:49:38 GMT"
-    },
-    {
-      "text": "情绪还没到位，有些人距离Fred Lambert只差一个Gordon Johnson的距离",
-      "link": "https://nitter.net/Tsla99T/status/2041585062659924089#m",
-      "date": "Tue, 07 Apr 2026 18:33:04 GMT"
     }
   ]
 }
