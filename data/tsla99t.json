@@ -1,8 +1,28 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-09T10:17:45Z",
+  "updated_at": "2026-04-09T13:56:33Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "前不久特斯拉停止Autopilot，把我加入AI组做的第一个项目代码彻底删除了\n这次更新MLIR，把我在硬件组的最后一个项目代码彻底替换了\n从此，FSD与我无关了\n\n\nTSLA99T (@Tsla99T)\n\n这个MLIR更新，把我最后2年在硬件组的工作完全取代了\npatents.google.com/patent/WO…\n\n\n\n— https://nitter.net/Tsla99T/status/2042222372036436272#m",
+      "link": "https://nitter.net/Tsla99T/status/2042225243658350730#m",
+      "date": "Thu, 09 Apr 2026 12:56:55 GMT"
+    },
+    {
+      "text": "这个MLIR更新，把我最后2年在硬件组的工作完全取代了\npatents.google.com/patent/WO…",
+      "link": "https://nitter.net/Tsla99T/status/2042222372036436272#m",
+      "date": "Thu, 09 Apr 2026 12:45:30 GMT"
+    },
+    {
+      "text": "更大的模型，更复杂的架构，需要更强大的AI编译器，这次的MLIR更新就是为之准备的",
+      "link": "https://nitter.net/Tsla99T/status/2042221387473985967#m",
+      "date": "Thu, 09 Apr 2026 12:41:36 GMT"
+    },
+    {
+      "text": "AI4的算力还远没有被榨干\nV14.3主要是RL训练算法，和数据更新的提升，不涉及模型大小\n训练一个更大的模型，特别是10X级别，收敛速度赶不上提升RL算法的提升效果，用小模型更契合V14.3的release进度\n那么V15将是10X的大模型，辅助不断增强的RL训练算法\n目标是远超人类的驾驶\n\n\n\n\nElon Musk (@elonmusk)\n\nTesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.\n\n\n\n— https://nitter.net/elonmusk/status/2042080823332258302#m",
+      "link": "https://nitter.net/Tsla99T/status/2042219946684338556#m",
+      "date": "Thu, 09 Apr 2026 12:35:52 GMT"
+    },
     {
       "text": "谷歌赢得美国AI竞赛，真不是随便说说的，gemini纵使不是最好的AI，你也不得不用，因为gmail，chrome，youtbue这些必用产品完全与之绑定了。上周卖的$280 put今天close了",
       "link": "https://nitter.net/Tsla99T/status/2041961786782425586#m",
@@ -77,26 +97,6 @@
       "text": "一定是早就商量好了，现在才说，太不透明了！",
       "link": "https://nitter.net/Tsla99T/status/2041522895294243169#m",
       "date": "Tue, 07 Apr 2026 14:26:02 GMT"
-    },
-    {
-      "text": "今天你卖了没有？还比一年前赚呢\n\n\nTSLA99T (@Tsla99T)\n\nRobotaxi前方的坎坷还多着呢。信任度这个东西，就是用钱投票的。$360是真的很好的退出价格，不要总遗憾没在$490退出，万一又回到2年前的$160了呢？\n\n\n\n— https://nitter.net/Tsla99T/status/2040454179471167974#m",
-      "link": "https://nitter.net/Tsla99T/status/2041519931922038798#m",
-      "date": "Tue, 07 Apr 2026 14:14:16 GMT"
-    },
-    {
-      "text": "这就太合理了！\n\n\nTesla (@Tesla)\n\nIntel is joining Terafab! \n\nTesla, @xAI and @SpaceX are launching the most epic chip-building effort ever – combining logic, memory & advanced packaging under one roof\n\nterafab.ai/\n\n\n\n— https://nitter.net/Tesla/status/2041512897277493411#m",
-      "link": "https://nitter.net/Tsla99T/status/2041513484760859102#m",
-      "date": "Tue, 07 Apr 2026 13:48:38 GMT"
-    },
-    {
-      "text": "人多基本上意味着没有任何秘密。这不今天又有一个国内某智驾CEO来硅谷想找特斯拉的人“聊聊”吗？可惜根本找不到人！找我？抱歉，我不在硅谷。\n\n\n大趙 (@zhongwen2005)\n\nNumber of employees in autonomous driving R&D teams:\nTesla: 200–300\nXpeng: 3,000–4,000\nLi Auto: 2,500–3,500\nHuawei: 3,000–5,000\nThe above data is sourced from the internet.\n\n\n\n— https://nitter.net/zhongwen2005/status/2041430902945833378#m",
-      "link": "https://nitter.net/Tsla99T/status/2041511303412416746#m",
-      "date": "Tue, 07 Apr 2026 13:39:58 GMT"
-    },
-    {
-      "text": "第一代移民，现在有了AI加持，大大方方地走出去，发出自己的声音，在HOA，在学区发言/参选，写信给本地议员表达自己的诉求，多参加志愿者活动。给学校，学区捐款。\n这不比终日担忧中美开战要进集中营了，或者在小红书上炫富强多了？\n\n\nTSLA99T (@Tsla99T)\n\n摒弃一切受害者心态，走进你的社区。从 HOA member meeting 开始。捐款给能表达你声音的当地的政治人物。远离一切依靠中美之间灰色收入的人和组织。\n\n\n\n— https://nitter.net/Tsla99T/status/2041195890203910365#m",
-      "link": "https://nitter.net/Tsla99T/status/2041509161335161189#m",
-      "date": "Tue, 07 Apr 2026 13:31:28 GMT"
     }
   ]
 }
