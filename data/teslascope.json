@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-09T02:48:24Z",
+  "updated_at": "2026-04-09T05:16:11Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "10x parameter model now coming in Full Self-Driving V15.\n\n\nElon Musk (@elonmusk)\n\nOur rate of advancement with the small model has been so fast that the large model has not yet caught up.\n\nV15 will be the large model.\n\n\n\n— https://nitter.net/elonmusk/status/2042082006314709086#m",
+      "link": "https://nitter.net/teslascope/status/2042085442259210399#m",
+      "date": "Thu, 09 Apr 2026 03:41:24 GMT"
+    },
     {
       "text": "2026 is a big year for Tesla, and the company has already shared progress with approaching regulator approval in European countries.\n\nAs with the update on March 19th, we anticipate additional updates from the company throughout this year.\n\nnitter.net/teslaeurope/status/203…\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nTogether with RDW, we have officially completed the final vehicle testing phase for Full Self-Driving (Supervised) and have submitted all documentation required for the UN R-171 approval + Article 39 exemptions. The RDW team is now reviewing the documentation and test results package internally. They have communicated the expected approval for Netherlands date of 4/10, shifting from 3/20 previously and we look forward to successful completion of this cooperation. \n\nFollowing the Netherlands’ approval, European countries will be able to recognize this approval nationally. We are anticipating a possible EU-wide approval during the summer.\n\nOver the past 18 months, this approval has involved a series of intense documentation, development, testing, research & audits. Including but certainly not limited to:\n\n– 1,600,000+ km of FSD (Supervised) testing on EU roads\n– 13,000+ customer sales ride-alongs\n– 4,500+ track test scenario executions\n– Thousands of pages of written documentation for 400+ compliance requirements\n– Dozens of research studies into safety performance/results\n\nWe're extremely proud of the work conducted with the RDW team up until this point.\n\nWe very much look forward to the approval in April, and sharing FSD (Supervised) with our patient EU customers!\n\n\n\n— https://nitter.net/teslaeurope/status/2034872940542800361#m",
       "link": "https://nitter.net/teslascope/status/2042023909210648986#m",
@@ -97,11 +102,6 @@
       "text": "We noticed a new Tesla software update 2026.2.9.6 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2041596416569606400#m",
       "date": "Tue, 07 Apr 2026 19:18:11 GMT"
-    },
-    {
-      "text": "Tonight, we've released several improvements to our @Tesla software-focused features based on community feedback.\n\nFirstly, our software announcement posts now specify if an update is a factory update! 🚘\n\nNext, release notes will instantly appear as replies on our update posts.",
-      "link": "https://nitter.net/teslascope/status/2041063338848006404#m",
-      "date": "Mon, 06 Apr 2026 07:59:55 GMT"
     }
   ]
 }
