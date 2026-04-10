@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-10T03:19:41Z",
+  "updated_at": "2026-04-10T07:50:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "While experiences are typically subjective in nature, we've reiterated on multiple occasions that Tesla has continued to update the V12.6.4 model several times since its launch.\n\nWhile these changes are typically minor or simply new weights, 8.6 changes much more than usual.",
+      "link": "https://nitter.net/teslascope/status/2042473779448988104#m",
+      "date": "Fri, 10 Apr 2026 05:24:31 GMT"
+    },
+    {
+      "text": "We've observed an influx of reports that 2026.8.6 included relaxed driver monitoring among other Full Self-Driving improvements for HW3 Tesla vehicles.\n\nWhile many have felt this was subjective, we now have more proof that real changes (and improvements) were made in this update.\n\n\ngreen (@greentheonly)\n\nthe underlying change in 2026.8.6 (from 2026.8.3 and prior) is significant in the code in particular (also there's merging so now weights are shared across all cars of the same hw type).\nThe weights themselves changed some but I had no time to look into any of it in details\n\n\n\n— https://nitter.net/greentheonly/status/2042472421156897045#m",
+      "link": "https://nitter.net/teslascope/status/2042473776479445038#m",
+      "date": "Fri, 10 Apr 2026 05:24:30 GMT"
+    },
     {
       "text": "10x parameter model now coming in Full Self-Driving V15.\n\n\nElon Musk (@elonmusk)\n\nOur rate of advancement with the small model has been so fast that the large model has not yet caught up.\n\nV15 will be the large model.\n\n\n\n— https://nitter.net/elonmusk/status/2042082006314709086#m",
       "link": "https://nitter.net/teslascope/status/2042085442259210399#m",
@@ -92,16 +102,6 @@
       "text": "Tesla’s Full Self-Driving V14.3 is here!\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.2.9.6 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2041596416569606400#m",
       "link": "https://nitter.net/teslascope/status/2041597570284449894#m",
       "date": "Tue, 07 Apr 2026 19:22:46 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Autopilot Naming Update\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2041596441638920315#m",
-      "date": "Tue, 07 Apr 2026 19:18:17 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.2.9.6 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2041596416569606400#m",
-      "date": "Tue, 07 Apr 2026 19:18:11 GMT"
     }
   ]
 }
