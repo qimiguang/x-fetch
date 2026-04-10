@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-10T13:23:20Z",
+  "updated_at": "2026-04-10T16:00:13Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "能准确翻译月月鸟的AI才是高级的AI\n\n\nTSLA99T (@Tsla99T)\n\nGrok已经知道月月鸟了！\n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2029925333961425320#m",
+      "link": "https://nitter.net/Tsla99T/status/2042594528859738473#m",
+      "date": "Fri, 10 Apr 2026 13:24:19 GMT"
+    },
     {
       "text": "其实MLIR的发明者，Chris Lattner 和Mehdi Amini 都曾经在特斯拉工作过。这次14.3发布，他也是第一时间表达了兴奋之情。作为工程师，一生有一个成功的作品就够了！",
       "link": "https://nitter.net/Tsla99T/status/2042408413502529685#m",
@@ -92,11 +97,6 @@
       "text": "特斯拉推出端到端V12,13,14三个版本了，还在基础的训练算法上不断更新，这就是护城河",
       "link": "https://nitter.net/Tsla99T/status/2041620382549946761#m",
       "date": "Tue, 07 Apr 2026 20:53:25 GMT"
-    },
-    {
-      "text": "从14.3的日志来看，这次更新是全网络的大更新：\n只要vision encoder一变，所有模块都要重新训练，更不要提RL训练方法的更新和AI编译器的重写\n晚了2天而已，那些在周末散播FUD的人继续寻找下一个槽点吧",
-      "link": "https://nitter.net/Tsla99T/status/2041614228994359338#m",
-      "date": "Tue, 07 Apr 2026 20:28:58 GMT"
     }
   ]
 }
