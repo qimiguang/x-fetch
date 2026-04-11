@@ -1,8 +1,38 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-10T21:45:02Z",
+  "updated_at": "2026-04-11T02:44:51Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We had observed a number of reports on this issue since the update was first released over a week ago, but typically resolved itself after a reboot.\n\nAs this directly impacts safety, we believe this is the cause of the update being pulled, and may be re-released with fixes.\n\n\nAnuel Osari (@flipkid)\n\nWhen placing vehicle in reverse, I get a \"Camera Temporary Unavailable\". It's happening on both my 21 Model Y and a 22 Model 3\n\n\n\n— https://nitter.net/flipkid/status/2042775643876921839#m",
+      "link": "https://nitter.net/teslascope/status/2042787814400741688#m",
+      "date": "Sat, 11 Apr 2026 02:12:22 GMT"
+    },
+    {
+      "text": "We have received two unconfirmed reports from vehicle owners that the update 2026.8.6 was pulled due to delays with loading the rear camera and receiving the error “Camera Temporary Unavailable”.\n\nThe scope of this bug is not known, but is not impacting all Tesla vehicles.\n\n\nTeslascope (@teslascope)\n\nWe’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.\n\n\n\n— https://nitter.net/teslascope/status/2042751356570865741#m",
+      "link": "https://nitter.net/teslascope/status/2042787811791900715#m",
+      "date": "Sat, 11 Apr 2026 02:12:22 GMT"
+    },
+    {
+      "text": "nitter.net/xanderwasserman/status…\n\n\nXander (@xanderwasserman)\n\n2026.8.6 was busy downloading on my HW3 M3, but I see now that this update has been pulled and there is no update available anymore. Is this purely a coincidence that it lined up with the RDW announcement? @teslascope @NotATeslaApp\n\n\n\n— https://nitter.net/xanderwasserman/status/2042745590241505486#m",
+      "link": "https://nitter.net/teslascope/status/2042751639925461083#m",
+      "date": "Fri, 10 Apr 2026 23:48:38 GMT"
+    },
+    {
+      "text": "nitter.net/dhalgrenmarquis/status…\n\n\nDhalgren Marquis (@DhalgrenMarquis)\n\nWas almost done downloading 2026.8.6 and it vanished. Now “up to date” with 8.3. \n\nBummer 😓\n@teslascope\n\n\n\n— https://nitter.net/DhalgrenMarquis/status/2042749029399040358#m",
+      "link": "https://nitter.net/teslascope/status/2042751556890841143#m",
+      "date": "Fri, 10 Apr 2026 23:48:18 GMT"
+    },
+    {
+      "text": "We’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.",
+      "link": "https://nitter.net/teslascope/status/2042751356570865741#m",
+      "date": "Fri, 10 Apr 2026 23:47:30 GMT"
+    },
+    {
+      "text": "We will be updating our Full Self-Driving leaderboards to allow for ranking by region (North America and Europe) and Globally.\n\nYou can sign up on out platform to participate in both our leaderboards and software tracking, for free, forever!\n\nteslascope.com/leaderboards/…\n\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving (Supervised) is OFFICIALLY approved in the Netherlands.\n\nIt will begin rolling out to customers shortly.\n\n\n\n— https://nitter.net/teslascope/status/2042710416837742726#m",
+      "link": "https://nitter.net/teslascope/status/2042717951019864446#m",
+      "date": "Fri, 10 Apr 2026 21:34:46 GMT"
+    },
     {
       "text": "RDW has stated that Full Self-Driving (Supervised) has been extensively tested and makes a positive contribution to road safety. They reiterated that it is safer than other systems.\n\nExpansion to all member states of the European Union is now possible.\n\nrdw.nl/nieuws/2026/toelichti…\n\n\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nDe toekomst van mobiliteit is aangebroken\n\nFSD Supervised has been approved in the Netherlands 🇳🇱 & will begin rolling out in the country shortly! \n\nTrained on billions of kilometers of real-world driving data, it can drive you almost anywhere under your supervision – from residential roads to city streets & highways\n\nNo other vehicle can do this. \n\nWe're excited to bring FSD Supervised to more European countries soon\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaeurope/status/2042709396111724639#m",
       "link": "https://nitter.net/teslascope/status/2042716044532552109#m",
@@ -72,36 +102,6 @@
       "text": "That's a lot of Cybercabs!\n\nAnd this is only the beginning.\n\n\nJoe Tegtmeyer 🚀 🤠🛸😎 (@JoeTegtmeyer)\n\nHappy 8 April (Wednesday) at Giga Texas, especially for those wanting an update on Cybercabs … I saw about 60 of them in two groups in the outbound lot today … the largest grouping yet! \n\nAlso, looks like at least some of these have white seats and most still have clearly visible steering wheels … I will let you conclude what you wish from that, but these still do not look like the final “production” versions, so perhaps they are testing out some of the new features while testing some of the @robotaxi areas around the country.\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n\n\n\n\n— https://nitter.net/JoeTegtmeyer/status/2041903913771716853#m",
       "link": "https://nitter.net/teslascope/status/2041955410975060342#m",
       "date": "Wed, 08 Apr 2026 19:04:42 GMT"
-    },
-    {
-      "text": "Some encouraging first impressions of Tesla's latest Full Self-Driving V14.3.\n\nNotably, speed profiles may have been refined to reduce speeding and improve overall smoothness.\n\n\nRoger Kappler (@roger_kappler)\n\nFSD 14.3 initial thoughts:\n\n- Speed profiles seem to have been toned down, i.e. not speeding as much\n- Very smooth driving overall\n- Parking spot is definitely selected quicker and more decisive than before\n- Tested one school parking lot, ignored handicapped parking spots (great), but happily parked in \"Reserved for Principal\" spot.\n- Stop sign behavior feels a tad quicker (not waiting so long after coming to a complete stop)\n- Blinker is activated later than previous versions (good)\n- Havent seen the \"P\" icon to indicate the selected parking spot yet.\n- Mini-braking for dancing leaves on road (might be a side-effect of \"small animal detection\". Certainly reminded me of early 14.2 releases...\n\nAgain, very early, so more to come...\n\n\n\n\n\n— https://nitter.net/roger_kappler/status/2041630174886682737#m",
-      "link": "https://nitter.net/teslascope/status/2041639748247400798#m",
-      "date": "Tue, 07 Apr 2026 22:10:22 GMT"
-    },
-    {
-      "text": "\"You have to perfect parking before you roll this out.\"  – @wholemars is in agreement with our viewpoint.",
-      "link": "https://nitter.net/teslascope/status/2041630838262264115#m",
-      "date": "Tue, 07 Apr 2026 21:34:58 GMT"
-    },
-    {
-      "text": "Let's talk about Banish. 👋\n\n\"Banish\" is @Tesla's complete end-to-end parking solution: you're dropped off at your destination, exit the vehicle, and it drives away to park. When it's time to leave, the vehicle finds its way back to you in all conditions.\n\nWe've received a few dozen replies and DMs inquiring about why Banish is missing from Full Self-Driving V14.3. We believe Tesla is close, but is waiting to see how this update's improvements perform before considering releasing Banish to customers.\n\nFor Tesla to release Banish, parking has to be perfect. \n\nYou need to have the confidence that your vehicle will efficiently and safely select an appropriate parking spot. It has to navigate all lane types to avoid blocking other drivers and ADA spots (if applicable to you).\n\nFull Self-Driving V14.3, released today, includes two details about parking improvements:\n\n1️⃣ Increased decisiveness of parking spot selection and maneuvering.\n2️⃣ Improved parking location pin prediction, now shown on a map with a P icon.\n\nThese two improvements are paramount to further improving end-to-end parking, and we expect Tesla will analyze data and experiences in the coming weeks to determine an appropriate release timeline.\n\nWe give a rough timeline of May to June for the initial Banish release. We'll re-evaluathesete this projections and timelines for the Banish release once we've observed the improvements in today's release.",
-      "link": "https://nitter.net/teslascope/status/2041630532942094590#m",
-      "date": "Tue, 07 Apr 2026 21:33:45 GMT"
-    },
-    {
-      "text": "This is an interesting discovery! This feature for @Cybertruck was first detected in 2026.8 but has been backported for inclusion in 2026.2 as well.\n\nThis is a rare occurrence, so it's worth spotlighting, as it suggests Tesla may be working on feature parity across branches.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2041614191933427740#m",
-      "link": "https://nitter.net/teslascope/status/2041615634849788215#m",
-      "date": "Tue, 07 Apr 2026 20:34:33 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2041614191933427740#m",
-      "date": "Tue, 07 Apr 2026 20:28:49 GMT"
-    },
-    {
-      "text": "Testflight is really close! Make sure you're following @vehiclescope for more on the initial invite process.",
-      "link": "https://nitter.net/teslascope/status/2041608414724551056#m",
-      "date": "Tue, 07 Apr 2026 20:05:51 GMT"
     }
   ]
 }
