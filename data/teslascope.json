@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-11T21:39:19Z",
+  "updated_at": "2026-04-12T03:23:12Z",
   "count": 20,
   "tweets": [
     {
@@ -9,14 +9,19 @@
       "date": "Sat, 11 Apr 2026 20:39:51 GMT"
     },
     {
-      "text": "We had observed a number of reports on this issue since the update was first released over a week ago, but typically resolved itself after a reboot.\n\nAs this directly impacts safety, we believe this is the cause of the update being pulled, and may be re-released with fixes.\n\n\nAnuel Osari (@flipkid)\n\nWhen placing vehicle in reverse, I get a \"Camera Temporary Unavailable\". It's happening on both my 21 Model Y and a 22 Model 3\n\n\n\n— https://nitter.net/flipkid/status/2042775643876921839#m",
+      "text": "We have received two unconfirmed reports from vehicle owners that the update 2026.8.6 was pulled due to delays with loading the rear camera and receiving the error “Camera Temporary Unavailable”.\n\nThe scope of this bug is not known, but is not impacting all Tesla vehicles.\n\n\nTeslascope (@teslascope)\n\nWe’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.\n\n\n\n— https://nitter.net/teslascope/status/2042751356570865741#m",
+      "link": "https://nitter.net/teslascope/status/2042787811791900715#m",
+      "date": "Sat, 11 Apr 2026 02:12:22 GMT"
+    },
+    {
+      "text": "We had observed a number of reports on this issue since the update was first released over a week ago, but typically resolved itself after a reboot.\n\nAs this directly impacts safety, we believe this is the cause of the update being pulled, and may be re-released with fixes.",
       "link": "https://nitter.net/teslascope/status/2042787814400741688#m",
       "date": "Sat, 11 Apr 2026 02:12:22 GMT"
     },
     {
-      "text": "We have received two unconfirmed reports from vehicle owners that the update 2026.8.6 was pulled due to delays with loading the rear camera and receiving the error “Camera Temporary Unavailable”.\n\nThe scope of this bug is not known, but is not impacting all Tesla vehicles.\n\n\nTeslascope (@teslascope)\n\nWe’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.\n\n\n\n— https://nitter.net/teslascope/status/2042751356570865741#m",
-      "link": "https://nitter.net/teslascope/status/2042787811791900715#m",
-      "date": "Sat, 11 Apr 2026 02:12:22 GMT"
+      "text": "We’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.",
+      "link": "https://nitter.net/teslascope/status/2042751356570865741#m",
+      "date": "Fri, 10 Apr 2026 23:47:30 GMT"
     },
     {
       "text": "nitter.net/xanderwasserman/status…\n\n\nXander (@xanderwasserman)\n\n2026.8.6 was busy downloading on my HW3 M3, but I see now that this update has been pulled and there is no update available anymore. Is this purely a coincidence that it lined up with the RDW announcement? @teslascope @NotATeslaApp\n\n\n\n— https://nitter.net/xanderwasserman/status/2042745590241505486#m",
@@ -27,11 +32,6 @@
       "text": "nitter.net/dhalgrenmarquis/status…\n\n\nDhalgren Marquis (@DhalgrenMarquis)\n\nWas almost done downloading 2026.8.6 and it vanished. Now “up to date” with 8.3. \n\nBummer 😓\n@teslascope\n\n\n\n— https://nitter.net/DhalgrenMarquis/status/2042749029399040358#m",
       "link": "https://nitter.net/teslascope/status/2042751556890841143#m",
       "date": "Fri, 10 Apr 2026 23:48:18 GMT"
-    },
-    {
-      "text": "We’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.",
-      "link": "https://nitter.net/teslascope/status/2042751356570865741#m",
-      "date": "Fri, 10 Apr 2026 23:47:30 GMT"
     },
     {
       "text": "We will be updating our Full Self-Driving leaderboards to allow for ranking by region (North America and Europe) and Globally.\n\nYou can sign up on out platform to participate in both our leaderboards and software tracking, for free, forever!\n\nteslascope.com/leaderboards/…\n\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving (Supervised) is OFFICIALLY approved in the Netherlands.\n\nIt will begin rolling out to customers shortly.\n\n\n\n— https://nitter.net/teslascope/status/2042710416837742726#m",
@@ -59,9 +59,9 @@
       "date": "Fri, 10 Apr 2026 21:04:49 GMT"
     },
     {
-      "text": "We anticipate that official news for Full Self-Driving will be shared in the following hours, days, and weeks, but until then, remain aware of posts with unverified statements.\n\nNonetheless, very exciting times.",
-      "link": "https://nitter.net/teslascope/status/2042699067390857364#m",
-      "date": "Fri, 10 Apr 2026 20:19:43 GMT"
+      "text": "There have been screenshots circulating of supposed new @teslaeurope vehicle owners across Europe being informed about an Early Access Program for Full Self-Driving starting Sunday.\n\nAs far as our research has found, these screenshots are doctored and based on false information.",
+      "link": "https://nitter.net/teslascope/status/2042699061288145065#m",
+      "date": "Fri, 10 Apr 2026 20:19:42 GMT"
     },
     {
       "text": "Some of these posts and rumors have further claimed that the first thousand who sign up for Full Self-Driving will receive an invite to this program.\n\nThis is also based on a single source and entirely unvalidated and not based on any official statements from @teslaeurope.",
@@ -69,14 +69,9 @@
       "date": "Fri, 10 Apr 2026 20:19:42 GMT"
     },
     {
-      "text": "There have been screenshots circulating of supposed new @teslaeurope vehicle owners across Europe being informed about an Early Access Program for Full Self-Driving starting Sunday.\n\nAs far as our research has found, these screenshots are doctored and based on false information.",
-      "link": "https://nitter.net/teslascope/status/2042699061288145065#m",
-      "date": "Fri, 10 Apr 2026 20:19:42 GMT"
-    },
-    {
-      "text": "While experiences are typically subjective in nature, we've reiterated on multiple occasions that Tesla has continued to update the V12.6.4 model several times since its launch.\n\nWhile these changes are typically minor or simply new weights, 8.6 changes much more than usual.",
-      "link": "https://nitter.net/teslascope/status/2042473779448988104#m",
-      "date": "Fri, 10 Apr 2026 05:24:31 GMT"
+      "text": "We anticipate that official news for Full Self-Driving will be shared in the following hours, days, and weeks, but until then, remain aware of posts with unverified statements.\n\nNonetheless, very exciting times.",
+      "link": "https://nitter.net/teslascope/status/2042699067390857364#m",
+      "date": "Fri, 10 Apr 2026 20:19:43 GMT"
     },
     {
       "text": "We've observed an influx of reports that 2026.8.6 included relaxed driver monitoring among other Full Self-Driving improvements for HW3 Tesla vehicles.\n\nWhile many have felt this was subjective, we now have more proof that real changes (and improvements) were made in this update.\n\n\ngreen (@greentheonly)\n\nthe underlying change in 2026.8.6 (from 2026.8.3 and prior) is significant in the code in particular (also there's merging so now weights are shared across all cars of the same hw type).\nThe weights themselves changed some but I had no time to look into any of it in details\n\n\n\n— https://nitter.net/greentheonly/status/2042472421156897045#m",
@@ -84,14 +79,19 @@
       "date": "Fri, 10 Apr 2026 05:24:30 GMT"
     },
     {
+      "text": "While experiences are typically subjective in nature, we've reiterated on multiple occasions that Tesla has continued to update the V12.6.4 model several times since its launch.\n\nWhile these changes are typically minor or simply new weights, 8.6 changes much more than usual.",
+      "link": "https://nitter.net/teslascope/status/2042473779448988104#m",
+      "date": "Fri, 10 Apr 2026 05:24:31 GMT"
+    },
+    {
       "text": "10x parameter model now coming in Full Self-Driving V15.\n\n\nElon Musk (@elonmusk)\n\nOur rate of advancement with the small model has been so fast that the large model has not yet caught up.\n\nV15 will be the large model.\n\n\n\n— https://nitter.net/elonmusk/status/2042082006314709086#m",
       "link": "https://nitter.net/teslascope/status/2042085442259210399#m",
       "date": "Thu, 09 Apr 2026 03:41:24 GMT"
     },
     {
-      "text": "2026 is a big year for Tesla, and the company has already shared progress with approaching regulator approval in European countries.\n\nAs with the update on March 19th, we anticipate additional updates from the company throughout this year.\n\nnitter.net/teslaeurope/status/203…\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nTogether with RDW, we have officially completed the final vehicle testing phase for Full Self-Driving (Supervised) and have submitted all documentation required for the UN R-171 approval + Article 39 exemptions. The RDW team is now reviewing the documentation and test results package internally. They have communicated the expected approval for Netherlands date of 4/10, shifting from 3/20 previously and we look forward to successful completion of this cooperation. \n\nFollowing the Netherlands’ approval, European countries will be able to recognize this approval nationally. We are anticipating a possible EU-wide approval during the summer.\n\nOver the past 18 months, this approval has involved a series of intense documentation, development, testing, research & audits. Including but certainly not limited to:\n\n– 1,600,000+ km of FSD (Supervised) testing on EU roads\n– 13,000+ customer sales ride-alongs\n– 4,500+ track test scenario executions\n– Thousands of pages of written documentation for 400+ compliance requirements\n– Dozens of research studies into safety performance/results\n\nWe're extremely proud of the work conducted with the RDW team up until this point.\n\nWe very much look forward to the approval in April, and sharing FSD (Supervised) with our patient EU customers!\n\n\n\n— https://nitter.net/teslaeurope/status/2034872940542800361#m",
-      "link": "https://nitter.net/teslascope/status/2042023909210648986#m",
-      "date": "Wed, 08 Apr 2026 23:36:53 GMT"
+      "text": "In response to unauthorized devices activating Full Self-Driving (Supervised) in unsupported regions, @Tesla has remotely disabled some driver assistance functions on customer vehicles.\n\nThe company has communicated that some features will be restored in a future update.",
+      "link": "https://nitter.net/teslascope/status/2042023905733529620#m",
+      "date": "Wed, 08 Apr 2026 23:36:52 GMT"
     },
     {
       "text": "It is important to note that while Full Self-Driving (Supervised) was capable of generalized driving in unsupported regions, the software was not designed to respect many region-oriented traffic laws, traffic lights, and more.\n\nEven supervised, this poses some safety risks.",
@@ -99,9 +99,9 @@
       "date": "Wed, 08 Apr 2026 23:36:53 GMT"
     },
     {
-      "text": "In response to unauthorized devices activating Full Self-Driving (Supervised) in unsupported regions, @Tesla has remotely disabled some driver assistance functions on customer vehicles.\n\nThe company has communicated that some features will be restored in a future update.",
-      "link": "https://nitter.net/teslascope/status/2042023905733529620#m",
-      "date": "Wed, 08 Apr 2026 23:36:52 GMT"
+      "text": "2026 is a big year for Tesla, and the company has already shared progress with approaching regulator approval in European countries.\n\nAs with the update on March 19th, we anticipate additional updates from the company throughout this year.\n\nnitter.net/teslaeurope/status/203…\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nTogether with RDW, we have officially completed the final vehicle testing phase for Full Self-Driving (Supervised) and have submitted all documentation required for the UN R-171 approval + Article 39 exemptions. The RDW team is now reviewing the documentation and test results package internally. They have communicated the expected approval for Netherlands date of 4/10, shifting from 3/20 previously and we look forward to successful completion of this cooperation. \n\nFollowing the Netherlands’ approval, European countries will be able to recognize this approval nationally. We are anticipating a possible EU-wide approval during the summer.\n\nOver the past 18 months, this approval has involved a series of intense documentation, development, testing, research & audits. Including but certainly not limited to:\n\n– 1,600,000+ km of FSD (Supervised) testing on EU roads\n– 13,000+ customer sales ride-alongs\n– 4,500+ track test scenario executions\n– Thousands of pages of written documentation for 400+ compliance requirements\n– Dozens of research studies into safety performance/results\n\nWe're extremely proud of the work conducted with the RDW team up until this point.\n\nWe very much look forward to the approval in April, and sharing FSD (Supervised) with our patient EU customers!\n\n\n\n— https://nitter.net/teslaeurope/status/2034872940542800361#m",
+      "link": "https://nitter.net/teslascope/status/2042023909210648986#m",
+      "date": "Wed, 08 Apr 2026 23:36:53 GMT"
     }
   ]
 }
