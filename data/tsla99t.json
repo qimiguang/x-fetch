@@ -1,8 +1,18 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-12T13:13:26Z",
+  "updated_at": "2026-04-12T15:41:23Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "每当我想到 @Tesla_AI  要服务的是整个全球市场的时候，就更要感叹技术路线的决定性作用。\n\n\n\n\nPhil Duan (@pduan)\n\nWhen we were building the explicit stack in 2019, the Netherlands—especially Amsterdam—gave us major headaches. So many pedestrians and bikes on narrow streets.\n\nToday, FSD just works out of the box. Generalization is a beautiful thing.\n\n\n\n— https://nitter.net/pduan/status/2042727542474575919#m",
+      "link": "https://nitter.net/Tsla99T/status/2043351137445654588#m",
+      "date": "Sun, 12 Apr 2026 15:30:49 GMT"
+    },
+    {
+      "text": "开特斯拉的另一个好处：每年车检2分钟在家里网上搞定，不需要去指定地点进行尾气排放检查",
+      "link": "https://nitter.net/Tsla99T/status/2043333494848315869#m",
+      "date": "Sun, 12 Apr 2026 14:20:43 GMT"
+    },
     {
       "text": "如果说美国最顶尖的数字AI 模型领先世界 6 到 12 个月，那么特斯拉的物理 AI 模型则领先世界30到40个月。",
       "link": "https://nitter.net/Tsla99T/status/2043002512450453601#m",
@@ -87,16 +97,6 @@
       "text": "Alexandr Wang交活了，我卖的$495 Meta Put可以close了，没有任何内部消息，就是尊重常识",
       "link": "https://nitter.net/Tsla99T/status/2041936906330460172#m",
       "date": "Wed, 08 Apr 2026 17:51:10 GMT"
-    },
-    {
-      "text": "其实我想表达的是：但凡你持有超过一年，你都不会为今天的股价所动。所以，你是不是假装长线投资者呢？\n\n\nTSLA99T (@Tsla99T)\n\n今天你卖了没有？还比一年前赚呢\n\n\n\n— https://nitter.net/Tsla99T/status/2041519931922038798#m",
-      "link": "https://nitter.net/Tsla99T/status/2041918896005902400#m",
-      "date": "Wed, 08 Apr 2026 16:39:36 GMT"
-    },
-    {
-      "text": "增强学习RL，一切都在训练应用的细节中，无数个类似的细节组成了特斯拉AI的护城河\n\n\nJulian Ibarz (@julianibarz)\n\nI said last year that RL will be back with a vengeance for embodied AI after so many years of focus by the community on pure offline imitation learning.\n\nCase in point: Latest release of FSD uses RL extensively to solve tricky and rare scenarios. For truly reliable embodied AI that scales, RL is critical and Tesla is at the forefront of that.\n\n\n\n— https://nitter.net/julianibarz/status/2041881115292791233#m",
-      "link": "https://nitter.net/Tsla99T/status/2041883156345651353#m",
-      "date": "Wed, 08 Apr 2026 14:17:35 GMT"
     }
   ]
 }
