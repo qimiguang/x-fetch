@@ -1,17 +1,17 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-13T08:12:49Z",
+  "updated_at": "2026-04-13T10:51:31Z",
   "count": 19,
   "tweets": [
-    {
-      "text": "SpaceX正在开发Grok Computer\n我昨天坐在车上的时候还在想，什么时候能在FSD的时候用Grok对AI助理发号施令\n\n\nElon Musk (@elonmusk)\n\nPrivate beta release is out to some users. Broader beta release in 3 days.\n\n\n\n— https://nitter.net/elonmusk/status/2043393054690902360#m",
-      "link": "https://nitter.net/Tsla99T/status/2043399767640649845#m",
-      "date": "Sun, 12 Apr 2026 18:44:03 GMT"
-    },
     {
       "text": "应该是一个类似openclaw和perplexity computer的东西\nperplexity.ai/hub/blog/intro…",
       "link": "https://nitter.net/Tsla99T/status/2043400728811552917#m",
       "date": "Sun, 12 Apr 2026 18:47:52 GMT"
+    },
+    {
+      "text": "SpaceX正在开发Grok Computer\n我昨天坐在车上的时候还在想，什么时候能在FSD的时候用Grok对AI助理发号施令\n\n\nElon Musk (@elonmusk)\n\nPrivate beta release is out to some users. Broader beta release in 3 days.\n\n\n\n— https://nitter.net/elonmusk/status/2043393054690902360#m",
+      "link": "https://nitter.net/Tsla99T/status/2043399767640649845#m",
+      "date": "Sun, 12 Apr 2026 18:44:03 GMT"
     },
     {
       "text": "每当我想到 @Tesla_AI  要服务的是整个全球市场的时候，就更要感叹技术路线的决定性作用。\n\n\n\n\nPhil Duan (@pduan)\n\nWhen we were building the explicit stack in 2019, the Netherlands—especially Amsterdam—gave us major headaches. So many pedestrians and bikes on narrow streets.\n\nToday, FSD just works out of the box. Generalization is a beautiful thing.\n\n\n\n— https://nitter.net/pduan/status/2042727542474575919#m",
@@ -49,11 +49,6 @@
       "date": "Fri, 10 Apr 2026 01:04:46 GMT"
     },
     {
-      "text": "很有道理，是时候建一个高价心理按摩群了\n\n\nV @@ V (@Vick3342)\n\n自從Tesla上市以來，沒有一年不下跌超過30%的，所以你也真辛苦，每年都要免費幫忙安撫這一大堆情緒投資者。\n\n\n\n— https://nitter.net/Vick3342/status/2042039749406560767#m",
-      "link": "https://nitter.net/Tsla99T/status/2042286734830944620#m",
-      "date": "Thu, 09 Apr 2026 17:01:16 GMT"
-    },
-    {
       "text": "建好了$239一个月，看清楚了再订阅啊",
       "link": "https://nitter.net/Tsla99T/status/2042349281332301994#m",
       "date": "Thu, 09 Apr 2026 21:09:48 GMT"
@@ -64,14 +59,14 @@
       "date": "Thu, 09 Apr 2026 18:07:52 GMT"
     },
     {
+      "text": "很有道理，是时候建一个高价心理按摩群了\n\n\nV @@ V (@Vick3342)\n\n自從Tesla上市以來，沒有一年不下跌超過30%的，所以你也真辛苦，每年都要免費幫忙安撫這一大堆情緒投資者。\n\n\n\n— https://nitter.net/Vick3342/status/2042039749406560767#m",
+      "link": "https://nitter.net/Tsla99T/status/2042286734830944620#m",
+      "date": "Thu, 09 Apr 2026 17:01:16 GMT"
+    },
+    {
       "text": "前不久特斯拉停止Autopilot，把我加入AI组做的第一个项目代码彻底删除了\n这次更新MLIR，把我在硬件组的最后一个项目代码彻底替换了\n从此，FSD与我无关了\n\n\nTSLA99T (@Tsla99T)\n\n这个MLIR更新，把我最后2年在硬件组的工作完全取代了\npatents.google.com/patent/WO…\n\n\n\n— https://nitter.net/Tsla99T/status/2042222372036436272#m",
       "link": "https://nitter.net/Tsla99T/status/2042225243658350730#m",
       "date": "Thu, 09 Apr 2026 12:56:55 GMT"
-    },
-    {
-      "text": "AI4的算力还远没有被榨干\nV14.3主要是RL训练算法，和数据更新的提升，不涉及模型大小\n训练一个更大的模型，特别是10X级别，收敛速度赶不上提升RL算法的提升效果，用小模型更契合V14.3的release进度\n那么V15将是10X的大模型，辅助不断增强的RL训练算法\n目标是远超人类的驾驶\n\n\n\n\nElon Musk (@elonmusk)\n\nTesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.\n\n\n\n— https://nitter.net/elonmusk/status/2042080823332258302#m",
-      "link": "https://nitter.net/Tsla99T/status/2042219946684338556#m",
-      "date": "Thu, 09 Apr 2026 12:35:52 GMT"
     },
     {
       "text": "这个MLIR更新，把我最后2年在硬件组的工作完全取代了\npatents.google.com/patent/WO…",
@@ -82,6 +77,11 @@
       "text": "更大的模型，更复杂的架构，需要更强大的AI编译器，这次的MLIR更新就是为之准备的",
       "link": "https://nitter.net/Tsla99T/status/2042221387473985967#m",
       "date": "Thu, 09 Apr 2026 12:41:36 GMT"
+    },
+    {
+      "text": "AI4的算力还远没有被榨干\nV14.3主要是RL训练算法，和数据更新的提升，不涉及模型大小\n训练一个更大的模型，特别是10X级别，收敛速度赶不上提升RL算法的提升效果，用小模型更契合V14.3的release进度\n那么V15将是10X的大模型，辅助不断增强的RL训练算法\n目标是远超人类的驾驶\n\n\n\n\nElon Musk (@elonmusk)\n\nTesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.\n\n\n\n— https://nitter.net/elonmusk/status/2042080823332258302#m",
+      "link": "https://nitter.net/Tsla99T/status/2042219946684338556#m",
+      "date": "Thu, 09 Apr 2026 12:35:52 GMT"
     },
     {
       "text": "谷歌赢得美国AI竞赛，真不是随便说说的，gemini纵使不是最好的AI，你也不得不用，因为gmail，chrome，youtbue这些必用产品完全与之绑定了。上周卖的$280 put今天close了",
