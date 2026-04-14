@@ -1,8 +1,18 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-14T16:13:25Z",
+  "updated_at": "2026-04-14T19:25:15Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "waymo最近的运营区域距离我要开车25分钟。。。\n今天有点来不及了",
+      "link": "https://nitter.net/Tsla99T/status/2044124969047625799#m",
+      "date": "Tue, 14 Apr 2026 18:45:45 GMT"
+    },
+    {
+      "text": "来了",
+      "link": "https://nitter.net/Tsla99T/status/2044118358795399616#m",
+      "date": "Tue, 14 Apr 2026 18:19:29 GMT"
+    },
     {
       "text": "卖两千万辆车，是为了一千万活跃FSD订阅\n大家都知道的\n\n\nTSLA99T (@Tsla99T)\n\n4.22财报我们看看FSD的订阅率\n下周我们感受一下14.3\n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2040056795100487971#m",
       "link": "https://nitter.net/Tsla99T/status/2043690470790795651#m",
@@ -92,16 +102,6 @@
       "text": "谷歌赢得美国AI竞赛，真不是随便说说的，gemini纵使不是最好的AI，你也不得不用，因为gmail，chrome，youtbue这些必用产品完全与之绑定了。上周卖的$280 put今天close了",
       "link": "https://nitter.net/Tsla99T/status/2041961786782425586#m",
       "date": "Wed, 08 Apr 2026 19:30:02 GMT"
-    },
-    {
-      "text": "常识\n\n\nDan Burkland (@DBurkland)\n\nFor those of you who are surprised or upset that regressions are present in FSD v14.3, keep the following in mind:\n\n- This is completely normal in neural network development cycles.\n- Progress is not linear, especially after major architectural changes are made, which is exactly what happened in v14.2 and v14.3.\n- The upcoming v14.3.x minor builds will focus on eliminating those regressions, and the end result should still be a clear step forward from v14.2.x.\n\nPatience is key here. Big leaps often come with temporary bumps.\n\n\n\n— https://nitter.net/DBurkland/status/2041912742664155543#m",
-      "link": "https://nitter.net/Tsla99T/status/2041950277410943070#m",
-      "date": "Wed, 08 Apr 2026 18:44:18 GMT"
-    },
-    {
-      "text": "马斯克要把告openai可能赢得的赔偿$150Billion留给openai的charity arm，这事都没啥人说。现在连赞扬一下首富的初心和情怀都没人敢了吗？",
-      "link": "https://nitter.net/Tsla99T/status/2041943789523083397#m",
-      "date": "Wed, 08 Apr 2026 18:18:31 GMT"
     }
   ]
 }

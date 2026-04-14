@@ -1,8 +1,58 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-14T16:13:03Z",
-  "count": 20,
+  "updated_at": "2026-04-14T19:24:54Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "NEWS: Tesla Cybercab testing has now begun in Florida.\n\nThese two Cybercabs were spotted in Naples.\n\n(via ryryfl on Reddit)",
+      "link": "https://nitter.net/SawyerMerritt/status/2044071583078072395#m",
+      "date": "Tue, 14 Apr 2026 15:13:37 GMT"
+    },
+    {
+      "text": "⚡️🧠🚗\n\n\nMike P (@mikepat711)\n\nI see the color of your profile pic and “we noticed a” and my brain gets a jolt of dopamine\n\n\n\n— https://nitter.net/mikepat711/status/2044118367401906283#m",
+      "link": "https://nitter.net/teslascope/status/2044118759372415164#m",
+      "date": "Tue, 14 Apr 2026 18:21:04 GMT"
+    },
+    {
+      "text": "Full Self-Driving V14.3.1 is now rolling out to Tesla customers for the first time! Our platform has the release notes available immediately.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.1\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2044111867962851776#m",
+      "link": "https://nitter.net/teslascope/status/2044115773996851592#m",
+      "date": "Tue, 14 Apr 2026 18:09:13 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111912565141919#m",
+      "date": "Tue, 14 Apr 2026 17:53:52 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111908219830415#m",
+      "date": "Tue, 14 Apr 2026 17:53:51 GMT"
+    },
+    {
+      "text": "A new feature has been detected: FSD (Supervised) v14.3\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111903941636223#m",
+      "date": "Tue, 14 Apr 2026 17:53:50 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111895414600047#m",
+      "date": "Tue, 14 Apr 2026 17:53:48 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111883016270269#m",
+      "date": "Tue, 14 Apr 2026 17:53:45 GMT"
+    },
+    {
+      "text": "A new feature has been detected: FSD (Supervised) v14.3.1\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111867962851776#m",
+      "date": "Tue, 14 Apr 2026 17:53:41 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.9.7 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111851940655596#m",
+      "date": "Tue, 14 Apr 2026 17:53:37 GMT"
+    },
     {
       "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044055675773317511#m",
@@ -47,61 +97,6 @@
       "text": "Here is the post we are referencing regarding the camera issue and the upsate being pulled from pending installs.\n\n\nTeslascope (@teslascope)\n\nWe have received two unconfirmed reports from vehicle owners that the update 2026.8.6 was pulled due to delays with loading the rear camera and receiving the error “Camera Temporary Unavailable”.\n\nThe scope of this bug is not known, but is not impacting all Tesla vehicles.\n\n\n\n— https://nitter.net/teslascope/status/2042787811791900715#m",
       "link": "https://nitter.net/teslascope/status/2043208401606627522#m",
       "date": "Sun, 12 Apr 2026 06:03:38 GMT"
-    },
-    {
-      "text": "This software update 2026.8.6.1, now going wide, resolves the rear camera delay/blackout issue we reported on previously, which impacted many, but not all Tesla vehicles on 2026.8.6.\n\nWe expect vehicles on the prior version will be prioritized initially, as seen in our data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.8.6.1 on Model X Plaid (2022) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2043177584276508961#m",
-      "link": "https://nitter.net/teslascope/status/2043208006457012393#m",
-      "date": "Sun, 12 Apr 2026 06:02:04 GMT"
-    },
-    {
-      "text": "This appears to be an older update that was not previously detected on our platform, but was released in limited quantities starting on March 18th.\n\nThe update includes Full Self-Driving V14.1.4, so it is an older version of FSD.",
-      "link": "https://nitter.net/teslascope/status/2043184129525919829#m",
-      "date": "Sun, 12 Apr 2026 04:27:11 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.4.5 on a Tesla vehicle (2023). View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043179830443708681#m",
-      "date": "Sun, 12 Apr 2026 04:10:06 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043177617738670328#m",
-      "date": "Sun, 12 Apr 2026 04:01:19 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Autopilot Naming Update\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043177607793987640#m",
-      "date": "Sun, 12 Apr 2026 04:01:16 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043177597727555588#m",
-      "date": "Sun, 12 Apr 2026 04:01:14 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.8.6.1 on Model X Plaid (2022) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043177584276508961#m",
-      "date": "Sun, 12 Apr 2026 04:01:11 GMT"
-    },
-    {
-      "text": "The software update 2026.3.6 has been released in the Netherlands, and contains Full Self-Driving (Supervised) V14.2.2.5.\n\nThe release notes do not mention V14.2.2.5, although has been confirmed both in-vehicle and within the official @Tesla mobile app.",
-      "link": "https://nitter.net/teslascope/status/2043066520646095173#m",
-      "date": "Sat, 11 Apr 2026 20:39:51 GMT"
-    },
-    {
-      "text": "We had observed a number of reports on this issue since the update was first released over a week ago, but typically resolved itself after a reboot.\n\nAs this directly impacts safety, we believe this is the cause of the update being pulled, and may be re-released with fixes.",
-      "link": "https://nitter.net/teslascope/status/2042787814400741688#m",
-      "date": "Sat, 11 Apr 2026 02:12:22 GMT"
-    },
-    {
-      "text": "We have received two unconfirmed reports from vehicle owners that the update 2026.8.6 was pulled due to delays with loading the rear camera and receiving the error “Camera Temporary Unavailable”.\n\nThe scope of this bug is not known, but is not impacting all Tesla vehicles.\n\n\nTeslascope (@teslascope)\n\nWe’ve observed a majority of Tesla vehicles with 2026.8.6 pending (whether awaiting install or download) have had the update pulled from their vehicles worldwide. This also impacted our own vehicle.\n\nNo official insight into the decision at this time can be provided.\n\n\n\n— https://nitter.net/teslascope/status/2042751356570865741#m",
-      "link": "https://nitter.net/teslascope/status/2042787811791900715#m",
-      "date": "Sat, 11 Apr 2026 02:12:22 GMT"
-    },
-    {
-      "text": "nitter.net/xanderwasserman/status…\n\n\nXander (@xanderwasserman)\n\n2026.8.6 was busy downloading on my HW3 M3, but I see now that this update has been pulled and there is no update available anymore. Is this purely a coincidence that it lined up with the RDW announcement? @teslascope @NotATeslaApp\n\n\n\n— https://nitter.net/xanderwasserman/status/2042745590241505486#m",
-      "link": "https://nitter.net/teslascope/status/2042751639925461083#m",
-      "date": "Fri, 10 Apr 2026 23:48:38 GMT"
     }
   ]
 }
