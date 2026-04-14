@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-14T13:58:01Z",
+  "updated_at": "2026-04-14T16:13:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044055675773317511#m",
+      "date": "Tue, 14 Apr 2026 14:10:24 GMT"
+    },
     {
       "text": "Spring Update features for @Tesla vehicles are now available to read, and rolling out shortly!\n\n\nTesla (@Tesla)\n\nx.com/i/article/204372089978…\n\n\n\n— https://nitter.net/Tesla/status/2043782316850573312#m",
       "link": "https://nitter.net/teslascope/status/2043795735800606751#m",
@@ -97,11 +102,6 @@
       "text": "nitter.net/xanderwasserman/status…\n\n\nXander (@xanderwasserman)\n\n2026.8.6 was busy downloading on my HW3 M3, but I see now that this update has been pulled and there is no update available anymore. Is this purely a coincidence that it lined up with the RDW announcement? @teslascope @NotATeslaApp\n\n\n\n— https://nitter.net/xanderwasserman/status/2042745590241505486#m",
       "link": "https://nitter.net/teslascope/status/2042751639925461083#m",
       "date": "Fri, 10 Apr 2026 23:48:38 GMT"
-    },
-    {
-      "text": "nitter.net/dhalgrenmarquis/status…\n\n\nDhalgren Marquis (@DhalgrenMarquis)\n\nWas almost done downloading 2026.8.6 and it vanished. Now “up to date” with 8.3. \n\nBummer 😓\n@teslascope\n\n\n\n— https://nitter.net/DhalgrenMarquis/status/2042749029399040358#m",
-      "link": "https://nitter.net/teslascope/status/2042751556890841143#m",
-      "date": "Fri, 10 Apr 2026 23:48:18 GMT"
     }
   ]
 }
