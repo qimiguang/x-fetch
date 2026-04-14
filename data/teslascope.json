@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-14T19:24:54Z",
-  "count": 19,
+  "updated_at": "2026-04-14T21:56:18Z",
+  "count": 20,
   "tweets": [
+    {
+      "text": "This is akin to @Lemonade_Inc's discounts for FSD usage, although theirs only supports AI4 vehicles due to limitations of Fleet Telemetry data.",
+      "link": "https://nitter.net/teslascope/status/2044156646356857337#m",
+      "date": "Tue, 14 Apr 2026 20:51:37 GMT"
+    },
+    {
+      "text": "New Safety Score version V3.0 rewards utilization of @Tesla Full Self-Driving (assumedly for both HW3 and AI4) with lower insurance costs.\n\n\nTesla North America (@tesla_na)\n\nTesla Insurance update\n\nWith the latest version of Safety Score (v3.0), every mile you drive with FSD Supervised enabled will receive a score of 100. \n\nThis allows you to maintain a higher average safety score over time, resulting in lower monthly insurance premiums.\n\nApplies to new policies in Indiana, Tennessee, Texas, Arizona, Virginia & Illinois\n\n\n\n— https://nitter.net/tesla_na/status/2044152487901622369#m",
+      "link": "https://nitter.net/teslascope/status/2044156644071010810#m",
+      "date": "Tue, 14 Apr 2026 20:51:37 GMT"
+    },
     {
       "text": "NEWS: Tesla Cybercab testing has now begun in Florida.\n\nThese two Cybercabs were spotted in Naples.\n\n(via ryryfl on Reddit)",
       "link": "https://nitter.net/SawyerMerritt/status/2044071583078072395#m",
@@ -92,11 +102,6 @@
       "text": "Tesla released their Spring Update this week last year. 🌸☀️\n\nIt included Adaptive Headlights in North America, Alternative Trip Plans, Keep Accessory On, a redesigned Dashcam UI, and many other features.\n\nWhat would you like to see in this year’s update?",
       "link": "https://nitter.net/teslascope/status/2043257950811426864#m",
       "date": "Sun, 12 Apr 2026 09:20:32 GMT"
-    },
-    {
-      "text": "Here is the post we are referencing regarding the camera issue and the upsate being pulled from pending installs.\n\n\nTeslascope (@teslascope)\n\nWe have received two unconfirmed reports from vehicle owners that the update 2026.8.6 was pulled due to delays with loading the rear camera and receiving the error “Camera Temporary Unavailable”.\n\nThe scope of this bug is not known, but is not impacting all Tesla vehicles.\n\n\n\n— https://nitter.net/teslascope/status/2042787811791900715#m",
-      "link": "https://nitter.net/teslascope/status/2043208401606627522#m",
-      "date": "Sun, 12 Apr 2026 06:03:38 GMT"
     }
   ]
 }
