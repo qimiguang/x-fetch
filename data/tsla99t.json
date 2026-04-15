@@ -1,8 +1,23 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-15T10:20:51Z",
+  "updated_at": "2026-04-15T13:52:02Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "2022年的加州人：刚才北达拉斯Prosper出来了一个房子，白菜价，加五万all cash随手给买了\n2025年的加州人：德州那个破房子被我卖了，不保值还每年涨保险\n\n\nTSLA99T (@Tsla99T)\n\n如果生活质量是大房子，同意\n但是加州的气候，自然环境，科技氛围，上升空间，是德州有钱也买不来的\n另外，硅谷的财富积累速度是最快的\n疫情期间，加州人来德州抢房子看都不看就直接下单，我亲自经历在opendoor上买投资房，经纪人忙得焦头烂额，错把别人的合同发给了我，好笑的人，这个人我居然还认识\n\n\n\n— https://nitter.net/Tsla99T/status/2044411436265246963#m",
+      "link": "https://nitter.net/Tsla99T/status/2044412971053461868#m",
+      "date": "Wed, 15 Apr 2026 13:50:10 GMT"
+    },
+    {
+      "text": "这批人和王志安嘲笑美国败于“非对称战争”的是同一个套路：不断地制造短期噪音\n如果投资者中了这样的圈套，就会跟着患得患失，丧失了常识，失去了对总体趋势的判断能力\n\n\n海轩梦 (@HXM_196_44)\n\nRobotaxi 刚起步时\n\n嘲笑的人\n还是那批人\n\nRobotaxi：\n- 带安全员版 | 11辆 | 2025.06.22\n- 无人监督版 | 11辆 | 2026.04.11\n\n$TSLA\n\n\n\n— https://nitter.net/HXM_196_44/status/2044361045154894250#m",
+      "link": "https://nitter.net/Tsla99T/status/2044399762774827418#m",
+      "date": "Wed, 15 Apr 2026 12:57:41 GMT"
+    },
+    {
+      "text": "AI3是旗舰：主要面向卷积神经网络\nAI4是过度：更大算力\nAI5是划时代的：全面支持AGI\n\n\nElon Musk (@elonmusk)\n\nCongrats to the @Tesla_AI chip design team on taping out AI5!\n\nAI6, Dojo3 & other exciting chips in work.\n\n\n\n\n\n— https://nitter.net/elonmusk/status/2044315118583066738#m",
+      "link": "https://nitter.net/Tsla99T/status/2044392722891526515#m",
+      "date": "Wed, 15 Apr 2026 12:29:42 GMT"
+    },
     {
       "text": "我也发现高速出口更加提前换到右道了\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMad Max behavior on the highway is definitely different for me on FSD v14.3.1, in a good way. Despite no cars around me or ahead of me many times, it never touched 85 mph. It also went to the right lane miles ahead of the off-ramp, far sooner than before. Will post video later.\n\n\n\n— https://nitter.net/SawyerMerritt/status/2044152877233340795#m",
       "link": "https://nitter.net/Tsla99T/status/2044182292575211769#m",
@@ -87,21 +102,6 @@
       "text": "前不久特斯拉停止Autopilot，把我加入AI组做的第一个项目代码彻底删除了\n这次更新MLIR，把我在硬件组的最后一个项目代码彻底替换了\n从此，FSD与我无关了\n\n\nTSLA99T (@Tsla99T)\n\n这个MLIR更新，把我最后2年在硬件组的工作完全取代了\npatents.google.com/patent/WO…\n\n\n\n— https://nitter.net/Tsla99T/status/2042222372036436272#m",
       "link": "https://nitter.net/Tsla99T/status/2042225243658350730#m",
       "date": "Thu, 09 Apr 2026 12:56:55 GMT"
-    },
-    {
-      "text": "这个MLIR更新，把我最后2年在硬件组的工作完全取代了\npatents.google.com/patent/WO…",
-      "link": "https://nitter.net/Tsla99T/status/2042222372036436272#m",
-      "date": "Thu, 09 Apr 2026 12:45:30 GMT"
-    },
-    {
-      "text": "更大的模型，更复杂的架构，需要更强大的AI编译器，这次的MLIR更新就是为之准备的",
-      "link": "https://nitter.net/Tsla99T/status/2042221387473985967#m",
-      "date": "Thu, 09 Apr 2026 12:41:36 GMT"
-    },
-    {
-      "text": "AI4的算力还远没有被榨干\nV14.3主要是RL训练算法，和数据更新的提升，不涉及模型大小\n训练一个更大的模型，特别是10X级别，收敛速度赶不上提升RL算法的提升效果，用小模型更契合V14.3的release进度\n那么V15将是10X的大模型，辅助不断增强的RL训练算法\n目标是远超人类的驾驶\n\n\n\n\nElon Musk (@elonmusk)\n\nTesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.\n\n\n\n— https://nitter.net/elonmusk/status/2042080823332258302#m",
-      "link": "https://nitter.net/Tsla99T/status/2042219946684338556#m",
-      "date": "Thu, 09 Apr 2026 12:35:52 GMT"
     }
   ]
 }
