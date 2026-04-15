@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-15T07:57:23Z",
+  "updated_at": "2026-04-15T10:20:32Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "The next wave of Full Self-Driving V14.3.1 via 2026.2.9.7 is now rolling out to additional AI4 vehicles.\n\nThis is 4-5x larger than the prior wave, and is expected to include thousands of vehicles.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.1\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2044111867962851776#m",
+      "link": "https://nitter.net/teslascope/status/2044354246397825426#m",
+      "date": "Wed, 15 Apr 2026 09:56:49 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044346035552587834#m",
+      "date": "Wed, 15 Apr 2026 09:24:11 GMT"
+    },
+    {
+      "text": "Elon has reiterated that there are no plans to use AI5 chips in customer vehicles for the foreseeable future. The chip will be focused on @Tesla_Optimus and supercomputers.\n\nTesla remains on track for releasing Full Self-Driving Unsupervised on the latest FSD computer (AI4).\n\n\nElon Musk (@elonmusk)\n\nOptimus and our supercomputer clusters. \n\nAI4 is enough to achieve much better than human safety for FSD.\n\n\n\n— https://nitter.net/elonmusk/status/2044332976197288293#m",
+      "link": "https://nitter.net/teslascope/status/2044340332809322552#m",
+      "date": "Wed, 15 Apr 2026 09:01:32 GMT"
+    },
     {
       "text": "First look at the Full Self-Driving AI5 chip!\n\n\nElon Musk (@elonmusk)\n\nCongrats to the @Tesla_AI chip design team on taping out AI5!\n\nAI6, Dojo3 & other exciting chips in work.\n\n\n\n\n\n— https://nitter.net/elonmusk/status/2044315118583066738#m",
       "link": "https://nitter.net/teslascope/status/2044322688911716756#m",
@@ -82,21 +97,6 @@
       "text": "We now have more confirmation that Full Self-Driving (Supervised) in Netherlands is for AI4 vehicles only at this time.\n\nThis means that HW3 vehicles in the European Union will either have to wait for the release of V14 Lite or a future hardware upgrade to access FSD.\n\n\nXander (@xanderwasserman)\n\nConfirmed: FSD (Supervised) in the Netherlands is only for HW4 at this moment. This has been the general consensus, but good to have it officially confirmed. \n\n@teslascope @KRoelandschap @Rustavi\n\n\n\n\n\n— https://nitter.net/xanderwasserman/status/2043596326101819900#m",
       "link": "https://nitter.net/teslascope/status/2043597190023807381#m",
       "date": "Mon, 13 Apr 2026 07:48:32 GMT"
-    },
-    {
-      "text": "Full Self-Driving continues to gradually expand to more vehicles in the Netherlands, including those not in early access.\n\nAs a reminder, the vehicle must be on a 2026.2 or older update, and geographically positioned within the country limits.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.3.6 on Model 3 AWD LR (2024) in Gelderland, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2043421081491394867#m",
-      "link": "https://nitter.net/teslascope/status/2043429887265099872#m",
-      "date": "Sun, 12 Apr 2026 20:43:44 GMT"
-    },
-    {
-      "text": "A new feature has been detected: FSD (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043421093227102573#m",
-      "date": "Sun, 12 Apr 2026 20:08:48 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.3.6 on Model 3 AWD LR (2024) in Gelderland, Netherlands. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2043421081491394867#m",
-      "date": "Sun, 12 Apr 2026 20:08:45 GMT"
     }
   ]
 }
