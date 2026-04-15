@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-14T21:56:37Z",
+  "updated_at": "2026-04-15T03:18:27Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "我也发现高速出口更加提前换到右道了\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMad Max behavior on the highway is definitely different for me on FSD v14.3.1, in a good way. Despite no cars around me or ahead of me many times, it never touched 85 mph. It also went to the right lane miles ahead of the off-ramp, far sooner than before. Will post video later.\n\n\n\n— https://nitter.net/SawyerMerritt/status/2044152877233340795#m",
+      "link": "https://nitter.net/Tsla99T/status/2044182292575211769#m",
+      "date": "Tue, 14 Apr 2026 22:33:32 GMT"
+    },
     {
       "text": "waymo最近的运营区域距离我要开车25分钟。。。\n今天有点来不及了",
       "link": "https://nitter.net/Tsla99T/status/2044124969047625799#m",
@@ -97,11 +102,6 @@
       "text": "AI4的算力还远没有被榨干\nV14.3主要是RL训练算法，和数据更新的提升，不涉及模型大小\n训练一个更大的模型，特别是10X级别，收敛速度赶不上提升RL算法的提升效果，用小模型更契合V14.3的release进度\n那么V15将是10X的大模型，辅助不断增强的RL训练算法\n目标是远超人类的驾驶\n\n\n\n\nElon Musk (@elonmusk)\n\nTesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.\n\n\n\n— https://nitter.net/elonmusk/status/2042080823332258302#m",
       "link": "https://nitter.net/Tsla99T/status/2042219946684338556#m",
       "date": "Thu, 09 Apr 2026 12:35:52 GMT"
-    },
-    {
-      "text": "谷歌赢得美国AI竞赛，真不是随便说说的，gemini纵使不是最好的AI，你也不得不用，因为gmail，chrome，youtbue这些必用产品完全与之绑定了。上周卖的$280 put今天close了",
-      "link": "https://nitter.net/Tsla99T/status/2041961786782425586#m",
-      "date": "Wed, 08 Apr 2026 19:30:02 GMT"
     }
   ]
 }
