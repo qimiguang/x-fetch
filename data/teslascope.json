@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-15T03:18:08Z",
-  "count": 20,
+  "updated_at": "2026-04-15T07:57:23Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "First look at the Full Self-Driving AI5 chip!\n\n\nElon Musk (@elonmusk)\n\nCongrats to the @Tesla_AI chip design team on taping out AI5!\n\nAI6, Dojo3 & other exciting chips in work.\n\n\n\n\n\n— https://nitter.net/elonmusk/status/2044315118583066738#m",
+      "link": "https://nitter.net/teslascope/status/2044322688911716756#m",
+      "date": "Wed, 15 Apr 2026 07:51:25 GMT"
+    },
     {
       "text": "This is akin to @Lemonade_Inc's discounts for FSD usage, although theirs only supports AI4 vehicles due to limitations of Fleet Telemetry data.",
       "link": "https://nitter.net/teslascope/status/2044156646356857337#m",
@@ -92,16 +97,6 @@
       "text": "We noticed a new Tesla software update 2026.3.6 on Model 3 AWD LR (2024) in Gelderland, Netherlands. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2043421081491394867#m",
       "date": "Sun, 12 Apr 2026 20:08:45 GMT"
-    },
-    {
-      "text": "Here’s @Tesla’s update post/article from last year to review!\n\n\nTesla (@Tesla)\n\nx.com/i/article/191069540703…\n\n\n\n— https://nitter.net/Tesla/status/1910848021065052629#m",
-      "link": "https://nitter.net/teslascope/status/2043257953042780261#m",
-      "date": "Sun, 12 Apr 2026 09:20:32 GMT"
-    },
-    {
-      "text": "Tesla released their Spring Update this week last year. 🌸☀️\n\nIt included Adaptive Headlights in North America, Alternative Trip Plans, Keep Accessory On, a redesigned Dashcam UI, and many other features.\n\nWhat would you like to see in this year’s update?",
-      "link": "https://nitter.net/teslascope/status/2043257950811426864#m",
-      "date": "Sun, 12 Apr 2026 09:20:32 GMT"
     }
   ]
 }
