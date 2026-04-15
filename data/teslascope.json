@@ -1,102 +1,107 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-15T16:09:31Z",
-  "count": 19,
+  "updated_at": "2026-04-15T19:26:58Z",
+  "count": 20,
   "tweets": [
     {
-      "text": "The next wave of Full Self-Driving V14.3.1 via 2026.2.9.7 is now rolling out to additional AI4 vehicles.\n\nThis is 4-5x larger than the prior wave, and is expected to include thousands of vehicles.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.1\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2044111867962851776#m",
-      "link": "https://nitter.net/teslascope/status/2044354246397825426#m",
-      "date": "Wed, 15 Apr 2026 09:56:49 GMT"
+      "text": "As mentioned in our comment/reply, we don’t mind the wait. We use FSD V12.6.4 daily, and have many completely end-to-end drives without disengagements.\n\nOur experience has been favorable; that is not the case for all. Voices matter, and we’ll be happy when this chapter closes.",
+      "link": "https://nitter.net/teslascope/status/2044497060985294963#m",
+      "date": "Wed, 15 Apr 2026 19:24:18 GMT"
     },
     {
-      "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044346035552587834#m",
-      "date": "Wed, 15 Apr 2026 09:24:11 GMT"
+      "text": "A comment / our thoughts on the state of HW3 and a Full Self-Driving (Unsupervised) future, from a HW3 owner.\n\nWe are quoting this as @SawyerMerritt has highlighted that the #1 investor question right now pertains to HW3.\n\nWould value everyone’s thoughts as usual!\n\n\nTeslascope (@teslascope)\n\nAs a HW3 Model 3 owner (and one of the first to get a retrofit from HW2.5), I don’t think it’s per se an issue with the answer we’ve received from Tesla, and more so the timeline.\n\nEveryone has their own tolerances for waiting; while I don’t mind waiting years, others feel differently. Many will lose their vehicle or sell it (whether to upgrade to another Tesla or not) before seeing Unsupervised come to fruition.\n\nSo I think that rephrasing the question to request a formal timeline and commitment, rather than guestimations, would appease the largest group of HW3 owners.\n\n“You will receive Unsupervised after we solve it on AI4” has already been given (and is a solid answer). Still, without tangible commitments, it leaves owners (and retail investors) with more questions. If a software only solution is on the table, more confidence is necessary. If a form of retrofit is required, try to set a firm limit on anticipation.\n\nI believe we all mutually feel this way. ❤️\n\n\n\n— https://nitter.net/teslascope/status/2044495383662121082#m",
+      "link": "https://nitter.net/teslascope/status/2044495990401733091#m",
+      "date": "Wed, 15 Apr 2026 19:20:03 GMT"
     },
     {
-      "text": "Elon has reiterated that there are no plans to use AI5 chips in customer vehicles for the foreseeable future. The chip will be focused on @Tesla_Optimus and supercomputers.\n\nTesla remains on track for releasing Full Self-Driving Unsupervised on the latest FSD computer (AI4).\n\n\nElon Musk (@elonmusk)\n\nOptimus and our supercomputer clusters. \n\nAI4 is enough to achieve much better than human safety for FSD.\n\n\n\n— https://nitter.net/elonmusk/status/2044332976197288293#m",
-      "link": "https://nitter.net/teslascope/status/2044340332809322552#m",
-      "date": "Wed, 15 Apr 2026 09:01:32 GMT"
+      "text": "The Tesla Spring Update has reportedly been spotted within the fleet on software update 2026.14.\n\nWe have not yet detected this update on our platform.",
+      "link": "https://nitter.net/teslascope/status/2044472363216211988#m",
+      "date": "Wed, 15 Apr 2026 17:46:10 GMT"
     },
     {
-      "text": "First look at the Full Self-Driving AI5 chip!\n\n\nElon Musk (@elonmusk)\n\nCongrats to the @Tesla_AI chip design team on taping out AI5!\n\nAI6, Dojo3 & other exciting chips in work.\n\n\n\n\n\n— https://nitter.net/elonmusk/status/2044315118583066738#m",
-      "link": "https://nitter.net/teslascope/status/2044322688911716756#m",
-      "date": "Wed, 15 Apr 2026 07:51:25 GMT"
+      "text": "A new feature has been detected: SpaceX Docking Simulator\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447891125637416#m",
+      "date": "Wed, 15 Apr 2026 16:08:55 GMT"
     },
     {
-      "text": "This is akin to @Lemonade_Inc's discounts for FSD usage, although theirs only supports AI4 vehicles due to limitations of Fleet Telemetry data.",
-      "link": "https://nitter.net/teslascope/status/2044156646356857337#m",
-      "date": "Tue, 14 Apr 2026 20:51:37 GMT"
+      "text": "A new feature has been detected: Save Charge Limit by Location\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447882544021578#m",
+      "date": "Wed, 15 Apr 2026 16:08:53 GMT"
     },
     {
-      "text": "New Safety Score version V3.0 rewards utilization of @Tesla Full Self-Driving (assumedly for both HW3 and AI4) with lower insurance costs.\n\n\nTesla North America (@tesla_na)\n\nTesla Insurance update\n\nWith the latest version of Safety Score (v3.0), every mile you drive with FSD Supervised enabled will receive a score of 100. \n\nThis allows you to maintain a higher average safety score over time, resulting in lower monthly insurance premiums.\n\nApplies to new policies in Indiana, Tennessee, Texas, Arizona, Virginia & Illinois\n\n\n\n— https://nitter.net/tesla_na/status/2044152487901622369#m",
-      "link": "https://nitter.net/teslascope/status/2044156644071010810#m",
-      "date": "Tue, 14 Apr 2026 20:51:37 GMT"
+      "text": "A new feature has been detected: Phone Left Behind\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447872591028567#m",
+      "date": "Wed, 15 Apr 2026 16:08:51 GMT"
     },
     {
-      "text": "NEWS: Tesla Cybercab testing has now begun in Florida.\n\nThese two Cybercabs were spotted in Naples.\n\n(via ryryfl on Reddit)",
-      "link": "https://nitter.net/SawyerMerritt/status/2044071583078072395#m",
-      "date": "Tue, 14 Apr 2026 15:13:37 GMT"
+      "text": "A new feature has been detected: Supercharger Site Maps\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447862293958946#m",
+      "date": "Wed, 15 Apr 2026 16:08:49 GMT"
     },
     {
-      "text": "⚡️🧠🚗\n\n\nMike P (@mikepat711)\n\nI see the color of your profile pic and “we noticed a” and my brain gets a jolt of dopamine\n\n\n\n— https://nitter.net/mikepat711/status/2044118367401906283#m",
-      "link": "https://nitter.net/teslascope/status/2044118759372415164#m",
-      "date": "Tue, 14 Apr 2026 18:21:04 GMT"
+      "text": "A new feature has been detected: Automatic HOV Lanes Routing\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447853750194575#m",
+      "date": "Wed, 15 Apr 2026 16:08:46 GMT"
     },
     {
-      "text": "Full Self-Driving V14.3.1 is now rolling out to Tesla customers for the first time! Our platform has the release notes available immediately.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.1\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2044111867962851776#m",
-      "link": "https://nitter.net/teslascope/status/2044115773996851592#m",
-      "date": "Tue, 14 Apr 2026 18:09:13 GMT"
+      "text": "A new feature has been detected: Navigation Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447845797810584#m",
+      "date": "Wed, 15 Apr 2026 16:08:45 GMT"
     },
     {
-      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111912565141919#m",
-      "date": "Tue, 14 Apr 2026 17:53:52 GMT"
+      "text": "A new feature has been detected: Paint Shop\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447837136572793#m",
+      "date": "Wed, 15 Apr 2026 16:08:43 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Light Show Update\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447827196010952#m",
+      "date": "Wed, 15 Apr 2026 16:08:40 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Santa Mode Updates\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447818358657155#m",
+      "date": "Wed, 15 Apr 2026 16:08:38 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Dashcam Viewer Update\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447809051492637#m",
+      "date": "Wed, 15 Apr 2026 16:08:36 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Dog Mode Live Activity on iOS\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447799350026609#m",
+      "date": "Wed, 15 Apr 2026 16:08:34 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Tesla Photobooth\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447790638543211#m",
+      "date": "Wed, 15 Apr 2026 16:08:31 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Grok with Navigation Commands (Beta)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447781314601173#m",
+      "date": "Wed, 15 Apr 2026 16:08:29 GMT"
     },
     {
       "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111908219830415#m",
-      "date": "Tue, 14 Apr 2026 17:53:51 GMT"
+      "link": "https://nitter.net/teslascope/status/2044447772896592180#m",
+      "date": "Wed, 15 Apr 2026 16:08:27 GMT"
     },
     {
-      "text": "A new feature has been detected: FSD (Supervised) v14.3\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111903941636223#m",
-      "date": "Tue, 14 Apr 2026 17:53:50 GMT"
+      "text": "A new feature has been detected: Brake Confirm\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447763778134107#m",
+      "date": "Wed, 15 Apr 2026 16:08:25 GMT"
     },
     {
-      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111895414600047#m",
-      "date": "Tue, 14 Apr 2026 17:53:48 GMT"
+      "text": "A new feature has been detected: UI Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447755188228401#m",
+      "date": "Wed, 15 Apr 2026 16:08:23 GMT"
     },
     {
-      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111883016270269#m",
-      "date": "Tue, 14 Apr 2026 17:53:45 GMT"
-    },
-    {
-      "text": "A new feature has been detected: FSD (Supervised) v14.3.1\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111867962851776#m",
-      "date": "Tue, 14 Apr 2026 17:53:41 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.2.9.7 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044111851940655596#m",
-      "date": "Tue, 14 Apr 2026 17:53:37 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044055675773317511#m",
-      "date": "Tue, 14 Apr 2026 14:10:24 GMT"
-    },
-    {
-      "text": "Spring Update features for @Tesla vehicles are now available to read, and rolling out shortly!\n\n\nTesla (@Tesla)\n\nx.com/i/article/204372089978…\n\n\n\n— https://nitter.net/Tesla/status/2043782316850573312#m",
-      "link": "https://nitter.net/teslascope/status/2043795735800606751#m",
-      "date": "Mon, 13 Apr 2026 20:57:29 GMT"
-    },
-    {
-      "text": "We now have more confirmation that Full Self-Driving (Supervised) in Netherlands is for AI4 vehicles only at this time.\n\nThis means that HW3 vehicles in the European Union will either have to wait for the release of V14 Lite or a future hardware upgrade to access FSD.\n\n\nXander (@xanderwasserman)\n\nConfirmed: FSD (Supervised) in the Netherlands is only for HW4 at this moment. This has been the general consensus, but good to have it officially confirmed. \n\n@teslascope @KRoelandschap @Rustavi\n\n\n\n\n\n— https://nitter.net/xanderwasserman/status/2043596326101819900#m",
-      "link": "https://nitter.net/teslascope/status/2043597190023807381#m",
-      "date": "Mon, 13 Apr 2026 07:48:32 GMT"
+      "text": "A new feature has been detected: Speed Profiles\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447746132742171#m",
+      "date": "Wed, 15 Apr 2026 16:08:21 GMT"
     }
   ]
 }
