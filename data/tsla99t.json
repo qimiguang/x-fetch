@@ -1,8 +1,18 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-15T19:27:19Z",
+  "updated_at": "2026-04-16T03:26:44Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "FSD V14.3.1 带我去Dallas坐Waymo piped.video/Ze1DCy4QkEk?si=xa7Z…",
+      "link": "https://nitter.net/Tsla99T/status/2044514973791998114#m",
+      "date": "Wed, 15 Apr 2026 20:35:29 GMT"
+    },
+    {
+      "text": "我只能说，太透明了\n\n\nElon Musk (@elonmusk)\n\nBest was working with such a great team of AI hardware & software engineers! It was more fun than going to parties on Saturdays by far.\n\nLeast awesome was that we had to make several design concessions to move fast, but were able to finish tapeout 45 days ahead of schedule.\n\nAI6 with LPDDR6 memory addresses those design concessions and has many new great ideas. It will deliver a true doubling of performance over AI5 in the same half reticle size using the Samsung 2nm fab in Texas. AI6.5 will further improve performance using TSMC 2nm in Arizona.\n\nNote, both chips have ~half of the TRIP AI computation accelerators dedicated to SRAM, so effective memory bandwidth is an order of magnitude greater than DRAM bandwidth for any calculations in SRAM cache.\n\n\n\n— https://nitter.net/elonmusk/status/2044507132440326519#m",
+      "link": "https://nitter.net/Tsla99T/status/2044509947614875871#m",
+      "date": "Wed, 15 Apr 2026 20:15:31 GMT"
+    },
     {
       "text": "开14.3.1来坐Waymo",
       "link": "https://nitter.net/Tsla99T/status/2044486748378407116#m",
@@ -92,16 +102,6 @@
       "text": "能准确翻译月月鸟的AI才是高级的AI\n\n\nTSLA99T (@Tsla99T)\n\nGrok已经知道月月鸟了！\n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2029925333961425320#m",
       "link": "https://nitter.net/Tsla99T/status/2042594528859738473#m",
       "date": "Fri, 10 Apr 2026 13:24:19 GMT"
-    },
-    {
-      "text": "其实MLIR的发明者，Chris Lattner 和Mehdi Amini 都曾经在特斯拉工作过。这次14.3发布，他也是第一时间表达了兴奋之情。作为工程师，一生有一个成功的作品就够了！",
-      "link": "https://nitter.net/Tsla99T/status/2042408413502529685#m",
-      "date": "Fri, 10 Apr 2026 01:04:46 GMT"
-    },
-    {
-      "text": "建好了$239一个月，看清楚了再订阅啊",
-      "link": "https://nitter.net/Tsla99T/status/2042349281332301994#m",
-      "date": "Thu, 09 Apr 2026 21:09:48 GMT"
     }
   ]
 }
