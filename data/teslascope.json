@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-16T03:26:22Z",
+  "updated_at": "2026-04-16T07:56:51Z",
   "count": 20,
   "tweets": [
     {
@@ -89,11 +89,6 @@
       "date": "Wed, 15 Apr 2026 16:08:40 GMT"
     },
     {
-      "text": "A new feature has been detected: Santa Mode Updates\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044447818358657155#m",
-      "date": "Wed, 15 Apr 2026 16:08:38 GMT"
-    },
-    {
       "text": "A new feature has been detected: Dashcam Viewer Update\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044447809051492637#m",
       "date": "Wed, 15 Apr 2026 16:08:36 GMT"
@@ -102,6 +97,11 @@
       "text": "A new feature has been detected: Dog Mode Live Activity on iOS\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044447799350026609#m",
       "date": "Wed, 15 Apr 2026 16:08:34 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Tesla Photobooth\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044447790638543211#m",
+      "date": "Wed, 15 Apr 2026 16:08:31 GMT"
     }
   ]
 }
