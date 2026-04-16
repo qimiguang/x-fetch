@@ -1,32 +1,22 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-16T19:23:37Z",
-  "count": 20,
+  "updated_at": "2026-04-16T21:51:06Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "We made changes to our @Tesla factory update announcements based on feedback.\n\nWe’ve included (factory update), and also include a brief clarification that only recently delivered vehicles may receive it.\n\nWhat are your thoughts on this? Can we improve on this any further?\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.2.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\n\n\n\n— https://nitter.net/teslascope/status/2044882294742176082#m",
+      "link": "https://nitter.net/teslascope/status/2044889817796976878#m",
+      "date": "Thu, 16 Apr 2026 21:24:59 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
+      "link": "https://nitter.net/teslascope/status/2044882294742176082#m",
+      "date": "Thu, 16 Apr 2026 20:55:05 GMT"
+    },
     {
       "text": "We’ve got to hand it to you, @Tesla_Optimus. 👏\n\nV3 is looking promising via a new international patent published today, and spotlighted by @SawyerMerritt.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nTesla's Optimus V3 robot hand looks to have been revealed in a new international patent published today.\n\nThe patent describes a tendon/cable-driven hand:\n• Actuators in the forearm\n• Each finger has 4 degrees of freedom\n• The wrist has 2 degrees of freedom\n• Tendon-driven system: 3 thin, flexible control cables (tendons) per finger run from forearm actuators, through the wrist and into the fingers.\n• Advanced wrist routing: Cables switch from a lateral (horizontal) stack on the forearm side to a vertical stack on the hand side, plus a transition zone to minimize stretch, torque, friction, and crosstalk during yaw/pitch movements.\n• Integrated control cable channels in the finger segments and precise routing (behind some joints, forward others) for selective bending.\n\nThe full filing is in the thread below if you want to read more about it:\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2044794231303123033#m",
       "link": "https://nitter.net/teslascope/status/2044829036535574882#m",
       "date": "Thu, 16 Apr 2026 17:23:28 GMT"
-    },
-    {
-      "text": "Thank you everyone for your continued patience while I work dilligently on crafting the best vehicle companion experience.\n\nAs with the web platform, Teslascope has always been my passion first and foremost, and intended as a gift to the global community. ❤️\n\n- @tylercorsair",
-      "link": "https://nitter.net/teslascope/status/2044533907866193946#m",
-      "date": "Wed, 15 Apr 2026 21:50:43 GMT"
-    },
-    {
-      "text": "We expect our official launch will take place in the first half of May, with the app opening up to all members and guests!\n\nWe’ve designed our app to never require you to sign up. Guests can view software deployments and receive notifications for new updates for free.",
-      "link": "https://nitter.net/teslascope/status/2044533899255287892#m",
-      "date": "Wed, 15 Apr 2026 21:50:41 GMT"
-    },
-    {
-      "text": "Following this brief period, invites will be sent out to our subscribers here on X and to our Plus and Pro subscribers on our platform.\n\nThis will allow us to ensure the stability of our platform as we anticipate an increase in usage, and provide direct feedback to our team.",
-      "link": "https://nitter.net/teslascope/status/2044533869496733789#m",
-      "date": "Wed, 15 Apr 2026 21:50:34 GMT"
-    },
-    {
-      "text": "Initially, invites will be prioritized to our current cutting-edge “red flag” testers on our platform to ensure we’ve hardened our defenses against security vulnerabilities.\n\nThe safety and privacy of all members is paramount, so we don’t want to rush this step.",
-      "link": "https://nitter.net/teslascope/status/2044533855093461097#m",
-      "date": "Wed, 15 Apr 2026 21:50:31 GMT"
     },
     {
       "text": "Our official iOS app is now ready for testers, pending Apple approval.\n\nWe’ve formally put in a request to Apple to begin the process of switching our developer account to a formal organization as @vehiclescope.\n\nOnce this process concludes, we will begin sending out invites.",
@@ -34,14 +24,19 @@
       "date": "Wed, 15 Apr 2026 21:50:29 GMT"
     },
     {
+      "text": "We expect our official launch will take place in the first half of May, with the app opening up to all members and guests!\n\nWe’ve designed our app to never require you to sign up. Guests can view software deployments and receive notifications for new updates for free.",
+      "link": "https://nitter.net/teslascope/status/2044533899255287892#m",
+      "date": "Wed, 15 Apr 2026 21:50:41 GMT"
+    },
+    {
+      "text": "Thank you everyone for your continued patience while I work dilligently on crafting the best vehicle companion experience.\n\nAs with the web platform, Teslascope has always been my passion first and foremost, and intended as a gift to the global community. ❤️\n\n- @tylercorsair",
+      "link": "https://nitter.net/teslascope/status/2044533907866193946#m",
+      "date": "Wed, 15 Apr 2026 21:50:43 GMT"
+    },
+    {
       "text": "Good look at the interior of the redesigned Tesla Semi, which is set to enter volume production in the coming months.\n\n• Changed side windows so the driver can reach out\n• Cupholders moved farther up for easier access\n• Larger side storage area next to cupholders\n• Wireless phone chargers\n• Dual 16\" screens, same as ones from the new Model Y (15.4\" before)\n• In-cabin attention monitering camera\n\n\n\n\nTesla Semi (@tesla_semi)\n\nHammer down\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/tesla_semi/status/2044483771555319855#m",
       "link": "https://nitter.net/SawyerMerritt/status/2044485213586162016#m",
       "date": "Wed, 15 Apr 2026 18:37:14 GMT"
-    },
-    {
-      "text": "As mentioned in our comment/reply, we don’t mind the wait. We use FSD V12.6.4 daily, and have many completely end-to-end drives without disengagements.\n\nOur experience has been favorable; that is not the case for all. Voices matter, and we’ll be happy when this chapter closes.",
-      "link": "https://nitter.net/teslascope/status/2044497060985294963#m",
-      "date": "Wed, 15 Apr 2026 19:24:18 GMT"
     },
     {
       "text": "A comment / our thoughts on the state of HW3 and a Full Self-Driving (Unsupervised) future, from a HW3 owner.\n\nWe are quoting this as @SawyerMerritt has highlighted that the #1 investor question right now pertains to HW3.\n\nWould value everyone’s thoughts as usual!\n\n\nTeslascope (@teslascope)\n\nAs a HW3 Model 3 owner (and one of the first to get a retrofit from HW2.5), I don’t think it’s per se an issue with the answer we’ve received from Tesla, and more so the timeline.\n\nEveryone has their own tolerances for waiting; while I don’t mind waiting years, others feel differently. Many will lose their vehicle or sell it (whether to upgrade to another Tesla or not) before seeing Unsupervised come to fruition.\n\nSo I think that rephrasing the question to request a formal timeline and commitment, rather than guestimations, would appease the largest group of HW3 owners.\n\n“You will receive Unsupervised after we solve it on AI4” has already been given (and is a solid answer). Still, without tangible commitments, it leaves owners (and retail investors) with more questions. If a software only solution is on the table, more confidence is necessary. If a form of retrofit is required, try to set a firm limit on anticipation.\n\nI believe we all mutually feel this way. ❤️\n\n\n\n— https://nitter.net/teslascope/status/2044495383662121082#m",
@@ -49,9 +44,19 @@
       "date": "Wed, 15 Apr 2026 19:20:03 GMT"
     },
     {
+      "text": "As mentioned in our comment/reply, we don’t mind the wait. We use FSD V12.6.4 daily, and have many completely end-to-end drives without disengagements.\n\nOur experience has been favorable; that is not the case for all. Voices matter, and we’ll be happy when this chapter closes.",
+      "link": "https://nitter.net/teslascope/status/2044497060985294963#m",
+      "date": "Wed, 15 Apr 2026 19:24:18 GMT"
+    },
+    {
       "text": "The Tesla Spring Update has reportedly been spotted within the fleet on software update 2026.14.\n\nWe have not yet detected this update on our platform.",
       "link": "https://nitter.net/teslascope/status/2044472363216211988#m",
       "date": "Wed, 15 Apr 2026 17:46:10 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.9.7 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044111851940655596#m",
+      "date": "Tue, 14 Apr 2026 17:53:37 GMT"
     },
     {
       "text": "A new feature has been detected: SpaceX Docking Simulator\n\nteslascope.com/software/2026…",
@@ -92,16 +97,6 @@
       "text": "A new feature has been detected: Light Show Update\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044447827196010952#m",
       "date": "Wed, 15 Apr 2026 16:08:40 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Dashcam Viewer Update\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044447809051492637#m",
-      "date": "Wed, 15 Apr 2026 16:08:36 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Dog Mode Live Activity on iOS\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044447799350026609#m",
-      "date": "Wed, 15 Apr 2026 16:08:34 GMT"
     }
   ]
 }
