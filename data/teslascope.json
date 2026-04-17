@@ -1,13 +1,8 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-17T07:57:50Z",
+  "updated_at": "2026-04-17T10:16:59Z",
   "count": 20,
   "tweets": [
-    {
-      "text": "We noticed a new Tesla software update 2026.14.1 on Model 3 SR (2025) in Milan, Italy. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968653569790458#m",
-      "date": "Fri, 17 Apr 2026 02:38:15 GMT"
-    },
     {
       "text": "A new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2045009473492689396#m",
@@ -101,6 +96,11 @@
     {
       "text": "A new feature has been detected: Pet Mode\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968671190126860#m",
+      "date": "Fri, 17 Apr 2026 02:38:19 GMT"
+    },
+    {
+      "text": "A new feature has been detected: \"Hey Grok\"\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044968670833635776#m",
       "date": "Fri, 17 Apr 2026 02:38:19 GMT"
     }
   ]
