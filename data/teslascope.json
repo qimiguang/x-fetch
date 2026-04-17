@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-17T13:42:59Z",
+  "updated_at": "2026-04-17T16:04:48Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "More Tesla Diners coming\n\n\nTesla North America (@tesla_na)\n\nPlace your order while en route to Tesla Diner & it will be ready right after you arrive\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/tesla_na/status/2044895440613839179#m",
+      "link": "https://nitter.net/elonmusk/status/2044927043943747976#m",
+      "date": "Thu, 16 Apr 2026 23:52:54 GMT"
+    },
+    {
+      "text": "Here are the release notes for Supercharger Pricing Filtering.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045120501735993855#m",
+      "link": "https://nitter.net/teslascope/status/2045155797492203839#m",
+      "date": "Fri, 17 Apr 2026 15:01:53 GMT"
+    },
+    {
+      "text": "Two new features that are region or model specific have been spotted in the Spring Update, previously hinted at by @Tesla.\n\nHere are the release notes for Immersive Sound Upgrade, and Supercharger Cost Filtering was added as well.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045009473492689396#m",
+      "link": "https://nitter.net/teslascope/status/2045155634002489814#m",
+      "date": "Fri, 17 Apr 2026 15:01:14 GMT"
+    },
     {
       "text": "A new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2045120501735993855#m",
@@ -87,21 +102,6 @@
       "text": "A new feature has been detected: Sketchpad\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968710549413997#m",
       "date": "Fri, 17 Apr 2026 02:38:28 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Trips\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968696334934024#m",
-      "date": "Fri, 17 Apr 2026 02:38:25 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Visual Updates\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968683206856877#m",
-      "date": "Fri, 17 Apr 2026 02:38:22 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Pet Mode\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968671190126860#m",
-      "date": "Fri, 17 Apr 2026 02:38:19 GMT"
     }
   ]
 }
