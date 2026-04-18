@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-18T15:42:18Z",
+  "updated_at": "2026-04-18T18:59:36Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Robotaxi now rolling out in Dallas & Houston 🤠\n\nVideo",
+      "link": "https://nitter.net/robotaxi/status/2045564609504116771#m",
+      "date": "Sat, 18 Apr 2026 18:06:22 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.14.1 on Model 3 SR (2025) in Milan, Italy. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968653569790458#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Automatic Software Updates\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968753260102001#m",
       "date": "Fri, 17 Apr 2026 02:38:39 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Music App Queuing\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968738546414038#m",
-      "date": "Fri, 17 Apr 2026 02:38:35 GMT"
     }
   ]
 }
