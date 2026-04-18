@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-18T05:11:55Z",
+  "updated_at": "2026-04-18T07:17:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Paint Shop\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2045378741623218524#m",
+      "date": "Sat, 18 Apr 2026 05:47:47 GMT"
+    },
     {
       "text": "More Tesla Diners coming\n\n\nTesla North America (@tesla_na)\n\nPlace your order while en route to Tesla Diner & it will be ready right after you arrive\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/tesla_na/status/2044895440613839179#m",
       "link": "https://nitter.net/elonmusk/status/2044927043943747976#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Blind Spot Warning Accent Lights\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968723186962595#m",
       "date": "Fri, 17 Apr 2026 02:38:31 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Sketchpad\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968710549413997#m",
-      "date": "Fri, 17 Apr 2026 02:38:28 GMT"
     }
   ]
 }
