@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-04-19T15:42:31Z",
+  "updated_at": "2026-04-19T19:00:03Z",
   "count": 17,
   "tweets": [
+    {
+      "text": "Just as misleading as last year’s deal. They were not “getting a free year” of those tools, but subscribing to annual plans where the first year was free. These two concepts are different. The difference is that people who “claim these deals” will be automatically charged the next year at the full “original” price.",
+      "link": "https://nitter.net/raines1220/status/2045923182046236856#m",
+      "date": "Sun, 19 Apr 2026 17:51:12 GMT"
+    },
     {
       "text": "🚘NHTSA autonomous vehicle crash data is now updated thru March 15, 2026\n\nCrashes since the February 17th release:\n\n@Tesla:        0      (15 total - Austin Only)\n@Waymo: +80   (1790)\n@Zoox:      +5      (123)\n\nSource data and more info about methodology in comments\n\n\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru February 17, 2026\n\nCrashes since the January 15th release:\n\n@Tesla:      +1      (15 total - Austin Only Fleet)\n@Waymo: +97   (1710)\n@Zoox:      +2       (118)\n\nData and more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2033636235827139011#m",
       "link": "https://nitter.net/mehauff7/status/2044469621734920686#m",
@@ -82,11 +87,6 @@
       "text": "Robotaxi rides without any safety monitors are now publicly available in Austin.\n\nStarting with a few unsupervised vehicles mixed in with the broader robotaxi fleet with safety monitors, and the ratio will increase over time.\n\n\nTSLA99T (@Tsla99T)\n\nI am in a robotaxi without safety monitor\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2014392609028923782#m",
       "link": "https://nitter.net/aelluswamy/status/2014398853991301538#m",
       "date": "Thu, 22 Jan 2026 18:04:47 GMT"
-    },
-    {
-      "text": "I found another common misconception.\n\nThe Lemonade FSD discount does not specify the version, which means it includes HW3.\n\nIn fact, I don’t think Lemonade can tell which version you are using, so they basically conclude that 2x safer is the average (or worst) FSD can be, and they offer a 50% discount as a conservative starting point.\n\nBased on my understanding, FSD (supervised) v14 is much better than 2x safer.",
-      "link": "https://nitter.net/raines1220/status/2014384905182941349#m",
-      "date": "Thu, 22 Jan 2026 17:09:21 GMT"
     }
   ]
 }
