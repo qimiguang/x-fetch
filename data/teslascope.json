@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-18T21:41:16Z",
+  "updated_at": "2026-04-19T03:28:17Z",
   "count": 20,
   "tweets": [
     {
@@ -14,6 +14,11 @@
       "date": "Sat, 18 Apr 2026 18:06:22 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.14.1 on Model 3 SR (2025) in Milan, Italy. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044968653569790458#m",
+      "date": "Fri, 17 Apr 2026 02:38:15 GMT"
+    },
+    {
       "text": "A new feature has been detected: Paint Shop\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2045378741623218524#m",
       "date": "Sat, 18 Apr 2026 05:47:47 GMT"
@@ -24,14 +29,14 @@
       "date": "Thu, 16 Apr 2026 23:52:54 GMT"
     },
     {
-      "text": "Here are the release notes for Supercharger Pricing Filtering.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045120501735993855#m",
-      "link": "https://nitter.net/teslascope/status/2045155797492203839#m",
-      "date": "Fri, 17 Apr 2026 15:01:53 GMT"
-    },
-    {
       "text": "Two new features that are region or model specific have been spotted in the Spring Update, previously hinted at by @Tesla.\n\nHere are the release notes for Immersive Sound Upgrade, and Supercharger Cost Filtering was added as well.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045009473492689396#m",
       "link": "https://nitter.net/teslascope/status/2045155634002489814#m",
       "date": "Fri, 17 Apr 2026 15:01:14 GMT"
+    },
+    {
+      "text": "Here are the release notes for Supercharger Pricing Filtering.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045120501735993855#m",
+      "link": "https://nitter.net/teslascope/status/2045155797492203839#m",
+      "date": "Fri, 17 Apr 2026 15:01:53 GMT"
     },
     {
       "text": "A new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Dashcam Viewer Updates\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968763884269773#m",
       "date": "Fri, 17 Apr 2026 02:38:41 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Automatic Software Updates\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968753260102001#m",
-      "date": "Fri, 17 Apr 2026 02:38:39 GMT"
     }
   ]
 }
