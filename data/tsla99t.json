@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-20T16:15:34Z",
-  "count": 20,
+  "updated_at": "2026-04-20T19:15:30Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "用perplexity做了一个跟踪自己portfolio和花费的app",
+      "link": "https://nitter.net/Tsla99T/status/2046301659488501840#m",
+      "date": "Mon, 20 Apr 2026 18:55:08 GMT"
+    },
     {
       "text": "根据经验瞎猜：达拉斯的robotaxi一个月内至少十辆",
       "link": "https://nitter.net/Tsla99T/status/2046261027759694310#m",
@@ -92,16 +97,6 @@
       "text": "来达拉斯了！!\n\n\nTesla Robotaxi (@robotaxi)\n\nRobotaxi now rolling out in Dallas & Houston 🤠\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/robotaxi/status/2045564609504116771#m",
       "link": "https://nitter.net/Tsla99T/status/2045564884117594524#m",
       "date": "Sat, 18 Apr 2026 18:07:27 GMT"
-    },
-    {
-      "text": "今天一个教授朋友的学生告诉他，Claude 做科研又快又好，远超一般博士水平",
-      "link": "https://nitter.net/Tsla99T/status/2045275179199189208#m",
-      "date": "Fri, 17 Apr 2026 22:56:16 GMT"
-    },
-    {
-      "text": "太低了，月月鸟都有170亿\n\n\n阑夕 (@foxshuo)\n\nThe Information独家报道：DeepSeek正在以100亿美金的估值寻求融资。\n\n这个估值⋯⋯是智谱的1/5、MiniMax的1/3，一年时间，沧海桑田了。\n\n\n\n— https://nitter.net/foxshuo/status/2045192856512639347#m",
-      "link": "https://nitter.net/Tsla99T/status/2045194543159468180#m",
-      "date": "Fri, 17 Apr 2026 17:35:51 GMT"
     }
   ]
 }
