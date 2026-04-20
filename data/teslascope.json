@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-20T03:30:18Z",
+  "updated_at": "2026-04-20T08:19:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We wanted to highlight and support developers such as @ArthurFromX of @TesCamStudio who have integrated our Developer APIs and built experiences that our members can enjoy.\n\nteslascope.com/developers",
+      "link": "https://nitter.net/teslascope/status/2046078796059832634#m",
+      "date": "Mon, 20 Apr 2026 04:09:33 GMT"
+    },
+    {
+      "text": "We're hosting a giveaway w/ @TesCamStudio to win a 12-month membership on our platform + more.\n\nAlongside a suite of dashcam tools, their app lets you connect your Teslascope account to automatically show Full Self-Driving version, battery, & more.\n\nDetails in the quoted post ⬇️\n\n\nTesCam Studio for Tesla (@TesCamStudio)\n\n🏆 GIVEAWAY with @Teslascope\n\nWin a Limited Edition Tesla Speedform Set\n+ 12-month Teslascope membership.\n\nHow to enter:\n1. Export a dashcam clip in TesCam Studio\n2. Post on X between 4/20-5/1 tagging @TesCamStudio + @Teslascope\n3. Reply to THIS post with your link\n\nMost views by May 1 wins 👇\n\n\n\n\n\n— https://nitter.net/TesCamStudio/status/2046068795077546105#m",
+      "link": "https://nitter.net/teslascope/status/2046078794361180428#m",
+      "date": "Mon, 20 Apr 2026 04:09:33 GMT"
+    },
     {
       "text": "Can confirm! A new wave of Full Self-Driving V14.3.1 is now rolling out to additional AI4 Model 3 and Y vehicles via 2026.2.9.7.\n\nThis is still a relatively small wave, but the first wave in about four days.\n\n\n\n\nCameron Johnson (@C_the_man91)\n\nAnother wave of 14.3.1? Just got 2026.2.9.7 on my car. @teslascope\n\n\n\n— https://nitter.net/C_the_man91/status/2045748303422521650#m",
       "link": "https://nitter.net/teslascope/status/2045750800736239981#m",
@@ -92,16 +102,6 @@
       "text": "A new feature has been detected: Keyboard\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968791877005698#m",
       "date": "Fri, 17 Apr 2026 02:38:48 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Weather Maps Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968780552380471#m",
-      "date": "Fri, 17 Apr 2026 02:38:45 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Dashcam Viewer Updates\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968763884269773#m",
-      "date": "Fri, 17 Apr 2026 02:38:41 GMT"
     }
   ]
 }
