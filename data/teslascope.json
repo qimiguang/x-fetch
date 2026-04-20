@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-20T08:19:03Z",
+  "updated_at": "2026-04-20T10:53:26Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046164901068996637#m",
+      "date": "Mon, 20 Apr 2026 09:51:42 GMT"
+    },
     {
       "text": "We wanted to highlight and support developers such as @ArthurFromX of @TesCamStudio who have integrated our Developer APIs and built experiences that our members can enjoy.\n\nteslascope.com/developers",
       "link": "https://nitter.net/teslascope/status/2046078796059832634#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Rear Display\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968805655294136#m",
       "date": "Fri, 17 Apr 2026 02:38:51 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Keyboard\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968791877005698#m",
-      "date": "Fri, 17 Apr 2026 02:38:48 GMT"
     }
   ]
 }
