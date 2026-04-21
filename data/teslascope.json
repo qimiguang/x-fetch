@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-21T13:56:31Z",
+  "updated_at": "2026-04-21T16:13:59Z",
   "count": 20,
   "tweets": [
     {
@@ -9,18 +9,23 @@
       "date": "Mon, 20 Apr 2026 22:24:18 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.14.1 on Model 3 SR (2025) in Milan, Italy. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2044968653569790458#m",
+      "date": "Fri, 17 Apr 2026 02:38:15 GMT"
+    },
+    {
       "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2046164901068996637#m",
       "date": "Mon, 20 Apr 2026 09:51:42 GMT"
     },
     {
-      "text": "We wanted to highlight and support developers such as @ArthurFromX of @TesCamStudio who have integrated our Developer APIs and built experiences that our members can enjoy.\n\nteslascope.com/developers",
-      "link": "https://nitter.net/teslascope/status/2046078796059832634#m",
+      "text": "We're hosting a giveaway w/ @TesCamStudio to win a 12-month membership on our platform + more.\n\nAlongside a suite of dashcam tools, their app lets you connect your Teslascope account to automatically show Full Self-Driving version, battery, & more.\n\nDetails in the quoted post ⬇️\n\n\nTesCam Studio for Tesla (@TesCamStudio)\n\n🏆 GIVEAWAY with @Teslascope\n\nWin a Limited Edition Tesla Speedform Set\n+ 12-month Teslascope membership.\n\nHow to enter:\n1. Export a dashcam clip in TesCam Studio\n2. Post on X between 4/20-5/1 tagging @TesCamStudio + @Teslascope\n3. Reply to THIS post with your link\n\nMost views by May 1 wins 👇\n\n\n\n\n\n— https://nitter.net/TesCamStudio/status/2046068795077546105#m",
+      "link": "https://nitter.net/teslascope/status/2046078794361180428#m",
       "date": "Mon, 20 Apr 2026 04:09:33 GMT"
     },
     {
-      "text": "We're hosting a giveaway w/ @TesCamStudio to win a 12-month membership on our platform + more.\n\nAlongside a suite of dashcam tools, their app lets you connect your Teslascope account to automatically show Full Self-Driving version, battery, & more.\n\nDetails in the quoted post ⬇️\n\n\nTesCam Studio for Tesla (@TesCamStudio)\n\n🏆 GIVEAWAY with @Teslascope\n\nWin a Limited Edition Tesla Speedform Set\n+ 12-month Teslascope membership.\n\nHow to enter:\n1. Export a dashcam clip in TesCam Studio\n2. Post on X between 4/20-5/1 tagging @TesCamStudio + @Teslascope\n3. Reply to THIS post with your link\n\nMost views by May 1 wins 👇\n\n\n\n\n\n— https://nitter.net/TesCamStudio/status/2046068795077546105#m",
-      "link": "https://nitter.net/teslascope/status/2046078794361180428#m",
+      "text": "We wanted to highlight and support developers such as @ArthurFromX of @TesCamStudio who have integrated our Developer APIs and built experiences that our members can enjoy.\n\nteslascope.com/developers",
+      "link": "https://nitter.net/teslascope/status/2046078796059832634#m",
       "date": "Mon, 20 Apr 2026 04:09:33 GMT"
     },
     {
@@ -49,14 +54,14 @@
       "date": "Thu, 16 Apr 2026 23:52:54 GMT"
     },
     {
-      "text": "Here are the release notes for Supercharger Pricing Filtering.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045120501735993855#m",
-      "link": "https://nitter.net/teslascope/status/2045155797492203839#m",
-      "date": "Fri, 17 Apr 2026 15:01:53 GMT"
-    },
-    {
       "text": "Two new features that are region or model specific have been spotted in the Spring Update, previously hinted at by @Tesla.\n\nHere are the release notes for Immersive Sound Upgrade, and Supercharger Cost Filtering was added as well.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045009473492689396#m",
       "link": "https://nitter.net/teslascope/status/2045155634002489814#m",
       "date": "Fri, 17 Apr 2026 15:01:14 GMT"
+    },
+    {
+      "text": "Here are the release notes for Supercharger Pricing Filtering.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045120501735993855#m",
+      "link": "https://nitter.net/teslascope/status/2045155797492203839#m",
+      "date": "Fri, 17 Apr 2026 15:01:53 GMT"
     },
     {
       "text": "A new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Autopilot Naming Update\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2044968824047305201#m",
       "date": "Fri, 17 Apr 2026 02:38:55 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2044968815931347063#m",
-      "date": "Fri, 17 Apr 2026 02:38:54 GMT"
     }
   ]
 }
