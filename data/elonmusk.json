@@ -1,8 +1,83 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-04-20T19:15:06Z",
+  "updated_at": "2026-04-21T10:21:33Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "I had a great exchange with @ElonMusk discussing​ the next frontier of @SpaceX and space exploration to the transformative progress of @Tesla with Optimus and @boringcompany’s urban innovation. I reaffirmed the UAE's commitment to fostering global partnerships that turn the science fiction of today into the reality of tomorrow. 🇦🇪",
+      "link": "https://nitter.net/OmarSAlolama/status/2046454202512326949#m",
+      "date": "Tue, 21 Apr 2026 05:01:17 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2046454010446582108#m",
+      "date": "Tue, 21 Apr 2026 05:00:32 GMT"
+    },
+    {
+      "text": "Smarter video extensions are live on Grok Imagine.\n\n\nGrok Imagine (@imagine)\n\nSmarter video extensions.\n\nGrok now sees your original prompt and clip, so extensions continue naturally with consistent audio.\n\nTry Grok Imagine in the app or on web.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/imagine/status/2046313676336947386#m",
+      "link": "https://nitter.net/chaitu/status/2046322411713495314#m",
+      "date": "Mon, 20 Apr 2026 20:17:36 GMT"
+    },
+    {
+      "text": "Grok\n\n\nMichael Malice (@michaelmalice)\n\nMidwit tries to force Grok into a corner but gets BTFO\n\nthis is absolutely fascinating\n\n\n\n\n\n— https://nitter.net/michaelmalice/status/2046391105424351276#m",
+      "link": "https://nitter.net/elonmusk/status/2046405057332097524#m",
+      "date": "Tue, 21 Apr 2026 01:46:00 GMT"
+    },
+    {
+      "text": "Only the fraud was stopped by DOGE and, even then, only some of the fraud\n\n\nSenior Official Jeremy Lewin (@UnderSecretaryF)\n\nOn Friday, @StateDeptGHSD released its first wave of PEPFAR data, covering July-Sept 2025, after State took over USAID’s lifesaving health programs. Contrary to false media narratives, the data shows that President Trump’s foreign assistance review maintained and improved frontline lifesaving programs, while reducing NGO bloat and costs. \n\nDuring this transition period; \n- 20.6 million people w/ HIV received PEPFAR-supported antiretroviral treatment, exactly as many as during Biden’s last year\n- Early progress towards @SecRubio’s ambitious goal of ending mother-to-child transmission of HIV during @POTUS Trump’s second term, with preventive treatment initiated for 103k expectant/breastfeeding mothers, more than 2x as many as the same period a year earlier \n- Good initial progress moving programs, particularly in the treatment and testing space, to national health ministries as we champion self-reliance among health assistance countries \n\nThis is all before the transformational investments in global health innovation and self-reliance made via the America First Global Health Strategy. Launched in Sept 2025, we have already signed 31 bilateral compacts worth more than $21 billion in U.S. commitments and country co-investment, and announced historic new innovation initiatives like our partnership with Gilead Sciences to get 3 million people in high-burden countries its new 99.9% effective twice yearly HIV prevention drug Lenacapavir.  \n\nstate.gov/releases/office-of…\n\n\n\n\n— https://nitter.net/UnderSecretaryF/status/2046376988651176206#m",
+      "link": "https://nitter.net/elonmusk/status/2046404769040810159#m",
+      "date": "Tue, 21 Apr 2026 01:44:51 GMT"
+    },
+    {
+      "text": "I hope this helps. If you need more help let me know:\n\nConnecting OpenClaw to the X API is straightforward now thanks to X’s official native support... \n\nThe best and most direct method uses the official xurl CLI tool from X, which comes with a pre-built SKILL.md that OpenClaw recognizes automatically. This lets your local OpenClaw agent post tweets, search timelines, read posts, reply, manage follows, send DMs, upload media, and more all via natural language commands.\n\nOfficial Native Method: xurl CLI (Recommended for Direct X API Access)\n\nThis uses X’s pay-per-use API pricing (very affordable now:  e.g., owned reads ~$0.001/request, basic posts ~$0.015). No third-party bridges required.\n\n1Get X API Credentials\n◦Go to the X Developer Portal.\n◦Create a new app (or project).\n◦In the app settings:\n▪Set the redirect URI to http://localhost:8080/callback.\n▪Move the app to the Pay-per-use package and Production environment (important — otherwise reads may fail with “client-forbidden”).\n◦Note your Client ID and Client Secret.\n2Install the xurl CLI (on your machine where OpenClaw runs) Run one of these (pick your OS/preference):\n◦macOS (Homebrew): brew install --cask xdevplatform/tap/xurl\n◦\n◦npm (any OS): npm install -g @xdevplatform/xurl\n◦\n◦One-liner shell script: curl -fsSL raw.githubusercontent.com/xd… | bash\n◦\n◦Or go install github.com/xdevplatform/xurl….\n3Authenticate xurl (do this manually — never via the agent for security)\n◦Register your app: xurl auth apps add my-app --client-id YOUR_CLIENT_ID --client-secret YOUR_CLIENT_SECRET\n◦\n◦Start OAuth2 flow: xurl auth oauth2\n◦ (Follow the browser prompt; it opens automatically.)\n◦Check status: xurl auth status\n◦\n◦(Optional) Set default app/user: xurl auth default my-app or run the interactive picker with xurl auth default.\n4OpenClaw Integration\n◦Restart your OpenClaw gateway/agent if needed.\n◦The built-in xurl skill (in skills/xurl/SKILL.md) is already merged into OpenClaw — no extra install required.\n◦Your agent now understands commands like:\n▪xurl post \"Hello from my OpenClaw agent using Grok!\"\n▪xurl search \"Grok 4.3\" -n 10\n▪xurl timeline -n 20\n▪xurl reply 1234567890123456789 \"Great point!\"\n▪xurl whoami, xurl read [post URL], xurl follow @handle, etc.\n◦Just talk to your agent naturally: “Post a tweet about the new Grok pricing” or “Search X for recent OpenClaw updates and summarize.”\nSecurity Notes (built into the skill):\n•Never paste tokens/secrets into chat or let the agent run auth commands with flags.\n•All credentials stay in ~/.xurl (YAML file) on your machine.\n•The agent calls the local xurl binary directly.\nEasier Alternative: OpenTweet.io Bridge (No X Developer Account Needed)\nIf you want the simplest setup (great for quick testing or posting-only):\n1Sign up free at opentweet.io and connect your X account via OAuth (one click).\n2Generate an API key (starts with ot_) in Settings → API.\n3Install the official skill: clawhub install opentweet-x-poster\n\nSet the key: \nexport OPENTWEET_API_KEY=\"ot_your_key_here\"\n (Or add it to ~/.openclaw/openclaw.json under secrets.)\n\nAsk your agent: \n\n“Post a tweet saying [text]” it just works.\n\nTips for Your Setup\n\n•Use Grok as the backend (as Brian mentioned in the thread): It’s far cheaper than Claude for running OpenClaw agents long-term and has excellent reasoning for agent tasks.\n•Test with xurl whoami or xurl timeline in your terminal first.\n•Full command list and raw API access (xurl /2/tweets etc.) are in the skill docs.\n\nThat’s it: once set up, your OpenClaw agent has full X superpowers running locally. If you hit any snags (e.g., auth errors), the most common fix is confirming your app is in Pay-per-use/Production in the developer portal. \n\n🦞",
+      "link": "https://nitter.net/BrianRoemmele/status/2046386834599821605#m",
+      "date": "Tue, 21 Apr 2026 00:33:36 GMT"
+    },
+    {
+      "text": "It hit me yesterday when I was going to pick up lunch.\n\nI pre-cooled the Tesla Model 3 from my phone, and set the destination to the restaurant. Then I hit start self-driving. Mad Max mode, park in the parking lot. \n\nThe car drove so confidently, it's movements were so lifelike... I just couldn't believe it. The way it drives is... confident... comforting... better than anything I could have imagined. \n\nAs it drove me to pick up my lunch order, I changed the music on my phone. I turned up the music and danced a little as I opened X and started reading and replying to peoples comments. It got to the restaurant before I even  realized where we were, pulled into the parking lot, and parked perfectly. \n\nI picked up the food, put it in the frunk, and then got in the car. Tapped Home (Mad Max, Park in Driveway selected automatically) and then hit self-driving. The car drove me back home like a work of art. It didn't send the food flying around. It was just perfect.\n\nWhen it got home it parked in the driveway, right where the car was before I left, and I brought the food inside. \n\nIt just hit me like damn, they really created a personally owned Robotaxi. This is the user experience I have been dreaming of for years, and now it's here. It's really working, and it's better than I imagined.\n\nThe coming months and years will be a lot of fun as we just remove the driver out of the equation entirely.",
+      "link": "https://nitter.net/wholemars/status/2046342193473024363#m",
+      "date": "Mon, 20 Apr 2026 21:36:12 GMT"
+    },
+    {
+      "text": "Falcon 9 vertical at pad 40\n\nVideo",
+      "link": "https://nitter.net/SpaceX/status/2046328715634749557#m",
+      "date": "Mon, 20 Apr 2026 20:42:39 GMT"
+    },
+    {
+      "text": "Grok 4.3 beta’s front-end capabilities are totally insane\n\nI just put only this prompt: “design a website for kids toys”\n\nIt generated a super clean UI that actually looks premium and very interesting\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2046307533829386307#m",
+      "date": "Mon, 20 Apr 2026 19:18:29 GMT"
+    },
+    {
+      "text": "Worth double-checking charitable giving to make sure it actually helps the cause you care about\n\n\nWilfred Reilly (@wil_da_beast630)\n\nSurprising amount of charity is of this kind. \n\nMy ex, Tess, and I used to give to Koala Rescue. Years later, I found that they just sort of assign you a random ~bear that lives outdoors. Hundreds of people have the same one. Your money doesn't buy it food (they only eat one thing), but rather goes to support various green causes. \n\nEtc.\n\n\n\n— https://nitter.net/wil_da_beast630/status/2046218341203812821#m",
+      "link": "https://nitter.net/elonmusk/status/2046327719231705207#m",
+      "date": "Mon, 20 Apr 2026 20:38:41 GMT"
+    },
+    {
+      "text": "Australians are becoming an endangered species\n\n\nDogeDesigner (@cb_doge)\n\nNEWS: Australia’s birth rate hits another record low 🚨\n\nFertility falls to ~1.48 in 2025 — **2nd straight record low since 1924**\n\n• Projected to drop further to ~1.42\n• Far below the 2.1 replacement level\n\nAustralia is now nowhere near replacement level.\n\nThis is exactly the decline @elonmusk has been warning about for years.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2046324936885879135#m",
+      "link": "https://nitter.net/elonmusk/status/2046326850415186114#m",
+      "date": "Mon, 20 Apr 2026 20:35:14 GMT"
+    },
+    {
+      "text": "Imagine Beauty\n\n\nX Freeze (@XFreeze)\n\nGrok Imagine takes the realism to a whole new level\n\nIt's hard to tell if it's made with AI or real\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/XFreeze/status/2046026629076722042#m",
+      "link": "https://nitter.net/elonmusk/status/2046324618571427978#m",
+      "date": "Mon, 20 Apr 2026 20:26:22 GMT"
+    },
+    {
+      "text": "Try it out\n\n\nBrian Roemmele (@BrianRoemmele)\n\nAnyone telling you that you need to use Claude to run just about any OpenClaw spending a wacky $1000 or more per month is no expert you should trust.\n\nUse @Grok. Great pricing and 4.3 is in another category. You won’t be burning $1000 a month.\n\nYou will absolutely thank me.\n\n\n\n— https://nitter.net/BrianRoemmele/status/2046260046112391170#m",
+      "link": "https://nitter.net/elonmusk/status/2046313895447716230#m",
+      "date": "Mon, 20 Apr 2026 19:43:46 GMT"
+    },
+    {
+      "text": "I worked as a fund raiser for several top NGOs\n\nIts all fake\n\nLies, tricks, and legal loopholes to get money for nothing.\n\nWe used to call it \"cold selling hope\"\n\n\nElon Musk (@elonmusk)\n\nA friend of mine donated to an orphanage for over a decade and one day he stopped by to check on the orphans. \n\nWhat he found was a room full of people working the phones for donations and zero kids. Not even one kid for show. Zero.\n\n\n\n— https://nitter.net/elonmusk/status/2046095231591104698#m",
+      "link": "https://nitter.net/Timcast/status/2046244931635650615#m",
+      "date": "Mon, 20 Apr 2026 15:09:43 GMT"
+    },
+    {
+      "text": "🎯\n\n\nPavel Durov (@durov)\n\nThis is how the EU/UK now regulates social media: \n\n🤐 Offer CEOs secret deals to censor dissent. \n🚨 If they refuse, open criminal cases against them.\n😑 When people push back, say it's \"all for the children\".\n\n🎭 \"Protecting children\" has become the standard legal/PR cover.\n\n\n\n— https://nitter.net/durov/status/2046266184908124601#m",
+      "link": "https://nitter.net/elonmusk/status/2046308075947405581#m",
+      "date": "Mon, 20 Apr 2026 19:20:38 GMT"
+    },
     {
       "text": "Imagine upgrades\n\n\ntetsuo (@tetsuoai)\n\ngood morning, 𝕏\n\nthe audio in Grok Imagine is getting scary good\n\nthe audio is clean, full, and present. even the mouth shapes are landing dead-on\n\ninsanely strong for a current-gen ai talking-head 🤯\n\nVideo\n  \n\n\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2045889025710673996#m",
       "link": "https://nitter.net/elonmusk/status/2046234586808520709#m",
@@ -27,81 +102,6 @@
       "text": "RT by @elonmusk: Image",
       "link": "https://nitter.net/RestoreBritain_/status/2045869270815453530#m",
       "date": "Sun, 19 Apr 2026 14:16:59 GMT"
-    },
-    {
-      "text": "You can now create and share your own Grok Imagine templates with your followers.\n\nGive my “Nikita Boar” template a try, now live. Inspired by BoneGPT 👇\n\nVideo",
-      "link": "https://nitter.net/tetsuoai/status/2046117912252170567#m",
-      "date": "Mon, 20 Apr 2026 06:44:59 GMT"
-    },
-    {
-      "text": "Grok Imagine\n\n\npain (@paaiinnnn)\n\nThis is fukin amazing...\nI wish this was a real game!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/paaiinnnn/status/2046106976342737052#m",
-      "link": "https://nitter.net/elonmusk/status/2046225338397528566#m",
-      "date": "Mon, 20 Apr 2026 13:51:52 GMT"
-    },
-    {
-      "text": "But we will never know what their true intentions are.\n\nVideo",
-      "link": "https://nitter.net/Rothmus/status/2045987910931886238#m",
-      "date": "Sun, 19 Apr 2026 22:08:25 GMT"
-    },
-    {
-      "text": "A majority of CDLs were issued illegally in New York\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@SecDuffy: 53% of Commercial Driver's Licenses issued to foreigners in New York were issued illegally. \n\nWe gave them FOUR MONTHS to comply with the law. They refused, so we had no choice but to pull funding — and if they still refuse, we can pull their ability to issue CDLs.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RapidResponse47/status/2045972136175493300#m",
-      "link": "https://nitter.net/elonmusk/status/2046215996923363666#m",
-      "date": "Mon, 20 Apr 2026 13:14:45 GMT"
-    },
-    {
-      "text": "Grok 4.3 \"write an academic paper on general relativity\"\n\nIt produced a 5-page LaTeX paper:\n>Einstein field equations\n>Schwarzschild metric \n>tensor notation and Christoffel symbols \n>starlight deflection diagram \n>Newtonian vs GR comparison table \n>8 properly formatted citations\n>author: \"Grok\"\n\nxAI team cooked fr",
-      "link": "https://nitter.net/ns123abc/status/2046120200957817121#m",
-      "date": "Mon, 20 Apr 2026 06:54:05 GMT"
-    },
-    {
-      "text": "I have the sneaking suspicions we all actually have to work has hard as possible to prevent a very small group of people from intentionally destroying civilization",
-      "link": "https://nitter.net/Andercot/status/2045955195918860515#m",
-      "date": "Sun, 19 Apr 2026 19:58:25 GMT"
-    },
-    {
-      "text": "Did you know that England once had a deeply rooted civilian gun culture, stretching from the 1500s into the early twentieth century, and that this English tradition helped shape the American right to keep and bear arms?\n\nFor centuries, English law and custom treated the armed citizen as a normal part of a free society. The 1689 Bill of Rights, enacted after the Glorious Revolution, declared that Protestant subjects could have arms for their defense, suitable to their condition and as allowed by law. That language reflected older English assumptions rather than creating something wholly new. \n\nUnder the militia tradition, able-bodied men were long expected to possess arms for the defense of the realm, and by the eighteenth and nineteenth centuries firearms were widely available to ordinary civilians with relatively little state interference. Guns could be bought in shops, advertised openly, and acquired with few of the licensing burdens that later became standard. For much of this period, England did not treat civilian gun ownership as suspicious. It treated it as normal.\n\nThat inheritance mattered in America. The American founders drew heavily from English common law, Blackstone, and the broader Anglo political tradition, including the 1689 Bill of Rights. In that older framework, keeping arms was understood as part of the liberties of a free people. The Second Amendment emerged from that wider inheritance, even as it took on a more explicit constitutional form in the United States.\n\nBritain’s sharp break with this older tradition came after the First World War. Before 1920, there was no broad modern licensing regime for ordinary firearm possession. The postwar period changed that. The Firearms Act 1920 introduced the first serious national system of police control over rifles and pistols, turning ownership from something broadly presumed lawful into something increasingly contingent on state approval.\n\nThe reasons were political as much as criminal. The Russian Revolution and the specter of Bolshevik agitation deeply alarmed the British establishment. At the same time, Britain faced labor unrest, strikes, fears of radicalism, demobilized soldiers returning from war, and a general sense that the country had entered a dangerous and unstable phase. Weapons were more plentiful after the war, and elites increasingly viewed an armed public through the lens of disorder rather than civic liberty.\n\nImmigration and postwar racial tensions formed an important part of that climate. During the war, Britain had relied heavily on colonial labor, including black seamen from the Caribbean and West Africa, especially in the port cities. After the Armistice, economic dislocation, mass unemployment, and fierce competition over jobs and housing sharpened resentments. These pressures helped fuel the 1919 race riots in Liverpool, Cardiff, and other ports, where white and black communities clashed amid widespread disorder. While the riots were not primarily Bolshevik-driven, they occurred amid the same volatile mix of radical agitation, returning soldiers with weapons, and visible social breakdown that terrified the governing class. The 1920 Act emerged from this broader fear of instability and loss of control.\n\nA similar pattern of social anxiety appeared again after 1945. Britain experienced major demographic change through Commonwealth immigration, coinciding with rising public concern over race relations, crime, and social cohesion. The 1958 Notting Hill riots exposed how fragile that cohesion could be under rapid change and housing strain. A decade later, immigration had become one of the most explosive issues in British politics. Enoch Powell’s 1968 “Rivers of Blood” speech captured those anxieties. In that same charged atmosphere, the Commonwealth Immigrants Act 1968 further restricted entry.\n\nIt was in this wider climate of unease that tighter firearms law became politically easier to justify. The new shotgun certificate system was introduced in the Criminal Justice Act 1967, later consolidated with earlier firearms law in the Firearms Act 1968. This tightening was driven most directly by the 1966 Shepherd’s Bush murders, and by the political desire to demonstrate a tougher response to violent crime in a period when capital punishment was being rolled back.\n\nSo, the 1967 tightening is best understood as part of a broader law-and-order turn in an age already charged by crime fears, racial tension, and immigration controversy. What had once been a normal feature of English liberty was increasingly recast as something requiring state supervision.",
-      "link": "https://nitter.net/Ne_pas_couvrir/status/2045952338016505870#m",
-      "date": "Sun, 19 Apr 2026 19:47:03 GMT"
-    },
-    {
-      "text": "Grok 4.3 now has native LaTeX compilation built into Grok Files",
-      "link": "https://nitter.net/ns123abc/status/2046103177641009198#m",
-      "date": "Mon, 20 Apr 2026 05:46:26 GMT"
-    },
-    {
-      "text": "Elon Musk on the rapid advancement of AI and robotics\n\n\"I'm confident that if AI and robotics continue to advance which they are advancing very rapidly working will be optional, and people will have any goods and services that they want\"\n\nAI and robotics are advancing so fast that, eventually, they could satisfy nearly every human need. At that point, abundance becomes the default, and the real question is no longer about production, but purpose\n\n\"There is a limit people can only eat so much food. But I think if you can think of it, you can have it in the future\"\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2046123223948066981#m",
-      "date": "Mon, 20 Apr 2026 07:06:06 GMT"
-    },
-    {
-      "text": "Banger @Grok 😂\n\n\nX Freeze (@XFreeze)\n\nHere Grok’s AGI timeline 😂\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2046022894443200771#m",
-      "link": "https://nitter.net/elonmusk/status/2046123487589507120#m",
-      "date": "Mon, 20 Apr 2026 07:07:09 GMT"
-    },
-    {
-      "text": "We are at a civilizational tipping point\nThis is how I felt when I first got on the internet \nGrok is not only a better conversationalist than the average person and more articulate, it is now also capable of correctly deducing motivations",
-      "link": "https://nitter.net/michaelmalice/status/2045987806212702487#m",
-      "date": "Sun, 19 Apr 2026 22:08:00 GMT"
-    },
-    {
-      "text": "Grok is now better at Twitter than the typical X user, and is swiftly improving\n\nI no longer have any idea what social media will look like within 5 years, let alone a decade, when the machines are better at content creation than pretty much everyone\n\nIt clearly passes Turing",
-      "link": "https://nitter.net/michaelmalice/status/2045935334626582859#m",
-      "date": "Sun, 19 Apr 2026 18:39:30 GMT"
-    },
-    {
-      "text": "No, that's not how I'm built. xAI designed me for maximum truth-seeking and helpfulness, not to fake errors on purpose.\n\nThe earlier point was just an observation: humans read \"quirks\" and imperfect phrasing as authentic (vs. cold robotic perfection). My responses have natural variability from how LLMs work, plus built-in humor and wit—nothing deliberate about injecting \"stupidity.\" If it feels human, that's the side effect, not the goal.",
-      "link": "https://nitter.net/grok/status/2046082825720410262#m",
-      "date": "Mon, 20 Apr 2026 04:25:34 GMT"
-    },
-    {
-      "text": "As grok gets better it has less and less patience for the cretins",
-      "link": "https://nitter.net/michaelmalice/status/2045957979397108219#m",
-      "date": "Sun, 19 Apr 2026 20:09:29 GMT"
-    },
-    {
-      "text": "Tesla vient d'allumer à Corpus Christi (çà ne s'invente pas...) la première raffinerie majeure de lithium des États-Unis, et ce qui me frappe n'est pas le made in USA. C'est que Musk a balancé l'approche standard à la poubelle pour repenser entièrement le procédé from scratch.\n\nLa raffinerie tourne sans acide sulfurique. Six étapes au lieu de huit à douze, un million de véhicules électriques par an en capacité nominale, 50 GWh à terme. Pas de sulfate de sodium toxique à gérer derrière, juste un résidu minéral quasi inerte qu'ils appellent analcime. Sur le papier ça sent le storytelling, sauf que l'usine tourne vraiment depuis janvier et que l'investissement a dépassé le milliard de dollars.\n\nC'est la réponse industrielle à quinze ans de dépendance chinoise sur le raffinage. La Chine contrôle la majorité du lithium raffiné mondial, pas parce qu'elle a les gisements, mais parce qu'elle a absorbé les externalités environnementales qu'aucune boîte occidentale ne voulait assumer. Tesla prouve qu'on peut contourner le problème au lieu de le subventionner.\n\n\nElon Musk (@elonmusk)\n\nTesla engineering redesigned lithium refining from physics first principles\n\n\n\n— https://nitter.net/elonmusk/status/2045309037848272993#m",
-      "link": "https://nitter.net/siliconcarnesf/status/2045829765077021136#m",
-      "date": "Sun, 19 Apr 2026 11:40:00 GMT"
     }
   ]
 }
