@@ -1,107 +1,97 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-22T03:20:49Z",
-  "count": 20,
+  "updated_at": "2026-04-22T07:58:21Z",
+  "count": 18,
   "tweets": [
     {
-      "text": "View how the latest Full Self-Driving build, V14.3.1, is performing on our platform.\n\nteslascope.com/software/2026…\n\nOver time, we'll continue to improve this feature, including making it available via our Developer APIs.",
-      "link": "https://nitter.net/teslascope/status/2046731053306638433#m",
-      "date": "Tue, 21 Apr 2026 23:21:24 GMT"
+      "text": "A week from now, on April 28th at 2 AM (PST), our service will go offline for a brief maintenance to upgrade our databases.\n\nVehicle polling will be momentarily disrupted, and we expect the downtime to conclude in under fifteen minutes.\n\nThank you for your understanding.",
+      "link": "https://nitter.net/teslascope/status/2046825846409924937#m",
+      "date": "Wed, 22 Apr 2026 05:38:04 GMT"
     },
     {
-      "text": "Today, we officially launched publicly accessible metrics for @Tesla's Full Self-Driving.\n\nView how each software update is performing, including the percentage of drives and drivers using FSD, and the average % of a drive in FSD.\n\nPowered by real data from AI4-equipped vehicles.",
-      "link": "https://nitter.net/teslascope/status/2046730816886321657#m",
-      "date": "Tue, 21 Apr 2026 23:20:27 GMT"
+      "text": "We can confirm (based on replies) that any form of charging counts, so even a moment plugged in at home should be enough!",
+      "link": "https://nitter.net/teslascope/status/2046825021730095353#m",
+      "date": "Wed, 22 Apr 2026 05:34:48 GMT"
     },
     {
-      "text": "The Spring Update, 2026.14.1, is going wider. \n\n@teslascope @wholemars @SawyerMerritt \n\nHere’s what HW3 vehicles get. Not a bad set of features for cars with (in some cases) nearly decade old hardware!\n\nVideo",
-      "link": "https://nitter.net/jchybow/status/2046704129460855099#m",
-      "date": "Tue, 21 Apr 2026 21:34:25 GMT"
+      "text": "Charge your @Tesla vehicle today (on April 22nd) to earn an Earth Day badge within the Tesla mobile app!\n\nNote: It's not yet clear whether this implies charging at home, any fast charger, or Supercharging only.\n\n\nWhole Mars Catalog (@wholemars)\n\nCharge your Tesla on Earth day to get this special badge\n\n\n\n\n\n— https://nitter.net/wholemars/status/2046797273200509217#m",
+      "link": "https://nitter.net/teslascope/status/2046824063939858654#m",
+      "date": "Wed, 22 Apr 2026 05:30:59 GMT"
     },
     {
-      "text": "A new feature has been detected: FSD (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046663088217166107#m",
-      "date": "Tue, 21 Apr 2026 18:51:20 GMT"
+      "text": "An update in May will expand upon this, allowing easy export of service alerts to PDF/CSV and providing access to this data via our Developer APIs.\n\nIn addition, you'll be able to enable email notifications for specific categories (such as HV alerts), perfect for managing fleets.",
+      "link": "https://nitter.net/teslascope/status/2046822040712466788#m",
+      "date": "Wed, 22 Apr 2026 05:22:57 GMT"
     },
     {
-      "text": "A new feature has been detected: FSD (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046663084094161230#m",
-      "date": "Tue, 21 Apr 2026 18:51:19 GMT"
+      "text": "Historical Service Alerts are now live for @Tesla vehicles subscribed to our Pro membership! ⚙️🛠️\n\nTeslascope can now record alerts and will soon privately analyze the alerts your vehicle receives to provide you with insights into your vehicle's health.",
+      "link": "https://nitter.net/teslascope/status/2046822038854320447#m",
+      "date": "Wed, 22 Apr 2026 05:22:56 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.3.7 on Model 3 AWD LR (2024) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046663064800399606#m",
-      "date": "Tue, 21 Apr 2026 18:51:14 GMT"
+      "text": "A new build of the @Tesla Spring update is now rolling out via 2026.14.2.\n\nIt is only going out to vehicles currently on 2026.14.1; thus, no new Full Self-Driving build has been detected at this time.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.2 on Model Y RWD LR (2026) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2046812286631686615#m",
+      "link": "https://nitter.net/teslascope/status/2046817755115245629#m",
+      "date": "Wed, 22 Apr 2026 05:05:55 GMT"
     },
     {
-      "text": "The latest wave of the @Tesla Spring Update is now going out to additional vehicles. HW3 (and earlier) vehicles are prioritized, but AI4 vehicles in some countries without access to FSD are included as well.\n\nMonitor the rollout on our platform.\nteslascope.com/software/2026…\n\n\n\nDhalgren Marquis (@DhalgrenMarquis)\n\nSpring update rolling out for HW3 Intel vehicles. @teslascope\n\n\n\n\n\n— https://nitter.net/DhalgrenMarquis/status/2046348889981358315#m",
-      "link": "https://nitter.net/teslascope/status/2046354296309199359#m",
-      "date": "Mon, 20 Apr 2026 22:24:18 GMT"
+      "text": "We've pushed a change to our \"determine what features should be posted\" yet again to show only features labeled as new for the specific build.\n\nThis helps avoid erroneous release notes, including repeating the same release notes when the release included only minor changes. 😔",
+      "link": "https://nitter.net/teslascope/status/2046817400151273862#m",
+      "date": "Wed, 22 Apr 2026 05:04:30 GMT"
     },
     {
       "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046164901068996637#m",
-      "date": "Mon, 20 Apr 2026 09:51:42 GMT"
+      "link": "https://nitter.net/teslascope/status/2046812420010590410#m",
+      "date": "Wed, 22 Apr 2026 04:44:43 GMT"
     },
     {
-      "text": "We wanted to highlight and support developers such as @ArthurFromX of @TesCamStudio who have integrated our Developer APIs and built experiences that our members can enjoy.\n\nteslascope.com/developers",
-      "link": "https://nitter.net/teslascope/status/2046078796059832634#m",
-      "date": "Mon, 20 Apr 2026 04:09:33 GMT"
+      "text": "A new feature has been detected: Rear Display\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812411647172890#m",
+      "date": "Wed, 22 Apr 2026 04:44:41 GMT"
     },
     {
-      "text": "We're hosting a giveaway w/ @TesCamStudio to win a 12-month membership on our platform + more.\n\nAlongside a suite of dashcam tools, their app lets you connect your Teslascope account to automatically show Full Self-Driving version, battery, & more.\n\nDetails in the quoted post ⬇️\n\n\nTesCam Studio for Tesla (@TesCamStudio)\n\n🏆 GIVEAWAY with @Teslascope\n\nWin a Limited Edition Tesla Speedform Set\n+ 12-month Teslascope membership.\n\nHow to enter:\n1. Export a dashcam clip in TesCam Studio\n2. Post on X between 4/20-5/1 tagging @TesCamStudio + @Teslascope\n3. Reply to THIS post with your link\n\nMost views by May 1 wins 👇\n\n\n\n\n\n— https://nitter.net/TesCamStudio/status/2046068795077546105#m",
-      "link": "https://nitter.net/teslascope/status/2046078794361180428#m",
-      "date": "Mon, 20 Apr 2026 04:09:33 GMT"
-    },
-    {
-      "text": "Can confirm! A new wave of Full Self-Driving V14.3.1 is now rolling out to additional AI4 Model 3 and Y vehicles via 2026.2.9.7.\n\nThis is still a relatively small wave, but the first wave in about four days.\n\n\n\n\nCameron Johnson (@C_the_man91)\n\nAnother wave of 14.3.1? Just got 2026.2.9.7 on my car. @teslascope\n\n\n\n— https://nitter.net/C_the_man91/status/2045748303422521650#m",
-      "link": "https://nitter.net/teslascope/status/2045750800736239981#m",
-      "date": "Sun, 19 Apr 2026 06:26:13 GMT"
-    },
-    {
-      "text": "Tesla now has three cities with fully autonomous, unsupervised @Robotaxi vehicles that can be hailed by anyone.\n\nMore will be unlocked in the following weeks and months. Exciting times!",
-      "link": "https://nitter.net/teslascope/status/2045579442689638816#m",
-      "date": "Sat, 18 Apr 2026 19:05:18 GMT"
-    },
-    {
-      "text": "Robotaxi now rolling out in Dallas & Houston 🤠\n\nVideo",
-      "link": "https://nitter.net/robotaxi/status/2045564609504116771#m",
-      "date": "Sat, 18 Apr 2026 18:06:22 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Paint Shop\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2045378741623218524#m",
-      "date": "Sat, 18 Apr 2026 05:47:47 GMT"
-    },
-    {
-      "text": "More Tesla Diners coming\n\n\nTesla North America (@tesla_na)\n\nPlace your order while en route to Tesla Diner & it will be ready right after you arrive\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/tesla_na/status/2044895440613839179#m",
-      "link": "https://nitter.net/elonmusk/status/2044927043943747976#m",
-      "date": "Thu, 16 Apr 2026 23:52:54 GMT"
-    },
-    {
-      "text": "Here are the release notes for Supercharger Pricing Filtering.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045120501735993855#m",
-      "link": "https://nitter.net/teslascope/status/2045155797492203839#m",
-      "date": "Fri, 17 Apr 2026 15:01:53 GMT"
-    },
-    {
-      "text": "Two new features that are region or model specific have been spotted in the Spring Update, previously hinted at by @Tesla.\n\nHere are the release notes for Immersive Sound Upgrade, and Supercharger Cost Filtering was added as well.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2045009473492689396#m",
-      "link": "https://nitter.net/teslascope/status/2045155634002489814#m",
-      "date": "Fri, 17 Apr 2026 15:01:14 GMT"
+      "text": "A new feature has been detected: Keyboard\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812402709041271#m",
+      "date": "Wed, 22 Apr 2026 04:44:39 GMT"
     },
     {
       "text": "A new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2045120501735993855#m",
-      "date": "Fri, 17 Apr 2026 12:41:38 GMT"
+      "link": "https://nitter.net/teslascope/status/2046812394576388395#m",
+      "date": "Wed, 22 Apr 2026 04:44:37 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Weather Maps Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812386594611356#m",
+      "date": "Wed, 22 Apr 2026 04:44:35 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Dashcam Viewer Updates\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812377966915835#m",
+      "date": "Wed, 22 Apr 2026 04:44:33 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Automatic Software Updates\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812369016230112#m",
+      "date": "Wed, 22 Apr 2026 04:44:31 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Music App Queuing\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812360426270790#m",
+      "date": "Wed, 22 Apr 2026 04:44:29 GMT"
     },
     {
       "text": "A new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2045009473492689396#m",
-      "date": "Fri, 17 Apr 2026 05:20:27 GMT"
+      "link": "https://nitter.net/teslascope/status/2046812352050352254#m",
+      "date": "Wed, 22 Apr 2026 04:44:27 GMT"
     },
     {
-      "text": "A new quality-of-life improvement to the release notes on our platform is now live!\n\nIf you've signed up and added vehicles to our platform, you can now see at a glance whether a specific feature applies to your exact Tesla vehicle.\n\nThis feature is accessible to all for free.",
-      "link": "https://nitter.net/teslascope/status/2044993925568721320#m",
-      "date": "Fri, 17 Apr 2026 04:18:40 GMT"
+      "text": "A new feature has been detected: Blind Spot Warning Accent Lights\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812342197858720#m",
+      "date": "Wed, 22 Apr 2026 04:44:24 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Sketchpad\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812333847069050#m",
+      "date": "Wed, 22 Apr 2026 04:44:22 GMT"
     }
   ]
 }
