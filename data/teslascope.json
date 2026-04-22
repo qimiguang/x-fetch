@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-22T10:22:35Z",
-  "count": 18,
+  "updated_at": "2026-04-22T13:56:18Z",
+  "count": 19,
   "tweets": [
     {
       "text": "A week from now, on April 28th at 2 AM (PST), our service will go offline for a brief maintenance to upgrade our databases.\n\nVehicle polling will be momentarily disrupted, and we expect the downtime to conclude in under fifteen minutes.\n\nThank you for your understanding.",
@@ -9,19 +9,14 @@
       "date": "Wed, 22 Apr 2026 05:38:04 GMT"
     },
     {
-      "text": "We can confirm (based on replies) that any form of charging counts, so even a moment plugged in at home should be enough!",
-      "link": "https://nitter.net/teslascope/status/2046825021730095353#m",
-      "date": "Wed, 22 Apr 2026 05:34:48 GMT"
-    },
-    {
       "text": "Charge your @Tesla vehicle today (on April 22nd) to earn an Earth Day badge within the Tesla mobile app!\n\nNote: It's not yet clear whether this implies charging at home, any fast charger, or Supercharging only.\n\n\nWhole Mars Catalog (@wholemars)\n\nCharge your Tesla on Earth day to get this special badge\n\n\n\n\n\n— https://nitter.net/wholemars/status/2046797273200509217#m",
       "link": "https://nitter.net/teslascope/status/2046824063939858654#m",
       "date": "Wed, 22 Apr 2026 05:30:59 GMT"
     },
     {
-      "text": "An update in May will expand upon this, allowing easy export of service alerts to PDF/CSV and providing access to this data via our Developer APIs.\n\nIn addition, you'll be able to enable email notifications for specific categories (such as HV alerts), perfect for managing fleets.",
-      "link": "https://nitter.net/teslascope/status/2046822040712466788#m",
-      "date": "Wed, 22 Apr 2026 05:22:57 GMT"
+      "text": "We can confirm (based on replies) that any form of charging counts, so even a moment plugged in at home should be enough!",
+      "link": "https://nitter.net/teslascope/status/2046825021730095353#m",
+      "date": "Wed, 22 Apr 2026 05:34:48 GMT"
     },
     {
       "text": "Historical Service Alerts are now live for @Tesla vehicles subscribed to our Pro membership! ⚙️🛠️\n\nTeslascope can now record alerts and will soon privately analyze the alerts your vehicle receives to provide you with insights into your vehicle's health.",
@@ -29,9 +24,19 @@
       "date": "Wed, 22 Apr 2026 05:22:56 GMT"
     },
     {
+      "text": "An update in May will expand upon this, allowing easy export of service alerts to PDF/CSV and providing access to this data via our Developer APIs.\n\nIn addition, you'll be able to enable email notifications for specific categories (such as HV alerts), perfect for managing fleets.",
+      "link": "https://nitter.net/teslascope/status/2046822040712466788#m",
+      "date": "Wed, 22 Apr 2026 05:22:57 GMT"
+    },
+    {
       "text": "A new build of the @Tesla Spring update is now rolling out via 2026.14.2.\n\nIt is only going out to vehicles currently on 2026.14.1; thus, no new Full Self-Driving build has been detected at this time.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.2 on Model Y RWD LR (2026) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2046812286631686615#m",
       "link": "https://nitter.net/teslascope/status/2046817755115245629#m",
       "date": "Wed, 22 Apr 2026 05:05:55 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.2 on Model Y RWD LR (2026) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2046812286631686615#m",
+      "date": "Wed, 22 Apr 2026 04:44:11 GMT"
     },
     {
       "text": "We've pushed a change to our \"determine what features should be posted\" yet again to show only features labeled as new for the specific build.\n\nThis helps avoid erroneous release notes, including repeating the same release notes when the release included only minor changes. 😔",
