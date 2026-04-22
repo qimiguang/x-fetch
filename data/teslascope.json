@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-22T16:12:07Z",
-  "count": 18,
+  "updated_at": "2026-04-22T19:22:13Z",
+  "count": 17,
   "tweets": [
+    {
+      "text": "More Spring Update rolling out now, getting it on our 2019 Model 3 with FSD.",
+      "link": "https://nitter.net/DriveTeslaca/status/2047027922494800228#m",
+      "date": "Wed, 22 Apr 2026 19:01:03 GMT"
+    },
+    {
+      "text": "Today is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\nTesla (@Tesla)\n\nQ1 2026 Earnings Call at 4:30pm CT  nitter.net/i/broadcasts/1pKdRbnag…\n\n\n\n\n— https://nitter.net/Tesla/status/2047020657712783367#m",
+      "link": "https://nitter.net/teslascope/status/2047026435844632711#m",
+      "date": "Wed, 22 Apr 2026 18:55:08 GMT"
+    },
+    {
+      "text": "Historical Service Alerts are now live for @Tesla vehicles subscribed to our Pro membership! ⚙️🛠️\n\nTeslascope can now record alerts and will soon privately analyze the alerts your vehicle receives to provide you with insights into your vehicle's health.",
+      "link": "https://nitter.net/teslascope/status/2046822038854320447#m",
+      "date": "Wed, 22 Apr 2026 05:22:56 GMT"
+    },
     {
       "text": "A week from now, on April 28th at 2 AM (PST), our service will go offline for a brief maintenance to upgrade our databases.\n\nVehicle polling will be momentarily disrupted, and we expect the downtime to conclude in under fifteen minutes.\n\nThank you for your understanding.",
       "link": "https://nitter.net/teslascope/status/2046825846409924937#m",
@@ -22,11 +37,6 @@
       "text": "An update in May will expand upon this, allowing easy export of service alerts to PDF/CSV and providing access to this data via our Developer APIs.\n\nIn addition, you'll be able to enable email notifications for specific categories (such as HV alerts), perfect for managing fleets.",
       "link": "https://nitter.net/teslascope/status/2046822040712466788#m",
       "date": "Wed, 22 Apr 2026 05:22:57 GMT"
-    },
-    {
-      "text": "Historical Service Alerts are now live for @Tesla vehicles subscribed to our Pro membership! ⚙️🛠️\n\nTeslascope can now record alerts and will soon privately analyze the alerts your vehicle receives to provide you with insights into your vehicle's health.",
-      "link": "https://nitter.net/teslascope/status/2046822038854320447#m",
-      "date": "Wed, 22 Apr 2026 05:22:56 GMT"
     },
     {
       "text": "A new build of the @Tesla Spring update is now rolling out via 2026.14.2.\n\nIt is only going out to vehicles currently on 2026.14.1; thus, no new Full Self-Driving build has been detected at this time.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.2 on Model Y RWD LR (2026) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2046812286631686615#m",
@@ -77,21 +87,6 @@
       "text": "A new feature has been detected: Music App Queuing\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2046812360426270790#m",
       "date": "Wed, 22 Apr 2026 04:44:29 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046812352050352254#m",
-      "date": "Wed, 22 Apr 2026 04:44:27 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Blind Spot Warning Accent Lights\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046812342197858720#m",
-      "date": "Wed, 22 Apr 2026 04:44:24 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Sketchpad\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2046812333847069050#m",
-      "date": "Wed, 22 Apr 2026 04:44:22 GMT"
     }
   ]
 }
