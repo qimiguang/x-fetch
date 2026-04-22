@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-21T21:50:27Z",
+  "updated_at": "2026-04-22T03:20:49Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "View how the latest Full Self-Driving build, V14.3.1, is performing on our platform.\n\nteslascope.com/software/2026…\n\nOver time, we'll continue to improve this feature, including making it available via our Developer APIs.",
+      "link": "https://nitter.net/teslascope/status/2046731053306638433#m",
+      "date": "Tue, 21 Apr 2026 23:21:24 GMT"
+    },
+    {
+      "text": "Today, we officially launched publicly accessible metrics for @Tesla's Full Self-Driving.\n\nView how each software update is performing, including the percentage of drives and drivers using FSD, and the average % of a drive in FSD.\n\nPowered by real data from AI4-equipped vehicles.",
+      "link": "https://nitter.net/teslascope/status/2046730816886321657#m",
+      "date": "Tue, 21 Apr 2026 23:20:27 GMT"
+    },
     {
       "text": "The Spring Update, 2026.14.1, is going wider. \n\n@teslascope @wholemars @SawyerMerritt \n\nHere’s what HW3 vehicles get. Not a bad set of features for cars with (in some cases) nearly decade old hardware!\n\nVideo",
       "link": "https://nitter.net/jchybow/status/2046704129460855099#m",
@@ -92,16 +102,6 @@
       "text": "A new quality-of-life improvement to the release notes on our platform is now live!\n\nIf you've signed up and added vehicles to our platform, you can now see at a glance whether a specific feature applies to your exact Tesla vehicle.\n\nThis feature is accessible to all for free.",
       "link": "https://nitter.net/teslascope/status/2044993925568721320#m",
       "date": "Fri, 17 Apr 2026 04:18:40 GMT"
-    },
-    {
-      "text": "Tesla’s 2026 Spring Update has started rolling out. \n\nHere are the new Pet Mode Avatars.\n\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.1 on Model 3 SR (2025) in Milan, Italy. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2044968653569790458#m",
-      "link": "https://nitter.net/DriveTeslaca/status/2044984381312512258#m",
-      "date": "Fri, 17 Apr 2026 03:40:45 GMT"
-    },
-    {
-      "text": "Tesla 2026 Spring Update has officially begun rolling out!\n\nFirst update spotted in Italy via @teslascope\n\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.1 on Model 3 SR (2025) in Milan, Italy. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2044968653569790458#m",
-      "link": "https://nitter.net/niccruzpatane/status/2044977129092162033#m",
-      "date": "Fri, 17 Apr 2026 03:11:56 GMT"
     }
   ]
 }
