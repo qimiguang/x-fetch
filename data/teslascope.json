@@ -1,8 +1,98 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-22T21:54:51Z",
-  "count": 19,
+  "updated_at": "2026-04-23T03:23:57Z",
+  "count": 20,
   "tweets": [
+    {
+      "text": "Possible sighting of Model Y L being tested in North America!\n\n\nMichael R Carroll (@michaelrcarroll)\n\nFirst Model YL mule sighting in North America? I took this on I-280 NB this afternoon. It’s a looong boi… CC: @SawyerMerritt\n\n\n\n\n\n— https://nitter.net/michaelrcarroll/status/2047131419290579219#m",
+      "link": "https://nitter.net/teslascope/status/2047152648219218246#m",
+      "date": "Thu, 23 Apr 2026 03:16:40 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2047128276015972612#m",
+      "date": "Thu, 23 Apr 2026 01:39:49 GMT"
+    },
+    {
+      "text": "New Intervene Reason UI in Full Self-Driving V14.3.2.\n\n\nZack (@BLKMDL3)\n\nHere’s the intervention reason screen when intervening on FSD v14.3.2\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2047120780253904989#m",
+      "link": "https://nitter.net/teslascope/status/2047123264225599678#m",
+      "date": "Thu, 23 Apr 2026 01:19:54 GMT"
+    },
+    {
+      "text": "The mention of Actually Smart Summon was removed from the Cybertruck release notes in V14.3.2. 😂\n\nThis is the third revision to the release notes in under an hour, after the addition of the \"Help Tesla improve Self-Driving by selecting an intervention reason on the main screen.\"\n\n\nTeslascope (@teslascope)\n\nNew in FSD V14.3.2: \"Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior.\"\n\n\n\n— https://nitter.net/teslascope/status/2047098191846478094#m",
+      "link": "https://nitter.net/teslascope/status/2047107165073403948#m",
+      "date": "Thu, 23 Apr 2026 00:15:56 GMT"
+    },
+    {
+      "text": "Release notes were retroactively updated by Tesla (for all vehicles) to include another bullet point in the V14.3.2 feature:\n\n\"Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over.\"",
+      "link": "https://nitter.net/teslascope/status/2047105329595592791#m",
+      "date": "Thu, 23 Apr 2026 00:08:38 GMT"
+    },
+    {
+      "text": "New in FSD V14.3.2: \"Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior.\"\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving V14.3.2 is now going out to AI4 @Tesla vehicles for the first time via software update 2026.2.9.8!\n\n\n\n— https://nitter.net/teslascope/status/2047097161368948749#m",
+      "link": "https://nitter.net/teslascope/status/2047098191846478094#m",
+      "date": "Wed, 22 Apr 2026 23:40:16 GMT"
+    },
+    {
+      "text": "Full Self-Driving V14.3.2 is now going out to AI4 @Tesla vehicles for the first time via software update 2026.2.9.8!\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.2\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2047096585562030316#m",
+      "link": "https://nitter.net/teslascope/status/2047097161368948749#m",
+      "date": "Wed, 22 Apr 2026 23:36:11 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2047096596169424957#m",
+      "date": "Wed, 22 Apr 2026 23:33:56 GMT"
+    },
+    {
+      "text": "A new feature has been detected: FSD (Supervised) v14.3.2\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2047096585562030316#m",
+      "date": "Wed, 22 Apr 2026 23:33:53 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.9.8 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2047096571339092459#m",
+      "date": "Wed, 22 Apr 2026 23:33:50 GMT"
+    },
+    {
+      "text": "[Regarding Unsupervised]: Tesla has major architectural improvements underway that they want to finish testing and deploy to vehicles before they release large-scale unsupervised Full Self-Driving.\n\nThus, the end-of-year timeline, alongside the release of Full Self-Driving V15.",
+      "link": "https://nitter.net/teslascope/status/2047075379106697287#m",
+      "date": "Wed, 22 Apr 2026 22:09:37 GMT"
+    },
+    {
+      "text": "\"What is deployed in the Netherlands and Europe [Full Self-Driving] is the exact same architecture and training procedure as in North America, but with more data from the region.\"",
+      "link": "https://nitter.net/teslascope/status/2047074276575244751#m",
+      "date": "Wed, 22 Apr 2026 22:05:14 GMT"
+    },
+    {
+      "text": "Full Self-Driving V15 will come out later this year or early next year and will run on the latest hardware (AI4).\n\nThere are no plans to bring AI5 (recently tapped out) to customer vehicles for the foreseeable future.",
+      "link": "https://nitter.net/teslascope/status/2047074015857291705#m",
+      "date": "Wed, 22 Apr 2026 22:04:12 GMT"
+    },
+    {
+      "text": "The official plan for HW3 (as of @Tesla's Q1 Call):\n\n– V14 Lite is expected in June, which will include all major features currently available in V14.X.\n\n– A hardware upgrade from HW3 to AI4 (Autopilot Computer and Cameras) will be available.\n\n– And better trade-in offers.",
+      "link": "https://nitter.net/teslascope/status/2047073723933761825#m",
+      "date": "Wed, 22 Apr 2026 22:03:03 GMT"
+    },
+    {
+      "text": "– A distilled V14 build will be released in the interim for HW3 \"V14 Lite\", which will include the majority of features currently available in AI4. Coming in June.\n\n– A \"microfactory\" in metropolitan cities to upgrade existing vehicles, as service centers can be overwhelmed.",
+      "link": "https://nitter.net/teslascope/status/2047073097791217960#m",
+      "date": "Wed, 22 Apr 2026 22:00:33 GMT"
+    },
+    {
+      "text": "\"How will HW3 vehicles reach Unsupervised Full Self-Driving?\"\n\n– HW3 does not have the capability to achieve Unsupervised Full Self-Driving.\n\n– Customers will be offered a discounted trade-in and the ability to upgrade the Autopilot hardware and cameras.\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
+      "link": "https://nitter.net/teslascope/status/2047073096109310394#m",
+      "date": "Wed, 22 Apr 2026 22:00:33 GMT"
+    },
+    {
+      "text": "\"When do you expect Unsupervised Full Self-Driving to reach customer vehicles?\"\n\n– Probably in the fourth quarter; Tesla wants to make sure that there are no unique or complex situations in cities where humans often get into accidents that Unsupervised can't handle confidently.\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
+      "link": "https://nitter.net/teslascope/status/2047072299439026228#m",
+      "date": "Wed, 22 Apr 2026 21:57:23 GMT"
+    },
+    {
+      "text": "\"What milestones are you targeting for Unsupervised FSD and Robotaxi expansion beyond Austin this year?\"\n\n– Tesla aims to have Unsupervised FSD / Robotaxi operating in \"a dozen or so states\" by the end of the year.\n\n– Taking a very cautious approach. Zero injuries and fatalities.\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
+      "link": "https://nitter.net/teslascope/status/2047071996539003286#m",
+      "date": "Wed, 22 Apr 2026 21:56:11 GMT"
+    },
     {
       "text": "– Dismantling, testing, installing, and starting a new production line in 4 months would be \"insane\".\n\n– Production rate is uncertain and cannot be predicted for a new product such as Optimus.\n\n– Simple skills and build up from there.",
       "link": "https://nitter.net/teslascope/status/2047071607601168596#m",
@@ -12,91 +102,6 @@
       "text": "– The last S/X production will end in May, which the Optimus line will utilize. Some disassembly has already begun, with the rest dismantled after production concludes.\n\n– Installing the new production line will follow shortly after, but will need testing and \"several months\".",
       "link": "https://nitter.net/teslascope/status/2047071606204408143#m",
       "date": "Wed, 22 Apr 2026 21:54:38 GMT"
-    },
-    {
-      "text": "\"When will we have the Optimus V3 reveal, and when will production begin? What are production expectations?\"\n\n– We want to push the Optimus V3 unveil closer to production, which is somewhere around late July to early August.\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
-      "link": "https://nitter.net/teslascope/status/2047071604442906871#m",
-      "date": "Wed, 22 Apr 2026 21:54:37 GMT"
-    },
-    {
-      "text": "Tesla has received some approvals in China, with a broader approval from regulators still underway.\n\nThe release of Full Self-Driving in the Netherlands has also helped pave the way for a promising broad European expansion in Q2.\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
-      "link": "https://nitter.net/teslascope/status/2047069667437785308#m",
-      "date": "Wed, 22 Apr 2026 21:46:56 GMT"
-    },
-    {
-      "text": "Tesla has held off on showcasing too much of Optimus V3 until it's closer to production, as competitors have studied its design and engineering \"frame by frame\" in prior videos, so the company wants to maintain a competitive edge.\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
-      "link": "https://nitter.net/teslascope/status/2047068435251863901#m",
-      "date": "Wed, 22 Apr 2026 21:42:02 GMT"
-    },
-    {
-      "text": "\"[...] FSD V14.3 was a major architectural upgrade, and we have a whole pipeline of major improvements to Full Self-Driving that we believe will lead to Unsupervised Full Self-Driving being available anywhere it is legal to drive.\"\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
-      "link": "https://nitter.net/teslascope/status/2047067983110156489#m",
-      "date": "Wed, 22 Apr 2026 21:40:14 GMT"
-    },
-    {
-      "text": "\"[...] Supervised Self-Driving [V14–] is getting incredibly good, and we've just started production of Cybercab, and we'll be starting production of Semi soon.\"\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
-      "link": "https://nitter.net/teslascope/status/2047067286503358523#m",
-      "date": "Wed, 22 Apr 2026 21:37:28 GMT"
-    },
-    {
-      "text": "FYI: Contributing is automatic; our Pro membership includes FSD tracking per drive as well as many other unique features, such as service alert monitoring and history.\n\nJust sign up, and that's it! No other effort needed on your part.",
-      "link": "https://nitter.net/teslascope/status/2047064733648572770#m",
-      "date": "Wed, 22 Apr 2026 21:27:19 GMT"
-    },
-    {
-      "text": "No purchase or prior subscription necessary. Reach out to us via DM here on X or by email at help@teslascope.com with an AI4 vehicle that is actively connected in the region (Netherlands).\n\nThis offer will be provided until April 30th at 11:59 PM (PST).",
-      "link": "https://nitter.net/teslascope/status/2047064030448427488#m",
-      "date": "Wed, 22 Apr 2026 21:24:32 GMT"
-    },
-    {
-      "text": "Are you in the Netherlands and already have access to Full Self-Driving? (On update 2026.3.6 or 2026.3.7) 🇳🇱\n\nWe're offering three months of credit toward our Pro vehicle membership (a ~$21 value) if you sign up to contribute to our public Full Self-Driving usage metrics!",
-      "link": "https://nitter.net/teslascope/status/2047064029139751231#m",
-      "date": "Wed, 22 Apr 2026 21:24:31 GMT"
-    },
-    {
-      "text": "Response is included here:\n\nnitter.net/larsmoravy/status/2047…\n\n\nLars (@larsmoravy)\n\nNo\n\n\n\n— https://nitter.net/larsmoravy/status/2047055501989458072#m",
-      "link": "https://nitter.net/teslascope/status/2047062208992170297#m",
-      "date": "Wed, 22 Apr 2026 21:17:17 GMT"
-    },
-    {
-      "text": "Lars (@larsmoravy) has confirmed that the theoretical 2,500 limit for AVs (autonomous vehicles) from the NHTSA does NOT apply to Cybercab, in response to a question from @farzyness.\n\nThere are no limitations on Cybercab production beyond the production lines themselves.",
-      "link": "https://nitter.net/teslascope/status/2047062120702083123#m",
-      "date": "Wed, 22 Apr 2026 21:16:56 GMT"
-    },
-    {
-      "text": "We can confirm that 2026.14.2 resolved two bugs reported by some owners who receives 2026.14.1.\n\nFirstly, there was a bug with some phone keys struggling to connect to vehicles. Secondly, TPMS readings were failing in some instances.\n\nBoth of these have been resolved in 2026.14.2\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.2 on Model Y RWD LR (2026) in Ohio, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2046812286631686615#m",
-      "link": "https://nitter.net/teslascope/status/2047047985914335401#m",
-      "date": "Wed, 22 Apr 2026 20:20:46 GMT"
-    },
-    {
-      "text": "We tend to focus less on the actual financials/investing, so if you're looking for that, please keep an eye on @SawyerMerritt and @wholemars's posts during the earnings call. 👏",
-      "link": "https://nitter.net/teslascope/status/2047047499765207408#m",
-      "date": "Wed, 22 Apr 2026 20:18:50 GMT"
-    },
-    {
-      "text": "A few points from the Shareholder Deck:\n\n– Full Self-Driving Subscriptions is up 51% YoY\n– Optimus is replacing Model S and X lines in Fremont.\n– 9 billion miles driven w/ FSD.\n– ~1.7 million cumulative miles w/ Robotaxi.\n– Cortex 2 with (>130k H100e) training capacity is online.\n\n\n\n\n\n\n\n\n\n\nTeslascope (@teslascope)\n\nToday is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\n\n— https://nitter.net/teslascope/status/2047026435844632711#m",
-      "link": "https://nitter.net/teslascope/status/2047047102417834425#m",
-      "date": "Wed, 22 Apr 2026 20:17:16 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Paint Shop\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2047037177213677740#m",
-      "date": "Wed, 22 Apr 2026 19:37:49 GMT"
-    },
-    {
-      "text": "More Spring Update rolling out now, getting it on our 2019 Model 3 with FSD.",
-      "link": "https://nitter.net/DriveTeslaca/status/2047027922494800228#m",
-      "date": "Wed, 22 Apr 2026 19:01:03 GMT"
-    },
-    {
-      "text": "Today is @Tesla's Q1 Earnings Call!\n\nWe'll be spotlighting information on software, Full Self-Driving, and Autopilot Hardware (HW3, AI4, and AI5).\n\n\nTesla (@Tesla)\n\nQ1 2026 Earnings Call at 4:30pm CT  nitter.net/i/broadcasts/1pKdRbnag…\n\n\n\n\n— https://nitter.net/Tesla/status/2047020657712783367#m",
-      "link": "https://nitter.net/teslascope/status/2047026435844632711#m",
-      "date": "Wed, 22 Apr 2026 18:55:08 GMT"
-    },
-    {
-      "text": "Historical Service Alerts are now live for @Tesla vehicles subscribed to our Pro membership! ⚙️🛠️\n\nTeslascope can now record alerts and will soon privately analyze the alerts your vehicle receives to provide you with insights into your vehicle's health.",
-      "link": "https://nitter.net/teslascope/status/2046822038854320447#m",
-      "date": "Wed, 22 Apr 2026 05:22:56 GMT"
     }
   ]
 }
