@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-24T03:26:41Z",
+  "updated_at": "2026-04-24T08:12:50Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "很多事情根据常识就可以推断",
+      "link": "https://nitter.net/Tsla99T/status/2047522515061203156#m",
+      "date": "Fri, 24 Apr 2026 03:46:23 GMT"
+    },
     {
       "text": "含金量不断上升\nnitter.net/robotaxi/status/204750…\n\n\nTSLA99T (@Tsla99T)\n\nCybercab上路接客近在咫尺\n\n\n\n— https://nitter.net/Tsla99T/status/2047144121844773150#m",
       "link": "https://nitter.net/Tsla99T/status/2047516547845931266#m",
@@ -97,11 +102,6 @@
       "text": "这个数据很重要\n要重新算一下达到1000万月活用户的时间了\n\n\nWhole Mars Catalog (@wholemars)\n\nTesla FSD subscriptions grew 44% sequentially from Q4 to Q1! From 330,000 subscribers to 476,100\n\nThat’s annualized growth of 333% a year. If that growth rate continued over the next year they would have 2.06 million monthly subscribers and around 3 million total paid users\n\n\n\n— https://nitter.net/wholemars/status/2047196334139269530#m",
       "link": "https://nitter.net/Tsla99T/status/2047276699285357016#m",
       "date": "Thu, 23 Apr 2026 11:29:36 GMT"
-    },
-    {
-      "text": "你们都说gemini和grok拉垮了，但是生活和学习场景中我只用这2个，因为和google/x生态结合太紧了\n工作中，写代码或者ppt，优先claude\n产品上，优先gpt-5-mini",
-      "link": "https://nitter.net/Tsla99T/status/2047275702513217906#m",
-      "date": "Thu, 23 Apr 2026 11:25:38 GMT"
     }
   ]
 }
