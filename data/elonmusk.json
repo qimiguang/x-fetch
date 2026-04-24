@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-04-24T16:07:44Z",
+  "updated_at": "2026-04-24T19:01:27Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Not bad\n\n\nX Freeze (@XFreeze)\n\nI tested the same prompt on both Grok 4.3 and GPT 5.5:\n\n“Count to 10 starting from 11”\n\nChatGPT 5.5 gave the obvious 11–20 \n\nGrok 4.3 gave 11, 10 and explained why going backwards was the only logical move\n\nGrok’s logical reasoning is at a level most models still can’t even touch\n\n\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2047717800949563691#m",
+      "link": "https://nitter.net/elonmusk/status/2047735226756190282#m",
+      "date": "Fri, 24 Apr 2026 17:51:37 GMT"
+    },
+    {
+      "text": "Waiting at Superchargers is rare, but when it happens, customers should be able to plan with confidence. Superchargers are the only fast chargers with predictive wait times and we're now using vehicle trajectory data to improve these predictions.\n\nNot all customers use Trip Planner to navigate to Superchargers, and amenities nearby also make forecasts harder (ex: cars queuing in a drive through next to a Supercharger). Hence, we've had instances where estimations were off, including at the Diner, where actual waits were longer than shown. This new model is much better, will keep improving, and is now being deployed at Superchargers globally.\n\nWe have rockstar talent working on high impact projects like this at @TeslaCharging, join us!  \ntesla.com/careers/search/?qu…\n\n\n\n\n\n\nTesla Charging (@TeslaCharging)\n\nx.com/i/article/204702847212…\n\n\n\n— https://nitter.net/TeslaCharging/status/2047387324573737381#m",
+      "link": "https://nitter.net/MdeZegher/status/2047387991291945151#m",
+      "date": "Thu, 23 Apr 2026 18:51:50 GMT"
+    },
+    {
+      "text": "SpaceX is developing a next-generation gateway station to boost @Starlink speeds after securing approval to upgrade the satellite internet service with gigabit connectivity, according to a new FCC filing.\n\n“This application takes the next step by seeking authority for one of SpaceX’s next-generation quad-band gateway earth stations that will connect these satellite systems to the terrestrial internet,” the company wrote, noting it's targeting \"fiber-like speeds.\"\n\nThe gateway station will still use 40 antennas for quad-band access, but each will be a 1.99-meter parabolic dish, slightly larger than the 1.85-meter dishes used at the company's other gateway facilities.",
+      "link": "https://nitter.net/SawyerMerritt/status/2047685193641656561#m",
+      "date": "Fri, 24 Apr 2026 14:32:48 GMT"
+    },
+    {
+      "text": "Tesla FSD is the first AI saving lives at scale....on real roads every single day\n\nRoad accidents kill 1.19 million people every year - the #1 cause of death for ages 5–29\n\n94%+ of crashes are caused by human error\n\nTesla’s Full Self-Driving (Supervised) has now surpassed over 9.7 billion miles of real-world data and delivers ~9× safer than human drivers\n\nScaled across the U.S. alone, this level of safety could save 32,000+ lives per year and prevent millions of injuries\n\nThis is \"AI saving lives\"\nNot a benchmark...Not a demo... but reality\n\n\n\n\nElon Musk (@elonmusk)\n\nTesla AI is where the rubber hits the road. “Make no mistakes” is not just a meme joke for self-driving AI. \n\nTesla AI saves lives every day, at large scale. No other AI team can yet make that claim.\n\n\n\n— https://nitter.net/elonmusk/status/2047574377928307166#m",
+      "link": "https://nitter.net/XFreeze/status/2047584265899069717#m",
+      "date": "Fri, 24 Apr 2026 07:51:45 GMT"
+    },
     {
       "text": "The ADL is a hate group\n\n\nMarc Andreessen 🇺🇸 (@pmarca)\n\nGrok has thoughts on who to look at next.\n\n\n\n— https://nitter.net/pmarca/status/2047421009914163565#m",
       "link": "https://nitter.net/elonmusk/status/2047705980771975596#m",
@@ -82,26 +102,6 @@
       "text": "Our newest voice model is 20+ points ahead of the nearest competitor on Sierra's leaderboard. Pretty massive upgrade from our OG model from December, with significantly improved realism and tool calling capabilities.\n\n\n\n\nxAI (@xai)\n\nIntroducing Grok Voice Think Fast 1.0\n\nA state-of-the-art voice model built for complex, multi-step workflows with snappy responses and high accuracy.\n\nIt takes the top spot on the Tau Voice Bench and handles real-world messiness like noise, accents, and interruptions better than any other model in the world.\n\nx.ai/news/grok-voice-think-f…\n\n\n\n\n— https://nitter.net/xai/status/2047441173569216721#m",
       "link": "https://nitter.net/veggie_eric/status/2047442849193672769#m",
       "date": "Thu, 23 Apr 2026 22:29:49 GMT"
-    },
-    {
-      "text": "Exactly\n\n\nMarc Andreessen 🇺🇸 (@pmarca)\n\n\"Marc, why do you care about SPLC's crimes & other activists/companies/gov't agencies who may have done the same/complicit?\"\n\nI sat in so many meetings for a DECADE where these groups determined who got cancelled/debanked/censored. Wholly un-American. People need to go to jail.\n\n\n\n— https://nitter.net/pmarca/status/2047496844310368341#m",
-      "link": "https://nitter.net/elonmusk/status/2047502949639958932#m",
-      "date": "Fri, 24 Apr 2026 02:28:38 GMT"
-    },
-    {
-      "text": "Grok Voice is used by @Starlink\n\n\nxAI (@xai)\n\nIntroducing Grok Voice Think Fast 1.0\n\nA state-of-the-art voice model built for complex, multi-step workflows with snappy responses and high accuracy.\n\nIt takes the top spot on the Tau Voice Bench and handles real-world messiness like noise, accents, and interruptions better than any other model in the world.\n\nx.ai/news/grok-voice-think-f…\n\n\n\n\n— https://nitter.net/xai/status/2047441173569216721#m",
-      "link": "https://nitter.net/elonmusk/status/2047502409728217418#m",
-      "date": "Fri, 24 Apr 2026 02:26:29 GMT"
-    },
-    {
-      "text": "Interesting thread\n\n\nMarc Andreessen 🇺🇸 (@pmarca)\n\nSo @grok, we all just discovered that the SPLC has allegedly been funding some of the worst of the people and groups it claims to oppose. What are other activist pressure groups that advocate censorship/deplatforming of their enemies that could be doing the same thing?\n\n\n\n— https://nitter.net/pmarca/status/2047386671482892508#m",
-      "link": "https://nitter.net/elonmusk/status/2047442415968268438#m",
-      "date": "Thu, 23 Apr 2026 22:28:06 GMT"
-    },
-    {
-      "text": "With FSD v14.3.2, we unified the model between Actually Smart Summon, FSD & Robotaxi for more capable & reliable behavior\n\n\nDirty Tesla (@DirtyTesLa)\n\nOne of the biggest improvements with Actually Smart Summon is the connection/responsiveness from the phone to the car. \n\nThe car immediately responds to your button press, even right after stopping the last session, which it would have a big delay on in the past.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DirtyTesLa/status/2047148526761587170#m",
-      "link": "https://nitter.net/Tesla_AI/status/2047322173459878356#m",
-      "date": "Thu, 23 Apr 2026 14:30:18 GMT"
     }
   ]
 }

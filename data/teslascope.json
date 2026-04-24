@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-24T16:07:46Z",
+  "updated_at": "2026-04-24T19:01:28Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Cybercab appears to already be autonomously driving on the road, shuttling employees (or early testers) around without a steering wheel.\n\nWe suspect that the official addition of these vehicles to the @robotaxi service is just days to weeks away.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nHello glossy Cybercab\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2047743730216493306#m",
+      "link": "https://nitter.net/teslascope/status/2047751841791050147#m",
+      "date": "Fri, 24 Apr 2026 18:57:39 GMT"
+    },
+    {
+      "text": "It's here! @robotaxi for Android is now available.\n\nThank you for spotlighting this, @SawyerMerritt!\n\n\nSawyer Merritt (@SawyerMerritt)\n\nThe @Tesla Robtoaxi App has just officially launched for Android users. Go get some rides y'all!\n\nDownload: play.google.com/store/apps/d…\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2047745136482795684#m",
+      "link": "https://nitter.net/teslascope/status/2047747266270945498#m",
+      "date": "Fri, 24 Apr 2026 18:39:28 GMT"
+    },
+    {
+      "text": "Here is a comparison between the original prototype Cybercab with the pre-production Engineering & Testing version and now, the glossy final production version. \n\nI tried to get these to the same vantage point & scale. There are many detail changes but overall, very similar to the original prototype.",
+      "link": "https://nitter.net/JoeTegtmeyer/status/2047699409542992342#m",
+      "date": "Fri, 24 Apr 2026 15:29:18 GMT"
+    },
     {
       "text": "You heard the man, @Tesla_AI.\n\nLet's get more waves of the latest and greatest Full Self-Driving (Supervised) this weekend!\n\n\nΛI DRIVR (@AIDRIVR)\n\nFSD v14.3.2 is Robotaxi at home\n\nsend it wide\n\n\n\n— https://nitter.net/AIDRIVR/status/2047481137967301050#m",
       "link": "https://nitter.net/teslascope/status/2047483638133244230#m",
@@ -87,21 +102,6 @@
       "text": "Release notes were retroactively updated by Tesla (for all vehicles) to include another bullet point in the V14.3.2 feature:\n\n\"Help Tesla improve Self-Driving by selecting an intervention reason on the main screen after taking over.\"",
       "link": "https://nitter.net/teslascope/status/2047105329595592791#m",
       "date": "Thu, 23 Apr 2026 00:08:38 GMT"
-    },
-    {
-      "text": "New in FSD V14.3.2: \"Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior.\"\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving V14.3.2 is now going out to AI4 @Tesla vehicles for the first time via software update 2026.2.9.8!\n\n\n\n— https://nitter.net/teslascope/status/2047097161368948749#m",
-      "link": "https://nitter.net/teslascope/status/2047098191846478094#m",
-      "date": "Wed, 22 Apr 2026 23:40:16 GMT"
-    },
-    {
-      "text": "Full Self-Driving V14.3.2 is now going out to AI4 @Tesla vehicles for the first time via software update 2026.2.9.8!\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.2\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2047096585562030316#m",
-      "link": "https://nitter.net/teslascope/status/2047097161368948749#m",
-      "date": "Wed, 22 Apr 2026 23:36:11 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2047096596169424957#m",
-      "date": "Wed, 22 Apr 2026 23:33:56 GMT"
     }
   ]
 }
