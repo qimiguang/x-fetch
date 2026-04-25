@@ -1,12 +1,17 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-25T15:46:19Z",
-  "count": 20,
+  "updated_at": "2026-04-25T19:01:53Z",
+  "count": 19,
   "tweets": [
     {
-      "text": "在cursor里用presentation skills做了一个讲义\ngenai4kidz.com/pe-lab.html",
-      "link": "https://nitter.net/Tsla99T/status/2048066017071358206#m",
-      "date": "Sat, 25 Apr 2026 15:46:04 GMT"
+      "text": "头顶激光雷达的华为智驾在撞行人方面确实遥遥领先特斯拉了\n\n\nJacksonS (@shrmodelx)\n\nThis is the latest version of HUAWEI ADS 4, which is often called China’s strongest autonomous driving system. Compared with Tesla FSD V14.2.2.5 in the same scenario, the difference in reaction speed is obvious. Under the same conditions, the HUAWEI ADS vehicle hit the pedestrian twice, while FSD accurately avoided every collision.\n\nThis is the so-called Chinese autonomous driving system that many Western influencers claim is far better than FSD. All I can say is that their marketing is extremely powerful. Both local consumers and Western media figures have been misled by its performance in specially tuned scenarios.\n\nAnd this is also why many local automakers are doing everything they can to block FSD from entering China. Once the latest version of FSD arrives, the dream they have carefully created for local consumers will collapse.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/shrmodelx/status/2048073629632717006#m",
+      "link": "https://nitter.net/Tsla99T/status/2048100397370298668#m",
+      "date": "Sat, 25 Apr 2026 18:02:41 GMT"
+    },
+    {
+      "text": "Vibe Coding讲义还是html的快，漂亮，方便\n但是不太适用于工作环境\n有时候还是需要Claude Cowork转换成ppt版本\ngenai4kidz.com/pe-lab.html",
+      "link": "https://nitter.net/Tsla99T/status/2048066795966202356#m",
+      "date": "Sat, 25 Apr 2026 15:49:10 GMT"
     },
     {
       "text": "特斯拉Robotaxi来达拉斯了 piped.video/6TfoO0Pw39s?si=0MlT…",
@@ -92,16 +97,6 @@
       "text": "有多少人用过meta的模型，或者亚马逊的Alexa+，或者微软的Copilot。如果Grok被你们判了死刑，那这些产品也都别做了。再等等，别急。AI应用才刚开始。",
       "link": "https://nitter.net/Tsla99T/status/2047445850125742492#m",
       "date": "Thu, 23 Apr 2026 22:41:45 GMT"
-    },
-    {
-      "text": "至于创始人被全部推翻，这件事发生有必然性和偶然性，和马斯克的管理风格，spaceX合并等等都有关系，但你不能否定Grok走到今天的成绩。Meta/Microsoft/Amazon这么挣钱的公司，大模型一路走来也都不是一帆风顺的。",
-      "link": "https://nitter.net/Tsla99T/status/2047428028964257971#m",
-      "date": "Thu, 23 Apr 2026 21:30:56 GMT"
-    },
-    {
-      "text": "那些唱衰grok/xai的，我想说你们有些操之过急了\nXAI根本没到掉队的程度\n2C，Meta/Gemini/Grok都有自己各自的生态优势\n2B，Claude/ChatGPT确实很能打，但是你说Grok一无是处，绝大多数人都是人云亦云罢了\n\n\nTSLA99T (@Tsla99T)\n\n你们都说gemini和grok拉垮了，但是生活和学习场景中我只用这2个，因为和google/x生态结合太紧了\n工作中，写代码或者ppt，优先claude\n产品上，优先gpt-5-mini\n\n\n\n— https://nitter.net/Tsla99T/status/2047275702513217906#m",
-      "link": "https://nitter.net/Tsla99T/status/2047427241890427144#m",
-      "date": "Thu, 23 Apr 2026 21:27:48 GMT"
     }
   ]
 }
