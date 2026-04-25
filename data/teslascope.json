@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-25T07:26:26Z",
+  "updated_at": "2026-04-25T09:56:36Z",
   "count": 20,
   "tweets": [
     {
@@ -29,11 +29,6 @@
       "date": "Fri, 24 Apr 2026 01:11:54 GMT"
     },
     {
-      "text": "👋 Feedback Requested!\n\nWe currently provide Full Self-Driving tracking (per drive) as part of our Pro subscription ($6.99/month).\n\nWe want to extend this to Plus subscribers ($3.99/month), making it the cheapest FSD tracking offered anywhere.\n\nIs that a better deal? Let us know.",
-      "link": "https://nitter.net/teslascope/status/2047480443663175748#m",
-      "date": "Fri, 24 Apr 2026 00:59:12 GMT"
-    },
-    {
       "text": "(By the way, there's no additional cost. The $6.99 and $3.99 a month is for the entire subscription, which would include unlimited Full Self-Driving tracking!)",
       "link": "https://nitter.net/teslascope/status/2047481450061250770#m",
       "date": "Fri, 24 Apr 2026 01:03:12 GMT"
@@ -44,12 +39,12 @@
       "date": "Fri, 24 Apr 2026 00:59:13 GMT"
     },
     {
-      "text": "Full Self-Driving V14.3.2 (via 2026.2.9.8) is now rolling out to additional AI4 vehicles!\n\n\nDare W (@darewecan)\n\nFSD 14.3.2 incoming on my Cybertruck\n\n\n\n\n\n— https://nitter.net/darewecan/status/2047470850467639302#m",
-      "link": "https://nitter.net/teslascope/status/2047471537834618951#m",
-      "date": "Fri, 24 Apr 2026 00:23:49 GMT"
+      "text": "👋 Feedback Requested!\n\nWe currently provide Full Self-Driving tracking (per drive) as part of our Pro subscription ($6.99/month).\n\nWe want to extend this to Plus subscribers ($3.99/month), making it the cheapest FSD tracking offered anywhere.\n\nIs that a better deal? Let us know.",
+      "link": "https://nitter.net/teslascope/status/2047480443663175748#m",
+      "date": "Fri, 24 Apr 2026 00:59:12 GMT"
     },
     {
-      "text": "nitter.net/kunleforrever/status/2…",
+      "text": "nitter.net/kunleforrever/status/2…\n\n\nkunleforever (@kunleforrever)\n\nIncoming 🙌🏾\n\n\n\n\n\n— https://nitter.net/kunleforrever/status/2047471393516781873#m",
       "link": "https://nitter.net/teslascope/status/2047471718378430777#m",
       "date": "Fri, 24 Apr 2026 00:24:32 GMT"
     },
@@ -62,6 +57,11 @@
       "text": "LFG FSD 14.3.2 installing on my AI4 Model X! \n\n@teslascope",
       "link": "https://nitter.net/ropo724/status/2047470257917350215#m",
       "date": "Fri, 24 Apr 2026 00:18:44 GMT"
+    },
+    {
+      "text": "Full Self-Driving V14.3.2 (via 2026.2.9.8) is now rolling out to additional AI4 vehicles!\n\n\nDare W (@darewecan)\n\nFSD 14.3.2 incoming on my Cybertruck\n\n\n\n\n\n— https://nitter.net/darewecan/status/2047470850467639302#m",
+      "link": "https://nitter.net/teslascope/status/2047471537834618951#m",
+      "date": "Fri, 24 Apr 2026 00:23:49 GMT"
     },
     {
       "text": "Giga Berlin is increasing Tesla Model Y production by 20%, hiring ~1000 new employees, and converting ~500 temps to permanent positions.\n\nGreat news!!\n\n\nAndré Thierig (@AndrThie)\n\n📣Great Day for Giga Berlin.\n\nToday, we announced to increase Model Y production by 20% starting in July '26. For this, we are hiring about 1000 new employees, starting in May. Additionally, we are converting 500 temp employees to to permanent. \n\nThis follows a record first quarter 2026 where we built more than 61.000 MY!\n\nGiga Berlin rocks!\n\n\n\n— https://nitter.net/AndrThie/status/2047354076556390845#m",
@@ -89,11 +89,6 @@
       "date": "Thu, 23 Apr 2026 03:16:40 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.2.9.8 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2047096571339092459#m",
-      "date": "Wed, 22 Apr 2026 23:33:50 GMT"
-    },
-    {
       "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2047128276015972612#m",
       "date": "Thu, 23 Apr 2026 01:39:49 GMT"
@@ -102,6 +97,11 @@
       "text": "New Intervene Reason UI in Full Self-Driving V14.3.2.\n\n\nZack (@BLKMDL3)\n\nHere’s the intervention reason screen when intervening on FSD v14.3.2\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2047120780253904989#m",
       "link": "https://nitter.net/teslascope/status/2047123264225599678#m",
       "date": "Thu, 23 Apr 2026 01:19:54 GMT"
+    },
+    {
+      "text": "The mention of Actually Smart Summon was removed from the Cybertruck release notes in V14.3.2. 😂\n\nThis is the third revision to the release notes in under an hour, after the addition of the \"Help Tesla improve Self-Driving by selecting an intervention reason on the main screen.\"\n\n\nTeslascope (@teslascope)\n\nNew in FSD V14.3.2: \"Unified the model between Actually Smart Summon, FSD, and Robotaxi for more capable and reliable behavior.\"\n\n\n\n— https://nitter.net/teslascope/status/2047098191846478094#m",
+      "link": "https://nitter.net/teslascope/status/2047107165073403948#m",
+      "date": "Thu, 23 Apr 2026 00:15:56 GMT"
     }
   ]
 }
