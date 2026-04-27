@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-27T16:45:37Z",
+  "updated_at": "2026-04-27T19:40:52Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "🇸🇪 + FSD (Testing Program) approved!\n\nFirst step required for customer-owned vehicles to receive FSD in Sweden.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nTesla has been given approval to test FSD (Supervised) on public roads in Strängnäs, Sweden.\n\n• Valid for 1 year after Sweden’s Transport Agency (Transportstyrelsen) gives final approval\n• Safety drivers required\n• Covers public municipal roads (Tesla already has state road approval)\n\nThe municipality notes that automated driving can \"significantly improve traffic safety\" by reducing human error, and the importance of real-world data collection in Nordic conditions.\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2048803852544069701#m",
+      "link": "https://nitter.net/teslascope/status/2048821311552835605#m",
+      "date": "Mon, 27 Apr 2026 17:47:20 GMT"
+    },
     {
       "text": "idea for disengagement reporting\n\ninstead of prompting the driver while they’re actively driving, show disengagements after the drive ends (after it shifts into Park)\n\nyou could even allow them to type specific feedback / voice note if they select “Other”",
       "link": "https://nitter.net/AIDRIVR/status/2048437933108306230#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2047128276015972612#m",
       "date": "Thu, 23 Apr 2026 01:39:49 GMT"
-    },
-    {
-      "text": "New Intervene Reason UI in Full Self-Driving V14.3.2.\n\n\nZack (@BLKMDL3)\n\nHere’s the intervention reason screen when intervening on FSD v14.3.2\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2047120780253904989#m",
-      "link": "https://nitter.net/teslascope/status/2047123264225599678#m",
-      "date": "Thu, 23 Apr 2026 01:19:54 GMT"
     }
   ]
 }
