@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-28T16:56:52Z",
+  "updated_at": "2026-04-28T19:48:47Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A previous version of our post incorrectly stated that Tesla Insurance was newly available in these states. \n\nWe've instead quoted @SawyerMerritt's post, which better explains what has changed.",
+      "link": "https://nitter.net/teslascope/status/2049188432136835511#m",
+      "date": "Tue, 28 Apr 2026 18:06:08 GMT"
+    },
+    {
+      "text": "Safety Score V3.0 is now available in Florida and Maryland for new Tesla Insurance policy holders.\n\nPolicy holders have seen major cost reductions following the launch of this new version weeks ago.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nIn case people are confused, this means Tesla’s Safety Score Version 3.0 is now available, but currently only for NEW policy holders in Florida and Maryland.\n\nExisting policy holders in both states will get the new version starting on July 12th.\n\nThe main new thing about V3.0 is that miles driven with FSD (Supervised) engaged now receive a Safety Score of 100.\n\n\n\n— https://nitter.net/SawyerMerritt/status/2049175455006089428#m",
+      "link": "https://nitter.net/teslascope/status/2049188427418227004#m",
+      "date": "Tue, 28 Apr 2026 18:06:07 GMT"
+    },
+    {
+      "text": "Note: There may be some requirements in place (temporarily?) in Florida such as being a new owner.",
+      "link": "https://nitter.net/teslascope/status/2049186202675532236#m",
+      "date": "Tue, 28 Apr 2026 17:57:17 GMT"
+    },
     {
       "text": "Our prediction came true, and we're now seeing 2026.2.9.9 (FSD V14.3.2) approaching ~15% saturation within the first 24 hours, after three separate waves!\n\nTwo waves yesterday, and one at approximately 4AM (PST). We anticipate more waves within the next 24 hours.\n\n\nTeslascope (@teslascope)\n\nVery solid chance of that or this update finally being the one to break past 1%!\n\n\n\n— https://nitter.net/teslascope/status/2048925070496792805#m",
       "link": "https://nitter.net/teslascope/status/2049118732937822624#m",
@@ -87,21 +102,6 @@
       "text": "A new feature has been detected: Trips\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2048960206646681958#m",
       "date": "Tue, 28 Apr 2026 02:59:15 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Pet Mode\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048960196815307156#m",
-      "date": "Tue, 28 Apr 2026 02:59:13 GMT"
-    },
-    {
-      "text": "A new feature has been detected: \"Hey Grok\"\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048960186715418647#m",
-      "date": "Tue, 28 Apr 2026 02:59:11 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.14.3 on Model X AWD (2023) in Aargau, Switzerland. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048960173830488378#m",
-      "date": "Tue, 28 Apr 2026 02:59:07 GMT"
     }
   ]
 }

@@ -1,8 +1,28 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-28T16:57:14Z",
+  "updated_at": "2026-04-28T19:49:08Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "在我看来，两三年前大模型还没有如此强大的时候，一家保险公司哪怕只是做一个线性回归模型，可能都能够自称是 AI 驱动。\n\n但是到了今天，AI 工具如此发达，你要是再说自己是 AI 驱动，你必须有真本事。如果你只因为用了一些大模型，就说自己是 AI 驱动，那这就好比说我的公司每个人都装了 Office 软件。\n\n\nTSLA99T (@Tsla99T)\n\n但是你要说特斯拉这个就很有技术含量吗？在我看来，也完全没有。现在AI工具门槛如此低的时代，AI驱动是要有 自己真本事的，不是一个普通人chatgpt问几轮就能得到答案的那种\n\n\n\n— https://nitter.net/Tsla99T/status/2049195270030635457#m",
+      "link": "https://nitter.net/Tsla99T/status/2049200024047808857#m",
+      "date": "Tue, 28 Apr 2026 18:52:12 GMT"
+    },
+    {
+      "text": "保险用户就是这么现实，不会管你是不是AI驱动，价格就是王道。但是如果我们非要仔细比较一下细节。你就会发现，Lemonade完全黑盒。没有自己的安全分。没有公式、没有指标、没有阈值、没有数据来源细节。只说“基于 Tesla 的安全数据”，然后自动按 FSD 里程比例打折。\n而特斯拉呢，自己做了一套预测碰撞频率（Predicted Collision Frequency, PCF）模型，基于26.5 亿+英里真实数据，算出 0-100 的 Safety Score，用于保险定价。\n怎么算（公式直接公开）：\nFSD 里程处理（最新 v3.0）：FSD  engaged 的里程直接拿 100 分。\n整体分数 =（FSD 里程百分比 × 100）+（人工里程百分比 × 人工 Safety Score）。\n完整 PCF 公式（直接写在官网）： PCF = 0.32781770 × 1.259…（Hard Braking）× 1.007…（Turning）× …（全部7个系数） Safety Score = 118.82842732 - 57.43566398 × PCF\n透明度：极高\nlemonade.com/fsd\ntesla.com/support/insurance/…\n\n\nTSLA99T (@Tsla99T)\n\n看到这个消息后，提醒我quote一下自己的tesla insurance价格，果然比lemonade低$20每个月，果断切换，明天开始生效。这个价格还会继续降低，因为第一个月的安全分是按照90计算的，而我有96%的FSD驾驶里程，都将会计算为100分。Lemonade画饼FSD里程直接半价的噱头，到现在还只有2个州，实在令人咋舌。\n\n\n\n— https://nitter.net/Tsla99T/status/2049180341110255952#m",
+      "link": "https://nitter.net/Tsla99T/status/2049193805388173315#m",
+      "date": "Tue, 28 Apr 2026 18:27:30 GMT"
+    },
+    {
+      "text": "但是你要说特斯拉这个就很有技术含量吗？在我看来，也完全没有。现在AI工具门槛如此低的时代，AI驱动是要有 自己真本事的，不是一个普通人chatgpt问几轮就能得到答案的那种",
+      "link": "https://nitter.net/Tsla99T/status/2049195270030635457#m",
+      "date": "Tue, 28 Apr 2026 18:33:19 GMT"
+    },
+    {
+      "text": "看到这个消息后，提醒我quote一下自己的tesla insurance价格，果然比lemonade低$20每个月，果断切换，明天开始生效。这个价格还会继续降低，因为第一个月的安全分是按照90计算的，而我有96%的FSD驾驶里程，都将会计算为100分。Lemonade画饼FSD里程直接半价的噱头，到现在还只有2个州，实在令人咋舌。\n\n\nTesla North America (@tesla_na)\n\nNow available in Florida & Maryland\n\n\n\n— https://nitter.net/tesla_na/status/2049163410177507720#m",
+      "link": "https://nitter.net/Tsla99T/status/2049180341110255952#m",
+      "date": "Tue, 28 Apr 2026 17:33:59 GMT"
+    },
     {
       "text": "户子：碧水蓝天养育大地\n\n\nM for Electric ⚡️🔋 (@millepun)\n\nBYD's free cash flow had been negative for the 5th consequent quarter.\n\nInteresting Comparison:\nFrom 2021 - 2026 Q1 (totally 5 years & 1 quarter)\nBYD made US ~$5.6B free cash flow and Tesla made US ~$28B, roughly 5x.\n\nImportant Contex: \nBYD's CAPEX is mainly use to maintain their production lines and deployments, rather then use to develop new business like AI and Robotic.\n\n\n\n\n\n— https://nitter.net/millepun/status/2049103014472884640#m",
       "link": "https://nitter.net/Tsla99T/status/2049167374100636116#m",
@@ -24,6 +44,11 @@
       "date": "Mon, 27 Apr 2026 19:35:40 GMT"
     },
     {
+      "text": "咱们的x chat群主要是高手多，群策群力，我自己的观点是很有限的，这也是和户子学习的。",
+      "link": "https://nitter.net/Tsla99T/status/2048780593245159829#m",
+      "date": "Mon, 27 Apr 2026 15:05:32 GMT"
+    },
+    {
       "text": "我们的群组成员，长期投资者是必须的，还有最好经历过50%级别的回调，不会因为一个微小调整就是大惊小怪的",
       "link": "https://nitter.net/Tsla99T/status/2048842029027692989#m",
       "date": "Mon, 27 Apr 2026 19:09:40 GMT"
@@ -34,14 +59,14 @@
       "date": "Mon, 27 Apr 2026 17:10:00 GMT"
     },
     {
-      "text": "R to @Tsla99T: Image",
-      "link": "https://nitter.net/Tsla99T/status/2048809561788764240#m",
-      "date": "Mon, 27 Apr 2026 17:00:39 GMT"
-    },
-    {
       "text": "每期三分钟，把Alphafold，增强学习等用浅显易懂的方式讲给小朋友听，一周一更新\npiped.video/playlist?list=PL…",
       "link": "https://nitter.net/Tsla99T/status/2048808998963466366#m",
       "date": "Mon, 27 Apr 2026 16:58:25 GMT"
+    },
+    {
+      "text": "R to @Tsla99T: Image",
+      "link": "https://nitter.net/Tsla99T/status/2048809561788764240#m",
+      "date": "Mon, 27 Apr 2026 17:00:39 GMT"
     },
     {
       "text": "最具含金量观点之一\n\n\nTSLA99T (@Tsla99T)\n\n今天大家数robotaxi 让我想起了过去那段美好的日子\n一辆robotaxi=5000台 model 3\n\n\n\n— https://nitter.net/Tsla99T/status/2046361403762561306#m",
@@ -64,9 +89,9 @@
       "date": "Mon, 27 Apr 2026 15:21:54 GMT"
     },
     {
-      "text": "咱们的x chat群主要是高手多，群策群力，我自己的观点是很有限的，这也是和户子学习的。",
-      "link": "https://nitter.net/Tsla99T/status/2048780593245159829#m",
-      "date": "Mon, 27 Apr 2026 15:05:32 GMT"
+      "text": "特斯拉的上车点比较难，所以在启动时刻耽误了好几分钟出不来\nWaymo的上下车点基本都在小路上的路肩，更为简单\n所以robotaxi和FSD最不同之处，就是上下车点的设置，而这些目前在L4行业，基本都是人工踩点\n\n\n\n\nSpencer (@scotsrule08)\n\nTesla @robotaxi vs @Waymo. Head to head in Dallas. @DavidMoss and I put them directly against each other. Same start and end points. Exact same start time. Who wins? Watch and find out. \n\nShoutout to @ItsKimJava and Dan from @WhatsInside for the inspiration! 🏁\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/scotsrule08/status/2048749199378821531#m",
+      "link": "https://nitter.net/Tsla99T/status/2048753567519977779#m",
+      "date": "Mon, 27 Apr 2026 13:18:09 GMT"
     },
     {
       "text": "按照马斯克的性格，他一定是坚决反对人工踩点以及实时的远程监控。所以，特斯拉在推广 Robotaxi 的时候，有很多别人不敢尝试、不敢做到的地方，正在慢慢摸索。",
@@ -74,34 +99,9 @@
       "date": "Mon, 27 Apr 2026 13:22:18 GMT"
     },
     {
-      "text": "特斯拉的上车点比较难，所以在启动时刻耽误了好几分钟出不来\nWaymo的上下车点基本都在小路上的路肩，更为简单\n所以robotaxi和FSD最不同之处，就是上下车点的设置，而这些目前在L4行业，基本都是人工踩点\n\n\n\n\nSpencer (@scotsrule08)\n\nTesla @robotaxi vs @Waymo. Head to head in Dallas. @DavidMoss and I put them directly against each other. Same start and end points. Exact same start time. Who wins? Watch and find out. \n\nShoutout to @ItsKimJava and Dan from @WhatsInside for the inspiration! 🏁\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/scotsrule08/status/2048749199378821531#m",
-      "link": "https://nitter.net/Tsla99T/status/2048753567519977779#m",
-      "date": "Mon, 27 Apr 2026 13:18:09 GMT"
-    },
-    {
       "text": "转会被叫停，美元基金以后更不敢投了\n\nVideo",
       "link": "https://nitter.net/Tsla99T/status/2048735650115883289#m",
       "date": "Mon, 27 Apr 2026 12:06:57 GMT"
-    },
-    {
-      "text": "\"混乱程度堪比五代十国\"\n\n\nDavid Chang (@David_yc607)\n\n遥遥领先\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/David_yc607/status/2048597959089238499#m",
-      "link": "https://nitter.net/Tsla99T/status/2048721108824649778#m",
-      "date": "Mon, 27 Apr 2026 11:09:10 GMT"
-    },
-    {
-      "text": "mac硬盘没空间了，罪魁祸首固然是wechat",
-      "link": "https://nitter.net/Tsla99T/status/2048508760805585127#m",
-      "date": "Sun, 26 Apr 2026 21:05:22 GMT"
-    },
-    {
-      "text": "相比之下，我确实看到一些功成名就的没有任何产出能力的老教授回国，他们真的吃香喝辣\n这就是过去几年，媒体渲染的，高级科研人员回国的叙事",
-      "link": "https://nitter.net/Tsla99T/status/2048440319570506111#m",
-      "date": "Sun, 26 Apr 2026 16:33:25 GMT"
-    },
-    {
-      "text": "一位学术届大咖曾经告诉我：国内高校的职称千万别信，都是高级博后，临时工\n那为啥这些年这么多博士抢破头回国应聘？在我看来，一方面是缺乏国内的工作经验和社会历练，容易信以为真。另一方面是在象牙塔呆久了，怀着一颗当教授的初心，无奈美国找教职太难\n\nVideo",
-      "link": "https://nitter.net/Tsla99T/status/2048434387650302178#m",
-      "date": "Sun, 26 Apr 2026 16:09:50 GMT"
     }
   ]
 }
