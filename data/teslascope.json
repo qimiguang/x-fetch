@@ -1,8 +1,33 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-28T03:42:01Z",
+  "updated_at": "2026-04-28T08:32:45Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2049011577894891730#m",
+      "date": "Tue, 28 Apr 2026 06:23:23 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Blind Spot Warning Accent Lights\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2049011569405624427#m",
+      "date": "Tue, 28 Apr 2026 06:23:21 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Visual Updates\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2049011560236876056#m",
+      "date": "Tue, 28 Apr 2026 06:23:19 GMT"
+    },
+    {
+      "text": "Our scheduled database maintenance has now concluded, lasting a total of 3 minutes.\n\nServices are now back up and stable.\n\n\nTeslascope (@teslascope)\n\nA week from now, on April 28th at 2 AM (PST), our service will go offline for a brief maintenance to upgrade our databases.\n\nVehicle polling will be momentarily disrupted, and we expect the downtime to conclude in under fifteen minutes.\n\nThank you for your understanding.\n\n\n\n— https://nitter.net/teslascope/status/2046825846409924937#m",
+      "link": "https://nitter.net/teslascope/status/2049010686202982474#m",
+      "date": "Tue, 28 Apr 2026 06:19:51 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2048973286369837273#m",
+      "date": "Tue, 28 Apr 2026 03:51:14 GMT"
+    },
     {
       "text": "New Spring Update (minor changes) update going out.\n\nThis update is going out to vehicles with the prior Spring Update builds (2026.14.1 and 2026.14.2), as well as 2026.8.6 builds.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.3 on Model X AWD (2023) in Aargau, Switzerland. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2048960173830488378#m",
       "link": "https://nitter.net/teslascope/status/2048964299989925907#m",
@@ -77,31 +102,6 @@
       "text": "A second and substantially larger wave occured within thirty minutes of the initial wave, with this being the first “wide” rollout (>5%) after numerous Full Self-Driving V14.3.X releases.\n\nWe’re seeing all AI4 models included in this rollout, and more waves are anticipated soon.\n\n\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving V14.3.2 has resumed rollout via 2026.2.9.9!\n\n\n\n— https://nitter.net/teslascope/status/2048916434106151396#m",
       "link": "https://nitter.net/teslascope/status/2048946226637459611#m",
       "date": "Tue, 28 Apr 2026 02:03:42 GMT"
-    },
-    {
-      "text": "Check your vehicles! A good size wave just went out for 2026.2.9.9 which is a new point release for today that also features FSD 14.3.2. Incoming to my Cybertruck now. yes\nFollow the rollout on @teslascope \n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/nowteslafy/status/2048940722611741122#m",
-      "date": "Tue, 28 Apr 2026 01:41:50 GMT"
-    },
-    {
-      "text": "going wide now",
-      "link": "https://nitter.net/TwoWeeksLOL/status/2048937894232862944#m",
-      "date": "Tue, 28 Apr 2026 01:30:36 GMT"
-    },
-    {
-      "text": "What the?!!!   Holy smokes!!!   I got the Golden Ticket!  @teslascope",
-      "link": "https://nitter.net/ElectricRob/status/2048937667950223680#m",
-      "date": "Tue, 28 Apr 2026 01:29:42 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048930504687112563#m",
-      "date": "Tue, 28 Apr 2026 01:01:14 GMT"
-    },
-    {
-      "text": "Full Self-Driving V14.3.2 has resumed rollout via 2026.2.9.9!\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.2.9.9 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2048914625794548153#m",
-      "link": "https://nitter.net/teslascope/status/2048916434106151396#m",
-      "date": "Tue, 28 Apr 2026 00:05:19 GMT"
     }
   ]
 }
