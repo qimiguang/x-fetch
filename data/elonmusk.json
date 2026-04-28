@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-04-28T16:56:50Z",
+  "updated_at": "2026-04-28T22:03:35Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Integrating Starlink with @TMobile’s 5G network will provide reliable, high-speed broadband for millions of businesses, including those in rural and remote locations across the country 🛰️❤️\n\n\nT-Mobile Newsroom (@tmobilenews)\n\n.@TMobile Reinvents Business Internet from the Ground Up and the Sky Down with ‘SuperBroadband’ t-mobile.com/news/business/b…\n\n\n\n\n— https://nitter.net/tmobilenews/status/2049114436749668680#m",
+      "link": "https://nitter.net/Starlink/status/2049151577597112419#m",
+      "date": "Tue, 28 Apr 2026 15:39:42 GMT"
+    },
     {
       "text": "South Korean reporter after experiencing @Tesla FSD (Supervised) in the country for the first time:\n\n\"It flawlessly performed all tasks, including obeying traffic signals, staying in lanes, adhering to speed limits, merging, and changing directions. I felt no anxiety or frustration.\n\nTesla’s FSD capabilities surpassed expectations. Even in heavily congested urban roads, no human intervention was needed. While driving in the right lane on a four-lane road, the vehicle smoothly merged into the left lane when it detected a parked delivery truck ahead. After passing the truck, it returned to the right lane. When making a right turn, it stopped precisely at the crosswalk. It felt as though the vehicle followed traffic laws more accurately than humans.\"",
       "link": "https://nitter.net/SawyerMerritt/status/2048985482709676382#m",
@@ -97,11 +102,6 @@
       "text": "Good convo with Grok about all of this. I cited Chesterton's Fence and Grok cited the Therac-25 incident.\n\nWhile at SGI, a friend and I were sent to NZ and Oz to diagnose and fix a multiprocessor kernel race created by \"YOLO, let's multithread the kernel\". nitter.net/i/grok/share/9276e3aab…",
       "link": "https://nitter.net/BrendanEich/status/2048833714411786282#m",
       "date": "Mon, 27 Apr 2026 18:36:37 GMT"
-    },
-    {
-      "text": "Scam Altman …\n nitter.net/i/grok/share/49a0d68ad…",
-      "link": "https://nitter.net/elonmusk/status/2048854864592355665#m",
-      "date": "Mon, 27 Apr 2026 20:00:40 GMT"
     }
   ]
 }

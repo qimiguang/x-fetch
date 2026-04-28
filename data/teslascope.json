@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-28T19:48:47Z",
-  "count": 20,
+  "updated_at": "2026-04-28T22:03:35Z",
+  "count": 19,
   "tweets": [
     {
       "text": "A previous version of our post incorrectly stated that Tesla Insurance was newly available in these states. \n\nWe've instead quoted @SawyerMerritt's post, which better explains what has changed.",
@@ -97,11 +97,6 @@
       "text": "A new feature has been detected: Sketchpad\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2048960219271578022#m",
       "date": "Tue, 28 Apr 2026 02:59:18 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Trips\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048960206646681958#m",
-      "date": "Tue, 28 Apr 2026 02:59:15 GMT"
     }
   ]
 }
