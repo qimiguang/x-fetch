@@ -1,6 +1,6 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-04-28T08:33:03Z",
+  "updated_at": "2026-04-28T11:08:45Z",
   "count": 17,
   "tweets": [
     {
@@ -59,14 +59,14 @@
       "date": "Wed, 18 Feb 2026 03:51:12 GMT"
     },
     {
-      "text": "In case you’re curious, here’s the analysis without excluding stationary and parking lot incidents.",
-      "link": "https://nitter.net/raines1220/status/2023866069593862257#m",
-      "date": "Tue, 17 Feb 2026 21:04:07 GMT"
-    },
-    {
       "text": "I took a look at the Jan 2026 Robotaxi crash report, and the numbers are exciting🔥\n- when safety passenger got removed (Jan 2026), MPI is ~200K miles. \n- Now (Feb 2026), MPI is ~400K miles. \n- I predict Robotaxi in Austin will fully surpass human drivers by the end of Q1 (before April).  \n\nThese numbers deviate from my last prediction due to several methodological improvements: \n- I previously underestimated Robotaxi mileage by ~2.5x because I was guessing mileage using a few data points and a fleet size chart. This is now corrected using the actual Robotaxi mileage chart reported in Tesla’s 2025 Q4 financial statement. \n- I realized parking lot dents and stationary crashes were adding significant noise. After removing them, the model fits the data much better.",
       "link": "https://nitter.net/raines1220/status/2023854888040411140#m",
       "date": "Tue, 17 Feb 2026 20:19:41 GMT"
+    },
+    {
+      "text": "In case you’re curious, here’s the analysis without excluding stationary and parking lot incidents.",
+      "link": "https://nitter.net/raines1220/status/2023866069593862257#m",
+      "date": "Tue, 17 Feb 2026 21:04:07 GMT"
     },
     {
       "text": "I’ve been moving away from @cursor_ai because they’ve done a poor job with local parallel agents and are shipping more bugs than features.\n\nAs far as I know, many developers are moving away from Cursor for the same reasons, and I hope Cursor figure out a way to survive. After all, Cursor provided the best code review experience, in my opinion.\n\nHowever, if they can’t survive, I hope they understand how critical it is to move fast and do proper testing at the same time.\n\nTesting is easily 100x more important nowadays. I can have ~10 parallel agents filing PRs and another ~5 parallel agents reviewing them, with less and less human involvement in the loop. \n\nWithout a proper testing solution, nothing will work. In other words, AI products will not work without solutions like @stably_ai. You must solve AI testing at the same time when you trying to solve AI coding.",
