@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-29T08:26:50Z",
-  "count": 20,
+  "updated_at": "2026-04-29T11:00:22Z",
+  "count": 19,
   "tweets": [
     {
       "text": "Tesla has released an update regarding V14 Lite and the expansion to international markets.\n\n\nTesla (@Tesla)\n\nFollowing future rollout of FSD V14 Lite for HW3 vehicles in the US, we plan on expanding V14 Lite to additional international markets.\n\nThis update ensures that HW3 vehicle owners will continue to benefit from ongoing software updates.\n\nSince international rollout is subject to several factors (completion of technical verification, regional adaptation & relevant regulatory approvals), we can't provide definitive dates at the moment, but will provide updates on a rolling basis\n\n\n\n— https://nitter.net/Tesla/status/2049296822162874685#m",
@@ -9,14 +9,14 @@
       "date": "Wed, 29 Apr 2026 03:02:14 GMT"
     },
     {
-      "text": "Safety Score V3.0 is now available in Florida and Maryland for new Tesla Insurance policy holders.\n\nPolicy holders have seen major cost reductions following the launch of this new version weeks ago.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nIn case people are confused, this means Tesla’s Safety Score Version 3.0 is now available, but currently only for NEW policy holders in Florida and Maryland.\n\nExisting policy holders in both states will get the new version starting on July 12th.\n\nThe main new thing about V3.0 is that miles driven with FSD (Supervised) engaged now receive a Safety Score of 100.\n\n\n\n— https://nitter.net/SawyerMerritt/status/2049175455006089428#m",
-      "link": "https://nitter.net/teslascope/status/2049188427418227004#m",
-      "date": "Tue, 28 Apr 2026 18:06:07 GMT"
-    },
-    {
       "text": "A previous version of our post incorrectly stated that Tesla Insurance was newly available in these states. \n\nWe've instead quoted @SawyerMerritt's post, which better explains what has changed.",
       "link": "https://nitter.net/teslascope/status/2049188432136835511#m",
       "date": "Tue, 28 Apr 2026 18:06:08 GMT"
+    },
+    {
+      "text": "Safety Score V3.0 is now available in Florida and Maryland for new Tesla Insurance policy holders.\n\nPolicy holders have seen major cost reductions following the launch of this new version weeks ago.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nIn case people are confused, this means Tesla’s Safety Score Version 3.0 is now available, but currently only for NEW policy holders in Florida and Maryland.\n\nExisting policy holders in both states will get the new version starting on July 12th.\n\nThe main new thing about V3.0 is that miles driven with FSD (Supervised) engaged now receive a Safety Score of 100.\n\n\n\n— https://nitter.net/SawyerMerritt/status/2049175455006089428#m",
+      "link": "https://nitter.net/teslascope/status/2049188427418227004#m",
+      "date": "Tue, 28 Apr 2026 18:06:07 GMT"
     },
     {
       "text": "Note: There may be some requirements in place (temporarily?) in Florida such as being a new owner.",
@@ -27,11 +27,6 @@
       "text": "Our prediction came true, and we're now seeing 2026.2.9.9 (FSD V14.3.2) approaching ~15% saturation within the first 24 hours, after three separate waves!\n\nTwo waves yesterday, and one at approximately 4AM (PST). We anticipate more waves within the next 24 hours.\n\n\nTeslascope (@teslascope)\n\nVery solid chance of that or this update finally being the one to break past 1%!\n\n\n\n— https://nitter.net/teslascope/status/2048925070496792805#m",
       "link": "https://nitter.net/teslascope/status/2049118732937822624#m",
       "date": "Tue, 28 Apr 2026 13:29:11 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.14.3 on Model X AWD (2023) in Aargau, Switzerland. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048960173830488378#m",
-      "date": "Tue, 28 Apr 2026 02:59:07 GMT"
     },
     {
       "text": "A new feature has been detected: Immersive Sound Upgrade\n\nteslascope.com/software/2026…",
