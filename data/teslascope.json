@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-04-28T22:03:35Z",
+  "updated_at": "2026-04-29T03:39:26Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Tesla has released an update regarding V14 Lite and the expansion to international markets.\n\n\nTesla (@Tesla)\n\nFollowing future rollout of FSD V14 Lite for HW3 vehicles in the US, we plan on expanding V14 Lite to additional international markets.\n\nThis update ensures that HW3 vehicle owners will continue to benefit from ongoing software updates.\n\nSince international rollout is subject to several factors (completion of technical verification, regional adaptation & relevant regulatory approvals), we can't provide definitive dates at the moment, but will provide updates on a rolling basis\n\n\n\n— https://nitter.net/Tesla/status/2049296822162874685#m",
+      "link": "https://nitter.net/teslascope/status/2049323345930555846#m",
+      "date": "Wed, 29 Apr 2026 03:02:14 GMT"
+    },
     {
       "text": "A previous version of our post incorrectly stated that Tesla Insurance was newly available in these states. \n\nWe've instead quoted @SawyerMerritt's post, which better explains what has changed.",
       "link": "https://nitter.net/teslascope/status/2049188432136835511#m",
@@ -92,11 +97,6 @@
       "text": "A new feature has been detected: Paint Shop\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2048960232626253885#m",
       "date": "Tue, 28 Apr 2026 02:59:21 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Sketchpad\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048960219271578022#m",
-      "date": "Tue, 28 Apr 2026 02:59:18 GMT"
     }
   ]
 }
