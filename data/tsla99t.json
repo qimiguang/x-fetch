@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-04-30T14:10:01Z",
+  "updated_at": "2026-04-30T16:24:22Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "为什么这点小赢小利给我带来的爽感要超过VOO/QQQ带来的纸面盈利？是不是因为早年读phd穷苦时期薅羊毛的后遗症？",
+      "link": "https://nitter.net/Tsla99T/status/2049872224597766565#m",
+      "date": "Thu, 30 Apr 2026 15:23:17 GMT"
+    },
     {
       "text": "卖2手Meta Put，暑假去日本就升级商务舱吧。。。",
       "link": "https://nitter.net/Tsla99T/status/2049848745630507162#m",
@@ -97,11 +102,6 @@
       "text": "保险用户就是这么现实，不会管你是不是AI驱动，价格就是王道。但是如果我们非要仔细比较一下细节。你就会发现，Lemonade完全黑盒。没有自己的安全分。没有公式、没有指标、没有阈值、没有数据来源细节。只说“基于 Tesla 的安全数据”，然后自动按 FSD 里程比例打折。\n而特斯拉呢，自己做了一套预测碰撞频率（Predicted Collision Frequency, PCF）模型，基于26.5 亿+英里真实数据，算出 0-100 的 Safety Score，用于保险定价。\n怎么算（公式直接公开）：\nFSD 里程处理（最新 v3.0）：FSD  engaged 的里程直接拿 100 分。\n整体分数 =（FSD 里程百分比 × 100）+（人工里程百分比 × 人工 Safety Score）。\n完整 PCF 公式（直接写在官网）： PCF = 0.32781770 × 1.259…（Hard Braking）× 1.007…（Turning）× …（全部7个系数） Safety Score = 118.82842732 - 57.43566398 × PCF\n透明度：极高\nlemonade.com/fsd\ntesla.com/support/insurance/…\n\n\n\nTSLA99T (@Tsla99T)\n\n看到这个消息后，提醒我quote一下自己的tesla insurance价格，果然比lemonade低$20每个月，果断切换，明天开始生效。这个价格还会继续降低，因为第一个月的安全分是按照90计算的，而我有96%的FSD驾驶里程，都将会计算为100分。Lemonade画饼FSD里程直接半价的噱头，到现在还只有2个州，实在令人咋舌。\n\n\n\n— https://nitter.net/Tsla99T/status/2049180341110255952#m",
       "link": "https://nitter.net/Tsla99T/status/2049193805388173315#m",
       "date": "Tue, 28 Apr 2026 18:27:30 GMT"
-    },
-    {
-      "text": "看到这个消息后，提醒我quote一下自己的tesla insurance价格，果然比lemonade低$20每个月，果断切换，明天开始生效。这个价格还会继续降低，因为第一个月的安全分是按照90计算的，而我有96%的FSD驾驶里程，都将会计算为100分。Lemonade画饼FSD里程直接半价的噱头，到现在还只有2个州，实在令人咋舌。\n\n\nTesla North America (@tesla_na)\n\nNow available in Florida & Maryland\n\n\n\n— https://nitter.net/tesla_na/status/2049163410177507720#m",
-      "link": "https://nitter.net/Tsla99T/status/2049180341110255952#m",
-      "date": "Tue, 28 Apr 2026 17:33:59 GMT"
     }
   ]
 }
