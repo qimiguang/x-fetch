@@ -1,8 +1,18 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-04-30T16:24:21Z",
+  "updated_at": "2026-04-30T19:41:29Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Robotaxi Tracker has only 89 riders reporting their rides in Austin, and they’ve logged just 8,152 miles in total. \n\nMeanwhile, Austin Robotaxi has probably accumulated 1–2 million miles, meaning only about ~0.5% of the miles have been reported.\n\nFrom that ~0.5% of reported miles, 19 unique unsupervised Robotaxis have been discovered in Austin, and people are laughing about it.\n\nWell, to be honest, I’m laughing at you.\n\nImagine I deploy 10 people to take Uber every day and count how many unique cars they discover.\n\nOn the first day, they report discovering 10 cars.\n\nOn the second day, they report another 10 cars (20 in total)\n\nSeveral days later, they report that 100 unique cars have been discovered in total (a pretty small number, right?).\n\nThen I can finally make fun of Uber:\n“Look! Uber only has 100 cars. How pathetic!”",
+      "link": "https://nitter.net/raines1220/status/2049896097372614944#m",
+      "date": "Thu, 30 Apr 2026 16:58:09 GMT"
+    },
+    {
+      "text": "I’ve seen everyone closely monitoring Robotaxi fleet growth. That’s a good thing, but keep in mind:\n\n1. The “growth speed” is not the speed of Tesla adding a new car, but the speed at which someone reports a car that has already been added.\n\n2. The fleet size does not represent all Robotaxis. It represents only the Robotaxis that have been reported by a limited number of volunteers.",
+      "link": "https://nitter.net/raines1220/status/2049891630816387396#m",
+      "date": "Thu, 30 Apr 2026 16:40:24 GMT"
+    },
     {
       "text": "Dan is the gold-standard quality inspector for the Tesla community. He used to be able to make videos about Teslas running over \"kids\". Now the best he can do is FSD 14.3.2 going “10 mph over the limit.”\n\n\nDan O'Dowd (@RealDanODowd)\n\nWatch @Tesla FSD v14.3.2 speed through a school zone at 10 mph over the limit.\n\n@ElonMusk your defective software still can’t follow basic road rules.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2049526949945753980#m",
       "link": "https://nitter.net/raines1220/status/2049743066492522514#m",
@@ -87,16 +97,6 @@
       "text": "Community notes are wrong, and many others are also wrong in speculating about my method. I’ll explain a few common misunderstandings here:\n\n1. Lots of people assume that my analysis was calculated using fleet size, which is incorrect. The mileage data was extracted and projected using the Robotaxi mileage chart from the 2025 Q4 earnings report. So even if @ethanmckanna admitted that his website’s numbers are \"misleading\", that does not automatically make my analysis wrong.\n\n2. I used the mileage from the 2025 Q4 earnings report, which reported 650K miles and is only about Austin. People incorrectly assume that includes both the SF Bay Area and Austin. However, as reported in Q3 2025, the SF Bay Area already had over 1 million miles back then. If the earnings report included SF Bay Area mileage, then it would have to be over 1 million miles at the end of Q4.\n\n3. People pointed out that removing parking lot and stationary crashes is manipulating the data. I agree. However, I included a chart in the original post's replies to show how it looks when adding them back. As shown in that chart, the model can’t fit the data points, which means we don’t have enough data to make any conclusion if we include all kinds of crashes. I argue that removing those crashes was done transparently and only intended to make a limited prediction with higher confidence.\n\n\nRaines (@raines1220)\n\nI took a look at the Jan 2026 Robotaxi crash report, and the numbers are exciting🔥\n- when safety passenger got removed (Jan 2026), MPI is ~200K miles. \n- Now (Feb 2026), MPI is ~400K miles. \n- I predict Robotaxi in Austin will fully surpass human drivers by the end of Q1 (before April).  \n\nThese numbers deviate from my last prediction due to several methodological improvements: \n- I previously underestimated Robotaxi mileage by ~2.5x because I was guessing mileage using a few data points and a fleet size chart. This is now corrected using the actual Robotaxi mileage chart reported in Tesla’s 2025 Q4 financial statement. \n- I realized parking lot dents and stationary crashes were adding significant noise. After removing them, the model fits the data much better.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2023854888040411140#m",
       "link": "https://nitter.net/raines1220/status/2023968515854655714#m",
       "date": "Wed, 18 Feb 2026 03:51:12 GMT"
-    },
-    {
-      "text": "In case you’re curious, here’s the analysis without excluding stationary and parking lot incidents.",
-      "link": "https://nitter.net/raines1220/status/2023866069593862257#m",
-      "date": "Tue, 17 Feb 2026 21:04:07 GMT"
-    },
-    {
-      "text": "I took a look at the Jan 2026 Robotaxi crash report, and the numbers are exciting🔥\n- when safety passenger got removed (Jan 2026), MPI is ~200K miles. \n- Now (Feb 2026), MPI is ~400K miles. \n- I predict Robotaxi in Austin will fully surpass human drivers by the end of Q1 (before April).  \n\nThese numbers deviate from my last prediction due to several methodological improvements: \n- I previously underestimated Robotaxi mileage by ~2.5x because I was guessing mileage using a few data points and a fleet size chart. This is now corrected using the actual Robotaxi mileage chart reported in Tesla’s 2025 Q4 financial statement. \n- I realized parking lot dents and stationary crashes were adding significant noise. After removing them, the model fits the data much better.",
-      "link": "https://nitter.net/raines1220/status/2023854888040411140#m",
-      "date": "Tue, 17 Feb 2026 20:19:41 GMT"
     }
   ]
 }
