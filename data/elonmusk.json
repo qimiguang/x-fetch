@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-01T13:39:29Z",
+  "updated_at": "2026-05-01T19:19:02Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "I'm discovering the use of agent mode on Grok Imagine.\n It's a revolution in the use of generative AI.",
+      "link": "https://nitter.net/dvorahfr/status/2050229605945012462#m",
+      "date": "Fri, 01 May 2026 15:03:24 GMT"
+    },
+    {
+      "text": "Our new 125 kW Basecharger is designed for longer dwell times and overnight charging of Semis. It's the \"home charging\" for heavy-duty fleets.\n\nIt features a fully integrated design that eliminates the need for a separate AC-to-DC cabinet, simplifying installation. The 6 meter cable offers layout flexibility for all depots.\n\nUp to 3 Basechargers can be daisy-chained on a single breaker (sharing 125 kVA) to further reduce installation and operational costs.\n\n\n\n\nTesla Charging (@TeslaCharging)\n\nBusinesses can purchase and install Semi chargers, powering electric trucking\n\n- 1.2 MW Megacharger for quick stops\n- 125 kW Basecharger for longer stays\n\nLearn more about Semi Charging for Business and pricing: tesla.com/semi-charging-for-…\n\n\n\n\n— https://nitter.net/TeslaCharging/status/2050228063544455244#m",
+      "link": "https://nitter.net/TeslaCharging/status/2050229278038761818#m",
+      "date": "Fri, 01 May 2026 15:02:05 GMT"
+    },
+    {
+      "text": "Grok 4.3\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nThis release shows increased cost efficiency to run the Artificial Analysis Intelligence Index, with Grok 4.3 sitting comfortably on the Pareto frontier for intelligence versus cost\n\nDriven by 37.5% lower input token prices and 58.3% lower output token prices, it costs $395 to run the Intelligence Index evaluations, an overall ~20% decrease from Grok 4.20 0309 v2\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2049987006726336681#m",
+      "link": "https://nitter.net/elonmusk/status/2050235786755494336#m",
+      "date": "Fri, 01 May 2026 15:27:57 GMT"
+    },
     {
       "text": "The dangerous notion that all people are interchangeable stems from the blank slate myth. Excellent IQ post, Penny. Great work.\n\n\n\n\nPenny2x (@imPenny2x)\n\nThe past year or so I have been fascinated with IQ and the data / discussion surrounding it.\n\nSufficiently obsessed so that I bring it up in conversation opportunistically.\n\nBelieve it or not, I’m convinced a deep unfiltered discussion of IQ and what we can learn from it is at the heart of what is needed to continue healing from the woke mind virus.\n\nEntirely too many broken mindsets and policies orbit the idea that all people are essentially interchangeable and that culture, education, and nutrition are more influential than genetics.\n\nThis is obviously untrue to anyone who bothers to think for a few seconds.\n\nAs an extreme example, the most well fed human on earth will never ever grow to the size of a blue whale.\n\nSimilarly, the most well fed and educated blue whale will never win the Boston marathon. \n\nOur human genes have an upper bound to the size we can grow, and blue whales have their own limitations.\n\nThese are silly and obvious and indisputable because they are easily measured and without exception. They are also entirely uncontroversial because they are cross species.\n\nTo discuss and understand IQ in depth requires you to accept that human sexes and races also have measurable differences. This is a far more dangerous discussion, figuratively but perhaps also literally. There are many exceptions, but they don’t change the rule.\n\nI was talking to a psychologist about the topic. They considered themselves an IQ expert, and so I knew the conversation was going to get interesting quick one way or another.\n\nUnfortunately I wasn’t surprised to hear them immediately make a point that the test is biased against certain cultures.\n\nIt’s always that, or the uninformed argument that IQ only measures one type of intelligence…\n\nShe pointed out California case Larry P. v. Riles (1979) which prohibits testing African American students in CA for the purposes of special education placement.\n\nI started to push back, asking to clarify how that was proof the test was bias. Their response was to insult my own intelligence. To assume I have no idea what test norms are or how they are created and applied.\n\nI tried to respond to that, but they were already upset and made it clear they were finished with our talk.\n\nLook, I get it. It’s not fun or convenient to admit that much of our success or failure is fate sealed in our genetics.\n\nBut it’s critical in the face of a delusional population to start facing difficult truths instead of denying them.\n\nElse we end up with men playing women’s sports and entering their locker rooms.\n\n\n\n— https://nitter.net/imPenny2x/status/2049634855529640415#m",
       "link": "https://nitter.net/Hitchslap1/status/2049901460226506812#m",
@@ -87,21 +102,6 @@
       "text": "The migration in numbers:\n\n - Team of 16 engineers worked over 6 weeks.\n - We reduced our footprint from 6M CPU cores, to just 10k cores.\n - We are now using the same Grok-based transformer models that power your home timeline.\n - Eliminated 15 years of tech debt - replaced 1M LOC of Scala with just 50k LOC of Rust and Python\n\n\nBusiness (@XBusiness)\n\nx.com/i/article/204119577332…\n\n\n\n— https://nitter.net/XBusiness/status/2049843732141256979#m",
       "link": "https://nitter.net/VastoLorde95/status/2049902799790751755#m",
       "date": "Thu, 30 Apr 2026 17:24:47 GMT"
-    },
-    {
-      "text": "🇺🇸🇺🇸\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@NASAAdmin: \"The next step is go out further, it's to return to the moon. It's to pick up where Apollo 17 left off... President Trump said we are going back to stay, to build a moon base. That’s going to be a massive American outpost.\" 🚀🌕\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RapidResponse47/status/2049865783333761247#m",
-      "link": "https://nitter.net/elonmusk/status/2049916185408647249#m",
-      "date": "Thu, 30 Apr 2026 18:17:58 GMT"
-    },
-    {
-      "text": "Today we’re announcing the full rebuild of our advertising platform, the most ambitious in X’s 20-year history. This is classic X and xAI: bold, fast, and built for advertisers. I’m incredibly proud of our engineering team and everyone at X who made this happen. We designed the new ad stack from the ground up for rapid innovation - expect continuous improvements, powerful new features, greater flexibility and better performance. We look forward to working closely with our partners as we roll out this next-generation platform!\n\n\nBusiness (@XBusiness)\n\nx.com/i/article/204119577332…\n\n\n\n— https://nitter.net/XBusiness/status/2049843732141256979#m",
-      "link": "https://nitter.net/Monique_X/status/2049890763987968052#m",
-      "date": "Thu, 30 Apr 2026 16:36:57 GMT"
-    },
-    {
-      "text": "Launching on May 5",
-      "link": "https://nitter.net/elonmusk/status/2049901250700038533#m",
-      "date": "Thu, 30 Apr 2026 17:18:38 GMT"
     }
   ]
 }

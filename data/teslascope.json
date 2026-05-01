@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-01T16:01:41Z",
+  "updated_at": "2026-05-01T19:19:04Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "The addition of the etherloop isn’t really felt by most customers, but its introduction reduces cabling by 60% and offers many security benefits as well outlined in the article.\n\nYet another way @Tesla is silently improving its products and reducing service times down the road.",
+      "link": "https://nitter.net/teslascope/status/2050280205361848673#m",
+      "date": "Fri, 01 May 2026 18:24:27 GMT"
+    },
+    {
+      "text": "Great article by @seti_park about a technological advancement that @Tesla really hasn’t spoken about much.\n\nEtherloop is already present in all Cybertrucks, is expected in the upcoming Cybercab, and we anticipate it will appear in all other models within the next year.\n\n\nSETI Park (@seti_park)\n\nx.com/i/article/205009901915…\n\n\n\n— https://nitter.net/seti_park/status/2050226714610217118#m",
+      "link": "https://nitter.net/teslascope/status/2050280202752929960#m",
+      "date": "Fri, 01 May 2026 18:24:27 GMT"
+    },
+    {
+      "text": "2026.14.3 software update rolling out to more Tesla vehicles finally @teslascope",
+      "link": "https://nitter.net/RealTeslaNorth/status/2050237222683861206#m",
+      "date": "Fri, 01 May 2026 15:33:40 GMT"
+    },
     {
       "text": "A new feature has been detected: Vision-Based Attention Monitoring\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2050053851508609228#m",
@@ -82,21 +97,6 @@
       "text": "A new feature has been detected: Blind Spot Warning Accent Lights\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2049011569405624427#m",
       "date": "Tue, 28 Apr 2026 06:23:21 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Visual Updates\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2049011560236876056#m",
-      "date": "Tue, 28 Apr 2026 06:23:19 GMT"
-    },
-    {
-      "text": "Our scheduled database maintenance has now concluded, lasting a total of 3 minutes.\n\nServices are now back up and stable.\n\n\nTeslascope (@teslascope)\n\nA week from now, on April 28th at 2 AM (PST), our service will go offline for a brief maintenance to upgrade our databases.\n\nVehicle polling will be momentarily disrupted, and we expect the downtime to conclude in under fifteen minutes.\n\nThank you for your understanding.\n\n\n\n— https://nitter.net/teslascope/status/2046825846409924937#m",
-      "link": "https://nitter.net/teslascope/status/2049010686202982474#m",
-      "date": "Tue, 28 Apr 2026 06:19:51 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Supercharger Pricing Filter\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2048973286369837273#m",
-      "date": "Tue, 28 Apr 2026 03:51:14 GMT"
     }
   ]
 }
