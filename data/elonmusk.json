@@ -1,8 +1,88 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-04-30T16:24:01Z",
+  "updated_at": "2026-05-01T08:19:54Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "And so it begins…\n\nLA City Councilmen Hugo Soto Martinez & Ysabel Jurado have unveiled a plan to let \"noncitizens\" VOTE in LA elections\n\nThere are 1.5 million noncitizens in LA\n\n15% of their entire population",
+      "link": "https://nitter.net/EndWokeness/status/2049879129839833307#m",
+      "date": "Thu, 30 Apr 2026 15:50:44 GMT"
+    },
+    {
+      "text": "Ever since I saw a photo like this in 2018 I wanted to do this.\n\nIt took me 8 years, but I finally got it.",
+      "link": "https://nitter.net/AJamesMcCarthy/status/2049525245803909580#m",
+      "date": "Wed, 29 Apr 2026 16:24:31 GMT"
+    },
+    {
+      "text": "Stating that women do not have penises is conservative.\n\nStating that the scientific method is superior to ancestral tribal dances for seeking truth is conservative.\n\nSupporting a rational immigration policy is conservative.\n\nDefending freedom of speech & freedom of inquiry is conservative.\n\nStating that cultures that don't kill gays are superior to those that do is conservative.\n\nBasically, rationality is conservatism.  Parasitic irrationality is progressivism.",
+      "link": "https://nitter.net/GadSaad/status/2050059095990763727#m",
+      "date": "Fri, 01 May 2026 03:45:51 GMT"
+    },
+    {
+      "text": "Grok 4.3 beta just went insane with front-end design\n\nI gave it one single prompt:\n“Build a WWE-style Fight Club website with 10 fighters”\n\nIt designed a stunning, premium-quality website that genuinely looks like it was built by a full design team\n- Beautiful interactive fighter cards\n- A Fight Simulator where you pick any two fighters and it predicts the results based on their stats\n- It also shows the live ticket, upcoming live events basically everything a fully functional website has\n\nIt even picked the perfect tagline: “Where Legends are Forged”\n\nThe design quality is incredibly good. Dark mode, buttery-smooth interactions, perfect WWE energy\n\nThis is next-level creative execution\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2049845341957378458#m",
+      "date": "Thu, 30 Apr 2026 13:36:28 GMT"
+    },
+    {
+      "text": "Is it just me, or does it feel like the only AI I can truly trust is the one being built by Elon Musk at xAI?",
+      "link": "https://nitter.net/Teslaconomics/status/2049714330611208197#m",
+      "date": "Thu, 30 Apr 2026 04:55:52 GMT"
+    },
+    {
+      "text": "Directly compare different Tesla models & features\n\nTesla.com/compare\n\nVideo",
+      "link": "https://nitter.net/Tesla/status/2050038063053852834#m",
+      "date": "Fri, 01 May 2026 02:22:16 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2050036082969055451#m",
+      "date": "Fri, 01 May 2026 02:14:24 GMT"
+    },
+    {
+      "text": "True\n\n\nPeter H. Diamandis, MD (@PeterDiamandis)\n\nSundar Pichai just said data centers in space will be \"the new normal\" within a decade. @elonmusk has been saying this for years. When the CEO of Google starts agreeing with Elon, pay attention. The orbital compute era is closer than you think.\n\n\n\n— https://nitter.net/PeterDiamandis/status/2049979915530060245#m",
+      "link": "https://nitter.net/elonmusk/status/2050035003527242227#m",
+      "date": "Fri, 01 May 2026 02:10:07 GMT"
+    },
+    {
+      "text": "Try it out!\n\n\ntetsuo (@tetsuoai)\n\nGrok Imagine agent mode (beta) is the best AI image and video editing tool i've ever used. nothing else is close\n\nget Grok heavy. you won't regret it\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2049703241282416809#m",
+      "link": "https://nitter.net/elonmusk/status/2050034861273227678#m",
+      "date": "Fri, 01 May 2026 02:09:33 GMT"
+    },
+    {
+      "text": "Grok\n\n\nOpenRouter (@OpenRouter)\n\nThe new Grok-4.3 from @xai is live on OpenRouter!\n\nGrok-4.3 releases at a lower price than Grok-4.2, while seeing a large jump in agentic performance: a 321 point increase to 1500 ELO on @ArtificialAnlys GDPval-AA, surpassing other top models despite the lower price.\n\n\n\n\n\n— https://nitter.net/OpenRouter/status/2049996465263759563#m",
+      "link": "https://nitter.net/elonmusk/status/2050034277375672520#m",
+      "date": "Fri, 01 May 2026 02:07:14 GMT"
+    },
+    {
+      "text": "Today @xai  just rearranged our leaderboards… Grok 4.3 jumped 25 points to take #1 on CaseLaw v2 and climbed 21 spots to lead CorpFin at 68.5%.\n\nCongrats @xai @elonmusk  🚀",
+      "link": "https://nitter.net/ValsAI/status/2049979820227063953#m",
+      "date": "Thu, 30 Apr 2026 22:30:50 GMT"
+    },
+    {
+      "text": "Starlink in Gibraltar! 🇬🇮\n\n\nStarlink (@Starlink)\n\nStarlink's high-speed, low-latency internet is now available in Gibraltar! 🛰️🇬🇮❤️ → starlink.com/gibraltar\n\n\n\n\n\n— https://nitter.net/Starlink/status/2049953383193387373#m",
+      "link": "https://nitter.net/elonmusk/status/2049962868519641091#m",
+      "date": "Thu, 30 Apr 2026 21:23:28 GMT"
+    },
+    {
+      "text": "The migration in numbers:\n\n - Team of 16 engineers worked over 6 weeks.\n - We reduced our footprint from 6M CPU cores, to just 10k cores.\n - We are now using the same Grok-based transformer models that power your home timeline.\n - Eliminated 15 years of tech debt - replaced 1M LOC of Scala with just 50k LOC of Rust and Python\n\n\nBusiness (@XBusiness)\n\nx.com/i/article/204119577332…\n\n\n\n— https://nitter.net/XBusiness/status/2049843732141256979#m",
+      "link": "https://nitter.net/VastoLorde95/status/2049902799790751755#m",
+      "date": "Thu, 30 Apr 2026 17:24:47 GMT"
+    },
+    {
+      "text": "🇺🇸🇺🇸\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@NASAAdmin: \"The next step is go out further, it's to return to the moon. It's to pick up where Apollo 17 left off... President Trump said we are going back to stay, to build a moon base. That’s going to be a massive American outpost.\" 🚀🌕\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RapidResponse47/status/2049865783333761247#m",
+      "link": "https://nitter.net/elonmusk/status/2049916185408647249#m",
+      "date": "Thu, 30 Apr 2026 18:17:58 GMT"
+    },
+    {
+      "text": "Today we’re announcing the full rebuild of our advertising platform, the most ambitious in X’s 20-year history. This is classic X and xAI: bold, fast, and built for advertisers. I’m incredibly proud of our engineering team and everyone at X who made this happen. We designed the new ad stack from the ground up for rapid innovation - expect continuous improvements, powerful new features, greater flexibility and better performance. We look forward to working closely with our partners as we roll out this next-generation platform!\n\n\nBusiness (@XBusiness)\n\nx.com/i/article/204119577332…\n\n\n\n— https://nitter.net/XBusiness/status/2049843732141256979#m",
+      "link": "https://nitter.net/Monique_X/status/2049890763987968052#m",
+      "date": "Thu, 30 Apr 2026 16:36:57 GMT"
+    },
+    {
+      "text": "Launching on May 5",
+      "link": "https://nitter.net/elonmusk/status/2049901250700038533#m",
+      "date": "Thu, 30 Apr 2026 17:18:38 GMT"
+    },
     {
       "text": "Just uploaded my Apple Watch data straight into Grok… and it was insanely good\n\nGrok gave me a full, detailed analysis of everything - heart rate trends, sleep stages, activity patterns, recovery scores, the works\n\nIt analyzed everything deeply and confirmed no red flags. Even explained my lower heart rate during sleep as completely normal given my workout routine\n\nGrok gave me one of the most detailed and reassuring health analyses I’ve ever seen\n\nThis is legitimately one of the most useful AI experiences I’ve had\n\nHighly recommend you try it..",
       "link": "https://nitter.net/XFreeze/status/2049738880577056885#m",
@@ -22,86 +102,6 @@
       "text": "The Tesla Model X was the fastest-selling used vehicle in the U.S. in March 2026, according to a new study by iSeeCars.\n\nOn average, it found a buyer in 26 days, compared to the typical car, which usually lingers on the market for about two months.\n\nOther Tesla models are also selling faster than most used cars. The figure for the Model Y is 35 days. The figure for the Model S is 35 days.",
       "link": "https://nitter.net/SawyerMerritt/status/2049856330727338030#m",
       "date": "Thu, 30 Apr 2026 14:20:08 GMT"
-    },
-    {
-      "text": "Major upgrade to 𝕏 advertising\n\n\nBusiness (@XBusiness)\n\nx.com/i/article/204119577332…\n\n\n\n— https://nitter.net/XBusiness/status/2049843732141256979#m",
-      "link": "https://nitter.net/elonmusk/status/2049866769180053558#m",
-      "date": "Thu, 30 Apr 2026 15:01:37 GMT"
-    },
-    {
-      "text": "Grok Imagine Agent Mode (Beta) just went live on Grok web\n\nIt’s a full creative agent working on one infinite open canvas\n\nGrok Agent plans → generates → edits → iterates everything automatically in the same workspace\n\nTell it what you want and watch it plan, generate, edit, and iterate everything in one seamless workspace:\n• 🎬 “Generate a 1-minute cinematic film” \n•  📚 “Create a complete manga set” \n•  🛍️ “Build UGC product stories”\n\nThis is the real leap from simple prompts to end-to-end creative production\n\nThis is the biggest upgrade to Grok Imagine yet\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2049725955208622475#m",
-      "date": "Thu, 30 Apr 2026 05:42:04 GMT"
-    },
-    {
-      "text": "𝕏\n\n\nNikita Bier (@nikitabier)\n\nAfter a quiet start of the year, X will record the most monthly downloads in history this April, beating our last record by 40%.\n\nWe're just getting warmed up.\n\n\n\n\n\n— https://nitter.net/nikitabier/status/2049581454968111213#m",
-      "link": "https://nitter.net/elonmusk/status/2049759063681184128#m",
-      "date": "Thu, 30 Apr 2026 07:53:38 GMT"
-    },
-    {
-      "text": "Congrats to the @SpaceX Falcon Team!",
-      "link": "https://nitter.net/elonmusk/status/2049756754058342448#m",
-      "date": "Thu, 30 Apr 2026 07:44:27 GMT"
-    },
-    {
-      "text": "A thousand little conveniences add up to a seamless experience\n\n\nDevin Olsen (@DevinOlsenn)\n\nClose Windows on Lock is such a great feature, hard to believe Tesla is one of the only car companies that does this.\n@Tesla\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DevinOlsenn/status/2049214904683679892#m",
-      "link": "https://nitter.net/Tesla/status/2049579474753409526#m",
-      "date": "Wed, 29 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "text": "First Semi off high volume line",
-      "link": "https://nitter.net/tesla_semi/status/2049590842302857675#m",
-      "date": "Wed, 29 Apr 2026 20:45:11 GMT"
-    },
-    {
-      "text": "This is how an economy actually works\n\n\nBrivael (@brivael)\n\nElon Musk avait dit un truc qui m'avait marqué sur l'allocation de ressources. En substance : passé un certain niveau de richesse, l'argent n'est plus de la consommation, c'est de l'allocation de capital.\n\nCette phrase change tout.\n\nL'économie, dans le fond, c'est juste un problème d'allocation. Tu as des ressources finies et des usages infinis. Qui décide où va quoi ?\n\nImagine une cour de récré. 100 enfants, des paquets de cartes Pokémon distribués au hasard. Tu laisses faire. Très vite, un ordre émerge. Les bons joueurs accumulent les cartes rares, les collectionneurs trient, les négociateurs trouvent des deals. Personne n'a planifié. Et pourtant chaque carte finit dans les mains de celui qui en tire le plus de valeur. Le système maximise le bonheur total de la cour. C'est ça, la main invisible.\n\nMaintenant fais entrer la maîtresse. Elle trouve ça injuste. Léo a 50 cartes, Tom en a 3. Elle confisque, redistribue, impose l'égalité. Trois effets immédiats. Les bons joueurs arrêtent de jouer, à quoi bon. Les mauvais n'ont plus de raison de progresser, ils auront leur part. Les échanges s'effondrent. La cour est égale, et morte. Elle a maximisé l'égalité, elle a détruit le bonheur.\n\nLe problème de la maîtresse, c'est qu'elle ne peut pas avoir l'information que la cour avait collectivement. C'est le problème du calcul économique de Mises, formulé en 1920. L'URSS a essayé de le résoudre pendant 70 ans avec le Gosplan. Résultat : pénuries, queues, effondrement. Pas parce que les Soviétiques étaient bêtes, parce que le problème est mathématiquement insoluble en mode centralisé.\n\nQuand Musk a 200 milliards, il ne les consomme pas, il les alloue. SpaceX, Starlink, Neuralink, xAI. Chaque dollar est un pari sur le futur. Et lui a un track record. PayPal, Tesla, SpaceX. Il a démontré qu'il sait identifier des problèmes immenses et y allouer des ressources avec un rendement spectaculaire.\n\nL'État aussi a un track record. Hôpitaux qui s'effondrent, éducation qui décline, dette qui explose, services publics qui se dégradent malgré des budgets en hausse constante. Le marché identifie les bons allocateurs, la politique identifie les bons communicants.\n\nLe profit n'est pas une finalité, c'est un signal. Il dit : tu as alloué des ressources rares vers un usage que les gens valorisent suffisamment pour payer. Plus le profit est gros, plus la création de valeur est grande. Quand Starlink est rentable, ça veut dire que des millions de gens dans des zones rurales ont enfin internet. Quand un ministère est en déficit, ça veut dire qu'il consomme plus qu'il ne produit. L'un crée, l'autre détruit, et on appelle ça redistribution.\n\nDans nos sociétés il y a deux catégories d'acteurs. Les entrepreneurs et les bureaucrates. L'entrepreneur prend un risque personnel pour identifier un problème, mobiliser des ressources, créer une solution. S'il se trompe il perd. S'il a raison, ses clients gagnent, ses employés gagnent, ses fournisseurs gagnent, l'État collecte des impôts. Il est la cellule de base du progrès humain.\n\nLe bureaucrate ne prend aucun risque personnel. Son salaire est garanti. Au mieux il maintient une rente existante. Au pire il la détruit par excès de réglementation, mauvaise allocation forcée, incitations perverses qui découragent ceux qui produisent. Mais dans aucun cas il ne crée.\n\nRegarde les 50 dernières années. iPhone, internet civil, SpaceX, Tesla, Google, Amazon, Stripe, mRNA, ChatGPT. Toutes des inventions privées, portées par des entrepreneurs, financées par du capital risque. Pas un seul ministère n'a inventé quoi que ce soit qui ait changé ta vie au quotidien.\n\nLa France est devenue le laboratoire mondial de la dérive bureaucratique. 57% du PIB en dépenses publiques, record absolu. Une administration tentaculaire, une fiscalité qui pénalise la création de richesse. Résultat : décrochage face aux États-Unis, à l'Allemagne, à la Suisse. Fuite des cerveaux. Désindustrialisation. Dette qui explose.\n\nEt le pire c'est que la mauvaise allocation s'auto-renforce. Plus l'État prélève, moins les entrepreneurs créent. Moins ils créent, moins il y a de base fiscale. Plus l'État s'endette et taxe. Boucle de rétroaction négative parfaite. La maîtresse pense qu'elle aide, et chaque année la cour produit moins.\n\nDans nos sociétés, ce sont les entrepreneurs, toujours, qui font avancer la civilisation. Les bureaucrates au mieux maintiennent une rente, au pire la détruisent. Aucune société n'a jamais progressé en taxant ses créateurs pour subventionner ses gestionnaires.\n\nLa question n'est jamais qui a combien. C'est qui alloue le mieux la prochaine unité de ressource pour maximiser le futur de l'humanité. La réponse depuis 200 ans n'a jamais changé. Ce ne sont pas les fonctionnaires.\n\n\n\n— https://nitter.net/brivael/status/2049391838646182234#m",
-      "link": "https://nitter.net/elonmusk/status/2049503262488019039#m",
-      "date": "Wed, 29 Apr 2026 14:57:10 GMT"
-    },
-    {
-      "text": "The beauty of @cybertruck is that it’s a robotaxi and joy machine in one\n \nHandles traffic for hundreds of miles without me touching the wheel\n\nBut when I want to send it in the desert, offroad mode is just one tap away",
-      "link": "https://nitter.net/battleangelviv/status/2049237775355183420#m",
-      "date": "Tue, 28 Apr 2026 21:22:13 GMT"
-    },
-    {
-      "text": "Raptor 3 is engineering art\n\n\nX Freeze (@XFreeze)\n\nRaptor 3 is engineering black magic\n\nSpaceX’s Raptor is the FIRST full-flow staged combustion engine to ever fly - only the 3rd ever built (after the Soviet RD-270 and the 2000s US demo that never flew)\n\n→ Both fuel-rich + oxidizer-rich preburners \n→ 100% of propellant through the turbines before the main chamber \n→ Auto-ignites from hot preburner gases (no Merlin igniter fluid) \n→ Record 350 bar chamber pressure\n\nRaptor 3 goes even crazier:\nEverything internalized with regenerative cooling. No heat shields. No fire suppression system. Saves 10+ tons\n\nThis is how Starship becomes rapidly reusable\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2049400892747870438#m",
-      "link": "https://nitter.net/elonmusk/status/2049498605552345180#m",
-      "date": "Wed, 29 Apr 2026 14:38:40 GMT"
-    },
-    {
-      "text": "Falcon Heavy landing\n\n\nSpaceX (@SpaceX)\n\nFalcon Heavy’s side boosters have landed on LZ-2 and LZ-40!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2049494548275920926#m",
-      "link": "https://nitter.net/elonmusk/status/2049496914757095844#m",
-      "date": "Wed, 29 Apr 2026 14:31:56 GMT"
-    },
-    {
-      "text": "Side boosters separate from Falcon Heavy\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2049493319965626445#m",
-      "date": "Wed, 29 Apr 2026 14:17:39 GMT"
-    },
-    {
-      "text": "Falcon Heavy\n\n\nSpaceX (@SpaceX)\n\nAll systems are looking good for Falcon Heavy’s launch of the @viasat-3 F3 mission from Florida. The 85-minute window opens at 10:13 a.m. ET. Teams are keeping an eye on weather → spacex.com/launches/viasat3f…\n\n\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2049466870147740099#m",
-      "link": "https://nitter.net/elonmusk/status/2049481450362466744#m",
-      "date": "Wed, 29 Apr 2026 13:30:29 GMT"
-    },
-    {
-      "text": "Elon Musk on AI during the OpenAI trial:\n\n\"It (AI) could make us more prosperous, but it could also kill us all. We want to be in a Gene Roddenberry movie, like Star Trek, not so much a James Cameron movie, like Terminator.\n\nHe then elaborated by comparing AI training to almost like raising a child: \n\n\"It’s like if you had a very smart child — at the end of the day when the child grows up, you can’t really control that child, but you can try to instill the right values. Honesty, integrity, caring about humanity —being good, essentially.\"",
-      "link": "https://nitter.net/niccruzpatane/status/2049367366824305013#m",
-      "date": "Wed, 29 Apr 2026 05:57:10 GMT"
-    },
-    {
-      "text": "Full circle moment: paying for @Starlink with @XMoney 🤝",
-      "link": "https://nitter.net/battleangelviv/status/2049369264914903143#m",
-      "date": "Wed, 29 Apr 2026 06:04:42 GMT"
-    },
-    {
-      "text": "Cybertruck\n\n\nCybertruck (@cybertruck)\n\nTrail assist maintains a set cruising speed with minimum slip on rough or steep terrain, allowing you to focus on steering\n\nEnable via Controls > Dynamics > Off-Road Mode > Trail Assist, then activate or deactivate Trail Assist when needed by single-clicking the right scroll wheel button\n\n\n\n— https://nitter.net/cybertruck/status/2048884798626939376#m",
-      "link": "https://nitter.net/elonmusk/status/2049372990870290940#m",
-      "date": "Wed, 29 Apr 2026 06:19:31 GMT"
-    },
-    {
-      "text": "Congrats!\n\n\nTesla Manufacturing (@gigafactories)\n\n1 million drive units built at Giga Berlin\n\n\n\n\n\n— https://nitter.net/gigafactories/status/2049164599262314808#m",
-      "link": "https://nitter.net/elonmusk/status/2049369485459832951#m",
-      "date": "Wed, 29 Apr 2026 06:05:35 GMT"
     }
   ]
 }
