@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-02T19:09:07Z",
+  "updated_at": "2026-05-02T21:50:44Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "First impression: FSD 14.3.2 is overall a more capable driver. It changes lanes more assertively, turns on signals at the perfect moment to prevent ambiguity, handles narrow spaces more accurately, and reacts to all potential hazards instantly at an earlier stage. I can easily tell that it drives safer than me, and I would feel safe even if you put me in the back seat.\n\nThere is only one complaint: the P-icon parking spot prediction sucks. It overrides my previous manual pin and it is wrong. And it continuously predicts awful parking locations for different destinations.",
+      "link": "https://nitter.net/raines1220/status/2050692872752738338#m",
+      "date": "Sat, 02 May 2026 21:44:15 GMT"
+    },
     {
       "text": "杆肢融合\n\n\nRaines (@raines1220)\n\n“Bring your crutch to the Olympics. Three legs are better than two, so you’ll run faster. It’s called leg fusion.\n\n\n\n— https://nitter.net/raines1220/status/2049949971206815815#m",
       "link": "https://nitter.net/raines1220/status/2049956637591622038#m",
@@ -92,11 +97,6 @@
       "text": "14 Robotaxi Crashes in Austin",
       "link": "https://nitter.net/raines1220/status/2024002285425074536#m",
       "date": "Wed, 18 Feb 2026 06:05:23 GMT"
-    },
-    {
-      "text": "Tesla Robotaxi: Mileage vs. At-fault crashes over time",
-      "link": "https://nitter.net/raines1220/status/2024002014884110467#m",
-      "date": "Wed, 18 Feb 2026 06:04:19 GMT"
     }
   ]
 }
