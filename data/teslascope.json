@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-01T21:57:22Z",
+  "updated_at": "2026-05-02T03:26:57Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "nitter.net/johnnycashrule1/status…\n\n\nJohnnyCashRules (@JohnnyCashRule1)\n\nI’m normally 3rd wave so this is going wide pretty fast 💨\n\n\n\n\n\n— https://nitter.net/JohnnyCashRule1/status/2050354191470928143#m",
+      "link": "https://nitter.net/teslascope/status/2050360048225071438#m",
+      "date": "Fri, 01 May 2026 23:41:44 GMT"
+    },
+    {
+      "text": "nitter.net/andy_nugen/status/2050…\n\n\nAndy Nugen (@Andy_Nugen)\n\nGot it!\n\n\n\n\n\n— https://nitter.net/Andy_Nugen/status/2050354787410141260#m",
+      "link": "https://nitter.net/teslascope/status/2050359958458544357#m",
+      "date": "Fri, 01 May 2026 23:41:22 GMT"
+    },
+    {
+      "text": "Another wave of 2026.2.9.10 is already going out to additional vehicles, just hours after the initial wave!\n\n@Tesla is consolidating all vehicles on 2026.2.9.8 and 2026.2.9.9 onto the latest build en masse.\n\nteslascope.com/software/2026…\n\n\nDare W (@darewecan)\n\nMust be another wave of 2026.2.9.10 already going out as it’s incoming on my Cybertruck.\n\n\n\n\n\n— https://nitter.net/darewecan/status/2050355116998349141#m",
+      "link": "https://nitter.net/teslascope/status/2050359865365971117#m",
+      "date": "Fri, 01 May 2026 23:41:00 GMT"
+    },
     {
       "text": "The Full Self-Driving intervention window is now further refined in 2026.2.9.10, sending voice clips has been restored, and no longer prevents access to navigation / other UI.\n\n\nRoger Kappler (@roger_kappler)\n\nThe latest update changed the layout and position of the intervention Dialog. It now combines voice note and feedback buttons in the lower right corner, no longer covering navigation. It can't be dismissed though still, and no time out  @teslascope\n\n\n\n\n\n— https://nitter.net/roger_kappler/status/2050319379183628557#m",
       "link": "https://nitter.net/teslascope/status/2050321543063035952#m",
@@ -24,7 +39,7 @@
       "date": "Fri, 01 May 2026 20:22:43 GMT"
     },
     {
-      "text": "A new update containing Full Self-Driving V14.3.2 is now rolling out to AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.2.9.10 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2050307592417640863#m",
+      "text": "A new update containing Full Self-Driving V14.3.2 is now rolling out to AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.2.9.10 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n— https://nitter.net/teslascope/status/2050307592417640863#m",
       "link": "https://nitter.net/teslascope/status/2050309670867452203#m",
       "date": "Fri, 01 May 2026 20:21:33 GMT"
     },
@@ -87,21 +102,6 @@
       "text": "North Carolina!\n\n(Right? @Speenuh 😆)\n\n\nAnthony Spina (@Speenuh)\n\nOh my Dad spotted one there a week ago, guess I should have posted it 🤣\n\n\n\n\n\n— https://nitter.net/Speenuh/status/2050028155952382023#m",
       "link": "https://nitter.net/teslascope/status/2050032625482678661#m",
       "date": "Fri, 01 May 2026 02:00:40 GMT"
-    },
-    {
-      "text": "Oklahoma!\n\n\nDevil Dog Raider 🏴‍☠️ (@DB_DevilDog)\n\nRobotaxi charging in Lawton, OK.  \n\nThese will be everywhere very soon.\n\n@teslascope\n\n\n\n\n\n— https://nitter.net/DB_DevilDog/status/2050031213390254432#m",
-      "link": "https://nitter.net/teslascope/status/2050032384830292051#m",
-      "date": "Fri, 01 May 2026 01:59:42 GMT"
-    },
-    {
-      "text": "Cybercab has been spotted in Ann Arbor, Michigan!\n\nThanks for sharing, @mattgrocoff.\n\n\nMatt Grocoff (@mattgrocoff)\n\nSpotted this little celebrity in Ann Arbor! @robotaxi \n\nAutonomy is in the building \n\n@teslascope @NotATeslaApp @SawyerMerritt\n\n\n\nVideo\n  \n\n\n\n\n\n\n\n— https://nitter.net/mattgrocoff/status/2050024444794409061#m",
-      "link": "https://nitter.net/teslascope/status/2050027719904403575#m",
-      "date": "Fri, 01 May 2026 01:41:10 GMT"
-    },
-    {
-      "text": "Another very minor rollout of 2026.2.9.9 (Full Self-Driving V14.3.2) began about thirty-five minutes ago.\n\nThis wave was much smaller than the previous wave, and seems to have prioritized AI4 vehicles on 2026.2.9.3.\n\n\nEnoch G (@Eg3247)\n\nMy favorite notification!!! 14.3.2- here we come!!! \n@TeslaUpdateInfo @teslascope @teslafi @tesla @Tesla_AI\n\n\n\n\n\n\n\n— https://nitter.net/Eg3247/status/2049695292535029817#m",
-      "link": "https://nitter.net/teslascope/status/2049698135157715227#m",
-      "date": "Thu, 30 Apr 2026 03:51:31 GMT"
     }
   ]
 }
