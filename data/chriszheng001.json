@@ -1,8 +1,18 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-05-04T11:08:17Z",
+  "updated_at": "2026-05-04T14:15:29Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "HW4 涨价 or HW3 降价都 work，但确实需要不同定价，因为能力有差异，且可以预期能力差异其实比较大。\n\n\nTSLA99T (@Tsla99T)\n\n按照现在的FSD能力和通货膨胀，更有可能的是HW4涨价，而不是HW3降价\n\n\n\n— https://nitter.net/Tsla99T/status/2051084407377682797#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2051265952059392193#m",
+      "date": "Mon, 04 May 2026 11:41:28 GMT"
+    },
+    {
+      "text": "In fact Tesla never produced a 40 kWh battery pack; this is a Model S 60, in which they software-locked a portion of the battery capacity.\n\n\nBrandon (@Brand0n)\n\nAnyone interested in owning the elusive \"hobbled horse\" aka the 2013 Tesla Model S 40? 🦄\n\n- No Supercharging as it lacks the hardware\n- Sub 120 mile range\n- 235 hp and 0-60 in 6.5 seconds\n- Air suspension\n- Sunroof\n- Yacht floor\n\nPrice: $8,000. ODO: 120,431 miles. Located in Tucson, AZ.\n\n\n\n\n\n\n\n\n\n— https://nitter.net/Brand0n/status/2051030357001248859#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2051258779447280126#m",
+      "date": "Mon, 04 May 2026 11:12:58 GMT"
+    },
     {
       "text": "Tesla Never Stopped Developing The Model S — Revelations with Jason Cammisa piped.video/IwnJzP0TlCk?si=tUb6… 来自 @YouTube",
       "link": "https://nitter.net/ChrisZheng001/status/2047660773942710734#m",
@@ -92,16 +102,6 @@
       "text": "The logic holds up, but I bet when Rivian locked in their Gen 3 AD hardware stack (probably back in ~2023), Tesla FSD hadn't hit that insane breakthrough yet. Facing FSD v14 now, that gap feels pretty awkward.\n\n\nChris Zheng (@ChrisZheng001)\n\nMany people on the timeline seem surprised that Rivian’s AD stack includes LiDAR. Rivian may not actually believe LiDAR is essential — it’s more likely that their current model can’t yet compress and reason over camera data effectively, so they need LiDAR as a temporary assist.\n\n\n\n— https://nitter.net/ChrisZheng001/status/1999354099914166699#m",
       "link": "https://nitter.net/ChrisZheng001/status/1999838913415065620#m",
       "date": "Sat, 13 Dec 2025 13:48:46 GMT"
-    },
-    {
-      "text": "Many people on the timeline seem surprised that Rivian’s AD stack includes LiDAR. Rivian may not actually believe LiDAR is essential — it’s more likely that their current model can’t yet compress and reason over camera data effectively, so they need LiDAR as a temporary assist.",
-      "link": "https://nitter.net/ChrisZheng001/status/1999354099914166699#m",
-      "date": "Fri, 12 Dec 2025 05:42:18 GMT"
-    },
-    {
-      "text": "Built a factory in just 9.5 months, and has produced a total of 4 million Tesla vehicles, accounting for nearly half of Tesla's global production. \n\nTom Zhu is a legend, and the Tesla China team is a legend.",
-      "link": "https://nitter.net/ChrisZheng001/status/1997952891299274938#m",
-      "date": "Mon, 08 Dec 2025 08:54:24 GMT"
     }
   ]
 }
