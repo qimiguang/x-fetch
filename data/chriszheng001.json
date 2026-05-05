@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-05-05T14:09:23Z",
+  "updated_at": "2026-05-05T16:45:01Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "x.com/i/article/205113652273…",
+      "link": "https://nitter.net/YorkYang5050/status/2051306890991415507#m",
+      "date": "Mon, 04 May 2026 14:24:08 GMT"
+    },
     {
       "text": "HW4 涨价 or HW3 降价都 work，但确实需要不同定价，因为能力有差异，且可以预期能力差异其实比较大。\n\n\nTSLA99T (@Tsla99T)\n\n按照现在的FSD能力和通货膨胀，更有可能的是HW4涨价，而不是HW3降价\n\n\n\n— https://nitter.net/Tsla99T/status/2051084407377682797#m",
       "link": "https://nitter.net/ChrisZheng001/status/2051265952059392193#m",
@@ -97,11 +102,6 @@
       "text": "🤣🤣\n\n\nAlexander Kristensen (@LinkN01)\n\nHow can I short Teslas steering wheel supplier?\n\n\n\n— https://nitter.net/LinkN01/status/2004122201231118708#m",
       "link": "https://nitter.net/ChrisZheng001/status/2004436958882472267#m",
       "date": "Fri, 26 Dec 2025 06:19:46 GMT"
-    },
-    {
-      "text": "The logic holds up, but I bet when Rivian locked in their Gen 3 AD hardware stack (probably back in ~2023), Tesla FSD hadn't hit that insane breakthrough yet. Facing FSD v14 now, that gap feels pretty awkward.\n\n\nChris Zheng (@ChrisZheng001)\n\nMany people on the timeline seem surprised that Rivian’s AD stack includes LiDAR. Rivian may not actually believe LiDAR is essential — it’s more likely that their current model can’t yet compress and reason over camera data effectively, so they need LiDAR as a temporary assist.\n\n\n\n— https://nitter.net/ChrisZheng001/status/1999354099914166699#m",
-      "link": "https://nitter.net/ChrisZheng001/status/1999838913415065620#m",
-      "date": "Sat, 13 Dec 2025 13:48:46 GMT"
     }
   ]
 }
