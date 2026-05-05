@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-05T19:42:19Z",
+  "updated_at": "2026-05-05T22:04:21Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.3\n\n\nxAI (@xai)\n\nGrok 4.3 is now live on the xAI API. It’s our fastest, most intelligent model to date.\n\nIt tops the @ArtificialAnlys leaderboards in agentic tool calling and instruction following, and ranks #1 in @ValsAI enterprise domains like case law and corporate finance.\n\nGrok 4.3 supports a 1 million token context window and is priced at $1.25/m input and $2.50/m output.\n\nCreate an API key and start building: console.x.ai/team/default/ap…\n\n\n\n\n\n— https://nitter.net/xai/status/2051703217697010103#m",
+      "link": "https://nitter.net/elonmusk/status/2051747828201066783#m",
+      "date": "Tue, 05 May 2026 19:36:16 GMT"
+    },
     {
       "text": "Japan just had the fewest babies born in any year on record. Not since the war. Not since the 1918 flu. Since records began in 1899.\n\n705,809 births, the tenth annual record low in a row, and they're now down 30% in a decade. More than two deaths for every birth. The population shrank by almost 900,000 people in twelve months.\n\nThis is what a demographic spiral looks like in real time. Fewer young people now means fewer parents in twenty years, which means fewer births in thirty. Recovery requires reversing a trend that has been running for half a century.",
       "link": "https://nitter.net/ianmiles/status/2051601915059048868#m",
@@ -97,11 +102,6 @@
       "text": "Mark my words, I will take a photo like this in my lifetime. \n\nYou might, too.",
       "link": "https://nitter.net/AJamesMcCarthy/status/2051355913773261097#m",
       "date": "Mon, 04 May 2026 17:38:56 GMT"
-    },
-    {
-      "text": "Starlink on Singapore Airlines! 🇸🇬\n\n\nSingapore Airlines (@SingaporeAir)\n\nWe’re enhancing our complimentary in flight Wi-Fi offering across all cabin classes on our Airbus A350-900 long-haul and ultra-long-range fleet and A380 aircraft from 2027.\n\n@Starlink, the fastest Wi-Fi in the sky, will provide multi-gigabit connectivity on board. Soon, you can stream, game, and send large files just like on the ground.\n\nFind out more: spr.ly/6010BBkIA2\n\n\n\n\n\n— https://nitter.net/SingaporeAir/status/2051134720981774430#m",
-      "link": "https://nitter.net/elonmusk/status/2051415754416030127#m",
-      "date": "Mon, 04 May 2026 21:36:43 GMT"
     }
   ]
 }
