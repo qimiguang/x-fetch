@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-07T03:40:20Z",
+  "updated_at": "2026-05-07T08:42:05Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Tesla shareholders funded the robotaxi vision through the hard part.\n\nThe missed timelines, ridicule, drawdowns, and the “FSD is impossible” years.\n\nSo if Tesla ever gets folded into SpaceX, the question isn’t “would that be cool?”\n\nIt’s: who gets paid for the robotaxi value?\n\nBradford breaks it down here.👇\n\nVideo",
+      "link": "https://nitter.net/Rebellionaire/status/2052048240808222768#m",
+      "date": "Wed, 06 May 2026 15:30:00 GMT"
+    },
     {
       "text": "What are the missing pieces for FSD? I think there are two of them: 1) a nice interface for a human to tell the vehicle their preferences (e.g., preferred parking spot), and 2) a really smart brain (e.g., reading text on signs). Do we need spatial measurements from LiDAR? Nope, it is a solved problem, I’m sorry. nitter.net/crispy2d/status/205130…",
       "link": "https://nitter.net/raines1220/status/2051774071806021887#m",
@@ -92,11 +97,6 @@
       "text": "Just finished my first drive on FSD 14.2.2.5, definitely an improvement but also noticed some weird behavior, such as swerving around tire marks. \n\nIn fact, I’ve noticed that every recent FSD version that tries to improve pothole avoidance also seems more likely to unnecessarily swerve around tire marks.\n\nI gave it some thought and realized that object avoidance, in general, is an extremely hard problem to solve. There are, in theory, unlimited types of road conditions, each requiring different strategies.\n\nIf you want to avoid everything, then what about leaves? You mostly want to ignore them. Do you still remember how FSD used to emergency brake for leaves?\n\nHowever, if you want to run over them, then what about black ice? It is also dark, soft, and flat, but definitely needs to be avoided.\n\nBut then, if you choose to avoid those, what about tire marks? People still want FSD to ignore them, right?\n\nTo perfectly solve this problem, you would need near lossless compression of vision input, large model capacity to store general world knowledge, and lightning fast reasoning in order to react correctly.",
       "link": "https://nitter.net/raines1220/status/2025271329302462830#m",
       "date": "Sat, 21 Feb 2026 18:08:07 GMT"
-    },
-    {
-      "text": "tbh, this is my favorite chart. It kind of show the fundamental difference between Waymo and Tesla.\n\n\nRaines (@raines1220)\n\nSafety Trajectories: Tesla vs. Waymo\n\n\n\n\n\n— https://nitter.net/raines1220/status/2024001882029449328#m",
-      "link": "https://nitter.net/raines1220/status/2024009192835625046#m",
-      "date": "Wed, 18 Feb 2026 06:32:50 GMT"
     }
   ]
 }

@@ -1,12 +1,32 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-05-07T03:40:00Z",
-  "count": 18,
+  "updated_at": "2026-05-07T08:41:45Z",
+  "count": 16,
   "tweets": [
     {
-      "text": "Starship were meant to fly\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2052224670452342965#m",
-      "date": "Thu, 07 May 2026 03:11:04 GMT"
+      "text": "No other vehicle tops the driving experience of the Cybertruck\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2052262412905238790#m",
+      "date": "Thu, 07 May 2026 05:41:03 GMT"
+    },
+    {
+      "text": "BREAKING: Grok 4.3 takes #1 on two specialized AI benchmarks for legal and financial reasoning.\n\nIt scored 79.3% on CaseLaw v2 (beating GPT 5.1 at 73.4%) and 68.5% on CorpFin v2 (edging GPT 5.5 at 68.4%), both private benchmarks run by Vals AI.",
+      "link": "https://nitter.net/teslaownersSV/status/2052265414139453677#m",
+      "date": "Thu, 07 May 2026 05:52:58 GMT"
+    },
+    {
+      "text": "It takes 5 minutes to install Starlink at a remote rural site that fiber providers have refused to serve for 20 years.\n\nThe phrase \"we'll get internet there eventually\" used to mean a decade of negotiation. Now it means a  dish and a power outlet.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2052253349668651408#m",
+      "date": "Thu, 07 May 2026 05:05:02 GMT"
+    },
+    {
+      "text": "NEVER GIVE UP.\n\nElon Musk built Tesla and SpaceX through near-bankruptcy, missed deadlines and constant pressure. Most companies don’t survive that. He kept pushing anyway.\n\nThat mindset is why rockets land, cars drive themselves and new industries keep getting rewritten.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2052219688252502455#m",
+      "date": "Thu, 07 May 2026 02:51:16 GMT"
+    },
+    {
+      "text": "Do you know who is this?",
+      "link": "https://nitter.net/teslaownersSV/status/2052247174554226878#m",
+      "date": "Thu, 07 May 2026 04:40:29 GMT"
     },
     {
       "text": "\"Roughly 10 billion miles of training data is needed to achieve safe unsupervised self-driving.\"\n\n— Elon Musk, January 2026\n\nTesla FSD just hit 10 billion miles on May 3, 2026.\n\nThe acceleration:\n7B → 8B: 53 days ~ 8B → 9B: 43 days ~ 9B → 10B: 31 days\n\nCurrent rate: 28.8 million FSD miles per day. 3.76 billion total city miles, the hardest driving conditions on the road. Every mile trains the entire fleet.\n\nAt this pace, the next 10 billion arrives in 5 to 8 months.\n\nMusk called the number. Tesla hit it. Now the curve is steepening.",
@@ -14,9 +34,9 @@
       "date": "Thu, 07 May 2026 02:56:43 GMT"
     },
     {
-      "text": "NEVER GIVE UP.\n\nElon Musk built Tesla and SpaceX through near-bankruptcy, missed deadlines and constant pressure. Most companies don’t survive that. He kept pushing anyway.\n\nThat mindset is why rockets land, cars drive themselves and new industries keep getting rewritten.\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2052219688252502455#m",
-      "date": "Thu, 07 May 2026 02:51:16 GMT"
+      "text": "Starship were meant to fly\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2052224670452342965#m",
+      "date": "Thu, 07 May 2026 03:11:04 GMT"
     },
     {
       "text": "Tesla FSD 14.3.2 handles insane incline in San Francisco\n\nVideo",
@@ -49,7 +69,7 @@
       "date": "Thu, 07 May 2026 00:13:57 GMT"
     },
     {
-      "text": "Tesla Robotaxi in NYC\n\n\nMaye Musk (@mayemusk)\n\nFirst Robotaxi I’ve seen in NYC 😎🥰\n\n\n\n\n\n— https://nitter.net/mayemusk/status/2052143632652644612#m",
+      "text": "Tesla Robotaxi in NYC\n\n\nMaye Musk (@mayemusk)\n\nFirst Robotaxi I’ve seen in NYC 😎🥰\n\n\nCommunity note: The vehicle shown is a privately owned Tesla Model Y with an aftermarket \"Robotaxi\" decal applied by its owner, not an official Tesla Robotaxi service vehicle. x.com/PeterOfNY/stat…\n\n\n\n— https://nitter.net/mayemusk/status/2052143632652644612#m",
       "link": "https://nitter.net/teslaownersSV/status/2052150195287171550#m",
       "date": "Wed, 06 May 2026 22:15:08 GMT"
     },
@@ -62,36 +82,6 @@
       "text": "For 40 years, business orthodoxy said conglomerates don't work. Focus or die.\n\nThen Musk built Tesla, SpaceX, xAI, Neuralink, X, Boring Company and Starlink, all profitable or pre-profit at scale, all sharing engineering talent, all reinforcing each other's missions.\n\nIt turns out the conglomerate model works fine. You just need engineering-led leadership and a unified mission.\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2052138644606218420#m",
       "date": "Wed, 06 May 2026 21:29:14 GMT"
-    },
-    {
-      "text": "Grok just got Connectors. Here's what changes.\n\nUntil now, every AI assistant existed in a sandbox. You'd ask a question, it would answer based only on what you typed in. Anything else, you had to copy-paste in yourself.\n\nConnectors break the sandbox. Grok can now pull live context from:\nGmail ~ GitHub ~ Google Calendar ~ Notion ~ Google Drive ~ your own custom connectors\n\nWhat you can do:\n~ Summarize your inbox without forwarding anything \n~ Prep you for tomorrow's meetings using your actual calendar and recent emails \n~ Analyze a repo without you pasting code \n~ Pull insights from your Notion or Drive without leaving the chat\nYou ask. \n\nGrok pulls what it needs. The answer arrives.\n\nThis is the line where AI stops being a tool you use and starts being an assistant that knows your work.",
-      "link": "https://nitter.net/teslaownersSV/status/2052135674015560048#m",
-      "date": "Wed, 06 May 2026 21:17:26 GMT"
-    },
-    {
-      "text": "Starlink is becoming the new standard for in-flight Wi-Fi \n\n37 airlines are now installing or committed to SpaceX Starlink, and the pressure is growing on every carrier still offering slow internet at 35,000 feet.\n\nFast, low-latency internet in the sky is no longer a luxury  it’s becoming expected.",
-      "link": "https://nitter.net/teslaownersSV/status/2052130025840029916#m",
-      "date": "Wed, 06 May 2026 20:54:59 GMT"
-    },
-    {
-      "text": "When our intern isn't driving his Tesla, he's showing showing his favorite flashlight to loved ones and strangers 🔦\n\nAnyways.. check out the @olightworld ArkPro Ultra: 1,700 lumen flood, 600ft spotlight, UV light, and green laser.\n\nGet 10% off, use code TOSV, order yours 👉🏼 olight.com/s/ZHQA11\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2052121462300201366#m",
-      "date": "Wed, 06 May 2026 20:20:57 GMT"
-    },
-    {
-      "text": "x.com/i/article/205209019455…",
-      "link": "https://nitter.net/teslaownersSV/status/2052091061476991166#m",
-      "date": "Wed, 06 May 2026 18:20:09 GMT"
-    },
-    {
-      "text": "Tesla Model 3\n\nEndurance, speed, safety.\n\nEven in Liminal Spaces.",
-      "link": "https://nitter.net/teslaownersSV/status/2052115325836234815#m",
-      "date": "Wed, 06 May 2026 19:56:34 GMT"
-    },
-    {
-      "text": "Elon Musk has been CEO of Tesla for 18 years and SpaceX for 24 years.\n\nMost founder-CEOs of major tech companies last 7-12 years before getting replaced, retiring or being pushed out.\n\nHe's run two of the most operationally demanding companies on Earth simultaneously, for over two decades, while founding more along the way. There's no comparable track record in modern business.\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2052105602076467599#m",
-      "date": "Wed, 06 May 2026 19:17:56 GMT"
     }
   ]
 }
