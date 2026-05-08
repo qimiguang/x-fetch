@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-07T22:05:38Z",
-  "count": 19,
+  "updated_at": "2026-05-08T03:34:23Z",
+  "count": 18,
   "tweets": [
+    {
+      "text": "Another wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles within the last ten minutes via 2026.2.9.10.\n\nThis should include most vehicles; if not included in this wave, it is expected you may receive 2026.14.3 instead.\n\nCheck in vehicle and your app!\n\n\nMuhammad Afaq Khan (@AfaqMKhan)\n\nAnother wave or ripple?\n@teslascope\n\nFinally going from 2.9.1 to 2.9.10.\n\n\n\n\n\n— https://nitter.net/AfaqMKhan/status/2052563972587667920#m",
+      "link": "https://nitter.net/teslascope/status/2052567126326890968#m",
+      "date": "Fri, 08 May 2026 01:51:52 GMT"
+    },
     {
       "text": "A new feature has been detected: Self-Driving App\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2052210370144579986#m",
@@ -87,16 +92,6 @@
       "text": "nitter.net/ropo724/status/2051741…\n\n\nRoncito🔋 (@ropo724)\n\nFinally!!! LFG FSD 14.3.2 downloading to my robot 🤖 @teslascope @wholemars\n\n\n\n\n\n— https://nitter.net/ropo724/status/2051741772645015894#m",
       "link": "https://nitter.net/teslascope/status/2051742758172516594#m",
       "date": "Tue, 05 May 2026 19:16:07 GMT"
-    },
-    {
-      "text": "nitter.net/mattbratt/status/20517…\n\n\nMatthew Space Coast (@mattbratt)\n\n\n\n\n\n\n\n— https://nitter.net/mattbratt/status/2051738783876292869#m",
-      "link": "https://nitter.net/teslascope/status/2051742655001116858#m",
-      "date": "Tue, 05 May 2026 19:15:43 GMT"
-    },
-    {
-      "text": "A new wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles via Tesla software update 2026.2.9.10.\n\nThis wave brings the total saturation to about ~85% of eligible vehicles, up from 60-65% in the prior wave.\n\n\nPercy (@ploew03)\n\nNew wave! @wholemars @teslascope\n\n\n\n\n\n— https://nitter.net/ploew03/status/2051737640139952358#m",
-      "link": "https://nitter.net/teslascope/status/2051742585010716677#m",
-      "date": "Tue, 05 May 2026 19:15:26 GMT"
     }
   ]
 }
