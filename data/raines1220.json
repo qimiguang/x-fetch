@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-09T10:11:16Z",
+  "updated_at": "2026-05-09T13:37:58Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "v14.3.2 is the first version where my reaction is no longer, “Wow, that feels very human-like.” Now it is more like, “Wow, a human could never do that.”\n\nUsually, I try to understand the “personality” of an FSD version. Is it chill? Is it too dramatic? Is it overly cautious? But v14.3.2 feels different. It almost has two personalities.\n\nIn normal daily driving, it is smooth, natural, and human-like, almost like a friend driving you around. But when an emergency happens, it no longer feels like a friend. It becomes something else: a cold-blooded machine. Calm, smart, and fast. It handles dangerous situations correctly before a human even fully understands what is happening.\n\nThat is why it feels trustworthy, but also kind of “scarily capable.” In certain aspects of driving, it is already more capable than even the best human drivers. And honestly, v14.3.2 is the first version that makes me seriously think FSD could save millions of lives that human drivers would never be able to save.",
+      "link": "https://nitter.net/raines1220/status/2053057516062580943#m",
+      "date": "Sat, 09 May 2026 10:20:30 GMT"
+    },
     {
       "text": "61.1% of Robotaxi rides in Austin over the past 7 days were unsupervised. The 30-day rate is 37.2%, and the 90-day rate is 17.9%. It is pretty clear that Austin Robotaxi will soon be fully unsupervised.\n\nWhen the next NHTSA crash report is released, I strongly suspect it will, for the first time, show “safer-than-human” statistics. It may not reach the level (5x–10x?) where you can confidently deploy unsupervised Robotaxi anywhere without a geofence, but it may be enough to show that it is slightly safer (~1.5x–3x) than human driving.\n\nIf that is true, you know what that means? Since the model is unified across Robotaxi, FSD, and Summon, it is reasonable to assume that our “supervised FSD” has equivalent safety. That means even if we sit in the back seat, our car would still drive more safely than the average human.",
       "link": "https://nitter.net/raines1220/status/2053039575560548695#m",
@@ -92,11 +97,6 @@
       "text": "Currently, I’d bet that FSD has already learned all the strategies for all scenarios, so all the “smart moves” you see on v14.3 will occasionally also be seen on v14.2 and earlier versions.\n\nThe issue is that the probability of the correct strategy is not always the highest, so it does not always get chosen. That means you cannot always reproduce those “highlight” moments.\n\nAn upgraded RL will mostly help re-sort those strategies so that better strategies have a higher chance of being chosen, resulting in more stable, predictable behavior. In other words, you’ll see those “highlights” more often with FSD v14.3.",
       "link": "https://nitter.net/raines1220/status/2041704210425901461#m",
       "date": "Wed, 08 Apr 2026 02:26:31 GMT"
-    },
-    {
-      "text": "I don’t have FSD 14.3, and I don’t think I’m in a hurry to get it. Maybe I’d like a slightly better parking upgrade, but honestly, for all the other problems 14.3 is supposed to solve, I have almost never run into them myself. Tesla is really trying to solve the last missing piece, and that piece is so tiny that I’m barely even aware of it. So I wonder whether it will actually just feel the same, as perfect as v14.2.2.5, and whether a lot of the perceived improvements people are sharing on X are probably just psychological suggestion. Why? Because at this point, without driving it for a year and collecting 10k miles, how can you be sure 14.3 is actually safer than 14.2?",
-      "link": "https://nitter.net/raines1220/status/2041621526274044199#m",
-      "date": "Tue, 07 Apr 2026 20:57:58 GMT"
     }
   ]
 }
