@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-10T21:53:47Z",
-  "count": 18,
+  "updated_at": "2026-05-11T04:00:55Z",
+  "count": 20,
   "tweets": [
     {
       "text": "Appreciate your status posts on the updates and this extra info. Checking the software tab in the car is what pulled the update for me.",
@@ -9,19 +9,29 @@
       "date": "Fri, 08 May 2026 06:15:52 GMT"
     },
     {
-      "text": "Another:\n\nnitter.net/Hurricane350/status/20…\n\n\nHurricane350 (@Hurricane350)\n\nWell this is a first... Manually checking in the car actually pulled the update!\n\n\n\n\n\n— https://nitter.net/Hurricane350/status/2052590567528247653#m",
-      "link": "https://nitter.net/teslascope/status/2052601658623111240#m",
-      "date": "Fri, 08 May 2026 04:09:05 GMT"
-    },
-    {
       "text": "We've received many reports of vehicles downloading 2026.2.9.10 (Full Self-Driving V14.3.2) following a manual in-vehicle check, as we suggested previously.\n\nThe Tesla app will not consistently notify of updates, so while not guaranteed, checking in-vehicle can help.\n\n\nJesper Christiansen (@jespr)\n\nI had to go to the car and check for updates before it popped up :)\n\n\n\n\n\n— https://nitter.net/jespr/status/2052590668720361719#m",
       "link": "https://nitter.net/teslascope/status/2052601569158496324#m",
       "date": "Fri, 08 May 2026 04:08:44 GMT"
     },
     {
+      "text": "Another:\n\nnitter.net/Hurricane350/status/20…\n\n\nHurricane350 (@Hurricane350)\n\nWell this is a first... Manually checking in the car actually pulled the update!\n\n\n\n\n\n— https://nitter.net/Hurricane350/status/2052590567528247653#m",
+      "link": "https://nitter.net/teslascope/status/2052601658623111240#m",
+      "date": "Fri, 08 May 2026 04:09:05 GMT"
+    },
+    {
       "text": "Another wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles within the last ten minutes via 2026.2.9.10.\n\nThis should include most vehicles; if not included in this wave, it is expected you may receive 2026.14.3 instead.\n\nCheck in vehicle and your app!\n\n\nMuhammad Afaq Khan (@AfaqMKhan)\n\nAnother wave or ripple?\n@teslascope\n\nFinally going from 2.9.1 to 2.9.10.\n\n\n\n\n\n— https://nitter.net/AfaqMKhan/status/2052563972587667920#m",
       "link": "https://nitter.net/teslascope/status/2052567126326890968#m",
       "date": "Fri, 08 May 2026 01:51:52 GMT"
+    },
+    {
+      "text": "We're pleased to launch a new feature and dedicated website that the global @Tesla community can use.\n\nCan I go from one update to another? Now, that question can be answered in seconds. Based on real data, from real vehicles.\n\nteslascope.com/software/comp…",
+      "link": "https://nitter.net/teslascope/status/2052088814932549843#m",
+      "date": "Wed, 06 May 2026 18:11:14 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.3 on Model X AWD (2023) in Aargau, Switzerland. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2048960173830488378#m",
+      "date": "Tue, 28 Apr 2026 02:59:07 GMT"
     },
     {
       "text": "A new feature has been detected: Self-Driving App\n\nteslascope.com/software/2026…",
@@ -64,11 +74,6 @@
       "date": "Wed, 06 May 2026 18:11:14 GMT"
     },
     {
-      "text": "We're pleased to launch a new feature and dedicated website that the global @Tesla community can use.\n\nCan I go from one update to another? Now, that question can be answered in seconds. Based on real data, from real vehicles.\n\nteslascope.com/software/comp…",
-      "link": "https://nitter.net/teslascope/status/2052088814932549843#m",
-      "date": "Wed, 06 May 2026 18:11:14 GMT"
-    },
-    {
       "text": "A new feature has been detected: Live Camera View\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2051995235396227138#m",
       "date": "Wed, 06 May 2026 11:59:23 GMT"
@@ -79,18 +84,23 @@
       "date": "Wed, 06 May 2026 11:59:20 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.8.3.10 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2050053809167036494#m",
+      "date": "Fri, 01 May 2026 03:24:50 GMT"
+    },
+    {
       "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2051825869262410065#m",
       "date": "Wed, 06 May 2026 00:46:22 GMT"
     },
     {
-      "text": "You will need to wait for a future, unreleased software update, presumably the combined Spring Update with V14.3.2 once it’s brought to the 2026.14 or later branches.\n\nAs a rule of thumb, if the third number (200, in 2026.2.200) than (9, in 2026.2.9.10), it’s not eligible. 👍",
-      "link": "https://nitter.net/teslascope/status/2051756725959847951#m",
+      "text": "We’ve received *dozens* of replies and DMs about this, so here’s an important clarification.\n\nIf you are currently on a factory update such as 2026.2.100, 2026.2.200, 2026.2.200.1:\n\nYour vehicle is NOT eligible to receive any current FSD V14.3.2 updates, including 2026.2.9.10.\n\n\nTeslascope (@teslascope)\n\nA new wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles via Tesla software update 2026.2.9.10.\n\nThis wave brings the total saturation to about ~85% of eligible vehicles, up from 60-65% in the prior wave.\n\n\n\n— https://nitter.net/teslascope/status/2051742585010716677#m",
+      "link": "https://nitter.net/teslascope/status/2051756723170652328#m",
       "date": "Tue, 05 May 2026 20:11:37 GMT"
     },
     {
-      "text": "We’ve received *dozens* of replies and DMs about this, so here’s an important clarification.\n\nIf you are currently on a factory update such as 2026.2.100, 2026.2.200, 2026.2.200.1:\n\nYour vehicle is NOT eligible to receive any current FSD V14.3.2 updates, including 2026.2.9.10.\n\n\nTeslascope (@teslascope)\n\nA new wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles via Tesla software update 2026.2.9.10.\n\nThis wave brings the total saturation to about ~85% of eligible vehicles, up from 60-65% in the prior wave.\n\n\n\n— https://nitter.net/teslascope/status/2051742585010716677#m",
-      "link": "https://nitter.net/teslascope/status/2051756723170652328#m",
+      "text": "You will need to wait for a future, unreleased software update, presumably the combined Spring Update with V14.3.2 once it’s brought to the 2026.14 or later branches.\n\nAs a rule of thumb, if the third number (200, in 2026.2.200) than (9, in 2026.2.9.10), it’s not eligible. 👍",
+      "link": "https://nitter.net/teslascope/status/2051756725959847951#m",
       "date": "Tue, 05 May 2026 20:11:37 GMT"
     }
   ]
