@@ -1,8 +1,33 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-11T22:11:28Z",
-  "count": 18,
+  "updated_at": "2026-05-12T03:43:38Z",
+  "count": 17,
   "tweets": [
+    {
+      "text": "Our own HW3 vehicle (a 2018 Model 3 Performance) is also included in this initial wave.\n\nWe've received several reports that this download was initiated over cellular, suggesting it contains critical security fixes. AI4 vehicles on 2026.2.9.10 will receive these fixes very soon.",
+      "link": "https://nitter.net/teslascope/status/2054026163333542105#m",
+      "date": "Tue, 12 May 2026 02:29:33 GMT"
+    },
+    {
+      "text": "2026.14.6 is going out en masse to HW3 and AI4 vehicles, which contains security improvements (in addition to the Spring Update features from 2026.14.3).\n\nHere's a breakdown of the specific models receiving the update, along with the release notes.\nteslascope.com/software/2026…\n\n\n\nNemGee (@NemGee)\n\n@teslascope \n\nHW3 2026.14.6 rolling out\n\n\n\n\n\n— https://nitter.net/NemGee/status/2054024134561083794#m",
+      "link": "https://nitter.net/teslascope/status/2054026161576185958#m",
+      "date": "Tue, 12 May 2026 02:29:33 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2054019185798238616#m",
+      "date": "Tue, 12 May 2026 02:01:50 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.6 on Model S Performance (2019) in Florida, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2054019126973108296#m",
+      "date": "Tue, 12 May 2026 02:01:36 GMT"
+    },
+    {
+      "text": "Our iOS app for @teslascope is now on Testflight! 🎉\n\nInvites will continue to be sent out gradually, as outlined in the thread quoted below.\n\nReminder, if you're not a subscriber to @teslascope on X or our platform, you can still apply for early access via help@vehiclescope.com.\n\n\n\n\nVehiclescope (@vehiclescope)\n\nWe've finally been approved by Apple and our App Store registration is now officially associated with our company! 🎉\n\nWe're now clear to proceed with the launch of our initial Testflight release next week.\n\n\n\n— https://nitter.net/vehiclescope/status/2052511236533919969#m",
+      "link": "https://nitter.net/vehiclescope/status/2053974538308976900#m",
+      "date": "Mon, 11 May 2026 23:04:25 GMT"
+    },
     {
       "text": "Appreciate your status posts on the updates and this extra info. Checking the software tab in the car is what pulled the update for me.",
       "link": "https://nitter.net/MyLifeCoachMark/status/2052633563535737338#m",
@@ -62,36 +87,6 @@
       "text": "You can also learn more about recent rollouts at a glance, such as how recently each update was received by any vehicle, and the distribution of AI4, HW3, and older configurations.\n\nAs always, these features are provided entirely for free, forever. Enjoy!\n\ntsla.is/s/2026.2.9.1/2026.2.…",
       "link": "https://nitter.net/teslascope/status/2052088817545556263#m",
       "date": "Wed, 06 May 2026 18:11:14 GMT"
-    },
-    {
-      "text": "We're pleased to launch a new feature and dedicated website that the global @Tesla community can use.\n\nCan I go from one update to another? Now, that question can be answered in seconds. Based on real data, from real vehicles.\n\nteslascope.com/software/comp…",
-      "link": "https://nitter.net/teslascope/status/2052088814932549843#m",
-      "date": "Wed, 06 May 2026 18:11:14 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Live Camera View\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2051995235396227138#m",
-      "date": "Wed, 06 May 2026 11:59:23 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Chime When Light Is Green\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2051995224361111671#m",
-      "date": "Wed, 06 May 2026 11:59:20 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2051825869262410065#m",
-      "date": "Wed, 06 May 2026 00:46:22 GMT"
-    },
-    {
-      "text": "You will need to wait for a future, unreleased software update, presumably the combined Spring Update with V14.3.2 once it’s brought to the 2026.14 or later branches.\n\nAs a rule of thumb, if the third number (200, in 2026.2.200) than (9, in 2026.2.9.10), it’s not eligible. 👍",
-      "link": "https://nitter.net/teslascope/status/2051756725959847951#m",
-      "date": "Tue, 05 May 2026 20:11:37 GMT"
-    },
-    {
-      "text": "We’ve received *dozens* of replies and DMs about this, so here’s an important clarification.\n\nIf you are currently on a factory update such as 2026.2.100, 2026.2.200, 2026.2.200.1:\n\nYour vehicle is NOT eligible to receive any current FSD V14.3.2 updates, including 2026.2.9.10.\n\n\nTeslascope (@teslascope)\n\nA new wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles via Tesla software update 2026.2.9.10.\n\nThis wave brings the total saturation to about ~85% of eligible vehicles, up from 60-65% in the prior wave.\n\n\n\n— https://nitter.net/teslascope/status/2051742585010716677#m",
-      "link": "https://nitter.net/teslascope/status/2051756723170652328#m",
-      "date": "Tue, 05 May 2026 20:11:37 GMT"
     }
   ]
 }
