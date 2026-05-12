@@ -1,8 +1,78 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-12T14:38:55Z",
+  "updated_at": "2026-05-12T22:16:07Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "xAI is rolling out Skills on grok.com.\n\nThis new feature lets you create custom skills that Grok can reuse across conversations. Skills run inside Grok’s sandbox environment, so they can edit files, use your Connectors (Gmail, GitHub, Notion, etc.), run code, or perform any repeatable task you define.\n\nOnce you create one, you simply tell Grok “use the [skill name] skill and do…” and it executes it instantly. You can also import skills.md files from other AI tools to bring them over quickly.\n\nIt turns Grok from a one-shot chat tool into a more persistent, customizable workspace. This is a huge upgrade for anyone who uses Grok regularly.\n\nVideo\n  \n\n\n\n\n️️️️ ️ᅠ‏️️️️ ️ᅠ️️️️ ️️️️️ ️ᅠ (@blankspeaker)\n\nxAI has rolled out Skills on grok.com.  You can create skills  to perform actions on groks sandbox computer to edit files, use connectors, or whatever you can think of and they can easily be used in future queries. \n\nJust say hey grok use the [skilll name] skill and do.....\n\nYou can also import skills.md files from other LLMs to easily import skills.\n\nThis is Great!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/blankspeaker/status/2053999785816805509#m",
+      "link": "https://nitter.net/myrhex/status/2054054077206552873#m",
+      "date": "Tue, 12 May 2026 04:20:29 GMT"
+    },
+    {
+      "text": "Grok now has skills\n\n\nTech Dev Notes (@techdevnotes)\n\nSkills in Grok Web can be used by typing /\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2053988976147431834#m",
+      "link": "https://nitter.net/elonmusk/status/2054302172976959902#m",
+      "date": "Tue, 12 May 2026 20:46:19 GMT"
+    },
+    {
+      "text": "Grok Voice is #1!\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nAnnouncing agentic performance benchmarking for Speech to Speech models on Artificial Analysis. We use 𝜏-Voice to measure tool calling and customer interaction voice agent capabilities in realistic customer service scenarios\n\nEven the strongest Speech to Speech (S2S) models today resolve only about half of realistic customer service scenarios end-to-end - a meaningful gap relative to frontier text-based agents on the same tasks. Voice channels introduce significant complexity: challenging accents, background noise, and packet loss, all while requiring fast responses, consistency across long multi-turn conversations, and reliable tool use. Performance also varies considerably by audio condition: in clean audio some models perform notably better, but realistic conditions continue to pose a challenge. Conversation duration also varies meaningfully across models, with implications for both customer experience and operational cost.\n\nAbout 𝜏-Voice:\nOur Agentic Performance benchmark is based on 𝜏-Voice (Ray, Dhandhania, Barres & Narasimhan, 2026), which extends 𝜏²-bench into the voice modality to evaluate S2S models on realistic customer service tasks. It measures multi-turn instruction following, support of a simulated customer through a complete interaction, and tool use against simulated customer service systems. The simulated user combines an LLM-driven decision model with realistic audio synthesis: diverse accents, background noise, and packet loss modelled on real network conditions.\n\nThis complements our Big Bench Audio benchmark measuring intelligence and Conversational Dynamics (Full Duplex Bench subset) benchmark measuring conversational naturalness. Scores are the average of three independent pass@1 trials. We evaluate under realistic audio conditions using the 𝜏²-bench base task split across three domains:\n➤ Airline (50 scenarios): e.g., changing a flight, rebooking under policy constraints\n➤ Retail (114 scenarios): e.g., disputing a charge, processing a return\n➤ Telecom (114 scenarios): e.g., resolving a billing issue, troubleshooting a service problem\n\nTask success is determined by deterministic checks against expected actions and final database state, consistent with the 𝜏²-bench evaluator.\n\nKey results:\nxAI's Grok Voice Think Fast 1.0 is the clear leader at 52.1%, averaging 5.6 minutes per conversation, the second-longest overall. OpenAI's GPT-Realtime-2 (High) (39.8%, 3.0 min) and GPT-Realtime-1.5 (38.8%, 4.8 min) follow, with Gemini 3.1 Flash Live Preview - High close behind at 37.7% (3.8 min).\n\nSpeech to Speech is a fast evolving modality and we expect movement in rankings as we continue to add new models with these capabilities, and model robustness improves.\n\nCongratulations @xAI @elonmusk! See below for further detail ⬇️\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2054234919887573292#m",
+      "link": "https://nitter.net/elonmusk/status/2054300779713007966#m",
+      "date": "Tue, 12 May 2026 20:40:47 GMT"
+    },
+    {
+      "text": "Grok just completely changed the game for real-time financial research.\n\nWe just got the preview to \"Grok Skills,\" and they look 10x more powerful than Claude Skills.\n\nIn seconds, you can create workflows that keep you up to date on the latest financial news, analysis & more - directly sourced from the best accounts on 𝕏:\n\n(works for all niches btw)\n\nVideo",
+      "link": "https://nitter.net/milesdeutscher/status/2053950861177704748#m",
+      "date": "Mon, 11 May 2026 21:30:20 GMT"
+    },
+    {
+      "text": "Grok Imagine now has dramatically improved lip sync and sharper audio quality on all image-to-video generations.\n\nDialogue tracks the mouth. Sound matches the scene. Your videos look and sound the way you imagined them.\n\nTry it today in the Grok app",
+      "link": "https://nitter.net/grok/status/2048134048002814068#m",
+      "date": "Sat, 25 Apr 2026 20:16:24 GMT"
+    },
+    {
+      "text": "It should be possible for a third party to generate the same results if they had the same data and we will need to be audited by credible outside companies for the public to believe us",
+      "link": "https://nitter.net/elonmusk/status/2054297785474933179#m",
+      "date": "Tue, 12 May 2026 20:28:53 GMT"
+    },
+    {
+      "text": "Starlink is now onboard @GulfAir \n\nExperience seamless streaming, gaming, and scrolling from gate to gate 🛰️✈️\n\n\nGulf Air (@GulfAir)\n\nWe just made history. ✈️🌐\n\nGulf Air’s first @Starlink flight just took off.\n\nFull internet. Complimentary. One-click. Gate to gate.\n\nWelcome to the future of flying.\n\n#GulfAir #Starlink\n\n\n\n\n\n— https://nitter.net/GulfAir/status/2054264449658159128#m",
+      "link": "https://nitter.net/Starlink/status/2054271296939454614#m",
+      "date": "Tue, 12 May 2026 18:43:38 GMT"
+    },
+    {
+      "text": "To give people confidence that we are not secretly manipulating the 𝕏 recommendations, it is critical that we open source anything that influences what people are shown",
+      "link": "https://nitter.net/elonmusk/status/2054297431551136198#m",
+      "date": "Tue, 12 May 2026 20:27:29 GMT"
+    },
+    {
+      "text": "SpaceX is considering several locations domestically and internationally to build the world’s most advanced spaceports!\n\n\nSpaceX (@SpaceX)\n\nIt’s no secret that we intend to launch Starship a lot, targeting thousands of flights per year. That cadence will require the ability to launch from many different locations, so we are constantly exploring to find viable sites to expand Starship operations in the future, both domestically and internationally\n\n\n\n— https://nitter.net/SpaceX/status/2054295243122717105#m",
+      "link": "https://nitter.net/elonmusk/status/2054296312229863896#m",
+      "date": "Tue, 12 May 2026 20:23:02 GMT"
+    },
+    {
+      "text": "SpaceX has just received FCC approval to acquire ~65 MHz of nationwide spectrum from EchoStar for the company's next-gen direct-to-device @Starlink Mobile service.\n\nThe FCC says the deal gives SpaceX “exclusive-use, contiguous spectrum nationwide” for direct-to-phone connectivity from orbit.\n\nNext-gen Starlink Mobile is going to be incredible, enabling 5G speeds from space in the middle of nowhere.",
+      "link": "https://nitter.net/SawyerMerritt/status/2054287104893464664#m",
+      "date": "Tue, 12 May 2026 19:46:27 GMT"
+    },
+    {
+      "text": "Try Grok Voice\n\n\nX Freeze (@XFreeze)\n\nGrok Voice Think Fast 1.0 ranks #1 on the Artificial Analysis τ-Voice benchmark for real-world agentic customer service resolution\n\nAbsolutely outperforming GPT-Realtime-2 (High) and Gemini 3.1 Flash by a huge margin\n\nThat's a massive 12%+ lead over OpenAI's best model that just released a few days ago\n\nGrok is running real-time background reasoning without the latency penalty, which is why it is already handling live Starlink phone operations autonomously at scale\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2054263072681025582#m",
+      "link": "https://nitter.net/elonmusk/status/2054291457314628087#m",
+      "date": "Tue, 12 May 2026 20:03:44 GMT"
+    },
+    {
+      "text": "For a driver born without arms, FSD Supervised is life-changing accessibility\n\n“I was born without arms and have driven with my feet my entire life. I’m a fully licensed driver, and traditionally I drove with my left foot on the steering wheel and my right foot handling the gas and brake. My only legal restrictions are automatic transmission and power steering.\n\nOver the years, though, the strain from my congenital birth defects has led to significant arthritis in my hips. I drove a Model 3 for the past seven years, and it honestly helped extend my independence in a huge way.\n\nRecently upgrading to the Model Y – along with Full Self-Driving – has been a complete game changer for me.\n\nIt dramatically reduces the physical pressure and fatigue of driving and has helped preserve a level of freedom and mobility that means a great deal to me.\n\nMost people understandably think of Tesla in terms of innovation or sustainability, but for some of us, this technology truly becomes life-changing accessibility.”\n– John F.",
+      "link": "https://nitter.net/Tesla/status/2054253402163486804#m",
+      "date": "Tue, 12 May 2026 17:32:31 GMT"
+    },
+    {
+      "text": "🇺🇸🇺🇸\n\n\nGad Saad (@GadSaad)\n\nIt is impossible to overestimate the historic importance of @elonmusk purchasing this platform.  He saved freedom of speech. He saved truth.\n\n\n\n— https://nitter.net/GadSaad/status/2054236133656342706#m",
+      "link": "https://nitter.net/elonmusk/status/2054238640243622236#m",
+      "date": "Tue, 12 May 2026 16:33:52 GMT"
+    },
+    {
+      "text": "AfD bei 28%, inzwischen hat sich der Abstand zur Union (22%) auf 6 Punkte vergrößert. Gleichzeitig sinkt auch das Verständnis für die \"Brandmauer\". Deutschland will den Wandel - wir sind dafür bereit.",
+      "link": "https://nitter.net/Alice_Weidel/status/2054225200846110780#m",
+      "date": "Tue, 12 May 2026 15:40:28 GMT"
+    },
     {
       "text": "It’s release day!!! Suicidal Empathy is out into the world.\n\n\nGad Saad (@GadSaad)\n\nIn less than 24 hours, the long wait will be over. Suicidal Empathy to be released tomorrow! \n\namazon.com/gp/aw/d/006344653…\n\n\n\n— https://nitter.net/GadSaad/status/2053868171002781818#m",
       "link": "https://nitter.net/GadSaad/status/2054157921143926898#m",
@@ -32,76 +102,6 @@
       "text": "Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-172 mission from pad 4E in California  nitter.net/i/broadcasts/1AKEmOQmW…",
       "link": "https://nitter.net/SpaceX/status/2054019305378123821#m",
       "date": "Tue, 12 May 2026 02:02:18 GMT"
-    },
-    {
-      "text": "Last week, the United States refused to participate in the UN’s review of the Global Compact on Migration.\n\nThe United States objects to the Global Compact on Migration and UN efforts to facilitate replacement migration to the United States and our Western allies.",
-      "link": "https://nitter.net/StateDept/status/2053907251073782181#m",
-      "date": "Mon, 11 May 2026 18:37:03 GMT"
-    },
-    {
-      "text": "Falcon 9 is vertical at pad 40 in Florida ahead of tomorrow’s launch of Dragon’s 34th Commercial Resupply Services mission to the @Space_Station. Teams are keeping an eye on weather, which is currently 35% favorable for liftoff→ spacex.com/launches/crs-34",
-      "link": "https://nitter.net/SpaceX/status/2053986997975298559#m",
-      "date": "Mon, 11 May 2026 23:53:56 GMT"
-    },
-    {
-      "text": "Launch rehearsal complete. During a flight-like countdown, more than 5,000 metric tonnes (11+ million pounds) of propellant were loaded on the fully stacked Starship and Super Heavy V3 vehicles for the first time",
-      "link": "https://nitter.net/SpaceX/status/2053929135936864393#m",
-      "date": "Mon, 11 May 2026 20:04:00 GMT"
-    },
-    {
-      "text": "Such hypocrisy\n\n\nThe Rational Animal 🤔 (@theobjectivist)\n\nSame move. Same hand on the heart, same wave to the crowd. Musk did it and gets called a Nazi to this day. Mamdani does it and those same people have not said a word.\n\nWell, not exactly. Once the side by side clips went viral, some of them did speak up. Not to apologize to Musk. To defend Mamdani.\n\nSuddenly the gesture is not the gesture. Suddenly we need to talk about arm speed. Whether the fingers wiggled at the end. Whether he was smiling. Whether his grandparents were in the right party. A year ago none of that mattered. The hand went up, the verdict came down. Now we get a forensic seminar on millimeters and microseconds to prove Mamdani's arm moved slower.\n\nMamdani's own press office said \"in no way was this a Nazi salute.\" Funny. Musk said the same thing. His did not count. Mamdani's did, instantly.\n\nThat tells you everything. The \"Nazi salute\" thing was never about the gesture. If it were, they would be screaming right now. They are not. It was about Musk. They hate him because he is the richest man in the world and he was attacking their ideological piggy bank with DOGE, so they smeared him.\n\nMamdani is on their team, so he gets a pass, plus a defense team running stopwatch analysis. Same hand, opposite verdict.\n\nA wave is a wave. The rule does not change based on who is waving. When it does, you are not watching principle. You are watching a hit job.\n\n\n\n— https://nitter.net/theobjectivist/status/2053637946641657964#m",
-      "link": "https://nitter.net/elonmusk/status/2053927640663257167#m",
-      "date": "Mon, 11 May 2026 19:58:04 GMT"
-    },
-    {
-      "text": "Maye Musk on Elon: He wants to leave the world in a better place than he found it\n\n“People often misunderstand Elon. He’s not motivated by money or fame—he’s motivated by the idea of improving humanity. \n\nWhether it’s making electric cars mainstream, reducing the risk of human extinction through space exploration, or ensuring the free flow of information on platforms like X, his goal has always been the same—to leave the world in a better place than he found it.”",
-      "link": "https://nitter.net/EvaFox/status/2053710278760476784#m",
-      "date": "Mon, 11 May 2026 05:34:21 GMT"
-    },
-    {
-      "text": "Starship’s cargo bay delivers 1,000+ cubic meters of usable volume\n\nThe entire International Space Station has a pressurized volume of 1,005 m³\nIt took 42 assembly flights and over $150 billion across 13+ years to build\nStarship can deliver more volume than the entire ISS in a single flight\n\nFor context, a single payload bay can hold:\n→ The interior volume of a massive 5-bedroom house\n→ The volume of 20+ standard shipping containers\n→ Entire space station modules (fully assembled)\n→ Over two dozen Cybertrucks\n→ Multiple Boeing 737 fuselage sections\n→ 100+ large satellites with room to spare\n\nAnd it is 18 meters tall....meaning you can stack an entire 5-story building inside it\n\nAnd it is fully reusable.\nLaunch the next massive telescope. Or an entire space station. Or the next Mars habitat\nAll possible in a single flight\n\nThis is why Starship is pure engineering magic",
-      "link": "https://nitter.net/XFreeze/status/2053813380587180342#m",
-      "date": "Mon, 11 May 2026 12:24:02 GMT"
-    },
-    {
-      "text": "Exactly\n\n\nSophieZX (@Z_XSophie)\n\nRemember how they lost their shit when Elon did this?\nNow it’s suddenly “my heart goes out to you” and everyone’s totally fine 😂\nThe rules change depending on who’s waving.\nClassic selective outrage.\n\n\n\n— https://nitter.net/Z_XSophie/status/2053727615916134537#m",
-      "link": "https://nitter.net/elonmusk/status/2053893462622171438#m",
-      "date": "Mon, 11 May 2026 17:42:15 GMT"
-    },
-    {
-      "text": "Worth reading\n\n\nGad Saad (@GadSaad)\n\nIn less than 24 hours, the long wait will be over. Suicidal Empathy to be released tomorrow! \n\namazon.com/gp/aw/d/006344653…\n\n\n\n— https://nitter.net/GadSaad/status/2053868171002781818#m",
-      "link": "https://nitter.net/elonmusk/status/2053893323446747173#m",
-      "date": "Mon, 11 May 2026 17:41:42 GMT"
-    },
-    {
-      "text": "Why is it always \"seize the means of production\" and never \"create the means of production\"?",
-      "link": "https://nitter.net/VerminusM/status/2053856878778585469#m",
-      "date": "Mon, 11 May 2026 15:16:53 GMT"
-    },
-    {
-      "text": "Grok just previewed “Skills” and it's so next level it's not even funny\n\nYou tell it: “Create a skill that grabs latest AI news from @testingcatalog”\n\n@Grok builds the WHOLE thing, behavior, instructions, files. Then just trigger it for clean daily updates\n\nVideo",
-      "link": "https://nitter.net/MarioNawfal/status/2053696031699923135#m",
-      "date": "Mon, 11 May 2026 04:37:44 GMT"
-    },
-    {
-      "text": "Jensen Huang: \"I was lucky because I had known Elon Musk, and I helped him build the first computer for Model 3, the Model S, and when he wanted to start working on autonomous vehicle.\"\n\nVideo",
-      "link": "https://nitter.net/joeroganhq/status/2053535541262778631#m",
-      "date": "Sun, 10 May 2026 18:00:00 GMT"
-    },
-    {
-      "text": "Maye Musk on Elon’s early days:\n\n\"I knew he was a genius and a good person, so I knew he would want to do something good. I invested in Zip2 to keep them going\n\nOn my 50th birthday, they gave me a little toy house and a little toy car and said, 'We're going to give you one day!' We were all struggling… but after they sold Zip2, I got a real home and a real car\" ❤️\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\n❤️❤️ Happy Mother’s Day ❤️❤️\n\nAppreciation to mothers everywhere who brought us all into the world and nurtured their beloved children 🥰\n\n\n\n— https://nitter.net/elonmusk/status/2053586034743705773#m",
-      "link": "https://nitter.net/XFreeze/status/2053602292046385264#m",
-      "date": "Sun, 10 May 2026 22:25:15 GMT"
-    },
-    {
-      "text": "Everyone knows about the 300 Spartans at Thermopylae.\n\nAlmost nothing they know is the full story.\n\nStart with the number. There weren't 300 Greeks at that pass. There were around 7,000. Spartans, Thespians, Thebans, Phocians, Locrians, Arcadians, Corinthians. Citizen-soldiers from across Greece who marched north knowing they'd be facing the largest army the ancient world had ever assembled.\n\nThe 300 is just the headline. The ones who stayed to the end.\n\nNow the men themselves. King Leonidas wasn't some chiseled 30-year-old. He was roughly 60 years old when he led that march. And the 300 he picked weren't his strongest warriors. They were specifically men who already had living sons. Spartan law demanded it. Leonidas wasn't choosing an army. He was choosing men whose bloodlines could survive their deaths. Every one of them knew what that meant before they ever saw a Persian.\n\nThey marched anyway.\n\nAnd they didn't march alone in the way movies suggest. Each Spartan citizen-soldier was accompanied by helots, the enslaved underclass that propped up the entire Spartan economy, outnumbering their masters roughly seven to one. Hundreds of helots fought and died at Thermopylae too. They get no statues. No films. No name on the monument.\n\nThe pass itself was barely 15 meters wide in 480 BC (it's silted up now and looks nothing like it did then). That bottleneck is the only reason a few thousand men could hold off a Persian force modern historians estimate at 70,000 to 300,000. Herodotus said 1.7 million. He was lying, or possibly counting cooks, slaves, and camp followers, but even the conservative number is staggering.\n\nFor two days, they held. Wave after wave broken against bronze and discipline. Xerxes reportedly leapt from his throne three times in fury watching his men die. He sent in the Immortals, his elite personal guard, supposedly invincible. They weren't. Not in that pass.\n\nThen the Greeks were betrayed.\n\nA local man named Ephialtes, whose name still means \"nightmare\" in modern Greek, sold the Persians a goat path through the mountains that flanked the pass. The Phocians assigned to guard it scattered when the Immortals appeared in the dawn fog. Leonidas knew by morning he was surrounded.\n\nHe dismissed most of the allied Greek forces. Saved their lives. But here's what almost nobody talks about: roughly 700 Thespians, led by a man named Demophilus, refused to leave. They were citizen-farmers from a small town that knew Persia was coming for them next no matter what. They chose to die beside the Spartans rather than run. About 400 Thebans stayed too, though their motives were murkier and many surrendered when the end came.\n\nSo the \"last stand of the 300\" was actually closer to 1,500 men. The Thespians died to the last. Their town was burned to the ground by the Persians weeks later anyway. They're a footnote in a story that should bear their name.\n\nThe final fight happened on a small hill called Kolonos. Spears shattered. Swords broken. Herodotus says they fought with hands and teeth at the end. Leonidas fell early, and the Spartans fought four times over his body to keep the Persians from taking it.\n\nThey lost.\n\nXerxes had Leonidas decapitated and his body crucified, a violation of Persian custom so extreme it tells you exactly how badly that old man had humiliated the king of kings. Forty years later, Sparta sent a delegation to recover his bones and bring him home.\n\nTwo Spartans survived the battle. One, Aristodemus, had been sent away with an eye infection. He returned to Sparta and was treated as a coward, shunned, refused fire, refused conversation, until he threw himself into the front line at Plataea a year later and died seeking redemption. The other survivor, Pantites, was sent on a diplomatic errand and missed the fight. He hanged himself from the shame.\n\nThat's the world they lived in.\n\nThe epitaph carved at the site doesn't brag. It doesn't even mention victory, because there wasn't one. Roughly translated, it just asks the traveler to tell Sparta that her sons died here, obedient to her laws.\n\nA small group of farmers, an old king, an enslaved underclass written out of history, and a town that vanished from the map. Together, for three days in August of 480 BC, they did the math on freedom and decided the price was worth it.\n\nWe remember 300 of them.\n\nThere were always more.",
-      "link": "https://nitter.net/AncientHistorry/status/2053534300981891200#m",
-      "date": "Sun, 10 May 2026 17:55:04 GMT"
-    },
-    {
-      "text": "Happy Mother’s Day, Love E\n\n\nMaye Musk (@mayemusk)\n\nThank you for the Happy Mother’s Day flowers 🌺 Love m\n\n\n\n\n\n— https://nitter.net/mayemusk/status/2053590581931114715#m",
-      "link": "https://nitter.net/elonmusk/status/2053599965994504240#m",
-      "date": "Sun, 10 May 2026 22:16:00 GMT"
     }
   ]
 }
