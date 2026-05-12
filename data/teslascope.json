@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-12T03:43:38Z",
+  "updated_at": "2026-05-12T08:47:40Z",
   "count": 17,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.8.200 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
+      "link": "https://nitter.net/teslascope/status/2054071877228712000#m",
+      "date": "Tue, 12 May 2026 05:31:12 GMT"
+    },
     {
       "text": "Our own HW3 vehicle (a 2018 Model 3 Performance) is also included in this initial wave.\n\nWe've received several reports that this download was initiated over cellular, suggesting it contains critical security fixes. AI4 vehicles on 2026.2.9.10 will receive these fixes very soon.",
       "link": "https://nitter.net/teslascope/status/2054026163333542105#m",
@@ -82,11 +87,6 @@
       "text": "Software updates will automatically appear as you type, making it easy to discover other updates.\n\nWe'll continue to improve this tool in the coming days, but as always, please let us know if you have any feedback or suggestions!",
       "link": "https://nitter.net/teslascope/status/2052090972155363658#m",
       "date": "Wed, 06 May 2026 18:19:48 GMT"
-    },
-    {
-      "text": "You can also learn more about recent rollouts at a glance, such as how recently each update was received by any vehicle, and the distribution of AI4, HW3, and older configurations.\n\nAs always, these features are provided entirely for free, forever. Enjoy!\n\ntsla.is/s/2026.2.9.1/2026.2.…",
-      "link": "https://nitter.net/teslascope/status/2052088817545556263#m",
-      "date": "Wed, 06 May 2026 18:11:14 GMT"
     }
   ]
 }

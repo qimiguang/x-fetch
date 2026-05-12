@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-12T03:43:57Z",
+  "updated_at": "2026-05-12T08:47:59Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "76.7% now.\n\n\n\n\nRaines (@raines1220)\n\n61.1% of Robotaxi rides in Austin over the past 7 days were unsupervised. The 30-day rate is 37.2%, and the 90-day rate is 17.9%. It is pretty clear that Austin Robotaxi will soon be fully unsupervised.\n\nWhen the next NHTSA crash report is released, I strongly suspect it will, for the first time, show “safer-than-human” statistics. It may not reach the level (5x–10x?) where you can confidently deploy unsupervised Robotaxi anywhere without a geofence, but it may be enough to show that it is slightly safer (~1.5x–3x) than human driving.\n\nIf that is true, you know what that means? Since the model is unified across Robotaxi, FSD, and Summon, it is reasonable to assume that our “supervised FSD” has equivalent safety. That means even if we sit in the back seat, our car would still drive more safely than the average human.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2053039575560548695#m",
+      "link": "https://nitter.net/raines1220/status/2054117701204021320#m",
+      "date": "Tue, 12 May 2026 08:33:18 GMT"
+    },
     {
       "text": "v14.3.2 is the first version where my reaction is no longer, “Wow, that feels very human-like.” Now it is more like, “Wow, a human could never do that.”\n\nUsually, I try to understand the “personality” of an FSD version. Is it chill? Is it too dramatic? Is it overly cautious? But v14.3.2 feels different. It almost has two personalities.\n\nIn normal daily driving, it is smooth, natural, and human-like, almost like a friend driving you around. But when an emergency happens, it no longer feels like a friend. It becomes something else: a cold-blooded machine. Calm, smart, and fast. It handles dangerous situations correctly before a human even fully understands what is happening.\n\nThat is why it feels trustworthy, but also kind of “scarily capable.” In certain aspects of driving, it is already more capable than even the best human drivers. And honestly, v14.3.2 is the first version that makes me seriously think FSD could save millions of lives that human drivers would never be able to save.",
       "link": "https://nitter.net/raines1220/status/2053057516062580943#m",
@@ -54,24 +59,24 @@
       "date": "Thu, 30 Apr 2026 06:50:04 GMT"
     },
     {
-      "text": "Note: the chart is community-reported. It does not represent the entire fleet.",
-      "link": "https://nitter.net/raines1220/status/2049740844794822707#m",
-      "date": "Thu, 30 Apr 2026 06:41:14 GMT"
-    },
-    {
       "text": "years later, when you look back, you won’t conclude that Robotaxi scaled too slowly. you’ll only complain that you sold too soon.",
       "link": "https://nitter.net/raines1220/status/2049740772501778535#m",
       "date": "Thu, 30 Apr 2026 06:40:57 GMT"
     },
     {
-      "text": "FSD 14.2.2.5 will be disengaged every 11 city miles. Does this sound correct to you? @EliasMartinez",
-      "link": "https://nitter.net/raines1220/status/2049737262464967161#m",
-      "date": "Thu, 30 Apr 2026 06:27:00 GMT"
+      "text": "Note: the chart is community-reported. It does not represent the entire fleet.",
+      "link": "https://nitter.net/raines1220/status/2049740844794822707#m",
+      "date": "Thu, 30 Apr 2026 06:41:14 GMT"
     },
     {
       "text": "FSD 14.2.2.5 has only logged 7 critical disengagements from 90,778 miles (4 for traffic control and 3 for obstacles). The miles per critical disengagement should be 12,968, not 1,134.@EliasMartinez plz explain this to me. Why?",
       "link": "https://nitter.net/raines1220/status/2049736569066864812#m",
       "date": "Thu, 30 Apr 2026 06:24:14 GMT"
+    },
+    {
+      "text": "FSD 14.2.2.5 will be disengaged every 11 city miles. Does this sound correct to you? @EliasMartinez",
+      "link": "https://nitter.net/raines1220/status/2049737262464967161#m",
+      "date": "Thu, 30 Apr 2026 06:27:00 GMT"
     },
     {
       "text": "People just don’t realize that if you check TeslaFSDTracker.com, FSD v14.3 has logged zero critical disengagements across 387 entries, 14 testers, 8 states/provinces, and 5,557 miles.",
@@ -92,11 +97,6 @@
       "text": "Tesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.\n\n\nZack (@BLKMDL3)\n\n600 miles in with FSD v14.3 already and here are my thoughts:\n\nThe improved reaction time is immediately noticeable and definitely quicker than a human could react. Yesterday a semi truck swerved fast into my lane and the car reacted insanely quickly to get me around them. Tesla says it’s 20% quicker but feels more than that- and it was already extremely good. \n\nI’ll start by saying FSD was already so great with v14.2 that it’s sometimes hard to find new things, but there some huge apparent changes immediately noticeable with v14.3. To those who think it’s not a big improvement over v14.2.x+, you’ll be very impressed and especially with some more polish. The reinforcement learning upgrades and thinking are noticeable. \n\nParking is where you immediately notice some changes. In the release notes it says that parking is quicker and more decisive and it’s true. It has picked spots closer and quicker to the selected pin. My Y isn’t showing the new P pin graphic for parking pin for some reason, but it’s definitely parking closer than before with more thought to it. Looking forward to eventually getting more options to hopefully park either closer or further away from people.  \n\nFor the very first v14.3+ build, I have to say it’s pretty polished. The only gripe I have is the way it won’t get out of the left lane soon enough on highways. It likes to cruise in the left lane which isn’t ideal, it’s gotten better but the addition of reduction in unnecessary lane changes needs to be dialed back a bit. \n\nLane changes are a huge plus with this build and they are quick, decisive and executed very well, smooth as butter too. Turn signals come on at way better times now in parking lots and at the perfect time on the road. \n\nI was lucky enough to get the update with 600 miles left of my 1800 mile Oregon road trip, so I pulled over to install it so I could get as much experience as possible with it to share with you all. So far 600+ miles in, I’m impressed. A few rough edges with the left lane behavior and the last few inches of parking are a bit slow 1/5 times until it puts it into park but with a point release update everything should be dialed in. The 350 mile drive home today from the Bay Area had zero intervention including all parking and charging. \n\nOne thing I would love to see implemented is a reset button for the FSD stats page. Would be cool to have a specific trip meter for FSD stats on Trip A/B or make your own trip. I’ve been hinting at a pretty cool road trip next month with my 2025 Model 3 so it would be cool to have a reset for that.\n\nSpeed control seems good on highways, it’s matching traffic speed great. Braking is very impressive for sudden slowdowns, had a big one in San Jose last night it did a great job with from 80-10mph. \n\nHUGE improvements with stop sign behavior. The acceleration and deceleration are way smoother than before, much more pleasant. Mad Max takes off strong but again, a better curve than before. Mad Max is also polished a bit and feels great. FSD v14.3 did a great job in LA traffic once I got back and will go out this evening to film videos for everyone on my normal test loops. Let me know if there’s anything specific I should try or check out. \n\nCan’t wait to see how v14.3+ progresses especially with the upgraded reasoning coming to all scenarios soon. Some awesome additions here. \n\nTHANK YOU everyone @Tesla_AI for all the hard work getting this update out. More videos to come.\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2042036635882418353#m",
       "link": "https://nitter.net/elonmusk/status/2042080823332258302#m",
       "date": "Thu, 09 Apr 2026 03:23:02 GMT"
-    },
-    {
-      "text": "Currently, I’d bet that FSD has already learned all the strategies for all scenarios, so all the “smart moves” you see on v14.3 will occasionally also be seen on v14.2 and earlier versions.\n\nThe issue is that the probability of the correct strategy is not always the highest, so it does not always get chosen. That means you cannot always reproduce those “highlight” moments.\n\nAn upgraded RL will mostly help re-sort those strategies so that better strategies have a higher chance of being chosen, resulting in more stable, predictable behavior. In other words, you’ll see those “highlights” more often with FSD v14.3.",
-      "link": "https://nitter.net/raines1220/status/2041704210425901461#m",
-      "date": "Wed, 08 Apr 2026 02:26:31 GMT"
     }
   ]
 }
