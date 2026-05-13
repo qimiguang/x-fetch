@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-12T22:16:08Z",
+  "updated_at": "2026-05-13T03:53:34Z",
   "count": 17,
   "tweets": [
+    {
+      "text": "Full blog post on our platform can be found here:\n\nteslascope.com/blog/6.3",
+      "link": "https://nitter.net/teslascope/status/2054381358789902793#m",
+      "date": "Wed, 13 May 2026 02:00:59 GMT"
+    },
+    {
+      "text": "It's been a productive week, and we're pleased to announce the release of Teslascope V6.3!\n\nAs X is discontinuing Communities (per @nikitabier), we'll share major updates to our platform here from time to time.\n\n1️⃣ We launched early access for our iOS app, via @vehiclescope! 🎉 (invite details in the following post)\n\n2️⃣ You can now sign in with your Apple Account by associating your Apple ID via Account > Integrations. This will also be used to send out invites to our Plus and Pro subscribers in the following weeks.\n\n3️⃣ You can now subscribe without an attached payment method, as long as you have enough credit for the subscription. Subscriptions will automatically pause if there's not enough credit for the renewal.\n\n4️⃣ Added a Vehicle Activity Developer API (combines drives and charges, with more events coming soon!)\n\n5️⃣ Certain vehicle statuses (such as lock status) now update within seconds.\n\n6️⃣ Improved Vehicle Controls to be more performant and reduce wait times.\n\n7️⃣ Improved support for vehicles with special characters and letter modifiers.\n\nAdditional improvements are underway for the remainder of May.",
+      "link": "https://nitter.net/teslascope/status/2054381357200249108#m",
+      "date": "Wed, 13 May 2026 02:00:58 GMT"
+    },
+    {
+      "text": "Tesla 2026.14.6 rolling out to vehicles @teslascope",
+      "link": "https://nitter.net/RealTeslaNorth/status/2054347029657358591#m",
+      "date": "Tue, 12 May 2026 23:44:34 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.8.200 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
       "link": "https://nitter.net/teslascope/status/2054071877228712000#m",
@@ -72,21 +87,6 @@
       "text": "Usage of FSD V14.3.2 is looking great on 2026.2.9.10:\n\n37.5% of drivers use FSD, and it is activated for an average of 88.8% of each drive.\n\nIn 2026.2.9.1 (V14.2.2.5), FSD was used by 22.2% of drivers, at 86.6% self-driven.\n\nA 0.7x increase in utilization is a fantastic sign.",
       "link": "https://nitter.net/teslascope/status/2052101775747137805#m",
       "date": "Wed, 06 May 2026 19:02:44 GMT"
-    },
-    {
-      "text": "All three official next-gen Tesla Roadster logos/wordmarks.",
-      "link": "https://nitter.net/SawyerMerritt/status/2051819574388035802#m",
-      "date": "Wed, 06 May 2026 00:21:22 GMT"
-    },
-    {
-      "text": "Tesla is really stepping up the visuals in its new tutorial videos.\n\nVideo",
-      "link": "https://nitter.net/SawyerMerritt/status/2052091618753118560#m",
-      "date": "Wed, 06 May 2026 18:22:22 GMT"
-    },
-    {
-      "text": "Software updates will automatically appear as you type, making it easy to discover other updates.\n\nWe'll continue to improve this tool in the coming days, but as always, please let us know if you have any feedback or suggestions!",
-      "link": "https://nitter.net/teslascope/status/2052090972155363658#m",
-      "date": "Wed, 06 May 2026 18:19:48 GMT"
     }
   ]
 }

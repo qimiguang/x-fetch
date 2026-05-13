@@ -1,6 +1,6 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-12T22:16:27Z",
+  "updated_at": "2026-05-13T03:53:52Z",
   "count": 19,
   "tweets": [
     {
@@ -59,24 +59,24 @@
       "date": "Thu, 30 Apr 2026 06:50:04 GMT"
     },
     {
-      "text": "Note: the chart is community-reported. It does not represent the entire fleet.",
-      "link": "https://nitter.net/raines1220/status/2049740844794822707#m",
-      "date": "Thu, 30 Apr 2026 06:41:14 GMT"
-    },
-    {
       "text": "years later, when you look back, you won’t conclude that Robotaxi scaled too slowly. you’ll only complain that you sold too soon.",
       "link": "https://nitter.net/raines1220/status/2049740772501778535#m",
       "date": "Thu, 30 Apr 2026 06:40:57 GMT"
     },
     {
-      "text": "FSD 14.2.2.5 will be disengaged every 11 city miles. Does this sound correct to you? @EliasMartinez",
-      "link": "https://nitter.net/raines1220/status/2049737262464967161#m",
-      "date": "Thu, 30 Apr 2026 06:27:00 GMT"
+      "text": "Note: the chart is community-reported. It does not represent the entire fleet.",
+      "link": "https://nitter.net/raines1220/status/2049740844794822707#m",
+      "date": "Thu, 30 Apr 2026 06:41:14 GMT"
     },
     {
       "text": "FSD 14.2.2.5 has only logged 7 critical disengagements from 90,778 miles (4 for traffic control and 3 for obstacles). The miles per critical disengagement should be 12,968, not 1,134.@EliasMartinez plz explain this to me. Why?",
       "link": "https://nitter.net/raines1220/status/2049736569066864812#m",
       "date": "Thu, 30 Apr 2026 06:24:14 GMT"
+    },
+    {
+      "text": "FSD 14.2.2.5 will be disengaged every 11 city miles. Does this sound correct to you? @EliasMartinez",
+      "link": "https://nitter.net/raines1220/status/2049737262464967161#m",
+      "date": "Thu, 30 Apr 2026 06:27:00 GMT"
     },
     {
       "text": "People just don’t realize that if you check TeslaFSDTracker.com, FSD v14.3 has logged zero critical disengagements across 387 entries, 14 testers, 8 states/provinces, and 5,557 miles.",
