@@ -1,12 +1,12 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-13T11:32:38Z",
-  "count": 20,
+  "updated_at": "2026-05-13T20:02:19Z",
+  "count": 19,
   "tweets": [
     {
-      "text": "Christopher Nolan on Homer’s grave\n\nVideo",
-      "link": "https://nitter.net/magills_/status/2054240165476888937#m",
-      "date": "Tue, 12 May 2026 16:39:56 GMT"
+      "text": "True\n\n\nC3 (@C_3C_3)\n\nTo be eligible to win Best Picture at the Oscars…\n\n1. At least 1 Non-White/Non-Straight lead or Significant Role.\n\n2. At least 30% minor roles Non-White/Non-Straight people.\n\n3. At least 2 Departments headed by Non-White/Non-Straight people.\n\nThis is why Nolan did it.\n\nCoward.\n\n\n\n\n\n— https://nitter.net/C_3C_3/status/2054542086259573065#m",
+      "link": "https://nitter.net/elonmusk/status/2054579507697504446#m",
+      "date": "Wed, 13 May 2026 15:08:21 GMT"
     },
     {
       "text": "On my way to Beijing in Air Force One",
@@ -97,11 +97,6 @@
       "text": "Grok now has skills\n\n\nTech Dev Notes (@techdevnotes)\n\nSkills in Grok Web can be used by typing /\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2053988976147431834#m",
       "link": "https://nitter.net/elonmusk/status/2054302172976959902#m",
       "date": "Tue, 12 May 2026 20:46:19 GMT"
-    },
-    {
-      "text": "Grok Voice is #1!\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nAnnouncing agentic performance benchmarking for Speech to Speech models on Artificial Analysis. We use 𝜏-Voice to measure tool calling and customer interaction voice agent capabilities in realistic customer service scenarios\n\nEven the strongest Speech to Speech (S2S) models today resolve only about half of realistic customer service scenarios end-to-end - a meaningful gap relative to frontier text-based agents on the same tasks. Voice channels introduce significant complexity: challenging accents, background noise, and packet loss, all while requiring fast responses, consistency across long multi-turn conversations, and reliable tool use. Performance also varies considerably by audio condition: in clean audio some models perform notably better, but realistic conditions continue to pose a challenge. Conversation duration also varies meaningfully across models, with implications for both customer experience and operational cost.\n\nAbout 𝜏-Voice:\nOur Agentic Performance benchmark is based on 𝜏-Voice (Ray, Dhandhania, Barres & Narasimhan, 2026), which extends 𝜏²-bench into the voice modality to evaluate S2S models on realistic customer service tasks. It measures multi-turn instruction following, support of a simulated customer through a complete interaction, and tool use against simulated customer service systems. The simulated user combines an LLM-driven decision model with realistic audio synthesis: diverse accents, background noise, and packet loss modelled on real network conditions.\n\nThis complements our Big Bench Audio benchmark measuring intelligence and Conversational Dynamics (Full Duplex Bench subset) benchmark measuring conversational naturalness. Scores are the average of three independent pass@1 trials. We evaluate under realistic audio conditions using the 𝜏²-bench base task split across three domains:\n➤ Airline (50 scenarios): e.g., changing a flight, rebooking under policy constraints\n➤ Retail (114 scenarios): e.g., disputing a charge, processing a return\n➤ Telecom (114 scenarios): e.g., resolving a billing issue, troubleshooting a service problem\n\nTask success is determined by deterministic checks against expected actions and final database state, consistent with the 𝜏²-bench evaluator.\n\nKey results:\nxAI's Grok Voice Think Fast 1.0 is the clear leader at 52.1%, averaging 5.6 minutes per conversation, the second-longest overall. OpenAI's GPT-Realtime-2 (High) (39.8%, 3.0 min) and GPT-Realtime-1.5 (38.8%, 4.8 min) follow, with Gemini 3.1 Flash Live Preview - High close behind at 37.7% (3.8 min).\n\nSpeech to Speech is a fast evolving modality and we expect movement in rankings as we continue to add new models with these capabilities, and model robustness improves.\n\nCongratulations @xAI @elonmusk! See below for further detail ⬇️\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2054234919887573292#m",
-      "link": "https://nitter.net/elonmusk/status/2054300779713007966#m",
-      "date": "Tue, 12 May 2026 20:40:47 GMT"
     }
   ]
 }
