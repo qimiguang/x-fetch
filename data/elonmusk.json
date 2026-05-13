@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-13T20:02:19Z",
+  "updated_at": "2026-05-13T22:17:51Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Starlink is the top reason to fly United.\n\nIt immediately makes every flight ten times better *and it's free*.",
+      "link": "https://nitter.net/cremieuxrecueil/status/2054642452502311415#m",
+      "date": "Wed, 13 May 2026 19:18:28 GMT"
+    },
+    {
+      "text": "Less than one hour until Falcon 9’s launch of Dragon’s 34th Commercial Resupply Services mission to the @Space_Station. Teams continue to monitor weather, which is currently 10% favorable for liftoff at 6:50 p.m. ET → spacex.com/launches/crs-34",
+      "link": "https://nitter.net/SpaceX/status/2054681434674118911#m",
+      "date": "Wed, 13 May 2026 21:53:22 GMT"
+    },
     {
       "text": "True\n\n\nC3 (@C_3C_3)\n\nTo be eligible to win Best Picture at the Oscars…\n\n1. At least 1 Non-White/Non-Straight lead or Significant Role.\n\n2. At least 30% minor roles Non-White/Non-Straight people.\n\n3. At least 2 Departments headed by Non-White/Non-Straight people.\n\nThis is why Nolan did it.\n\nCoward.\n\n\n\n\n\n— https://nitter.net/C_3C_3/status/2054542086259573065#m",
       "link": "https://nitter.net/elonmusk/status/2054579507697504446#m",
@@ -87,16 +97,6 @@
       "text": "I have friends who never touch the wheel anymore because of it",
       "link": "https://nitter.net/RonDeSantis/status/2054303774705852436#m",
       "date": "Tue, 12 May 2026 20:52:41 GMT"
-    },
-    {
-      "text": "xAI is rolling out Skills on grok.com.\n\nThis new feature lets you create custom skills that Grok can reuse across conversations. Skills run inside Grok’s sandbox environment, so they can edit files, use your Connectors (Gmail, GitHub, Notion, etc.), run code, or perform any repeatable task you define.\n\nOnce you create one, you simply tell Grok “use the [skill name] skill and do…” and it executes it instantly. You can also import skills.md files from other AI tools to bring them over quickly.\n\nIt turns Grok from a one-shot chat tool into a more persistent, customizable workspace. This is a huge upgrade for anyone who uses Grok regularly.\n\nVideo\n  \n\n\n\n\n️️️️ ️ᅠ‏️️️️ ️ᅠ️️️️ ️️️️️ ️ᅠ (@blankspeaker)\n\nxAI has rolled out Skills on grok.com.  You can create skills  to perform actions on groks sandbox computer to edit files, use connectors, or whatever you can think of and they can easily be used in future queries. \n\nJust say hey grok use the [skilll name] skill and do.....\n\nYou can also import skills.md files from other LLMs to easily import skills.\n\nThis is Great!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/blankspeaker/status/2053999785816805509#m",
-      "link": "https://nitter.net/myrhex/status/2054054077206552873#m",
-      "date": "Tue, 12 May 2026 04:20:29 GMT"
-    },
-    {
-      "text": "Grok now has skills\n\n\nTech Dev Notes (@techdevnotes)\n\nSkills in Grok Web can be used by typing /\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2053988976147431834#m",
-      "link": "https://nitter.net/elonmusk/status/2054302172976959902#m",
-      "date": "Tue, 12 May 2026 20:46:19 GMT"
     }
   ]
 }
