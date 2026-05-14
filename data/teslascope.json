@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-13T22:17:54Z",
-  "count": 17,
+  "updated_at": "2026-05-14T03:52:48Z",
+  "count": 14,
   "tweets": [
     {
       "text": "Full blog post on our platform can be found here:\n\nteslascope.com/blog/6.3",
@@ -72,21 +72,6 @@
       "text": "A new feature has been detected: Self-Driving App\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2052210370144579986#m",
       "date": "Thu, 07 May 2026 02:14:15 GMT"
-    },
-    {
-      "text": "Over a dozen different updates are receiving 2026.14.3.\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2052137565181149326#m",
-      "date": "Wed, 06 May 2026 21:24:57 GMT"
-    },
-    {
-      "text": "We're starting to see more vehicles receiving the Spring Update (2026.14.3) within the past five minutes, including a small number originating from factory builds.\n\nThis wave is still predominatly made up of HW3 vehicles, and AI4 vehicles without Full Self-Driving.\n\n\nAnonymou𝕏 (@anonymoux00)\n\nSpring update coming to a 2026.2.100 factory build car.\n\n@teslascope\n\n\n\n\n\n— https://nitter.net/anonymoux00/status/2052136591125082303#m",
-      "link": "https://nitter.net/teslascope/status/2052137563390173405#m",
-      "date": "Wed, 06 May 2026 21:24:56 GMT"
-    },
-    {
-      "text": "Usage of FSD V14.3.2 is looking great on 2026.2.9.10:\n\n37.5% of drivers use FSD, and it is activated for an average of 88.8% of each drive.\n\nIn 2026.2.9.1 (V14.2.2.5), FSD was used by 22.2% of drivers, at 86.6% self-driven.\n\nA 0.7x increase in utilization is a fantastic sign.",
-      "link": "https://nitter.net/teslascope/status/2052101775747137805#m",
-      "date": "Wed, 06 May 2026 19:02:44 GMT"
     }
   ]
 }
