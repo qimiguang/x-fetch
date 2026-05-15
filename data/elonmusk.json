@@ -1,13 +1,8 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-15T08:55:29Z",
+  "updated_at": "2026-05-15T11:24:48Z",
   "count": 20,
   "tweets": [
-    {
-      "text": "Try this early Grok Build (anything) beta and let us know what to improve. \n\nMuch appreciated!\n\n\nxAI (@xai)\n\nAn early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at x.ai/cli\n\n\n\n\n\n— https://nitter.net/xai/status/2054993285152989373#m",
-      "link": "https://nitter.net/elonmusk/status/2055008501722943750#m",
-      "date": "Thu, 14 May 2026 19:33:01 GMT"
-    },
     {
       "text": "Default is vim keybindings btw",
       "link": "https://nitter.net/elonmusk/status/2055161002694758679#m",
@@ -102,6 +97,11 @@
       "text": "this is an early beta. we still have much to improve, which is why its so exciting for people to start trying.\n\nthe goal is for Grok Build to be the best coding agent when it comes to solving real and difficult engineering problems.\n\n\nxAI (@xai)\n\nAn early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at x.ai/cli\n\n\n\n\n\n— https://nitter.net/xai/status/2054993285152989373#m",
       "link": "https://nitter.net/JasonBud/status/2054995169934774412#m",
       "date": "Thu, 14 May 2026 18:40:03 GMT"
+    },
+    {
+      "text": "Try it out!\n\n\nJason Ginsberg (@JasonBud)\n\nGrok Build is also a really great interface for running subagents, which it often uses to check its own work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JasonBud/status/2054997581328237035#m",
+      "link": "https://nitter.net/elonmusk/status/2055010674741526938#m",
+      "date": "Thu, 14 May 2026 19:41:39 GMT"
     }
   ]
 }
