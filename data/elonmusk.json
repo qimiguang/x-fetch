@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-15T11:24:48Z",
+  "updated_at": "2026-05-15T14:20:17Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "40 Grok Build agents tearing through C code in parallel. All supervised by DAD.\n\nDAD is a lightweight autonomous tmux supervisor for long-running Grok tasks. Built entirely in Grok Build.\n\n/dad \"your objective\" launches grok --yolo (the Son) and spins up two loops:\n\n2-min fast loop: nudges only when the Son is stuck, frozen, finished, or waiting. Hands off in Plan mode.\n\n12-min deep loop: re-reads the objective, pushes back if the Son lowers the bar, triggers /compact at ~50% context.\n\nRe-attachable. Walk back to a DAD-* window hours later and Dad rehydrates the loops.\n\nSet and forget. Dad watches, the Son works.\n\n\n\n\nxAI (@xai)\n\nAn early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at x.ai/cli\n\n\n\n\n\n— https://nitter.net/xai/status/2054993285152989373#m",
+      "link": "https://nitter.net/tetsuoai/status/2055212910146719773#m",
+      "date": "Fri, 15 May 2026 09:05:16 GMT"
+    },
+    {
+      "text": "𝕏 just open sourced the latest recommendation algorithm on GitHub\n\n𝕏 is the only major social platform in the world to publicly open source its core recommendation algorithm\n\nIt is by far the most transparent social platform in the world right now\n\ngithub.com/xai-org/x-algorit…",
+      "link": "https://nitter.net/XFreeze/status/2055282081391882423#m",
+      "date": "Fri, 15 May 2026 13:40:08 GMT"
+    },
+    {
+      "text": "The latest 𝕏 algorithm has been published to GitHub\ngithub.com/xai-org/x-algorit…",
+      "link": "https://nitter.net/elonmusk/status/2055277918633562153#m",
+      "date": "Fri, 15 May 2026 13:23:35 GMT"
+    },
+    {
+      "text": "Suicidal Empathy is now the #1 book in Canada across ALL books!  @HarperCollins @literaryeric",
+      "link": "https://nitter.net/GadSaad/status/2055241807546503204#m",
+      "date": "Fri, 15 May 2026 11:00:06 GMT"
+    },
     {
       "text": "Default is vim keybindings btw",
       "link": "https://nitter.net/elonmusk/status/2055161002694758679#m",
@@ -82,26 +102,6 @@
       "text": "xAI just released Grok Build CLI and it’s a game changer for developers\n\nGrok Build is a powerful AI coding agent and CLI built for professional software engineering and complex coding workflows running directly in your terminal\n\nWith Grok Build CLI, you can:\n- Plan and review tasks before execution with clean diffs\n- Run multiple sub-agents in parallel for large projects\n- Use headless mode for automation and scripting\n- Seamlessly work with your existing tools and setups\n\nThis is xAI going all-in on giving power users real engineering tools\n\nCurrently in early beta and exclusively available for SuperGrok Heavy subscribers\n\nIf you’re on SuperGrok Heavy, you can start using it right now\n\nCheck it out here: \nx.ai/news/grok-build-cli\n\nVideo",
       "link": "https://nitter.net/XFreeze/status/2055008375381922137#m",
       "date": "Thu, 14 May 2026 19:32:31 GMT"
-    },
-    {
-      "text": "Early beta and we are looking forward to your feedback! We will keep improving until Grok Build is absolutely the best in the world\n\n\nxAI (@xai)\n\nAn early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at x.ai/cli\n\n\n\n\n\n— https://nitter.net/xai/status/2054993285152989373#m",
-      "link": "https://nitter.net/skcd42/status/2055000158241435822#m",
-      "date": "Thu, 14 May 2026 18:59:52 GMT"
-    },
-    {
-      "text": "Grok Build\n\n\nJason Ginsberg (@JasonBud)\n\nGrok Build is a fully interactive CLI, which means you can actually use your mouse to click. No flickers.\n\nEspecially useful as I find myself running 5+ agents at a time and jumping between plans.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JasonBud/status/2054996471800541544#m",
-      "link": "https://nitter.net/elonmusk/status/2055010870573633859#m",
-      "date": "Thu, 14 May 2026 19:42:26 GMT"
-    },
-    {
-      "text": "this is an early beta. we still have much to improve, which is why its so exciting for people to start trying.\n\nthe goal is for Grok Build to be the best coding agent when it comes to solving real and difficult engineering problems.\n\n\nxAI (@xai)\n\nAn early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers.\n\nThrough this early beta, we will improve the model and product based on your feedback.\n\nTry it at x.ai/cli\n\n\n\n\n\n— https://nitter.net/xai/status/2054993285152989373#m",
-      "link": "https://nitter.net/JasonBud/status/2054995169934774412#m",
-      "date": "Thu, 14 May 2026 18:40:03 GMT"
-    },
-    {
-      "text": "Try it out!\n\n\nJason Ginsberg (@JasonBud)\n\nGrok Build is also a really great interface for running subagents, which it often uses to check its own work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JasonBud/status/2054997581328237035#m",
-      "link": "https://nitter.net/elonmusk/status/2055010674741526938#m",
-      "date": "Thu, 14 May 2026 19:41:39 GMT"
     }
   ]
 }
