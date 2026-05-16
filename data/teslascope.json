@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-15T22:02:49Z",
-  "count": 14,
+  "updated_at": "2026-05-16T03:38:01Z",
+  "count": 15,
   "tweets": [
+    {
+      "text": "Lots of interesting changes in the latest Robotaxi app update.\n\n\nTesla App Updates (iOS) (@Tesla_App_iOS)\n\nVersion 26.4.5 of the Robotaxi app has been de-compiled and we've got some interesting things added this update (nitter.net/Tesla_App_iOS/status/2…):\n\n- Remote Operator Voice Calls 📞\n\n- Proactive Remote Assistance 🤖\n\n- Manual Override + Remote Start for wheel-less Cybercabs 🎮\n\n- Ride-Hailing & Dispatch Features (soft-match, multi-stop) 🚕\n\n- Rider-Cabin Sync, Real-Time Routing & Dynamic Safety Monitoring 👁️\n\n- Digital Vehicle Immobilization Kill Switch 🔒\n\nHave a great weekend everyone!\n\n\n\n— https://nitter.net/Tesla_App_iOS/status/2055454692658880878#m",
+      "link": "https://nitter.net/teslascope/status/2055472033572733383#m",
+      "date": "Sat, 16 May 2026 02:14:56 GMT"
+    },
     {
       "text": "Battery Health, customizable shortcuts, and other improvements now live for our beta testers. \n\nMore invites are going out today, and we're on schedule for expansion to Plus/Pro subscribers and subscribers here on X starting later next week!\n\n\nVehiclescope (@vehiclescope)\n\nNew in V0.0.5 (now in review):\n\nBattery Health is now available, providing real-time battery status, with fleet comparison launching next month. 🔋\n\nDrives and Charges are now always accessible directly via vehicle details. \n\nAnd you can now customize the navigation shortcuts! 😎\n\n\n\n\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2054797329950281747#m",
       "link": "https://nitter.net/teslascope/status/2055389861641900426#m",
