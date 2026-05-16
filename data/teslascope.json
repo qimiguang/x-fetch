@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-16T03:38:01Z",
+  "updated_at": "2026-05-16T08:10:54Z",
   "count": 15,
   "tweets": [
+    {
+      "text": "The impossible has happened.\n\nDan O’Dowd has spoken positively of Full Self-Driving and confirmed that V14.3.2 has passed their school bus test perfectly, every time.\n\nIf even FSD’s most famous hater has something good to say, then that’s a good sign of radical improvements.\n\n\nDan O'Dowd (@RealDanODowd)\n\nBREAKING: Tesla self-driving finally passed @RealDawnProject's school bus test!\n\nOn 50 out of 50 test runs, FSD 14.3.2 correctly stopped for the stopped school bus.\n\nAfter three years of campaigning, New York Times ads and Super Bowl commercials, Tesla has finally done the right thing and fixed this egregious safety defect.\n\nHowever, HW3 Teslas running FSD v 12.6.4 will still illegally blow past the stopped school bus and run down a child crossing the road.\n\n@ElonMusk, if the defects can't be fixed on the current hardware, FSD should be disabled until those vehicles have been upgraded.\n\n@aelluswamy, your next task is to stop FSD 14 from speeding in school zones.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2055454708886872555#m",
+      "link": "https://nitter.net/teslascope/status/2055524263550165128#m",
+      "date": "Sat, 16 May 2026 05:42:28 GMT"
+    },
     {
       "text": "Lots of interesting changes in the latest Robotaxi app update.\n\n\nTesla App Updates (iOS) (@Tesla_App_iOS)\n\nVersion 26.4.5 of the Robotaxi app has been de-compiled and we've got some interesting things added this update (nitter.net/Tesla_App_iOS/status/2…):\n\n- Remote Operator Voice Calls 📞\n\n- Proactive Remote Assistance 🤖\n\n- Manual Override + Remote Start for wheel-less Cybercabs 🎮\n\n- Ride-Hailing & Dispatch Features (soft-match, multi-stop) 🚕\n\n- Rider-Cabin Sync, Real-Time Routing & Dynamic Safety Monitoring 👁️\n\n- Digital Vehicle Immobilization Kill Switch 🔒\n\nHave a great weekend everyone!\n\n\n\n— https://nitter.net/Tesla_App_iOS/status/2055454692658880878#m",
       "link": "https://nitter.net/teslascope/status/2055472033572733383#m",
@@ -72,11 +77,6 @@
       "text": "We've received many reports of vehicles downloading 2026.2.9.10 (Full Self-Driving V14.3.2) following a manual in-vehicle check, as we suggested previously.\n\nThe Tesla app will not consistently notify of updates, so while not guaranteed, checking in-vehicle can help.\n\n\nJesper Christiansen (@jespr)\n\nI had to go to the car and check for updates before it popped up :)\n\n\n\n\n\n— https://nitter.net/jespr/status/2052590668720361719#m",
       "link": "https://nitter.net/teslascope/status/2052601569158496324#m",
       "date": "Fri, 08 May 2026 04:08:44 GMT"
-    },
-    {
-      "text": "Another wave of Full Self-Driving V14.3.2 is now going out to additional AI4 vehicles within the last ten minutes via 2026.2.9.10.\n\nThis should include most vehicles; if not included in this wave, it is expected you may receive 2026.14.3 instead.\n\nCheck in vehicle and your app!\n\n\nMuhammad Afaq Khan (@AfaqMKhan)\n\nAnother wave or ripple?\n@teslascope\n\nFinally going from 2.9.1 to 2.9.10.\n\n\n\n\n\n— https://nitter.net/AfaqMKhan/status/2052563972587667920#m",
-      "link": "https://nitter.net/teslascope/status/2052567126326890968#m",
-      "date": "Fri, 08 May 2026 01:51:52 GMT"
     }
   ]
 }

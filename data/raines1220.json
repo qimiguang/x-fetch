@@ -1,8 +1,38 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-16T03:38:21Z",
+  "updated_at": "2026-05-16T08:11:13Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Waymo is much worse.\n\nFrom 2024-09 to 2025-12, according to Waymo itself (Safety Impact Data Hub), Waymo drove ~10.7M miles in Austin and had 86 accidents. That means they are at ~124.7K miles per accident, which is worse than the human baseline, and much worse than Tesla Robotaxi.\n\nAnd what’s worse? Waymo does not improve monthly like Tesla. When I say Tesla Robotaxi is ~1.81x safer than humans and ~3.62x safer than Waymo, that was from last month, and this month it will no longer represent the actual capability of Tesla Robotaxi.\n\nAlso, don’t fall into Waymo’s trap when they compare “no-injury accidents” against humans and claim they are safer. That’s just a trick to make their numbers look better.\n\nI mean, Waymo drives like a grandma... it would be hard to have an injury at that speed and that level of hesitation.",
+      "link": "https://nitter.net/raines1220/status/2055529319699779869#m",
+      "date": "Sat, 16 May 2026 06:02:34 GMT"
+    },
+    {
+      "text": "nitter.net/raines1220/status/2055…\n\n\nRaines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
+      "link": "https://nitter.net/raines1220/status/2055522490278109333#m",
+      "date": "Sat, 16 May 2026 05:35:26 GMT"
+    },
+    {
+      "text": "Modeling Robotaxi mileage in Austin",
+      "link": "https://nitter.net/raines1220/status/2055522416814915766#m",
+      "date": "Sat, 16 May 2026 05:35:08 GMT"
+    },
+    {
+      "text": "More detail on human baseline",
+      "link": "https://nitter.net/raines1220/status/2055522202934792407#m",
+      "date": "Sat, 16 May 2026 05:34:17 GMT"
+    },
+    {
+      "text": "Tesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.",
+      "link": "https://nitter.net/raines1220/status/2055521959467733479#m",
+      "date": "Sat, 16 May 2026 05:33:19 GMT"
+    },
+    {
+      "text": "Later I will post evidence to show that Tesla Robotaxi is now safer than human (for real)",
+      "link": "https://nitter.net/raines1220/status/2055518095951925482#m",
+      "date": "Sat, 16 May 2026 05:17:58 GMT"
+    },
     {
       "text": "Can someone do some simple math to estimate Austin robotaxi crash rate? I think it is already safer than human. Just need a confirmation.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru April 15, 2026\n\nCrashes since the March 16th release:\n\n@Tesla:      +2      (17 total - Austin Only)\n@Waymo: +28   (1818)\n@Zoox:      +10     (133)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2055273198749393237#m",
       "link": "https://nitter.net/raines1220/status/2055335638350930218#m",
@@ -67,36 +97,6 @@
       "text": "Note: the chart is community-reported. It does not represent the entire fleet.",
       "link": "https://nitter.net/raines1220/status/2049740844794822707#m",
       "date": "Thu, 30 Apr 2026 06:41:14 GMT"
-    },
-    {
-      "text": "years later, when you look back, you won’t conclude that Robotaxi scaled too slowly. you’ll only complain that you sold too soon.",
-      "link": "https://nitter.net/raines1220/status/2049740772501778535#m",
-      "date": "Thu, 30 Apr 2026 06:40:57 GMT"
-    },
-    {
-      "text": "FSD 14.2.2.5 will be disengaged every 11 city miles. Does this sound correct to you? @EliasMartinez",
-      "link": "https://nitter.net/raines1220/status/2049737262464967161#m",
-      "date": "Thu, 30 Apr 2026 06:27:00 GMT"
-    },
-    {
-      "text": "FSD 14.2.2.5 has only logged 7 critical disengagements from 90,778 miles (4 for traffic control and 3 for obstacles). The miles per critical disengagement should be 12,968, not 1,134.@EliasMartinez plz explain this to me. Why?",
-      "link": "https://nitter.net/raines1220/status/2049736569066864812#m",
-      "date": "Thu, 30 Apr 2026 06:24:14 GMT"
-    },
-    {
-      "text": "People just don’t realize that if you check TeslaFSDTracker.com, FSD v14.3 has logged zero critical disengagements across 387 entries, 14 testers, 8 states/provinces, and 5,557 miles.",
-      "link": "https://nitter.net/raines1220/status/2049734026672615700#m",
-      "date": "Thu, 30 Apr 2026 06:14:08 GMT"
-    },
-    {
-      "text": "Just as misleading as last year’s deal. They were not “getting a free year” of those tools, but subscribing to annual plans where the first year was free. These two concepts are different. The difference is that people who “claim these deals” will be automatically charged the next year at the full “original” price.",
-      "link": "https://nitter.net/raines1220/status/2045923182046236856#m",
-      "date": "Sun, 19 Apr 2026 17:51:12 GMT"
-    },
-    {
-      "text": "🚘NHTSA autonomous vehicle crash data is now updated thru March 15, 2026\n\nCrashes since the February 17th release:\n\n@Tesla:        0      (15 total - Austin Only)\n@Waymo: +80   (1790)\n@Zoox:      +5      (123)\n\nSource data and more info about methodology in comments\n\n\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru February 17, 2026\n\nCrashes since the January 15th release:\n\n@Tesla:      +1      (15 total - Austin Only Fleet)\n@Waymo: +97   (1710)\n@Zoox:      +2       (118)\n\nData and more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2033636235827139011#m",
-      "link": "https://nitter.net/mehauff7/status/2044469621734920686#m",
-      "date": "Wed, 15 Apr 2026 17:35:16 GMT"
     }
   ]
 }
