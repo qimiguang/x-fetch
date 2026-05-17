@@ -1,7 +1,7 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-17T08:27:14Z",
-  "count": 20,
+  "updated_at": "2026-05-17T10:25:34Z",
+  "count": 19,
   "tweets": [
     {
       "text": "Waymo is much worse.\n\nFrom 2024-09 to 2025-12, according to Waymo itself (Safety Impact Data Hub), Waymo drove ~10.7M miles in Austin and had 86 accidents. That means they are at ~124.7K miles per accident, which is worse than the human baseline, and much worse than Tesla Robotaxi.\n\nAnd what’s worse? Waymo does not improve monthly like Tesla. When I say Tesla Robotaxi is ~1.81x safer than humans and ~3.62x safer than Waymo, that was from last month, and this month it will no longer represent the actual capability of Tesla Robotaxi.\n\nAlso, don’t fall into Waymo’s trap when they compare “no-injury accidents” against humans and claim they are safer. That’s just a trick to make their numbers look better.\n\nI mean, Waymo drives like a grandma... it would be hard to have an injury at that speed and that level of hesitation.",
@@ -9,19 +9,14 @@
       "date": "Sat, 16 May 2026 06:02:34 GMT"
     },
     {
-      "text": "Later I will post evidence to show that Tesla Robotaxi is now safer than human (for real)",
-      "link": "https://nitter.net/raines1220/status/2055518095951925482#m",
-      "date": "Sat, 16 May 2026 05:17:58 GMT"
-    },
-    {
       "text": "nitter.net/raines1220/status/2055…\n\n\nRaines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
       "link": "https://nitter.net/raines1220/status/2055522490278109333#m",
       "date": "Sat, 16 May 2026 05:35:26 GMT"
     },
     {
-      "text": "Tesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.",
-      "link": "https://nitter.net/raines1220/status/2055521959467733479#m",
-      "date": "Sat, 16 May 2026 05:33:19 GMT"
+      "text": "Modeling Robotaxi mileage in Austin",
+      "link": "https://nitter.net/raines1220/status/2055522416814915766#m",
+      "date": "Sat, 16 May 2026 05:35:08 GMT"
     },
     {
       "text": "More detail on human baseline",
@@ -29,9 +24,14 @@
       "date": "Sat, 16 May 2026 05:34:17 GMT"
     },
     {
-      "text": "Modeling Robotaxi mileage in Austin",
-      "link": "https://nitter.net/raines1220/status/2055522416814915766#m",
-      "date": "Sat, 16 May 2026 05:35:08 GMT"
+      "text": "Tesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.",
+      "link": "https://nitter.net/raines1220/status/2055521959467733479#m",
+      "date": "Sat, 16 May 2026 05:33:19 GMT"
+    },
+    {
+      "text": "Later I will post evidence to show that Tesla Robotaxi is now safer than human (for real)",
+      "link": "https://nitter.net/raines1220/status/2055518095951925482#m",
+      "date": "Sat, 16 May 2026 05:17:58 GMT"
     },
     {
       "text": "Can someone do some simple math to estimate Austin robotaxi crash rate? I think it is already safer than human. Just need a confirmation.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru April 15, 2026\n\nCrashes since the March 16th release:\n\n@Tesla:      +2      (17 total - Austin Only)\n@Waymo: +28   (1818)\n@Zoox:      +10     (133)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2055273198749393237#m",
@@ -92,11 +92,6 @@
       "text": "Dan is the gold-standard quality inspector for the Tesla community. He used to be able to make videos about Teslas running over \"kids\". Now the best he can do is FSD 14.3.2 going “10 mph over the limit.”\n\n\nDan O'Dowd (@RealDanODowd)\n\nWatch @Tesla FSD v14.3.2 speed through a school zone at 10 mph over the limit.\n\n@ElonMusk your defective software still can’t follow basic road rules.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2049526949945753980#m",
       "link": "https://nitter.net/raines1220/status/2049743066492522514#m",
       "date": "Thu, 30 Apr 2026 06:50:04 GMT"
-    },
-    {
-      "text": "years later, when you look back, you won’t conclude that Robotaxi scaled too slowly. you’ll only complain that you sold too soon.",
-      "link": "https://nitter.net/raines1220/status/2049740772501778535#m",
-      "date": "Thu, 30 Apr 2026 06:40:57 GMT"
     },
     {
       "text": "Note: the chart is community-reported. It does not represent the entire fleet.",
