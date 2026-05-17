@@ -1,8 +1,58 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-17T03:57:18Z",
-  "count": 15,
+  "updated_at": "2026-05-17T08:26:53Z",
+  "count": 17,
   "tweets": [
+    {
+      "text": "New intervention option “Parking” added in FSD V14.3.3\n@teslascope @DriveTeslaca",
+      "link": "https://nitter.net/DevinOlsenn/status/2055912757619573171#m",
+      "date": "Sun, 17 May 2026 07:26:13 GMT"
+    },
+    {
+      "text": "Actually Smart Summon now has a higher max speed of 8mph (13km/h) in Full Self-Driving V14.3.3 (2026.14.6.6) for AI4 vehicles.\n\n\nZack (@BLKMDL3)\n\nActually Smart Summon speed has been increased with FSD v14.3.3!\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2055872210401984823#m",
+      "link": "https://nitter.net/teslascope/status/2055877381446087095#m",
+      "date": "Sun, 17 May 2026 05:05:38 GMT"
+    },
+    {
+      "text": "Have been saying this for many days, though, not just today. Great to see the latest FSD + Spring Update finally merged.\n\nBest part, every single vehicle with AI4 is theoretically eligible, sans regional requirements.\n\nnitter.net/teslascope/status/2054…\n\n\nTeslascope (@teslascope)\n\nOur estimate has been anytime from tomorrow to Sunday for Spring Update + V14.3.X. The merge was partially delayed due to the security improvements.\n\nIf it’s longer then that, they’ve hit an internal delay.\n\n\n\n— https://nitter.net/teslascope/status/2054409664352432336#m",
+      "link": "https://nitter.net/teslascope/status/2055874720206377457#m",
+      "date": "Sun, 17 May 2026 04:55:04 GMT"
+    },
+    {
+      "text": "Full Self-Driving V14.3.3 (2026.14.6.6) release notes as seen on our iOS app, @vehiclescope! 👀 More invites have been going out daily.\n\nThanks for sharing, @caseysfloyd!\n\n\nCasey Floyd (@caseysfloyd)\n\nSpring update dropping on Cybertruck! Comes with FSD 14.3.3! \n\n@teslascope\n\n\n\n\n\n— https://nitter.net/caseysfloyd/status/2055872459325501672#m",
+      "link": "https://nitter.net/teslascope/status/2055874064254943295#m",
+      "date": "Sun, 17 May 2026 04:52:27 GMT"
+    },
+    {
+      "text": "Once again, never doubt the scope. 😎\n\n\nTeslascope (@teslascope)\n\nSoon, very very soon.\n\n\n\n— https://nitter.net/teslascope/status/2055786461535105028#m",
+      "link": "https://nitter.net/teslascope/status/2055873734595211529#m",
+      "date": "Sun, 17 May 2026 04:51:09 GMT"
+    },
+    {
+      "text": "Full Self-Driving V14.3.3 is now rolling out for the first time and includes Tesla's Spring Update.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.3\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2055871737712058674#m",
+      "link": "https://nitter.net/teslascope/status/2055873580001595789#m",
+      "date": "Sun, 17 May 2026 04:50:32 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2055871757446254692#m",
+      "date": "Sun, 17 May 2026 04:43:17 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2055871747719655714#m",
+      "date": "Sun, 17 May 2026 04:43:15 GMT"
+    },
+    {
+      "text": "A new feature has been detected: FSD (Supervised) v14.3.3\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2055871737712058674#m",
+      "date": "Sun, 17 May 2026 04:43:13 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2055871724055330936#m",
+      "date": "Sun, 17 May 2026 04:43:09 GMT"
+    },
     {
       "text": "The impossible has happened.\n\nDan O’Dowd has spoken positively of Full Self-Driving and confirmed that V14.3.2 has passed their school bus test perfectly, every time.\n\nIf even FSD’s most famous hater has something good to say, then that’s a good sign of radical improvements.\n\n\nDan O'Dowd (@RealDanODowd)\n\nBREAKING: Tesla self-driving finally passed @RealDawnProject's school bus test!\n\nOn 50 out of 50 test runs, FSD 14.3.2 correctly stopped for the stopped school bus.\n\nAfter three years of campaigning, New York Times ads and Super Bowl commercials, Tesla has finally done the right thing and fixed this egregious safety defect.\n\nHowever, HW3 Teslas running FSD v 12.6.4 will still illegally blow past the stopped school bus and run down a child crossing the road.\n\n@ElonMusk, if the defects can't be fixed on the current hardware, FSD should be disabled until those vehicles have been upgraded.\n\n@aelluswamy, your next task is to stop FSD 14 from speeding in school zones.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2055454708886872555#m",
       "link": "https://nitter.net/teslascope/status/2055524263550165128#m",
@@ -37,46 +87,6 @@
       "text": "We noticed a new Tesla software update 2026.8.200 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
       "link": "https://nitter.net/teslascope/status/2054071877228712000#m",
       "date": "Tue, 12 May 2026 05:31:12 GMT"
-    },
-    {
-      "text": "Our own HW3 vehicle (a 2018 Model 3 Performance) is also included in this initial wave.\n\nWe've received several reports that this download was initiated over cellular, suggesting it contains critical security fixes. AI4 vehicles on 2026.2.9.10 will receive these fixes very soon.",
-      "link": "https://nitter.net/teslascope/status/2054026163333542105#m",
-      "date": "Tue, 12 May 2026 02:29:33 GMT"
-    },
-    {
-      "text": "2026.14.6 is going out en masse to HW3 and AI4 vehicles, which contains security improvements (in addition to the Spring Update features from 2026.14.3).\n\nHere's a breakdown of the specific models receiving the update, along with the release notes.\nteslascope.com/software/2026…\n\n\n\nNemGee (@NemGee)\n\n@teslascope \n\nHW3 2026.14.6 rolling out\n\n\n\n\n\n— https://nitter.net/NemGee/status/2054024134561083794#m",
-      "link": "https://nitter.net/teslascope/status/2054026161576185958#m",
-      "date": "Tue, 12 May 2026 02:29:33 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2054019185798238616#m",
-      "date": "Tue, 12 May 2026 02:01:50 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.14.6 on Model S Performance (2019) in Florida, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2054019126973108296#m",
-      "date": "Tue, 12 May 2026 02:01:36 GMT"
-    },
-    {
-      "text": "Our iOS app for @teslascope is now on Testflight! 🎉\n\nInvites will continue to be sent out gradually, as outlined in the thread quoted below.\n\nReminder, if you're not a subscriber to @teslascope on X or our platform, you can still apply for early access via help@vehiclescope.com.\n\n\n\n\nVehiclescope (@vehiclescope)\n\nWe've finally been approved by Apple and our App Store registration is now officially associated with our company! 🎉\n\nWe're now clear to proceed with the launch of our initial Testflight release next week.\n\n\n\n— https://nitter.net/vehiclescope/status/2052511236533919969#m",
-      "link": "https://nitter.net/vehiclescope/status/2053974538308976900#m",
-      "date": "Mon, 11 May 2026 23:04:25 GMT"
-    },
-    {
-      "text": "Appreciate your status posts on the updates and this extra info. Checking the software tab in the car is what pulled the update for me.",
-      "link": "https://nitter.net/MyLifeCoachMark/status/2052633563535737338#m",
-      "date": "Fri, 08 May 2026 06:15:52 GMT"
-    },
-    {
-      "text": "Another:\n\nnitter.net/Hurricane350/status/20…\n\n\nHurricane350 (@Hurricane350)\n\nWell this is a first... Manually checking in the car actually pulled the update!\n\n\n\n\n\n— https://nitter.net/Hurricane350/status/2052590567528247653#m",
-      "link": "https://nitter.net/teslascope/status/2052601658623111240#m",
-      "date": "Fri, 08 May 2026 04:09:05 GMT"
-    },
-    {
-      "text": "We've received many reports of vehicles downloading 2026.2.9.10 (Full Self-Driving V14.3.2) following a manual in-vehicle check, as we suggested previously.\n\nThe Tesla app will not consistently notify of updates, so while not guaranteed, checking in-vehicle can help.\n\n\nJesper Christiansen (@jespr)\n\nI had to go to the car and check for updates before it popped up :)\n\n\n\n\n\n— https://nitter.net/jespr/status/2052590668720361719#m",
-      "link": "https://nitter.net/teslascope/status/2052601569158496324#m",
-      "date": "Fri, 08 May 2026 04:08:44 GMT"
     }
   ]
 }
