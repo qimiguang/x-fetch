@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-18T04:09:56Z",
+  "updated_at": "2026-05-18T10:15:44Z",
   "count": 17,
   "tweets": [
     {
@@ -14,6 +14,11 @@
       "date": "Sun, 17 May 2026 05:05:38 GMT"
     },
     {
+      "text": "Once again, never doubt the scope. 😎\n\n\nTeslascope (@teslascope)\n\nSoon, very very soon.\n\n\n\n— https://nitter.net/teslascope/status/2055786461535105028#m",
+      "link": "https://nitter.net/teslascope/status/2055873734595211529#m",
+      "date": "Sun, 17 May 2026 04:51:09 GMT"
+    },
+    {
       "text": "Have been saying this for many days, though, not just today. Great to see the latest FSD + Spring Update finally merged.\n\nBest part, every single vehicle with AI4 is theoretically eligible, sans regional requirements.\n\nnitter.net/teslascope/status/2054…\n\n\nTeslascope (@teslascope)\n\nOur estimate has been anytime from tomorrow to Sunday for Spring Update + V14.3.X. The merge was partially delayed due to the security improvements.\n\nIf it’s longer then that, they’ve hit an internal delay.\n\n\n\n— https://nitter.net/teslascope/status/2054409664352432336#m",
       "link": "https://nitter.net/teslascope/status/2055874720206377457#m",
       "date": "Sun, 17 May 2026 04:55:04 GMT"
@@ -24,14 +29,14 @@
       "date": "Sun, 17 May 2026 04:52:27 GMT"
     },
     {
-      "text": "Once again, never doubt the scope. 😎\n\n\nTeslascope (@teslascope)\n\nSoon, very very soon.\n\n\n\n— https://nitter.net/teslascope/status/2055786461535105028#m",
-      "link": "https://nitter.net/teslascope/status/2055873734595211529#m",
-      "date": "Sun, 17 May 2026 04:51:09 GMT"
-    },
-    {
       "text": "Full Self-Driving V14.3.3 is now rolling out for the first time and includes Tesla's Spring Update.\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: FSD (Supervised) v14.3.3\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2055871737712058674#m",
       "link": "https://nitter.net/teslascope/status/2055873580001595789#m",
       "date": "Sun, 17 May 2026 04:50:32 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2055871724055330936#m",
+      "date": "Sun, 17 May 2026 04:43:09 GMT"
     },
     {
       "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
@@ -49,11 +54,6 @@
       "date": "Sun, 17 May 2026 04:43:13 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2055871724055330936#m",
-      "date": "Sun, 17 May 2026 04:43:09 GMT"
-    },
-    {
       "text": "The impossible has happened.\n\nDan O’Dowd has spoken positively of Full Self-Driving and confirmed that V14.3.2 has passed their school bus test perfectly, every time.\n\nIf even FSD’s most famous hater has something good to say, then that’s a good sign of radical improvements.\n\n\nDan O'Dowd (@RealDanODowd)\n\nBREAKING: Tesla self-driving finally passed @RealDawnProject's school bus test!\n\nOn 50 out of 50 test runs, FSD 14.3.2 correctly stopped for the stopped school bus.\n\nAfter three years of campaigning, New York Times ads and Super Bowl commercials, Tesla has finally done the right thing and fixed this egregious safety defect.\n\nHowever, HW3 Teslas running FSD v 12.6.4 will still illegally blow past the stopped school bus and run down a child crossing the road.\n\n@ElonMusk, if the defects can't be fixed on the current hardware, FSD should be disabled until those vehicles have been upgraded.\n\n@aelluswamy, your next task is to stop FSD 14 from speeding in school zones.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2055454708886872555#m",
       "link": "https://nitter.net/teslascope/status/2055524263550165128#m",
       "date": "Sat, 16 May 2026 05:42:28 GMT"
@@ -69,14 +69,14 @@
       "date": "Fri, 15 May 2026 20:48:24 GMT"
     },
     {
-      "text": "Full blog post on our platform can be found here:\n\nteslascope.com/blog/6.3",
-      "link": "https://nitter.net/teslascope/status/2054381358789902793#m",
-      "date": "Wed, 13 May 2026 02:00:59 GMT"
-    },
-    {
       "text": "It's been a productive week, and we're pleased to announce the release of Teslascope V6.3!\n\nAs X is discontinuing Communities (per @nikitabier), we'll share major updates to our platform here from time to time.\n\n1️⃣ We launched early access for our iOS app, via @vehiclescope! 🎉 (invite details in the following post)\n\n2️⃣ You can now sign in with your Apple Account by associating your Apple ID via Account > Integrations. This will also be used to send out invites to our Plus and Pro subscribers in the following weeks.\n\n3️⃣ You can now subscribe without an attached payment method, as long as you have enough credit for the subscription. Subscriptions will automatically pause if there's not enough credit for the renewal.\n\n4️⃣ Added a Vehicle Activity Developer API (combines drives and charges, with more events coming soon!)\n\n5️⃣ Certain vehicle statuses (such as lock status) now update within seconds.\n\n6️⃣ Improved Vehicle Controls to be more performant and reduce wait times.\n\n7️⃣ Improved support for vehicles with special characters and letter modifiers.\n\nAdditional improvements are underway for the remainder of May.",
       "link": "https://nitter.net/teslascope/status/2054381357200249108#m",
       "date": "Wed, 13 May 2026 02:00:58 GMT"
+    },
+    {
+      "text": "Full blog post on our platform can be found here:\n\nteslascope.com/blog/6.3",
+      "link": "https://nitter.net/teslascope/status/2054381358789902793#m",
+      "date": "Wed, 13 May 2026 02:00:59 GMT"
     },
     {
       "text": "Tesla 2026.14.6 rolling out to vehicles @teslascope",
