@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-18T04:09:54Z",
+  "updated_at": "2026-05-18T19:50:43Z",
   "count": 20,
   "tweets": [
     {
-      "text": "SpaceX Dragon spaceship docking with the International @Space_Station\n\n\nsen (@sen)\n\nA front-row seat to SpaceX CRS-34 docking 🚀\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/sen/status/2056021821615476954#m",
-      "link": "https://nitter.net/elonmusk/status/2056213329782112452#m",
-      "date": "Mon, 18 May 2026 03:20:35 GMT"
+      "text": "Composer 2.5 is a significant step up from Composer 2.\n\nThis is the very start of our work with SpaceXAI. Hope to have more improvements out soon.\n\n\nCursor (@cursor_ai)\n\nIntroducing Composer 2.5, our most powerful model yet.\n\nIt's more intelligent, better at sustained work on long-running tasks, and more reliable at following complex instructions.\n\nFor the next week, we’re doubling the included usage of the model.\n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2056415413077233983#m",
+      "link": "https://nitter.net/mntruell/status/2056418797473640681#m",
+      "date": "Mon, 18 May 2026 16:57:02 GMT"
     },
     {
-      "text": "Grok Imagine\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2056209019065229420#m",
-      "date": "Mon, 18 May 2026 03:03:27 GMT"
+      "text": "Try it out!\n\n(Partially trained on Colossus 2)\n\n\nCursor (@cursor_ai)\n\nIntroducing Composer 2.5, our most powerful model yet.\n\nIt's more intelligent, better at sustained work on long-running tasks, and more reliable at following complex instructions.\n\nFor the next week, we’re doubling the included usage of the model.\n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2056415413077233983#m",
+      "link": "https://nitter.net/elonmusk/status/2056422097237283295#m",
+      "date": "Mon, 18 May 2026 17:10:09 GMT"
     },
     {
-      "text": "Elon Musk: “It is impossible to become a multiplanet civilization without reusable rockets, just as it would have been impossible to colonize America with expendable boats.\"\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2056132883946106981#m",
-      "date": "Sun, 17 May 2026 22:00:55 GMT"
+      "text": "Please help make Grok Build great!\n\nMuch appreciated, Elon.\n\n\nMorgan (@morganlinton)\n\nPhew, Grok Build is really thorough, pretty incredible.\n\nRelay feature for PasteLocal is done, pushing to Github now. \n\nAnd if you want to know what this adds, here's a bit more about it, this is a feature I really wanted in there, and honestly didn't really expect to have done this week.\n\n• Per-peer E2E encryption: clipboard data is encrypted individually for each paired device using X25519 + HKDF + AES-GCM (no plaintext ever leaves the client)\n\n• Durable persistence: relay state is now stored in an atomic state.json with proper TTL handling and compaction. Pending clips survive relay-server restarts\n\n• Safe compaction: fixed unsafe map mutation during expiration/compaction that could cause data loss or undefined behavior\n\n• Full bidirectional CLI: new commands: pastelocal relay send, inbox, fetch, and status, plus pastelocal-remote --relay --peer --send\n\n• Auto-sync: when watch.enabled + relay.auto_upload are on, meaningful clipboard changes are automatically pushed to paired devices\n\n• Improved DX: doctor checks are now only shown when relay is enabled, and the TUI shows basic relay status\n\n• Multiple review cycles: went through full implement → review → fix → re-review (effort 4), plus a final targeted regression fix round\n\nTry it out and please send any and all feedback!\n\n\n\n\n\n— https://nitter.net/morganlinton/status/2056395661915148367#m",
+      "link": "https://nitter.net/elonmusk/status/2056409870262268270#m",
+      "date": "Mon, 18 May 2026 16:21:33 GMT"
     },
     {
-      "text": "🤨\n\n\nEnd Wokeness (@EndWokeness)\n\nI wonder why the \"car\" did this? 🤔\n\n\n\n\n\n— https://nitter.net/EndWokeness/status/2055833497437192326#m",
-      "link": "https://nitter.net/elonmusk/status/2056203777691041868#m",
-      "date": "Mon, 18 May 2026 02:42:37 GMT"
+      "text": "Elon Musk on “Suicidal Empathy”:\nGad Saad has a good way to describe it\n\n“Suicidal empathy” - where you prey upon people’s empathy so much that it becomes suicidal to your own country and culture\n\nYou feel sorry for the criminals, but show zero empathy for the victims\n\nThis is why someone arrested 47 times for violent offenses gets released and then murders somebody\n\nWe've become so blindly compassionate toward predators that \"we're actually allowing our women to get r@ped and our children to get killed\"\n\nWe should have empathy. But that empathy must go to the victims - not the criminals\n\nThis suicidal empathy has gone too far\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nBut this book for your friends for the defense of Western Civilization!\n\n\n\n— https://nitter.net/elonmusk/status/2056384750026178796#m",
+      "link": "https://nitter.net/XFreeze/status/2056406145292546107#m",
+      "date": "Mon, 18 May 2026 16:06:45 GMT"
     },
     {
-      "text": "To protect passengers or cargo, the powered rear seats & trunk in Model Y will automatically pop back up if detecting an obstruction while folding.\n\nVideo",
-      "link": "https://nitter.net/Tesla_Asia/status/2056187641960472986#m",
-      "date": "Mon, 18 May 2026 01:38:30 GMT"
+      "text": "Reminder that Grok Build is iterating extremely fast and we are highly responsive to critical feedback. \n\nFixes & upgrades are dropping every day.\n\n\nBrivael Le Pogam (@brivael)\n\nJust started testing the @grok Build beta.\n\nFirst feel: UX is nice, still some rough edges, but model speed is genuinely cool.\n\nIf task quality on hard stuff matches opus 4.7 (or even slightly below) at this speed, it's a game-changer.\n\nGood chance they steamroll the competition.\n\n\n\n\n\n— https://nitter.net/brivael/status/2056407162813825384#m",
+      "link": "https://nitter.net/elonmusk/status/2056408391887544341#m",
+      "date": "Mon, 18 May 2026 16:15:41 GMT"
     },
     {
-      "text": "London Mayor Confused By Protesters Not Chanting ‘Death To Jews’ buff.ly/B4peOem",
-      "link": "https://nitter.net/TheBabylonBee/status/2056102476865057018#m",
-      "date": "Sun, 17 May 2026 20:00:05 GMT"
+      "text": "Grok agent mode is a major ability unlock\n\n\nDéborah (@dvorahfr)\n\nI've finished a video of just over 4 minutes, entirely created using Grok Imagine's Agent mode (see image).\n\nIt's a much smoother way to make videos because you can rely on Grok's understanding.\nThe Image reference is now available and it's very, very useful.\nAll the dialogues were done with Grok, no need for sound dubbing and that's a huge time saver and adds credibility to the video.\nThe realism is really well done.\n\nI post it in one hour.\n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2056401688131481932#m",
+      "link": "https://nitter.net/elonmusk/status/2056406690975641608#m",
+      "date": "Mon, 18 May 2026 16:08:55 GMT"
     },
     {
-      "text": "Try it out …\n\nImprovements are landing every few days!\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nGrok Build CLI Beta can now be installed directly from Grok Web with a single terminal command.\n\nThe agentic coding and workflow tool is currently available exclusively for SuperGrok Heavy subscribers.\n\nAt the same time, xAI is offering a major discount on the Heavy tier:\n67% off for the next 6 months, bringing the price down to $99/month instead of $300/month.\n\nxAI is moving fast to get more developers building with Grok.\n\n\n\n\n\n— https://nitter.net/teslaownersSV/status/2056073346643870055#m",
-      "link": "https://nitter.net/elonmusk/status/2056202257394282965#m",
-      "date": "Mon, 18 May 2026 02:36:35 GMT"
+      "text": "Indeed\n\n\nKatie Miller (@KatieMiller)\n\nI feel sad for the people who will miss out on having children because of anti-family propaganda pushed by the left. \n\nHumanity will collapse without increasing birth rates.\n\n\n\n— https://nitter.net/KatieMiller/status/2056397429763666341#m",
+      "link": "https://nitter.net/elonmusk/status/2056406194936254970#m",
+      "date": "Mon, 18 May 2026 16:06:57 GMT"
     },
     {
-      "text": "Test like you fly and test what you fly. Check out this video if you want to see (and hear) some progress updates on Starship. Our next generation v3 rocket is designed to be foundational for what comes next including the Moon missions.\n\n\nSpaceX (@SpaceX)\n\nThree years since the first flight of Starship, the next generation is here. New ship. New booster. New engines. New pad and new test site. SpaceX engineers are working to solve one of the most difficult engineering challenges in history: developing a fully, rapidly reusable rocket\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2047800137133756633#m",
-      "link": "https://nitter.net/Boca_Bill_R/status/2056105475557765562#m",
-      "date": "Sun, 17 May 2026 20:12:00 GMT"
+      "text": "How one NGO spun a spiders web of 40 activist orgs, gov't officials, legislators & lawyers into passing the UK Online Censorship Act suppressing every US platform and millions of British citizens today.\n\nBritain, you got CUKT (Carnegie UK Trust)\n\n\n\n\nMike Benz (@MikeBenzCyber)\n\nThe acronym for the NGO that drafted the UK Online Censorship Act is quite literally \"CUKT\"\n\n\n\n\n\n— https://nitter.net/MikeBenzCyber/status/2056331252928540950#m",
+      "link": "https://nitter.net/MikeBenzCyber/status/2056338467668320341#m",
+      "date": "Mon, 18 May 2026 11:37:50 GMT"
     },
     {
-      "text": "Starship is designed to transport over a megaton of payload to space per year\n\n\nX Freeze (@XFreeze)\n\nSpaceX is absolutely dominating the entire planet in orbital mass\n\nAs of 2026:\n•   Total Global Mass to Orbit: ~969.6 metric tonnes\n•   SpaceX: ~841.0 tonnes (86.7%)\n•   Rest of the World: ~128.6 tonnes (13.3%)\n\nSpaceX alone has launched over 86% of all mass to orbit this year till date\n\nNo one else is even close or even all of them combined\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2056181546286235725#m",
-      "link": "https://nitter.net/elonmusk/status/2056199671542907294#m",
-      "date": "Mon, 18 May 2026 02:26:18 GMT"
+      "text": "Woke up to see that Grok Build finished my feature build from last night.\n\nBut what's the most interesting to me, is that it has a set of suggestions for what to do to really make sure everything is done right.\n\nThis is different from any other agentic coding agent I've used. Normally, coding agents just end when they finish a task, but with Grok Build, it always ends by suggesting things like small targeted fix rounds.\n\nReally neat. Almost like a senior dev who says, hey - I know you think you're done, but if you really want to do it right, here's what I would do.",
+      "link": "https://nitter.net/morganlinton/status/2056379667612102883#m",
+      "date": "Mon, 18 May 2026 14:21:33 GMT"
     },
     {
       "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2056198422445646119#m",
-      "date": "Mon, 18 May 2026 02:21:20 GMT"
+      "link": "https://nitter.net/elonmusk/status/2056395872506622457#m",
+      "date": "Mon, 18 May 2026 15:25:56 GMT"
     },
     {
-      "text": "Often overlooked is the Frankfurt School’s central role, alongside French postmodernists, in forging Critical Theory and exporting it to America, where it evolved into one of the most influential (destructive) ideologies of our time.\n\nThe Institute for Social Research was founded in Frankfurt in 1923 as an avowedly Marxist institution. \nWhen the European working class refused to fulfill Marx’s prophecy of revolution, Max Horkheimer and his colleagues changed course. \n\nThey developed Critical Theory: not a tool for economic reform, but a sophisticated intellectual weapon designed to dismantle Western culture, the family, traditional authority, and the very concepts of objective reason and truth.\n\nDriven into exile by the Nazis, the Frankfurt School relocated to Columbia University in the United States. There, its ideas took root in academia and spread outward.\nThis framework provided the direct intellectual foundation for Critical Race Theory. CRT simply replaced class with race while retaining the same core premises: \nsociety is a zero-sum power struggle between oppressors and oppressed, objective truth is a myth deployed by the powerful, and Western institutions are inherently racist by design.\n\nThe consequences surround us: classrooms saturated in racial grievance, corporations imposing divisive DEI mandates, and a culture that has abandoned merit, colorblindness, and individual responsibility in favor of equity, identity politics, and inherited guilt.\n\nThe Frankfurt School never aimed to improve the West. It trained generations in the art of deconstructing and ultimately destroying it.\n\nThe antidote is to reclaim truth, merit, reason, and the foundational values of Western civilization.\n\nThe “long march through the institutions” began here. It is time to march back.\n\n\n\n\nBrivael Le Pogam (@brivael)\n\nJe veux présenter mes excuses, au nom des Français, pour avoir enfanté la French Theory (qui a enfanté la pire des merdes idéologiques : le wokisme).\n\nNous avons donné au monde Descartes, Pascal, Tocqueville. Et puis, dans les ruines intellectuelles de l'après-68, nous avons donné Foucault, Derrida, Deleuze. Trois hommes brillants qui ont fabriqué, dans l'élégance de notre langue, l'arme idéologique qui paralyse aujourd'hui l'Occident.\n\nIl faut comprendre ce qu'ils ont fait. Foucault a enseigné que la vérité n'existe pas, qu'il n'y a que des rapports de pouvoir déguisés en savoir. Que la science, la raison, la justice, l'institution médicale, l'école, la prison, la sexualité, tout n'est qu'une mise en scène de la domination. Derrida a enseigné que les textes n'ont pas de sens stable, que tout signifiant glisse, que toute lecture est une trahison, que l'auteur est mort et que le lecteur règne. Deleuze a enseigné qu'il fallait préférer le rhizome à l'arbre, le nomade au sédentaire, le désir à la loi, le devenir à l'être, la différence à l'identité.\n\nPris isolément, ce sont des thèses discutables. Combinées, exportées, vulgarisées, elles forment un système. Et ce système est un poison.\n\nCar voici ce qui s'est passé. Ces textes, illisibles en France, ont traversé l'Atlantique. Les départements de Yale, de Berkeley, de Columbia les ont absorbés dans les années 80. Ils y ont trouvé un terreau qui n'existait pas chez nous : le puritanisme américain, sa culpabilité raciale, son obsession identitaire. La French Theory s'est mariée à ce substrat, et l'enfant de ce mariage s'appelle le wokisme.\n\nJudith Butler lit Foucault et invente le genre performatif. Edward Said lit Foucault et invente le post-colonialisme académique. Kimberlé Crenshaw hérite du cadre et invente l'intersectionnalité. À chaque étape, la matrice est française : il n'y a pas de vérité, il n'y a que du pouvoir, donc toute hiérarchie est suspecte, toute institution est oppressive, toute norme est violence, toute identité est construite donc négociable, toute majorité est coupable.\n\nVoilà comment trois philosophes parisiens, qui n'ont probablement jamais imaginé leurs conséquences pratiques, ont fourni le logiciel d'exploitation à une génération entière d'activistes, de bureaucrates universitaires, de DRH, de journalistes, de législateurs. Voilà comment on a obtenu une civilisation qui ne sait plus dire si une femme est une femme, si sa propre histoire mérite d'être défendue, si le mérite existe, si la vérité se distingue de l'opinion.\n\nC'est de la merde pour une raison simple, et il faut la dire calmement. Une civilisation se tient debout sur trois piliers : la croyance qu'il existe une vérité accessible à la raison, la croyance qu'il existe un bien distinct du mal, la croyance qu'il existe un héritage à transmettre. La French Theory a entrepris de dynamiter les trois. Pas par méchanceté. Par jeu intellectuel, par fascination du soupçon, par haine de la bourgeoisie qui les avait nourris. Mais le résultat est là. Une génération entière a appris à déconstruire et n'a jamais appris à construire. Une génération entière sait soupçonner et ne sait plus admirer. Une génération entière voit le pouvoir partout et la beauté nulle part.\n\nJe m'excuse parce que nous, Français, avons une responsabilité particulière. C'est notre langue, nos universités, nos éditeurs, notre prestige qui ont donné à ce nihilisme son emballage chic. Sans la légitimité de la Sorbonne et de Vincennes, ces idées n'auraient jamais traversé l'océan. Nous avons exporté le doute comme d'autres exportent des armes.\n\nCe qui se construit maintenant, en silicon valley, dans les labos d'IA, dans les startups, dans les ateliers, dans tous les lieux où des gens fabriquent encore des choses au lieu de les déconstruire, c'est la réponse. Une civilisation se reconstruit par les bâtisseurs, pas par les commentateurs. Par ceux qui croient que la vérité existe et qu'elle vaut qu'on s'y consacre. Par ceux qui assument une hiérarchie du beau, du vrai, du bon, et qui n'ont pas honte de la transmettre.\n\nAlors pardon. Et au travail.\n\n\n\n— https://nitter.net/brivael/status/2055411322628583488#m",
-      "link": "https://nitter.net/Rothmus/status/2056148186142573009#m",
-      "date": "Sun, 17 May 2026 23:01:43 GMT"
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2056394168960774212#m",
+      "date": "Mon, 18 May 2026 15:19:10 GMT"
     },
     {
-      "text": "Where will AI be in 1, 2 or 3 years?\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2056179413901877551#m",
-      "date": "Mon, 18 May 2026 01:05:48 GMT"
+      "text": "But this book for your friends for the defense of Western Civilization!\n\n\nGad Saad (@GadSaad)\n\nIt's been #1 across all books, #1 in Politics, #1 in Psychology, #1 in Western History, etc.  It's only day #6 of its release!  Let's inoculate the West against Civilizational Seppuku!\n\n\n\n\n\n— https://nitter.net/GadSaad/status/2056354557211328845#m",
+      "link": "https://nitter.net/elonmusk/status/2056384750026178796#m",
+      "date": "Mon, 18 May 2026 14:41:44 GMT"
     },
     {
-      "text": "14.3.3 nags less too\n\n\nZack (@BLKMDL3)\n\n6 drives and 6 hours into FSD v14.3.3, here’s my review:\n\n- Actually Smart Summon improvements are fantastic. The 33% speed increase from 6-8mph is actually extremely noticeable and makes it feel more human-like driving through a parking lot, especially a crowded one. Some may think it’s not a big change, but it is.\n\n- “Hey Grok” is amazing! It has worked perfectly for me each time so far as a wake word, and I’ve used it a bunch. Huge quality of life improvement and being able to set navigation reminders is a really awesome feature!\n\n- FSD v14.3.3 reacted to someone running their stop sign before I could even see them around a wall in a parking garage. \nThe driver monitoring system (DMS) is way more relaxed in this build than previously, especially in Standard profile.\n\n- The new car visualization looks so much richer and better as combined with the spring update, way cooler. The acceleration profile of Mad Max is much smoother from 0-2mph off the line compared to v14.3.2, it doesn’t feel jerky or a jolt off the line. This is a big improvement and it’s still plenty quick.\n\n- On city streets, and I’m pretty sure on the highway as well, Standard is more relaxed with changing lanes. It doesn’t change as frequently which is a nice thing to have for street driving. I’ll get a lot more seat time this afternoon through this week.\n\n- There has been no twitching or jerky behavior with this build. Smooth inputs even in tricky scenarios- in the past few days FSD v14.3.2 has been slightly twitchy in my experience but this is way better.\n\n- When FSD v14.3.3 reverses out of a parallel or perpendicular parking spot, I’ve noticed on this build it doesn’t reverse as far as before and it reduced unnecessary reversing distance. It feels more human like as it knows exactly the amount of steering angle required to exit the spot without backing up to far. This was even present in my 2025 Model 3 without a front fascia camera.\n\n- Mad Max feels a bit more refined. It’s like a smooth slice through traffic and I’m now using it almost exclusively vs hurry I used before. The improved off the line performance is a big factor in that as well. Very calculated decisions and inputs.\n\n- The new FSD Intervention streak feature is a really cool addition, would’ve been awesome to have for our FSD Cannonball Run record from New York City-LA, but I love how they are incentivizing using the system more as it’s safer than driving yourself.\n\n- Speed control in 55mph speed zones needs more work, this was apparent on the cannonball with FSD v14.3.2 but there’s no clear max speed for it in 55 zones. Should be tamed and restricted a bit specifically in 55mph zones. Looking forward to improved pothole avoidance too.\n\n- I like the new messages at top of the screen, specifically if you do not have a destination set in the navigation, it will tell you to select one. If you are in Mad Max occasionally it will let you know increased attention could be required if the surroundings require it.\n\n- Parking garage behavior seems unchanged from FSD v14.3.2 when inside, but noticed it was slightly more confident entering and exiting the garages and coming up to the ticket dispenser. Didn’t see much looping behavior.\n\n- I haven’t had FSD v14.3.3 camp in the left lane yet, as I haven’t had it on an empty highway since there’s been traffic today. This was a feature that FSD v14.3.2 had in that we didn’t enjoy on the cannonball. I’ll get some seat time in on my drive to NorCal this week where we’ll see if it does it.\n\n- I haven’t had any weird braking, jitteriness or twitching yet, definitely a big smoothness jump over FSD v14.3.2, even more so than FSD v14.2.2.5 in my experience so far.\n\nOverall, this version did a great job combining the attributes of FSD v14.3 like the insane reaction time, parking features, and new stack with the refinement that we loved with FSD v14.2.2.5 AND the great Spring Update features.\n\nElon said this update is a banger, and it is. Great work @Tesla_AI teams!!\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2056160042618089896#m",
-      "link": "https://nitter.net/elonmusk/status/2056177922159910985#m",
-      "date": "Mon, 18 May 2026 00:59:53 GMT"
+      "text": "Calling everyone you disagree with “far right” has destroyed the meaning of the term.\n\nI’m sick of seeing serious labels abused to smear ordinary people with legitimate concerns.\n\nIn 2015, before Brexit, over 50% of the country was concerned about immigration. Does that make half the country “far right”?\n\nThrowing these labels around is reckless, dishonest, and damaging to public debate.\n\nVideo",
+      "link": "https://nitter.net/KonstantinKisin/status/2056372617536242075#m",
+      "date": "Mon, 18 May 2026 13:53:32 GMT"
     },
     {
-      "text": "The left is the party of violence\n\n\nRob Henderson (@robkhenderson)\n\nYouGov: 25% of “very liberal” Americans say violence can be justified to achieve political goals compared with  3% of “very conservative” Americans.\n\n\n\n\n\n— https://nitter.net/robkhenderson/status/2053229277592641745#m",
-      "link": "https://nitter.net/elonmusk/status/2056177372408201247#m",
-      "date": "Mon, 18 May 2026 00:57:42 GMT"
+      "text": "The murderous lunatic left\n\n\nMoy Miz (@moymiz)\n\nThe left sees center as far right now.\n\n\n\n\n\n— https://nitter.net/moymiz/status/2056373721041105323#m",
+      "link": "https://nitter.net/elonmusk/status/2056384365144183261#m",
+      "date": "Mon, 18 May 2026 14:40:13 GMT"
     },
     {
-      "text": "Almost every part of Starship V3 is different from V2\n\n\nDima Zeniuk (@DimaZeniuk)\n\nStarship Flight 12 goals:\n\n• Debut next-generation Starship and Super Heavy vehicles\n\n• First launch from Starbase’s newly redesigned launch pad\n\n• Demonstrate upgraded Raptor engines in flight\n\n• Deploy 20 Starlink simulators and 2 modified Starlink satellites\n\n• Test in-space Raptor relight\n\n• Evaluate heat shield performance and tile damage scenarios during reentry\n\n• Perform experimental reentry and maneuvering tests\n\n• Offshore splashdown attempt for the redesigned Super Heavy booster\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DimaZeniuk/status/2056043781502156903#m",
-      "link": "https://nitter.net/elonmusk/status/2056177125099463038#m",
-      "date": "Mon, 18 May 2026 00:56:43 GMT"
+      "text": "Yeah, /implement is easily my #1 skill.\nIt’s not just the implement → review → fix loop that gives way better output — it also has a built-in memory system.\nAfter each task, the orchestrator summarises the issues that were fixed, saves them to a persistent file of “most common problems,” and on the next run injects that knowledge into the implementer + reviewer prompts so they avoid repeating the same mistakes.\n\n\nMorgan (@morganlinton)\n\nOkay, looks like /implement is the way to get Grok Build to run longer, just had my first 10 minute run 💪\n\nWhat's really neat is it's super critical of itself, essentially finds its own bugs, and then puts together subagents to address all the open issues.\n\n\n\n\n\n— https://nitter.net/morganlinton/status/2056096556089241886#m",
+      "link": "https://nitter.net/theskory/status/2056326076175954165#m",
+      "date": "Mon, 18 May 2026 10:48:35 GMT"
     },
     {
-      "text": "Incentives explain outcomes\n\n\nThe Rabbit Hole (@TheRabbitHole)\n\nHow much of the Woke madness that we have seen from Hollywood was driven by California state policies?\n\n\"Productions receiving credits under this program are required to set ethnic, racial, and gender diversity goals and to develop a plan to achieve those diversity goals.\"\n\n\n\n\n\n— https://nitter.net/TheRabbitHole/status/2056133960682582492#m",
-      "link": "https://nitter.net/elonmusk/status/2056172261418090844#m",
-      "date": "Mon, 18 May 2026 00:37:23 GMT"
+      "text": "Grok Summary of Elon Musk’s interview at the Samson International Smart Mobility Summit today.\n\n1. Strong praise for Israel’s innovation edge Elon called out Israel’s outsized impact, saying it “punches way above its weight, probably #1 in the world” in innovation per capita. He expressed clear admiration for the country’s tech ecosystem, especially in AI and mobility.\n\n2. Tesla FSD & unsupervised robotaxis — near-term reality\n•Unsupervised robotaxis are coming soon.\n•Tesla is already running driverless tests in select Texas areas.\n•FSD availability: Elon stated it will roll out in both the US and Israel by the end of 2026.\n•As the AI improves, cars will feel increasingly “alive.”\n•Prediction: In about 10 years, most driving will be AI-handled.\n\n3. Humanoid robots → abundance economy Elon painted a future where humanoid robots (Optimus and others) vastly outnumber humans. This shift, he said, will create massive abundance and could enable ideas like “universal high income.” He framed smart mobility as part of this broader robotics/AI revolution.\n\n4. Starship, multi-planetary life & Neuralink\n•Starship’s rapid reusability is the key unlock for becoming multi-planetary and building cities on Mars.\n•Neuralink was briefly highlighted for restoring function to people with paralysis or vision loss — described in one summary as potentially “Jesus-level” impact.\n•All of these threads (autonomy, robots, space, brain interfaces) connect to one overarching goal: “maximize the probability that civilization has a great future.”\n\n5. Balanced optimism with risk awareness Classic Elon: big-picture excitement tempered by realism. He noted risks (including rogue robots/AI) but emphasized proactive development and deployment as the path forward.",
+      "link": "https://nitter.net/cb_doge/status/2056289466483097840#m",
+      "date": "Mon, 18 May 2026 08:23:07 GMT"
     },
     {
-      "text": "Accurate 😂\n\n\nThe Babylon Bee (@TheBabylonBee)\n\nStudy Finds 100% Of Men Would Eat Any Fruit Given To Them By A Naked Woman buff.ly/7lGTEbV\n\n\n\n\n\n— https://nitter.net/TheBabylonBee/status/2056117650443415794#m",
-      "link": "https://nitter.net/elonmusk/status/2056170982784602538#m",
-      "date": "Mon, 18 May 2026 00:32:18 GMT"
+      "text": "Yes\n\n\nC3 (@C_3C_3)\n\nThis is exactly how you deal with the “lack of diversity” claim.\n\nYou need to mock the absurdity of it.\n\nPush back. Do not give the woke an inch.\n\nThis should have been how Christopher Nolan dealt with it.\n\nInstead he followed the woke guidelines and desecrated a masterpiece.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/C_3C_3/status/2056022794047987803#m",
+      "link": "https://nitter.net/elonmusk/status/2056305709671694461#m",
+      "date": "Mon, 18 May 2026 09:27:40 GMT"
     },
     {
-      "text": "True\n\n\nX Freeze (@XFreeze)\n\nPeople completely miss the most important thing about Tesla FSD\n\nIt’s not just about convenience. It’s not a \"cool self-parking trick.\"\n\nIt’s about the fact that car crashes are the #1 killer of healthy people aged 5-29 globally and one company has gathered over 10 billion miles of real-world data to actually solve it\n\nLook at the recent data: Tesla just became the FIRST vehicle to pass NHTSA's new ADAS safety tests. Not the first EV. The first vehicle. Period.\n\nThe reality is harsh but simple. Countries that approve FSD get safer roads overnight. Countries that delay will literally watch their citizens die in preventable crashes while bureaucrats sit in meeting rooms debating \"safety.\"\n\nThe \"safety\" argument against FSD is officially dead\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2056165554894098693#m",
-      "link": "https://nitter.net/elonmusk/status/2056170069340622976#m",
-      "date": "Mon, 18 May 2026 00:28:40 GMT"
+      "text": "nitter.net/stevenmarkryan/status/…",
+      "link": "https://nitter.net/elonmusk/status/2056288621980708908#m",
+      "date": "Mon, 18 May 2026 08:19:46 GMT"
     },
     {
-      "text": "For most of human history, women did not experience children as some rare interruptions to adult life. Babies were everywhere, in arms, on hips, asleep in slings, playing under tables while bread was kneaded and laundry was folded. A young girl did not grow up in a world separated from motherhood. \n\nSo how can women want babies when they rarely see babies? \n\nA baby changes the atmosphere of a room, people smile more, they speak softer, they are gentler, there is more joy. \n\nPerhaps the desire for children has not disappeared nearly as much as we think. Perhaps many women have simply been separated from the very thing that used to awaken that desire in their hearts.",
-      "link": "https://nitter.net/Tanyaelisabeth/status/2056076986158834088#m",
-      "date": "Sun, 17 May 2026 18:18:48 GMT"
+      "text": "True\n\n\nPeter St Onge, Ph.D. (@profstonge)\n\n76% of black voters want voter ID\nAlong with 82% of Latinos and 85% of whites.\n\nDemocrats hyperventilate about \"preserving democracy\" while they block the single most obvious thing that preserves democracy.\n\n\n\n— https://nitter.net/profstonge/status/2056056890723831944#m",
+      "link": "https://nitter.net/elonmusk/status/2056288194740527116#m",
+      "date": "Mon, 18 May 2026 08:18:04 GMT"
     },
     {
-      "text": "Okay, looks like /implement is the way to get Grok Build to run longer, just had my first 10 minute run 💪\n\nWhat's really neat is it's super critical of itself, essentially finds its own bugs, and then puts together subagents to address all the open issues.",
-      "link": "https://nitter.net/morganlinton/status/2056096556089241886#m",
-      "date": "Sun, 17 May 2026 19:36:34 GMT"
+      "text": "Grok Imagine ✨\n\nVideo\n  \n\n\n\n\nDéborah (@dvorahfr)\n\nMoonlit stroll by Grok Imagine\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2056246389223350369#m",
+      "link": "https://nitter.net/AdamLowisz/status/2056279974349299736#m",
+      "date": "Mon, 18 May 2026 07:45:24 GMT"
     }
   ]
 }
