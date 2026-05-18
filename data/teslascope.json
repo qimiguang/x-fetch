@@ -1,8 +1,33 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-18T19:50:45Z",
-  "count": 17,
+  "updated_at": "2026-05-18T22:07:04Z",
+  "count": 18,
   "tweets": [
+    {
+      "text": "Just some food for thought. We appreciate and try to engage with everyone, whether the posts or replies are positive, neutral, or negative, and whether such feelings are directed toward us or at Tesla.\n\nAlways striving to be more helpful to all. Let us know any thoughts you have!",
+      "link": "https://nitter.net/teslascope/status/2056489953354555437#m",
+      "date": "Mon, 18 May 2026 21:39:47 GMT"
+    },
+    {
+      "text": "But if it's being expressed as a question about whether a wave actually occurred, then that's something we believe should be improved.\n\nWe can work with other platforms such as @wholemars's @fsd_database and @TezLabApp, alongside our own platform, to help tackle these problems.",
+      "link": "https://nitter.net/teslascope/status/2056489951970418897#m",
+      "date": "Mon, 18 May 2026 21:39:46 GMT"
+    },
+    {
+      "text": "We're trying to determine how to improve the experience for vehicle owners.\n\nIf there's an inherent value in voicing exclusion akin to inclusion in waves, that's totally valid, and there's not much we can influence.\n\nSame for if it's simply a criticism of the rollout patterns.",
+      "link": "https://nitter.net/teslascope/status/2056489950691070145#m",
+      "date": "Mon, 18 May 2026 21:39:46 GMT"
+    },
+    {
+      "text": "Hey @Tesla community, what would make visualizing rollouts easier for everyone?\n\nEvery wave, we'll see dozens of posts (and replies) across X of those who were not included, even when a wave might be as small as 1-3% (so the majority are expected not to receive it yet).",
+      "link": "https://nitter.net/teslascope/status/2056489949407715476#m",
+      "date": "Mon, 18 May 2026 21:39:46 GMT"
+    },
+    {
+      "text": "A new wave of V14.3.3 has now been rolled out to additional AI4 vehicles within the past hour.\n\nThis wave only includes vehicles on 2026.2.9.10, which we previously hinted Tesla would prioritize rolling out to vehicles without the Spring Update initially.\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving V14.3.3 is now rolling out for the first time and includes Tesla's Spring Update.\n\n\n\n— https://nitter.net/teslascope/status/2055873580001595789#m",
+      "link": "https://nitter.net/teslascope/status/2056475365758120290#m",
+      "date": "Mon, 18 May 2026 20:41:49 GMT"
+    },
     {
       "text": "New intervention option “Parking” added in FSD V14.3.3\n@teslascope @DriveTeslaca",
       "link": "https://nitter.net/DevinOlsenn/status/2055912757619573171#m",
@@ -67,26 +92,6 @@
       "text": "Battery Health, customizable shortcuts, and other improvements now live for our beta testers. \n\nMore invites are going out today, and we're on schedule for expansion to Plus/Pro subscribers and subscribers here on X starting later next week!\n\n\nVehiclescope (@vehiclescope)\n\nNew in V0.0.5 (now in review):\n\nBattery Health is now available, providing real-time battery status, with fleet comparison launching next month. 🔋\n\nDrives and Charges are now always accessible directly via vehicle details. \n\nAnd you can now customize the navigation shortcuts! 😎\n\n\n\n\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2054797329950281747#m",
       "link": "https://nitter.net/teslascope/status/2055389861641900426#m",
       "date": "Fri, 15 May 2026 20:48:24 GMT"
-    },
-    {
-      "text": "Full blog post on our platform can be found here:\n\nteslascope.com/blog/6.3",
-      "link": "https://nitter.net/teslascope/status/2054381358789902793#m",
-      "date": "Wed, 13 May 2026 02:00:59 GMT"
-    },
-    {
-      "text": "It's been a productive week, and we're pleased to announce the release of Teslascope V6.3!\n\nAs X is discontinuing Communities (per @nikitabier), we'll share major updates to our platform here from time to time.\n\n1️⃣ We launched early access for our iOS app, via @vehiclescope! 🎉 (invite details in the following post)\n\n2️⃣ You can now sign in with your Apple Account by associating your Apple ID via Account > Integrations. This will also be used to send out invites to our Plus and Pro subscribers in the following weeks.\n\n3️⃣ You can now subscribe without an attached payment method, as long as you have enough credit for the subscription. Subscriptions will automatically pause if there's not enough credit for the renewal.\n\n4️⃣ Added a Vehicle Activity Developer API (combines drives and charges, with more events coming soon!)\n\n5️⃣ Certain vehicle statuses (such as lock status) now update within seconds.\n\n6️⃣ Improved Vehicle Controls to be more performant and reduce wait times.\n\n7️⃣ Improved support for vehicles with special characters and letter modifiers.\n\nAdditional improvements are underway for the remainder of May.",
-      "link": "https://nitter.net/teslascope/status/2054381357200249108#m",
-      "date": "Wed, 13 May 2026 02:00:58 GMT"
-    },
-    {
-      "text": "Tesla 2026.14.6 rolling out to vehicles @teslascope",
-      "link": "https://nitter.net/RealTeslaNorth/status/2054347029657358591#m",
-      "date": "Tue, 12 May 2026 23:44:34 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.8.200 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
-      "link": "https://nitter.net/teslascope/status/2054071877228712000#m",
-      "date": "Tue, 12 May 2026 05:31:12 GMT"
     }
   ]
 }
