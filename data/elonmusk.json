@@ -1,15 +1,45 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-18T22:07:04Z",
+  "updated_at": "2026-05-19T09:55:54Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Last year, China added as much energy to its grid as Germany has in total.",
+      "link": "https://nitter.net/cremieuxrecueil/status/2056515000823640289#m",
+      "date": "Mon, 18 May 2026 23:19:19 GMT"
+    },
+    {
+      "text": "3 new models from @xai's Grok creative stack are live on OpenRouter:\n\n• Grok Imagine Image Quality: photoreal image generation and editing\n• Grok Imagine Video: short clips from text, image, or reference\n• Grok Voice TTS 1.0: 5 voices across 20+ languages\n\nMore on each below 🧵",
+      "link": "https://nitter.net/OpenRouter/status/2056448867982606754#m",
+      "date": "Mon, 18 May 2026 18:56:31 GMT"
+    },
+    {
+      "text": "Vera nice, Vera nice … 🤌\n\n\nNVIDIA (@nvidia)\n\nThanks @SpaceX and @elonmusk, excited for you to try out the NVIDIA Vera CPU 🎉\n\n\n\n— https://nitter.net/nvidia/status/2056523120652275878#m",
+      "link": "https://nitter.net/elonmusk/status/2056547935752441863#m",
+      "date": "Tue, 19 May 2026 01:30:11 GMT"
+    },
+    {
+      "text": "Elon Musk met with NVIDIA’s Ian Buck, who gave him the new Vera CPU for SpaceXAI.",
+      "link": "https://nitter.net/cb_doge/status/2056532081145253927#m",
+      "date": "Tue, 19 May 2026 00:27:11 GMT"
+    },
+    {
+      "text": "Elon Musk’s lawyer, Marc Toberoff, on today’s verdict in the OpenAI case:\n\n“I have a one-word reaction: Appeal. This war is not over. We firmly believe what happened with OpenAI was wrong on a very basic level that you can't raise millions of dollars in a publicly subsidized charity, and when it suits you, just turn into a for-profit operation where the officers and directors of the charity enrich themselves to the tune of billions, and that's what actually happened here, and that's just wrong.\"\n\nVideo",
+      "link": "https://nitter.net/SawyerMerritt/status/2056477364134044055#m",
+      "date": "Mon, 18 May 2026 20:49:45 GMT"
+    },
+    {
+      "text": "Grok Build has Command Palette with Ctrl+P",
+      "link": "https://nitter.net/techdevnotes/status/2056500837434765539#m",
+      "date": "Mon, 18 May 2026 22:23:02 GMT"
+    },
     {
       "text": "xAI has Released a blog on Skills",
       "link": "https://nitter.net/techdevnotes/status/2056481263087649224#m",
       "date": "Mon, 18 May 2026 21:05:15 GMT"
     },
     {
-      "text": "Judge Yvonne Gonzalez Rogers basically waved off Elon’s OpenAI appeal, saying the jury’s statute of limitations ruling is tough to overturn.\n\nAn activist judge letting Sam Altman skate after he hijacked a nonprofit charity — originally pledged to benefit all humanity — and turned it into his $150B+ personal for-profit empire? That’s not justice.\n\nStealing a charity for profit is not OK. You don’t get to rewrite the mission, pocket the upside, and hide behind “time limits” while betraying the public trust. OpenAI’s founding promise was destroyed in broad daylight.\n\nThis makes zero sense.\n\n\n\n\nElon Musk (@elonmusk)\n\nThis illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent.\n\nShe just handed out a free license to loot charities if you can keep the looting quiet for a few years!\n\n\n\n— https://nitter.net/elonmusk/status/2056472426658058358#m",
+      "text": "Judge Yvonne Gonzalez Rogers basically waved off Elon’s OpenAI appeal, saying the jury’s statute of limitations ruling is tough to overturn.\n\nAn activist judge letting Sam Altman skate after he hijacked a nonprofit charity — originally pledged to benefit all humanity — and turned it into his $150B+ personal for-profit empire? That’s not justice.\n\nStealing a charity for profit is not OK. You don’t get to rewrite the mission, pocket the upside, and hide behind “time limits” while betraying the public trust. OpenAI’s founding promise was destroyed in broad daylight.\n\nThis makes zero sense.",
       "link": "https://nitter.net/teslaownersSV/status/2056473393499889841#m",
       "date": "Mon, 18 May 2026 20:33:59 GMT"
     },
@@ -44,11 +74,6 @@
       "date": "Mon, 18 May 2026 20:39:57 GMT"
     },
     {
-      "text": "This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent.\n\nShe just handed out a free license to loot charities if you can keep the looting quiet for a few years!\n\n\nBeff (e/acc) (@beffjezos)\n\nAnyone wanna go out together to raise $1B seed @ 0% dil with me now that this precedent is set?\n\n\n\n— https://nitter.net/beffjezos/status/2056453393200128409#m",
-      "link": "https://nitter.net/elonmusk/status/2056472426658058358#m",
-      "date": "Mon, 18 May 2026 20:30:08 GMT"
-    },
-    {
       "text": "These kids are serial criminals with a callous disregard for life. If they are ever released from jail they will surely harm again.\n\nAustin PD, Travis Co. Sheriff Office & Manor PD did their job. Texas Dept. of Public Safety aided them.\n\nThe DA & Court must do their job and keep these criminals behind bars.\n\nkatv.com/news/nation-world/a…",
       "link": "https://nitter.net/GregAbbott_TX/status/2056218447663513993#m",
       "date": "Mon, 18 May 2026 03:40:55 GMT"
@@ -77,31 +102,6 @@
       "text": "Reminder that Grok Build is iterating extremely fast and we are highly responsive to critical feedback. \n\nFixes & upgrades are dropping every day.\n\n\nBrivael Le Pogam (@brivael)\n\nJust started testing the @grok Build beta.\n\nFirst feel: UX is nice, still some rough edges, but model speed is genuinely cool.\n\nIf task quality on hard stuff matches opus 4.7 (or even slightly below) at this speed, it's a game-changer.\n\nGood chance they steamroll the competition.\n\n\n\n\n\n— https://nitter.net/brivael/status/2056407162813825384#m",
       "link": "https://nitter.net/elonmusk/status/2056408391887544341#m",
       "date": "Mon, 18 May 2026 16:15:41 GMT"
-    },
-    {
-      "text": "Grok agent mode is a major ability unlock\n\n\nDéborah (@dvorahfr)\n\nI've finished a video of just over 4 minutes, entirely created using Grok Imagine's Agent mode (see image).\n\nIt's a much smoother way to make videos because you can rely on Grok's understanding.\nThe Image reference is now available and it's very, very useful.\nAll the dialogues were done with Grok, no need for sound dubbing and that's a huge time saver and adds credibility to the video.\nThe realism is really well done.\n\nI post it in one hour.\n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2056401688131481932#m",
-      "link": "https://nitter.net/elonmusk/status/2056406690975641608#m",
-      "date": "Mon, 18 May 2026 16:08:55 GMT"
-    },
-    {
-      "text": "Indeed\n\n\nKatie Miller (@KatieMiller)\n\nI feel sad for the people who will miss out on having children because of anti-family propaganda pushed by the left. \n\nHumanity will collapse without increasing birth rates.\n\n\n\n— https://nitter.net/KatieMiller/status/2056397429763666341#m",
-      "link": "https://nitter.net/elonmusk/status/2056406194936254970#m",
-      "date": "Mon, 18 May 2026 16:06:57 GMT"
-    },
-    {
-      "text": "How one NGO spun a spiders web of 40 activist orgs, gov't officials, legislators & lawyers into passing the UK Online Censorship Act suppressing every US platform and millions of British citizens today.\n\nBritain, you got CUKT (Carnegie UK Trust)\n\n\n\n\nMike Benz (@MikeBenzCyber)\n\nThe acronym for the NGO that drafted the UK Online Censorship Act is quite literally \"CUKT\"\n\n\n\n\n\n— https://nitter.net/MikeBenzCyber/status/2056331252928540950#m",
-      "link": "https://nitter.net/MikeBenzCyber/status/2056338467668320341#m",
-      "date": "Mon, 18 May 2026 11:37:50 GMT"
-    },
-    {
-      "text": "Woke up to see that Grok Build finished my feature build from last night.\n\nBut what's the most interesting to me, is that it has a set of suggestions for what to do to really make sure everything is done right.\n\nThis is different from any other agentic coding agent I've used. Normally, coding agents just end when they finish a task, but with Grok Build, it always ends by suggesting things like small targeted fix rounds.\n\nReally neat. Almost like a senior dev who says, hey - I know you think you're done, but if you really want to do it right, here's what I would do.",
-      "link": "https://nitter.net/morganlinton/status/2056379667612102883#m",
-      "date": "Mon, 18 May 2026 14:21:33 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2056395872506622457#m",
-      "date": "Mon, 18 May 2026 15:25:56 GMT"
     }
   ]
 }
