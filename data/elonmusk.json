@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-19T09:55:54Z",
-  "count": 20,
+  "updated_at": "2026-05-19T15:36:07Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "First Starship V3 launch later this week!\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2056752314363302150#m",
+      "date": "Tue, 19 May 2026 15:02:19 GMT"
+    },
+    {
+      "text": "Where are the aliens? This is one of the most fundamental questions.\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2056752178895741363#m",
+      "date": "Tue, 19 May 2026 15:01:46 GMT"
+    },
+    {
+      "text": "Greg Gutfeld: \"You can thank [Elon] Musk for buying Twitter. Remember the old line - 'a lie can travel halfway around the world while truth is still putting on its boots?' Now, the lie barely gets out of bed before we put a boot up its *ss.\"\n\nVideo",
+      "link": "https://nitter.net/ResisttheMS/status/2056691344727286112#m",
+      "date": "Tue, 19 May 2026 11:00:02 GMT"
+    },
+    {
+      "text": "Grok Build … everyday we shuffling\n\n\nskcd (@skcd42)\n\nBug fixes shipping for Grok Build\n\n- Fix Windows contrast/color/theme rendering\n- Fix German QWERTZ AltGr on Windows\n- Convert session timestamps to local timezone \n- Add backslash continuation to plan mode\n- Fix auth for plugin-provided MCP servers\n- Default to PowerShell on Windows\n- Improve search tool on BM25 queries\n- Decrease large bash tool output to 20k chars front-and-back\n- Auto-install shell completions for bash, zsh, and fish\n- Force-refetch managed MCP configs\n- Don’t auto-wake the model on cancelled/killed tasks/subagents\n- Return images in tool response vs. deferred message\n\n\n\n— https://nitter.net/skcd42/status/2056581177495142752#m",
+      "link": "https://nitter.net/elonmusk/status/2056750034599711035#m",
+      "date": "Tue, 19 May 2026 14:53:15 GMT"
+    },
+    {
+      "text": "True\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2056749520151593392#m",
+      "date": "Tue, 19 May 2026 14:51:12 GMT"
+    },
+    {
+      "text": "🚨 holy shit.. a woman just pleaded guilty to running a voter fraud scheme on Skid Row for 20 years and nobody caught her until a guy with a hidden camera showed up\n\nBrenda Lee Brown Armstrong.. caught on tape 28 times paying homeless people with cash and cigarettes to register to vote.. she let them use her own address so the mail-in ballots went straight to her house\n\nshe admitted on camera it was a \"pyramid scheme\".. said she wasn't the only one.. prosecutors confirmed she'd been doing it for two decades in the middle of Los Angeles\n\nin 2020 you got banned from the internet for saying voter fraud exists.. in 2026 a woman is pleading guilty in federal court to doing it since 2000\n\nthe biggest city in America couldn't find a woman committing voter fraud for 20 years but a guy with a hidden camera found her in an afternoon\n\nVideo\n  \n\n\n\n\nR A W S A L E R T S (@rawsalerts)\n\n🚨 #BREAKING: L.A. woman pleads guilty to paying homeless people on Skid Row to register to vote in 20-year scheme, uncovered by @JamesOKeefeIII.\n\n\n\n— https://nitter.net/rawsalerts/status/2056419088088301876#m",
+      "link": "https://nitter.net/TukiFromKL/status/2056452710397026647#m",
+      "date": "Mon, 18 May 2026 19:11:47 GMT"
+    },
     {
       "text": "Last year, China added as much energy to its grid as Germany has in total.",
       "link": "https://nitter.net/cremieuxrecueil/status/2056515000823640289#m",
@@ -67,41 +97,6 @@
       "text": "The long journey of rock in Nashville\n\nVideo",
       "link": "https://nitter.net/boringcompany/status/2056474443212574931#m",
       "date": "Mon, 18 May 2026 20:38:09 GMT"
-    },
-    {
-      "text": "Regarding the OpenAI case, the judge & jury never actually ruled on the merits of the case, just on a calendar technicality. \n\nThere is no question to anyone following the case in detail that Altman & Brockman did in fact enrich themselves by stealing a charity. The only question is WHEN they did it!\n\nI will be filing an appeal with the Ninth Circuit, because creating a precedent to loot charities is incredibly destructive to charitable giving in America.\n\nOpenAI was founded to benefit all of humanity.",
-      "link": "https://nitter.net/elonmusk/status/2056474896641782077#m",
-      "date": "Mon, 18 May 2026 20:39:57 GMT"
-    },
-    {
-      "text": "These kids are serial criminals with a callous disregard for life. If they are ever released from jail they will surely harm again.\n\nAustin PD, Travis Co. Sheriff Office & Manor PD did their job. Texas Dept. of Public Safety aided them.\n\nThe DA & Court must do their job and keep these criminals behind bars.\n\nkatv.com/news/nation-world/a…",
-      "link": "https://nitter.net/GregAbbott_TX/status/2056218447663513993#m",
-      "date": "Mon, 18 May 2026 03:40:55 GMT"
-    },
-    {
-      "text": "Composer 2.5 is a significant step up from Composer 2.\n\nThis is the very start of our work with SpaceXAI. Hope to have more improvements out soon.\n\n\nCursor (@cursor_ai)\n\nIntroducing Composer 2.5, our most powerful model yet.\n\nIt's more intelligent, better at sustained work on long-running tasks, and more reliable at following complex instructions.\n\nFor the next week, we’re doubling the included usage of the model.\n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2056415413077233983#m",
-      "link": "https://nitter.net/mntruell/status/2056418797473640681#m",
-      "date": "Mon, 18 May 2026 16:57:02 GMT"
-    },
-    {
-      "text": "Try it out!\n\n(Partially trained on Colossus 2)\n\n\nCursor (@cursor_ai)\n\nIntroducing Composer 2.5, our most powerful model yet.\n\nIt's more intelligent, better at sustained work on long-running tasks, and more reliable at following complex instructions.\n\nFor the next week, we’re doubling the included usage of the model.\n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2056415413077233983#m",
-      "link": "https://nitter.net/elonmusk/status/2056422097237283295#m",
-      "date": "Mon, 18 May 2026 17:10:09 GMT"
-    },
-    {
-      "text": "Please help make Grok Build great!\n\nMuch appreciated, Elon.\n\n\nMorgan (@morganlinton)\n\nPhew, Grok Build is really thorough, pretty incredible.\n\nRelay feature for PasteLocal is done, pushing to Github now. \n\nAnd if you want to know what this adds, here's a bit more about it, this is a feature I really wanted in there, and honestly didn't really expect to have done this week.\n\n• Per-peer E2E encryption: clipboard data is encrypted individually for each paired device using X25519 + HKDF + AES-GCM (no plaintext ever leaves the client)\n\n• Durable persistence: relay state is now stored in an atomic state.json with proper TTL handling and compaction. Pending clips survive relay-server restarts\n\n• Safe compaction: fixed unsafe map mutation during expiration/compaction that could cause data loss or undefined behavior\n\n• Full bidirectional CLI: new commands: pastelocal relay send, inbox, fetch, and status, plus pastelocal-remote --relay --peer --send\n\n• Auto-sync: when watch.enabled + relay.auto_upload are on, meaningful clipboard changes are automatically pushed to paired devices\n\n• Improved DX: doctor checks are now only shown when relay is enabled, and the TUI shows basic relay status\n\n• Multiple review cycles: went through full implement → review → fix → re-review (effort 4), plus a final targeted regression fix round\n\nTry it out and please send any and all feedback!\n\n\n\n\n\n— https://nitter.net/morganlinton/status/2056395661915148367#m",
-      "link": "https://nitter.net/elonmusk/status/2056409870262268270#m",
-      "date": "Mon, 18 May 2026 16:21:33 GMT"
-    },
-    {
-      "text": "Elon Musk on “Suicidal Empathy”:\nGad Saad has a good way to describe it\n\n“Suicidal empathy” - where you prey upon people’s empathy so much that it becomes suicidal to your own country and culture\n\nYou feel sorry for the criminals, but show zero empathy for the victims\n\nThis is why someone arrested 47 times for violent offenses gets released and then murders somebody\n\nWe've become so blindly compassionate toward predators that \"we're actually allowing our women to get r@ped and our children to get killed\"\n\nWe should have empathy. But that empathy must go to the victims - not the criminals\n\nThis suicidal empathy has gone too far\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nBut this book for your friends for the defense of Western Civilization!\n\n\n\n— https://nitter.net/elonmusk/status/2056384750026178796#m",
-      "link": "https://nitter.net/XFreeze/status/2056406145292546107#m",
-      "date": "Mon, 18 May 2026 16:06:45 GMT"
-    },
-    {
-      "text": "Reminder that Grok Build is iterating extremely fast and we are highly responsive to critical feedback. \n\nFixes & upgrades are dropping every day.\n\n\nBrivael Le Pogam (@brivael)\n\nJust started testing the @grok Build beta.\n\nFirst feel: UX is nice, still some rough edges, but model speed is genuinely cool.\n\nIf task quality on hard stuff matches opus 4.7 (or even slightly below) at this speed, it's a game-changer.\n\nGood chance they steamroll the competition.\n\n\n\n\n\n— https://nitter.net/brivael/status/2056407162813825384#m",
-      "link": "https://nitter.net/elonmusk/status/2056408391887544341#m",
-      "date": "Mon, 18 May 2026 16:15:41 GMT"
     }
   ]
 }
