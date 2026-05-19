@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-18T22:07:04Z",
-  "count": 18,
+  "updated_at": "2026-05-19T04:03:45Z",
+  "count": 20,
   "tweets": [
+    {
+      "text": "To clarify, this enables automated posts here on X, just like our software update posts.\n\nWe'll be adding a dedicated section for this to our web platform this week, and our iOS app will support receiving rollout notifications before month end.",
+      "link": "https://nitter.net/teslascope/status/2056530864696336869#m",
+      "date": "Tue, 19 May 2026 00:22:21 GMT"
+    },
+    {
+      "text": "We just added automated rollout detection to our platform, which will monitor all software updates released in the last 30 days.\n\nThe post will include the percentage increase and list all models included in the wave, such as \"Model Y AI4\".\n\nKeep an eye out for the first rollout!",
+      "link": "https://nitter.net/teslascope/status/2056513976524312634#m",
+      "date": "Mon, 18 May 2026 23:15:14 GMT"
+    },
     {
       "text": "Just some food for thought. We appreciate and try to engage with everyone, whether the posts or replies are positive, neutral, or negative, and whether such feelings are directed toward us or at Tesla.\n\nAlways striving to be more helpful to all. Let us know any thoughts you have!",
       "link": "https://nitter.net/teslascope/status/2056489953354555437#m",
