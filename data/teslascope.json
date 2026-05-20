@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-20T04:04:21Z",
+  "updated_at": "2026-05-20T09:44:57Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Full Self-Driving (Supervised) is now available in Lithuania, joining the Netherlands.\n\nWe'll be monitoring FSD versions in this region and in other countries as the expansion continues across Europe!\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nFSD Supervised now rolling out to Teslas in Lithuania 🇱🇹!\n\nMaking European roads safer, one by one\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaeurope/status/2056991427511332957#m",
+      "link": "https://nitter.net/teslascope/status/2057030632765894836#m",
+      "date": "Wed, 20 May 2026 09:28:15 GMT"
+    },
     {
       "text": "A new wave of 2026.14.6.6 (containing FSD V14.3.3) just went out to additional vehicles within the last five minutes.\n\nThis wave includes all AI4 vehicle models and has expanded to include Canada and Mexico.\n\n\nTeslascope (@teslascope)\n\nA new wave of V14.3.3 has now been rolled out to additional AI4 vehicles within the past hour.\n\nThis wave only includes vehicles on 2026.2.9.10, which we previously hinted Tesla would prioritize rolling out to vehicles without the Spring Update initially.\n\n\n\n— https://nitter.net/teslascope/status/2056475365758120290#m",
       "link": "https://nitter.net/teslascope/status/2056858708525851065#m",
@@ -97,11 +102,6 @@
       "text": "The impossible has happened.\n\nDan O’Dowd has spoken positively of Full Self-Driving and confirmed that V14.3.2 has passed their school bus test perfectly, every time.\n\nIf even FSD’s most famous hater has something good to say, then that’s a good sign of radical improvements.\n\n\nDan O'Dowd (@RealDanODowd)\n\nBREAKING: Tesla self-driving finally passed @RealDawnProject's school bus test!\n\nOn 50 out of 50 test runs, FSD 14.3.2 correctly stopped for the stopped school bus.\n\nAfter three years of campaigning, New York Times ads and Super Bowl commercials, Tesla has finally done the right thing and fixed this egregious safety defect.\n\nHowever, HW3 Teslas running FSD v 12.6.4 will still illegally blow past the stopped school bus and run down a child crossing the road.\n\n@ElonMusk, if the defects can't be fixed on the current hardware, FSD should be disabled until those vehicles have been upgraded.\n\n@aelluswamy, your next task is to stop FSD 14 from speeding in school zones.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2055454708886872555#m",
       "link": "https://nitter.net/teslascope/status/2055524263550165128#m",
       "date": "Sat, 16 May 2026 05:42:28 GMT"
-    },
-    {
-      "text": "Lots of interesting changes in the latest Robotaxi app update.\n\n\nTesla App Updates (iOS) (@Tesla_App_iOS)\n\nVersion 26.4.5 of the Robotaxi app has been de-compiled and we've got some interesting things added this update (nitter.net/Tesla_App_iOS/status/2…):\n\n- Remote Operator Voice Calls 📞\n\n- Proactive Remote Assistance 🤖\n\n- Manual Override + Remote Start for wheel-less Cybercabs 🎮\n\n- Ride-Hailing & Dispatch Features (soft-match, multi-stop) 🚕\n\n- Rider-Cabin Sync, Real-Time Routing & Dynamic Safety Monitoring 👁️\n\n- Digital Vehicle Immobilization Kill Switch 🔒\n\nHave a great weekend everyone!\n\n\n\n— https://nitter.net/Tesla_App_iOS/status/2055454692658880878#m",
-      "link": "https://nitter.net/teslascope/status/2055472033572733383#m",
-      "date": "Sat, 16 May 2026 02:14:56 GMT"
     }
   ]
 }
