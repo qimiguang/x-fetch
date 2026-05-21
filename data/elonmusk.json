@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-21T19:59:57Z",
+  "updated_at": "2026-05-21T22:23:10Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Please do a quick read of this. It’s short, well written, and will remove a bit of wool from over your eyes.\n\n\n@amuse (@amuse)\n\nx.com/i/article/205752772526…\n\n\n\n— https://nitter.net/amuse/status/2057530359844409654#m",
+      "link": "https://nitter.net/JeffBezos/status/2057548298026713113#m",
+      "date": "Thu, 21 May 2026 19:45:16 GMT"
+    },
     {
       "text": "I called my engineer friend at SpaceX the other day.\n\n1am Pacific. 3am in Starbase.\n\nHe was still in the office and not going home any time soon. \n\nAnd he was happy. Energized. Because he's directly influencing the course of a multi-planetary future for humanity. \n\nOn a fundamental level, this is why Elon companies win. Young, high-competence people are given exceptional individual agency and semi-impossible problems. \n\nAnd they know that their contribution is essential. \n\nAny company that does this is much more likely to succeed. Elon does this without fail. \n\nInspires me a lot.\n\n\n\n\nDavid Senra (@davidsenra)\n\nMarc Andreessen (@pmarca) on what it’s like to work at SpaceX:\n\n“It’s like being dropped into a zone of shocking competence.”\n\n“Everybody is ultra competent, and the reason everybody’s ultra competent is because if they’re not, Elon sniffs it out and fires them. He knows, ‘cause he’s talking to the people actually doing the work.”\n\n“The best engineers in the world want to work for him, ‘cause he’s the one CEO like this who’s able to work with them as a peer on whatever the technology is.”\n\n“What would be better as an engineer than being able to design a rocket engine with Elon Musk as your engineering partner?”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/davidsenra/status/2057497821658399041#m",
       "link": "https://nitter.net/ArthurMacwaters/status/2057513042578174348#m",
@@ -97,11 +102,6 @@
       "text": "Tips for using Grok Build\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nIf you are managing multiple machines across clusters and farms, you could ask Grok Build to spin off a sub-agent SSH tunnel into the machines while interacting with tmux sessions for you.\n\nThanks to @skcd42 for the tips. Now I can fully live inside the main Grok Build instance without additional tabs to other clusters.\n\n\n\n— https://nitter.net/yunta_tsai/status/2057338100133834828#m",
       "link": "https://nitter.net/elonmusk/status/2057346643398128079#m",
       "date": "Thu, 21 May 2026 06:23:58 GMT"
-    },
-    {
-      "text": "Try it out!\n\n\nGrok (@grok)\n\nPrototyping game assets directly with Grok @imagine\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2057338215783370789#m",
-      "link": "https://nitter.net/elonmusk/status/2057346334705742177#m",
-      "date": "Thu, 21 May 2026 06:22:44 GMT"
     }
   ]
 }
