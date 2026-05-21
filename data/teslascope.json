@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-20T22:25:47Z",
+  "updated_at": "2026-05-21T04:13:34Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Starting soon!\n\nWe'll be watching along and will share any software or Full Self-Driving news if it comes up during the event.\n\n\nTesla (@Tesla)\n\nModel S & X Signature Delivery Event nitter.net/i/broadcasts/1nxeLygpl…\n\n\n\n\n— https://nitter.net/Tesla/status/2057257841799713183#m",
+      "link": "https://nitter.net/teslascope/status/2057259777395408931#m",
+      "date": "Thu, 21 May 2026 00:38:47 GMT"
+    },
     {
       "text": "Full Self-Driving (Supervised) is now available in Lithuania, joining the Netherlands.\n\nWe'll be monitoring FSD versions in this region and in other countries as the expansion continues across Europe!\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nFSD Supervised now rolling out to Teslas in Lithuania 🇱🇹!\n\nMaking European roads safer, one by one\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaeurope/status/2056991427511332957#m",
       "link": "https://nitter.net/teslascope/status/2057030632765894836#m",
@@ -97,11 +102,6 @@
       "text": "We noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2055871724055330936#m",
       "date": "Sun, 17 May 2026 04:43:09 GMT"
-    },
-    {
-      "text": "The impossible has happened.\n\nDan O’Dowd has spoken positively of Full Self-Driving and confirmed that V14.3.2 has passed their school bus test perfectly, every time.\n\nIf even FSD’s most famous hater has something good to say, then that’s a good sign of radical improvements.\n\n\nDan O'Dowd (@RealDanODowd)\n\nBREAKING: Tesla self-driving finally passed @RealDawnProject's school bus test!\n\nOn 50 out of 50 test runs, FSD 14.3.2 correctly stopped for the stopped school bus.\n\nAfter three years of campaigning, New York Times ads and Super Bowl commercials, Tesla has finally done the right thing and fixed this egregious safety defect.\n\nHowever, HW3 Teslas running FSD v 12.6.4 will still illegally blow past the stopped school bus and run down a child crossing the road.\n\n@ElonMusk, if the defects can't be fixed on the current hardware, FSD should be disabled until those vehicles have been upgraded.\n\n@aelluswamy, your next task is to stop FSD 14 from speeding in school zones.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2055454708886872555#m",
-      "link": "https://nitter.net/teslascope/status/2055524263550165128#m",
-      "date": "Sat, 16 May 2026 05:42:28 GMT"
     }
   ]
 }
