@@ -1,8 +1,78 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-22T19:55:03Z",
+  "updated_at": "2026-05-22T22:11:37Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The Starship team is go for prop load\n\n\nSpaceX (@SpaceX)\n\nWatch Starship's twelfth flight test nitter.net/i/broadcasts/1pKkOykQR…\n\n\n\n\n— https://nitter.net/SpaceX/status/2057843818859209147#m",
+      "link": "https://nitter.net/SpaceX/status/2057937951305179633#m",
+      "date": "Fri, 22 May 2026 21:33:36 GMT"
+    },
+    {
+      "text": "New connectors available\n\nBuild sites with Vercel, create anything in Canva, design decks in Gamma, and tap into market data from S&P Global.",
+      "link": "https://nitter.net/grok/status/2057896014992871747#m",
+      "date": "Fri, 22 May 2026 18:46:58 GMT"
+    },
+    {
+      "text": "Critical feedback is much appreciated\n\n\nBoyuan Zheng (@boyuan__zheng)\n\nExcited to see people try Grok Build for web dev. Our team has put a lot of effort into improving its aesthetics, functionality, and more exciting features to be expected with recursive self-improvement loop.\n\nIt’s still early beta, and feedback is very welcome. Please try it out and let us know where we can improve.\n\n\n\n— https://nitter.net/boyuan__zheng/status/2057925222284804375#m",
+      "link": "https://nitter.net/elonmusk/status/2057933447541219630#m",
+      "date": "Fri, 22 May 2026 21:15:43 GMT"
+    },
+    {
+      "text": "Elon Musk: \"Probably the biggest myth that exists right now is this overpopulation myth, when in fact we have a population collapse problem.\"\n\n\"I think that's the biggest risk to civilization right now. We've got to get rid of this nonsense.\"\n\nVideo",
+      "link": "https://nitter.net/ResisttheMS/status/2057899299464446007#m",
+      "date": "Fri, 22 May 2026 19:00:01 GMT"
+    },
+    {
+      "text": "Elon Musk: America is the central pole holding up Western civilization. If that pole fails, nothing else matters. “If America is not strong, if the West is not strong, then nothing else matters. The companies that I run don’t matter. America is the central pole holding up the tent that is Western civilization. If that pole fails, nothing else matters.”\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nWestern civilization is amazing\n\n\n\n— https://nitter.net/elonmusk/status/2057807177012613561#m",
+      "link": "https://nitter.net/Adams_Tech_AI/status/2057838062609039703#m",
+      "date": "Fri, 22 May 2026 14:56:41 GMT"
+    },
+    {
+      "text": "Elon Musk: \"I'm obviously a big fan of Nikola Tesla, since we named the company after him. But I also like Edison. Some people don’t like Edison, but I think he did some pretty impressive stuff. General Electric is basically Edison's company. I certainly admire great scientists and engineers… but I like anyone - Ben Franklin, Shakespeare, Newton, Einstein.\"\n\nVideo",
+      "link": "https://nitter.net/ResisttheMS/status/2057869102002192733#m",
+      "date": "Fri, 22 May 2026 17:00:01 GMT"
+    },
+    {
+      "text": "Zuby’s first time experiencing FSD was in Saphire Model Y AI4 on version 14.3.2 in Austin. His reaction is GOLD.\n\nVideo",
+      "link": "https://nitter.net/gailalfaratx/status/2057684080410456124#m",
+      "date": "Fri, 22 May 2026 04:44:49 GMT"
+    },
+    {
+      "text": "Made with Grok Build\n\n\nX Freeze (@XFreeze)\n\nxAI's new website redesign is pretty sick.....xAI design team is killing it\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/XFreeze/status/2057908409660592301#m",
+      "link": "https://nitter.net/JasonBud/status/2057927237303992505#m",
+      "date": "Fri, 22 May 2026 20:51:02 GMT"
+    },
+    {
+      "text": "T-zero is currently 5:30 Texas time\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2057927486998978691#m",
+      "date": "Fri, 22 May 2026 20:52:02 GMT"
+    },
+    {
+      "text": "One underrated part of SpaceX’s S-1:\n\nStarlink is becoming emergency connectivity infrastructure when traditional networks fail\n\nWe’ve seen that during hurricanes and wildfires, when ground networks were damaged, overloaded, or unavailable\n\nHere are the metrics:\n\n• Hurricanes Helene + Milton: 10K Starlink kits delivered, 27K smartphones connected\n• California wildfires: 198K users helped, 96K SMS messages\n• Hurricane Melissa: 1K terminals provided, 2M+ SMS messages\n\nThis is the bigger Starlink story\n\nIt is not just internet access. It is a resilient connectivity when traditional networks fail\n\nHomes, businesses, first responders, relief teams, and ordinary people need communication most when infrastructure breaks\n\nThat is where Starlink satellite connectivity becomes more than a product\n\nIt becomes an emergency layer for the real world",
+      "link": "https://nitter.net/XFreeze/status/2057914068925915441#m",
+      "date": "Fri, 22 May 2026 19:58:42 GMT"
+    },
+    {
+      "text": "xAI's new website redesign is pretty sick.....xAI design team is killing it\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2057908409660592301#m",
+      "date": "Fri, 22 May 2026 19:36:13 GMT"
+    },
+    {
+      "text": "Cursor Composer 2.5's is 3–18x cheaper than Opus 4.7 in Claude Code (medium reasoning), and 5–32x cheaper than GPT-5.5 in Codex (medium) based on API pricing\n\nThis low Cost per Task isn't just driven by relatively low token pricing, it's also driven by low relatively low token usage compared to other leading models. @cursor_ai  Composer 2.5 only used 1.6M token to complete our Coding Agent Index benchmarks, while other models used up to 5.7M. \n\nThis lower token usage also contributes to a low Time per Task. Across the Coding Agent Index configurations shown, average Time per Task was ~12 minutes. Composer 2.5 completed tasks in ~9 minutes on average, making it ~1.3x faster than average, while Composer 2.5 Fast completed tasks in ~7 minutes, making it ~1.8x faster than the average across agents.\n\nLink to full benchmark results below",
+      "link": "https://nitter.net/ArtificialAnlys/status/2057914437156409577#m",
+      "date": "Fri, 22 May 2026 20:00:10 GMT"
+    },
+    {
+      "text": ".@EricJorgenson on why Elon calls engineering magic:\n\n\"He's been thinking about these problems since he was in college. As a kid, he was very influenced by sci-fi and thinking about things that are possible.\n\nHe talks about engineering as magic.\n\n'If you build something that couldn't previously exist, that's like being a magician and who wouldn't want to be a magician?'\"\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nEngineering is real magic\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/elonmusk/status/2043420056311455960#m",
+      "link": "https://nitter.net/davidsenra/status/2057904144342778288#m",
+      "date": "Fri, 22 May 2026 19:19:16 GMT"
+    },
+    {
+      "text": "Grok Build has grok inspect command to see the configs",
+      "link": "https://nitter.net/techdevnotes/status/2057872756696359114#m",
+      "date": "Fri, 22 May 2026 17:14:33 GMT"
+    },
     {
       "text": "Excited to share our newly improved website for @xai. We overhauled every page to better showcase our various models and products, and help developers, enterprises and users get started quickly.\n\nNow live → x.ai\n\nVideo",
       "link": "https://nitter.net/benjitaylor/status/2057882844295532722#m",
@@ -32,76 +102,6 @@
       "text": "SpaceX now launches more rockets than every other country combined.\n\nThis has never happened before in the history of spaceflight.\n\nVideo",
       "link": "https://nitter.net/engineers_feed/status/2057827899630096482#m",
       "date": "Fri, 22 May 2026 14:16:18 GMT"
-    },
-    {
-      "text": "Try it out!\n\n\nEyad Kelleh (@KellehEyad)\n\nSpent the whole night in Composer 2.Spent the whole night in Composer 2.5, just waking up now and honestly, hard to go back. The pace this thing moves at is something else. Same outputs as Codex and Opus, but way faster. Someone explain @cursor_ai ?\n\n\n\n— https://nitter.net/KellehEyad/status/2057759086108627222#m",
-      "link": "https://nitter.net/elonmusk/status/2057842724649209878#m",
-      "date": "Fri, 22 May 2026 15:15:13 GMT"
-    },
-    {
-      "text": "CNBC: \"When you look at the SpaceX prospectus, what do you see in it that sounds fantastical… but you might think is real based on what you've seen accomplished at this point?\"nitter.net/ElonClipsX/status/2057…\n\nWalter Isaacson: \"I think what's fantastical is this notion of building data centers in the near term in low-Earth orbit or on the moon. But it makes a lot of sense… Elon has been able to make the impossible merely the slightly late.\"\n\nVideo",
-      "link": "https://nitter.net/ResisttheMS/status/2057828829930918290#m",
-      "date": "Fri, 22 May 2026 14:20:00 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2057839480350834878#m",
-      "date": "Fri, 22 May 2026 15:02:19 GMT"
-    },
-    {
-      "text": "Crazy how Starbase is starting to sound normal now 🚀\n\nAre we witnessing the beginning of an actual space city?",
-      "link": "https://nitter.net/isaac5xx/status/2057817425572212797#m",
-      "date": "Fri, 22 May 2026 13:34:41 GMT"
-    },
-    {
-      "text": "The amazing @NICKIMINAJ shows up at SpaceX and thanks Elon for all he does for humanity right before launch❤️\n\nVideo",
-      "link": "https://nitter.net/Chesschick01/status/2057604583325622422#m",
-      "date": "Thu, 21 May 2026 23:28:55 GMT"
-    },
-    {
-      "text": "Is Composer 2.5 really that good at coding? Anyone tried it yet?",
-      "link": "https://nitter.net/rezoundous/status/2057696322560627094#m",
-      "date": "Fri, 22 May 2026 05:33:28 GMT"
-    },
-    {
-      "text": "CHAMPIONS!!!!! 🏆 🟡🔵",
-      "link": "https://nitter.net/Cristiano/status/2057553113574215734#m",
-      "date": "Thu, 21 May 2026 20:04:24 GMT"
-    },
-    {
-      "text": "😁❤️🏆",
-      "link": "https://nitter.net/Cristiano/status/2057601840657650154#m",
-      "date": "Thu, 21 May 2026 23:18:01 GMT"
-    },
-    {
-      "text": "Everyone should hear this at least once.\n\nThis is the best explanation of Western civilisation you’ll ever hear:\n\nVideo",
-      "link": "https://nitter.net/triggerpod/status/2057741448850633192#m",
-      "date": "Fri, 22 May 2026 08:32:47 GMT"
-    },
-    {
-      "text": "Nick Shirley: \"The most powerful people in the world use X… The producers are on X… The people that are making changes in the world - they are on X.\"\n\nVideo",
-      "link": "https://nitter.net/ResisttheMS/status/2057808708722372843#m",
-      "date": "Fri, 22 May 2026 13:00:03 GMT"
-    },
-    {
-      "text": "Major study finds voters have statistically zero influence on Congress.\n\nIn case you’re curious why the 80% issues don’t pass, from crime to open borders to secure elections.\n\nVideo",
-      "link": "https://nitter.net/profstonge/status/2057786048663417156#m",
-      "date": "Fri, 22 May 2026 11:30:00 GMT"
-    },
-    {
-      "text": "Grok 4.3 stands out for being the most intelligent model in its price range\n\n\n\n\nMTS (@MTSlive)\n\nWe built a live job board of all the frontier labs hiring right now.\n\nPlus a way to see news, funding rounds, compare model releases and more. \n\nMonitor the frontier at:\ndash.mts.now\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MTSlive/status/2057567630983332247#m",
-      "link": "https://nitter.net/MTSlive/status/2057575001499599007#m",
-      "date": "Thu, 21 May 2026 21:31:22 GMT"
-    },
-    {
-      "text": "Western civilization is amazing\n\n\nKonstantin Kisin (@KonstantinKisin)\n\nWhat if the west isn't the villain they told you it was?\n\nWe’ve spent years accepting accusations about racism, intolerance, and slavery without challenging the bigger historical reality:\n\nThe societies most condemned today are also the ones that led the world in ending slavery, expanding rights, and building the most tolerant nations on earth.\n\nThat’s the conversation nobody wants to have.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/KonstantinKisin/status/2057803521953616036#m",
-      "link": "https://nitter.net/elonmusk/status/2057807177012613561#m",
-      "date": "Fri, 22 May 2026 12:53:57 GMT"
-    },
-    {
-      "text": "lol\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2057806372935254370#m",
-      "date": "Fri, 22 May 2026 12:50:46 GMT"
     }
   ]
 }

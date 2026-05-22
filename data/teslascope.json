@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-22T19:55:06Z",
+  "updated_at": "2026-05-22T22:11:39Z",
   "count": 20,
   "tweets": [
     {
@@ -49,19 +49,19 @@
       "date": "Tue, 19 May 2026 22:05:05 GMT"
     },
     {
-      "text": "We just added automated rollout detection to our platform, which will monitor all software updates released in the last 30 days.\n\nThe post will include the percentage increase and list all models included in the wave, such as \"Model Y AI4\".\n\nKeep an eye out for the first rollout!",
-      "link": "https://nitter.net/teslascope/status/2056513976524312634#m",
-      "date": "Mon, 18 May 2026 23:15:14 GMT"
-    },
-    {
       "text": "To clarify, this enables automated posts here on X, just like our software update posts.\n\nWe'll be adding a dedicated section for this to our web platform this week, and our iOS app will support receiving rollout notifications before month end.",
       "link": "https://nitter.net/teslascope/status/2056530864696336869#m",
       "date": "Tue, 19 May 2026 00:22:21 GMT"
     },
     {
-      "text": "Hey @Tesla community, what would make visualizing rollouts easier for everyone?\n\nEvery wave, we'll see dozens of posts (and replies) across X of those who were not included, even when a wave might be as small as 1-3% (so the majority are expected not to receive it yet).",
-      "link": "https://nitter.net/teslascope/status/2056489949407715476#m",
-      "date": "Mon, 18 May 2026 21:39:46 GMT"
+      "text": "We just added automated rollout detection to our platform, which will monitor all software updates released in the last 30 days.\n\nThe post will include the percentage increase and list all models included in the wave, such as \"Model Y AI4\".\n\nKeep an eye out for the first rollout!",
+      "link": "https://nitter.net/teslascope/status/2056513976524312634#m",
+      "date": "Mon, 18 May 2026 23:15:14 GMT"
+    },
+    {
+      "text": "Just some food for thought. We appreciate and try to engage with everyone, whether the posts or replies are positive, neutral, or negative, and whether such feelings are directed toward us or at Tesla.\n\nAlways striving to be more helpful to all. Let us know any thoughts you have!",
+      "link": "https://nitter.net/teslascope/status/2056489953354555437#m",
+      "date": "Mon, 18 May 2026 21:39:47 GMT"
     },
     {
       "text": "But if it's being expressed as a question about whether a wave actually occurred, then that's something we believe should be improved.\n\nWe can work with other platforms such as @wholemars's @fsd_database and @TezLabApp, alongside our own platform, to help tackle these problems.",
@@ -69,9 +69,14 @@
       "date": "Mon, 18 May 2026 21:39:46 GMT"
     },
     {
-      "text": "Just some food for thought. We appreciate and try to engage with everyone, whether the posts or replies are positive, neutral, or negative, and whether such feelings are directed toward us or at Tesla.\n\nAlways striving to be more helpful to all. Let us know any thoughts you have!",
-      "link": "https://nitter.net/teslascope/status/2056489953354555437#m",
-      "date": "Mon, 18 May 2026 21:39:47 GMT"
+      "text": "We're trying to determine how to improve the experience for vehicle owners.\n\nIf there's an inherent value in voicing exclusion akin to inclusion in waves, that's totally valid, and there's not much we can influence.\n\nSame for if it's simply a criticism of the rollout patterns.",
+      "link": "https://nitter.net/teslascope/status/2056489950691070145#m",
+      "date": "Mon, 18 May 2026 21:39:46 GMT"
+    },
+    {
+      "text": "Hey @Tesla community, what would make visualizing rollouts easier for everyone?\n\nEvery wave, we'll see dozens of posts (and replies) across X of those who were not included, even when a wave might be as small as 1-3% (so the majority are expected not to receive it yet).",
+      "link": "https://nitter.net/teslascope/status/2056489949407715476#m",
+      "date": "Mon, 18 May 2026 21:39:46 GMT"
     },
     {
       "text": "A new wave of V14.3.3 has now been rolled out to additional AI4 vehicles within the past hour.\n\nThis wave only includes vehicles on 2026.2.9.10, which we previously hinted Tesla would prioritize rolling out to vehicles without the Spring Update initially.\n\n\nTeslascope (@teslascope)\n\nFull Self-Driving V14.3.3 is now rolling out for the first time and includes Tesla's Spring Update.\n\n\n\n— https://nitter.net/teslascope/status/2055873580001595789#m",
@@ -87,11 +92,6 @@
       "text": "Actually Smart Summon now has a higher max speed of 8mph (13km/h) in Full Self-Driving V14.3.3 (2026.14.6.6) for AI4 vehicles.\n\n\nZack (@BLKMDL3)\n\nActually Smart Summon speed has been increased with FSD v14.3.3!\n\n\n\n\n\n— https://nitter.net/BLKMDL3/status/2055872210401984823#m",
       "link": "https://nitter.net/teslascope/status/2055877381446087095#m",
       "date": "Sun, 17 May 2026 05:05:38 GMT"
-    },
-    {
-      "text": "Once again, never doubt the scope. 😎\n\n\nTeslascope (@teslascope)\n\nSoon, very very soon.\n\n\n\n— https://nitter.net/teslascope/status/2055786461535105028#m",
-      "link": "https://nitter.net/teslascope/status/2055873734595211529#m",
-      "date": "Sun, 17 May 2026 04:51:09 GMT"
     },
     {
       "text": "Have been saying this for many days, though, not just today. Great to see the latest FSD + Spring Update finally merged.\n\nBest part, every single vehicle with AI4 is theoretically eligible, sans regional requirements.\n\nnitter.net/teslascope/status/2054…\n\n\nTeslascope (@teslascope)\n\nOur estimate has been anytime from tomorrow to Sunday for Spring Update + V14.3.X. The merge was partially delayed due to the security improvements.\n\nIf it’s longer then that, they’ve hit an internal delay.\n\n\n\n— https://nitter.net/teslascope/status/2054409664352432336#m",
