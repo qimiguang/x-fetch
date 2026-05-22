@@ -1,8 +1,58 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-21T22:23:10Z",
+  "updated_at": "2026-05-22T04:08:05Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Daily Grok Build bug fixes\n\n\nskcd (@skcd42)\n\nBug fixes shipping to Grok Build (release notes will be available in the TUI) 0.1.214\n\n- Rolling out X search and a much faster web-search (we plan to complete this by EOD)\n- Windows rendering bugs fix on powershell\n- Fix arrow-up keybinding in modals\n- Fix non-vim mode keybinding hints\n- Fix Cmd+Click on wrapped links\n- Filter out sessions that had no user input from picker\n- Support hookSpecificOutput.tool_input override\n- Prevent crash on exit when there are MCP servers with expiring tokens\n- Auto-refresh Skills when plugins change\n\n\n\n— https://nitter.net/skcd42/status/2057620377313095842#m",
+      "link": "https://nitter.net/elonmusk/status/2057625354592792807#m",
+      "date": "Fri, 22 May 2026 00:51:28 GMT"
+    },
+    {
+      "text": "Elon Musk just measured your existence by how many times your atoms have been inside a dying star.\n\nMusk: “How many times have your atoms been at the center of a star? I think it’s like on average three or four times.”\n\nEvery atom in your body has already survived the core of a star.\n\nMultiple times.\n\nCrushed under pressures that would flatten planets.\n\nSuperheated to millions of degrees.\n\nBlown apart in explosions so violent they forged new elements.\n\nThen gravity pulled those scattered pieces back together.\n\nNew stars formed.\n\nAnd the cycle repeated.\n\nFor 13.8 billion years, your atoms have been fuel for the most violent process in the universe.\n\nAnd they are not done.\n\nMusk: “In terms of existence as measured by the number of times your atoms will be at the center of a star, we seem to be roughly halfway.”\n\nHalfway.\n\nYour atoms have been through the furnace three or four times.\n\nThey will go through three or four more.\n\nBut right now, in this impossibly thin sliver between cycles, those atoms are doing something they have never done before.\n\nThey are conscious.\n\nFor billions of years before you, they burned through stellar cores with no awareness.\n\nNo memory.\n\nNo sense of what they were or where they had been.\n\nAfter you, they will return to that state.\n\nUnconscious matter drifting through space until the next star claims them.\n\nThis is the only moment in their entire journey where they can look back at the stars that made them and understand.\n\nMusk: “If you want to look at the big picture… that’s the really big picture.”\n\nThe big picture is not that we are small.\n\nEveryone already knows that.\n\nThe big picture is that we are temporary witnesses to a process that does not need witnesses.\n\nStars do not need observers to burn.\n\nAtoms do not need anyone to understand where they have been.\n\nThe universe ran for billions of years with no one in it.\n\nIt will run for billions more after the last conscious thing disappears.\n\nBut right now, matter is examining itself.\n\nThat has never happened before in 13.8 billion years.\n\nYou are not a person who happens to contain ancient atoms.\n\nYou are ancient atoms that briefly figured out how to think.\n\nThe universe did not design consciousness.\n\nIt designed stars.\n\nConsciousness was the accident.\n\nAnd the accident is half over.\n\nVideo",
+      "link": "https://nitter.net/r0ck3t23/status/2057525836387844572#m",
+      "date": "Thu, 21 May 2026 18:16:01 GMT"
+    },
+    {
+      "text": "Welcome to Starbase, @NICKIMINAJ!\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2057610517556986199#m",
+      "date": "Thu, 21 May 2026 23:52:30 GMT"
+    },
+    {
+      "text": "🚨 STARSHIP V3 UPGRADES\n\nSpaceX just unveiled Starship Version 3\nEvery major system redesigned: \n\n> payload tripled to 100 metric tons\n> all 33 Raptors now fire simultaneously\n> 3 grid fins instead of 4, 50% bigger\n> hot-stage adapter now fully reusable\n> engine shielding deleted\n> fuel transfer tube the size of a Falcon 9 first stage\n> 60 Starlink V3 sats per launch\n> new docking ports for in-orbit refueling\n\nThe redesigned internal fuel transfer tube is so massive, it's literally the size of a Falcon 9 first stage.\n\n\"We kind of put a rocket inside of a rocket\"\n\nVideo",
+      "link": "https://nitter.net/ns123abc/status/2057608942868426882#m",
+      "date": "Thu, 21 May 2026 23:46:15 GMT"
+    },
+    {
+      "text": "Starlink from the moon:",
+      "link": "https://nitter.net/DJSnM/status/2057597932699058616#m",
+      "date": "Thu, 21 May 2026 23:02:30 GMT"
+    },
+    {
+      "text": "The hydraulic pin holding the tower arm in place did not retract. \n\nIf that can be fixed tonight, there will be another launch attempt tomorrow at 5:30 CT.\n\n\nElon Musk (@elonmusk)\n\nStarship V3 first flight countdown starting\n\n\n\n— https://nitter.net/elonmusk/status/2057594680284430428#m",
+      "link": "https://nitter.net/elonmusk/status/2057609682865254695#m",
+      "date": "Thu, 21 May 2026 23:49:11 GMT"
+    },
+    {
+      "text": "The Starlink team is exploring ways to extend connectivity beyond our planet\n\n\n\n\n\nVideo",
+      "link": "https://nitter.net/Starlink/status/2057597918526476344#m",
+      "date": "Thu, 21 May 2026 23:02:26 GMT"
+    },
+    {
+      "text": "Starship V3 first flight countdown starting\n\n\nSpaceX (@SpaceX)\n\nLive webcast of Starship's twelfth flight test starts now\n\n\n\n— https://nitter.net/SpaceX/status/2057593237150298155#m",
+      "link": "https://nitter.net/elonmusk/status/2057594680284430428#m",
+      "date": "Thu, 21 May 2026 22:49:34 GMT"
+    },
+    {
+      "text": "JUST IN: SpaceX pledges to cover all power grid infrastructure upgrade costs associated with its data centers so those costs are not passed on to local households, per its S-1 filing.\n\n\n\n\n\n\nMuskonomy (@muskonomy)\n\nJUST IN: COLOSSUS II is currently training Grok-5!\n\nRunning on GB200 and GB300 processors, which SpaceX says made it one of the first data centers in the world to deploy both at significant scale, per its S-1 filing.\n\n\n\n\n\n\n\n— https://nitter.net/muskonomy/status/2057513595760705884#m",
+      "link": "https://nitter.net/muskonomy/status/2057516386860335276#m",
+      "date": "Thu, 21 May 2026 17:38:28 GMT"
+    },
+    {
+      "text": "Starlink Mobile is coming soon to Panama with @MasMovilPanama and will keep customers connected where it wasn't possible before with apps, video, voice and messaging 🛰️📱\n\n\nMasMovilPanama (@MasMovilPanama)\n\nPanamá entra en una nueva era de conectividad. \n\n+Móvil y @Starlink anuncian la primera conectividad móvil satelital del país. \n\nMuy pronto\n\n ¡Si ves el cielo, tienes señal, papá! \n\n#MásMóvil #Starlink #conexiónsatelital #satélite\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MasMovilPanama/status/2057473887290499238#m",
+      "link": "https://nitter.net/Starlink/status/2057539003281494418#m",
+      "date": "Thu, 21 May 2026 19:08:20 GMT"
+    },
     {
       "text": "Please do a quick read of this. It’s short, well written, and will remove a bit of wool from over your eyes.\n\n\n@amuse (@amuse)\n\nx.com/i/article/205752772526…\n\n\n\n— https://nitter.net/amuse/status/2057530359844409654#m",
       "link": "https://nitter.net/JeffBezos/status/2057548298026713113#m",
@@ -52,56 +102,6 @@
       "text": "Pretty profound for an ipo filing: \n“For the entirety of its existence, human civilization has lived on a single celestial body: Earth. The current paradigm, \nin which human civilization is confined to one planet, exposes humanity to existential threats that are unpredictable \nand uncontrollable on a planetary scale. By moving beyond the only home we have ever known, we ensure species-\nlevel redundancy and that the light of consciousness will not be tied to a single planet subject to the inevitable \nhazards of a harsh and vast universe.\nWe do not want humans to have the same fate as dinosaurs.” - SpaceX S-1 @elonmusk",
       "link": "https://nitter.net/SaraEisen/status/2057457449444033017#m",
       "date": "Thu, 21 May 2026 13:44:16 GMT"
-    },
-    {
-      "text": "Why have they said nothing about the murder, aided by the police, of this innocent English boy?\n\n\nVisegrád 24 (@visegrad24)\n\nThe British politicians who took a knee for George Floyd have not even made a post about Henry Nowak.\n\n\n\n— https://nitter.net/visegrad24/status/2057407080626000108#m",
-      "link": "https://nitter.net/elonmusk/status/2057464814637633609#m",
-      "date": "Thu, 21 May 2026 14:13:32 GMT"
-    },
-    {
-      "text": "Ten years ago, I walked into Tesla as an intern — January 2015, back when all we built was the Model S.\n\nI never imagined I'd one day lead the Fremont factory where we are building some of the most amazing cars the world has ever seen.\n\nToday we sunset the S/X program, and it's bittersweet. The first ever car I bought was a Model S. It showed me a whole new world, and a reason to believe in futuristic technology. \n\nThe end of one thing makes room for new beginning of the other. We're letting go of something we loved a lot so we can build something even greater. Big things are already  on their way to Fremont factory— a future of amazing abundance.\n\nThank you, @elonmusk, for the vision. To everyone who built this with me: thank you. Onto the next chapter. 🚀\n\n\nTesla (@Tesla)\n\nModel S & X Signature Delivery Event nitter.net/i/broadcasts/1nxeLygpl…\n\n\n\n\n— https://nitter.net/Tesla/status/2057257841799713183#m",
-      "link": "https://nitter.net/hrushisagar/status/2057360492155605468#m",
-      "date": "Thu, 21 May 2026 07:18:59 GMT"
-    },
-    {
-      "text": "Falcon 9 launches 29 @Starlink satellites from Florida",
-      "link": "https://nitter.net/SpaceX/status/2057440083905597592#m",
-      "date": "Thu, 21 May 2026 12:35:16 GMT"
-    },
-    {
-      "text": "Try Composer 2.5\n\n\nBridgeMind (@bridgemindai)\n\nNew CursorBench results just dropped. \n\nTwo big takeaways.\n\nComposer 2.5 is way better than most people think. \n\n63.2% score at $0.55 per task. \n\nNearly matching Opus 4.7 Max and GPT 5.5 Extra High at 20x less cost. \n\nThis is insane value.\n\nGemini 3.5 Flash is #10 at 49.8%. \n\nBelow GPT 5.5 Low. \nBelow Opus 4.7 Low. \n\nGoogle's newest model can't even beat budget tier competition.\n\nComposer 2.5 is the sleeper. \n\nGemini 3.5 Flash is the disappointment.\n\n\n\n\n\n— https://nitter.net/bridgemindai/status/2057096555924947392#m",
-      "link": "https://nitter.net/elonmusk/status/2057374408918945882#m",
-      "date": "Thu, 21 May 2026 08:14:17 GMT"
-    },
-    {
-      "text": "Something is deeply wrong\n\n\nLibs of TikTok (@libsoftiktok)\n\nReuters stories on Henry Nowak: 0\n\nReuters stories on George Floyd: 1,087\n\nDo you see what’s happening?\n\n\n\n\n\n— https://nitter.net/libsoftiktok/status/2057184728772391026#m",
-      "link": "https://nitter.net/elonmusk/status/2057361980780871960#m",
-      "date": "Thu, 21 May 2026 07:24:54 GMT"
-    },
-    {
-      "text": "Elon Musk and Franz von Holzhausen during the first Model S customer deliveries in 2012, and the final Model S deliveries in 2026.\n\n14 years later. What a journey!",
-      "link": "https://nitter.net/niccruzpatane/status/2057284052659392573#m",
-      "date": "Thu, 21 May 2026 02:15:15 GMT"
-    },
-    {
-      "text": "I will be reviewing all emails that pass reasonable sanity checks personally",
-      "link": "https://nitter.net/elonmusk/status/2057347929380167791#m",
-      "date": "Thu, 21 May 2026 06:29:04 GMT"
-    },
-    {
-      "text": "If you’ve made a very complex thing do useful work, that’s a major plus",
-      "link": "https://nitter.net/elonmusk/status/2057347325467435279#m",
-      "date": "Thu, 21 May 2026 06:26:40 GMT"
-    },
-    {
-      "text": "if you work across multiple machines, highly recommend using Grok Build with its subagents to manage SSH tunnels and interact with tmux.\n\nWe are working on making this experience more native, think of it as deploying or registering all your machines 🔜\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nIf you are managing multiple machines across clusters and farms, you could ask Grok Build to spin off a sub-agent SSH tunnel into the machines while interacting with tmux sessions for you.\n\nThanks to @skcd42 for the tips. Now I can fully live inside the main Grok Build instance without additional tabs to other clusters.\n\n\n\n— https://nitter.net/yunta_tsai/status/2057338100133834828#m",
-      "link": "https://nitter.net/skcd42/status/2057340201840873697#m",
-      "date": "Thu, 21 May 2026 05:58:22 GMT"
-    },
-    {
-      "text": "Tips for using Grok Build\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nIf you are managing multiple machines across clusters and farms, you could ask Grok Build to spin off a sub-agent SSH tunnel into the machines while interacting with tmux sessions for you.\n\nThanks to @skcd42 for the tips. Now I can fully live inside the main Grok Build instance without additional tabs to other clusters.\n\n\n\n— https://nitter.net/yunta_tsai/status/2057338100133834828#m",
-      "link": "https://nitter.net/elonmusk/status/2057346643398128079#m",
-      "date": "Thu, 21 May 2026 06:23:58 GMT"
     }
   ]
 }

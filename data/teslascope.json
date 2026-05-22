@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-21T22:23:12Z",
+  "updated_at": "2026-05-22T04:08:06Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Location Alerts (Departure and Arrival) are now available on @teslascope and on our iOS mobile app for Pro subscribers.\n\nAdditional notification types such as software update availability, new software releases, and more will be available to all members, no subscription required.",
+      "link": "https://nitter.net/vehiclescope/status/2057652756224344551#m",
+      "date": "Fri, 22 May 2026 02:40:21 GMT"
+    },
+    {
+      "text": "FSD parking idea\n\nwhen you select “Park” option for the destination, a screen should appear that lets you drag a pin to the general area of the parking lot where you want the car to park\n\nthis would save me so many interventions",
+      "link": "https://nitter.net/AIDRIVR/status/2057506971105038451#m",
+      "date": "Thu, 21 May 2026 17:01:03 GMT"
+    },
+    {
+      "text": "As part of our new @Tesla software rollout detection system, we record a breakdown of each update every minute, every day.\n\nThis helps us track installations and pending downloads over time while filtering out minor blips caused by newly enrolled vehicles on our platform.",
+      "link": "https://nitter.net/teslascope/status/2057639484783837359#m",
+      "date": "Fri, 22 May 2026 01:47:36 GMT"
+    },
     {
       "text": "Starting soon!\n\nWe'll be watching along and will share any software or Full Self-Driving news if it comes up during the event.\n\n\nTesla (@Tesla)\n\nModel S & X Signature Delivery Event nitter.net/i/broadcasts/1nxeLygpl…\n\n\n\n\n— https://nitter.net/Tesla/status/2057257841799713183#m",
       "link": "https://nitter.net/teslascope/status/2057259777395408931#m",
@@ -87,21 +102,6 @@
       "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2055871757446254692#m",
       "date": "Sun, 17 May 2026 04:43:17 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2055871747719655714#m",
-      "date": "Sun, 17 May 2026 04:43:15 GMT"
-    },
-    {
-      "text": "A new feature has been detected: FSD (Supervised) v14.3.3\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2055871737712058674#m",
-      "date": "Sun, 17 May 2026 04:43:13 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2055871724055330936#m",
-      "date": "Sun, 17 May 2026 04:43:09 GMT"
     }
   ]
 }
