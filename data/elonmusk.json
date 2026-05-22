@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-22T17:11:21Z",
+  "updated_at": "2026-05-22T19:55:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Excited to share our newly improved website for @xai. We overhauled every page to better showcase our various models and products, and help developers, enterprises and users get started quickly.\n\nNow live → x.ai\n\nVideo",
+      "link": "https://nitter.net/benjitaylor/status/2057882844295532722#m",
+      "date": "Fri, 22 May 2026 17:54:38 GMT"
+    },
+    {
+      "text": "Grok Build 0.1 might be one of the most underestimated AI models right now.\n\nWe tested it in Kilo Code by asking it to build 5 websites from scratch.\n\nHere are the results:",
+      "link": "https://nitter.net/kilocode/status/2057436115175457044#m",
+      "date": "Thu, 21 May 2026 12:19:29 GMT"
+    },
     {
       "text": "America is unironically the greatest civilization to ever exist. \n\nOn every axis. \n\nAnd it’s worth celebrating with all the zeal and love of this old Coca Cola commercial 🇺🇸🇺🇸🇺🇸\n\nVideo",
       "link": "https://nitter.net/ArthurMacwaters/status/2057845389441839401#m",
@@ -92,16 +102,6 @@
       "text": "lol\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2057806372935254370#m",
       "date": "Fri, 22 May 2026 12:50:46 GMT"
-    },
-    {
-      "text": "Starmer Government Doubles Down On Anti-Free Speech Policies zerohedge.com/markets/starme…",
-      "link": "https://nitter.net/zerohedge/status/2057783561906692350#m",
-      "date": "Fri, 22 May 2026 11:20:07 GMT"
-    },
-    {
-      "text": "Data centers in space are coming. Satellite Data Centers that follow the sun 24/7.  Thanks to @Gwynne_Shotwell for driving American Technology forward.\n\nVideo",
-      "link": "https://nitter.net/howardlutnick/status/2057781157492560068#m",
-      "date": "Fri, 22 May 2026 11:10:34 GMT"
     }
   ]
 }
