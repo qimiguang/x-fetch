@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-23T03:46:49Z",
+  "updated_at": "2026-05-23T13:47:59Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Breathtakingly Beautiful",
+      "link": "https://nitter.net/elonmusk/status/2058039896279745004#m",
+      "date": "Sat, 23 May 2026 04:18:42 GMT"
+    },
+    {
+      "text": "NEVER GIVE UP",
+      "link": "https://nitter.net/cb_doge/status/2058025860918329754#m",
+      "date": "Sat, 23 May 2026 03:22:56 GMT"
+    },
     {
       "text": "Today SpaceX launched ~45tons of Starlink mass simulators on Starship Flight 12, the highest payload tonnage to space since Saturn V's Skylab (77t) in 1973.\n\nThis is a huge milestone for spaceflight and cannot be ignored, the future of space and this program is so bright!!",
       "link": "https://nitter.net/Truthful_ast/status/2057981056402203124#m",
@@ -92,16 +102,6 @@
       "text": "Starship is executing a banking maneuver that mimics the final approach it would take while returning to Starbase for a catch on a future mission\n\nVideo",
       "link": "https://nitter.net/SpaceX/status/2057968316891746337#m",
       "date": "Fri, 22 May 2026 23:34:16 GMT"
-    },
-    {
-      "text": "Splashdown confirmed! Congratulations to the entire SpaceX team on the twelfth flight test of Starship!\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2057969484879528267#m",
-      "date": "Fri, 22 May 2026 23:38:55 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2057974036261409278#m",
-      "date": "Fri, 22 May 2026 23:57:00 GMT"
     }
   ]
 }
