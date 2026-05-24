@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-24T04:07:11Z",
+  "updated_at": "2026-05-24T08:36:43Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Love your posts. I see them, check the Tesla app and I see it being downloaded. Thanks!",
+      "link": "https://nitter.net/koolio/status/2058408275083677866#m",
+      "date": "Sun, 24 May 2026 04:42:30 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 200%, including Cybertruck AI4, Model X (Refresh) AI4, Model S (Refresh) AI4, and Model 3 AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
+      "link": "https://nitter.net/teslascope/status/2058401413915435222#m",
+      "date": "Sun, 24 May 2026 04:15:14 GMT"
+    },
     {
       "text": "In this recent wave, vehicles on 2026.14.6 and other older builds are finally receiving Full Self-Driving V14.3.3 via 2026.14.6.6 for the first time.\n\nThis is a great sign.\n\n\nJulio (@RobbedBike)\n\nYes, for 2026.14.6. I just got the update\n\n\n\n\n\n\n\n— https://nitter.net/RobbedBike/status/2058246900269371622#m",
       "link": "https://nitter.net/teslascope/status/2058247704032260389#m",
@@ -87,16 +97,6 @@
       "text": "To clarify, this enables automated posts here on X, just like our software update posts.\n\nWe'll be adding a dedicated section for this to our web platform this week, and our iOS app will support receiving rollout notifications before month end.",
       "link": "https://nitter.net/teslascope/status/2056530864696336869#m",
       "date": "Tue, 19 May 2026 00:22:21 GMT"
-    },
-    {
-      "text": "We just added automated rollout detection to our platform, which will monitor all software updates released in the last 30 days.\n\nThe post will include the percentage increase and list all models included in the wave, such as \"Model Y AI4\".\n\nKeep an eye out for the first rollout!",
-      "link": "https://nitter.net/teslascope/status/2056513976524312634#m",
-      "date": "Mon, 18 May 2026 23:15:14 GMT"
-    },
-    {
-      "text": "Just some food for thought. We appreciate and try to engage with everyone, whether the posts or replies are positive, neutral, or negative, and whether such feelings are directed toward us or at Tesla.\n\nAlways striving to be more helpful to all. Let us know any thoughts you have!",
-      "link": "https://nitter.net/teslascope/status/2056489953354555437#m",
-      "date": "Mon, 18 May 2026 21:39:47 GMT"
     }
   ]
 }
