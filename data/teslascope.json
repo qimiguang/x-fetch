@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-24T19:23:36Z",
-  "count": 20,
+  "updated_at": "2026-05-24T21:59:42Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "We began seeing a slight increase of these HW3 data uploading reports within the past three days, but possibly much larger just due to owners not checking as often anymore.\n\nVery interesting to see, and possibly related to V14 Lite.\n\n\nAnthony Spina (@Speenuh)\n\n1.4 GB upload from my 2017 Model S yesterday! First upload I’ve seen in probably a year and a half+! @teslascope 👀\n\n\n\n\n\n— https://nitter.net/Speenuh/status/2058633313774879142#m",
+      "link": "https://nitter.net/teslascope/status/2058633805318209940#m",
+      "date": "Sun, 24 May 2026 19:38:41 GMT"
+    },
     {
       "text": "Love your posts. I see them, check the Tesla app and I see it being downloaded. Thanks!",
       "link": "https://nitter.net/koolio/status/2058408275083677866#m",
@@ -92,16 +97,6 @@
       "text": "A new wave of 2026.14.6.6 (containing FSD V14.3.3) just went out to additional vehicles within the last five minutes.\n\nThis wave includes all AI4 vehicle models and has expanded to include Canada and Mexico.\n\n\nTeslascope (@teslascope)\n\nA new wave of V14.3.3 has now been rolled out to additional AI4 vehicles within the past hour.\n\nThis wave only includes vehicles on 2026.2.9.10, which we previously hinted Tesla would prioritize rolling out to vehicles without the Spring Update initially.\n\n\n\n— https://nitter.net/teslascope/status/2056475365758120290#m",
       "link": "https://nitter.net/teslascope/status/2056858708525851065#m",
       "date": "Tue, 19 May 2026 22:05:05 GMT"
-    },
-    {
-      "text": "We just added automated rollout detection to our platform, which will monitor all software updates released in the last 30 days.\n\nThe post will include the percentage increase and list all models included in the wave, such as \"Model Y AI4\".\n\nKeep an eye out for the first rollout!",
-      "link": "https://nitter.net/teslascope/status/2056513976524312634#m",
-      "date": "Mon, 18 May 2026 23:15:14 GMT"
-    },
-    {
-      "text": "To clarify, this enables automated posts here on X, just like our software update posts.\n\nWe'll be adding a dedicated section for this to our web platform this week, and our iOS app will support receiving rollout notifications before month end.",
-      "link": "https://nitter.net/teslascope/status/2056530864696336869#m",
-      "date": "Tue, 19 May 2026 00:22:21 GMT"
     }
   ]
 }
