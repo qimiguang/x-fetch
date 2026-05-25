@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-05-25T15:18:55Z",
+  "updated_at": "2026-05-25T19:48:49Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "到年底再来验证\nAnthropic会让传统公司AI转型像使用office套件一样简单\nMeta这次裁掉了大批data scientist 和 data engineer 就是一个例证",
+      "link": "https://nitter.net/Tsla99T/status/2058946127936790628#m",
+      "date": "Mon, 25 May 2026 16:19:44 GMT"
+    },
     {
       "text": "推荐：《黄石》衍生剧《达顿牧场》是在Texas拍的\n piped.video/19I5a1tRt98?si=SGTn…",
       "link": "https://nitter.net/Tsla99T/status/2058645126948282647#m",
@@ -49,24 +54,24 @@
       "date": "Thu, 21 May 2026 21:44:47 GMT"
     },
     {
-      "text": "特黑：Cybercab造出来了没地方停，只有不停建停车场",
-      "link": "https://nitter.net/Tsla99T/status/2057572142904983974#m",
-      "date": "Thu, 21 May 2026 21:20:01 GMT"
-    },
-    {
       "text": "大的来了，这是达拉斯机场附近\n\n\nMarcoRP (@MarcoRPi1)\n\nTesla is planning a new maintenance facility for Cybercabs and Robotaxis in Irving,Texas!!\n\nThe facility consists of remodeling a 35,000sqft warehouse on W Royal Ln, from which Tesla's autonomous fleet vehicles will be dispatched, serviced, repaired, and cleaned.\n\nThe site will also include 16 V4 Supercharger stalls near the maintenance building, as well as 212 stalls for vehicle storage further north on the property.\n\nThe project is currently working its way through the city's planning department, as Tesla must to secure a zoning variance in order to move forward.\n\n\n\n\n\n\n\n\n\n— https://nitter.net/MarcoRPi1/status/2057552576317661558#m",
       "link": "https://nitter.net/Tsla99T/status/2057570083195568497#m",
       "date": "Thu, 21 May 2026 21:11:50 GMT"
     },
     {
-      "text": "谷歌有一点好，就是它对 iPhone 的支持也是无上限的",
-      "link": "https://nitter.net/Tsla99T/status/2057504048392155451#m",
-      "date": "Thu, 21 May 2026 16:49:26 GMT"
+      "text": "特黑：Cybercab造出来了没地方停，只有不停建停车场",
+      "link": "https://nitter.net/Tsla99T/status/2057572142904983974#m",
+      "date": "Thu, 21 May 2026 21:20:01 GMT"
     },
     {
       "text": "想了一下，我的刚需是睡眠监测\n苹果Ultra Watch太大\n试了智能戒指睡觉也很不舒服\n这次再试试google fitbit air\n同时把三星手表trade in了",
       "link": "https://nitter.net/Tsla99T/status/2057502417676116031#m",
       "date": "Thu, 21 May 2026 16:42:57 GMT"
+    },
+    {
+      "text": "谷歌有一点好，就是它对 iPhone 的支持也是无上限的",
+      "link": "https://nitter.net/Tsla99T/status/2057504048392155451#m",
+      "date": "Thu, 21 May 2026 16:49:26 GMT"
     },
     {
       "text": "怎么说呢，谷歌的模型就算被你们说的再一无是处，我也不得不用，生态太强了",
@@ -97,11 +102,6 @@
       "text": "刚试用了Cursor和SpaceXAI训练的Composer2.5做了一个作业题，速度极快，期待下一个10X版本\n马斯克不可能放弃Grok，并且一定会拼老命干成第一\n浅显的原因：在openai面前争口气\n不太浅显的原因：特斯拉SpaceX的核心代码必须用自己的模型生成，不能受制于人，更不能有数据泄漏风险\n深层次的原因：必须有自己能够控制的大模型，这是他整个生态的必要组成部分\n看了下面这篇文章你们就秒懂了\nstate-media-influence-llm.gi…",
       "link": "https://nitter.net/Tsla99T/status/2056703656066441558#m",
       "date": "Tue, 19 May 2026 11:48:57 GMT"
-    },
-    {
-      "text": "数据和算力都聚齐了\n\n\nCursor (@cursor_ai)\n\nTogether with SpaceXAI, we’re training a significantly larger model from scratch, using 10x more total compute.\n\nWith Colossus 2’s million H100-equivalents and our combined data and training techniques, we expect this to be a major leap in model capability.\n\n\n\n— https://nitter.net/cursor_ai/status/2056415419536461836#m",
-      "link": "https://nitter.net/Tsla99T/status/2056538084733247950#m",
-      "date": "Tue, 19 May 2026 00:51:02 GMT"
     }
   ]
 }
