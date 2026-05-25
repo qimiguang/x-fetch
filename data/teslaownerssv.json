@@ -1,8 +1,18 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-05-25T10:19:36Z",
-  "count": 17,
+  "updated_at": "2026-05-25T15:18:33Z",
+  "count": 18,
   "tweets": [
+    {
+      "text": "Grok’s next major model is getting close.\n\nxAI says the new V9-Medium model with 1.5T parameters has officially finished training and early evals are looking strong.\n\nThe current production version of Grok runs on the much smaller 0.5T v8-small model so this is a massive jump in scale.\n\nxAI also confirmed that a large amount of Cursor coding data was added during supplementary training with even more still coming.\n\nFine-tuning is already underway and reinforcement learning starts within days.\n\nPublic release is expected in around 2 to 3 weeks with major improvements expected especially for difficult coding tasks.",
+      "link": "https://nitter.net/teslaownersSV/status/2058920104625369139#m",
+      "date": "Mon, 25 May 2026 14:36:20 GMT"
+    },
+    {
+      "text": "🚨 America’s charging infrastructure just got a serious campaign behind it.\n\nThe Charge America Campaign drops next week.\n\nBigger. Bolder. Built for real drivers.\n\nGet ready. ⚡",
+      "link": "https://nitter.net/teslaownersSV/status/2058911346121396487#m",
+      "date": "Mon, 25 May 2026 14:01:32 GMT"
+    },
     {
       "text": "🎥 Behind the Scenes at the Tesla Model S & Model X Signature Edition Delivery Event | Fremont Factory\n\nWe were invited to the exclusive, invite-only Tesla Signature Edition Delivery Event at the Fremont Factory — the emotional farewell celebration for the final limited run of Model S and Model X.\n\nIn this behind-the-scenes video, experience what it was really like: \n• Arriving at the Fremont Factory for this historic send-off \n• The incredible atmosphere as owners took delivery of their ultra-rare Signature Editions \n• Close-up details: Garnet Red paint, gold accents, badging, numbered plaques, and special interior touches \n• Raw, unscripted moments from the event \n• Special highlights where @elonmusk @larsmoravy @woodhaus2 @hrushisagar  shared heartfelt stories about the early days of the Model S and Model X\n\nOnly 150 Model S and 100 Model X Signature Editions were ever made — true collector’s cars marking the end of an era for the current generation flagships.\n\n📍 Fremont Factory, California – May 20, 2026\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2058714671046099035#m",
@@ -82,11 +92,6 @@
       "text": "The floor mats in your Tesla are made from the same material as a baby pacifier. 🍼\nNo, seriously. 😳\nA thread 🧵 on @3wliners → our Gold Sponsor at Tesla Takeover Europe 👇\n(1/5)",
       "link": "https://nitter.net/TeslaClubAT/status/2058582583156281819#m",
       "date": "Sun, 24 May 2026 16:15:09 GMT"
-    },
-    {
-      "text": "Marques soon\n\n\n\n\nMarques Brownlee (@MKBHD)\n\nI’ve been in Texas for maybe 10 minutes\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MKBHD/status/2058557585238761519#m",
-      "link": "https://nitter.net/teslaownersSV/status/2058613008834929042#m",
-      "date": "Sun, 24 May 2026 18:16:03 GMT"
     }
   ]
 }
