@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-25T04:18:33Z",
+  "updated_at": "2026-05-25T10:19:34Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Estimated Toll Fees\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2058816165804208267#m",
+      "date": "Mon, 25 May 2026 07:43:19 GMT"
+    },
     {
       "text": "We began seeing a slight increase of these HW3 data uploading reports within the past three days, but possibly much larger just due to owners not checking as often anymore.\n\nVery interesting to see, and possibly related to V14 Lite.\n\n\nAnthony Spina (@Speenuh)\n\n1.4 GB upload from my 2017 Model S yesterday! First upload I’ve seen in probably a year and a half+! @teslascope 👀\n\n\n\n\n\n— https://nitter.net/Speenuh/status/2058633313774879142#m",
       "link": "https://nitter.net/teslascope/status/2058633805318209940#m",
@@ -92,11 +97,6 @@
       "text": "Full Self-Driving (Supervised) is now available in Lithuania, joining the Netherlands.\n\nWe'll be monitoring FSD versions in this region and in other countries as the expansion continues across Europe!\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nFSD Supervised now rolling out to Teslas in Lithuania 🇱🇹!\n\nMaking European roads safer, one by one\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaeurope/status/2056991427511332957#m",
       "link": "https://nitter.net/teslascope/status/2057030632765894836#m",
       "date": "Wed, 20 May 2026 09:28:15 GMT"
-    },
-    {
-      "text": "A new wave of 2026.14.6.6 (containing FSD V14.3.3) just went out to additional vehicles within the last five minutes.\n\nThis wave includes all AI4 vehicle models and has expanded to include Canada and Mexico.\n\n\nTeslascope (@teslascope)\n\nA new wave of V14.3.3 has now been rolled out to additional AI4 vehicles within the past hour.\n\nThis wave only includes vehicles on 2026.2.9.10, which we previously hinted Tesla would prioritize rolling out to vehicles without the Spring Update initially.\n\n\n\n— https://nitter.net/teslascope/status/2056475365758120290#m",
-      "link": "https://nitter.net/teslascope/status/2056858708525851065#m",
-      "date": "Tue, 19 May 2026 22:05:05 GMT"
     }
   ]
 }
