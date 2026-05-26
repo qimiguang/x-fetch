@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-05-25T22:12:33Z",
+  "updated_at": "2026-05-26T04:04:19Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "新常态\n\n\nJacksonS (@shrmodelx)\n\nfSD V14.3.3 made it, help me move from Orlando to Houston with no single touch!\n\n\n\n\n\n— https://nitter.net/shrmodelx/status/2059061603044032601#m",
+      "link": "https://nitter.net/Tsla99T/status/2059064025565069435#m",
+      "date": "Tue, 26 May 2026 00:08:13 GMT"
+    },
     {
       "text": "到年底再来验证\nAnthropic会让传统公司AI转型像使用office套件一样简单\nMeta这次裁掉了大批data scientist 和 data engineer 就是一个例证",
       "link": "https://nitter.net/Tsla99T/status/2058946127936790628#m",
@@ -97,11 +102,6 @@
       "text": "机器人一定要避雷\n看看忙活了十年半死不活的L4自动驾驶股就知道了\n最大市值的AUR才不到$15B\npony, wrd就更不提了\n如果要布局，当然最稳妥的就是TSLA\n\n\nAce from Money or Life 美股频道 (@Money_or_Life_X)\n\n我看到 Serenity 在推一些机器人的股票，我自己的观点完全不同。我不认为现在到了去追机器人板块的时候，而且我一直认为以后人形机器人的投资重点依然是在特斯拉。\n\n目前的逻辑如下：\n1. 硬件会越来越普及，越来越容易做。现在看起来的难点，以后都会被各个厂家（特别是中国的厂家）解决，并用高度自动化的工业化手段实现大批量、低成本的生产。\n2. 特斯拉最重要的是 Optimus 人形机器人的大脑，相当于 Optimus 的 FSD。这部分是特斯拉及其相关的 SpaceX 让人兴奋的地方。\n\n尽管现在听起来还很遥远，不过一旦马斯克开始强调这个事情，我们大概就能知道未来的方向如何了。\n\n\n\n— https://nitter.net/Money_or_Life_X/status/2056581898189910055#m",
       "link": "https://nitter.net/Tsla99T/status/2056712759262220515#m",
       "date": "Tue, 19 May 2026 12:25:08 GMT"
-    },
-    {
-      "text": "刚试用了Cursor和SpaceXAI训练的Composer2.5做了一个作业题，速度极快，期待下一个10X版本\n马斯克不可能放弃Grok，并且一定会拼老命干成第一\n浅显的原因：在openai面前争口气\n不太浅显的原因：特斯拉SpaceX的核心代码必须用自己的模型生成，不能受制于人，更不能有数据泄漏风险\n深层次的原因：必须有自己能够控制的大模型，这是他整个生态的必要组成部分\n看了下面这篇文章你们就秒懂了\nstate-media-influence-llm.gi…",
-      "link": "https://nitter.net/Tsla99T/status/2056703656066441558#m",
-      "date": "Tue, 19 May 2026 11:48:57 GMT"
     }
   ]
 }
