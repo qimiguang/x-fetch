@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-26T15:53:17Z",
-  "count": 19,
+  "updated_at": "2026-05-26T20:15:53Z",
+  "count": 18,
   "tweets": [
+    {
+      "text": "I know very few people read and believe my posts about Tesla Robotaxi surpass human driving safety, and that’s fine.\n\nI’ll keep posting my analysis every month until everyone understands Tesla Robotaxi is safer than human drivers.\n\nWe’re going to prove it so much, you’re going to be so sick and tired of seeing “Tesla is safer than human,” you’ll beg me to post something else.\n\n\nRaines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
+      "link": "https://nitter.net/raines1220/status/2059343447681896767#m",
+      "date": "Tue, 26 May 2026 18:38:33 GMT"
+    },
     {
       "text": "Since v14.3, parking has regressed significantly for me because FSD keeps overriding my manual pin at home and work.\n\nIt tries to “predict” a better parking spot and moves the P icon to random places. This might work for commercial lots like Walmart or Whole Foods, but it is terrible for my designated parking spot and my company’s parking garage entrance.\n\nTesla, please don’t override manually saved pins. If I saved it manually, it is GOLDEN.",
       "link": "https://nitter.net/raines1220/status/2056246029142401532#m",
@@ -87,16 +92,6 @@
       "text": "Robotaxi Tracker has only 89 riders reporting their rides in Austin, and they’ve logged just 8,152 miles in total. \n\nMeanwhile, Austin Robotaxi has probably accumulated 1–2 million miles, meaning only about ~0.5% of the miles have been reported.\n\nFrom that ~0.5% of reported miles, 19 unique unsupervised Robotaxis have been discovered in Austin, and people are laughing about it.\n\nWell, to be honest, I’m laughing at you.\n\nImagine I deploy 10 people to take Uber every day and count how many unique cars they discover.\n\nOn the first day, they report discovering 10 cars.\n\nOn the second day, they report another 10 cars (20 in total)\n\nSeveral days later, they report that 100 unique cars have been discovered in total (a pretty small number, right?).\n\nThen I can finally make fun of Uber:\n“Look! Uber only has 100 cars. How pathetic!”",
       "link": "https://nitter.net/raines1220/status/2049896097372614944#m",
       "date": "Thu, 30 Apr 2026 16:58:09 GMT"
-    },
-    {
-      "text": "I’ve seen everyone closely monitoring Robotaxi fleet growth. That’s a good thing, but keep in mind:\n\n1. The “growth speed” is not the speed of Tesla adding a new car, but the speed at which someone reports a car that has already been added.\n\n2. The fleet size does not represent all Robotaxis. It represents only the Robotaxis that have been reported by a limited number of volunteers.",
-      "link": "https://nitter.net/raines1220/status/2049891630816387396#m",
-      "date": "Thu, 30 Apr 2026 16:40:24 GMT"
-    },
-    {
-      "text": "Dan is the gold-standard quality inspector for the Tesla community. He used to be able to make videos about Teslas running over \"kids\". Now the best he can do is FSD 14.3.2 going “10 mph over the limit.”\n\n\nDan O'Dowd (@RealDanODowd)\n\nWatch @Tesla FSD v14.3.2 speed through a school zone at 10 mph over the limit.\n\n@ElonMusk your defective software still can’t follow basic road rules.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RealDanODowd/status/2049526949945753980#m",
-      "link": "https://nitter.net/raines1220/status/2049743066492522514#m",
-      "date": "Thu, 30 Apr 2026 06:50:04 GMT"
     }
   ]
 }
