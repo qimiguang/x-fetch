@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-05-27T15:57:37Z",
+  "updated_at": "2026-05-27T20:24:50Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "FSD v14 in China shows off superhuman capability on a narrow cliffside mountain road in insane fog and rain.\n\nfrom: 大胡L5\n\nVideo",
+      "link": "https://nitter.net/raines1220/status/2059671126419378387#m",
+      "date": "Wed, 27 May 2026 16:20:38 GMT"
+    },
     {
       "text": "I know very few people read and believe my posts about Tesla Robotaxi surpass human driving safety, and that’s fine.\n\nI’ll keep posting my analysis every month until everyone understands Tesla Robotaxi is safer than human drivers.\n\nWe’re going to prove it so much, you’re going to be so sick and tired of seeing “Tesla is safer than human,” you’ll beg me to post something else.\n\n\nRaines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
       "link": "https://nitter.net/raines1220/status/2059343447681896767#m",
@@ -87,11 +92,6 @@
       "text": "“Bring your crutch to the Olympics. Three legs are better than two, so you’ll run faster. It’s called leg fusion.",
       "link": "https://nitter.net/raines1220/status/2049949971206815815#m",
       "date": "Thu, 30 Apr 2026 20:32:14 GMT"
-    },
-    {
-      "text": "Robotaxi Tracker has only 89 riders reporting their rides in Austin, and they’ve logged just 8,152 miles in total. \n\nMeanwhile, Austin Robotaxi has probably accumulated 1–2 million miles, meaning only about ~0.5% of the miles have been reported.\n\nFrom that ~0.5% of reported miles, 19 unique unsupervised Robotaxis have been discovered in Austin, and people are laughing about it.\n\nWell, to be honest, I’m laughing at you.\n\nImagine I deploy 10 people to take Uber every day and count how many unique cars they discover.\n\nOn the first day, they report discovering 10 cars.\n\nOn the second day, they report another 10 cars (20 in total)\n\nSeveral days later, they report that 100 unique cars have been discovered in total (a pretty small number, right?).\n\nThen I can finally make fun of Uber:\n“Look! Uber only has 100 cars. How pathetic!”",
-      "link": "https://nitter.net/raines1220/status/2049896097372614944#m",
-      "date": "Thu, 30 Apr 2026 16:58:09 GMT"
     }
   ]
 }
