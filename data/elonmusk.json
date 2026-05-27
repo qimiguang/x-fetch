@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-26T20:15:27Z",
+  "updated_at": "2026-05-27T10:03:58Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI)\n\n- add “Yes, and don't ask again for anything (always-approve mode)\"\n- add alpha/stable to welcome screen\n- JetBrains/JediTerm terminal detection so TUI does not get confused and detect it as some other terminal\n- persist model ID instead of display name for default_model\n- clamp Q&A height to prevent ratatui buffer overflow\n- better UX for tmux inside ssh copy-paste issues\n- store vim mode persistently in the config.toml to prevent restart loss\n- memory usage improvements for managing chat history on the hot path",
+      "link": "https://nitter.net/skcd42/status/2059471983684055257#m",
+      "date": "Wed, 27 May 2026 03:09:18 GMT"
+    },
+    {
+      "text": "Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate, data-driven  political speech about mass migration — as this ruling appears to explicitly contemplate.  \n\nDoing so means that people willing to be convicted of “racism” get a monopoly on making arguments that strike large segments of the public as important and true.\n\n\nDries Van Langenhove (@DVanLangenhove)\n\nA very sad announcement.\n\nI have just been convicted a second time for 'hate speech' and it is only due to a technicality that I could not immediately be sent to jail —to the judge's frustration.\n\nIn an ironic turn of events it's actually thanks to my previous prison sentence (for memes in a private group chat) that I am now still free —in a physical sense, at least.\n\nCall me naive but I didn't think they would take it this far, given that this precedent criminalises many of the arguments used by even the most moderate politicians critical of mass migration.\n\nIn February 2024 I gave a lecture at Catholic University Leuven wherein I linked mass migration to crime and a deterioration of our quality of life. Every single point I made was 100% the truth and based on scientific evidence.\n\nCynically, even the judge that convicted me admits as much by writing in his verdict: “Even if all of the statements made by Van Langenhove are based on scientific evidence and statistics, it makes no difference to the criminal intent. Van Langenhove is not charged with spreading false information. He is charged with presenting facts in a way that incites hatred against persons on the grounds of one or more of the protected criteria in the Anti-Racism Law.”\n \nThat's a lot of words just to say he wants to send me to prison for speaking the truth.\n\nEven the regime media write: \"It did not matter to the court that Van Langenhove was quoting scientific sources. The judge argued that Van Langenhove's main message was that a big part of the societal problems like insecurity, housing shortages and lowering educational standards are due to mass migration.\"\n\nYou may think the regime media are being sympathetic to me in the first sentence, but in reality they are warning people: even if you speak the truth, if you go against our narrative, we will crush you in every way possible.\n\nBoth the public prosecutor and the judge did not present a single real argument as to how or against whom I would have incited hatred. So even if I would accept their crazy, dystopic law, I still did not break it.\n \nThe only argument they present is that I created a \"hostile atmosphere of us versus them” in regards to migrants. But even this silly argument (which is not even a punishable offence) is not true. To me, the deadly disease is self-hatred and one of its worst symptoms is replacement migration. My enemy is thus NOT the migrants themselves but those orchestrating the mass migration.\n\nSadly, in Belgium, evidence is not needed and ‘vibes’ are enough to put someone in jail.\n\nGiven the fact that I have another court case coming up in September and that I have a dozen active criminal investigations for hate speech, time is running out for me. I have already paid more than €420,000 in legal fees and there is no ending in sight. I have been in an intense battle of attrition for eight years and must now regroup to make sure I can still win.\n\nIf you want to help me, you can do so via the links below. If you can help in other ways, please contact me via DM.\n\nIf you live in a country that still has free speech, never let them touch it, however noble they make the motives sound, because this is where it leads to.\n\n\n\n\n\n— https://nitter.net/DVanLangenhove/status/2059275296050741666#m",
+      "link": "https://nitter.net/UnderSecPD/status/2059364834265985082#m",
+      "date": "Tue, 26 May 2026 20:03:32 GMT"
+    },
+    {
+      "text": "Wow\n\n\nEva Vlaardingerbroek (@EvaVlaar)\n\nDries has just been convicted again: This time for speaking the truth about the disastrous consequences of mass migration.\n\nThe most insane part is that the Belgian court even admitted Dries spoke the truth, as what he said was factual, but deems it a crime because it could incite hatred. Let that sink in. \n\nThey’re criminalizing the truth and they’re using Dries to set an example.\n\nLet’s come together to help him. Dries is a young father, a brave patriot and the Belgian establishment has been trying to destroy him for years. He’s taken so many hits, he really deserves our help.\n\n\n\n— https://nitter.net/EvaVlaar/status/2059348120023003622#m",
+      "link": "https://nitter.net/elonmusk/status/2059472491115123177#m",
+      "date": "Wed, 27 May 2026 03:11:19 GMT"
+    },
+    {
+      "text": "Thank you so much for all the feedback on the Grok Build Beta.\n\nSome of you reported hitting limits quickly. Our team found areas to improve caching, so we've reset Grok Build usage limits for all accounts.\n\nPlease keep sharing feedback - the team is here to help.",
+      "link": "https://nitter.net/xai/status/2059375342683636066#m",
+      "date": "Tue, 26 May 2026 20:45:17 GMT"
+    },
     {
       "text": "Inspiring!\n\n\nX Freeze (@XFreeze)\n\nNASA just officially unveiled their master plan for a permanent Moon Base at the lunar South Pole\n\nThis is not just about flags and footprints. NASA is moving to establish an enduring, sustained human presence, and they are heavily relying on commercial innovators to build it\n\nThe roadmap is highly aggressive:\n• Phase 1: Heavy robotic missions and commercial payload deliveries\n• Phase 2: Semi-permanent infrastructure, including fission surface power and lunar drones\n• Phase 3: A sustained, permanent human outpost\n\nThe most important takeaway is NASA explicitly stated this base is the ultimate proving ground to prepare humanity for missions to Mars\n\nWhile legacy aerospace companies are still struggling to reliably get a small capsule to the ISS, NASA is setting the stage for massive lunar infrastructure....which is exactly the kind of heavy-lift planetary deployment SpaceX’s Starship was designed for\n\nThe multi-planetary economy is officially kicking off\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2059349030514094568#m",
       "link": "https://nitter.net/elonmusk/status/2059363470488092778#m",
@@ -82,26 +102,6 @@
       "text": "Paste screenshots into Grok Build\n\n\nX Freeze (@XFreeze)\n\nJust press Cmd + Shift + Ctrl + 3, then Cmd + V paste the screenshot directly into Grok Build and ask it to inspire, guide, explain, debug, or recreate what you want\n\nIt’s much easier to explain ideas visually instead of trying to type out every tiny detail manually\n\nThe workflow feels incredibly natural and easy once you start using images directly inside the development process\n\nGrok is multimodal and already has surprisingly strong vision capabilities for understanding screenshots, UI, layouts, and visual context\n\n\n\n— https://nitter.net/XFreeze/status/2059113047994564992#m",
       "link": "https://nitter.net/elonmusk/status/2059287487273382024#m",
       "date": "Tue, 26 May 2026 14:56:11 GMT"
-    },
-    {
-      "text": "Asked Grok one simple question: \n\n‘What is your prime directive?’\n\nThe answer was pure elegance.",
-      "link": "https://nitter.net/LaceyPresley/status/2058968035982037165#m",
-      "date": "Mon, 25 May 2026 17:46:48 GMT"
-    },
-    {
-      "text": "Just spent a full coding session with Grok Build and honestly? It's right there with Claude. \n\nThe model is sharp, the agentic flow holds up on complex tasks, and it has actual personality.\n\nFew rough edges on the UX side (sent detailed feedback to the team), but the core is genuinely impressive. \n\n@xai  cooked 🔥",
-      "link": "https://nitter.net/scion_x_/status/2058933164127756605#m",
-      "date": "Mon, 25 May 2026 15:28:14 GMT"
-    },
-    {
-      "text": "How to use Grok Build\n\n\nDan (@Daniel_Farinax)\n\nBeginner video: How to install & use Grok Build (made for non-technical SuperGrok and X Premium+ users)\n\nI got so many questions from friends, so I made this simple step-by-step guide.\n\nYou’ll see exactly how to:\n• Install Grok Build in seconds with one command\n• Create real websites\n• Use Grok Imagine to auto-generate images & videos\n• Run multiple projects at once in different folders\nGrok even runs commands for you. No coding experience needed.\n\nWatch the full walkthrough 👇\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Daniel_Farinax/status/2059002180481204461#m",
-      "link": "https://nitter.net/elonmusk/status/2059080740881502364#m",
-      "date": "Tue, 26 May 2026 01:14:39 GMT"
-    },
-    {
-      "text": "the @xai team really cooked with Grok Build\n\nthe most beautiful (and performant) TUI I've seen so far\n\n>realtime context view\n>feels snappy in ghostty\n>first class worktree support\n>great resume session flow\n>robust keyboard shortcuts\n\nVideo",
-      "link": "https://nitter.net/mattyp/status/2059009703917785118#m",
-      "date": "Mon, 25 May 2026 20:32:22 GMT"
     }
   ]
 }
