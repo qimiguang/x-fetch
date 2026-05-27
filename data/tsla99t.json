@@ -1,15 +1,20 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-05-27T20:24:52Z",
-  "count": 20,
+  "updated_at": "2026-05-27T22:44:51Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Very Cool！希望这样的开源gadget越来越多\n我们秋季要开设基于Reachy Mini的AI Workshop\ngenai4kidz.com/workshops/rea…\n\n\nAndi Marafioti (@andimarafioti)\n\nIntroducing local Reachy Mini conversations: free chats forever! \nSo fast that we had to hardcode delays to stop it from interrupting you mid-sentence.\n\nWe built an open-source Realtime API powered by llama.cpp: \nParakeet -> Gemma 4 E4B -> Qwen3TTS\n\nRun it anywhere you run local LMs. Video shows DGX Spark and a 36GB M3 Pro MacBook.\n\nBlog: huggingface.co/blog/local-re…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/andimarafioti/status/2059658208893940067#m",
+      "link": "https://nitter.net/Tsla99T/status/2059732564772896863#m",
+      "date": "Wed, 27 May 2026 20:24:46 GMT"
+    },
     {
       "text": "其实聊聊他自己的公司就好了，没有必要谈特斯拉了\n毕竟2年前的认知完全错误了，不禁令人有利用特斯拉博流量的合理怀疑\n\n\n\n\n\n\n硅谷101陈茜（Qian Chen ） (@Valley101_Qian)\n\n我又要采访侯晓迪了。我知道评论区会刮起一阵腥风血雨。没有任何商业合作或利益关系，我们单纯就想知道，他对如今的自动驾驶进展怎么想的（同时预告一下，我们近期也会采访一位在特斯拉很久的核心技术嘉宾）。如果你想问侯晓迪一个问题，会问什么？前提：不许对嘉宾人身攻击。\n\n\n\n— https://nitter.net/Valley101_Qian/status/2055538626654581166#m",
       "link": "https://nitter.net/Tsla99T/status/2059725924937916636#m",
       "date": "Wed, 27 May 2026 19:58:23 GMT"
     },
     {
-      "text": "确实很有煽动性，很符合就业难的年轻人的口味\n\n\nElizabeth Warren (@SenWarren)\n\nAI is trained on human creativity and intelligence, funded by federal research using taxpayer dollars, and powered by data centers built on American land.\n \nThe success of AI should belong to all of us. \n \nIt’s time to tax AI and invest in people.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SenWarren/status/2059637470992486698#m",
+      "text": "确实很有煽动性，很符合就业难的年轻人的口味\n\n\nElizabeth Warren (@SenWarren)\n\nAI is trained on human creativity and intelligence, funded by federal research using taxpayer dollars, and powered by data centers built on American land.\n \nThe success of AI should belong to all of us. \n \nIt’s time to tax AI and invest in people.\n\nVideo\n  \n\n\nCommunity note: AI development is primarily funded by private investment ($109B in the US in 2024) rather than federal R&D (~$3.3B in FY2025). csis.org/blogs/innovati… nitrd.gov/ai-rd-investme…\n\n\n\n— https://nitter.net/SenWarren/status/2059637470992486698#m",
       "link": "https://nitter.net/Tsla99T/status/2059720707701882945#m",
       "date": "Wed, 27 May 2026 19:37:39 GMT"
     },
@@ -92,16 +97,6 @@
       "text": "金色Cybercab在highland park老钱区相映生辉\n\n\nTeslaFamily (@ReardenSteelX)\n\nDallas yesterday. Open the flood gates!\n\n\n\n\n\n— https://nitter.net/ReardenSteelX/status/2057303383371911327#m",
       "link": "https://nitter.net/Tsla99T/status/2057578378027216920#m",
       "date": "Thu, 21 May 2026 21:44:47 GMT"
-    },
-    {
-      "text": "特黑：Cybercab造出来了没地方停，只有不停建停车场",
-      "link": "https://nitter.net/Tsla99T/status/2057572142904983974#m",
-      "date": "Thu, 21 May 2026 21:20:01 GMT"
-    },
-    {
-      "text": "大的来了，这是达拉斯机场附近\n\n\nMarcoRP (@MarcoRPi1)\n\nTesla is planning a new maintenance facility for Cybercabs and Robotaxis in Irving,Texas!!\n\nThe facility consists of remodeling a 35,000sqft warehouse on W Royal Ln, from which Tesla's autonomous fleet vehicles will be dispatched, serviced, repaired, and cleaned.\n\nThe site will also include 16 V4 Supercharger stalls near the maintenance building, as well as 212 stalls for vehicle storage further north on the property.\n\nThe project is currently working its way through the city's planning department, as Tesla must to secure a zoning variance in order to move forward.\n\n\n\n\n\n\n\n\n\n— https://nitter.net/MarcoRPi1/status/2057552576317661558#m",
-      "link": "https://nitter.net/Tsla99T/status/2057570083195568497#m",
-      "date": "Thu, 21 May 2026 21:11:50 GMT"
     }
   ]
 }

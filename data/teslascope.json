@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-27T20:24:29Z",
+  "updated_at": "2026-05-27T22:44:29Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Posts such as these are what inspired this.\n\nOwners should ideally never feel left in the dark or questioning the benefits of their participation in Early Access programs, or why they’ve been excluded from major releases such as the Spring Update.\n\n\nRed Bot Travels (@redbottravels)\n\nSo is “early access” a hoax? \n\nMy parent’s model Y (no early access) is on 14.3.3\nMy model 3 (with early access) is on 14.3.2 (with no update)\n\n\n\n\n\n\n\n— https://nitter.net/redbottravels/status/2059714270946795900#m",
+      "link": "https://nitter.net/teslascope/status/2059760319011185007#m",
+      "date": "Wed, 27 May 2026 22:15:03 GMT"
+    },
+    {
+      "text": "We believe that reorganizing @Tesla's vehicle software deployment would greatly benefit owners worldwide. Let’s discuss this.\n\nMany owners have misconceptions about the Standard and Advanced toggle in the Software tab in-vehicle, due to its unclear inclusion in each wave. Early Access Program participation has been largely ignored since its launch over a year ago.\n\nVehicles on older non-production branch software releases aren’t always prioritized, causing stagnation and exclusion from newer features and security fixes.\n\nTesla’s vehicle software is deployed on safety-critical products, so there’s always been an expectation of careful, closely monitored deployments. However, in conversations we’ve now had with 1,000+ owners this year, the resounding majority expressed an interest in cutting-edge access, even if that means requiring special care and attention.\n\nAs a software monitoring platform and an active account deeply engaged with the worldwide Tesla community, we observe these shared sentiments every day and want your voices to be heard.\n\nWe’ve built tools this year to communicate better and visualize upgrade paths between software updates, which 300,000+ vehicle owners have already used. We’ll continue to improve these experiences as best we can (including collaborating with other third-party platforms).\n\nWe’d love to know your thoughts on this and whether you’d like an option to access cutting-edge software + Full Self-Driving builds more consistently, with clearer communication about expected availability.",
+      "link": "https://nitter.net/teslascope/status/2059759667807691169#m",
+      "date": "Wed, 27 May 2026 22:12:27 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.8.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
       "link": "https://nitter.net/teslascope/status/2059125181591831021#m",
@@ -87,16 +97,6 @@
       "text": "FSD parking idea\n\nwhen you select “Park” option for the destination, a screen should appear that lets you drag a pin to the general area of the parking lot where you want the car to park\n\nthis would save me so many interventions",
       "link": "https://nitter.net/AIDRIVR/status/2057506971105038451#m",
       "date": "Thu, 21 May 2026 17:01:03 GMT"
-    },
-    {
-      "text": "As part of our new @Tesla software rollout detection system, we record a breakdown of each update every minute, every day.\n\nThis helps us track installations and pending downloads over time while filtering out minor blips caused by newly enrolled vehicles on our platform.",
-      "link": "https://nitter.net/teslascope/status/2057639484783837359#m",
-      "date": "Fri, 22 May 2026 01:47:36 GMT"
-    },
-    {
-      "text": "Starting soon!\n\nWe'll be watching along and will share any software or Full Self-Driving news if it comes up during the event.\n\n\nTesla (@Tesla)\n\nModel S & X Signature Delivery Event nitter.net/i/broadcasts/1nxeLygpl…\n\n\n\n\n— https://nitter.net/Tesla/status/2057257841799713183#m",
-      "link": "https://nitter.net/teslascope/status/2057259777395408931#m",
-      "date": "Thu, 21 May 2026 00:38:47 GMT"
     }
   ]
 }
