@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-28T04:06:38Z",
+  "updated_at": "2026-05-28T10:13:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "For the first year on record, wind and solar produced more electricity than coal in the U.S.",
+      "link": "https://nitter.net/cremieuxrecueil/status/2059678993268322357#m",
+      "date": "Wed, 27 May 2026 16:51:53 GMT"
+    },
+    {
+      "text": "The rarest object type in the universe isn't black holes. It's us. Conscious matter. The flame of life.\n\nWe have a duty to expand it in scope and scale in order to preserve it.",
+      "link": "https://nitter.net/beffjezos/status/2059840387234062453#m",
+      "date": "Thu, 28 May 2026 03:33:12 GMT"
+    },
+    {
+      "text": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.\n\nThe potential speed improvement vs JAX for large training runs is over an order of magnitude.",
+      "link": "https://nitter.net/elonmusk/status/2059884150187053488#m",
+      "date": "Thu, 28 May 2026 06:27:06 GMT"
+    },
+    {
+      "text": "Grok Build improvements\n\n\nskcd (@skcd42)\n\nBug fixes shipping to Grok Build 0.2.7 (release notes will be available in the TUI)\n\n• Wrap around on Up/Down in slash menu and history search\n• Restore subagent UI and replay on session resume\n• Fix Ctrl+Delete on windows\n• Windows drag-and-drop screenshot images + Ctrl/Alt+V image input\n• Add Windows-friendly alternatives for Ctrl+Enter / Ctrl+;\n• Strip base64 str images from read_file tool calls & pass as multimodal vision tokens\n• Share terminal backend, scheduler, monitor across subagent sessions\n• Image pipeline improvements (fix truncation, min pixels)\n• /login command to reauth from inside TUI\n• Add /usage\n• Handle Cmd+A in prompt to select all text in ghostty\n\n\n\n— https://nitter.net/skcd42/status/2059832717542555657#m",
+      "link": "https://nitter.net/elonmusk/status/2059873440212124071#m",
+      "date": "Thu, 28 May 2026 05:44:33 GMT"
+    },
     {
       "text": "The entire event yesterday, launching missions, landers, rovers, tech demos building a Moon Base, and sci-fi capabilities like MoonFall, brought to you by those who Dare Mighty Things.  Just the very beginning. What a time 🇺🇸\n\n\nNASA JPL (@NASAJPL)\n\nFour JPL-built propulsive drones – known as MoonFall – will survey the lunar surface at potential @NASAArtemis landing sites in unprecedented detail. The mission is part of the initial phase of the @NASAMoonBase initiative.\n\nLearn more: jpl.nasa.gov/missions/moonfa…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/NASAJPL/status/2059737217623580779#m",
       "link": "https://nitter.net/NASAAdmin/status/2059766457332900192#m",
@@ -82,26 +102,6 @@
       "text": "Wise words\n\n\nBrivael Le Pogam (@brivael)\n\nDans le manifeste \"techno-optimiste\" de Marc Andreessen, il y a une phrase qui m'a marqué :\n\n\"Our enemies are not bad people – but rather bad ideas.\"\n\nNos ennemis ne sont pas des mauvaises personnes. Ce sont des mauvaises idées.\n\nPrenons Jancovici. L'homme est brillant, sincère, travailleur. Il ne se lève pas le matin en se disant qu'il va nuire à l'humanité. Mais l'idée qu'il porte la décroissance, le rationnement, la frugalité érigée en horizon civilisationnel est une idée profondément destructrice. Elle prend des esprits brillants et les transforme en commissaires politiques d'un futur appauvri.\n\nEt le plus fascinant, c'est ce que cette idée fait aux gens qui l'adoptent.\n\nDans mon entourage, une grosse partie de mes amis est sur cette ligne décroissantiste, avec tout le package qui va avec. L'argent c'est mal mais ils en veulent. Il faut moins prendre l'avion mais ils rêvent de voyager partout. Il faut consommer moins mais ils ne renoncent à rien de ce qu'ils aiment vraiment.\n\nEt tous ont un point commun : ils sont déprimés. L'un d'eux m'a même confié qu'il était sous antidépresseurs.\n\nCe n'est pas un hasard. C'est mécanique.\n\nQuand tu crois que ton désir de vivre, de créer, de t'élever est moralement suspect tu te détruis de l'intérieur. Tu passes ta vie à t'excuser d'exister. Tu vis dans la dissonance permanente entre ce que ton corps veut (plus, mieux, plus loin) et ce que ton idéologie t'ordonne (moins, sobre, immobile).\n\nD'où ma théorie :\n\nQuand on pense quelque chose de fondamentalement faux décroissance, communisme, extrémisme religieux (de tout ordre) ce n'est qu'une question de temps avant que ça devienne vraiment destructeur.\n\nD'abord pour soi. Puis pour les autres.\n\nLes mauvaises idées tuent. Lentement chez ceux qui y croient, brutalement chez ceux qui les subissent.\n\nC'est pour ça que la bataille des idées n'est pas un luxe d'intellectuel. C'est la bataille la plus importante de notre époque.\n\n\n\n— https://nitter.net/brivael/status/2059512621984809331#m",
       "link": "https://nitter.net/elonmusk/status/2059574258981036175#m",
       "date": "Wed, 27 May 2026 09:55:43 GMT"
-    },
-    {
-      "text": "Thank Heaven for the First Amendment in America!\n\n\nKevin Bass (@kevinnbass)\n\nThe truth is called hateful in Belgium. Therefore speaking it is against the law.\n\nThis is more frightening than calling the truth \"misinformation\". They have stopped pretending completely. They are openly admitting that they have criminalized the truth.\n\n\n\n— https://nitter.net/kevinnbass/status/2059532832595132927#m",
-      "link": "https://nitter.net/elonmusk/status/2059573467792748842#m",
-      "date": "Wed, 27 May 2026 09:52:34 GMT"
-    },
-    {
-      "text": "Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI)\n\n- add “Yes, and don't ask again for anything (always-approve mode)\"\n- add alpha/stable to welcome screen\n- JetBrains/JediTerm terminal detection so TUI does not get confused and detect it as some other terminal\n- persist model ID instead of display name for default_model\n- clamp Q&A height to prevent ratatui buffer overflow\n- better UX for tmux inside ssh copy-paste issues\n- store vim mode persistently in the config.toml to prevent restart loss\n- memory usage improvements for managing chat history on the hot path",
-      "link": "https://nitter.net/skcd42/status/2059471983684055257#m",
-      "date": "Wed, 27 May 2026 03:09:18 GMT"
-    },
-    {
-      "text": "Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate, data-driven  political speech about mass migration — as this ruling appears to explicitly contemplate.  \n\nDoing so means that people willing to be convicted of “racism” get a monopoly on making arguments that strike large segments of the public as important and true.\n\n\nDries Van Langenhove (@DVanLangenhove)\n\nA very sad announcement.\n\nI have just been convicted a second time for 'hate speech' and it is only due to a technicality that I could not immediately be sent to jail —to the judge's frustration.\n\nIn an ironic turn of events it's actually thanks to my previous prison sentence (for memes in a private group chat) that I am now still free —in a physical sense, at least.\n\nCall me naive but I didn't think they would take it this far, given that this precedent criminalises many of the arguments used by even the most moderate politicians critical of mass migration.\n\nIn February 2024 I gave a lecture at Catholic University Leuven wherein I linked mass migration to crime and a deterioration of our quality of life. Every single point I made was 100% the truth and based on scientific evidence.\n\nCynically, even the judge that convicted me admits as much by writing in his verdict: “Even if all of the statements made by Van Langenhove are based on scientific evidence and statistics, it makes no difference to the criminal intent. Van Langenhove is not charged with spreading false information. He is charged with presenting facts in a way that incites hatred against persons on the grounds of one or more of the protected criteria in the Anti-Racism Law.”\n \nThat's a lot of words just to say he wants to send me to prison for speaking the truth.\n\nEven the regime media write: \"It did not matter to the court that Van Langenhove was quoting scientific sources. The judge argued that Van Langenhove's main message was that a big part of the societal problems like insecurity, housing shortages and lowering educational standards are due to mass migration.\"\n\nYou may think the regime media are being sympathetic to me in the first sentence, but in reality they are warning people: even if you speak the truth, if you go against our narrative, we will crush you in every way possible.\n\nBoth the public prosecutor and the judge did not present a single real argument as to how or against whom I would have incited hatred. So even if I would accept their crazy, dystopic law, I still did not break it.\n \nThe only argument they present is that I created a \"hostile atmosphere of us versus them” in regards to migrants. But even this silly argument (which is not even a punishable offence) is not true. To me, the deadly disease is self-hatred and one of its worst symptoms is replacement migration. My enemy is thus NOT the migrants themselves but those orchestrating the mass migration.\n\nSadly, in Belgium, evidence is not needed and ‘vibes’ are enough to put someone in jail.\n\nGiven the fact that I have another court case coming up in September and that I have a dozen active criminal investigations for hate speech, time is running out for me. I have already paid more than €420,000 in legal fees and there is no ending in sight. I have been in an intense battle of attrition for eight years and must now regroup to make sure I can still win.\n\nIf you want to help me, you can do so via the links below. If you can help in other ways, please contact me via DM.\n\nIf you live in a country that still has free speech, never let them touch it, however noble they make the motives sound, because this is where it leads to.\n\n\n\n\n\n— https://nitter.net/DVanLangenhove/status/2059275296050741666#m",
-      "link": "https://nitter.net/UnderSecPD/status/2059364834265985082#m",
-      "date": "Tue, 26 May 2026 20:03:32 GMT"
-    },
-    {
-      "text": "Wow\n\n\nEva Vlaardingerbroek (@EvaVlaar)\n\nDries has just been convicted again: This time for speaking the truth about the disastrous consequences of mass migration.\n\nThe most insane part is that the Belgian court even admitted Dries spoke the truth, as what he said was factual, but deems it a crime because it could incite hatred. Let that sink in. \n\nThey’re criminalizing the truth and they’re using Dries to set an example.\n\nLet’s come together to help him. Dries is a young father, a brave patriot and the Belgian establishment has been trying to destroy him for years. He’s taken so many hits, he really deserves our help.\n\n\n\n— https://nitter.net/EvaVlaar/status/2059348120023003622#m",
-      "link": "https://nitter.net/elonmusk/status/2059472491115123177#m",
-      "date": "Wed, 27 May 2026 03:11:19 GMT"
     }
   ]
 }

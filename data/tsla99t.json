@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-05-28T04:07:04Z",
+  "updated_at": "2026-05-28T10:13:27Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "看来马斯克被Delaware法官坑的影响后劲十足\n就连我工作的公司都刚宣布从Delaware移到Texas了\n而且还出现了一个新词：DEXIT",
+      "link": "https://nitter.net/Tsla99T/status/2059939761842762032#m",
+      "date": "Thu, 28 May 2026 10:08:05 GMT"
+    },
     {
       "text": "Very Cool！希望这样的开源gadget越来越多\n我们秋季要开设基于Reachy Mini的AI Workshop\ngenai4kidz.com/workshops/rea…\n\n\nAndi Marafioti (@andimarafioti)\n\nIntroducing local Reachy Mini conversations: free chats forever! \nSo fast that we had to hardcode delays to stop it from interrupting you mid-sentence.\n\nWe built an open-source Realtime API powered by llama.cpp: \nParakeet -> Gemma 4 E4B -> Qwen3TTS\n\nRun it anywhere you run local LMs. Video shows DGX Spark and a 36GB M3 Pro MacBook.\n\nBlog: huggingface.co/blog/local-re…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/andimarafioti/status/2059658208893940067#m",
       "link": "https://nitter.net/Tsla99T/status/2059732564772896863#m",
@@ -92,11 +97,6 @@
       "text": "正确的方向：工作签证优先给在美国上学，硕士以上高学历的人\n\n\nUSCIS (@USCIS)\n\nThis year’s H-1B season is wrapping up, and we’re seeing great results from @POTUS’ new policies that prioritize America First!\n\nStay tuned for more updates, but here’s what we’re seeing so far:\n\n✅More top talent: We’re approving more applicants with advanced degrees and higher salaries—especially those who studied at U.S. universities. An overwhelming 71.5% of selected aliens hold a U.S. master’s degree or higher, compared to 57% last year.\n\n✅Stronger workforce: These skilled workers are making a real impact on our economy and we’re closing the door on the low-wage and low-skilled foreign labor pipeline approved under Biden administration policies. This year, only 17.7% of all selected registrations were in the lowest wage category.\n\n✅Restoring integrity: The number of properly submitted registrations plummeted by 38.5%, from 343,981 in fiscal year 2026 to just 211,600 in fiscal year 2027. This data is a clear sign that the days of abusing the program with mass, low-wage registrations are over, and that the program is better serving its intended purpose of attracting highly skilled foreign workers and protecting the wages, working conditions, and job opportunities of American workers.\n\nMore details coming soon!\n\n\n\n— https://nitter.net/USCIS/status/2057561453373399339#m",
       "link": "https://nitter.net/Tsla99T/status/2057597602292547773#m",
       "date": "Thu, 21 May 2026 23:01:11 GMT"
-    },
-    {
-      "text": "金色Cybercab在highland park老钱区相映生辉\n\n\nTeslaFamily (@ReardenSteelX)\n\nDallas yesterday. Open the flood gates!\n\n\n\n\n\n— https://nitter.net/ReardenSteelX/status/2057303383371911327#m",
-      "link": "https://nitter.net/Tsla99T/status/2057578378027216920#m",
-      "date": "Thu, 21 May 2026 21:44:47 GMT"
     }
   ]
 }
