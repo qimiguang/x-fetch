@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-27T22:44:29Z",
+  "updated_at": "2026-05-28T04:06:40Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Thank you @aelluswamy and @Tesla_AI 🙌\n\nAnother wave of V14.3.3 is now going out.\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 414%, including Cybertruck AI4, Model X (Refresh) AI4, and Model S (Refresh) AI4.\n\n\n\n— https://nitter.net/teslascope/status/2059830834752876680#m",
+      "link": "https://nitter.net/teslascope/status/2059832073146527966#m",
+      "date": "Thu, 28 May 2026 03:00:10 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 414%, including Cybertruck AI4, Model X (Refresh) AI4, and Model S (Refresh) AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
+      "link": "https://nitter.net/teslascope/status/2059830834752876680#m",
+      "date": "Thu, 28 May 2026 02:55:15 GMT"
+    },
+    {
+      "text": "New in V0.1.0 (now in review):\n\nThe first major update to our @teslascope mobile app, introducing vehicle commands with instant controls via encrypted BLE communications, automations + scheduled, and over a dozen bug fixes.\n\nInvites are now open to all by request!",
+      "link": "https://nitter.net/vehiclescope/status/2059800335456374803#m",
+      "date": "Thu, 28 May 2026 00:54:03 GMT"
+    },
     {
       "text": "Posts such as these are what inspired this.\n\nOwners should ideally never feel left in the dark or questioning the benefits of their participation in Early Access programs, or why they’ve been excluded from major releases such as the Spring Update.\n\n\nRed Bot Travels (@redbottravels)\n\nSo is “early access” a hoax? \n\nMy parent’s model Y (no early access) is on 14.3.3\nMy model 3 (with early access) is on 14.3.2 (with no update)\n\n\n\n\n\n\n\n— https://nitter.net/redbottravels/status/2059714270946795900#m",
       "link": "https://nitter.net/teslascope/status/2059760319011185007#m",
@@ -82,21 +97,6 @@
       "text": "Tesla software update 2026.14.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 15%, including Model 3 AI3, Model 3 AI4, and Model Y AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6 on Model S Performance (2019) in Florida, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2054019126973108296#m",
       "link": "https://nitter.net/teslascope/status/2057891846630555711#m",
       "date": "Fri, 22 May 2026 18:30:24 GMT"
-    },
-    {
-      "text": "Share an idea that we like 🤝 Get an invite to our iOS mobile app’s early access tomorrow with our subscribers.\n\n\nVehiclescope (@vehiclescope)\n\nIf you could have the perfect Tesla or third-party Tesla mobile app, what features would you like to have?\n\nIf it sounds good, we’ll consider adding it to our iOS mobile app and you’ll get an invite to our TestFlight tomorrow alongside @teslascope subscribers.\n\n\n\n— https://nitter.net/vehiclescope/status/2057682546121740712#m",
-      "link": "https://nitter.net/teslascope/status/2057683108292694027#m",
-      "date": "Fri, 22 May 2026 04:40:57 GMT"
-    },
-    {
-      "text": "Location Alerts (Departure and Arrival) are now available on @teslascope and on our iOS mobile app for Pro subscribers.\n\nAdditional notification types such as software update availability, new software releases, and more will be available to all members, no subscription required.",
-      "link": "https://nitter.net/vehiclescope/status/2057652756224344551#m",
-      "date": "Fri, 22 May 2026 02:40:21 GMT"
-    },
-    {
-      "text": "FSD parking idea\n\nwhen you select “Park” option for the destination, a screen should appear that lets you drag a pin to the general area of the parking lot where you want the car to park\n\nthis would save me so many interventions",
-      "link": "https://nitter.net/AIDRIVR/status/2057506971105038451#m",
-      "date": "Thu, 21 May 2026 17:01:03 GMT"
     }
   ]
 }
