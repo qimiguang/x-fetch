@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-29T04:08:30Z",
-  "count": 19,
+  "updated_at": "2026-05-29T10:03:41Z",
+  "count": 20,
   "tweets": [
     {
       "text": "Thank you @aelluswamy and @Tesla_AI 🙌\n\nAnother wave of V14.3.3 is now going out.\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 414%, including Cybertruck AI4, Model X (Refresh) AI4, and Model S (Refresh) AI4.\n\n\n\n— https://nitter.net/teslascope/status/2059830834752876680#m",
@@ -32,6 +32,11 @@
       "text": "We noticed a new Tesla software update 2026.8.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
       "link": "https://nitter.net/teslascope/status/2059125181591831021#m",
       "date": "Tue, 26 May 2026 04:11:14 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.6 on Model S Performance (2019) in Florida, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2054019126973108296#m",
+      "date": "Tue, 12 May 2026 02:01:36 GMT"
     },
     {
       "text": "A new feature has been detected: Estimated Toll Fees\n\nteslascope.com/software/2026…",
@@ -69,9 +74,9 @@
       "date": "Sat, 23 May 2026 17:15:17 GMT"
     },
     {
-      "text": "Our Membership page was temporarily inaccessible following this update. This has now been resolved and all impacted members have been directly contacted.",
-      "link": "https://nitter.net/teslascope/status/2058004861048983750#m",
-      "date": "Sat, 23 May 2026 01:59:29 GMT"
+      "text": "Our web platform has been updated to V6.3.2, which now supports truly passwordless account creation with Google, Apple, or X accounts.\n\nYou can also create an account with just a Passkey (now standalone, instead of an alternative authentication option).\n\nteslascope.com/blog/6.3.2",
+      "link": "https://nitter.net/teslascope/status/2057978144460812484#m",
+      "date": "Sat, 23 May 2026 00:13:19 GMT"
     },
     {
       "text": "To be mindful of recent supply chain attacks within the developer community, we've also reduced the number of NPM packages used by the platform.\n\nSeveral dependencies have been replaced with purpose-built implementations. These changes will be felt via performance boosts for all.",
@@ -79,14 +84,14 @@
       "date": "Sat, 23 May 2026 00:13:20 GMT"
     },
     {
+      "text": "Our Membership page was temporarily inaccessible following this update. This has now been resolved and all impacted members have been directly contacted.",
+      "link": "https://nitter.net/teslascope/status/2058004861048983750#m",
+      "date": "Sat, 23 May 2026 01:59:29 GMT"
+    },
+    {
       "text": "Signing in with X has been broken since December 2025; this has now been resolved. This now allows you to create an account and sign in solely with an X Account! 🎉\n\nAs with all OAuth providers (Google, Apple, X), we strongly encourage using Two-Factor Authentication (2FA).",
       "link": "https://nitter.net/teslascope/status/2057978146113380859#m",
       "date": "Sat, 23 May 2026 00:13:20 GMT"
-    },
-    {
-      "text": "Our web platform has been updated to V6.3.2, which now supports truly passwordless account creation with Google, Apple, or X accounts.\n\nYou can also create an account with just a Passkey (now standalone, instead of an alternative authentication option).\n\nteslascope.com/blog/6.3.2",
-      "link": "https://nitter.net/teslascope/status/2057978144460812484#m",
-      "date": "Sat, 23 May 2026 00:13:19 GMT"
     },
     {
       "text": "As far as we know, Teslascope is one of the only third-party Tesla apps with native support for Passkeys and has for over a year now.\n\nWe encourage all other apps to provide this experience for vehicle owners. 🔐\n\n\nCloudflare (@Cloudflare)\n\nPasswords are a pain. Are you fully onboard with Passkeys yet or are you still holding onto your password manager for dear life? #CloudflareChat\n\n\n\n— https://nitter.net/Cloudflare/status/2057746035959566349#m",

@@ -1,8 +1,38 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-05-29T04:08:31Z",
-  "count": 19,
+  "updated_at": "2026-05-29T10:03:44Z",
+  "count": 20,
   "tweets": [
+    {
+      "text": "Signature Edition Tesla Model S Full Walkaround & In-Depth Tour (One of Only 250)\n\nStep inside one of the rarest Teslas ever made — the 2026 Signature Edition Model S Plaid.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2059803037917687818#m",
+      "date": "Thu, 28 May 2026 01:04:48 GMT"
+    },
+    {
+      "text": "The impact of Elon Musk\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2060258751521996805#m",
+      "date": "Fri, 29 May 2026 07:15:38 GMT"
+    },
+    {
+      "text": "“The Roadster will be amazing car that looks at the limits of physics.” — Franz, Tesla's Chief Designer\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2060254964791091423#m",
+      "date": "Fri, 29 May 2026 07:00:35 GMT"
+    },
+    {
+      "text": "No other vehicle tops the driving experience of the Cybertruck\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2060254828262265062#m",
+      "date": "Fri, 29 May 2026 07:00:03 GMT"
+    },
+    {
+      "text": "Lean into those who support you and your work. \n\nDon’t give energy to those who bring you down.",
+      "link": "https://nitter.net/teslaownersSV/status/2060221855613788593#m",
+      "date": "Fri, 29 May 2026 04:49:02 GMT"
+    },
+    {
+      "text": "I started a cultural movement in the Tesla community. \n\nThere’s only one thing to do: Light it up 🔥\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2060217181858844759#m",
+      "date": "Fri, 29 May 2026 04:30:27 GMT"
+    },
     {
       "text": "Elon Musk \n“I don’t ever give up”\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2060203562387575116#m",
@@ -72,31 +102,6 @@
       "text": "How it started vs how it’s going \n\nStarship Flight 1 → Flight 12\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2060084719669461282#m",
       "date": "Thu, 28 May 2026 19:44:06 GMT"
-    },
-    {
-      "text": "DOGE, but make it communism\n\n\n\n\nMayor Zohran Kwame Mamdani (@NYCMayor)\n\nThis morning we are introducing COGE — the Commission on Government Efficiency.  This Commission will find ways for our city to work smarter, faster, and more effectively for working people.   New Yorkers deserve a city government as careful with their money as they are.\n\n\n\n— https://nitter.net/NYCMayor/status/2059995253550002361#m",
-      "link": "https://nitter.net/teslaownersSV/status/2060078482135085312#m",
-      "date": "Thu, 28 May 2026 19:19:19 GMT"
-    },
-    {
-      "text": "Just in time for the rain @teslaownersSV @SjvTesla and @theXtakeover . My wife wants a TOSJV T-shirt now 😂\n\nVideo",
-      "link": "https://nitter.net/ninjamattic/status/2060075774934434075#m",
-      "date": "Thu, 28 May 2026 19:08:33 GMT"
-    },
-    {
-      "text": "SpaceX is reportedly building its own ultra-optimized AI training stack completely from scratch in C.\n\nThe system is designed to run across a massive cluster of around 220,000 NVIDIA GB300 GPUs connected with ultra-fast 800G networking infrastructure.\n\nThe focus is maximum efficiency:\n• heavy pipeline parallelism\n• near bare-metal performance\n• minimal software overhead\n\nIf successful, the custom stack could potentially make large-scale AI training more than 10x faster compared to frameworks like JAX.\n\nThe next major AI breakthroughs may come as much from infrastructure engineering as from the models themselves\n\n\n\n\nElon Musk (@elonmusk)\n\nSpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible.\n\nThe potential speed improvement vs JAX for large training runs is over an order of magnitude.\n\n\n\n— https://nitter.net/elonmusk/status/2059884150187053488#m",
-      "link": "https://nitter.net/teslaownersSV/status/2060063198494236894#m",
-      "date": "Thu, 28 May 2026 18:18:35 GMT"
-    },
-    {
-      "text": "It was great to talk all things Takeover.\nSee you next Tuesday for Round 2 🏔️🚀\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nnitter.net/i/spaces/1vKpPPDVovkKE\n\n\n\n— https://nitter.net/teslaownersSV/status/2060028359363772925#m",
-      "link": "https://nitter.net/TeslaClubAT/status/2060055009136390452#m",
-      "date": "Thu, 28 May 2026 17:46:02 GMT"
-    },
-    {
-      "text": "Starlink is delivering reliable high-speed internet to the Terry Bison Ranch in remote Wyoming 🛰️\n\nEven in rural areas where traditional connectivity is difficult, Starlink is helping businesses and communities stay connected with fast, low-latency internet\n\nstarlink.com/stories-wyoming\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2060052573034569990#m",
-      "date": "Thu, 28 May 2026 17:36:21 GMT"
     }
   ]
 }
