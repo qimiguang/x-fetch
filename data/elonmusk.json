@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-28T22:42:16Z",
+  "updated_at": "2026-05-29T04:08:29Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Starlink powers the world’s biggest satellite constellation in low Earth orbit. \n\nWhat does that mean for you? We're rolling out the world’s fastest, most reliable high-speed inflight Wi-Fi now — with waaaaay more on the horizon. By the end of this year, we expect that 880+ United planes will have @Starlink on board. And it's free for MileagePlus members.\n\nVideo",
+      "link": "https://nitter.net/united/status/2060104660665430394#m",
+      "date": "Thu, 28 May 2026 21:03:20 GMT"
+    },
+    {
+      "text": "Release the Henry Nowak police body camera footage so people can see what real systemic racism looks like.\n\nThey let an innocent kid bleed out over it.\n\nAnything less is unacceptable.",
+      "link": "https://nitter.net/C_3C_3/status/2060052045390893455#m",
+      "date": "Thu, 28 May 2026 17:34:16 GMT"
+    },
+    {
+      "text": "Check out the daily Grok Build version updates at x.ai/build/changelog",
+      "link": "https://nitter.net/elonmusk/status/2060167696998867414#m",
+      "date": "Fri, 29 May 2026 01:13:49 GMT"
+    },
+    {
+      "text": "Cool!\n\n\nSawyer Merritt (@SawyerMerritt)\n\nUnited Airlines expects to have @Starlink installed on 80% of its entire fleet by the end of this year.\n\nSouthwest expects to have 300+ of its airplanes to have Starlink by end of 2026.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2060112671156969617#m",
+      "link": "https://nitter.net/elonmusk/status/2060141783632515383#m",
+      "date": "Thu, 28 May 2026 23:30:51 GMT"
+    },
+    {
+      "text": "Good value for money\n\n\nKilo (@kilocode)\n\nWe gave Grok Build 0.1 one prompt: build a webhook delivery service in TypeScript, Bun, and SQLite.\n\nIt planned it, built it, and shipped a working demo.\nTotal cost: $1.65.\n\nZero tool-calling failures.\nHere's exactly what happened, file by file.\n\n\n\n\n\n— https://nitter.net/kilocode/status/2060092755372560882#m",
+      "link": "https://nitter.net/elonmusk/status/2060134654125154434#m",
+      "date": "Thu, 28 May 2026 23:02:31 GMT"
+    },
+    {
+      "text": "Starlink has connected 167K @united flights and counting, delivering seamless internet gate to gate🛰️✈️\n\n\nUnited Airlines (@united)\n\nStarlink powers the world’s biggest satellite constellation in low Earth orbit. \n\nWhat does that mean for you? We're rolling out the world’s fastest, most reliable high-speed inflight Wi-Fi now — with waaaaay more on the horizon. By the end of this year, we expect that 880+ United planes will have @Starlink on board. And it's free for MileagePlus members.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/united/status/2060104660665430394#m",
+      "link": "https://nitter.net/Starlink/status/2060111150029914577#m",
+      "date": "Thu, 28 May 2026 21:29:07 GMT"
+    },
     {
       "text": "Cybercab driving itself out of the GigaTexas factory\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2060092313150611851#m",
@@ -72,36 +102,6 @@
       "text": "NASA Administrator Jared Isaacman: \"@SpaceX is probably our greatest commercial space company, hands down. We rely on SpaceX heavily to put our astronauts to and from the international space station.\"\n\nVideo",
       "link": "https://nitter.net/SawyerMerritt/status/2059732520485175424#m",
       "date": "Wed, 27 May 2026 20:24:35 GMT"
-    },
-    {
-      "text": ".@elonmusk is a patriot who loves America, & @SpaceX has been a good-faith partner of the War Department.\n\n\nDOW Rapid Response (@DOWResponse)\n\nThe Department of War is proud to work with @SpaceX and will continue collaborating in support of America’s national security.\n\nThese baseless attacks are nothing more than tabloid garbage.\n\n\n\n— https://nitter.net/DOWResponse/status/2059650941985407203#m",
-      "link": "https://nitter.net/SeanParnellASW/status/2059654442853527905#m",
-      "date": "Wed, 27 May 2026 15:14:20 GMT"
-    },
-    {
-      "text": "@NASAMoonBase is the stepping stone towards everything that comes next.\n\n\nNASA Administrator Jared Isaacman (@NASAAdmin)\n\nThe near impossible is becoming possible.\n\nWe are building toward a sustained human presence at the lunar South Pole. It begins with Phase 1: CLPS landers and LTV rovers testing the “science of survival” on the lunar surface before heavy HLS cargo landers deliver the mass and infrastructure needed for an enduring presence.\n\nWe are building the Moon Base for all we will learn, the innovation that will improve life on Earth, the inspiration for the next generation of explorers, and to master the skills needed for where we will inevitably go next...Mars.\n\nThe Golden Age of lunar exploration has begun.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/NASAAdmin/status/2059420433858904204#m",
-      "link": "https://nitter.net/JeffBezos/status/2059691143483494460#m",
-      "date": "Wed, 27 May 2026 17:40:10 GMT"
-    },
-    {
-      "text": "The near impossible is becoming possible.\n\nWe are building toward a sustained human presence at the lunar South Pole. It begins with Phase 1: CLPS landers and LTV rovers testing the “science of survival” on the lunar surface before heavy HLS cargo landers deliver the mass and infrastructure needed for an enduring presence.\n\nWe are building the Moon Base for all we will learn, the innovation that will improve life on Earth, the inspiration for the next generation of explorers, and to master the skills needed for where we will inevitably go next...Mars.\n\nThe Golden Age of lunar exploration has begun.\n\nVideo",
-      "link": "https://nitter.net/NASAAdmin/status/2059420433858904204#m",
-      "date": "Tue, 26 May 2026 23:44:28 GMT"
-    },
-    {
-      "text": "Been using Grok Build these past few days, and the thing that really got me hooked is Imagine and Imagine Video.\n\nI built a full dinosaur encyclopedia site — every image, every video clip on it, all generated by Grok itself. One prompt: \"build a dinosaur encyclopedia site, generate matching images and videos, add them in\" — visuals, video, copy, layout, the whole thing done in one flow. No jumping between a dozen tools.\n\nIt's perfect for building science and education sites for kids — dinosaurs, space, animals, history, geography… Grok generates vivid visuals and videos that make knowledge way easier to grasp, more visual, more fun.\n\nVideo\n  \n\n\n\n\nxAI (@xai)\n\nGrok Build is now available in Beta for all SuperGrok and X Premium+ users.\n\nUse Plan Mode, create images and videos with Imagine, and build automations or orchestrators with the CLI.\n\nVisit x.ai/cli to get started.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/xai/status/2058973760708091907#m",
-      "link": "https://nitter.net/akokoi1/status/2059656183783592437#m",
-      "date": "Wed, 27 May 2026 15:21:15 GMT"
-    },
-    {
-      "text": "Below is a common error. \n\nHere are the facts: Dr. Andrew Baker, the Chief Medical Examiner for Hennepin County (who was the only person that conducted the autopsy of George Floyd) did not agree with the prosecution’s evolving theories of the cause of Floyd’s death. \n\nHe did not find that Floyd died from a vascular restraint (blood choke), which was the prosecution’s theory at the beginning of trial. \n\nAnd he did not agree that Floyd died of positional asphyxia, which became the prosecution’s fall back theory when, in the middle of trial and to prosecutors’ utter surprise, their blood choke theory imploded in real time (due to it being physiologically impossible to kill somebody by compressing only one of their carotid arteries). \n\nBaker’s autopsy provided zero evidentiary support for everything the prosecutors wanted the jury to believe. \n\nBut it’s worse than that. Baker also found a lack of evidence where one would expect to find evidence had the prosecution’s theories been correct. Baker called this absence of evidence the “pertinent negatives,” and they all - ALL - worked against the prosecution.\n\n\nGary Koepnick (@garykoepnick)\n\nYet you think you know more than the medical examiner who did the autopsy \n\nYou’re just another racist MAGA POS.\n\n\n\n— https://nitter.net/garykoepnick/status/2059327406721409045#m",
-      "link": "https://nitter.net/TJ_Harker/status/2059375414242603045#m",
-      "date": "Tue, 26 May 2026 20:45:34 GMT"
-    },
-    {
-      "text": "Meanwhile, officer To Thao spent nearly half a decade in prison for simply being nearby as George Floyd overdosed on fentanyl\n\n\n\n\nMatrixMysteries (@MatrixMysteries)\n\n“Minnesota watched a Somali man walk FREE after a jury CONVICTED him of stealing $7.2 million in taxpayer money.”\n\nThe jury called the evidence overwhelming.\nThe judge overturned the verdict anyway.\n\nIf a unanimous conviction can be thrown out, justice is DEAD.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MatrixMysteries/status/2058694031014572299#m",
-      "link": "https://nitter.net/Will_Tanner_1/status/2059329467424923913#m",
-      "date": "Tue, 26 May 2026 17:43:00 GMT"
     }
   ]
 }
