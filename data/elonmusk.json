@@ -1,8 +1,98 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-29T15:53:06Z",
+  "updated_at": "2026-05-30T08:33:42Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "TERAFAB IS GOING TO BE INSANE.\n\nWe’re targeting 100–200 billion custom AI + memory chips per year at full ramp that’s 1 terawatt (1,000 GW) of annual AI compute capacity. Roughly 50x current global AI chip output. \n\nThis isn’t incremental. This is the kind of scale that actually moves the needle on civilization.\n\nBreakdown:\n- 80% (~160 billion chips / 800 GW) → radiation-hardened D3 chips for orbital data centers. Space-based compute at massive scale, powered by solar, low latency for Earth, immune to most terrestrial risks.\n\n- 20% (~40 billion chips / 200 GW) → terrestrial AI5 & AI6 edge inference processors for Tesla vehicle fleets and Optimus robots.\n\nFacility plan: start at 100k wafer-starts/month, scale to 1 million wafers/month. Everything design, EUV lithography, fab, memory, packaging, test under one roof. That recursive self-improvement loop is the real unlock.\n\nSmall-batch AI5 chips in 2026. High-volume Terafab output targeted for mid-2028/2029.\n\nThis is how we make AI abundant, affordable, and truly useful for making life multi-planetary and maximizing human potential.\n\nThe future is going to be ridiculously bright.",
+      "link": "https://nitter.net/LaceyPresley/status/2060436135671632067#m",
+      "date": "Fri, 29 May 2026 19:00:30 GMT"
+    },
+    {
+      "text": "Frank is right\n\n\nFrank Wright (@frankwrighter)\n\nI have done my homework and Rupert is Our Man. This is the moment.\n\n\n\n— https://nitter.net/frankwrighter/status/2060445944550662218#m",
+      "link": "https://nitter.net/elonmusk/status/2060606796717273539#m",
+      "date": "Sat, 30 May 2026 06:18:39 GMT"
+    },
+    {
+      "text": "In the UK, you can stab a white person to death and get them arrested while they bleed to death, because racism.\n\nIn the UK, you can brutally assault police officers on video and go free, because racism.\n\nIn the UK, \"anti-racism\" has become far more dangerous than racism.\n\n\nChris Philp MP (@CPhilpOfficial)\n\nApparently this video isn’t enough evidence to convict the guy in blue for assaulting all three police officers\n\nYet Lucy Connolly got two years in prison for an off colour tweet - prosecutions Keir Starmer encouraged\n\nLabour’s two tier justice system has to end nitter.net/PolitlcsUK/status/2060…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/CPhilpOfficial/status/2060368188538265837#m",
+      "link": "https://nitter.net/kevinnbass/status/2060488908169712072#m",
+      "date": "Fri, 29 May 2026 22:30:12 GMT"
+    },
+    {
+      "text": "Grok Build is moving fast\n\n\nX Freeze (@XFreeze)\n\nxAI has been shipping Grok Build updates non-stop\n\nIf you have not been keeping track, here is what xAI has rolled out up to v0.2.11:\n\nNew commands & core features\n\n→ Integrated 𝕏 search and much faster web search\n→ Added /export, /login, /usage, and /config-agents\n→ Added an interactive read-file viewer with PowerPoint text extraction\n→ Added Always-approve mode to streamline permissions\n→ Auto-installed shell completions for bash, zsh, and fish\n\nExpanded platform support\n\n→ Added Windows ARM64 and macOS x86_64 support\n→ Improved terminal support across Warp, VTE-based terminals, JetBrains, and legacy Windows Console\n→ Fixed copy/paste issues across Linux Wayland, WSL, and Windows\n\nAgent & context improvements\n\n→ Subagents now share the terminal backend, scheduler, and monitor across sessions\n→ Added proactive system reminders and laziness detectors to keep the model on task\n→ Improved context compaction and memory usage for chat history\n→ Auto-backgrounds long-running bash-mode commands triggered via !\n\nUX, media & UI upgrades\n\n→ Boosted terminal video playback to 30fps\n→ Added multi-image paste, drag-and-drop, and temporary macOS screenshots\n→ Added instant loading indicators when switching models\n→ Improved clickable markdown links and rendered links inside table cells\n→ Smoother plan-mode controls and absolute line numbers in the edit panel\n\nStability & fixes\n\n→ Increased default retry budget to ~5 minutes\n→ Increased Unix ulimits to prevent crashes\n→ Hardened background tools to handle timeouts and self-kills\n→ Fixed rendering bugs across UTF-8 output, large monitors, Windows contrast, and more\n\nxAI is moving insanely fast\n\nGrok Build is going from early CLI to a serious agentic coding environment very quickly\n\n\n\n— https://nitter.net/XFreeze/status/2060604454970290273#m",
+      "link": "https://nitter.net/elonmusk/status/2060605320729186601#m",
+      "date": "Sat, 30 May 2026 06:12:47 GMT"
+    },
+    {
+      "text": "90% of hate speech targets Men and Whites",
+      "link": "https://nitter.net/TheRabbitHole/status/2060457864334823478#m",
+      "date": "Fri, 29 May 2026 20:26:50 GMT"
+    },
+    {
+      "text": "Happy 1st Birthday, Starbase.\n\nOne year ago today, Starbase officially became a city. In that time, we’ve hosted multiple Starship flight tests, grown our community of people building the future of spaceflight, and worked to protect our beaches and natural resources for generations to come.\n\nNext year will be even bigger. More launches. More progress. And we’re just getting started!\n\nThank you to everyone who has been part of Starbase’s first year as a city.",
+      "link": "https://nitter.net/StarbaseTX/status/2060534053678280986#m",
+      "date": "Sat, 30 May 2026 01:29:35 GMT"
+    },
+    {
+      "text": "On the remarkable return on capital potential for Starlink on Starship.\n\nIncluding customer acquisition cost, ground station capex, and an expendable top stage, we think SpaceX should be able to launch its 10th commercial starship rocket for ~$500m.\n\nThe bandwidth it launches could yield $1.2 billion in revenue annually for as long as the satellites are in orbit. 13x cash on cash return.\n\nFor a time (100 launches or so) cash requirements per kg (and per tbps) of launch should roughly keep pace with the revenue decay in monetizing incremental orbital comms throughput. Basically, their per launch cost decline, driven by rocket upsizing, satellite manufacturing efficiency and full re-useability, should out-compete declining ARPU (or at least keep pace).\n\nNet, very crudely, it works to the company being able to deploy $50b in capital building satellites, launching rockets and acquiring customers at a ~13x cash on cash return over a few years.\n\nThis is a business without precedent.",
+      "link": "https://nitter.net/wintonARK/status/2060417181553463301#m",
+      "date": "Fri, 29 May 2026 17:45:11 GMT"
+    },
+    {
+      "text": "Both men said “I can’t breathe”, but only one man’s death was covered relentlessly by the media. \n\nThe only conclusion that can be drawn is that the legacy mainstream media is incredibly, hatefully racist against Whites.\n\n\nEnd Wokeness (@EndWokeness)\n\nUPDATE (AS OF MAY 29, 2026):\n\n0 stories from AP on Henry Nowak\n0 stories from PBS on Henry Nowak\n0 stories from NYT on Henry Nowak\n0 stories from NPR on Henry Nowak\n0 stories from WSJ on Henry Nowak\n0 stories from CNN on Henry Nowak\n0 stories from WaPo on Henry Nowak\n0 stories from Reuters on Henry Nowak\n0 stories from MSNBC on Henry Nowak\n\n\n\n\n\n— https://nitter.net/EndWokeness/status/2060455617177719249#m",
+      "link": "https://nitter.net/elonmusk/status/2060487009890680906#m",
+      "date": "Fri, 29 May 2026 22:22:39 GMT"
+    },
+    {
+      "text": "True\n\n\nDavid (@DavidSHolz)\n\nSpaceX put 10 megawatts of solar power in space across 3000 gen1 Starlink satellites, then they put 100 megawatts in space with 7000 gen2. soon, they're doing 1000 megawatts with gen3. SpaceX is basically 10xing space solar every few years!\n\n\n\n— https://nitter.net/DavidSHolz/status/2058965000090452384#m",
+      "link": "https://nitter.net/elonmusk/status/2060483139374358651#m",
+      "date": "Fri, 29 May 2026 22:07:17 GMT"
+    },
+    {
+      "text": "RUD (rapid unscheduled disassembly) events are not unusual in the rocket world\n\n\nDogeDesigner (@cb_doge)\n\nAs Elon said…\n\nRockets are hard.\n\nBut giving up was never an option. 🦾\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2060370254354886730#m",
+      "link": "https://nitter.net/elonmusk/status/2060454545960878475#m",
+      "date": "Fri, 29 May 2026 20:13:39 GMT"
+    },
+    {
+      "text": "You literally admitted on national television that you tried to put Rupert Lowe in prison because of political differences. \n\nHe wanted to deport Pakistani child rapists and their accomplice wives.\n\nSo you then rang the police. \n\nNobody is forgetting that.",
+      "link": "https://nitter.net/RestoreBritain/status/2060427008216097246#m",
+      "date": "Fri, 29 May 2026 18:24:14 GMT"
+    },
+    {
+      "text": "True\n\n\nGad Saad (@GadSaad)\n\nSuicidal Empathy will destroy our civilization. It is not hyperbole.\n\n\n\n— https://nitter.net/GadSaad/status/2060389038042067433#m",
+      "link": "https://nitter.net/elonmusk/status/2060453946762592256#m",
+      "date": "Fri, 29 May 2026 20:11:16 GMT"
+    },
+    {
+      "text": "“I’ll kill your whole f–king family. Your whole f–king family is dead. Your children, your wife, all dead.\"\n\nA left-wing activist in Newark was caught on camera shouting those words at an unmasked ICE officer as protests outside the Delaney ICE facility turned chaotic.\n\nActing AG Todd Blanche is now firing back, promising that the \"disgusting\" activist will be caught and charged, emphasizing that threatening a federal officer and their family is a federal crime.\n\n“That is disgusting … and we see his face and I promise you we will find him, and when we find him, we will arrest him.\"\n\nVideo",
+      "link": "https://nitter.net/FoxNews/status/2060410853804114355#m",
+      "date": "Fri, 29 May 2026 17:20:02 GMT"
+    },
+    {
+      "text": "Lee Kuan Yew abolished trial by jury in Singapore after determining that it was too easy for defence lawyers to appeal to racial and religious biases of juries in multicultural Singapore.\n\nHe writes in his memoirs how as a young lawyer he was able to get three clients acquitted who he was sure did commit murder. LKY writes that he  \"worked on the weaknesses of the jury -- their biases, their prejudices, their reluctance really to find four Muslims guilty of killing in cold blood or in a heat of great passion, religious passion, an RAF officer, his wife and child.\"\n\nHe writes \"The judge was thoroughly disgusted. I went home feeling quite sick because I knew I'd discharged my duty as required of me, but I knew I had done wrong.”\n\nStudy after study shows that in multi ethnic societies, there is significant in-group bias on juries.\n\n\nPolitics UK (@PolitlcsUK)\n\n🚨 NEW: Mohammed Fahir Amaaz and Muhammad Amaad have been cleared over the alleged assault of a male police officer at Manchester Airport\n\nTwo juries failed to reach a verdict and no further trial will take place\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/PolitlcsUK/status/2060321273733902816#m",
+      "link": "https://nitter.net/tomhfh/status/2060343652753224073#m",
+      "date": "Fri, 29 May 2026 12:53:00 GMT"
+    },
+    {
+      "text": "Tip on Grok Build + Grok 4.3 VLM\n\nOne of my critical tasks is to keep Grok VLM in the loop. Throwing a default system prompt usually yields poor results due to lack of context.\n\nHere is how to scale:\n\n- Curate a small but diverse evaluation set that can be rapidly iterated on.\n\n- Enter the prompt: “Make a plan to design and execute a task that a) takes input per entry from: <input>, b) generates output per entry to: <output>, c) the ground truth of output: <ground truth>. Launch sub-agents to iterate on strategy to optimize recall and precision against ground truth until both metrics reach <threshold>.”\n\nDone. Watch your research agents do the work.",
+      "link": "https://nitter.net/yunta_tsai/status/2060379158610595923#m",
+      "date": "Fri, 29 May 2026 15:14:06 GMT"
+    },
+    {
+      "text": "grok-build-0.1 is now available via the xAI API in public beta.\n\nThis is the same model that powers the Grok Build CLI and excels at agentic coding.\n\nPriced at $1/m input and $2/m output, it’s extremely cost effective, intelligent, and fast.",
+      "link": "https://nitter.net/xai/status/2060392249402552457#m",
+      "date": "Fri, 29 May 2026 16:06:07 GMT"
+    },
+    {
+      "text": "Having Grok Build sub-agents to iterate several ideas for me on data loading, batching, inference, and writing results to files for dense datasets before I went to sleep.\n\nIt gave me a nice summary of trade-offs and validation in the morning.\n\nThe same idea can be extended to almost anything as long as gradient descent and stochastic sampling apply.\n\nLooking forward to how you utilize the sub-agents.\n\n\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nTip on Grok Build + Grok 4.3 VLM\n\nOne of my critical tasks is to keep Grok VLM in the loop. Throwing a default system prompt usually yields poor results due to lack of context.\n\nHere is how to scale:\n\n- Curate a small but diverse evaluation set that can be rapidly iterated on.\n\n- Enter the prompt: “Make a plan to design and execute a task that a) takes input per entry from: <input>, b) generates output per entry to: <output>, c) the ground truth of output: <ground truth>. Launch sub-agents to iterate on strategy to optimize recall and precision against ground truth until both metrics reach <threshold>.”\n\nDone. Watch your research agents do the work.\n\n\n\n— https://nitter.net/yunta_tsai/status/2060379158610595923#m",
+      "link": "https://nitter.net/yunta_tsai/status/2060410699126583553#m",
+      "date": "Fri, 29 May 2026 17:19:25 GMT"
+    },
+    {
+      "text": "🟥 W toku procesu wycieka coraz więcej szczegółów. Zabójca, Vickrum Digwa, zadzwonił na policje, a nie na pogotowie i skłamał, że to Henry go zaatakował, był pijany, obraził go rasistowsko i strącił mu turban.\nPolicja Hampshire przyjechała (trzy policjantki) i natychmiast zakuli Henry’ego w kajdanki, mimo że leżał w kałuży krwi z ranami kłutymi klatki piersiowej i nóg. Wielokrotnie powtarzał: „I’ve been stabbed” („Zostałem dźgnięty”), „I can’t breathe” („Nie mogę oddychać”). Na nagraniu z kamery osobistej słychać głos policjanta: „I don’t think you have, mate” („Nie sądzę, koleś”).\nPolicjant, który zakuł Henry’ego w kajdanki, śmiał się, gdy ten powiedział, że został dźgnięty. Potem wleczono go po żwirze i trzymano skutego, gdy się wykrwawiał. Dopiero gdy stracił przytomność, funkcjonariusze zdjęli kajdanki i zaczęli reanimację. Henry zmarł na miejscu.\nPonadto policja zabrała telefon Henry’ego i jego taty i przeczytała wszystkie wiadomości w poszukiwaniu rasistowskich komentarzy lub żartów.\nTeraz policja z Hampshire wydała publiczne przeprosiny: „Przepraszamy, że Henry został zakuty i aresztowany w momencie, gdy tracił przytomność. Zostaliśmy okłamani przez sprawcę…” Mimo to ani sad, ani policja nie ujawniły dotąd nagrań z kamer.\nTrwa dochodzenie IOPC (niezależny organ ds. skarg na policję). Wielu domaga się dymisji funkcjonariuszy, którzy byli na miejscu. Trzy policjantki podobno odeszły ze służby (niepotwierdzone).\n\nVideo\n  \n\n\n\n\nAdam Gwiazda (@delestoile)\n\n🇬🇧 W toku procesu zabójcy Henry’ego Nowaka odtworzono nagrania. Okazuje się, że cała rodzina brała udział w morderstwie.\nW rozmowie z numerem alarmowym policji brat oskarżonego Sikha twierdził kłamliwie, że on i jego brat zostali zaatakowani na tle rasistowskim przez białego mężczyznę, który fizycznie zaatakował jego brata, ponieważ są Sikhami i noszą turbany.\nNa filmach pokazanych ławie przysięgłych widać, jak Henry Nowak ucieka przez płot przed Vickrum Digwą po tym, jak został pchnięty sikhijskim nożem. W kolejnych nagraniach z miejsca zdarzenia Digwa i jego brat oskarżają Nowaka o rasistowski i werbalny atak. Sam Nowak zaprzecza tym zarzutom.\nW jednym z filmów Digwa zwraca się do rannego słowami: „Nikt cię nie pchnął, bracie, jesteś pijany”. Ofiara ma już przebite płuco i za chwilę umrze.\nW innym nagraniu ojciec Digwy twierdzi, że Nowak udaje – według niego chwilę wcześniej normalnie rozmawiał, a teraz próbuje wstać i odejść. Na filmie widać leżącego na ziemi Nowaka, wokół którego stoją członkowie rodziny Digwy oraz sąsiedzi, nakłaniając go, by usiadł.\n23-letni Vickrum Digwa jest oskarżony o morderstwo i posiadanie noża. Zaprzecza winie i twierdzi, że działał w obronie własnej. Jego matka, Kiran Kaur, również stanęła przed sądem – jest oskarżona o pomoc sprawcy poprzez usunięcie broni z miejsca zdarzenia. Proces trwa.\n\n\n\n\n\n— https://nitter.net/delestoile/status/2056451352146870775#m",
+      "link": "https://nitter.net/delestoile/status/2060025684328636633#m",
+      "date": "Thu, 28 May 2026 15:49:31 GMT"
+    },
     {
       "text": "Elon Musk:\n\n“I don't think most people understand just how quickly machine intelligence is advancing. \n\nIt's much faster than almost anyone realizes, even within Silicon Valley and certainly outside Silicon Valley. People really have no idea.”",
       "link": "https://nitter.net/ElonomyX/status/2060186620234494448#m",
@@ -12,96 +102,6 @@
       "text": "I interview dozens/hundreds of new grads, nearly every day of the year. These are people with a well-formatted resume and a Bachelor's Degree in Engineering from well-regarded US universities and a GPA above 3.6. The majority cannot engineer, cannot function independently, cannot answer basic technical questions. We have watered down standards and inflated grades to the point that a bright, enthusiastic student spending four years in school sends almost no signal at all.\n\nWhat does? Hard evidence of actually building stuff. There is no substitute for actually doing the thing.\n\n\nSan Francisco Chronicle (@sfchronicle)\n\nMore than five years after the UC system lifted its standardized testing requirement, a coalition led by UC Berkeley math professors argues the drop in students’ math levels is “severe.” sfchronicle.com/california/a…\n\n\n\n\n— https://nitter.net/sfchronicle/status/2059867306214277279#m",
       "link": "https://nitter.net/CJHandmer/status/2060144837157118307#m",
       "date": "Thu, 28 May 2026 23:42:59 GMT"
-    },
-    {
-      "text": "\"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\" — Elon Musk\n\nRockets are hard.\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2060199487327683029#m",
-      "date": "Fri, 29 May 2026 03:20:09 GMT"
-    },
-    {
-      "text": "Please invite your local MP to our Rape Gang Inquiry parliamentary debate on Monday in Westminster Hall at 16.30.\n\nLet's put the pressure on.\n\nVideo",
-      "link": "https://nitter.net/RupertLowe10/status/2060319177043316965#m",
-      "date": "Fri, 29 May 2026 11:15:45 GMT"
-    },
-    {
-      "text": "Elon Musk explains the importance of Starlink and how it will increase GDPs of the countries\n\n“If you don’t have access to the internet, or it’s too expensive or low bandwidth, you cannot access MIT lessons, you can’t access information, and you can’t sell your goods and services”\n\nStarlink changes all of that\n\n“Starlink will actually move the GDP of countries. It’s going to be that kind of thing”\n\nBecause GDP is simply average productivity per person and connectivity massively boosts productivity\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2060107390234898789#m",
-      "date": "Thu, 28 May 2026 21:14:11 GMT"
-    },
-    {
-      "text": "God bless Rupert Lowe, champion of our people. He will defend our children and save the nation.\n\n\nRupert Lowe MP (@RupertLowe10)\n\nI want to be really clear in my response. I am not going to retract anything, I stand by every single word. Labour are calling for me to apologise. The answer is no.\n\nIndustrial rape across almost every town and city in Britain.\n\nSexual torture. Murder. Endless rape.\n\nI sat there for two weeks, listening to these girls.\n\nI heard how one girl was raped by a dog, as Muslim men bet on what the animal would do.\n\nGirls drugged and locked in cages, like rats.\n\nAnother, raped by 700 men over three years.\n\nDozens and dozens of these stories through our inquiry, and we are barely scratching the surface.\n\nThis was allowed to happen EXACTLY because politicians were cowards, refusing to discuss it.\n\nI will not make that same mistake. I said what I said, and I meant it. \n\nThe Labour Party have blood on their hands, yet they think they can demand an apology from me for highlighting the systemic evil they allowed to infect our entire country?\n\nThey can piss off.\n\nI am angry about it. Furious. When you hear directly from these girls about what they have been through, it changes the way you see politics. Forever.\n\nOur report will be out very soon.\n\nWhen that happens, I don’t want any apologies from the Labour Party. I don’t care about that.\n\nI want to see those politicians responsible for covering up this atrocity behind bars for what they have done to these girls.\n\n\n\n\n\n— https://nitter.net/RupertLowe10/status/2060233006065778898#m",
-      "link": "https://nitter.net/frankwrighter/status/2060295644456083872#m",
-      "date": "Fri, 29 May 2026 09:42:14 GMT"
-    },
-    {
-      "text": "“I can’t breathe” were the last words of Henry Nowak as he was handcuffed by British police while heavily bleeding. 🇬🇧💔",
-      "link": "https://nitter.net/visegrad24/status/2060127740439703893#m",
-      "date": "Thu, 28 May 2026 22:35:03 GMT"
-    },
-    {
-      "text": "$TSLA 🇪🇪\nBREAKING : Tesla's FSD has been approved in Estonia. \n\nIt is the third largest European country after the Netherlands and Lithuania.",
-      "link": "https://nitter.net/Tslachan/status/2060324693119553858#m",
-      "date": "Fri, 29 May 2026 11:37:40 GMT"
-    },
-    {
-      "text": "Elon Musk on the physics of truth:\n\n“Truth is not an easy thing\n\nBut you can aspire to the truth. You can try to get as close to the truth as possible with minimum error while acknowledging that there will be some error in what you’re saying\n\nThis is how physics works. You don’t say you’re absolutely certain about something, but a lot of things are extremely likely\n\nAspiring to the truth is very important”\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2060299687027212425#m",
-      "date": "Fri, 29 May 2026 09:58:18 GMT"
-    },
-    {
-      "text": "Pretty much 😂\ngrok.com/share/bGVnYWN5_30c6…\n\n\nThe Babylon Bee (@TheBabylonBee)\n\n\n\n\n\n\n\n— https://nitter.net/TheBabylonBee/status/2060028344096243787#m",
-      "link": "https://nitter.net/elonmusk/status/2060269907271438452#m",
-      "date": "Fri, 29 May 2026 07:59:58 GMT"
-    },
-    {
-      "text": "🚨 This is EXACTLY WHY ICE agents are FORCED to wear masks\n\nICE Newark rioter: “I HAVE YOUR FACE, MOTHERF***ER”\n\n“Your WHOLE F***ING FAMILY is DEAD!”\n\n“Your KIDS. Your WIFE. ALL DEAD!”\n\nThis is the type of TERRORISM Democrats WANT ICE agents to face by de-masking them\n\nVideo",
-      "link": "https://nitter.net/nicksortor/status/2060016960243425647#m",
-      "date": "Thu, 28 May 2026 15:14:51 GMT"
-    },
-    {
-      "text": "😂\n\n\nJustine Moore (@venturetwins)\n\nMe using Claude Opus 4.8 to rename a file\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/venturetwins/status/2060061712389378166#m",
-      "link": "https://nitter.net/elonmusk/status/2060266691418849346#m",
-      "date": "Fri, 29 May 2026 07:47:11 GMT"
-    },
-    {
-      "text": "Abundance is coming. Actual, ridiculous, post scarcity abundance. The bottleneck was always (not enough) intelligence. That bottleneck just broke.",
-      "link": "https://nitter.net/Dr_Singularity/status/2059998116246425810#m",
-      "date": "Thu, 28 May 2026 13:59:58 GMT"
-    },
-    {
-      "text": "This is my parents’ house. This is why I’m running. This is coming for your home. It’s coming for your industry. If not by fire, then by blight, addicts, fraud, and the slow rot created by corrupt politicians like Karen Bass. Wake up and VOTE.\n\n\n\n\nDeadline (@DEADLINE)\n\nJimmy Kimmel Skewers Spencer Pratt's Los Angeles Mayoral Run: \"Another Narcissist Looking For Attention\" deadline.com/2026/05/jimmy-k…\n\n\n\n\n— https://nitter.net/DEADLINE/status/2059995952816193940#m",
-      "link": "https://nitter.net/spencerpratt/status/2060007533591359645#m",
-      "date": "Thu, 28 May 2026 14:37:23 GMT"
-    },
-    {
-      "text": "Fuck the police.\n\n\n\n\nHampshire Police (@HantsPolice)\n\nOur  officers were misled at the scene, including denial of weapon use. They quickly switched to life-saving aid within minutes but, as laid out in our statement, the medical evidence shows that the injuries were not survivable. A very sad case, our thoughts are with his family.\n\n\n\n— https://nitter.net/HantsPolice/status/2060019886080901460#m",
-      "link": "https://nitter.net/augusteprompt/status/2060213106651897916#m",
-      "date": "Fri, 29 May 2026 04:14:16 GMT"
-    },
-    {
-      "text": "Suicidal Empathy remains the #1 book in Canada across many lists and categories.",
-      "link": "https://nitter.net/GadSaad/status/2060067525971333142#m",
-      "date": "Thu, 28 May 2026 18:35:47 GMT"
-    },
-    {
-      "text": "Grok Build 0.2.7 is now out, with /usage, /login, shared terminals across subagents, and improved image understanding\n\nSee all updates at x.ai/build/changelog",
-      "link": "https://nitter.net/xai/status/2060102590122385460#m",
-      "date": "Thu, 28 May 2026 20:55:06 GMT"
-    },
-    {
-      "text": "The trial has concluded, the facts have been confirmed. As the prosecuting counsel put it, Digwa used his “trump card” by alleging he had been the victim of racist abuse when police officers arrived. \nDEI has again proved lethal - literally lethal. Henry Nowak, like the victims of Valdo Kalocane, of Axel Rudakubana, of the rape gangs, was failed by a public sector that treats anti-racism as its supreme value. \nUnlike the death of George Floyd, his death plainly did reveal institutional bias - a bias deliberately cultivated across state bodies by years of training sessions and seminars. \nWhere are the protests? Where are the knee-takings? Where are the corporate boycotts? \nSod it, let’s be more modest. Is anyone even calling for an overhaul of the police?\n\n\nDaniel Hannan (@DanielJHannan)\n\n“Why the asymmetry in coverage? Both men died after being restrained by the police. Nowak’s last words, like Floyd’s, were reported to be ‘I can’t breathe’. Yet there have been no riots  over the white victim, no statues smashed, no corporate vigils. No one has been fired for saying that all lives matter.\nIndeed, until @elonmusk took an interest, Nowak’s death was being reported as a local crime story.”\nwashingtonexaminer.com/opini…\n\n\n\n\n— https://nitter.net/DanielJHannan/status/2057796631429316982#m",
-      "link": "https://nitter.net/DanielJHannan/status/2060040473566163377#m",
-      "date": "Thu, 28 May 2026 16:48:17 GMT"
-    },
-    {
-      "text": "Lots of commentators trying to figure out how Restore Britain is gaining so much support. \n\nHere’s our secret. \n\nWe tell the truth.",
-      "link": "https://nitter.net/RupertLowe10/status/2059931895287181648#m",
-      "date": "Thu, 28 May 2026 09:36:50 GMT"
-    },
-    {
-      "text": "Starlink powers the world’s biggest satellite constellation in low Earth orbit. \n\nWhat does that mean for you? We're rolling out the world’s fastest, most reliable high-speed inflight Wi-Fi now — with waaaaay more on the horizon. By the end of this year, we expect that 880+ United planes will have @Starlink on board. And it's free for MileagePlus members.\n\nVideo",
-      "link": "https://nitter.net/united/status/2060104660665430394#m",
-      "date": "Thu, 28 May 2026 21:03:20 GMT"
     }
   ]
 }
