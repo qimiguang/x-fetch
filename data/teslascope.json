@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-30T19:25:10Z",
+  "updated_at": "2026-05-30T22:03:34Z",
   "count": 20,
   "tweets": [
     {
@@ -64,14 +64,14 @@
       "date": "Thu, 28 May 2026 00:54:03 GMT"
     },
     {
-      "text": "We believe that reorganizing @Tesla's vehicle software deployment would greatly benefit owners worldwide. Let’s discuss this.\n\nMany owners have misconceptions about the Standard and Advanced toggle in the Software tab in-vehicle, due to its unclear inclusion in each wave. Early Access Program participation has been largely ignored since its launch over a year ago.\n\nVehicles on older non-production branch software releases aren’t always prioritized, causing stagnation and exclusion from newer features and security fixes.\n\nTesla’s vehicle software is deployed on safety-critical products, so there’s always been an expectation of careful, closely monitored deployments. However, in conversations we’ve now had with 1,000+ owners this year, the resounding majority expressed an interest in cutting-edge access, even if that means requiring special care and attention.\n\nAs a software monitoring platform and an active account deeply engaged with the worldwide Tesla community, we observe these shared sentiments every day and want your voices to be heard.\n\nWe’ve built tools this year to communicate better and visualize upgrade paths between software updates, which 300,000+ vehicle owners have already used. We’ll continue to improve these experiences as best we can (including collaborating with other third-party platforms).\n\nWe’d love to know your thoughts on this and whether you’d like an option to access cutting-edge software + Full Self-Driving builds more consistently, with clearer communication about expected availability.",
-      "link": "https://nitter.net/teslascope/status/2059759667807691169#m",
-      "date": "Wed, 27 May 2026 22:12:27 GMT"
-    },
-    {
       "text": "Posts such as these are what inspired this.\n\nOwners should ideally never feel left in the dark or questioning the benefits of their participation in Early Access programs, or why they’ve been excluded from major releases such as the Spring Update.\n\n\nRed Bot Travels (@redbottravels)\n\nSo is “early access” a hoax? \n\nMy parent’s model Y (no early access) is on 14.3.3\nMy model 3 (with early access) is on 14.3.2 (with no update)\n\n\n\n\n\n\n\n— https://nitter.net/redbottravels/status/2059714270946795900#m",
       "link": "https://nitter.net/teslascope/status/2059760319011185007#m",
       "date": "Wed, 27 May 2026 22:15:03 GMT"
+    },
+    {
+      "text": "We believe that reorganizing @Tesla's vehicle software deployment would greatly benefit owners worldwide. Let’s discuss this.\n\nMany owners have misconceptions about the Standard and Advanced toggle in the Software tab in-vehicle, due to its unclear inclusion in each wave. Early Access Program participation has been largely ignored since its launch over a year ago.\n\nVehicles on older non-production branch software releases aren’t always prioritized, causing stagnation and exclusion from newer features and security fixes.\n\nTesla’s vehicle software is deployed on safety-critical products, so there’s always been an expectation of careful, closely monitored deployments. However, in conversations we’ve now had with 1,000+ owners this year, the resounding majority expressed an interest in cutting-edge access, even if that means requiring special care and attention.\n\nAs a software monitoring platform and an active account deeply engaged with the worldwide Tesla community, we observe these shared sentiments every day and want your voices to be heard.\n\nWe’ve built tools this year to communicate better and visualize upgrade paths between software updates, which 300,000+ vehicle owners have already used. We’ll continue to improve these experiences as best we can (including collaborating with other third-party platforms).\n\nWe’d love to know your thoughts on this and whether you’d like an option to access cutting-edge software + Full Self-Driving builds more consistently, with clearer communication about expected availability.",
+      "link": "https://nitter.net/teslascope/status/2059759667807691169#m",
+      "date": "Wed, 27 May 2026 22:12:27 GMT"
     },
     {
       "text": "We noticed a new Tesla software update 2026.8.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",

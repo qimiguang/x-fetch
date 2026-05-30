@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-05-30T19:25:33Z",
+  "updated_at": "2026-05-30T22:03:57Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "很有意思的发现\n\n\nJeebsTX 🇺🇸 (@JeebsTX)\n\nJust tested Elon’s claim “14.3.3 nags less too” first hand on highway.  \n\nFSD v14.3.3 nag times are tied to your speed profile. Just tested it on a 20-min drive:\n\n🏎️ Mad Max: < 1 min before beep\n💨 Hurry: 1-2 mins\n🚙 Standard: 4+ MINUTES\n\nI was literally shitposting on 𝕏, checking emails, and texting with my reading glasses on for 4 straight minutes. Zero supervision. Elon wasn't kidding. 🤯\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JeebsTX/status/2060451352694645117#m",
+      "link": "https://nitter.net/Tsla99T/status/2060805005561524420#m",
+      "date": "Sat, 30 May 2026 19:26:15 GMT"
+    },
     {
       "text": "Trump account是把税后的钱存进去，最后成年后变成了类似traditional IRA，取出来还要按照income tax rate交税，我看了半天也没看出来有什么好处？有人知道吗？",
       "link": "https://nitter.net/Tsla99T/status/2060797521518071940#m",
@@ -87,11 +92,6 @@
       "text": "一人公司变凉\n因为AI工具门槛低到比使用office还要容易\n所不同的是\noffice还有免费盗版可以用\n但是token真的需要花钱买\npiped.video/la9Oz3zKAUM?si=FTKM…",
       "link": "https://nitter.net/Tsla99T/status/2059670673329471806#m",
       "date": "Wed, 27 May 2026 16:18:50 GMT"
-    },
-    {
-      "text": "必须赢\n\n\nElon Musk (@elonmusk)\n\nWhat you say is true, but nonetheless our AI will be great. Whether it is the best remains to be seen, but I will never give up. Never.\n\nSpace(XAI) is only 3 years old. That’s half the age of Anthropic and quarter the age of OpenAI. \n\nLet’s see where things stand 3 years from now.\n\n\n\n— https://nitter.net/elonmusk/status/2059265588677976277#m",
-      "link": "https://nitter.net/Tsla99T/status/2059270439726141899#m",
-      "date": "Tue, 26 May 2026 13:48:26 GMT"
     }
   ]
 }
