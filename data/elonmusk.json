@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-30T13:50:46Z",
+  "updated_at": "2026-05-30T16:07:32Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Every country on planet Earth is built on conquest. Every “indigenous” tribe claimed its land by conquest. Every line on the map, across every continent and every ethnic group, was drawn by conquest. Apologizing for this is like apologizing for gravity.\n\n\nLost in reality (@RedstateDem86)\n\nI think a day acknowledging that they're country, like ours, was built on conquest and genocide and that native populations are not seeing the fruits of the new country is a good thing.\n\n\n\n— https://nitter.net/RedstateDem86/status/2060353149697716358#m",
+      "link": "https://nitter.net/MattWalshBlog/status/2060723739235348751#m",
+      "date": "Sat, 30 May 2026 14:03:20 GMT"
+    },
+    {
+      "text": "A big thanks to the Daily Mirror for this Restore Britain party political broadcast.",
+      "link": "https://nitter.net/RupertLowe10/status/2060648607884202429#m",
+      "date": "Sat, 30 May 2026 09:04:47 GMT"
+    },
+    {
+      "text": "Suicidal Empathy is #1 of all books in Canada for a second week in a row.",
+      "link": "https://nitter.net/GadSaad/status/2060750333039501521#m",
+      "date": "Sat, 30 May 2026 15:49:00 GMT"
+    },
+    {
+      "text": "Keir Starmer has not made any public statements about Henry Nowak.\n\nHe made at least 7 about George Floyd.\n\nSick.",
+      "link": "https://nitter.net/C_3C_3/status/2060701088769057148#m",
+      "date": "Sat, 30 May 2026 12:33:20 GMT"
+    },
+    {
+      "text": "Release the body camera videos\n\n\nBen Habib (@BackBrexitBen)\n\nHe was bleeding. He said he had been stabbed. He said he could not breathe. And still, the police laughed, handcuffed him and he bled out.\n\nThe police saw the narrative before they saw the blood. Henry Nowak should still be alive today. This ideological pursuit within British policing is taking the country down a very dark path.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/BackBrexitBen/status/2060698593883771036#m",
+      "link": "https://nitter.net/elonmusk/status/2060749428483334465#m",
+      "date": "Sat, 30 May 2026 15:45:25 GMT"
+    },
     {
       "text": "TERAFAB IS GOING TO BE INSANE.\n\nWe’re targeting 100–200 billion custom AI + memory chips per year at full ramp that’s 1 terawatt (1,000 GW) of annual AI compute capacity. Roughly 50x current global AI chip output. \n\nThis isn’t incremental. This is the kind of scale that actually moves the needle on civilization.\n\nBreakdown:\n- 80% (~160 billion chips / 800 GW) → radiation-hardened D3 chips for orbital data centers. Space-based compute at massive scale, powered by solar, low latency for Earth, immune to most terrestrial risks.\n\n- 20% (~40 billion chips / 200 GW) → terrestrial AI5 & AI6 edge inference processors for Tesla vehicle fleets and Optimus robots.\n\nFacility plan: start at 100k wafer-starts/month, scale to 1 million wafers/month. Everything design, EUV lithography, fab, memory, packaging, test under one roof. That recursive self-improvement loop is the real unlock.\n\nSmall-batch AI5 chips in 2026. High-volume Terafab output targeted for mid-2028/2029.\n\nThis is how we make AI abundant, affordable, and truly useful for making life multi-planetary and maximizing human potential.\n\nThe future is going to be ridiculously bright.",
       "link": "https://nitter.net/LaceyPresley/status/2060436135671632067#m",
@@ -77,31 +102,6 @@
       "text": "Tip on Grok Build + Grok 4.3 VLM\n\nOne of my critical tasks is to keep Grok VLM in the loop. Throwing a default system prompt usually yields poor results due to lack of context.\n\nHere is how to scale:\n\n- Curate a small but diverse evaluation set that can be rapidly iterated on.\n\n- Enter the prompt: “Make a plan to design and execute a task that a) takes input per entry from: <input>, b) generates output per entry to: <output>, c) the ground truth of output: <ground truth>. Launch sub-agents to iterate on strategy to optimize recall and precision against ground truth until both metrics reach <threshold>.”\n\nDone. Watch your research agents do the work.",
       "link": "https://nitter.net/yunta_tsai/status/2060379158610595923#m",
       "date": "Fri, 29 May 2026 15:14:06 GMT"
-    },
-    {
-      "text": "grok-build-0.1 is now available via the xAI API in public beta.\n\nThis is the same model that powers the Grok Build CLI and excels at agentic coding.\n\nPriced at $1/m input and $2/m output, it’s extremely cost effective, intelligent, and fast.",
-      "link": "https://nitter.net/xai/status/2060392249402552457#m",
-      "date": "Fri, 29 May 2026 16:06:07 GMT"
-    },
-    {
-      "text": "Having Grok Build sub-agents to iterate several ideas for me on data loading, batching, inference, and writing results to files for dense datasets before I went to sleep.\n\nIt gave me a nice summary of trade-offs and validation in the morning.\n\nThe same idea can be extended to almost anything as long as gradient descent and stochastic sampling apply.\n\nLooking forward to how you utilize the sub-agents.\n\n\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nTip on Grok Build + Grok 4.3 VLM\n\nOne of my critical tasks is to keep Grok VLM in the loop. Throwing a default system prompt usually yields poor results due to lack of context.\n\nHere is how to scale:\n\n- Curate a small but diverse evaluation set that can be rapidly iterated on.\n\n- Enter the prompt: “Make a plan to design and execute a task that a) takes input per entry from: <input>, b) generates output per entry to: <output>, c) the ground truth of output: <ground truth>. Launch sub-agents to iterate on strategy to optimize recall and precision against ground truth until both metrics reach <threshold>.”\n\nDone. Watch your research agents do the work.\n\n\n\n— https://nitter.net/yunta_tsai/status/2060379158610595923#m",
-      "link": "https://nitter.net/yunta_tsai/status/2060410699126583553#m",
-      "date": "Fri, 29 May 2026 17:19:25 GMT"
-    },
-    {
-      "text": "🟥 W toku procesu wycieka coraz więcej szczegółów. Zabójca, Vickrum Digwa, zadzwonił na policje, a nie na pogotowie i skłamał, że to Henry go zaatakował, był pijany, obraził go rasistowsko i strącił mu turban.\nPolicja Hampshire przyjechała (trzy policjantki) i natychmiast zakuli Henry’ego w kajdanki, mimo że leżał w kałuży krwi z ranami kłutymi klatki piersiowej i nóg. Wielokrotnie powtarzał: „I’ve been stabbed” („Zostałem dźgnięty”), „I can’t breathe” („Nie mogę oddychać”). Na nagraniu z kamery osobistej słychać głos policjanta: „I don’t think you have, mate” („Nie sądzę, koleś”).\nPolicjant, który zakuł Henry’ego w kajdanki, śmiał się, gdy ten powiedział, że został dźgnięty. Potem wleczono go po żwirze i trzymano skutego, gdy się wykrwawiał. Dopiero gdy stracił przytomność, funkcjonariusze zdjęli kajdanki i zaczęli reanimację. Henry zmarł na miejscu.\nPonadto policja zabrała telefon Henry’ego i jego taty i przeczytała wszystkie wiadomości w poszukiwaniu rasistowskich komentarzy lub żartów.\nTeraz policja z Hampshire wydała publiczne przeprosiny: „Przepraszamy, że Henry został zakuty i aresztowany w momencie, gdy tracił przytomność. Zostaliśmy okłamani przez sprawcę…” Mimo to ani sad, ani policja nie ujawniły dotąd nagrań z kamer.\nTrwa dochodzenie IOPC (niezależny organ ds. skarg na policję). Wielu domaga się dymisji funkcjonariuszy, którzy byli na miejscu. Trzy policjantki podobno odeszły ze służby (niepotwierdzone).\n\nVideo\n  \n\n\n\n\nAdam Gwiazda (@delestoile)\n\n🇬🇧 W toku procesu zabójcy Henry’ego Nowaka odtworzono nagrania. Okazuje się, że cała rodzina brała udział w morderstwie.\nW rozmowie z numerem alarmowym policji brat oskarżonego Sikha twierdził kłamliwie, że on i jego brat zostali zaatakowani na tle rasistowskim przez białego mężczyznę, który fizycznie zaatakował jego brata, ponieważ są Sikhami i noszą turbany.\nNa filmach pokazanych ławie przysięgłych widać, jak Henry Nowak ucieka przez płot przed Vickrum Digwą po tym, jak został pchnięty sikhijskim nożem. W kolejnych nagraniach z miejsca zdarzenia Digwa i jego brat oskarżają Nowaka o rasistowski i werbalny atak. Sam Nowak zaprzecza tym zarzutom.\nW jednym z filmów Digwa zwraca się do rannego słowami: „Nikt cię nie pchnął, bracie, jesteś pijany”. Ofiara ma już przebite płuco i za chwilę umrze.\nW innym nagraniu ojciec Digwy twierdzi, że Nowak udaje – według niego chwilę wcześniej normalnie rozmawiał, a teraz próbuje wstać i odejść. Na filmie widać leżącego na ziemi Nowaka, wokół którego stoją członkowie rodziny Digwy oraz sąsiedzi, nakłaniając go, by usiadł.\n23-letni Vickrum Digwa jest oskarżony o morderstwo i posiadanie noża. Zaprzecza winie i twierdzi, że działał w obronie własnej. Jego matka, Kiran Kaur, również stanęła przed sądem – jest oskarżona o pomoc sprawcy poprzez usunięcie broni z miejsca zdarzenia. Proces trwa.\n\n\n\n\n\n— https://nitter.net/delestoile/status/2056451352146870775#m",
-      "link": "https://nitter.net/delestoile/status/2060025684328636633#m",
-      "date": "Thu, 28 May 2026 15:49:31 GMT"
-    },
-    {
-      "text": "Elon Musk:\n\n“I don't think most people understand just how quickly machine intelligence is advancing. \n\nIt's much faster than almost anyone realizes, even within Silicon Valley and certainly outside Silicon Valley. People really have no idea.”",
-      "link": "https://nitter.net/ElonomyX/status/2060186620234494448#m",
-      "date": "Fri, 29 May 2026 02:29:01 GMT"
-    },
-    {
-      "text": "I interview dozens/hundreds of new grads, nearly every day of the year. These are people with a well-formatted resume and a Bachelor's Degree in Engineering from well-regarded US universities and a GPA above 3.6. The majority cannot engineer, cannot function independently, cannot answer basic technical questions. We have watered down standards and inflated grades to the point that a bright, enthusiastic student spending four years in school sends almost no signal at all.\n\nWhat does? Hard evidence of actually building stuff. There is no substitute for actually doing the thing.\n\n\nSan Francisco Chronicle (@sfchronicle)\n\nMore than five years after the UC system lifted its standardized testing requirement, a coalition led by UC Berkeley math professors argues the drop in students’ math levels is “severe.” sfchronicle.com/california/a…\n\n\n\n\n— https://nitter.net/sfchronicle/status/2059867306214277279#m",
-      "link": "https://nitter.net/CJHandmer/status/2060144837157118307#m",
-      "date": "Thu, 28 May 2026 23:42:59 GMT"
     }
   ]
 }

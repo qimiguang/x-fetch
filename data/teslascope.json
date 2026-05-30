@@ -1,17 +1,17 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-30T13:50:49Z",
-  "count": 19,
+  "updated_at": "2026-05-30T16:07:34Z",
+  "count": 20,
   "tweets": [
-    {
-      "text": "Based on our initial tests this week, we estimate that we can deliver these estimations with a ~1.2-3.9% margin of error (compared to true value).\n\nWe’ll continue to refine this over time, and appreciate everyone’s continued feedback.",
-      "link": "https://nitter.net/teslascope/status/2060705325670658197#m",
-      "date": "Sat, 30 May 2026 12:50:10 GMT"
-    },
     {
       "text": "Starting next week, we’ll be updating our wave detection posts based on community feedback.\n\n“Pending vehicles increased by 44%” will be replaced with wave deployment size estimations, such as:\n\n“Approximately 12,000 vehicles were included in this wave.”\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 44%, including Model Y AI4, and Model 3 AI4.\n\n\n\n— https://nitter.net/teslascope/status/2060594613631553984#m",
       "link": "https://nitter.net/teslascope/status/2060705322831151605#m",
       "date": "Sat, 30 May 2026 12:50:09 GMT"
+    },
+    {
+      "text": "Based on our initial tests this week, we estimate that we can deliver these estimations with a ~1.2-3.9% margin of error (compared to true value).\n\nWe’ll continue to refine this over time, and appreciate everyone’s continued feedback.",
+      "link": "https://nitter.net/teslascope/status/2060705325670658197#m",
+      "date": "Sat, 30 May 2026 12:50:10 GMT"
     },
     {
       "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 44%, including Model Y AI4, and Model 3 AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
@@ -62,6 +62,11 @@
       "text": "We noticed a new Tesla software update 2026.8.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
       "link": "https://nitter.net/teslascope/status/2059125181591831021#m",
       "date": "Tue, 26 May 2026 04:11:14 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.6 on Model S Performance (2019) in Florida, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2054019126973108296#m",
+      "date": "Tue, 12 May 2026 02:01:36 GMT"
     },
     {
       "text": "A new feature has been detected: Estimated Toll Fees\n\nteslascope.com/software/2026…",
