@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-30T10:48:57Z",
+  "updated_at": "2026-05-30T13:50:49Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Based on our initial tests this week, we estimate that we can deliver these estimations with a ~1.2-3.9% margin of error (compared to true value).\n\nWe’ll continue to refine this over time, and appreciate everyone’s continued feedback.",
+      "link": "https://nitter.net/teslascope/status/2060705325670658197#m",
+      "date": "Sat, 30 May 2026 12:50:10 GMT"
+    },
+    {
+      "text": "Starting next week, we’ll be updating our wave detection posts based on community feedback.\n\n“Pending vehicles increased by 44%” will be replaced with wave deployment size estimations, such as:\n\n“Approximately 12,000 vehicles were included in this wave.”\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 44%, including Model Y AI4, and Model 3 AI4.\n\n\n\n— https://nitter.net/teslascope/status/2060594613631553984#m",
+      "link": "https://nitter.net/teslascope/status/2060705322831151605#m",
+      "date": "Sat, 30 May 2026 12:50:09 GMT"
+    },
     {
       "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 44%, including Model Y AI4, and Model 3 AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
       "link": "https://nitter.net/teslascope/status/2060594613631553984#m",
@@ -87,16 +97,6 @@
       "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by >500%, including Model 3 AI4, Model Y AI4, Model S (Refresh) AI4, and Cybertruck AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
       "link": "https://nitter.net/teslascope/status/2058235327983108384#m",
       "date": "Sat, 23 May 2026 17:15:17 GMT"
-    },
-    {
-      "text": "Our Membership page was temporarily inaccessible following this update. This has now been resolved and all impacted members have been directly contacted.",
-      "link": "https://nitter.net/teslascope/status/2058004861048983750#m",
-      "date": "Sat, 23 May 2026 01:59:29 GMT"
-    },
-    {
-      "text": "To be mindful of recent supply chain attacks within the developer community, we've also reduced the number of NPM packages used by the platform.\n\nSeveral dependencies have been replaced with purpose-built implementations. These changes will be felt via performance boosts for all.",
-      "link": "https://nitter.net/teslascope/status/2057978147413635109#m",
-      "date": "Sat, 23 May 2026 00:13:20 GMT"
     }
   ]
 }
