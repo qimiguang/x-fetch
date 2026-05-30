@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-05-30T16:07:34Z",
+  "updated_at": "2026-05-30T19:25:10Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2060779084007755814#m",
+      "date": "Sat, 30 May 2026 17:43:15 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2060779109358195027#m",
+      "date": "Sat, 30 May 2026 17:43:21 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Parental Controls\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2060779100302626947#m",
+      "date": "Sat, 30 May 2026 17:43:19 GMT"
+    },
     {
       "text": "Starting next week, we’ll be updating our wave detection posts based on community feedback.\n\n“Pending vehicles increased by 44%” will be replaced with wave deployment size estimations, such as:\n\n“Approximately 12,000 vehicles were included in this wave.”\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 44%, including Model Y AI4, and Model 3 AI4.\n\n\n\n— https://nitter.net/teslascope/status/2060594613631553984#m",
       "link": "https://nitter.net/teslascope/status/2060705322831151605#m",
@@ -49,14 +64,14 @@
       "date": "Thu, 28 May 2026 00:54:03 GMT"
     },
     {
-      "text": "Posts such as these are what inspired this.\n\nOwners should ideally never feel left in the dark or questioning the benefits of their participation in Early Access programs, or why they’ve been excluded from major releases such as the Spring Update.\n\n\nRed Bot Travels (@redbottravels)\n\nSo is “early access” a hoax? \n\nMy parent’s model Y (no early access) is on 14.3.3\nMy model 3 (with early access) is on 14.3.2 (with no update)\n\n\n\n\n\n\n\n— https://nitter.net/redbottravels/status/2059714270946795900#m",
-      "link": "https://nitter.net/teslascope/status/2059760319011185007#m",
-      "date": "Wed, 27 May 2026 22:15:03 GMT"
-    },
-    {
       "text": "We believe that reorganizing @Tesla's vehicle software deployment would greatly benefit owners worldwide. Let’s discuss this.\n\nMany owners have misconceptions about the Standard and Advanced toggle in the Software tab in-vehicle, due to its unclear inclusion in each wave. Early Access Program participation has been largely ignored since its launch over a year ago.\n\nVehicles on older non-production branch software releases aren’t always prioritized, causing stagnation and exclusion from newer features and security fixes.\n\nTesla’s vehicle software is deployed on safety-critical products, so there’s always been an expectation of careful, closely monitored deployments. However, in conversations we’ve now had with 1,000+ owners this year, the resounding majority expressed an interest in cutting-edge access, even if that means requiring special care and attention.\n\nAs a software monitoring platform and an active account deeply engaged with the worldwide Tesla community, we observe these shared sentiments every day and want your voices to be heard.\n\nWe’ve built tools this year to communicate better and visualize upgrade paths between software updates, which 300,000+ vehicle owners have already used. We’ll continue to improve these experiences as best we can (including collaborating with other third-party platforms).\n\nWe’d love to know your thoughts on this and whether you’d like an option to access cutting-edge software + Full Self-Driving builds more consistently, with clearer communication about expected availability.",
       "link": "https://nitter.net/teslascope/status/2059759667807691169#m",
       "date": "Wed, 27 May 2026 22:12:27 GMT"
+    },
+    {
+      "text": "Posts such as these are what inspired this.\n\nOwners should ideally never feel left in the dark or questioning the benefits of their participation in Early Access programs, or why they’ve been excluded from major releases such as the Spring Update.\n\n\nRed Bot Travels (@redbottravels)\n\nSo is “early access” a hoax? \n\nMy parent’s model Y (no early access) is on 14.3.3\nMy model 3 (with early access) is on 14.3.2 (with no update)\n\n\n\n\n\n\n\n— https://nitter.net/redbottravels/status/2059714270946795900#m",
+      "link": "https://nitter.net/teslascope/status/2059760319011185007#m",
+      "date": "Wed, 27 May 2026 22:15:03 GMT"
     },
     {
       "text": "We noticed a new Tesla software update 2026.8.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
@@ -87,21 +102,6 @@
       "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by 200%, including Cybertruck AI4, Model X (Refresh) AI4, Model S (Refresh) AI4, and Model 3 AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
       "link": "https://nitter.net/teslascope/status/2058401413915435222#m",
       "date": "Sun, 24 May 2026 04:15:14 GMT"
-    },
-    {
-      "text": "In this recent wave, vehicles on 2026.14.6 and other older builds are finally receiving Full Self-Driving V14.3.3 via 2026.14.6.6 for the first time.\n\nThis is a great sign.\n\n\nJulio (@RobbedBike)\n\nYes, for 2026.14.6. I just got the update\n\n\n\n\n\n\n\n— https://nitter.net/RobbedBike/status/2058246900269371622#m",
-      "link": "https://nitter.net/teslascope/status/2058247704032260389#m",
-      "date": "Sat, 23 May 2026 18:04:27 GMT"
-    },
-    {
-      "text": "Full Self-Driving V14.3.3 resumes its rollout in its first large wave since ot first released about a week ago!\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by >500%, including Model 3 AI4, Model Y AI4, Model S (Refresh) AI4, and Cybertruck AI4.\n\n\n\n— https://nitter.net/teslascope/status/2058235327983108384#m",
-      "link": "https://nitter.net/teslascope/status/2058238411346223248#m",
-      "date": "Sat, 23 May 2026 17:27:32 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.6 is now rolling out to additional vehicles within the last five minutes.\n\nPending vehicles increased by >500%, including Model 3 AI4, Model Y AI4, Model S (Refresh) AI4, and Cybertruck AI4.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
-      "link": "https://nitter.net/teslascope/status/2058235327983108384#m",
-      "date": "Sat, 23 May 2026 17:15:17 GMT"
     }
   ]
 }

@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-05-30T16:07:32Z",
+  "updated_at": "2026-05-30T19:25:07Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "LETS x1000 the GDP\n\nAnd human population!!!!!!\n\n\nCoinvo (@Coinvo)\n\nBTW: Elon Musk has announced SpaceX will establish data centers on space and on the moon, for 'efficiency.'\n\n\n\n\n\n\n\n— https://nitter.net/Coinvo/status/2060692708503834954#m",
+      "link": "https://nitter.net/brivael/status/2060717114118246659#m",
+      "date": "Sat, 30 May 2026 13:37:00 GMT"
+    },
+    {
+      "text": "Where is the Henry Nowak bodycam footage?\n\nRELEASE IT NOW",
+      "link": "https://nitter.net/ZiaYusufUK/status/2060639984135098789#m",
+      "date": "Sat, 30 May 2026 08:30:31 GMT"
+    },
     {
       "text": "Every country on planet Earth is built on conquest. Every “indigenous” tribe claimed its land by conquest. Every line on the map, across every continent and every ethnic group, was drawn by conquest. Apologizing for this is like apologizing for gravity.\n\n\nLost in reality (@RedstateDem86)\n\nI think a day acknowledging that they're country, like ours, was built on conquest and genocide and that native populations are not seeing the fruits of the new country is a good thing.\n\n\n\n— https://nitter.net/RedstateDem86/status/2060353149697716358#m",
       "link": "https://nitter.net/MattWalshBlog/status/2060723739235348751#m",
@@ -92,16 +102,6 @@
       "text": "“I’ll kill your whole f–king family. Your whole f–king family is dead. Your children, your wife, all dead.\"\n\nA left-wing activist in Newark was caught on camera shouting those words at an unmasked ICE officer as protests outside the Delaney ICE facility turned chaotic.\n\nActing AG Todd Blanche is now firing back, promising that the \"disgusting\" activist will be caught and charged, emphasizing that threatening a federal officer and their family is a federal crime.\n\n“That is disgusting … and we see his face and I promise you we will find him, and when we find him, we will arrest him.\"\n\nVideo",
       "link": "https://nitter.net/FoxNews/status/2060410853804114355#m",
       "date": "Fri, 29 May 2026 17:20:02 GMT"
-    },
-    {
-      "text": "Lee Kuan Yew abolished trial by jury in Singapore after determining that it was too easy for defence lawyers to appeal to racial and religious biases of juries in multicultural Singapore.\n\nHe writes in his memoirs how as a young lawyer he was able to get three clients acquitted who he was sure did commit murder. LKY writes that he  \"worked on the weaknesses of the jury -- their biases, their prejudices, their reluctance really to find four Muslims guilty of killing in cold blood or in a heat of great passion, religious passion, an RAF officer, his wife and child.\"\n\nHe writes \"The judge was thoroughly disgusted. I went home feeling quite sick because I knew I'd discharged my duty as required of me, but I knew I had done wrong.”\n\nStudy after study shows that in multi ethnic societies, there is significant in-group bias on juries.\n\n\nPolitics UK (@PolitlcsUK)\n\n🚨 NEW: Mohammed Fahir Amaaz and Muhammad Amaad have been cleared over the alleged assault of a male police officer at Manchester Airport\n\nTwo juries failed to reach a verdict and no further trial will take place\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/PolitlcsUK/status/2060321273733902816#m",
-      "link": "https://nitter.net/tomhfh/status/2060343652753224073#m",
-      "date": "Fri, 29 May 2026 12:53:00 GMT"
-    },
-    {
-      "text": "Tip on Grok Build + Grok 4.3 VLM\n\nOne of my critical tasks is to keep Grok VLM in the loop. Throwing a default system prompt usually yields poor results due to lack of context.\n\nHere is how to scale:\n\n- Curate a small but diverse evaluation set that can be rapidly iterated on.\n\n- Enter the prompt: “Make a plan to design and execute a task that a) takes input per entry from: <input>, b) generates output per entry to: <output>, c) the ground truth of output: <ground truth>. Launch sub-agents to iterate on strategy to optimize recall and precision against ground truth until both metrics reach <threshold>.”\n\nDone. Watch your research agents do the work.",
-      "link": "https://nitter.net/yunta_tsai/status/2060379158610595923#m",
-      "date": "Fri, 29 May 2026 15:14:06 GMT"
     }
   ]
 }
