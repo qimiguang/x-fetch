@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-05-31T19:24:55Z",
+  "updated_at": "2026-05-31T22:04:22Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "OpenAI 的机器人部门\n没有说是人形\n看起来像利用Sora的世界模型产生虚拟训练数据\n\n\nSam Altman (@sama)\n\nOpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com\n\n\n\n— https://nitter.net/sama/status/2061117302528188712#m",
+      "link": "https://nitter.net/Tsla99T/status/2061169122960986370#m",
+      "date": "Sun, 31 May 2026 19:33:08 GMT"
+    },
     {
       "text": "很有意思的发现\n\n\nJeebsTX 🇺🇸 (@JeebsTX)\n\nJust tested Elon’s claim “14.3.3 nags less too” first hand on highway.  \n\nFSD v14.3.3 nag times are tied to your speed profile. Just tested it on a 20-min drive:\n\n🏎️ Mad Max: < 1 min before beep\n💨 Hurry: 1-2 mins\n🚙 Standard: 4+ MINUTES\n\nI was literally shitposting on 𝕏, checking emails, and texting with my reading glasses on for 4 straight minutes. Zero supervision. Elon wasn't kidding. 🤯\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JeebsTX/status/2060451352694645117#m",
       "link": "https://nitter.net/Tsla99T/status/2060805005561524420#m",
@@ -87,11 +92,6 @@
       "text": "就问你有没有颤抖？\n\n\nChris Deardurff (@cddeardurff)\n\nDallas Cybercab population is multiplying, but they still appear to be asleep, for now\n\n\n\n\n\n— https://nitter.net/cddeardurff/status/2059665958281658544#m",
       "link": "https://nitter.net/Tsla99T/status/2059678083049754893#m",
       "date": "Wed, 27 May 2026 16:48:16 GMT"
-    },
-    {
-      "text": "一人公司变凉\n因为AI工具门槛低到比使用office还要容易\n所不同的是\noffice还有免费盗版可以用\n但是token真的需要花钱买\npiped.video/la9Oz3zKAUM?si=FTKM…",
-      "link": "https://nitter.net/Tsla99T/status/2059670673329471806#m",
-      "date": "Wed, 27 May 2026 16:18:50 GMT"
     }
   ]
 }
