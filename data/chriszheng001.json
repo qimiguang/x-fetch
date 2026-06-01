@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-05-31T22:04:04Z",
+  "updated_at": "2026-06-01T04:49:01Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "难以置信的是，特斯拉至今没有解决导航 bug。自去年 3 月以来我一直开 FSD 上下班，导航 bug 是 FSD 在中国最大的问题，没有之一。\n\n\nChuck Cook (@ChuckCook)\n\nWe really are looking forward to the fabled Navigation AI rewrite. It still feels like it is boilerplate google maps with a little traffic and closed road layers mixed in.  Honestly sometimes I can't do the math and figure out what it was thinking...\n\n\n\n— https://nitter.net/ChuckCook/status/2061216003996946910#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2061218934561607682#m",
+      "date": "Sun, 31 May 2026 22:51:04 GMT"
+    },
     {
       "text": "Suggestion for Tesla team: Grok is multimodal\n\nLoop the FSD cameras in so you can talk to Grok about what you / the car is actually seeing outside the window in real-time",
       "link": "https://nitter.net/BenjaminDEKR/status/2059004946096263530#m",
@@ -14,14 +19,14 @@
       "date": "Tue, 26 May 2026 03:07:39 GMT"
     },
     {
-      "text": "Of course, this timeline remains subject to change, as Elon had previously expected approval in Feb. or March of this year during the Tesla shareholder meeting in Nov. 2025 and at the Davos Economic Forum in Jan. 2026; however, this did not materialize.",
-      "link": "https://nitter.net/ChrisZheng001/status/2056693302607724965#m",
-      "date": "Tue, 19 May 2026 11:07:49 GMT"
-    },
-    {
       "text": "The timeline for the full approval of Tesla’s FSD in China has been somewhat unclear. The latest official info comes from Tesla CFO Vaibhav Taneja, who indicated that Tesla hopes to secure approval in Q3.",
       "link": "https://nitter.net/ChrisZheng001/status/2056693298933473327#m",
       "date": "Tue, 19 May 2026 11:07:48 GMT"
+    },
+    {
+      "text": "Of course, this timeline remains subject to change, as Elon had previously expected approval in Feb. or March of this year during the Tesla shareholder meeting in Nov. 2025 and at the Davos Economic Forum in Jan. 2026; however, this did not materialize.",
+      "link": "https://nitter.net/ChrisZheng001/status/2056693302607724965#m",
+      "date": "Tue, 19 May 2026 11:07:49 GMT"
     },
     {
       "text": "x.com/i/article/205113652273…",
@@ -97,11 +102,6 @@
       "text": "As an FSD v13 user, the Mad Max mode in FSD v14 is the new feature that impressed me the most. However, I feel that its Chinese translation, 极速, isn’t very accurate — it should be translated as “Super Efficiency Mode” instead.",
       "link": "https://nitter.net/ChrisZheng001/status/2011766539171790936#m",
       "date": "Thu, 15 Jan 2026 11:44:54 GMT"
-    },
-    {
-      "text": "Tesla Model Y third-row seating, China VS. US\n\nThe best FSD is in the US, except for FSD, the best Tesla is in China.",
-      "link": "https://nitter.net/ChrisZheng001/status/2011391169675317620#m",
-      "date": "Wed, 14 Jan 2026 10:53:19 GMT"
     }
   ]
 }
