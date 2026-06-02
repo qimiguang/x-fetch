@@ -1,8 +1,18 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-06-02T10:45:30Z",
+  "updated_at": "2026-06-02T16:43:32Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "美国现在的移民政策，其实对于有绿卡，想转型做 AI 工程师（如 AI Solution Engineer 或 Forward Deployed Engineer）的人来说是非常利好的。\n上周末一个在传统零售商管理 200 多人AI团队的 Senior Director 告诉我，他们公司现在不允许招聘非绿卡持有者，招人很难。所以如果你有绿卡，现在转型是一个很好的时机。",
+      "link": "https://nitter.net/Tsla99T/status/2061821288167989516#m",
+      "date": "Tue, 02 Jun 2026 14:44:36 GMT"
+    },
+    {
+      "text": "科技洼地Texas Dallas\n传统公司\n涌现出不少AI职位\n就是你们所说的Forward Deployed Engineer",
+      "link": "https://nitter.net/Tsla99T/status/2061818489464066155#m",
+      "date": "Tue, 02 Jun 2026 14:33:29 GMT"
+    },
     {
       "text": "OpenAI 的机器人部门\n没有说是人形\n看起来像利用Sora的世界模型产生虚拟训练数据\n\n\nSam Altman (@sama)\n\nOpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com\n\n\n\n— https://nitter.net/sama/status/2061117302528188712#m",
       "link": "https://nitter.net/Tsla99T/status/2061169122960986370#m",
@@ -82,16 +92,6 @@
       "text": "确实很有煽动性，很符合就业难的年轻人的口味\n\n\nElizabeth Warren (@SenWarren)\n\nAI is trained on human creativity and intelligence, funded by federal research using taxpayer dollars, and powered by data centers built on American land.\n \nThe success of AI should belong to all of us. \n \nIt’s time to tax AI and invest in people.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SenWarren/status/2059637470992486698#m",
       "link": "https://nitter.net/Tsla99T/status/2059720707701882945#m",
       "date": "Wed, 27 May 2026 19:37:39 GMT"
-    },
-    {
-      "text": "这是在学X和Grok？\n我卖的Meta Puts又稳了\n\n\nTechCrunch (@TechCrunch)\n\nMeta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans techcrunch.com/2026/05/27/me…\n\n\n\n\n— https://nitter.net/TechCrunch/status/2059697208497422459#m",
-      "link": "https://nitter.net/Tsla99T/status/2059718329225335058#m",
-      "date": "Wed, 27 May 2026 19:28:12 GMT"
-    },
-    {
-      "text": "就问你有没有颤抖？\n\n\nChris Deardurff (@cddeardurff)\n\nDallas Cybercab population is multiplying, but they still appear to be asleep, for now\n\n\n\n\n\n— https://nitter.net/cddeardurff/status/2059665958281658544#m",
-      "link": "https://nitter.net/Tsla99T/status/2059678083049754893#m",
-      "date": "Wed, 27 May 2026 16:48:16 GMT"
     }
   ]
 }
