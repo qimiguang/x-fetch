@@ -1,8 +1,18 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-06-03T11:10:01Z",
-  "count": 18,
+  "updated_at": "2026-06-03T16:59:49Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Now Austin leads Dallas and Texas\n\n\nAshok Elluswamy (@aelluswamy)\n\nUnsupervised Robotaxi now available in the greater Austin area.\n\n\n\n— https://nitter.net/aelluswamy/status/2062202577555763337#m",
+      "link": "https://nitter.net/Tsla99T/status/2062204785877528727#m",
+      "date": "Wed, 03 Jun 2026 16:08:29 GMT"
+    },
+    {
+      "text": "虽然但是\n\n特斯拉在过去的十年中，用最低的硬件成本和业界最低的软件研发费用，成就了 Autopilot和FSD 的盈利。\n\n它是赚钱的，而不是在烧钱。\n\n在未来一到五年，特斯拉会通过Robotaxi Fleet赚更多的钱。\n\n直到进入千家万户的 Airbnb 模式。如果需要五年或者十年又如何？它一直在赚钱，而不是像其他 L4 公司一样，每分每秒都在烧钱。\n\n\n老沉 (@stock1137460)\n\n无人出租车大家都可以干成，包括特斯拉，但是重资产的运输公司的确不值钱。\n马斯克描述的数百万私家车组成的平台，私家车可以自己出去赚钱，仍然遥不可及，十年之内估计没可能。\n\n\n\n— https://nitter.net/stock1137460/status/2061979267588845603#m",
+      "link": "https://nitter.net/Tsla99T/status/2062194868760219900#m",
+      "date": "Wed, 03 Jun 2026 15:29:05 GMT"
+    },
     {
       "text": "一个L4公司的创始人和我说：无人出租车还没有大规模部署，这个行业就已经变成老登行业了\n我想，盈利这件事，只能交给他们看不起的特斯拉了",
       "link": "https://nitter.net/Tsla99T/status/2061972350459924899#m",
@@ -87,11 +97,6 @@
       "text": "Very Cool！希望这样的开源gadget越来越多\n我们秋季要开设基于Reachy Mini的AI Workshop\ngenai4kidz.com/workshops/rea…\n\n\nAndi Marafioti (@andimarafioti)\n\nIntroducing local Reachy Mini conversations: free chats forever! \nSo fast that we had to hardcode delays to stop it from interrupting you mid-sentence.\n\nWe built an open-source Realtime API powered by llama.cpp: \nParakeet -> Gemma 4 E4B -> Qwen3TTS\n\nRun it anywhere you run local LMs. Video shows DGX Spark and a 36GB M3 Pro MacBook.\n\nBlog: huggingface.co/blog/local-re…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/andimarafioti/status/2059658208893940067#m",
       "link": "https://nitter.net/Tsla99T/status/2059732564772896863#m",
       "date": "Wed, 27 May 2026 20:24:46 GMT"
-    },
-    {
-      "text": "其实聊聊他自己的公司就好了，没有必要谈特斯拉了\n毕竟2年前的认知完全错误了，不禁令人有利用特斯拉博流量的合理怀疑",
-      "link": "https://nitter.net/Tsla99T/status/2059725924937916636#m",
-      "date": "Wed, 27 May 2026 19:58:23 GMT"
     }
   ]
 }
