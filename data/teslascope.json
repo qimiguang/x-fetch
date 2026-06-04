@@ -1,12 +1,22 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-04T04:41:19Z",
+  "updated_at": "2026-06-04T10:03:36Z",
   "count": 20,
   "tweets": [
     {
-      "text": "We noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2060779084007755814#m",
-      "date": "Sat, 30 May 2026 17:43:15 GMT"
+      "text": "Data that is streamed can be manipulated on a rooted/jailbroken vehicle; as such, our platform makes a call to Tesla's official servers to retrieve both staged and installed release notes.\n\nThese release notes cannot be tampered with and are the ultimate source of truth.",
+      "link": "https://nitter.net/teslascope/status/2062437755897229599#m",
+      "date": "Thu, 04 Jun 2026 07:34:13 GMT"
+    },
+    {
+      "text": "Screenshots (and even recordings) of the official Tesla mobile app can not be trusted, as payloads can be intercepted and modified using various MITM tools.\n\nThe only way to truly verify whether updates are legitimate is to connect a vehicle to a platform like ours.",
+      "link": "https://nitter.net/teslascope/status/2062437754588606845#m",
+      "date": "Thu, 04 Jun 2026 07:34:13 GMT"
+    },
+    {
+      "text": "We've seen posts circulating about V14 Lite being available or released to some HW3 vehicles.\n\nAs far as we have determined, these posts are entirely fabricated, and we can confirm that no such update has been released to customer vehicles.\n\nV14 Lite is still expected this month.",
+      "link": "https://nitter.net/teslascope/status/2062437752969511009#m",
+      "date": "Thu, 04 Jun 2026 07:34:13 GMT"
     },
     {
       "text": "A new feature has been detected: Dashcam Clip Encryption\n\nteslascope.com/software/2026…",
@@ -17,11 +27,6 @@
       "text": "Tesla software update 2026.14.6.7 is now rolling out to ~2,200 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
       "link": "https://nitter.net/teslascope/status/2062275857368944721#m",
       "date": "Wed, 03 Jun 2026 20:50:54 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.15.6 on Model X Plaid (2023) in Gyeonggi-do, South Korea. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062275232035926403#m",
-      "date": "Wed, 03 Jun 2026 20:48:25 GMT"
     },
     {
       "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
@@ -49,6 +54,11 @@
       "date": "Wed, 03 Jun 2026 20:48:30 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.15.6 on Model X Plaid (2023) in Gyeonggi-do, South Korea. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2062275232035926403#m",
+      "date": "Wed, 03 Jun 2026 20:48:25 GMT"
+    },
+    {
       "text": "Tesla has confirmed that the changes to Driver Monitoring were actually present in the prior update, 2026.14.6.6.\n\nThus, 2026.14.6.7 just contains minor changes / refinements, with no bump to FSD version.\n\n\nTesla AI (@Tesla_AI)\n\nThis was released in a previous update, but wasn't highlighted in release notes\n\n\n\n— https://nitter.net/Tesla_AI/status/2062038542470218003#m",
       "link": "https://nitter.net/teslascope/status/2062072035854139557#m",
       "date": "Wed, 03 Jun 2026 07:20:59 GMT"
@@ -62,11 +72,6 @@
       "text": "New FSD v14.3.3 rolling out now through software update 2026.14.6.7. \n\nWhile it’s the same version number as what has already been released, there is one new addition to the release notes:\n\n“Improved driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, & and higher accuracy in variable lighting conditions.”\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
       "link": "https://nitter.net/DriveTeslaca/status/2062017197271388462#m",
       "date": "Wed, 03 Jun 2026 03:43:04 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062007484450038028#m",
-      "date": "Wed, 03 Jun 2026 03:04:29 GMT"
     },
     {
       "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
@@ -89,19 +94,14 @@
       "date": "Wed, 03 Jun 2026 03:04:32 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2062007484450038028#m",
+      "date": "Wed, 03 Jun 2026 03:04:29 GMT"
+    },
+    {
       "text": "I’m in Omar’s Space and he was highlighting how much @teslascope provides the community! He’s right, often is… so I subscribed! If you love all the information Teslascope shares with us, so should you!! 💕\n\n\n\n\nWhole Mars Catalog (@wholemars)\n\nnitter.net/i/spaces/1DxLddEAEkbxm\n\n\n\n— https://nitter.net/wholemars/status/2061976440397316510#m",
       "link": "https://nitter.net/99_Colorado/status/2062001862057062857#m",
       "date": "Wed, 03 Jun 2026 02:42:08 GMT"
-    },
-    {
-      "text": "Tesla has provided an update on Full Self-Driving V14 in Australia and New Zealand, which has not been available since V13's initial introduction last year.\n\nIt appears that V14 is coming soon, but it also means new vehicles won't have access to FSD until it's available.\n\n\nElectric Future (@electricfuture5)\n\nFirst comms from @TeslaAUNZ. FSD V14 is coming. No FSD on new cars until it does\n\n\n\n\n\n— https://nitter.net/electricfuture5/status/2061950975133577509#m",
-      "link": "https://nitter.net/teslascope/status/2061971270296834363#m",
-      "date": "Wed, 03 Jun 2026 00:40:35 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.6 is now rolling out to ~4,840 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2055871724055330936#m",
-      "link": "https://nitter.net/teslascope/status/2061899465976377350#m",
-      "date": "Tue, 02 Jun 2026 19:55:15 GMT"
     }
   ]
 }
