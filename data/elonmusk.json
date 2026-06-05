@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-05T04:15:12Z",
+  "updated_at": "2026-06-05T10:01:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "29 more Starlink satellites. \n\nOver 10,000 in orbit now.\n\n\nSpaceX (@SpaceX)\n\nFalcon 9 launches and deploys 29 @Starlink satellites from Florida\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2062585343388319851#m",
+      "link": "https://nitter.net/elonmusk/status/2062796377055187258#m",
+      "date": "Fri, 05 Jun 2026 07:19:15 GMT"
+    },
+    {
+      "text": "Grok supports worktrees\n\n\nakshey (@aksheyd)\n\nGrok Build tip of the day: worktrees!\n\nIf you're unfamiliar with worktrees, they're essentially  lightweight copies of your repo, allowing you to run parallel agents within their own workspaces. Try it either in the home screen or using `grok -w`!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/aksheyd/status/2062408615575822547#m",
+      "link": "https://nitter.net/elonmusk/status/2062796095764234421#m",
+      "date": "Fri, 05 Jun 2026 07:18:08 GMT"
+    },
+    {
+      "text": "Grok Build updates\n\n\nskcd (@skcd42)\n\nBug fixes shipping to Grok Build 0.2.20 (release notes will be available in the TUI and on change-log website)\n\n• Eliminate ghost-cell artifacts in markdown table rendering\n• Make monitors visible and killable to the model\n• Preserve soft breaks in plan preview\n• Add image_to_video and reference_to_video tools\n• Add bundled imagine skill\n• Convert ICO images to PNG\n• Resolve [Image # N] attachment references in image_edit\n• Open fullscreen viewer on Enter for Search and ListDir blocks\n• Route MCP lifecycle notifications by sessionId + bound per-server init\n• Route mouse-wheel scroll to /btw overlay panel\n• Compaction: neutralize echoed summarization instruction in summary seed\n• Structured compaction prompt (successor-assistant, carry-forward, <analysis>\n block)\n• Dedupe between-turn subagent completion reminders\n• Allow auto-update to downgrade on rollback\n• Dedupe MCP servers declared in both .mcp.json and plugin.json\n• Fix local stdio MCP servers on Windows\n\n\n\n— https://nitter.net/skcd42/status/2062363644638458007#m",
+      "link": "https://nitter.net/elonmusk/status/2062795562265550876#m",
+      "date": "Fri, 05 Jun 2026 07:16:01 GMT"
+    },
+    {
+      "text": "Grok model improvement\n\n\nBill Yuchen Lin (@billyuchenlin)\n\nThe updated Grok-build model (still the 0.5T one) is much better than before. It’s less lazy, more autonomous, and more accurate. We are still improving it on long-horizon tasks. Stay tuned and enjoy it in our beautiful TUI with new usage limits! 🚀\n\n\n\n— https://nitter.net/billyuchenlin/status/2062598069351551001#m",
+      "link": "https://nitter.net/elonmusk/status/2062795019551957383#m",
+      "date": "Fri, 05 Jun 2026 07:13:52 GMT"
+    },
+    {
+      "text": "Yes, SPLC is a criminal organization\n\n\nRobert W Malone, MD (@RWMaloneMD)\n\nThe DoJ announces that the SPLC paid klan members a monthly salary to stay in the KKK and recruit new members.  That a non-profit would do this is sick and sad. Just what were they thinking?\n\n\n\n\n\n— https://nitter.net/RWMaloneMD/status/2062492687912075326#m",
+      "link": "https://nitter.net/elonmusk/status/2062752172450681051#m",
+      "date": "Fri, 05 Jun 2026 04:23:36 GMT"
+    },
     {
       "text": "Starmer on Henry Nowak: \"Don't exploit this for politics\"\n\nStarmer on George Floyd:\n\nVideo",
       "link": "https://nitter.net/EndWokeness/status/2062616232923144400#m",
@@ -77,31 +102,6 @@
       "text": "SpaceX’s literally destroyed the cost to orbit so much even you can afford the ticket to ride on it in the future\n\n- For decades, launch cost to low Earth orbit was roughly $18,500 per kg\n\n- Falcon 9 brought that down to around $2,700 per kg\n- Falcon Heavy pushed it closer to $1,400 per kg\n\n➝  Now Starship is targeting a 99%+ cost reduction\n\nWhen the cost of reaching orbit falls by orders of magnitude, space stops being a rare government program and starts becoming industrial infrastructure\n\nStarlink, orbital manufacturing, lunar cargo, AI compute, and Mars all depend on one thing:\n\ngetting cost to orbit as close to zero as possible\n\nThat is why Starship matters so much....It is not just a bigger rocket\n\nIt is the cost reset that opens the next economic frontier",
       "link": "https://nitter.net/XFreeze/status/2062550795417977340#m",
       "date": "Thu, 04 Jun 2026 15:03:24 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2062639458508312887#m",
-      "date": "Thu, 04 Jun 2026 20:55:43 GMT"
-    },
-    {
-      "text": "Ideological conditioning and two-tiered policing are glaring symptoms of civilizational decline. They must be rejected across the West. \n\nThe United States sends our condolences to the family of Henry Nowak and the people of the United Kingdom at this troubling time.",
-      "link": "https://nitter.net/StateDept/status/2062616906406760627#m",
-      "date": "Thu, 04 Jun 2026 19:26:06 GMT"
-    },
-    {
-      "text": "MARC ANDREESSEN: \"We had meetings with the Biden admin where they told us to not even start AI companies because there's no way they'll let them succeed.\"  \n\nJOE ROGAN: \"What do you do after a meeting like that?\"  \n\nMARC ANDREESSEN: \"You go endorse Donald Trump.\"  \n\nLMAO\n\nVideo",
-      "link": "https://nitter.net/Bitcoin_Teddy/status/2062459844825899257#m",
-      "date": "Thu, 04 Jun 2026 09:02:00 GMT"
-    },
-    {
-      "text": "SpaceX IPO info\n\n\nSpaceX (@SpaceX)\n\nSpaceX was founded to make life multiplanetary. We’ve been able to expand that mission with our Starlink constellation and AI solution\n\nLearn more → spacexipo.com\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2062630481087082874#m",
-      "link": "https://nitter.net/elonmusk/status/2062638415644865024#m",
-      "date": "Thu, 04 Jun 2026 20:51:34 GMT"
-    },
-    {
-      "text": "🚨BREAKING: SPECIALIST DOCTOR SAYS HENRY NOWAK COULD HAVE LIVED IF NOT FOR POLICE\n\nIn summary:\n\n- Henry was alive when they arrived and likely clotted\n- Aggressive police intervention likely tore clot\n- Major Trauma department was minutes away from scene\n- Judge and Pathologist were FAR TOO LENIENT on Police\n- Henry Nowak had 50% CHANCE to survive\n- Absolutely convinced that if he arrived in hospital alive he would have survived\n\nThis is disgusting, the family deserve justice\n\nFull breakdown below:\n\nDr Krzysztof Magier [@DrMagier] based in the Isle of Wight is a qualified Paediatric Care Lead and part of the 'Critical Care Network' with experience in combat medicine training and a specialized course in treating severe injuries (including gunshot and stab wounds) has analysed the footage and claimed the AGGRESSIVE Police intervention may have contributed towards Henry's death.\n\nDr Magier DISAGREES with the pathologist's and judge's opinion that Henry Nowak had ZERO chance of SURVIVAL.\n\nAs well as the claim that handcuffing him essentially changed NOTHING. \n\nIn fact he claims the REVERSE IS TRUE, there is a high likelihood that the police intervention CONTRIBUTED TO HENRY'S DEATH. \n\nHe analysed the autopsy report, which points to DAMAGE to the subclavian vein as the main source of BLEEDING.\n\nIn a healthy person, venous bleeding occurs under low pressure and often self-limits thanks to the NATURALLY FORMING CLOT, while simply approximating the wound edges and compressing the surrounding tissues closes the vein enough to slow or even stop the bleeding.\n\nThe body camera footage shows that when police arrived on the scene (likely 5-10 minutes after the injury), Henry was CONCIOUS ENOUGH to speak LOUDLY. \n\nHe was therefore NOT YET in a terminal state. \n\nAfter his arms were twisted behind his back and handcuffed, the vein was most likely STRETCHED, the clot TORN, and BLEEDING DRAMATICALLY INTENSIFIED. \n\nWithin just about three minutes, he lost consciousness and DIED.   \n\nPeople with suspected internal injuries should NEVER be moved or yanked abruptly, such actions can destroy the natural clot and lead to massive internal hemorrhage. \n\nInstead of immediately calling a medical rescue team and handing the patient over to paramedics, the police ARRESTED HIM. \n\nIf paramedics had arrived first on the scene, Henry’s chances of survival would have been MUCH HIGHER.\n\nAS HIGH AS \"50%\"—writes Dr. Magier.\n\nParamedics could have quickly started an IV, administered fluids to increase circulating blood volume, and tranexamic acid to stabilize the clot, and if needed, performed needle decompression (inserting a large, long needle into the lung), because the issue wasn’t so much lack of lung function, but compression of the blood-filled lung on the heart and mediastinum, which blocks circulation.\n\nWorse still, the incident took place just a few minutes' drive by car (2–3 minutes by ambulance with sirens) from Southampton University Hospital—a regional MAJOR TRAUMA CENTRE equipped with a full team of specialists, procedures, and equipment. \n\n\"I AM CONVINCED THAT IF HENRY HAD ARRIVED THERE ALIVE THE DOCTORS WOULD HAVE NOT LET HIM DIE\"—writes Dr. Magier.\n\nThe aggressive police intervention, instead of saving a life, led to death through improper handling of a severely injured person, even though world-class care was just minutes away. \"I fear the Judge and pathologist were too lenient toward the police\"",
-      "link": "https://nitter.net/BasilTheGreat/status/2062517983159747008#m",
-      "date": "Thu, 04 Jun 2026 12:53:01 GMT"
     }
   ]
 }
