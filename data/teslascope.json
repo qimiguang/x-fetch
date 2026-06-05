@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-04T22:23:41Z",
+  "updated_at": "2026-06-05T04:15:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.14.6.7 is now rolling out to ~3,520 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
+      "link": "https://nitter.net/teslascope/status/2062662126179676339#m",
+      "date": "Thu, 04 Jun 2026 22:25:47 GMT"
+    },
     {
       "text": "Data that is streamed can be manipulated on a rooted/jailbroken vehicle; as such, our platform makes a call to Tesla's official servers to retrieve both staged and installed release notes.\n\nThese release notes cannot be tampered with and are the ultimate source of truth.",
       "link": "https://nitter.net/teslascope/status/2062437755897229599#m",
@@ -97,11 +102,6 @@
       "text": "We noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2062007484450038028#m",
       "date": "Wed, 03 Jun 2026 03:04:29 GMT"
-    },
-    {
-      "text": "I’m in Omar’s Space and he was highlighting how much @teslascope provides the community! He’s right, often is… so I subscribed! If you love all the information Teslascope shares with us, so should you!! 💕\n\n\n\n\nWhole Mars Catalog (@wholemars)\n\nnitter.net/i/spaces/1DxLddEAEkbxm\n\n\n\n— https://nitter.net/wholemars/status/2061976440397316510#m",
-      "link": "https://nitter.net/99_Colorado/status/2062001862057062857#m",
-      "date": "Wed, 03 Jun 2026 02:42:08 GMT"
     }
   ]
 }
