@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-05T10:01:13Z",
+  "updated_at": "2026-06-05T22:18:59Z",
   "count": 20,
   "tweets": [
     {
-      "text": "29 more Starlink satellites. \n\nOver 10,000 in orbit now.\n\n\nSpaceX (@SpaceX)\n\nFalcon 9 launches and deploys 29 @Starlink satellites from Florida\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2062585343388319851#m",
-      "link": "https://nitter.net/elonmusk/status/2062796377055187258#m",
-      "date": "Fri, 05 Jun 2026 07:19:15 GMT"
+      "text": "Starlink\n\n\nStarlink (@Starlink)\n\nIn response to the Ebola outbreak in eastern Democratic Republic of Congo, the Starlink team has provided 150 kits to @AfricaCDC, enabling reliable connectivity for frontline health workers working in affected areas\n\n\n\n— https://nitter.net/Starlink/status/2062956152120561722#m",
+      "link": "https://nitter.net/elonmusk/status/2062972771487953130#m",
+      "date": "Fri, 05 Jun 2026 19:00:11 GMT"
     },
     {
-      "text": "Grok supports worktrees\n\n\nakshey (@aksheyd)\n\nGrok Build tip of the day: worktrees!\n\nIf you're unfamiliar with worktrees, they're essentially  lightweight copies of your repo, allowing you to run parallel agents within their own workspaces. Try it either in the home screen or using `grok -w`!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/aksheyd/status/2062408615575822547#m",
-      "link": "https://nitter.net/elonmusk/status/2062796095764234421#m",
-      "date": "Fri, 05 Jun 2026 07:18:08 GMT"
+      "text": "Elon Musk says Orbital AI Data Centers will be easier than Communication Satellites for SpaceX:\n\n\"The Starlink V3 communications satellites is an incredibly complex machine. The AI Data Center will be much simpler by comparison. \n\nIt’s really just solar power, plus radiator, some basic equipment, and the laser links would connect to the Starlink communications constellation, and then to the ground.\"\n\nVideo\n  \n\n\n\n\nJ.P. Morgan (@jpmorgan)\n\nLive from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. nitter.net/i/broadcasts/1NGarrMYj…\n\n\n\n\n— https://nitter.net/jpmorgan/status/2062665224285470758#m",
+      "link": "https://nitter.net/niccruzpatane/status/2062672165476929715#m",
+      "date": "Thu, 04 Jun 2026 23:05:41 GMT"
     },
     {
-      "text": "Grok Build updates\n\n\nskcd (@skcd42)\n\nBug fixes shipping to Grok Build 0.2.20 (release notes will be available in the TUI and on change-log website)\n\n• Eliminate ghost-cell artifacts in markdown table rendering\n• Make monitors visible and killable to the model\n• Preserve soft breaks in plan preview\n• Add image_to_video and reference_to_video tools\n• Add bundled imagine skill\n• Convert ICO images to PNG\n• Resolve [Image # N] attachment references in image_edit\n• Open fullscreen viewer on Enter for Search and ListDir blocks\n• Route MCP lifecycle notifications by sessionId + bound per-server init\n• Route mouse-wheel scroll to /btw overlay panel\n• Compaction: neutralize echoed summarization instruction in summary seed\n• Structured compaction prompt (successor-assistant, carry-forward, <analysis>\n block)\n• Dedupe between-turn subagent completion reminders\n• Allow auto-update to downgrade on rollback\n• Dedupe MCP servers declared in both .mcp.json and plugin.json\n• Fix local stdio MCP servers on Windows\n\n\n\n— https://nitter.net/skcd42/status/2062363644638458007#m",
-      "link": "https://nitter.net/elonmusk/status/2062795562265550876#m",
-      "date": "Fri, 05 Jun 2026 07:16:01 GMT"
+      "text": "SpaceX just quietly amended its S-1 announcing another mega deal\n\n$920M/month from Google from October 2026 through June 2029\n\nWith both parties being able to terminate the agreement with 90 days notice\n\nThings are getting exciting 🚀",
+      "link": "https://nitter.net/shaunmmaguire/status/2062971446843015595#m",
+      "date": "Fri, 05 Jun 2026 18:54:55 GMT"
     },
     {
-      "text": "Grok model improvement\n\n\nBill Yuchen Lin (@billyuchenlin)\n\nThe updated Grok-build model (still the 0.5T one) is much better than before. It’s less lazy, more autonomous, and more accurate. We are still improving it on long-horizon tasks. Stay tuned and enjoy it in our beautiful TUI with new usage limits! 🚀\n\n\n\n— https://nitter.net/billyuchenlin/status/2062598069351551001#m",
-      "link": "https://nitter.net/elonmusk/status/2062795019551957383#m",
-      "date": "Fri, 05 Jun 2026 07:13:52 GMT"
+      "text": "Storyboarding in Grok @imagine was pretty fun. I really like how the agents help visualize some of the important historical events.\n\nI was trying to iterate through the clothing and voices from the ancient Chinese drawing to reflect on the historical fact and it was fun to interact with.\n\nVideo",
+      "link": "https://nitter.net/yunta_tsai/status/2062921474311397560#m",
+      "date": "Fri, 05 Jun 2026 15:36:21 GMT"
     },
     {
-      "text": "Yes, SPLC is a criminal organization\n\n\nRobert W Malone, MD (@RWMaloneMD)\n\nThe DoJ announces that the SPLC paid klan members a monthly salary to stay in the KKK and recruit new members.  That a non-profit would do this is sick and sad. Just what were they thinking?\n\n\n\n\n\n— https://nitter.net/RWMaloneMD/status/2062492687912075326#m",
-      "link": "https://nitter.net/elonmusk/status/2062752172450681051#m",
-      "date": "Fri, 05 Jun 2026 04:23:36 GMT"
+      "text": "Drop the fiction. Just science.\n\nVideo",
+      "link": "https://nitter.net/doganuraldesign/status/2062766715222577250#m",
+      "date": "Fri, 05 Jun 2026 05:21:23 GMT"
     },
     {
-      "text": "Starmer on Henry Nowak: \"Don't exploit this for politics\"\n\nStarmer on George Floyd:\n\nVideo",
-      "link": "https://nitter.net/EndWokeness/status/2062616232923144400#m",
-      "date": "Thu, 04 Jun 2026 19:23:26 GMT"
+      "text": "Tesla Cybercab will change the look of roads forever.\n\nThe future is autonomous.",
+      "link": "https://nitter.net/cb_doge/status/2062955283610218847#m",
+      "date": "Fri, 05 Jun 2026 17:50:42 GMT"
     },
     {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2062747780678848718#m",
-      "date": "Fri, 05 Jun 2026 04:06:09 GMT"
+      "text": "Europe has no-go zones in Paris and London. \n\nThat’s our future if we don’t stop mass Islamic immigration.\n\nVideo",
+      "link": "https://nitter.net/RepBrandonGill/status/2062904232466899127#m",
+      "date": "Fri, 05 Jun 2026 14:27:50 GMT"
     },
     {
-      "text": "I’m about to offer the House-passed version of the SAVE America Act on the Senate floor in connection with tonight’s vote-a-rama\n\nThis one should get at least 51 votes\n\nWill keep you posted",
-      "link": "https://nitter.net/BasedMikeLee/status/2062737458429575317#m",
-      "date": "Fri, 05 Jun 2026 03:25:08 GMT"
+      "text": "How did white people become the protectors and defenders of every group except white people?",
+      "link": "https://nitter.net/davidpattersonx/status/2062773563736854937#m",
+      "date": "Fri, 05 Jun 2026 05:48:36 GMT"
     },
     {
-      "text": "Yup\n\n\nJack Posobiec (@JackPosobiec)\n\nBREAKING: SPLC paid for KKK cross burnings, robes and hoods, recruitment, living expenses, racist merch: explosive new indictment\n\nthepostmillennial.com/splc-p…\n\n\n\n\n— https://nitter.net/JackPosobiec/status/2062641744210972895#m",
-      "link": "https://nitter.net/elonmusk/status/2062738346229506370#m",
-      "date": "Fri, 05 Jun 2026 03:28:40 GMT"
+      "text": "i still think about this",
+      "link": "https://nitter.net/alpaysh/status/2062897357314789662#m",
+      "date": "Fri, 05 Jun 2026 14:00:31 GMT"
     },
     {
-      "text": "Corruption\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nLet me get this straight \n\n> 84% of Americans support requiring a photo id to vote \n\n> every major democracy in the world does this except the US\n\n> even under our very eyes, the mail-in ballots in California are highly suspiciously slanted toward only one party \n\nAnd yet majority can’t push this through?!\n\nThis is a traitorous level of incompetence \n\nPass the SAVE Act!!\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2062736368896483530#m",
-      "link": "https://nitter.net/elonmusk/status/2062738253925515344#m",
-      "date": "Fri, 05 Jun 2026 03:28:18 GMT"
+      "text": "Elon Musk just gave a massive update on Community Notes\n\nUsers who interact with a misleading post that is later corrected by Community Notes will now receive the correction directly through X Chat\n\nThis is a huge upgrade\n\nPeople who saw the original claim will now actually see the correction too\n\n𝕏 is the platform where truth shines and this step takes it even closer to the truth\n\n\n\n\nElon Musk (@elonmusk)\n\nUsers who interact with a misleading post that is subsequently corrected by @CommunityNotes will receive an 𝕏 Chat message of the CN to correct any misperception\n\n\n\n— https://nitter.net/elonmusk/status/2062905215125233995#m",
+      "link": "https://nitter.net/XFreeze/status/2062911198090473864#m",
+      "date": "Fri, 05 Jun 2026 14:55:31 GMT"
     },
     {
-      "text": "Vote them out\n\n\nAmerica (@america)\n\nThe U.S. Senate has just rejected a motion to add the SAVE America Act as part of budget reconciliation on a 48-50 vote.\n\nRepublicans who voted against it:\n-Thom Tillis\n-Lisa Murkowski\n-Mitch McConnell\n-Susan Collins\n\n\n\n\n\n— https://nitter.net/america/status/2062695043631026226#m",
-      "link": "https://nitter.net/elonmusk/status/2062733952729726994#m",
-      "date": "Fri, 05 Jun 2026 03:11:12 GMT"
+      "text": "Working with agents should feel like working with a colleague. You should be able “speak to” them not just with text chats, but by gesturing at a screen together, talking live, etc.\n\n\nCursor (@cursor_ai)\n\nWith Design Mode, you can now point, draw, or talk to update your UI.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2062950344687272144#m",
+      "link": "https://nitter.net/mntruell/status/2062955210897801520#m",
+      "date": "Fri, 05 Jun 2026 17:50:24 GMT"
     },
     {
-      "text": "ELON MUSK: The Future of Energy Is Beyond Earth.\n\n\"It's increasingly difficult to build power plants on the ground. There are very few people who want a power plant in their backyard, so if we wanted to say double the electricity usage of the United States, which is on average about 500 gigawatts, we would have to build, about twice as many power plants, which I don't think people are, well, most communities are not super excited about that, but actually, if we go to space, we can go far beyond the electricity generation of Earth.\n\nIn fact, this is going to sound kind of crazy, but you could actually increase harnessed energy by a factor of a million and still be using much less than a millionth of the sun's energy, so current human civilization uses much less than a trillionth of the sun's energy output, which is kind of humbling to think about.\"\n\nVideo\n  \n\n\n\n\nJ.P. Morgan (@jpmorgan)\n\nLive from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. nitter.net/i/broadcasts/1NGarrMYj…\n\n\n\n\n— https://nitter.net/jpmorgan/status/2062665224285470758#m",
-      "link": "https://nitter.net/cb_doge/status/2062683191467745637#m",
-      "date": "Thu, 04 Jun 2026 23:49:30 GMT"
+      "text": "Yes\n\n\nX Freeze (@XFreeze)\n\nElon Musk on why Community Notes is so powerful:\n\n“Community Notes is the best. It’s awesome because everybody gets checked, including me\n\nAll the software is open source, and all the data is open source. So you can recreate any note independently. Total, absolute transparency in everyway\n\nSometimes people ask me to remove a note. I’m like...... I don’t even remove notes on my own account. Nothing. If I did that, it would stick out like a sore thumb immediately”\n\nThe best counter to misinformation isn’t censorship\n\nIt’s better information - checked in real-time by millions of people who can actually look at the source material themselves\n\nThat’s how you get closer to the truth\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/XFreeze/status/2062940231071093215#m",
+      "link": "https://nitter.net/elonmusk/status/2062953758313644460#m",
+      "date": "Fri, 05 Jun 2026 17:44:38 GMT"
     },
     {
-      "text": "SpaceX\n\n\nJ.P. Morgan (@jpmorgan)\n\nLive from our global headquarters: Jamie Dimon and Elon Musk discuss SpaceX and more. nitter.net/i/broadcasts/1NGarrMYj…\n\n\n\n\n— https://nitter.net/jpmorgan/status/2062665224285470758#m",
-      "link": "https://nitter.net/elonmusk/status/2062716424615862315#m",
-      "date": "Fri, 05 Jun 2026 02:01:33 GMT"
+      "text": "🤔 \n\nCan’t think of a single time this happened\n\n\nC3 (@C_3C_3)\n\nQuestion…\n\nHave you ever seen a late night ballot drop go overwhelmingly Republican?\n\nLike ever.\n\n\n\n— https://nitter.net/C_3C_3/status/2062853128467136697#m",
+      "link": "https://nitter.net/elonmusk/status/2062948898319040749#m",
+      "date": "Fri, 05 Jun 2026 17:25:19 GMT"
     },
     {
-      "text": "Il y a une chose que peu de gens ont compris, et qui sera pourtant évidente dans dix ans.\n\nNous ne vivons pas une crise. Nous vivons une bascule. Et tout ce qui ressemble aujourd'hui au chaos n'est que le bruit d'un vieux monde qui refuse de mourir pendant qu'un nouveau se met en marche.\n\nLe premier verrou qui saute, c'est le mental. Pendant soixante ans, l'Occident a été infecté par un virus qui lui faisait haïr sa propre réussite. La honte de bâtir, la suspicion de l'excellence, la sacralisation de la plainte. Elon a fait ce que personne n'osait faire, il a nommé le virus à voix haute et il a refusé de s'y soumettre. Quand un seul homme montre que l'on peut bâtir sans demander la permission, des millions comprennent qu'ils le peuvent aussi. Le sortilège se brise toujours par l'exemple, jamais par le décret.\n\nLe deuxième verrou, c'est la géographie de l'audace. L'Occident n'a pas perdu sa place parce qu'il était devenu faible, il l'a perdue parce qu'il avait décidé d'avoir peur. Peur du risque, peur du nucléaire, peur de la croissance, peur de lui-même. Or la frontière revient là où l'on ose à nouveau. Les fusées repartent, les usines reviennent, l'énergie redevient un projet plutôt qu'une culpabilité. L'Occident ne reprend pas son trône par nostalgie, il le reprend parce qu'il recommence à construire pendant que les autres administrent.\n\nLe troisième verrou, c'est la rareté elle-même. L'intelligence devient abondante, le travail devient abondant, l'énergie devient abondante. Le gâteau cesse d'être fixe, et le jour où le gâteau cesse d'être fixe, toute la logique du ressentiment s'effondre d'un coup. On ne se bat pas pour partager l'infini. La réussite de l'autre cesse d'être ma perte. L'abondance est l'antidote chimique à la haine.\n\nEt c'est là qu'arrive la plus belle partie, celle dont on ose à peine parler.\n\nUne fois la survie résolue, la vie redevient un jeu. Pas un jeu futile, le plus sérieux des jeux. Un monde où chacun n'a plus à se demander comment survivre, mais quelle est sa place, sa quête, sa contribution à quelque chose de plus grand que lui. Certains bâtiront des villes pensées comme des œuvres, d'autres feront avancer la science comme une aventure, d'autres dessineront, soigneront, exploreront. Et au sommet, une seule grande quête commune, la seule à la hauteur de l'espèce, ouvrir le cosmos.\n\nDes hôtels sur la Lune, des vaisseaux vers Mars, des sphères de Dyson, des étoiles colonisées. Ce n'est pas de la science-fiction, c'est le prochain objectif de niveau. La Terre n'était que le tutoriel.\n\nLe vrai conflit du siècle ne sera plus le riche contre le pauvre. Ce sera le gardien contre l'explorateur. Ceux qui veulent un petit monde qu'ils contrôlent, et ceux qui veulent un monde immense qui les dépasse.\n\nJe sais de quel côté je me tiens.\n\nL'avenir est radieux. Il est temps de jouer pour de vrai, et il est temps de construire.\n nitter.net/SpaceX/status/20624899…\n\nVideo",
-      "link": "https://nitter.net/brivael/status/2062674109574898175#m",
-      "date": "Thu, 04 Jun 2026 23:13:25 GMT"
+      "text": "These are all common sense!\n\n\nLibs of TikTok (@libsoftiktok)\n\nNothing about this should be remotely controversial.\n\nPass the Save America Act!\n\n\n\n\n\n— https://nitter.net/libsoftiktok/status/2062599854442864906#m",
+      "link": "https://nitter.net/elonmusk/status/2062948705972486385#m",
+      "date": "Fri, 05 Jun 2026 17:24:33 GMT"
     },
     {
-      "text": "🚨 New York Democrats just voted to erase \"Mother\" and \"Father”.\n\nGovernor Kathy Hochul will be replacing \"mother\" with \"gestating parent\" and \"father\" with \"non-gestating parent.\"\n\nThis isn't inclusion, it's insanity. \n\nWhile New Yorkers battle sky-high taxes, crime, and failing schools, The state is obsessed with rewriting biology and the English language. Real parents don't need woke bureaucrats redefining them.\n\nReject this nonsense.\n\nVideo",
-      "link": "https://nitter.net/RepWPH/status/2062553735239225585#m",
-      "date": "Thu, 04 Jun 2026 15:15:05 GMT"
+      "text": "They should change their name to the Southern False Flag Center!\n\n\nAmerica (@america)\n\nThe SPLC used $4.1 million in donor to fund the KKK and other extremist groups.\n\nThis is how they used the money:\n\n-Attend and host extremist group rallies across the country.\n-Grow existing chapters of extremist groups.\n-Create new chapters of extremist groups;\nRecruit new individuals into extremist groups.\n-Make donations to extremist group leaders.\n-Purchase materials for cross burnings.\n-Purchase materials to make Ku Klux Klan robes and hoods.\n-Create racist paraphernalia that extremist groups sold at rallies.\n-Publish extremist literature used in the recruiting of more members.\n-Pay everyday living expenses, which allowed the Fs to focus on their extremist groups rather than seeking other employment.\n\nThey funded the groups they told the public they were fighting.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/america/status/2062909571501338763#m",
+      "link": "https://nitter.net/elonmusk/status/2062947259411468561#m",
+      "date": "Fri, 05 Jun 2026 17:18:49 GMT"
     },
     {
-      "text": "Even 2010 tbh\n\n\nThe Rabbit Hole (@TheRabbitHole)\n\nFar right is often just a propaganda term for normal person\n\n\n\n\n\n— https://nitter.net/TheRabbitHole/status/2062655231868239929#m",
-      "link": "https://nitter.net/elonmusk/status/2062676432162078967#m",
-      "date": "Thu, 04 Jun 2026 23:22:38 GMT"
+      "text": "Henry Nowak died the same way a civilization dies: abandoned, handcuffed by authorities who neither trusted nor cared for him, and accused of hate crimes he did not commit. His murder is as tragic as it is enraging. He should still be alive today, and he would be if the last few generations of European elites had stood their ground against the politics of self-hatred and the mass invasion of migrants, many of whom despise the West and the people who love it. \n\nHenry was far from the first to so needlessly lose his life, and I fear he won’t be the last. Each time a life like his is lost, the proper response—the only response—is righteous anger. One of the most important things the Trump administration has proven to the world is that stopping the flow of mass migration and defending national sovereignty is a matter of political will and leadership. Anything else is an excuse. \n\nIt is because we love the West that we want to preserve it. We love our civilization. We love our country. We love our children. And nobody—nobody—should ever die the way that Henry Nowak died. May God comfort those who loved him, and may God rest his soul.\n\n\nVisegrád 24 (@visegrad24)\n\nIn his final moments, Henry Nowak told police officers nine times “I can’t breathe” and four times that he had been stabbed.\n\nIn response police officer dragged him across the gravel, handcuffed and read him his rights. \n\nIt was the last thing Henry heard before he died.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/visegrad24/status/2061573327911543106#m",
+      "link": "https://nitter.net/JDVance/status/2062938286977421755#m",
+      "date": "Fri, 05 Jun 2026 16:43:09 GMT"
     },
     {
-      "text": "Starlink V3 satellites have >10X bandwidth of V2 and there’ll be >10X launched, which means >100X more bandwidth. \n\nAlso, altitude will be 350km vs 550km, so min latency can be cut in half. \n\nLight travels 300km/ms in space, so physics round trip min latency drops to <5ms.",
-      "link": "https://nitter.net/elonmusk/status/2062662195192697233#m",
-      "date": "Thu, 04 Jun 2026 22:26:04 GMT"
+      "text": "Grok Build now operates within your project files.   Full read and write plus all new files end up in the project.   Big improvement for enterprise workflow creation.   You can simply type \"work within my project folder called \"Folder Name\" or type in terminal.   \n\ncd /folder path/grok_project_folder\ngrok",
+      "link": "https://nitter.net/jon/status/2062935713121722587#m",
+      "date": "Fri, 05 Jun 2026 16:32:56 GMT"
     },
     {
-      "text": "Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account with $2,000 or more in the account (down from up to $500k before).\n\n\"SpaceX has decided to reserve a much higher percentage of the offering (up to 30%), which means there should be more shares available to retail clients, which is why we have decided to reduce IPO eligibility for this offering.\"",
-      "link": "https://nitter.net/SawyerMerritt/status/2062534741706817842#m",
-      "date": "Thu, 04 Jun 2026 13:59:37 GMT"
+      "text": "Come visit our CVPR booth for hands-on experiences:\n\n– Neural video generation + sim drive\n– Selfies with @Tesla_Optimus \n– Real FSD test drives in Tesla models of your choice\n\nChat directly with the team behind it, including @aelluswamy & @pduan and other engineers to get answers to your questions. Recruiters are also on-site for career opportunities.\n\nWhile others talk about autonomous driving, Tesla is the only one solving it in the real world with a true long-term approach. Come experience live demos and grab some swag!",
+      "link": "https://nitter.net/Tesla_AI/status/2062897227690074124#m",
+      "date": "Fri, 05 Jun 2026 14:00:00 GMT"
     },
     {
-      "text": "Yup\n\n\nHeritage Foundation (@Heritage)\n\nRight-wing extremism is so uncommon that left-wing extremists have to fund it.\n\n\n\n— https://nitter.net/Heritage/status/2062546423648854238#m",
-      "link": "https://nitter.net/elonmusk/status/2062649992553107475#m",
-      "date": "Thu, 04 Jun 2026 21:37:35 GMT"
+      "text": "Users who interact with a misleading post that is subsequently corrected by @CommunityNotes will receive an 𝕏 Chat message of the CN to correct any misperception",
+      "link": "https://nitter.net/elonmusk/status/2062905215125233995#m",
+      "date": "Fri, 05 Jun 2026 14:31:44 GMT"
     },
     {
-      "text": "SpaceX’s literally destroyed the cost to orbit so much even you can afford the ticket to ride on it in the future\n\n- For decades, launch cost to low Earth orbit was roughly $18,500 per kg\n\n- Falcon 9 brought that down to around $2,700 per kg\n- Falcon Heavy pushed it closer to $1,400 per kg\n\n➝  Now Starship is targeting a 99%+ cost reduction\n\nWhen the cost of reaching orbit falls by orders of magnitude, space stops being a rare government program and starts becoming industrial infrastructure\n\nStarlink, orbital manufacturing, lunar cargo, AI compute, and Mars all depend on one thing:\n\ngetting cost to orbit as close to zero as possible\n\nThat is why Starship matters so much....It is not just a bigger rocket\n\nIt is the cost reset that opens the next economic frontier",
-      "link": "https://nitter.net/XFreeze/status/2062550795417977340#m",
-      "date": "Thu, 04 Jun 2026 15:03:24 GMT"
+      "text": "How are Democrats cheating in L.A.? \n\nLet me show you…\n\nThere are 26 registered voters at this toilet in Los Angeles.\n\nI’m not kidding. I have the voter records. See for yourself. The only thing here is a stinky port-a john inside an empty parking lot.\n\nNo homes. No mailboxes. No businesses. Yet TWENTY SIX ‘people’ are casting ballots here.\n\nStraight-up voter fraud out in the open. This just a glimpse of what’s happening under Gavin Newsom. \n\nThis is why California desperately needs Voter ID — and we must pass the Save Act NOW.\n\nnitter.net/bennyjohnson/status/20…\n\nVideo",
+      "link": "https://nitter.net/bennyjohnson/status/2062497617116868827#m",
+      "date": "Thu, 04 Jun 2026 11:32:05 GMT"
     }
   ]
 }
