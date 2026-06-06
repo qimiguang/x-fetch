@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-06T10:55:50Z",
+  "updated_at": "2026-06-06T13:54:40Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "So how is everyone feeling about our rollout detection posts now that it’s been a couple of weeks?\n\nShould they be a reply to the original update post instead?\n\nChecking in and would like everyone’s thoughts so we can continue to improve.\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.7 is now rolling out to ~8,030 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\n\n— https://nitter.net/teslascope/status/2063199328517177384#m",
+      "link": "https://nitter.net/teslascope/status/2063214215192842250#m",
+      "date": "Sat, 06 Jun 2026 10:59:36 GMT"
+    },
     {
       "text": "Tesla software update 2026.14.6.7 is now rolling out to ~8,030 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
       "link": "https://nitter.net/teslascope/status/2063199328517177384#m",
@@ -97,11 +102,6 @@
       "text": "We noticed a new Tesla software update 2026.15.6 on Model X Plaid (2023) in Gyeonggi-do, South Korea. View the rollout of this update here: teslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2062275232035926403#m",
       "date": "Wed, 03 Jun 2026 20:48:25 GMT"
-    },
-    {
-      "text": "Tesla has confirmed that the changes to Driver Monitoring were actually present in the prior update, 2026.14.6.6.\n\nThus, 2026.14.6.7 just contains minor changes / refinements, with no bump to FSD version.\n\n\nTesla AI (@Tesla_AI)\n\nThis was released in a previous update, but wasn't highlighted in release notes\n\n\n\n— https://nitter.net/Tesla_AI/status/2062038542470218003#m",
-      "link": "https://nitter.net/teslascope/status/2062072035854139557#m",
-      "date": "Wed, 03 Jun 2026 07:20:59 GMT"
     }
   ]
 }
