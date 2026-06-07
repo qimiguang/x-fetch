@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-07T19:40:10Z",
+  "updated_at": "2026-06-07T22:09:21Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Our goal of building the best Tesla iOS app continues, and Android is now under early development.\n\nLast night we surpassed 100 testers, and we will double that this week.\n\nOne-third of all features are based on community feedback, and there are no plans to slow down. ⚡\n\n\nVehiclescope (@vehiclescope)\n\nNew in V0.1.1 (now in review):\n \n⚡ Redesigned Drive and Charge Details views, featuring more context and detailed breakdowns of relevant metrics.\n\n📊 No more clutter; charging metrics now have their own dedicated graphs and much easier on the eyes, whether on light or dark mode.\n\n\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2063560519035023776#m",
+      "link": "https://nitter.net/teslascope/status/2063707958807269683#m",
+      "date": "Sun, 07 Jun 2026 19:41:33 GMT"
+    },
     {
       "text": "We heard your feedback.\n\nDrive details have been overhauled to include more useful context and a brand new speed and battery breakdown.\n\nFull Self-Driving utilization will also be displayed for Tesla AI4 vehicles (& HW3 following the V14 Lite update).\n\nComing in V0.1.1 this week!",
       "link": "https://nitter.net/vehiclescope/status/2063436687083253852#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: UI Improvements\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2062275284447953397#m",
       "date": "Wed, 03 Jun 2026 20:48:37 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Speed Profiles\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062275269394579571#m",
-      "date": "Wed, 03 Jun 2026 20:48:34 GMT"
     }
   ]
 }

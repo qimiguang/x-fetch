@@ -1,6 +1,6 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-07T19:40:29Z",
+  "updated_at": "2026-06-07T22:09:44Z",
   "count": 18,
   "tweets": [
     {
@@ -29,7 +29,7 @@
       "date": "Sat, 16 May 2026 06:02:34 GMT"
     },
     {
-      "text": "nitter.net/raines1220/status/2055…\n\n\nRaines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
+      "text": "Raines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
       "link": "https://nitter.net/raines1220/status/2055522490278109333#m",
       "date": "Sat, 16 May 2026 05:35:26 GMT"
     },
