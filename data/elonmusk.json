@@ -1,8 +1,58 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-06T22:07:30Z",
+  "updated_at": "2026-06-07T04:24:49Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A super useful feature I like that we have in Grok Build: we load your .envrc and pass it straight into the agent’s shell environment.\n\nSame API keys, PATH, sccache, remote caches, .etc — everything your shell has. Tests and builds just work. No secret pasting, no “command not found”, no env drift.\n\nTip: Use scoped/read-only/rate-limited keys only. The agent gets exactly what you give it.",
+      "link": "https://nitter.net/theskory/status/2063326922419884542#m",
+      "date": "Sat, 06 Jun 2026 18:27:27 GMT"
+    },
+    {
+      "text": "Grep timeout issue fixed in latest Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok Build update just released v0.2.31\n\nRelease Notes:\n\nBug Fixes:\n• Marketplace skills without proper descriptions are now hidden from listings instead of flooding the model with tables.\n• Prompts submitted rapidly now stay in correct submission order in the queue.\n\nPerformance:\n• Grep searches on large repositories are now substantially faster and no longer hit the 60-second timeout.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2063358025839378736#m",
+      "link": "https://nitter.net/elonmusk/status/2063412033266053340#m",
+      "date": "Sun, 07 Jun 2026 00:05:39 GMT"
+    },
+    {
+      "text": "It's been 20 years since Audrey Crews last held a paintbrush. After receiving a Neuralink brain implant, she's able to return to her passion for creating art. Crews joins @KatiePavlichNN to talk about her progress. @KatiePavlich\n\nMORE: newsnationnow.com/business/t…\n\nVideo",
+      "link": "https://nitter.net/NewsNation/status/2063214389155463478#m",
+      "date": "Sat, 06 Jun 2026 11:00:17 GMT"
+    },
+    {
+      "text": "Helpful tool for improvement. It’s just physics thinking in the limit.\n\n\nEric Jorgenson 📚 ☀️ (@EricJorgenson)\n\nEveryone can use @elonmusk's \"Magic Wand Number\" and \"Idiot Index\"\n\nThey're universal ideas, helpful in any industry.\n\n\n\n\n\n— https://nitter.net/EricJorgenson/status/2063288350329438570#m",
+      "link": "https://nitter.net/elonmusk/status/2063401522327666828#m",
+      "date": "Sat, 06 Jun 2026 23:23:53 GMT"
+    },
+    {
+      "text": "Time for change in Germany\n\n\nInevitable West (@Inevitablewest)\n\n🚨WOW. The AfD party have experienced an unprecedented SURGE in the polls this month and are now 6pts ahead!\n\nGermans want Remigration… 🇩🇪\n\n\n\n\n\n— https://nitter.net/Inevitablewest/status/2063365506342572496#m",
+      "link": "https://nitter.net/elonmusk/status/2063388801330721156#m",
+      "date": "Sat, 06 Jun 2026 22:33:20 GMT"
+    },
+    {
+      "text": "🚨BREAKING: Miguel Bosé, the biggest Spanish-language pop star of the last few decades, has just released a video taking a knee and putting his hand over his heart in honour of Henry Nowak\n\nThis has now spread like a wildfire. Europe has never been more UNITED! 🇪🇸🇬🇧\n\nVideo",
+      "link": "https://nitter.net/Inevitablewest/status/2063376366775501143#m",
+      "date": "Sat, 06 Jun 2026 21:43:56 GMT"
+    },
+    {
+      "text": "This is the only way to save democracy in America\n\n\nMike Lee (@BasedMikeLee)\n\nThe SAVE America Act is controversial only among Democrats in Congress \n\nEverywhere else it’s common sense \n\nSenate Republicans should focus on nothing else until it becomes law\n\n\n\n— https://nitter.net/BasedMikeLee/status/2063386653096362350#m",
+      "link": "https://nitter.net/elonmusk/status/2063387114813767815#m",
+      "date": "Sat, 06 Jun 2026 22:26:38 GMT"
+    },
+    {
+      "text": "Such injustice!\n\n\nAlice Smith (@TheAliceSmith)\n\nWe’ve moved very quickly from “two-tier policing doesn’t exist” to “two-tier policing does exist and it’s a good thing”.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2063283242522832935#m",
+      "link": "https://nitter.net/elonmusk/status/2063385633725284682#m",
+      "date": "Sat, 06 Jun 2026 22:20:45 GMT"
+    },
+    {
+      "text": "Join Tesla if you want to solve real-world AI\n\n\nTesla AI (@Tesla_AI)\n\nReal-world AI is about solving for the edge case, not the average case\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla_AI/status/2063383718946075131#m",
+      "link": "https://nitter.net/elonmusk/status/2063384141182144700#m",
+      "date": "Sat, 06 Jun 2026 22:14:49 GMT"
+    },
+    {
+      "text": "High-speed internet for seamless live streaming from even the most remote locations 🛰️❤️\n\n\nGivesAMinute (@GivesAMinute)\n\nYesterday I did a 10 hour IRL camping stream from remote Australia, all made possible by @Starlink Mini! Now I'm getting ready to go again! Thank you @elonmusk for this incredible tech.\n\n\n\n\n\n— https://nitter.net/GivesAMinute/status/2060542017504206916#m",
+      "link": "https://nitter.net/Starlink/status/2063375174528066027#m",
+      "date": "Sat, 06 Jun 2026 21:39:11 GMT"
+    },
     {
       "text": "The product is the mission.",
       "link": "https://nitter.net/naval/status/2063292550388298025#m",
@@ -52,56 +102,6 @@
       "text": "Elon Musk explains the deeper purpose of SpaceX:\n\"The goal of SpaceX is to build the technologies necessary to make life multiplanetary\"\n\nIt’s not the most commercial-sounding mission but when you zoom out through the lens of history, it’s one of the most important things humanity can do\n\nbecoming multiplanetary is about securing our long-term survival and expanding consciousness beyond one planet\n\nVideo",
       "link": "https://nitter.net/XFreeze/status/2063242412370341949#m",
       "date": "Sat, 06 Jun 2026 12:51:38 GMT"
-    },
-    {
-      "text": "𝕏\n\n\nX Freeze (@XFreeze)\n\nNew data shows 𝕏 actually GREW its U.S. unique visitors between June 2025 and March 2026\n\nMeanwhile, over the exact same period:\n- Threads dropped by 43%\n- Bluesky dropped by 44%\n\nWhile the media predicted that 𝕏 will collapse but now other platforms bleed users, 𝕏 continues to grow\n\nPeople are massively voting with their attention, and they are choosing 𝕏\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2063236853994844439#m",
-      "link": "https://nitter.net/elonmusk/status/2063268036534997186#m",
-      "date": "Sat, 06 Jun 2026 14:33:28 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2063265575204212905#m",
-      "date": "Sat, 06 Jun 2026 14:23:41 GMT"
-    },
-    {
-      "text": "Two Falcon flights in 19 hours\n\n\nX Freeze (@XFreeze)\n\nSpaceX just casually pulled off two Falcon 9 Starlink missions in under 19 hours again\n\n→ June 3 - Starlink 17-47 from Vandenberg at 8:40 AM PT with 24 satellites\n→ June 4 - Starlink 10-43 from Cape Canaveral at 6:26 AM ET with 29 satellites\n\n53 satellites deployed from opposite coasts in less than 19 hours\n\nMost companies struggle to get one successful launch per month\n\nSpaceX makes back-to-back orbital launches look so routine\n\nAnd it’s Just another day at SpaceX\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2063252450254229902#m",
-      "link": "https://nitter.net/elonmusk/status/2063264672770314730#m",
-      "date": "Sat, 06 Jun 2026 14:20:06 GMT"
-    },
-    {
-      "text": "3-5 years for a throwing a traffic cone is wild when Hamid Safi, a Rochdale child rape gang member, only received 4 years.\n\nThis is how disposable white lives are to them.\n\n\nVoxPopuli (@vpopulimedia)\n\n🚨🇬🇧 A FATHER of one of the men charged over Tuesday’s disorder, has written to Facebook expressing his concern over TWO TIER JUSTICE.\n\nAllegedly, the same judge that oversaw the Southport rioters in 2024 is handling the Southampton rioters from this week.\n\n\n\n\n\n— https://nitter.net/vpopulimedia/status/2062924610945929461#m",
-      "link": "https://nitter.net/WONGthink/status/2062929019784290421#m",
-      "date": "Fri, 05 Jun 2026 16:06:20 GMT"
-    },
-    {
-      "text": "SpaceX has launched in 7 years almost as many satellites as every government and private company in the world did since the 50s\n\n\nElon Musk (@elonmusk)\n\n29 more Starlink satellites. \n\nOver 10,000 in orbit now.\n\n\n\n— https://nitter.net/elonmusk/status/2062796377055187258#m",
-      "link": "https://nitter.net/ApoStructura/status/2062907233189421303#m",
-      "date": "Fri, 05 Jun 2026 14:39:46 GMT"
-    },
-    {
-      "text": "Join our AI recommendations & advertising engineering team!\n\n\nAditya Paliwal (@VastoLorde95)\n\nIf you have worked on ads in the past, on any part of the stack, and want 10x the impact, please apply here: job-boards.greenhouse.io/xai…\n\nCurent team has just 18 engineers.\n\n\n\n\n— https://nitter.net/VastoLorde95/status/2063145210851590155#m",
-      "link": "https://nitter.net/elonmusk/status/2063145931554406899#m",
-      "date": "Sat, 06 Jun 2026 06:28:16 GMT"
-    },
-    {
-      "text": "This is simply a fact\n\n\nKevin Bass (@kevinnbass)\n\nCertain ethnic minorities are imprisoned more often not because there is a bias against them, but because they commit more crime\n\nThese groups should take more responsibility for the criminal behavior of their members and stop blaming \"bias\"; there is bias in FAVOR of them; they simply commit more crimes\n\n\n\n— https://nitter.net/kevinnbass/status/2063108730565136783#m",
-      "link": "https://nitter.net/elonmusk/status/2063141453929275816#m",
-      "date": "Sat, 06 Jun 2026 06:10:28 GMT"
-    },
-    {
-      "text": "𝕏 is strong in the east too. #1 social network of any kind in Japan.\n\n\nKevin Bass (@kevinnbass)\n\nX is the public square of the West\n\n\n\n— https://nitter.net/kevinnbass/status/2063111302185140601#m",
-      "link": "https://nitter.net/elonmusk/status/2063141229504647393#m",
-      "date": "Sat, 06 Jun 2026 06:09:35 GMT"
-    },
-    {
-      "text": "Elon Musk unveiling Falcon Heavy at the National Press Club in Washington, D.C., in 2011",
-      "link": "https://nitter.net/cb_doge/status/2063121323120005243#m",
-      "date": "Sat, 06 Jun 2026 04:50:29 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2063138341822820398#m",
-      "date": "Sat, 06 Jun 2026 05:58:06 GMT"
     }
   ]
 }

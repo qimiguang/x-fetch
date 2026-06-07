@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-06T22:07:31Z",
+  "updated_at": "2026-06-07T04:24:51Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We heard your feedback.\n\nDrive details have been overhauled to include more useful context and a brand new speed and battery breakdown.\n\nFull Self-Driving utilization will also be displayed for Tesla AI4 vehicles (& HW3 following the V14 Lite update).\n\nComing in V0.1.1 this week!",
+      "link": "https://nitter.net/vehiclescope/status/2063436687083253852#m",
+      "date": "Sun, 07 Jun 2026 01:43:37 GMT"
+    },
     {
       "text": "Tesla software update 2026.20 is now rolling out to ~2,860 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2060779084007755814#m",
       "link": "https://nitter.net/teslascope/status/2063369170587193856#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Speed Profiles\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2062275269394579571#m",
       "date": "Wed, 03 Jun 2026 20:48:34 GMT"
-    },
-    {
-      "text": "A new feature has been detected: FSD (Supervised) v14.2.2.5\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062275253967933949#m",
-      "date": "Wed, 03 Jun 2026 20:48:30 GMT"
     }
   ]
 }
