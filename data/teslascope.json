@@ -1,8 +1,28 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-08T16:06:13Z",
+  "updated_at": "2026-06-08T20:24:59Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Cybercab now in Seattle, Washington!\n\n\n\n\nJacob Probstfield (@J_Probstfield)\n\n🚨 BREAKING: @Tesla Cybercab spotted in Seattle area — one of the first on WA highways!\n\nGolden @robotaxi was seen driving on I-5, then over the floating 520 bridge and continued east, while I went north onto I-405. \n\nThe autonomous future is already driving WA highways!\n@SawyerMerritt @wholemars @Kristennetten @DavidMoss @herbertong\n\nVideo\n  \n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/J_Probstfield/status/2064036839229718700#m",
+      "link": "https://nitter.net/DriveTeslaca/status/2064066202385944703#m",
+      "date": "Mon, 08 Jun 2026 19:25:05 GMT"
+    },
+    {
+      "text": "A new build of Full Self-Driving is now rolling out to AI4 vehicles in the Netherlands via 2026.17.5.\n\nThis is the first update since it was initially released in April.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.17.5 on Model 3 SR (2025) in South Holland, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2064054618066157683#m",
+      "link": "https://nitter.net/teslascope/status/2064055187501928640#m",
+      "date": "Mon, 08 Jun 2026 18:41:19 GMT"
+    },
+    {
+      "text": "A new feature has been detected: FSD (Supervised) \n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2064054635397095462#m",
+      "date": "Mon, 08 Jun 2026 18:39:08 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.17.5 on Model 3 SR (2025) in South Holland, Netherlands. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2064054618066157683#m",
+      "date": "Mon, 08 Jun 2026 18:39:03 GMT"
+    },
     {
       "text": "Our goal of building the best Tesla iOS app continues, and Android is now under early development.\n\nLast night we surpassed 100 testers, and we will double that this week.\n\nOne-third of all features are based on community feedback, and there are no plans to slow down. ⚡\n\n\nVehiclescope (@vehiclescope)\n\nNew in V0.1.1 (now in review):\n \n⚡ Redesigned Drive and Charge Details views, featuring more context and detailed breakdowns of relevant metrics.\n\n📊 No more clutter; charging metrics now have their own dedicated graphs and much easier on the eyes, whether on light or dark mode.\n\n\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2063560519035023776#m",
       "link": "https://nitter.net/teslascope/status/2063707958807269683#m",
@@ -82,26 +102,6 @@
       "text": "A new feature has been detected: Dashcam Clip Encryption\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2062316057461678106#m",
       "date": "Wed, 03 Jun 2026 23:30:38 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.7 is now rolling out to ~2,200 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
-      "link": "https://nitter.net/teslascope/status/2062275857368944721#m",
-      "date": "Wed, 03 Jun 2026 20:50:54 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062275312398811571#m",
-      "date": "Wed, 03 Jun 2026 20:48:44 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Brake Confirm\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062275298633130161#m",
-      "date": "Wed, 03 Jun 2026 20:48:41 GMT"
-    },
-    {
-      "text": "A new feature has been detected: UI Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062275284447953397#m",
-      "date": "Wed, 03 Jun 2026 20:48:37 GMT"
     }
   ]
 }
