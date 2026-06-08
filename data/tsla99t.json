@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-06-08T11:07:28Z",
+  "updated_at": "2026-06-08T16:06:37Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "这已经是明牌了，人家自己都说了，等其他人做出来，他们套牌\n\n\n枫原万葉 (@46ge5)\n\n告诉大家一个小秘密，某家骗子机器人公司之所以不再投入大量科研经费，是因为机器人算法想要 scale 需要的数采和训练非常昂贵，他们已经很清楚自己没有希望做出机器人届的GPT（他们已经把各种 VLA 、world model 加 RL试遍了，没有用）\n\n于是他们选择造大号变形金刚玩具来骗骗傻子\n\n\n\n— https://nitter.net/46ge5/status/2063943867096076492#m",
+      "link": "https://nitter.net/Tsla99T/status/2063998323388711422#m",
+      "date": "Mon, 08 Jun 2026 14:55:22 GMT"
+    },
     {
       "text": "惊闻上海闵行紫竹园区的外企都已人去楼空，只剩教培机构了\n不禁回想起当年卧谈的时候帮一个室友选择去Intel还是Nvidia",
       "link": "https://nitter.net/Tsla99T/status/2063735740215751115#m",
@@ -19,7 +24,7 @@
       "date": "Sun, 07 Jun 2026 16:48:27 GMT"
     },
     {
-      "text": "这届移民局是来真的了\n\n\nInsider Wire (@InsiderWire)\n\nAuthorities seize over 100,000 fake degree certificates in Indian H-1B fraud bust. \ninsiderwire.com/news/authori…\n\n\n\n— https://nitter.net/InsiderWire/status/2063316608290812342#m",
+      "text": "这届移民局是来真的了\n\n\nInsider Wire (@InsiderWire)\n\nAuthorities seize over 100,000 fake degree certificates in Indian H-1B fraud bust. \ninsiderwire.com/news/authori…\n\n\n\n\n— https://nitter.net/InsiderWire/status/2063316608290812342#m",
       "link": "https://nitter.net/Tsla99T/status/2063337252076261590#m",
       "date": "Sat, 06 Jun 2026 19:08:30 GMT"
     },
@@ -97,11 +102,6 @@
       "text": "科技洼地Texas Dallas\n传统公司\n涌现出不少AI职位\n就是你们所说的Forward Deployed Engineer",
       "link": "https://nitter.net/Tsla99T/status/2061818489464066155#m",
       "date": "Tue, 02 Jun 2026 14:33:29 GMT"
-    },
-    {
-      "text": "OpenAI 的机器人部门\n没有说是人形\n看起来像利用Sora的世界模型产生虚拟训练数据\n\n\nSam Altman (@sama)\n\nOpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com\n\n\n\n— https://nitter.net/sama/status/2061117302528188712#m",
-      "link": "https://nitter.net/Tsla99T/status/2061169122960986370#m",
-      "date": "Sun, 31 May 2026 19:33:08 GMT"
     }
   ]
 }
