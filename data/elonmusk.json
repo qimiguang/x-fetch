@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-07T04:24:49Z",
+  "updated_at": "2026-06-08T04:40:33Z",
   "count": 20,
   "tweets": [
     {
-      "text": "A super useful feature I like that we have in Grok Build: we load your .envrc and pass it straight into the agent’s shell environment.\n\nSame API keys, PATH, sccache, remote caches, .etc — everything your shell has. Tests and builds just work. No secret pasting, no “command not found”, no env drift.\n\nTip: Use scoped/read-only/rate-limited keys only. The agent gets exactly what you give it.",
-      "link": "https://nitter.net/theskory/status/2063326922419884542#m",
-      "date": "Sat, 06 Jun 2026 18:27:27 GMT"
+      "text": "A Tesla is twice as likely to reach 250,000 miles as a Subaru  “No engine, no oil changes, no timing chains, no fuel injectors, and far fewer moving parts overall”  carscoops.com/2026/06/car-br…",
+      "link": "https://nitter.net/tesla_na/status/2063787649694134663#m",
+      "date": "Mon, 08 Jun 2026 00:58:13 GMT"
     },
     {
-      "text": "Grep timeout issue fixed in latest Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok Build update just released v0.2.31\n\nRelease Notes:\n\nBug Fixes:\n• Marketplace skills without proper descriptions are now hidden from listings instead of flooding the model with tables.\n• Prompts submitted rapidly now stay in correct submission order in the queue.\n\nPerformance:\n• Grep searches on large repositories are now substantially faster and no longer hit the 60-second timeout.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2063358025839378736#m",
-      "link": "https://nitter.net/elonmusk/status/2063412033266053340#m",
-      "date": "Sun, 07 Jun 2026 00:05:39 GMT"
+      "text": "Voyager 1 is 24 billion kilometers from Earth.\n\nIt communicates with us using a 23-watt transmitter.\nLess than a refrigerator light bulb.\n\nThe signal takes 22 hours to reach us, traveling at the speed of light.\n\nBy the time it arrives, it's 20 billion times weaker than the power of a digital watch battery.\n\nNASA's Deep Space Network picks it up using 70-meter dish antennas cooled to near absolute zero to reduce electronic noise.\n\nThe engineering required to hear a 23-watt signal from 24 billion km away is arguably more impressive than the spacecraft itself.\n\nLaunched 1977.\nStill transmitting.\nStill being heard.\n\nWe built something that works perfectly, 47 years later, in conditions no one has ever tested in.\n\nThat's what engineering for the long term looks like.",
+      "link": "https://nitter.net/engineers_feed/status/2063601241779781938#m",
+      "date": "Sun, 07 Jun 2026 12:37:30 GMT"
     },
     {
-      "text": "It's been 20 years since Audrey Crews last held a paintbrush. After receiving a Neuralink brain implant, she's able to return to her passion for creating art. Crews joins @KatiePavlichNN to talk about her progress. @KatiePavlich\n\nMORE: newsnationnow.com/business/t…\n\nVideo",
-      "link": "https://nitter.net/NewsNation/status/2063214389155463478#m",
-      "date": "Sat, 06 Jun 2026 11:00:17 GMT"
+      "text": "True\n\n\nAdam Moczar (@AdamMoczar)\n\n⚡🇬🇧🇺🇸 JD Vance: “Defending your culture isn’t radical. It’s reasonable.”\n\n“To everybody in the UK who rejects that idea, I’d encourage them to just keep on going\n\nIt’s okay to want to defend your culture. It’s okay to want to live in a safe neighborhood. It isn’t radical.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/AdamMoczar/status/2063717223290597615#m",
+      "link": "https://nitter.net/elonmusk/status/2063818400007102774#m",
+      "date": "Mon, 08 Jun 2026 03:00:25 GMT"
     },
     {
-      "text": "Helpful tool for improvement. It’s just physics thinking in the limit.\n\n\nEric Jorgenson 📚 ☀️ (@EricJorgenson)\n\nEveryone can use @elonmusk's \"Magic Wand Number\" and \"Idiot Index\"\n\nThey're universal ideas, helpful in any industry.\n\n\n\n\n\n— https://nitter.net/EricJorgenson/status/2063288350329438570#m",
-      "link": "https://nitter.net/elonmusk/status/2063401522327666828#m",
-      "date": "Sat, 06 Jun 2026 23:23:53 GMT"
+      "text": "Charlie Kirk in September 2020:",
+      "link": "https://nitter.net/EndWokeness/status/2063802518107312203#m",
+      "date": "Mon, 08 Jun 2026 01:57:18 GMT"
     },
     {
-      "text": "Time for change in Germany\n\n\nInevitable West (@Inevitablewest)\n\n🚨WOW. The AfD party have experienced an unprecedented SURGE in the polls this month and are now 6pts ahead!\n\nGermans want Remigration… 🇩🇪\n\n\n\n\n\n— https://nitter.net/Inevitablewest/status/2063365506342572496#m",
-      "link": "https://nitter.net/elonmusk/status/2063388801330721156#m",
-      "date": "Sat, 06 Jun 2026 22:33:20 GMT"
+      "text": "🤔\n\n\nCorbin Williams (@corbinwilliams)\n\nHow did a blue city only increase votes for Nithya by mail, without increasing votes for Karen Bass? This is fraud.\n\n\n\n\n\n— https://nitter.net/corbinwilliams/status/2063784379760210003#m",
+      "link": "https://nitter.net/elonmusk/status/2063796964878119012#m",
+      "date": "Mon, 08 Jun 2026 01:35:14 GMT"
     },
     {
-      "text": "🚨BREAKING: Miguel Bosé, the biggest Spanish-language pop star of the last few decades, has just released a video taking a knee and putting his hand over his heart in honour of Henry Nowak\n\nThis has now spread like a wildfire. Europe has never been more UNITED! 🇪🇸🇬🇧\n\nVideo",
-      "link": "https://nitter.net/Inevitablewest/status/2063376366775501143#m",
-      "date": "Sat, 06 Jun 2026 21:43:56 GMT"
+      "text": "Maybe largest in this sector of the galaxy\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2063743599401906637#m",
+      "date": "Sun, 07 Jun 2026 22:03:11 GMT"
     },
     {
-      "text": "This is the only way to save democracy in America\n\n\nMike Lee (@BasedMikeLee)\n\nThe SAVE America Act is controversial only among Democrats in Congress \n\nEverywhere else it’s common sense \n\nSenate Republicans should focus on nothing else until it becomes law\n\n\n\n— https://nitter.net/BasedMikeLee/status/2063386653096362350#m",
-      "link": "https://nitter.net/elonmusk/status/2063387114813767815#m",
-      "date": "Sat, 06 Jun 2026 22:26:38 GMT"
+      "text": "“Socialism needs propaganda because reality always ends up contradicting it.”\n\n\nEstado Mínimo (@xestadominimo)\n\n“El socialismo necesita propaganda porque la realidad siempre termina contradiciéndolo”.\n\n- Aleksandr Solzhenitsyn -\n\n\n\n\n\n— https://nitter.net/xestadominimo/status/2063698861563007406#m",
+      "link": "https://nitter.net/TheAliceSmith/status/2063722531853394342#m",
+      "date": "Sun, 07 Jun 2026 20:39:28 GMT"
     },
     {
-      "text": "Such injustice!\n\n\nAlice Smith (@TheAliceSmith)\n\nWe’ve moved very quickly from “two-tier policing doesn’t exist” to “two-tier policing does exist and it’s a good thing”.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2063283242522832935#m",
-      "link": "https://nitter.net/elonmusk/status/2063385633725284682#m",
-      "date": "Sat, 06 Jun 2026 22:20:45 GMT"
+      "text": "💯\n\n\nNot the Bee (@Not_the_Bee)\n\nWhen statistically impossible things happen, we should not be expected as a society to accept them. Evidence of fraud isn’t limited to video surveillance. Statistical impossibilities are hard evidence of fraud.\n\n\n\n— https://nitter.net/Not_the_Bee/status/2063684080877666776#m",
+      "link": "https://nitter.net/elonmusk/status/2063741293834985766#m",
+      "date": "Sun, 07 Jun 2026 21:54:01 GMT"
     },
     {
-      "text": "Join Tesla if you want to solve real-world AI\n\n\nTesla AI (@Tesla_AI)\n\nReal-world AI is about solving for the edge case, not the average case\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla_AI/status/2063383718946075131#m",
-      "link": "https://nitter.net/elonmusk/status/2063384141182144700#m",
-      "date": "Sat, 06 Jun 2026 22:14:49 GMT"
+      "text": "More of these types of stories should be written about SpaceX’s IPO.\n\nThousands of folks who would traditionally not had access to ownership in a company are about to have an awesome outcome.\n\nI had the good fortune to be able to a few hundred welders and technicians. Most will make 6 and 7 figures.\n\nCapitalism is awesome 🚀\n\n\nThe Wall Street Journal (@WSJ)\n\nCurrent and former SpaceX employees are poised to hit it big when the rocket-and-satellite maker goes public next week. on.wsj.com/3Q3wGvu\n\n\n\n\n\n— https://nitter.net/WSJ/status/2063604999075049640#m",
+      "link": "https://nitter.net/JLopas/status/2063635135744946422#m",
+      "date": "Sun, 07 Jun 2026 14:52:11 GMT"
     },
     {
-      "text": "High-speed internet for seamless live streaming from even the most remote locations 🛰️❤️\n\n\nGivesAMinute (@GivesAMinute)\n\nYesterday I did a 10 hour IRL camping stream from remote Australia, all made possible by @Starlink Mini! Now I'm getting ready to go again! Thank you @elonmusk for this incredible tech.\n\n\n\n\n\n— https://nitter.net/GivesAMinute/status/2060542017504206916#m",
-      "link": "https://nitter.net/Starlink/status/2063375174528066027#m",
-      "date": "Sat, 06 Jun 2026 21:39:11 GMT"
+      "text": "Indeed. It’s not that good ideas aren’t important, they’re just overrated relative to implementation. \n\nThe IDEA of going to the Moon is EASY, but GOING to the Moon is HARD.",
+      "link": "https://nitter.net/elonmusk/status/2063740767307247954#m",
+      "date": "Sun, 07 Jun 2026 21:51:56 GMT"
     },
     {
-      "text": "The product is the mission.",
-      "link": "https://nitter.net/naval/status/2063292550388298025#m",
-      "date": "Sat, 06 Jun 2026 16:10:52 GMT"
+      "text": "A woke word you need to learn:\n\n“malinformation”\n\nInformation that is factually correct but politically damaging.\n\nIt perfectly sums up where we’re at.",
+      "link": "https://nitter.net/TheAliceSmith/status/2063575806253711831#m",
+      "date": "Sun, 07 Jun 2026 10:56:26 GMT"
     },
     {
-      "text": "Starlink launches now substantially outnumber all other satellite launch sources.",
-      "link": "https://nitter.net/cremieuxrecueil/status/2063309145906766030#m",
-      "date": "Sat, 06 Jun 2026 17:16:49 GMT"
+      "text": "California Is Blocking a Federal Audit of Its Voter Rolls\n\nCalifornia allows first-time voters to register using forms of ID that most Americans would find surprising, including:\n\n-Gym membership card\n-Employer ID card\n-Credit or debit card\n-Prescription drug label\n-Insurance card (California provides free health coverage to undocumented immigrants)\n\nFull list: sos.ca.gov/elections/hava-id…\n\nThis is permitted when a voter fails to provide a Social Security number or driver’s license at registration. Our office believes this policy deserves a closer look.\n\nWe also have serious concerns about how California maintains its voter rolls. There are open questions about whether the state is promptly removing deceased voters, people who have moved, and individuals convicted of disqualifying felonies.\n\nOn top of that, California allows third parties to collect and turn in ballots on voters’ behalf (a practice known as ballot harvesting) with few restrictions. This makes it difficult to track who actually received, completed, and submitted each ballot.\n\nFor over a year, the Department of Justice has been trying to audit California’s voter rolls. Federal law gives the Attorney General the authority to review state voter files and confirm that only eligible U.S. citizens are voting in federal elections.\n\n@AAGDhillon sent California a letter explaining our legal authority. California refused to comply, claiming state privacy laws block the review, an argument that does not hold up because those laws don’t apply to the federal government in this context. We’ve sued California in federal court, and the case is before the Ninth Circuit Court of Appeals.\n\nIf California genuinely wants voters to trust its elections, it should open its records, not fight to keep them closed.\n\nWhat are they afraid of?",
+      "link": "https://nitter.net/USAttyEssayli/status/2063664190473351169#m",
+      "date": "Sun, 07 Jun 2026 16:47:38 GMT"
     },
     {
-      "text": "I organized an intervention to stop Elon from starting SpaceX. Here is the story...\n\nTwenty five years ago, Elon and I sat in a car on a dark stretch of Long Island highway, two neurodiverse geeks staring at the night sky and wondering what came next. We had both experienced substantial exits and felt the weight of possibility ahead of us.\n\nWhen I joked about 'space' while gazing upward, neither of us imagined we were planting the seed for what would become the largest IPO in history. We spent the next two hours debating why space was so hard. In the end, rockets are fuel and metal. We also debated where to go, and it was crystal clear that Mars was the only real destination.\n\nUpon returning to NYC, we embarked on a global tour of space, meeting space agencies and luminaries worldwide. This opened our eyes to an industry stuck in bureaucratic thinking. If things continued at that pace, it was clear that we would never explore space in our lifetime.\n\nSo, we launched Life to Mars to show the world that two ambitious young men (29 and 30 years old), could send life to Mars without any government backing or support. We planned to send and grow plants on Mars, though some were pushing us to send mice.\n\nWe had a $50 MM budget that rested on our purchase of two Russian ICBMs for $7 MM each. We assumed one ICBM would fail, and we would learn and fix everything before launching again. When Elon went back to actually buy the ICBMs, the Russians tripled the price, bringing out launch costs from a total of $14 MM to $42 MM.\n\nOur ambitious Life to Mars plan was no longer viable.\n\nAs you might imagine, Elon was not pleased. So, he decided to start SpaceX and create his own Mars rockets. Now, this is a crazy idea, both now and at the time, so I organized a large panel of top space experts, and we ambushed him at the Georgian Hotel one morning. It was set up like an intervention for an alcoholic, but for space.\n\nElon looked me in the eye when leaving the room and said, \"I am going to do this.\" The intervention failed. Elon was committed. The rest is history.\n\nI am excited to see this IPO after 25 years of hard work. What SpaceX has done is a testament to human will and overcoming insurmountable obstacles. It's nothing short of amazing.\n\nCongratulations, E. Amazing.",
-      "link": "https://nitter.net/adeoressi/status/2063327234929447277#m",
-      "date": "Sat, 06 Jun 2026 18:28:42 GMT"
+      "text": "It takes a conspiracy theorist \n\nTo believe California’s election is secure",
+      "link": "https://nitter.net/shaunmmaguire/status/2063678897343132091#m",
+      "date": "Sun, 07 Jun 2026 17:46:05 GMT"
     },
     {
-      "text": "But if you don’t easily release criminals how would anyone ever get Bingo?",
-      "link": "https://nitter.net/AnthonyGalli/status/2063307976958714286#m",
-      "date": "Sat, 06 Jun 2026 17:12:10 GMT"
+      "text": "Falcon 9 launches 21 @Starlink satellites and two Starshield satellites from California",
+      "link": "https://nitter.net/SpaceX/status/2063502527358816513#m",
+      "date": "Sun, 07 Jun 2026 06:05:15 GMT"
     },
     {
-      "text": "Humanity is disappearing 😔  wsj.com/health/wellness/us-f…",
-      "link": "https://nitter.net/elonmusk/status/2063333492449009867#m",
-      "date": "Sat, 06 Jun 2026 18:53:34 GMT"
+      "text": "Wow! This is beautiful and impressive. @TeslaClubAT 🇦🇹🥰🥰\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nTesla Takeover Europe send off was a nice touch 🖤\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaownersSV/status/2063558871139148086#m",
+      "link": "https://nitter.net/mayemusk/status/2063600589049651350#m",
+      "date": "Sun, 07 Jun 2026 12:34:54 GMT"
     },
     {
-      "text": "Starlink enables high-speed connectivity for field manufacturing teams 🛰️❤️\n\n\nColin Gilchrist (@PhillipsColinG)\n\nYup! They go great on the roof for Expeditionary Manufacturing!\n\n\n\n\n\n— https://nitter.net/PhillipsColinG/status/2060511824718487561#m",
-      "link": "https://nitter.net/Starlink/status/2063276749199454635#m",
-      "date": "Sat, 06 Jun 2026 15:08:05 GMT"
+      "text": "It is so wild that the Yookay government is simultaneously trying to lower the voting age to 16, and ban the Internet until age 16.\n\n\nSteven Swinford (@Steven_Swinford)\n\nThe Times's weekend read:\n\n* The Labour leadership contest has already begun. In No 10 Starmer is fighting for his political life, putting huge pressure on teh system to bolster his Premiership in face of existential threat posed by Andy Burnham\n\n* Expect a frenzy of activity in coming weeks - the defence investment plan, social media restrictions for under 16s, the Brexit reset. Announcements bogged down in months of bitter internal rows will finally come into public view\n\n* All the announcements are coming before or shortly after June 18th, the date of the Makerfield by-election. Starmer is trying to send a message to Labour MPs that he can deliver\n\n* He isn't the only one. Burnham has began issuing his own national leadership pledges - starting with a £300million cut in business rates for pubs and small businesses\n\n* His press release directly attacked Starmer and Reeves, accusing the government of 'undervaluing' their importance to local communities. This is a *Labour* candidate directly criticising a *Labour* government\n\n* The lines between the Labour Party and Burnham's campaign are increasingly blurred. Team Burnham now has a lot of the party machinery on his side - press officers, officials etc - and also has most of the cabinet out knocking doors in Makerfield. Power is already moving\n\n* Starmer thinks he can fight Burnham, but his allies are unconvinced. One said that he thinks Burnham has behaved 'appallingly'. 'His view is why should he make it easy for him?'\n\n* But there is an acknowledgement that Starmer is on borrowed time. That it is a case of when, not if he goes\n\n* There are divides in Team Burnham over when he should amke a move if he wins Makerfield. The 'go-now' camp say he must seize the opportunity or it could slip through his hands, using the momentum of the by-election to act decisively\n\n* But others think this could be disastrous - that he needs time to build up a proper plan for government and No 10. That if he doesn't he risks repeating Starmer's mistakes all over again\n\n* Then there's what's being billed as the 'battle for the soul of Burnham'. There are those on the left - Louise Haigh, Miatta Fahbulleh and others - who favour a radical break from Starmer. Then there are the centrists - Josh Simons, Jim O'Neill - are are said to be emphasising the importance of fiscal credibility. It is potentially a v unwieldy coalition\n\nthetimes.com/uk/politics/art…\n\n\n\n\n— https://nitter.net/Steven_Swinford/status/2063183337330516384#m",
+      "link": "https://nitter.net/pmarca/status/2063402375046660177#m",
+      "date": "Sat, 06 Jun 2026 23:27:17 GMT"
     },
     {
-      "text": "India’s birth rate has fallen below replacement. \n\nAmong those most educated, India’s birth rate fell below replacement many years ago.\n\n\nAF Post (@AFpost)\n\nIndia’s fertility rate has fallen below replacement for the first time in the country’s history, declining from a TFR of 2.3 to 1.9 in just a decade. \n\nDelhi’s fertility rate now sits at 1.2, lower than Finland’s.\n\nFollow: @AFpost\n\n\n\n\n\n\n\n— https://nitter.net/AFpost/status/2063209643212517781#m",
-      "link": "https://nitter.net/elonmusk/status/2063296176246427655#m",
-      "date": "Sat, 06 Jun 2026 16:25:17 GMT"
+      "text": "Elon Musk: \"I just think that a usefulness optimization is really a good thing.  If you've done something that's useful to your fellow human beings, you've done a really good thing.\"\n\nVideo",
+      "link": "https://nitter.net/DefiantLs/status/2063406665039581645#m",
+      "date": "Sat, 06 Jun 2026 23:44:19 GMT"
     },
     {
-      "text": "SpaceX was less than 10 people back then. We didn’t even have office furniture.\n\n\nDogeDesigner (@cb_doge)\n\nSpaceX started with a mariachi band party in 2002.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2063228406289117662#m",
-      "link": "https://nitter.net/elonmusk/status/2063270313933091097#m",
-      "date": "Sat, 06 Jun 2026 14:42:31 GMT"
+      "text": "Saw some Grok Build feedback about a crash/panic occurring during web_fetch.\n\nThis should be fixed in the latest stable 0.2.32. Thanks for the reports and I’m terribly sorry for any inconvenience🙇‍♂️ \n\nAlso, lmk what you think about /find and definitely check out composer 2.5 if you haven’t gotten the chance yet 👀",
+      "link": "https://nitter.net/aksheyd/status/2063517749666779565#m",
+      "date": "Sun, 07 Jun 2026 07:05:44 GMT"
     },
     {
-      "text": "RT by @elonmusk: Image",
-      "link": "https://nitter.net/Paulrestore/status/2063038311967432741#m",
-      "date": "Fri, 05 Jun 2026 23:20:37 GMT"
+      "text": "Why is it only pushed in the West?\n\n\nRothmus 🏴 (@Rothmus)\n\nMulticulturalism means embracing every other culture over the West’s.\n\nUnder the guise of “inclusion,” it acts as a Trojan horse that delivers the total erasure of Western culture in practice.\n\nEvery person and organization promoting it is an enemy of the West.\n\n\n\n\n\n— https://nitter.net/Rothmus/status/2063376924869546041#m",
+      "link": "https://nitter.net/elonmusk/status/2063609205311803522#m",
+      "date": "Sun, 07 Jun 2026 13:09:09 GMT"
     },
     {
-      "text": "Elon Musk explains the deeper purpose of SpaceX:\n\"The goal of SpaceX is to build the technologies necessary to make life multiplanetary\"\n\nIt’s not the most commercial-sounding mission but when you zoom out through the lens of history, it’s one of the most important things humanity can do\n\nbecoming multiplanetary is about securing our long-term survival and expanding consciousness beyond one planet\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2063242412370341949#m",
-      "date": "Sat, 06 Jun 2026 12:51:38 GMT"
+      "text": "The utter hypocrisy of German media.",
+      "link": "https://nitter.net/MartinSellner_/status/2063537672094728562#m",
+      "date": "Sun, 07 Jun 2026 08:24:54 GMT"
     }
   ]
 }
