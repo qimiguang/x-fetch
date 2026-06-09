@@ -1,8 +1,28 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-06-09T20:12:25Z",
-  "count": 16,
+  "updated_at": "2026-06-09T22:26:34Z",
+  "count": 17,
   "tweets": [
+    {
+      "text": "SpaceX just revealed the AI1 satellite.\n\nThis is not an internet satellite.\n\nThis is a data center in orbit.\n\n~ 70-meter wingspan\n~ 20-meter deployed height\n~ 150 kW solar array\n~ 150 kW peak compute payload\n~ 110 m² deployable liquid radiators to manage heat in space\n\nSpaceX built the rocket. Then the internet. Then the global network. Now the orbital computer.\n\nLaunch provider. Satellite operator. Global internet. Orbital compute.\n\nThat is the progression. And it is not done.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2064469238945816766#m",
+      "date": "Tue, 09 Jun 2026 22:06:37 GMT"
+    },
+    {
+      "text": "The Moon Mass Driver\nAsked what comes after the TeraFab, Elon Musk gave the most surprising answer of the interview.\n\nA mass driver on the Moon.\n\nThe logic:\n\n~ A terawatt is still small. To go three more orders of magnitude requires lunar manufacturing.\n~ Build solar panels, radiators and potentially chips directly on the Moon.\n~ The Moon has no atmosphere and one-sixth Earth's gravity.\n~ That means you can launch AI satellites into deep space using an electromagnetic rail gun. No rocket needed.\n\nThis is essentially a linear electric motor that throws satellites into space at low cost.\n\nThe Mars mission is already underway.\n\nThe Moon is the staging ground for everything that comes after.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2064465247788822963#m",
+      "date": "Tue, 09 Jun 2026 21:50:45 GMT"
+    },
+    {
+      "text": "Astronomical clock in Prague\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2064460370916380895#m",
+      "date": "Tue, 09 Jun 2026 21:31:22 GMT"
+    },
+    {
+      "text": "The TeraFab Scale\nTo reach a terawatt of AI compute output per year, SpaceX needs a chip factory at a scale that does not exist.\n\nThat is the TeraFab.\n\nElon Musk on the size:\n\n~ 100 million square feet of factory floor\n~ 10x larger than the entire Tesla Gigafactory Texas\n~ Designed to produce one billion full-reticle chip equivalents per year\n~ Each chip producing roughly one kilowatt of compute\n\nFor context, current global AI chip manufacturing tops out at around 100 gigawatts per year of total compute.\n\nThe TeraFab is built for 1000 gigawatts.\n\nThat is 10 times the current global capacity, from a single facility.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2064457561634488467#m",
+      "date": "Tue, 09 Jun 2026 21:20:13 GMT"
+    },
     {
       "text": "Giga Berlin never disappoints. Each tour I’m impressed with the continued innovation and rigor. \n\nThank you Tesla for hosting us and Sandy Munro. @gigafactories @lifeatGFBB",
       "link": "https://nitter.net/teslaownersSV/status/2064436761107804398#m",
@@ -67,21 +87,6 @@
       "text": "Elon - when I’m a trillionaire name the movie ‘Dogecoin trillionaire , the movie‘ 🍿 \n\nSomeone took it literally and put it on billboards 😂",
       "link": "https://nitter.net/teslaownersSV/status/2064336070636921304#m",
       "date": "Tue, 09 Jun 2026 13:17:27 GMT"
-    },
-    {
-      "text": "At Giga Berlin 👀\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2064286583121956990#m",
-      "date": "Tue, 09 Jun 2026 10:00:48 GMT"
-    },
-    {
-      "text": "FSD Supervised is 3.5x safer than humans on Dutch roads! \n\nOver 3.5x fewer collisions overall (3.4x safer on highways: 0 collisions in 16.6M km vs. 33 in manual; \n\n1.6x safer on non-highways: 3 collisions in 7.0M km vs. 109 in manual). \nPlus: 14.9x fewer AEB events, 8.8x less harsh acceleration, 7.3x less harsh braking, and 8.0x fewer hard swerves. \n\nTesla’s AI is dramatically outperforming human drivers. \nData from Apr 10–Jun 5, 2026.",
-      "link": "https://nitter.net/teslaownersSV/status/2064246703780245537#m",
-      "date": "Tue, 09 Jun 2026 07:22:20 GMT"
-    },
-    {
-      "text": "Nio Battery Swap Station in Germany.\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2064244359868895254#m",
-      "date": "Tue, 09 Jun 2026 07:13:01 GMT"
     }
   ]
 }
