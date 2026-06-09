@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-08T22:42:07Z",
+  "updated_at": "2026-06-09T04:01:16Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.20 is now rolling out to ~3,520 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2060779084007755814#m",
+      "link": "https://nitter.net/teslascope/status/2064117836990042283#m",
+      "date": "Mon, 08 Jun 2026 22:50:16 GMT"
+    },
     {
       "text": "Cybercab now in Seattle, Washington!\n\n\n\n\nJacob Probstfield (@J_Probstfield)\n\n🚨 BREAKING: @Tesla Cybercab spotted in Seattle area — one of the first on WA highways!\n\nGolden @robotaxi was seen driving on I-5, then over the floating 520 bridge and continued east, while I went north onto I-405. \n\nThe autonomous future is already driving WA highways!\n@SawyerMerritt @wholemars @Kristennetten @DavidMoss @herbertong\n\nVideo\n  \n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/J_Probstfield/status/2064036839229718700#m",
       "link": "https://nitter.net/DriveTeslaca/status/2064066202385944703#m",
@@ -97,11 +102,6 @@
       "text": "We've seen posts circulating about V14 Lite being available or released to some HW3 vehicles.\n\nAs far as we have determined, these posts are entirely fabricated, and we can confirm that no such update has been released to customer vehicles.\n\nV14 Lite is still expected this month.",
       "link": "https://nitter.net/teslascope/status/2062437752969511009#m",
       "date": "Thu, 04 Jun 2026 07:34:13 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Dashcam Clip Encryption\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2062316057461678106#m",
-      "date": "Wed, 03 Jun 2026 23:30:38 GMT"
     }
   ]
 }
