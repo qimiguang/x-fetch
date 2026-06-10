@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-09T22:26:32Z",
+  "updated_at": "2026-06-10T04:12:43Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Personal vehicle notifications from @vehiclescope\n🤝\nNew rollout notifications from @teslascope\n\n\nYouTubeKeN (@ytkken)\n\nLoving my Teslascope iOS app @vehiclescope\n\n\n\n\n\n— https://nitter.net/ytkken/status/2064456530972541152#m",
+      "link": "https://nitter.net/teslascope/status/2064528875733033435#m",
+      "date": "Wed, 10 Jun 2026 02:03:35 GMT"
+    },
     {
       "text": "Tesla software update 2026.14.6.7 is now rolling out to ~2,970 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
       "link": "https://nitter.net/teslascope/status/2064451265052991895#m",
@@ -96,11 +101,6 @@
     {
       "text": "Data that is streamed can be manipulated on a rooted/jailbroken vehicle; as such, our platform makes a call to Tesla's official servers to retrieve both staged and installed release notes.\n\nThese release notes cannot be tampered with and are the ultimate source of truth.",
       "link": "https://nitter.net/teslascope/status/2062437755897229599#m",
-      "date": "Thu, 04 Jun 2026 07:34:13 GMT"
-    },
-    {
-      "text": "Screenshots (and even recordings) of the official Tesla mobile app can not be trusted, as payloads can be intercepted and modified using various MITM tools.\n\nThe only way to truly verify whether updates are legitimate is to connect a vehicle to a platform like ours.",
-      "link": "https://nitter.net/teslascope/status/2062437754588606845#m",
       "date": "Thu, 04 Jun 2026 07:34:13 GMT"
     }
   ]

@@ -1,8 +1,18 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-09T22:26:51Z",
+  "updated_at": "2026-06-10T04:13:05Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "Hopefully, this post will clear up some confusion for people who don’t know the difference.",
+      "link": "https://nitter.net/raines1220/status/2064556437620351289#m",
+      "date": "Wed, 10 Jun 2026 03:53:06 GMT"
+    },
+    {
+      "text": "I noticed that many people do not really understand the difference between Mythos and Fable. They assume Mythos is publicly available today, but that is not true. The model available to the public is Fable, which comes with ridiculous \"safeguards\" and is so restricted that you basically cannot do anything with it.",
+      "link": "https://nitter.net/raines1220/status/2064555315404964236#m",
+      "date": "Wed, 10 Jun 2026 03:48:39 GMT"
+    },
     {
       "text": "Since I joined🤓",
       "link": "https://nitter.net/raines1220/status/2061909727580409942#m",
@@ -82,16 +92,6 @@
       "text": "What are the missing pieces for FSD? I think there are two of them: 1) a nice interface for a human to tell the vehicle their preferences (e.g., preferred parking spot), and 2) a really smart brain (e.g., reading text on signs). Do we need spatial measurements from LiDAR? Nope, it is a solved problem, I’m sorry. nitter.net/crispy2d/status/205130…\n\nVideo",
       "link": "https://nitter.net/raines1220/status/2051774071806021887#m",
       "date": "Tue, 05 May 2026 21:20:33 GMT"
-    },
-    {
-      "text": "First impression: FSD 14.3.2 is overall a more capable driver. It changes lanes more assertively, turns on signals at the perfect moment to prevent ambiguity, handles narrow spaces more accurately, and reacts to all potential hazards instantly at an earlier stage. I can easily tell that it drives safer than me, and I would feel safe even if you put me in the back seat.\n\nThere is only one complaint: the P-icon parking spot prediction sucks. It overrides my previous manual pin and it is wrong. And it continuously predicts awful parking locations for different destinations.",
-      "link": "https://nitter.net/raines1220/status/2050692872752738338#m",
-      "date": "Sat, 02 May 2026 21:44:15 GMT"
-    },
-    {
-      "text": "杆肢融合\n\n\nRaines (@raines1220)\n\n“Bring your crutch to the Olympics. Three legs are better than two, so you’ll run faster. It’s called leg fusion.\n\n\n\n— https://nitter.net/raines1220/status/2049949971206815815#m",
-      "link": "https://nitter.net/raines1220/status/2049956637591622038#m",
-      "date": "Thu, 30 Apr 2026 20:58:43 GMT"
     }
   ]
 }
