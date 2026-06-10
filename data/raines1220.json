@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-10T04:13:05Z",
+  "updated_at": "2026-06-10T10:12:11Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "AGI",
+      "link": "https://nitter.net/raines1220/status/2064635504864473530#m",
+      "date": "Wed, 10 Jun 2026 09:07:18 GMT"
+    },
     {
       "text": "Hopefully, this post will clear up some confusion for people who don’t know the difference.",
       "link": "https://nitter.net/raines1220/status/2064556437620351289#m",
@@ -87,11 +92,6 @@
       "text": "Tesla shareholders funded the robotaxi vision through the hard part.\n\nThe missed timelines, ridicule, drawdowns, and the “FSD is impossible” years.\n\nSo if Tesla ever gets folded into SpaceX, the question isn’t “would that be cool?”\n\nIt’s: who gets paid for the robotaxi value?\n\nBradford breaks it down here.👇\n\nVideo",
       "link": "https://nitter.net/Rebellionaire/status/2052048240808222768#m",
       "date": "Wed, 06 May 2026 15:30:00 GMT"
-    },
-    {
-      "text": "What are the missing pieces for FSD? I think there are two of them: 1) a nice interface for a human to tell the vehicle their preferences (e.g., preferred parking spot), and 2) a really smart brain (e.g., reading text on signs). Do we need spatial measurements from LiDAR? Nope, it is a solved problem, I’m sorry. nitter.net/crispy2d/status/205130…\n\nVideo",
-      "link": "https://nitter.net/raines1220/status/2051774071806021887#m",
-      "date": "Tue, 05 May 2026 21:20:33 GMT"
     }
   ]
 }
