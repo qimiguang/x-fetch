@@ -1,8 +1,28 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-11T20:27:32Z",
+  "updated_at": "2026-06-11T22:51:32Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2065192249919447183#m",
+      "date": "Thu, 11 Jun 2026 21:59:36 GMT"
+    },
+    {
+      "text": "A new feature has been detected: FSD (Supervised) v14.3.4\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2065192237588168738#m",
+      "date": "Thu, 11 Jun 2026 21:59:33 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Actually Smart Summon\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2065192227169583107#m",
+      "date": "Thu, 11 Jun 2026 21:59:31 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.14.6.10 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2065192143988158792#m",
+      "date": "Thu, 11 Jun 2026 21:59:11 GMT"
+    },
     {
       "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2064856269731553745#m",
@@ -82,26 +102,6 @@
       "text": "So how is everyone feeling about our rollout detection posts now that it’s been a couple of weeks?\n\nShould they be a reply to the original update post instead?\n\nChecking in and would like everyone’s thoughts so we can continue to improve.\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.7 is now rolling out to ~8,030 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\n\n— https://nitter.net/teslascope/status/2063199328517177384#m",
       "link": "https://nitter.net/teslascope/status/2063214215192842250#m",
       "date": "Sat, 06 Jun 2026 10:59:36 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.7 is now rolling out to ~8,030 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
-      "link": "https://nitter.net/teslascope/status/2063199328517177384#m",
-      "date": "Sat, 06 Jun 2026 10:00:26 GMT"
-    },
-    {
-      "text": "The official launch will be later this month, however we're still accepting requests via DM or email to help@vehiclescope.com! Please be sure to specify your TestFlight email to streamline the process.\n\nAll requests sent within the last week will be accepted over the weekend.",
-      "link": "https://nitter.net/teslascope/status/2063100857068188124#m",
-      "date": "Sat, 06 Jun 2026 03:29:09 GMT"
-    },
-    {
-      "text": "Our iOS app will alert you of an available software update before your vehicle displays it and long before the official Tesla app alerts you of it.\n\nFor free, forever. No subscription required ever. :)\n\n\n📸♑️ ✨🛡️ (@JoeFromBRipple)\n\nWOW! LOVE YOUR APP👍 it notified me before the Tesla app actually notified me that there was an update ready\n\n  \n\n\n\n\n— https://nitter.net/JoeFromBRipple/status/2063093606068437144#m",
-      "link": "https://nitter.net/teslascope/status/2063100854715167107#m",
-      "date": "Sat, 06 Jun 2026 03:29:08 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.7 is now rolling out to ~5,390 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.7 on Model S Plaid (2024) in Minnesota, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2062007484450038028#m",
-      "link": "https://nitter.net/teslascope/status/2063074857688904026#m",
-      "date": "Sat, 06 Jun 2026 01:45:50 GMT"
     }
   ]
 }
