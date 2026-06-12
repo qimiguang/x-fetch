@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-12T04:38:28Z",
+  "updated_at": "2026-06-12T10:22:19Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "I got one share of SpaceX.",
+      "link": "https://nitter.net/raines1220/status/2065335262650278150#m",
+      "date": "Fri, 12 Jun 2026 07:27:53 GMT"
+    },
     {
       "text": "AGI",
       "link": "https://nitter.net/raines1220/status/2064635504864473530#m",
@@ -87,11 +92,6 @@
       "text": "61.1% of Robotaxi rides in Austin over the past 7 days were unsupervised. The 30-day rate is 37.2%, and the 90-day rate is 17.9%. It is pretty clear that Austin Robotaxi will soon be fully unsupervised.\n\nWhen the next NHTSA crash report is released, I strongly suspect it will, for the first time, show “safer-than-human” statistics. It may not reach the level (5x–10x?) where you can confidently deploy unsupervised Robotaxi anywhere without a geofence, but it may be enough to show that it is slightly safer (~1.5x–3x) than human driving.\n\nIf that is true, you know what that means? Since the model is unified across Robotaxi, FSD, and Summon, it is reasonable to assume that our “supervised FSD” has equivalent safety. That means even if we sit in the back seat, our car would still drive more safely than the average human.",
       "link": "https://nitter.net/raines1220/status/2053039575560548695#m",
       "date": "Sat, 09 May 2026 09:09:13 GMT"
-    },
-    {
-      "text": "Tesla shareholders funded the robotaxi vision through the hard part.\n\nThe missed timelines, ridicule, drawdowns, and the “FSD is impossible” years.\n\nSo if Tesla ever gets folded into SpaceX, the question isn’t “would that be cool?”\n\nIt’s: who gets paid for the robotaxi value?\n\nBradford breaks it down here.👇\n\nVideo",
-      "link": "https://nitter.net/Rebellionaire/status/2052048240808222768#m",
-      "date": "Wed, 06 May 2026 15:30:00 GMT"
     }
   ]
 }
