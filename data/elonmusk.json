@@ -1,107 +1,102 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-12T10:21:54Z",
-  "count": 20,
+  "updated_at": "2026-06-12T20:16:50Z",
+  "count": 19,
   "tweets": [
     {
-      "text": "Grok Build just got a major update with a ton of new features and improvements\n\nRelease Notes: v0.2.51\n\nBreaking Changes:\n• grok mcp add now accepts positional arguments (e.g. grok mcp add filesystem -- npx ...), supports --scope project, and adds -e/-H flags for env/headers.\n\nFeatures:\n• Mermaid flowcharts now render subgraph blocks as titled frames with correct internal and cross-boundary edges.\n• Class diagrams in Mermaid now render as proper UML boxes with attributes, methods and inheritance arrows instead of raw source.\n• Permission prompts now accept a double-click on an option to submit it, matching the existing Enter and number-key shortcuts.\n• New /code-review slash command now ships with the CLI and is always available\n\nBug Fixes:\n• Plan mode exit reminders no longer appear after the model has already started implementing the plan.\n• Expanded thinking blocks in scrollback now remain expanded when the agent finishes them.\n• grok update no longer downloads the same binary twice when multiple updaters or leader checks run concurrently.\n• Background task IDs after /compact are now shown verbatim so the model can reference them correctly in later tool calls.\n• Typing / while scrollback is focused now focuses the prompt and opens the slash-command dropdown.\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got another update with improvements on reliability, stability, and developer experience\n\nRelease Notes: v0.2.45\n\nFeatures:\n• Mermaid diagrams now render to images when you click Open in a code block (enabled by default)\n\nBug Fixes:\n• Fixed rare conversation corruption when skills changed while a tool call was still running\n• Fixed grok --resume failing on empty image-only session folders left by cross-directory pastes\n• Fixed pasted images and relative paths using the wrong directory after resuming a session from another folder\n• Welcome screen logo no longer renders as invalid characters on legacy Windows command prompts and PowerShell\n• Fixed \"unknown session id\" errors that occurred after the leader process crashed or was killed\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2064819487837401199#m",
-      "link": "https://nitter.net/XFreeze/status/2065327439476375760#m",
-      "date": "Fri, 12 Jun 2026 06:56:48 GMT"
+      "text": "Today is a good day",
+      "link": "https://nitter.net/Nate_Esparza/status/2065460863985938491#m",
+      "date": "Fri, 12 Jun 2026 15:46:59 GMT"
     },
     {
-      "text": "Good interview  https://nitter.net/t.co/IoiIJPLnXG\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2065317926668833238#m",
-      "date": "Fri, 12 Jun 2026 06:19:00 GMT"
+      "text": "I love the incredible people of SpaceX beyond words",
+      "link": "https://nitter.net/elonmusk/status/2065485963120328945#m",
+      "date": "Fri, 12 Jun 2026 17:26:43 GMT"
     },
     {
-      "text": "SpaceX IPO will create 4,400 new Millionaires, from engineers to Cafeteria workers.\n\nGod bless Capitalism\n\n\n\n\nPolymarket (@Polymarket)\n\nJUST IN: SpaceX IPO reportedly expected to mint 4,000 new millionaires — “from engineers to cafeteria workers”\n\n\n\n— https://nitter.net/Polymarket/status/2064547489487700178#m",
-      "link": "https://nitter.net/skscartoon/status/2065206932135428143#m",
-      "date": "Thu, 11 Jun 2026 22:57:56 GMT"
+      "text": "A man working as a welder at SpaceX for $28 an hour has just become a millionaire.\n\nJuan Hernandez, who came from Mexico, welded rockets for SpaceX at $28 an hour. \n\nSpaceX gave him $10,000 in stock when he went full time in 2015, and he bought more with every paycheck for 10 years.\n\n$SPCX is now trading at $167, making his shares worth over $1 million.",
+      "link": "https://nitter.net/BullTheoryio/status/2065474718329933841#m",
+      "date": "Fri, 12 Jun 2026 16:42:02 GMT"
     },
     {
-      "text": "Use the @vercel plugin to deploy to production, spin up sandboxes, or build apps with Shadcn.\n\n\nxAI (@xai)\n\nThe Grok Build Plugin Marketplace is now in beta. \n\nBuild with MongoDB, Vercel, Sentry, Cloudflare, and Chrome DevTools plugins from your terminal.\n\nRead more x.ai/news/grok-plugin-market…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/xai/status/2065099299541893577#m",
-      "link": "https://nitter.net/xai/status/2065143638838157559#m",
-      "date": "Thu, 11 Jun 2026 18:46:26 GMT"
+      "text": "ANTONIO GRACIAS on @SpaceX:  “We have 20,000 people here. They're some of the best engineers in the world. \n\n“And what we're building is the entire stack from, energy to compute, to launch to orbital compute. \n\n“What an investor is buying today, we've been buying for really 20 years — is the ability to help make the future is being part of this extraordinary company.”\n\nVideo",
+      "link": "https://nitter.net/KatieMiller/status/2065465832331735171#m",
+      "date": "Fri, 12 Jun 2026 16:06:43 GMT"
     },
     {
-      "text": "Claude’s analysis of whether it knew this was just a game or not:",
-      "link": "https://nitter.net/elonmusk/status/2065207067204288559#m",
-      "date": "Thu, 11 Jun 2026 22:58:29 GMT"
+      "text": "$SPCX. Now trading on Nasdaq.",
+      "link": "https://nitter.net/Nasdaq/status/2065460961427763579#m",
+      "date": "Fri, 12 Jun 2026 15:47:22 GMT"
     },
     {
-      "text": "Teams are go for launch with a $135 price per share for the SpaceX IPO → spacexipo.com/#priceannounce…",
-      "link": "https://nitter.net/SpaceX/status/2065154746810327356#m",
-      "date": "Thu, 11 Jun 2026 19:30:35 GMT"
+      "text": "🔥😂",
+      "link": "https://nitter.net/elonmusk/status/2065456782550401072#m",
+      "date": "Fri, 12 Jun 2026 15:30:45 GMT"
     },
     {
-      "text": "This is absolutely insane:\n\nThe SpaceX IPO has now drawn more than $70 BILLION worth of retail orders alone.\n\nSpaceX is raising $75 billion, making retail interest ALONE enough to nearly fill the entire sale.\n\nTo put this in perspective, the previous record IPO was Saudi Aramco in 2020 at $29.4 billion.\n\nThis means that retail interest in SpaceX is now 2.4 TIMES larger than the total amount raised in the previous largest IPO in history.\n\nAs a result, SpaceX has announced that 20% of their IPO will be allocated to retail investors, following through on @elonmusk's vision to democratize the record IPO.\n\nNothing even remotely near what SpaceX is about to do has ever happened.\n\nFriday will be a historic day.",
-      "link": "https://nitter.net/KobeissiLetter/status/2065058719323345399#m",
-      "date": "Thu, 11 Jun 2026 13:09:00 GMT"
+      "text": "Go for Launch 🚀",
+      "link": "https://nitter.net/GoldmanSachs/status/2065457326039933168#m",
+      "date": "Fri, 12 Jun 2026 15:32:55 GMT"
     },
     {
-      "text": "Tesla FSD 14.3.4 rolling out now",
-      "link": "https://nitter.net/elonmusk/status/2065202249282768915#m",
-      "date": "Thu, 11 Jun 2026 22:39:20 GMT"
+      "text": "Very inspiring words from Elon Musk today:  \n\n\"I always think about this. There are always problems on earth. There’s always things that we wish to be better, that we want to solve on Earth, and we should solve them.   But there there also has to be things that get you excited about the future — that make you glad to wake up in the morning, because you can’t wait to see what happens next.   \n\nThat’s the future @SpaceX wants to bring to you.\"  \n\nLet’s goooooo🚀\n\nVideo",
+      "link": "https://nitter.net/niccruzpatane/status/2065451688354275395#m",
+      "date": "Fri, 12 Jun 2026 15:10:31 GMT"
     },
     {
-      "text": "Belgium is the 5th European country to approve FSD Supervised\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nFSD Supervised now approved in Belgium 🇧🇪 \n\nRollout will begin soon\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaeurope/status/2065093518276911603#m",
-      "link": "https://nitter.net/Tesla/status/2065125889239904445#m",
-      "date": "Thu, 11 Jun 2026 17:35:54 GMT"
+      "text": "Thank you! 🚀🚀🚀\n\n\nDavid Solomon (@DavidSolomon)\n\nCongratulations to SpaceX on today’s $75B IPO, the largest ever brought to market.\n \nGoldman Sachs is honored to have served as lead left bookrunner on this transaction, but more than that, we are proud of the strong partnership our people have built with the SpaceX team over the long term. I’ve known Elon for more than 15 years, as have several of my colleagues, and it’s been incredible to see his vision come to life and to work with Gwynne, Bret, and the entire team.\n \nWe are excited as SpaceX enters this new chapter of its journey as a public company, and we look forward to supporting their mission of advancing the frontier of human space exploration.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DavidSolomon/status/2065445080542945359#m",
+      "link": "https://nitter.net/elonmusk/status/2065445696287703472#m",
+      "date": "Fri, 12 Jun 2026 14:46:42 GMT"
     },
     {
-      "text": "Come hang out with @Tesla_Optimus at Tesla Diner today\n\nThis special vessel is only available when Optimus is working a shift on our Skypad 👀",
-      "link": "https://nitter.net/tesla_na/status/2065199650983055714#m",
-      "date": "Thu, 11 Jun 2026 22:29:01 GMT"
+      "text": "Another 29 sats to orbit!\n\n\nSpaceX (@SpaceX)\n\nFalcon 9 launches 29 @Starlink satellites from Florida\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2065442941250719896#m",
+      "link": "https://nitter.net/elonmusk/status/2065444236825170191#m",
+      "date": "Fri, 12 Jun 2026 14:40:54 GMT"
     },
     {
-      "text": "Peter’s eternal optimism is cool\n\n\nPeter H. Diamandis, MD (@PeterDiamandis)\n\nPeople ask me how I stay so optimistic. The honest answer: I read the data, not the headlines.\n\n\n\n— https://nitter.net/PeterDiamandis/status/2065184932167651402#m",
-      "link": "https://nitter.net/elonmusk/status/2065200848431464737#m",
-      "date": "Thu, 11 Jun 2026 22:33:46 GMT"
+      "text": ".@elonmusk says he was literally “all in” betting everything he owned on Tesla and SpaceX when his third rocket failed and Peter Thiel stepped in to save SpaceX:\n\n“My buddies from PayPal saved my butt.”\n\n“Peter Thiel’s been a big supporter. He invested in SpaceX at an important time in 2008. Before orbit. After our 3rd failure but before success:”\n\n“Big credit to Peter and @LukeNosek and the other guys at @foundersfund. Basically my buddies from PayPal.”\n\nVideo\n  \n\n\n\n\nDavid Senra (@davidsenra)\n\n.@danawhite says the UFC was almost dead when Spike TV executives pulled him into an alley and made a deal on a napkin:\n\n“At the time it was the last $10 million investment we we're going to make in the UFC.”\n\n“If The Ultimate Fighter didn't work it's over.”\n\n“When we were at the finale, when Stephan Bonnar and Forrest Griffin fought, when the fight was over and everybody in the place was stomping their feet saying, ‘One more round,’ we give them both contracts.”\n\n“I was like ‘I don't give a shit what happens. This is going to end up somewhere.’”\n\n“Spike TV execs took us out in the alley of the arena and we did a deal on a napkin.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/davidsenra/status/2065119226952577449#m",
+      "link": "https://nitter.net/jawwwn_/status/2065124428149662101#m",
+      "date": "Thu, 11 Jun 2026 17:30:06 GMT"
     },
     {
-      "text": "Try it out\n\n\nxAI (@xai)\n\nInstall the @sentry plugin and ask your agent to find and fix errors, analyze stack traces, and triage alerts\n\n\n\n— https://nitter.net/xai/status/2065168019891073260#m",
-      "link": "https://nitter.net/elonmusk/status/2065200677236691399#m",
-      "date": "Thu, 11 Jun 2026 22:33:05 GMT"
+      "text": "“It is certainly hard to believe that a little company (@SpaceX) that started in a warehouse in El Segundo is now going public with the largest IPO ever.” \n@elonmusk\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2065441548121076020#m",
+      "date": "Fri, 12 Jun 2026 14:30:13 GMT"
     },
     {
-      "text": "ELON MUSK:\n“We’re going to have universal high income.\nWe’ll basically just issue money to people.\"\n\n\"AI and robots are going to make so much stuff and provide so many services that they’ll run out of things to do for humans.\"\n\n\"Money will stop being relevant at some point in the future.\"\n\n\"AI won’t use human currency. It will care about power and mass: wattage and tonnage.”\n\nME: \n“So just as you’re becoming a multi-trillionaire, money starts to have less value?”\n\nELON:\n“Yeah, pretty much.”\n\nVideo",
-      "link": "https://nitter.net/PeterDiamandis/status/2065197276117479734#m",
-      "date": "Thu, 11 Jun 2026 22:19:34 GMT"
+      "text": "🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀\n\n\nGoldman Sachs (@GoldmanSachs)\n\nSpaceX is redefining industries on Earth and aiming to create new ones beyond it.\n\nOn June 11, it successfully priced its $75B IPO.\n\nGoldman Sachs is honored to have served as lead left bookrunner.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/GoldmanSachs/status/2065442604393672943#m",
+      "link": "https://nitter.net/elonmusk/status/2065443133165318612#m",
+      "date": "Fri, 12 Jun 2026 14:36:31 GMT"
     },
     {
-      "text": "Starlink will deliver high-speed, reliable internet to @YeswayStores and @allsupsstores across the US, enabling connectivity for point of sale payments and retail operations 🛰️❤️\n\n\nYesway (@YeswayStores)\n\nWe are excited to partner with @Starlink to bring fast, reliable internet to our entire portfolio!\n\nBefore the end of 2026, we plan to deploy Starlink satellite internet connectivity to 400+ Allsup's and Yesway locations as our primary internet provider, reinforcing our commitment to better serving our customers, especially in rural communities.\n\n\n\n\n\n— https://nitter.net/YeswayStores/status/2065171567567306926#m",
-      "link": "https://nitter.net/Starlink/status/2065176238352949567#m",
-      "date": "Thu, 11 Jun 2026 20:55:58 GMT"
+      "text": "https://nitter.net/t.co/OC6l7harKj\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2065440971660181723#m",
+      "date": "Fri, 12 Jun 2026 14:27:56 GMT"
     },
     {
-      "text": "Building with the best @SpaceX @xai @grok  \nDownload Gopuff to try Go. Link in bio.\n\nVideo",
-      "link": "https://nitter.net/gopuff/status/2065146714357473361#m",
-      "date": "Thu, 11 Jun 2026 18:58:39 GMT"
+      "text": "SpaceX is building the infrastructure of the future",
+      "link": "https://nitter.net/SpaceX/status/2065285354505302055#m",
+      "date": "Fri, 12 Jun 2026 04:09:34 GMT"
     },
     {
-      "text": "The Best of TED 2026 IMHO\nCommunity Notes is one of X's greatest advances, a breakthrough in social engineering with a distributed, scalable truth-seeking algorithm.\nMy photo from the front row here (showing a peek into what's to come), and full video: ted.com/talks/keith_coleman_…\n\n\n\n\nJay Baxter (@jaybaxter)\n\nMy interview from TED with @kcoleman and @audreyt just went live!\n\nTons of gold in here:\n-why we stuck with crazy principles like not having an override button\n-how AI and humans collaborate to write better/more notes than either on their own\n-how much impact community notes are making\n-why our algorithm is smarter than regular upvoting/downvoting\n-new ideas for finding common ground on social media\n\nted.com/talks/keith_coleman_…\n\n\n\n\n— https://nitter.net/jaybaxter/status/2064820913347199446#m",
-      "link": "https://nitter.net/FutureJurvetson/status/2065128072320323786#m",
-      "date": "Thu, 11 Jun 2026 17:44:35 GMT"
+      "text": "“It is certainly hard to believe that a little company that started in a warehouse in El Segundo is now going public with the largest IPO ever.” \n\nOnly in America. Congratulations to @elonmusk @SpaceX. This is the American Dream 🇺🇸💪🚀 https://nitter.net/t.co/YFytt6Ajtk\n\nVideo",
+      "link": "https://nitter.net/KTmBoyle/status/2065440385766223883#m",
+      "date": "Fri, 12 Jun 2026 14:25:36 GMT"
     },
     {
-      "text": "- Netherlands\n- Lithuania\n- Estonia\n- Denmark\n- Belgium\n\n\nAshok Elluswamy (@aelluswamy)\n\n- Netherlands\n- Lithuania \n- Estonia\n- Denmark\n\n\n\n— https://nitter.net/aelluswamy/status/2064392082891133011#m",
-      "link": "https://nitter.net/aelluswamy/status/2065125605847577024#m",
-      "date": "Thu, 11 Jun 2026 17:34:47 GMT"
+      "text": "https://nitter.net/t.co/H3jwsgInvf\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2065439967707283892#m",
+      "date": "Fri, 12 Jun 2026 14:23:56 GMT"
     },
     {
-      "text": "Falcon 9 launches 24 @Starlink satellites from California\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2065123011985105024#m",
-      "date": "Thu, 11 Jun 2026 17:24:28 GMT"
+      "text": "🚀 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀\n\n\nMorgan Stanley (@MorganStanley)\n\nToday, @SpaceX (Nasdaq: SPCX) makes its public market debut with a $75Bn offering (pre-greenshoe) at $135 per share, marking the largest IPO in history. \n\nCongratulations to the SpaceX team. We are honored to serve as joint lead bookrunner and sole stabilization agent.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MorganStanley/status/2065426224680239399#m",
+      "link": "https://nitter.net/elonmusk/status/2065439558506869178#m",
+      "date": "Fri, 12 Jun 2026 14:22:19 GMT"
     },
     {
-      "text": "WTF 🤬: UK JUSTICE IS DEAD: Protestors Jailed Longer Than Black Illegal Migrant Rapist!\n\nThree British men spoke out after a black illegal migrant sexually assaulted a 14-year-old girl in Epping — and the courts punished THEM harder than the actual criminal.\n\nThe black Ethiopian asylum seeker, Hadush Gerberslasie Kebatu, got just 12 months. The local men who protested his crimes are jailed longer.\n\nThis is not justice. This is open betrayal. Britain’s two-tier system now protects black foreign criminals while crushing its own people for daring to complain.\nNative Brits are treated as second-class in their own country. This disgusting inversion must end now.\nWake up Britain!\n\nVideo",
-      "link": "https://nitter.net/Aku_700/status/2065038226436333758#m",
-      "date": "Thu, 11 Jun 2026 11:47:34 GMT"
-    },
-    {
-      "text": "Great interview about how @CommunityNotes works!\n\nSuper helpful for truth-seeking.\n\n\nJay Baxter (@jaybaxter)\n\nMy interview from TED with @kcoleman and @audreyt just went live!\n\nTons of gold in here:\n-why we stuck with crazy principles like not having an override button\n-how AI and humans collaborate to write better/more notes than either on their own\n-how much impact community notes are making\n-why our algorithm is smarter than regular upvoting/downvoting\n-new ideas for finding common ground on social media\n\nted.com/talks/keith_coleman_…\n\n\n\n\n— https://nitter.net/jaybaxter/status/2064820913347199446#m",
-      "link": "https://nitter.net/elonmusk/status/2065121260464439497#m",
-      "date": "Thu, 11 Jun 2026 17:17:31 GMT"
+      "text": "CHARLES PAYNE: At some point, everyone should own @SpaceX.  https://nitter.net/t.co/D4w9OTipaN\n\nVideo",
+      "link": "https://nitter.net/KatieMiller/status/2065402547842523585#m",
+      "date": "Fri, 12 Jun 2026 11:55:15 GMT"
     }
   ]
 }
