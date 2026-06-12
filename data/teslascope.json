@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-11T22:51:32Z",
+  "updated_at": "2026-06-12T04:38:09Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.14.200 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
+      "link": "https://nitter.net/teslascope/status/2065269446596305349#m",
+      "date": "Fri, 12 Jun 2026 03:06:21 GMT"
+    },
+    {
+      "text": "It’s rolling out now! 2026.14.6.10 includes Actual Smart Summon for Cybertruck!\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Actually Smart Summon\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2065192227169583107#m",
+      "link": "https://nitter.net/nowteslafy/status/2065197168693235912#m",
+      "date": "Thu, 11 Jun 2026 22:19:09 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.2.3.16 on a Tesla vehicle (2024). View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2065236456679887181#m",
+      "date": "Fri, 12 Jun 2026 00:55:16 GMT"
+    },
     {
       "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2065192249919447183#m",
@@ -87,21 +102,6 @@
       "text": "Our goal of building the best Tesla iOS app continues, and Android is now under early development.\n\nLast night we surpassed 100 testers, and we will double that this week.\n\nOne-third of all features are based on community feedback, and there are no plans to slow down. ⚡\n\n\nVehiclescope (@vehiclescope)\n\nNew in V0.1.1 (now in review):\n \n⚡ Redesigned Drive and Charge Details views, featuring more context and detailed breakdowns of relevant metrics.\n\n📊 No more clutter; charging metrics now have their own dedicated graphs and much easier on the eyes, whether on light or dark mode.\n\n\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2063560519035023776#m",
       "link": "https://nitter.net/teslascope/status/2063707958807269683#m",
       "date": "Sun, 07 Jun 2026 19:41:33 GMT"
-    },
-    {
-      "text": "We heard your feedback.\n\nDrive details have been overhauled to include more useful context and a brand new speed and battery breakdown.\n\nFull Self-Driving utilization will also be displayed for Tesla AI4 vehicles (& HW3 following the V14 Lite update).\n\nComing in V0.1.1 this week!",
-      "link": "https://nitter.net/vehiclescope/status/2063436687083253852#m",
-      "date": "Sun, 07 Jun 2026 01:43:37 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.20 is now rolling out to ~2,860 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2060779084007755814#m",
-      "link": "https://nitter.net/teslascope/status/2063369170587193856#m",
-      "date": "Sat, 06 Jun 2026 21:15:20 GMT"
-    },
-    {
-      "text": "So how is everyone feeling about our rollout detection posts now that it’s been a couple of weeks?\n\nShould they be a reply to the original update post instead?\n\nChecking in and would like everyone’s thoughts so we can continue to improve.\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.14.6.7 is now rolling out to ~8,030 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\n\n— https://nitter.net/teslascope/status/2063199328517177384#m",
-      "link": "https://nitter.net/teslascope/status/2063214215192842250#m",
-      "date": "Sat, 06 Jun 2026 10:59:36 GMT"
     }
   ]
 }
