@@ -1,10 +1,15 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-15T23:05:23Z",
+  "updated_at": "2026-06-16T05:00:13Z",
   "count": 20,
   "tweets": [
     {
-      "text": "Tesla software update 2026.20 is now rolling out to ~2,530 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2060779084007755814#m",
+      "text": "Tesla software update 2026.14.6.11 is now rolling out to ~4,400 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2066364789622702513#m",
+      "link": "https://nitter.net/teslascope/status/2066670922761748567#m",
+      "date": "Mon, 15 Jun 2026 23:55:19 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.20 is now rolling out to ~2,530 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n— https://nitter.net/teslascope/status/2060779084007755814#m",
       "link": "https://nitter.net/teslascope/status/2066626920825925772#m",
       "date": "Mon, 15 Jun 2026 21:00:28 GMT"
     },
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Actually Smart Summon\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2065192227169583107#m",
       "date": "Thu, 11 Jun 2026 21:59:31 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.14.6.10 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2065192143988158792#m",
-      "date": "Thu, 11 Jun 2026 21:59:11 GMT"
     }
   ]
 }
