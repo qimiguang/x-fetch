@@ -1,6 +1,6 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-16T11:21:30Z",
+  "updated_at": "2026-06-16T17:05:04Z",
   "count": 19,
   "tweets": [
     {
@@ -12,16 +12,6 @@
       "text": "This new crash was a Tesla Robotaxi stopped at a solid red left arrow and rear-ended by a pickup truck. Even after including this new crash, Tesla Robotaxi’s latest 3-month rolling all-crash rate is still better than the average U.S. human baseline.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru May 15, 2026\n\nCrashes since the April 15th release:\n\n@Tesla:      +1       (18 total - Austin Only)\n@Waymo: +191   (2009)\n@Zoox:      +6       (139)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2066516006810374380#m",
       "link": "https://nitter.net/raines1220/status/2066527470422212737#m",
       "date": "Mon, 15 Jun 2026 14:25:17 GMT"
-    },
-    {
-      "text": "I noticed that many people do not really understand the difference between Mythos and Fable. They assume Mythos is publicly available today, but that is not true. The model available to the public is Fable, which comes with ridiculous \"safeguards\" and is so restricted that you basically cannot do anything with it.",
-      "link": "https://nitter.net/raines1220/status/2064555315404964236#m",
-      "date": "Wed, 10 Jun 2026 03:48:39 GMT"
-    },
-    {
-      "text": "Hopefully, this post will clear up some confusion for people who don’t know the difference.",
-      "link": "https://nitter.net/raines1220/status/2064556437620351289#m",
-      "date": "Wed, 10 Jun 2026 03:53:06 GMT"
     },
     {
       "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
@@ -37,6 +27,16 @@
       "text": "AGI",
       "link": "https://nitter.net/raines1220/status/2064635504864473530#m",
       "date": "Wed, 10 Jun 2026 09:07:18 GMT"
+    },
+    {
+      "text": "Hopefully, this post will clear up some confusion for people who don’t know the difference.",
+      "link": "https://nitter.net/raines1220/status/2064556437620351289#m",
+      "date": "Wed, 10 Jun 2026 03:53:06 GMT"
+    },
+    {
+      "text": "I noticed that many people do not really understand the difference between Mythos and Fable. They assume Mythos is publicly available today, but that is not true. The model available to the public is Fable, which comes with ridiculous \"safeguards\" and is so restricted that you basically cannot do anything with it.",
+      "link": "https://nitter.net/raines1220/status/2064555315404964236#m",
+      "date": "Wed, 10 Jun 2026 03:48:39 GMT"
     },
     {
       "text": "Since I joined🤓",
@@ -64,19 +64,14 @@
       "date": "Sat, 16 May 2026 06:02:34 GMT"
     },
     {
-      "text": "Later I will post evidence to show that Tesla Robotaxi is now safer than human (for real)",
-      "link": "https://nitter.net/raines1220/status/2055518095951925482#m",
-      "date": "Sat, 16 May 2026 05:17:58 GMT"
-    },
-    {
       "text": "Raines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
       "link": "https://nitter.net/raines1220/status/2055522490278109333#m",
       "date": "Sat, 16 May 2026 05:35:26 GMT"
     },
     {
-      "text": "Tesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.",
-      "link": "https://nitter.net/raines1220/status/2055521959467733479#m",
-      "date": "Sat, 16 May 2026 05:33:19 GMT"
+      "text": "Modeling Robotaxi mileage in Austin",
+      "link": "https://nitter.net/raines1220/status/2055522416814915766#m",
+      "date": "Sat, 16 May 2026 05:35:08 GMT"
     },
     {
       "text": "More detail on human baseline",
@@ -84,9 +79,14 @@
       "date": "Sat, 16 May 2026 05:34:17 GMT"
     },
     {
-      "text": "Modeling Robotaxi mileage in Austin",
-      "link": "https://nitter.net/raines1220/status/2055522416814915766#m",
-      "date": "Sat, 16 May 2026 05:35:08 GMT"
+      "text": "Tesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.",
+      "link": "https://nitter.net/raines1220/status/2055521959467733479#m",
+      "date": "Sat, 16 May 2026 05:33:19 GMT"
+    },
+    {
+      "text": "Later I will post evidence to show that Tesla Robotaxi is now safer than human (for real)",
+      "link": "https://nitter.net/raines1220/status/2055518095951925482#m",
+      "date": "Sat, 16 May 2026 05:17:58 GMT"
     },
     {
       "text": "Can someone do some simple math to estimate Austin robotaxi crash rate? I think it is already safer than human. Just need a confirmation.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru April 15, 2026\n\nCrashes since the March 16th release:\n\n@Tesla:      +2      (17 total - Austin Only)\n@Waymo: +28   (1818)\n@Zoox:      +10     (133)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2055273198749393237#m",
