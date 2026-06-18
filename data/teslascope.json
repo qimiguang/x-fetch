@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-17T22:46:44Z",
+  "updated_at": "2026-06-18T04:38:05Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Elon: FSD will soon remember parking preferences per location.\n\nSafety critical disengagements are mostly things of the past; most disengagements now happen due to parking preferences/distance from destination.\n\n\nElon Musk (@elonmusk)\n\nUpcoming releases of FSD will remember your parking preferences, so that the car goes to the right location at your home, office, school drop off, etc.\n\nDestination parking is by far the biggest reason people now intervene with FSD. Critical safety interventions are extremely rare.\n\n\n\n— https://nitter.net/elonmusk/status/2067377176287318326#m",
+      "link": "https://nitter.net/teslascope/status/2067413985142727076#m",
+      "date": "Thu, 18 Jun 2026 01:07:59 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2067392238485729699#m",
+      "date": "Wed, 17 Jun 2026 23:41:34 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2067392215488303265#m",
+      "date": "Wed, 17 Jun 2026 23:41:29 GMT"
+    },
     {
       "text": "Love that @vehiclescope is now showing FSD usage per ride. @teslascope",
       "link": "https://nitter.net/ElectricRob/status/2066973906812957047#m",
@@ -87,21 +102,6 @@
       "text": "We noticed a new Tesla software update 2026.14.200 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
       "link": "https://nitter.net/teslascope/status/2065269446596305349#m",
       "date": "Fri, 12 Jun 2026 03:06:21 GMT"
-    },
-    {
-      "text": "It’s rolling out now! 2026.14.6.10 includes Actual Smart Summon for Cybertruck!\n\n\nTeslascope (@teslascope)\n\nA new feature has been detected: Actually Smart Summon\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2065192227169583107#m",
-      "link": "https://nitter.net/nowteslafy/status/2065197168693235912#m",
-      "date": "Thu, 11 Jun 2026 22:19:09 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.2.3.16 on a Tesla vehicle (2024). View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2065236456679887181#m",
-      "date": "Fri, 12 Jun 2026 00:55:16 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2065192249919447183#m",
-      "date": "Thu, 11 Jun 2026 21:59:36 GMT"
     }
   ]
 }

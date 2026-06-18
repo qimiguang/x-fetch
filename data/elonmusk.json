@@ -1,8 +1,93 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-17T22:46:41Z",
+  "updated_at": "2026-06-18T04:38:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Doctors and hospitals used junk science from WPATH to justify selling gender transition procedures to kids and their parents. Huge props to Andrew and his team for taking an important step in our efforts to end this outrageous practice.\n\n\nAndrew Ferguson (@AFergusonFTC)\n\nSince President Trump was sworn in, the @FTC has been aggressively protecting children and the rights of parents across every part of the economy. Today, the FTC took another huge step in defense of children and parents. We have filed an enforcement action against the World Professional Association for Transgender Health (WPATH) for making false and unsubstantiated claims about the safety and efficacy of medical transition procedures, and for providing to doctors the means to sell those procedures to children and parents.\n\n\n\n— https://nitter.net/AFergusonFTC/status/2067287289571450939#m",
+      "link": "https://nitter.net/JDVance/status/2067370337474400551#m",
+      "date": "Wed, 17 Jun 2026 22:14:32 GMT"
+    },
+    {
+      "text": "BREAKING: California Birth Rate Falls Below Replacement Level\n\n• California’s fertility rate hit a record low\n• It fell from 2.21 children per woman in 2007 to 1.48 in 2023\n• That’s far below the 2.1 replacement level\n• By 2038, deaths could outnumber births in California\n• Public school enrollment could drop by about 630,000 students",
+      "link": "https://nitter.net/cb_doge/status/2067446356030218248#m",
+      "date": "Thu, 18 Jun 2026 03:16:37 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2067438979667140620#m",
+      "date": "Thu, 18 Jun 2026 02:47:18 GMT"
+    },
+    {
+      "text": "Grok Build just got new update with new improvements, features, and bug fixes\n\nRelease Notes: v0.2.55\n\nFeatures:\n• Added option to fully disable the hunk tracker via --hunk-tracker-mode, GROK_HUNK_TRACKER, or config.\n\nBug Fixes:\n• Windows install scripts now run cleanly via irm | iex without spurious BOM errors.\n• Tables & wide content no longer leave stray characters next to timestamps in the scrollback.\n• Mermaid diagrams now render node labels cleanly without HTML tags or raw markdown syntax.\n• MCP servers using HTTP now recover automatically after temporary connection drops!\n• Very long sessions can now scroll all the way to the bottom of the conversation history\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got new update. The team is shipping at an absolutely relentless pace\n\nRelease Notes: v0.2.54\n\nFeatures:\n• Rewind now works end-to-end across conversation and file state with proper CAS handling.\n\nBug Fixes:\n• Git branch icons now render correctly on Windows without Nerd Fonts.\n• Mermaid diagrams now render inline without the model suggesting external viewers.\n• MCP connection errors now show the actual failure reason to the model.\n• MCP servers with noisy stdout no longer disconnect unexpectedly.\n• Usage warnings now always display \"Usage left: N%\" instead of varying between \"Free credits left\" and \"Credits left\".\n• Window title no longer flashes or oscillates during permission prompts while the terminal window is focused.\n\nPerformance:\n• Fixed pager freezes and 100% CPU usage when rendering very long agent reasoning outputs with thousands of styled spans.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2066784422431756323#m",
+      "link": "https://nitter.net/XFreeze/status/2067271801877742036#m",
+      "date": "Wed, 17 Jun 2026 15:43:00 GMT"
+    },
+    {
+      "text": "It’s now easier to move local agents to the cloud so they can keep working with your laptop closed.\n\nPrompt Cursor from your phone, run many agents in parallel, and get back PRs with demos of their work.\n\nVideo",
+      "link": "https://nitter.net/cursor_ai/status/2067366343817805899#m",
+      "date": "Wed, 17 Jun 2026 21:58:40 GMT"
+    },
+    {
+      "text": "Progress\n\n\nAndrew Milich (@milichab)\n\nTry Grok Build 0.1 on code review\n\n\n\n— https://nitter.net/milichab/status/2067389688256909373#m",
+      "link": "https://nitter.net/elonmusk/status/2067432573836652699#m",
+      "date": "Thu, 18 Jun 2026 02:21:51 GMT"
+    },
+    {
+      "text": "As it should.\n\n\nInfantryDort (@infantrydort)\n\nThe British Isles are beginning to remember what every civilization eventually remembers:\n\nA government that cannot protect its people eventually loses the moral authority to govern them.\n\nEverything that follows is just the timetable.\n\n\n\n— https://nitter.net/infantrydort/status/2067376315569750492#m",
+      "link": "https://nitter.net/elonmusk/status/2067431278006391066#m",
+      "date": "Thu, 18 Jun 2026 02:16:42 GMT"
+    },
+    {
+      "text": "Elon Musk: ”I think there are great things in every culture. We don’t want the German culture to disappear. We don’t want French culture to disappear. We don’t want Korean culture to disappear, or Japan, or America, or anywhere.\n\nI think we should be very cautious about having some sort of global mixing pot, because every place will be the same, and there won’t be any unique cultures in the world. Which I think would make the world worse.\n\nSo I think we need to preserve these country cultures, and that’s the future that I think is better. I think that most people would agree is better. We shouldn’t have cultures disappear.\n\nAnd currently, based on the current birth rates and the sort of so-called multiculturalism and globalism, what we’re actually seeing is the dilution of individual cultures and the destruction and death of individual cultures, which I think is terrible for the future.”\n\nVideo",
+      "link": "https://nitter.net/travelingflying/status/2067291185484288016#m",
+      "date": "Wed, 17 Jun 2026 17:00:01 GMT"
+    },
+    {
+      "text": "Essential reading\n\n\nGad Saad (@GadSaad)\n\nI'm delighted to report that Suicidal Empathy has now been five weeks straight on The New York Times Bestseller List, having debuted as an Instant #1 in its first week!\n\nGet your copy today: lnk.to/SuicidalEmpathy\n\n\n\n\n— https://nitter.net/GadSaad/status/2067371945763524615#m",
+      "link": "https://nitter.net/elonmusk/status/2067427013527580863#m",
+      "date": "Thu, 18 Jun 2026 01:59:45 GMT"
+    },
+    {
+      "text": "And this report is just the tip of an enormous iceberg of evil\n\n\nWasAcop (@WasAcop)\n\n🚨Big announcement from Asmongold!\n\nHe just said live on stream that he’ll be reading the entire UK Rape Gang Inquiry report word for word on stream.\n\nWith his huge audience of 3.4 million+ Twitch followers, this is going to reach a massive number of people. \n\nNo more relying on mainstream media spin.\n\nTune in to @Asmongold on Twitch tomorrow. This one’s important.\n\n#Asmongold #RapeGangInquiry #GroomingGangs\n\n\n\n— https://nitter.net/WasAcop/status/2067353275020562636#m",
+      "link": "https://nitter.net/elonmusk/status/2067426896414208365#m",
+      "date": "Thu, 18 Jun 2026 01:59:17 GMT"
+    },
+    {
+      "text": "Behind the scenes: many other cool shots from the 1.5 video launch. \n\nExploring styles in Grok Imagine.\n\nVideo",
+      "link": "https://nitter.net/karaebel/status/2067381776000208907#m",
+      "date": "Wed, 17 Jun 2026 23:00:00 GMT"
+    },
+    {
+      "text": "Utterly irreconcilable with Western values\n\n\nThe People's Therapist 👏Expert👏 (@Careerflex)\n\nOk\n\n\n\n\n\n— https://nitter.net/Careerflex/status/2067420441464172626#m",
+      "link": "https://nitter.net/elonmusk/status/2067426268984009187#m",
+      "date": "Thu, 18 Jun 2026 01:56:48 GMT"
+    },
+    {
+      "text": "No one can save you when they become the police\n\n\njjinUK64 (@JjinUk64)\n\nThe areas where these gangs operate(d) are places like  Rotherham and Oldham.\n\nThey are basically South-Asian Muslim ghettos. Even many of the police in these places are part of the biraderi clans, they're also Pakistani (or Bangladeshi) Muslims.\n\nAnd so are many of the councillors that control local government. That is important context here.\n\n\n\n— https://nitter.net/JjinUk64/status/2067382349441233153#m",
+      "link": "https://nitter.net/elonmusk/status/2067424406247485777#m",
+      "date": "Thu, 18 Jun 2026 01:49:23 GMT"
+    },
+    {
+      "text": "Maybe WSJ isn’t that bad after all 😂\n\n\nThe Wall Street Journal (@WSJ)\n\nFrom @WSJFreeEx via @WSJOpinion: Elon Musk officially entered the canon of the greatest inventors, builders and capitalists not only of our time but arguably of humankind. What a time to be alive. What an extraordinary era to build, writes @EliseStefanik.\non.wsj.com/4egINPn\n\n\n\n\n— https://nitter.net/WSJ/status/2067319276759929245#m",
+      "link": "https://nitter.net/elonmusk/status/2067422433251078480#m",
+      "date": "Thu, 18 Jun 2026 01:41:33 GMT"
+    },
+    {
+      "text": "Je vais être clair.\n\nCe qui a produit les viols de masse.\n\nC’est le gauchisme / le wokisme / le socialisme et l’empathie suicidaire.\n\nLes gens vont devoir choisir un camp.\n\nLe premier camp, c’est le camp de la liberté, la responsabilité individuelle, du mérite et les villes qui ne sentent pas le pipi.\n\nLe deuxième camp, c’est le camp dysfonctionnel, où tout se transforme en merde, le camp de l’étatisme socialo-communiste à outrance qui rend les gens malheureux et qui dans sa phase terminal, accepte que 250.000 gamines se fassent violer pour le “bien commun” et la peur de se faire traiter de “rascite”.\n\nPartez. Et ne revenez jamais.\n\nCeux qui ont participé de près ou de loin aux grooming gangs, en conscience.\n\nVous méritez l’exil ou le bagne.\n\n\nRobert Sterling (@RobertMSterling)\n\nThe multiculturalism leaving my body as I read this report\n\n\n\n\n\n— https://nitter.net/RobertMSterling/status/2067074495605584223#m",
+      "link": "https://nitter.net/brivael/status/2067345925132210535#m",
+      "date": "Wed, 17 Jun 2026 20:37:32 GMT"
+    },
+    {
+      "text": "Starlink is connecting 100,000 students and 1,500 teachers in Malawi across 30 rural schools to online learning resources. For many, this is the first time students, teachers and families have access to reliable internet 🛰️❤️",
+      "link": "https://nitter.net/Starlink/status/2067373892612821106#m",
+      "date": "Wed, 17 Jun 2026 22:28:40 GMT"
+    },
+    {
+      "text": "I’m astonished more people aren’t raving about Tesla’s full self driving.\n\nI no longer need to drive my car.\n\nThe only time I take control is to back into my garage because it’s down an awkward ramp.",
+      "link": "https://nitter.net/t_blom/status/2067314339099398590#m",
+      "date": "Wed, 17 Jun 2026 18:32:01 GMT"
+    },
     {
       "text": "The United Kingdom is going to announce additional restrictions in July on VPN usage. This is ON TOP OF the social media restrictions and mandated online identity verifications.\n\nIt's over, UK. You sold out your own society. Absolute tragedy. Very sad.\n\nVideo",
       "link": "https://nitter.net/AutismCapital/status/2067327605607637301#m",
@@ -17,91 +102,6 @@
       "text": "I created a website for the Rape Gang Inquiry testimonies with Grok.\n\nYou can now read and share the quotes from survivors:\n\nRGinquiry.com\n\n250,000 girls were subjected to humanity’s darkest horrors.\n\nWe must Restore Britain. 🇬🇧\n\nVideo\n  \n\n\n\n\nRupert Lowe MP (@RupertLowe10)\n\nThe Rape Gang Inquiry Report.\n\nbit.ly/4uE5odw\n\n\n\n\n\n— https://nitter.net/RupertLowe10/status/2066873370239537189#m",
       "link": "https://nitter.net/NaomiSeibt/status/2067264256655905040#m",
       "date": "Wed, 17 Jun 2026 15:13:01 GMT"
-    },
-    {
-      "text": "Grok Imagine 1.5\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2067291949317673361#m",
-      "date": "Wed, 17 Jun 2026 17:03:03 GMT"
-    },
-    {
-      "text": "BREAKING: Iraq has approved Starlink’s operating license, clearing the way for its satellite internet service to enter the country.\n\nIraqi Prime Minister Ali al-Zaidi and U.S. Special Presidential Envoy for Iraq Tom Barrack welcomed the approval of Starlink’s operating license.\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2067225443900817588#m",
-      "date": "Wed, 17 Jun 2026 12:38:47 GMT"
-    },
-    {
-      "text": "And improving rapidly with real-time access to 𝕏\n\n\nJason Ginsberg (@JasonBud)\n\nthis means Grok is now available on all major clouds (Bedrock, Vertex, Oracle, Azure)\n\n\n\n— https://nitter.net/JasonBud/status/2067267637277855937#m",
-      "link": "https://nitter.net/elonmusk/status/2067290524206453099#m",
-      "date": "Wed, 17 Jun 2026 16:57:24 GMT"
-    },
-    {
-      "text": "We are the first generation that can credibly plan to become a multi-planetary species, and possibly the last that gets to decide whether we will. No pressure.",
-      "link": "https://nitter.net/PeterDiamandis/status/2067208279680221354#m",
-      "date": "Wed, 17 Jun 2026 11:30:35 GMT"
-    },
-    {
-      "text": "Grok is now inside PowerPoint, Word, and Excel. Each gets an agent in the sidebar that builds the deck, sheet, or doc from a prompt, pulling real-time data from the web and X and generating images and diagrams. It connects to your own apps and MCP servers too.\n\nLive on SuperGrok, Heavy, Business, and Enterprise.",
-      "link": "https://nitter.net/tetsuoai/status/2067010003979149697#m",
-      "date": "Tue, 16 Jun 2026 22:22:42 GMT"
-    },
-    {
-      "text": "Full movies by the end of this year\n\n\nxAI (@xai)\n\nSee how @heavypulp made a trailer worthy of the big screen with this powerful new model:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/xai/status/2067092900694135081#m",
-      "link": "https://nitter.net/elonmusk/status/2067207305503101025#m",
-      "date": "Wed, 17 Jun 2026 11:26:43 GMT"
-    },
-    {
-      "text": "O’KEEFE INFILTRATES NJ ANTIFA: Inside “NJ BURN” — Rutgers University Director, T-Mobile AI Leaders, OpenAI /ChatGPT Engineer, Reverend From Princeton Theological Seminary, and ACLU Board Member Discuss Port Newark–Elizabeth Blockade Riot, Road Spikes, Tire-Slashing of New Jersey Police Vehicles, “Ukrainian-Style” Protest Tactics, and Celebrating Charlie Kirk’s Murder.\n\nNJ ANTIFA INDIVIDUALS IDENTIFIED: \n• Alexyss P. - New Jersey Coalition Against Sexual Assault Community Council Member @NJ_CASA \n• Jim Keady @JWKeady -  Former New Jersey Democratic Candidate\n• Woojin Ko - OpenAI Research Engineer @OpenAI \n• Beleckecom Moffouk - T-Mobile AI Automation Expert @TMobile \n• Zainab Tanvir - Imaging Director at Rutgers University @RutgersU \n• Amanda Marie Dominguez - Rutgers University PHD Student in Education @RutgersU \n• Aditi Rao @aditilrao - Princeton University Classics @Princeton \n• Shannon Smythe - Princeton Theological Seminary Field Education Director @Princeton \n• Cres Vellucci @CresVellucci - National Lawyers Guild Co-Founder/Co-Member & ACLU Board Of Directors  @NLGnews @ACLU\n• Celine Semaan @celinecelines - Co-Founder Slow Factory Labs @theslowfactory\n\nVideo",
-      "link": "https://nitter.net/JamesOKeefeIII/status/2066939182904131652#m",
-      "date": "Tue, 16 Jun 2026 17:41:17 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/AdrianDittmann/status/2067136834719912212#m",
-      "date": "Wed, 17 Jun 2026 06:46:41 GMT"
-    },
-    {
-      "text": "This entire scene was made using  @Grok \n\nGrok Imagine 1.5 is on another level. 🔥\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2067151239335575593#m",
-      "date": "Wed, 17 Jun 2026 07:43:55 GMT"
-    },
-    {
-      "text": "Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2067137603363655818#m",
-      "date": "Wed, 17 Jun 2026 06:49:44 GMT"
-    },
-    {
-      "text": "It is hard to overstate how pervasive the SPLC’s control was in the tech industry, and in fact still is in many companies.\n\n\nDHH (@dhh)\n\nAnother fun/insane anecdote from the peak-woke era was when an employee of ours tried to get our terms of service amended such that any organization disliked by the SPLC would be banned from using our software. What a racket. All of it.\n\n\n\n— https://nitter.net/dhh/status/2066882730910998646#m",
-      "link": "https://nitter.net/pmarca/status/2067005759783915693#m",
-      "date": "Tue, 16 Jun 2026 22:05:50 GMT"
-    },
-    {
-      "text": "Falcon 9 launches from pad 40 in Florida",
-      "link": "https://nitter.net/SpaceX/status/2067158320142512386#m",
-      "date": "Wed, 17 Jun 2026 08:12:04 GMT"
-    },
-    {
-      "text": "Most popular new baby boy names in the UK:\n\n2015: Oliver\n2016: Oliver\n2017: Oliver\n2018: Oliver\n2019: Oliver\n2020: Oliver\n2021: Noah\n2022: Noah\n2023: Muhammad\n2024: Muhammad\n2025: Muhammad\n\nInvaded. All planned.\n\nThe West must be saved.",
-      "link": "https://nitter.net/C_3C_3/status/2067051995614109906#m",
-      "date": "Wed, 17 Jun 2026 01:09:34 GMT"
-    },
-    {
-      "text": "Asmongold gives his BASED opinion, says: \"You're not being oppressed by the top 2% of society. You're being oppressed by the bottom 2% of society instead 👀\n\n\"People ain't gunna like this one: the bottom 2% of society have caused all of the manifest problems in your lives”\n\nVideo",
-      "link": "https://nitter.net/fwprism/status/2066967729480061179#m",
-      "date": "Tue, 16 Jun 2026 19:34:43 GMT"
-    },
-    {
-      "text": "All these videos were created using Grok Imagine 1.5\n\nBig upgrade. Huge jump in quality. 🚀\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2067099126668624336#m",
-      "date": "Wed, 17 Jun 2026 04:16:51 GMT"
-    },
-    {
-      "text": "A legion of Optimi combined with solar panels will constitute the first Von Neumann probe",
-      "link": "https://nitter.net/elonmusk/status/2067128845623611830#m",
-      "date": "Wed, 17 Jun 2026 06:14:56 GMT"
-    },
-    {
-      "text": "Just follow SpaceX if you want news about our company\n\n\nMuskonomy (@muskonomy)\n\nNEWS: SpaceX will break its own news on X, not on newswires, an SEC filing shows\n\nThe company named its X account @SpaceX as an official disclosure channel.\n\nIts investor page at ir.spacex.com is the other.\n\nSpaceX says it will skip wire services like Business Wire and PR Newswire.\n\nIt tells investors to follow @SpaceX for material updates.\n\n\n\n\n\n\n\n— https://nitter.net/muskonomy/status/2067117536836300868#m",
-      "link": "https://nitter.net/elonmusk/status/2067124745146171701#m",
-      "date": "Wed, 17 Jun 2026 05:58:39 GMT"
     }
   ]
 }

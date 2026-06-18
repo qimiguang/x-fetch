@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-17T22:47:05Z",
+  "updated_at": "2026-06-18T04:38:26Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Upcoming releases of FSD will remember your parking preferences, so that the car goes to the right location at your home, office, school drop off, etc.\n\nDestination parking is by far the biggest reason people now intervene with FSD. Critical safety interventions are extremely rare.",
+      "link": "https://nitter.net/elonmusk/status/2067377176287318326#m",
+      "date": "Wed, 17 Jun 2026 22:41:43 GMT"
+    },
     {
       "text": "Please correct me if I’m wrong, but here are my thoughts about AI satellite from SPCX:\n\n1. Training/inference: They are kilometers away from each other. Due to physics limitations, the latency and bandwidth between satellites will make them better suited for inference only, not training.\n\n2. Energy saving: Energy cost for data centers is usually less than 10%. The majority of data center cost today is still depreciation of AI chips. Therefore, even if you consider energy cost as zero, I still have trouble seeing significant cost efficiency when comparing on-ground data centers with in-space ones.\n\n3. Production capacity: If AI chip manufacturing speed is the scaling bottleneck, then launching AI satellites does not unblock scaling, since the satellites still need to wait for the chips. Otherwise, the plan to have 10,000 Starship launches per year becomes the bottleneck, and at this speed, it still does not significantly outpace the expected compute scaling speed on the ground within five years.",
       "link": "https://nitter.net/raines1220/status/2066538753670402167#m",
@@ -92,11 +97,6 @@
       "text": "Can someone do some simple math to estimate Austin robotaxi crash rate? I think it is already safer than human. Just need a confirmation.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru April 15, 2026\n\nCrashes since the March 16th release:\n\n@Tesla:      +2      (17 total - Austin Only)\n@Waymo: +28   (1818)\n@Zoox:      +10     (133)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2055273198749393237#m",
       "link": "https://nitter.net/raines1220/status/2055335638350930218#m",
       "date": "Fri, 15 May 2026 17:12:57 GMT"
-    },
-    {
-      "text": "76.7% now.\n\n\n\n\nRaines (@raines1220)\n\n61.1% of Robotaxi rides in Austin over the past 7 days were unsupervised. The 30-day rate is 37.2%, and the 90-day rate is 17.9%. It is pretty clear that Austin Robotaxi will soon be fully unsupervised.\n\nWhen the next NHTSA crash report is released, I strongly suspect it will, for the first time, show “safer-than-human” statistics. It may not reach the level (5x–10x?) where you can confidently deploy unsupervised Robotaxi anywhere without a geofence, but it may be enough to show that it is slightly safer (~1.5x–3x) than human driving.\n\nIf that is true, you know what that means? Since the model is unified across Robotaxi, FSD, and Summon, it is reasonable to assume that our “supervised FSD” has equivalent safety. That means even if we sit in the back seat, our car would still drive more safely than the average human.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2053039575560548695#m",
-      "link": "https://nitter.net/raines1220/status/2054117701204021320#m",
-      "date": "Tue, 12 May 2026 08:33:18 GMT"
     }
   ]
 }
