@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-18T20:31:46Z",
+  "updated_at": "2026-06-18T22:58:25Z",
   "count": 20,
   "tweets": [
     {
@@ -9,14 +9,14 @@
       "date": "Thu, 18 Jun 2026 01:07:59 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2067392215488303265#m",
-      "date": "Wed, 17 Jun 2026 23:41:29 GMT"
-    },
-    {
       "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2067392238485729699#m",
       "date": "Wed, 17 Jun 2026 23:41:34 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2067392215488303265#m",
+      "date": "Wed, 17 Jun 2026 23:41:29 GMT"
     },
     {
       "text": "Love that @vehiclescope is now showing FSD usage per ride. @teslascope",
@@ -49,11 +49,6 @@
       "date": "Mon, 15 Jun 2026 03:40:59 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.14.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2066364789622702513#m",
-      "date": "Mon, 15 Jun 2026 03:38:51 GMT"
-    },
-    {
       "text": "A new feature has been detected: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2066364824666136740#m",
       "date": "Mon, 15 Jun 2026 03:39:00 GMT"
@@ -69,6 +64,11 @@
       "date": "Mon, 15 Jun 2026 03:38:54 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.14.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2066364789622702513#m",
+      "date": "Mon, 15 Jun 2026 03:38:51 GMT"
+    },
+    {
       "text": "I just got pushed Tesla update 2026.14.6.10. When you see the wave announcement from @teslascope (You are amazing) give it a little time there is still hope it is not always instant.",
       "link": "https://nitter.net/Tuggernutz87/status/2066281073978351717#m",
       "date": "Sun, 14 Jun 2026 22:06:12 GMT"
@@ -79,9 +79,9 @@
       "date": "Sun, 14 Jun 2026 21:45:20 GMT"
     },
     {
-      "text": "Tesla software update 2026.14.6.10 is now rolling out to ~2,090 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.10 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2065192143988158792#m",
-      "link": "https://nitter.net/teslascope/status/2065920991960666259#m",
-      "date": "Sat, 13 Jun 2026 22:15:22 GMT"
+      "text": "The issue has been found due to a caching conflict. Pushing a fix for this momentarily, so subsequent posts will display the correct value.",
+      "link": "https://nitter.net/teslascope/status/2065927537432346898#m",
+      "date": "Sat, 13 Jun 2026 22:41:22 GMT"
     },
     {
       "text": "We're looking into why these posts continue to show V14.3.3; this update includes V14.3.4.",
@@ -89,9 +89,9 @@
       "date": "Sat, 13 Jun 2026 22:38:37 GMT"
     },
     {
-      "text": "The issue has been found due to a caching conflict. Pushing a fix for this momentarily, so subsequent posts will display the correct value.",
-      "link": "https://nitter.net/teslascope/status/2065927537432346898#m",
-      "date": "Sat, 13 Jun 2026 22:41:22 GMT"
+      "text": "Tesla software update 2026.14.6.10 is now rolling out to ~2,090 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.10 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2065192143988158792#m",
+      "link": "https://nitter.net/teslascope/status/2065920991960666259#m",
+      "date": "Sat, 13 Jun 2026 22:15:22 GMT"
     },
     {
       "text": "Tesla software update 2026.14.6.10 is now rolling out to ~1,980 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.3 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.10 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2065192143988158792#m",
