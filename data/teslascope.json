@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-19T15:31:16Z",
+  "updated_at": "2026-06-19T19:54:52Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2068040524720656613#m",
+      "date": "Fri, 19 Jun 2026 18:37:38 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.20.3 is now rolling out to ~2,530 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2067392215488303265#m",
+      "link": "https://nitter.net/teslascope/status/2068029871163338977#m",
+      "date": "Fri, 19 Jun 2026 17:55:18 GMT"
+    },
     {
       "text": "Tesla FSD (Supervised) V14 is now officially rolling out in Australia and New Zealand for the first time!\n\nVideo\n  \n\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.16.6 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2067784566140449130#m",
       "link": "https://nitter.net/SawyerMerritt/status/2067785696429879804#m",
@@ -92,16 +102,6 @@
       "text": "Tesla software update 2026.14.6.11 is now rolling out to ~4,400 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2066364789622702513#m",
       "link": "https://nitter.net/teslascope/status/2066670922761748567#m",
       "date": "Mon, 15 Jun 2026 23:55:19 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.20 is now rolling out to ~2,530 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2060779084007755814#m",
-      "link": "https://nitter.net/teslascope/status/2066626920825925772#m",
-      "date": "Mon, 15 Jun 2026 21:00:28 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.11 is now rolling out to ~2,420 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2066364789622702513#m",
-      "link": "https://nitter.net/teslascope/status/2066581609101312258#m",
-      "date": "Mon, 15 Jun 2026 18:00:25 GMT"
     }
   ]
 }
