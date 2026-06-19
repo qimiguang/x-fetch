@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-19T04:56:46Z",
+  "updated_at": "2026-06-19T10:45:36Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "B-pillar view as requested\n\nVideo",
+      "link": "https://nitter.net/raines1220/status/2067875336348688640#m",
+      "date": "Fri, 19 Jun 2026 07:41:14 GMT"
+    },
     {
       "text": "FSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo",
       "link": "https://nitter.net/raines1220/status/2067801983306866712#m",
@@ -92,11 +97,6 @@
       "text": "More detail on human baseline",
       "link": "https://nitter.net/raines1220/status/2055522202934792407#m",
       "date": "Sat, 16 May 2026 05:34:17 GMT"
-    },
-    {
-      "text": "Tesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.",
-      "link": "https://nitter.net/raines1220/status/2055521959467733479#m",
-      "date": "Sat, 16 May 2026 05:33:19 GMT"
     }
   ]
 }

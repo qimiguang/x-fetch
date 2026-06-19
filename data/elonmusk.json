@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-18T20:31:46Z",
+  "updated_at": "2026-06-19T10:45:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "It has been so long since the hobbits faced real danger in the Shire that they have forgotten how to defend themselves",
+      "link": "https://nitter.net/elonmusk/status/2067311096638415151#m",
+      "date": "Wed, 17 Jun 2026 18:19:08 GMT"
+    },
+    {
+      "text": "Here’s everything you need to know about Grok Build’s changelog since release\n\nGrok Build is moving fast from a coding CLI into a full terminal-native agent workspace\n\nSince launch, it has added or improved plan/review/approve workflows, clean diffs, project-aware context through AGENTS.md, skills, hooks, plugins, MCP servers, parallel subagents, headless mode, ACP support, web/X search, image and video tools, compaction, memory handling, and long-running sessions\n\nThe biggest upgrade people should not miss is the rendering layer\n\nGrok Build can now keep more technical output directly inside the terminal: math, formulas, LaTeX, Mermaid diagrams, ER diagrams, UML/class diagrams, state diagrams, sequence diagrams, tables, media outputs, and richer terminal views\n\nThat matters a lot for research, ML, simulations, algorithms, database design, infra diagrams, paper implementation, and serious code review\n\nThe terminal is no longer just where you run commands. It is becoming the place where you understand the work, inspect the logic, review diagrams, and keep moving without constantly copying output into another app\n\nThe workspace layer is also got much more serious upgrades\n\nAgent Dashboard lets you manage multiple coding sessions from one screen, see what is working, idle, blocked, or waiting for input, peek at the latest output, reply inline, and dispatch new work without jumping between sessions\n\nThe Plugin Marketplace turns Grok Build into an extensible developer environment\n\nPlugins can bundle skills, slash commands, agents, hooks, MCP servers, and LSPs. Launch partners include MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers. Plugin installs can now resolve directly from registered marketplaces instead of only local paths\n\nThe latest releases are mostly about making all of this reliable during real work\n\nLong responses can resume after network blips. MCP servers recover better after drops or noisy output. Compaction no longer hangs forever. Notifications only fire when user attention is actually needed. Linux clipboard support is stronger. Windows and iTerm rendering are cleaner. Very long sessions can scroll, resume, and quit without falling apart\n\nGrok Build is becoming a full terminal-native agent workspace: multi-session, plugin-driven, MCP-connected, diagram-aware, math-capable, media-capable, long-context, and built for developers who actually live in the terminal",
+      "link": "https://nitter.net/XFreeze/status/2067814505090830771#m",
+      "date": "Fri, 19 Jun 2026 03:39:30 GMT"
+    },
+    {
+      "text": "Announcing a new division of Midjourney called \"Midjourney Medical\"\n\nVideo",
+      "link": "https://nitter.net/midjourney/status/2067421950314688759#m",
+      "date": "Thu, 18 Jun 2026 01:39:38 GMT"
+    },
+    {
+      "text": "Elon warned about the AI energy bottleneck before most people even understood it was coming\n\n“I can’t emphasize enough - we need more electricity. However much electricity you think you need, it’s more than that”\n\nNow if look at what is happening. AI labs are raising billions, buying tons of GPUs, and announcing giant clusters\n\nBut then reality hits:\nWhere do you plug them in?\n\nThis is why the AI race is really an energy race. Even the most sophisticated labs can have the money, the chips, and the models but none of it scales without the grid capacity to feed it\n\nThe bottleneck is not just GPUs anymore. It is electricity, substations, transmission, permitting, and the ability to actually plug these massive clusters into the real world\n\nElon saw this years ago and now everyone else is catching up\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2067636957883330942#m",
+      "date": "Thu, 18 Jun 2026 15:54:00 GMT"
+    },
+    {
+      "text": "Afghan Army commanders brought their child sex slaves onto US bases; Marines got PTSD from hearing them get raped at night\n\nThe governor of the district I deployed to had a basement rape dungeon\n\nAnd these were our allies, the “good guys”\n\nPeople have no idea how bad it is there\n\n\nMatt Walsh (@MattWalshBlog)\n\nRape gangs are not some kind of aberration. Ask any combat veteran what they saw in Afghanistan. The sexual torture and slavery of children is utterly commonplace in Muslim countries. It’s part of their “culture.” Which is why it’s suicidal to import that culture into the west.\n\n\n\n— https://nitter.net/MattWalshBlog/status/2067231983965487491#m",
+      "link": "https://nitter.net/RobertMSterling/status/2067387040757358969#m",
+      "date": "Wed, 17 Jun 2026 23:20:55 GMT"
+    },
+    {
+      "text": "“It’s an astonishing story”\n\nThey’re feeding your children to the crocodiles and the Government won’t say who did it because it would be ‘racist’ to do so…\n\nVideo",
+      "link": "https://nitter.net/liz_churchill10/status/2067754860116598887#m",
+      "date": "Thu, 18 Jun 2026 23:42:30 GMT"
+    },
+    {
+      "text": "This French woman, who was raped by a migrant, has been convicted and will be sentenced, for saying publicly that migrants are a danger to women. \n\nHer rapist has not been caught. \n\nFollow: @AFpost\n\nVideo",
+      "link": "https://nitter.net/AFpost/status/2067754503097430067#m",
+      "date": "Thu, 18 Jun 2026 23:41:05 GMT"
+    },
+    {
+      "text": "Gary the snail 🐌 and the beginning. @boringcompany\n\n\n\n\n\n\n\n\nThe Boring Company (@boringcompany)\n\nTBC is hiring exceptional mechanical, electrical, civil, software, and field engineers in Bastrop, Las Vegas and Nashville.\n\nApply for the July 1 Boring Factory video tour, and hear directly from the engineers who are designing/building Prufrock and trying to Beat The Snail!\n\n boringcompany.com/engineerin…\n\n\n\n\n\n\n\n— https://nitter.net/boringcompany/status/2067746713968787488#m",
+      "link": "https://nitter.net/mayemusk/status/2067782860325486875#m",
+      "date": "Fri, 19 Jun 2026 01:33:46 GMT"
+    },
+    {
+      "text": "Some moments stay with you. A look back at the extraordinary team behind a milestone achievement.\n \nMorgan Stanley was honored to support @SpaceX team through its IPO, serving as joint lead bookrunner and hosting the opening of trading in our offices last week as sole stabilization agent.",
+      "link": "https://nitter.net/MorganStanley/status/2067720847247233119#m",
+      "date": "Thu, 18 Jun 2026 21:27:21 GMT"
+    },
+    {
+      "text": "Falcon 9 is vertical at pad 4E in California ahead of tomorrow’s launch of the @NRO_gov’s NROL-179 mission → spacex.com/launches/nrol179",
+      "link": "https://nitter.net/SpaceX/status/2067718208157835768#m",
+      "date": "Thu, 18 Jun 2026 21:16:51 GMT"
+    },
+    {
+      "text": "Je viens d’être condamné à 6 mois de prison avec sursis et 10 000€ d’amende, sur le fondement de… la loi Samuel Paty ! \n\nCondamné comme journaliste car mon média Frontières a publié une grande enquête sur les avocats en droit des étrangers. \n\nC’est un immense scandale !\n\nVideo",
+      "link": "https://nitter.net/tegnererik/status/2067589363605586107#m",
+      "date": "Thu, 18 Jun 2026 12:44:52 GMT"
+    },
+    {
+      "text": "She got 6 months for talking about her rape by a migrant on French TV.\n\n\nThaïs d’Escufon (@ThaisEscufon)\n\nEuropeans and American patriots!\n\nTomorrow, the courts of my country, France, may decide to send me to prison for daring to say on television that “the main danger to women in France is Black African and Arab immigrant men.”\n\nMeanwhile, my own attacker, a Tunisian migrant, is still at large.\n\nI need your help to generate media pressure and hope to be acquitted.\n\nThey cannot silence the truth!\n\nThank you for your support 💪🏻🇫🇷\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ThaisEscufon/status/2066933891676483840#m",
+      "link": "https://nitter.net/Kingbingo_/status/2067540838180143445#m",
+      "date": "Thu, 18 Jun 2026 09:32:03 GMT"
+    },
+    {
+      "text": "RILEY GAINES ON BIRTH CONTROL: \n\n“So I was on birth control in college, but only because — as a swimmer — you can imagine it’s not exactly comfortable to bleed in a sport like that. The bathing suits are pretty revealing, and we’re in the water six hours a day.\n\n“I got on it specifically to stop my period entirely. Looking back now at 26, if I could go back and tell 18- or 19-year-old me anything, I would absolutely tell her not to do that.\n\n“I just had a pretty comprehensive health screening — blood work, cancer screenings, the works. One of the only things the doctors flagged was that I had super low bone density. I thought that was strange because I lift weights, which should promote bone growth. So I asked the doctor what could cause it.\n\n“She asked if I had been on birth control that let me skip my periods. When I said yes, she told me that was likely the cause. She said it’s good that we caught it now — I’m young and healthy, so I can work to build it back up — but if I had stayed on it longer, it could have really hurt me in the long term.”\n\nVideo",
+      "link": "https://nitter.net/KatieMiller/status/2067590332309442565#m",
+      "date": "Thu, 18 Jun 2026 12:48:43 GMT"
+    },
+    {
+      "text": "BREAKING: Paraguay receives Starlink kits to connect remote schools, health centers and communities. 🇵🇾\n\n• 50,000+ students and teachers will benefit.\n\n• Goal: connect 1,600 locations nationwide.\n\n• Prioritizing rural, and isolated communities.\n\n• Also connecting remote healthcare centers.\n\n• 100 kits already installed in rural Chaco.\n\n• Builds on an initial plan to connect 500 strategic sites.\n\n• Expanding access to online education, digital libraries and global opportunities.\n\nThis partnership between Paraguay Government and Starlink will help bring internet access and more opportunities to people across the country.\n\nVideo",
+      "link": "https://nitter.net/cb_doge/status/2067731626801692841#m",
+      "date": "Thu, 18 Jun 2026 22:10:11 GMT"
+    },
+    {
+      "text": "Tunnels are under-appreciated\n\n\nThe Boring Company (@boringcompany)\n\nTBC is hiring exceptional mechanical, electrical, civil, software, and field engineers in Bastrop, Las Vegas and Nashville.\n\nApply for the July 1 Boring Factory video tour, and hear directly from the engineers who are designing/building Prufrock and trying to Beat The Snail!\n\n boringcompany.com/engineerin…\n\n\n\n\n\n\n\n— https://nitter.net/boringcompany/status/2067746713968787488#m",
+      "link": "https://nitter.net/elonmusk/status/2067774433587011823#m",
+      "date": "Fri, 19 Jun 2026 01:00:17 GMT"
+    },
+    {
+      "text": "",
+      "link": "https://nitter.net/SERobinsonJr/status/2067737349652394071#m",
+      "date": "Thu, 18 Jun 2026 22:32:55 GMT"
+    },
+    {
+      "text": "History listed on @Nasdaq. \n\n@SpaceX ($SPCX) raised a record $85.7B in capital, hit a $2.1T market cap, and traded 500M+ shares on its first day as a public company. \n\nRead more about how the capital injection will directly fund SpaceX’s infrastructure for the future: spr.ly/6014BDOfL8",
+      "link": "https://nitter.net/Nasdaq/status/2067696959796764775#m",
+      "date": "Thu, 18 Jun 2026 19:52:25 GMT"
+    },
+    {
+      "text": "SpaceX has just officially received an investment grade credit rating of Baa1 from Moody's, slightly higher than @Tesla's Baa3 rating.\n\nTheir reasoning: \"SpaceX's Baa1 issuer rating reflects the company's exceptional franchise strength as the world's leading orbital launch provider and operator of the largest low earth orbit satellite broadband network, Starlink. The company benefits from robust and expanding recurring revenue from Starlink, which has become the primary cash flow generator and underpins improving scale, margin expansion, and diversification away from more cyclical launch revenues.\n\nAdditionally, SpaceX's vertical integration across manufacturing, launch, satellite deployment, and end-customer delivery drives superior cost efficiency and operational velocity that competitors have been unable to replicate. Strategic relevance to the U.S. government, as the primary launch provider for NASA and the Department of Defense, adds demand visibility and long-cycle contract support, while the company's ability to monetize AI compute capacity through third-party arrangements provides additional revenue diversification and downside optionality. The AI segment addresses a large total addressable market across AI infrastructure, consumer and enterprise applications, and digital advertising, and represents significant long-term revenue and earnings upside as the company scales its compute infrastructure, develops its frontier models, and expands enterprise and consumer monetization channels. \n\nThe company maintains conservative financial policies, alongside strong liquidity and financial flexibility, supported by substantial cash balances and continued access to both equity and debt capital markets.\"",
+      "link": "https://nitter.net/SawyerMerritt/status/2067706794990780917#m",
+      "date": "Thu, 18 Jun 2026 20:31:30 GMT"
+    },
+    {
+      "text": "BREAKING: Starlink airline partnerships are growing rapidly.\n\n• 2 airlines in 2022 → 41 airlines in Q2 2026\n\n• More than 20× growth in just four years\n\n• Contracts now cover 7,000+ aircraft worldwide\n\n• Major carriers including United, American, Lufthansa, Air France, Qatar Airways, Emirates, and British Airways are adopting Starlink\n\nStarlink is quickly becoming the new standard for inflight connectivity.",
+      "link": "https://nitter.net/cb_doge/status/2067676745508307200#m",
+      "date": "Thu, 18 Jun 2026 18:32:06 GMT"
+    },
     {
       "text": "Starlink provides backup connectivity to cell towers, ensuring that your phone works when you most need it\n\n\nDogeDesigner (@cb_doge)\n\nNEWS: Flow Cayman partners with Starlink to keep networks online during hurricanes.\n\n“If a hurricane cuts off one of our towers from the core fibre-optic network, then the tower will switch to the Starlink backup and our users will still be connected via satellite”\n\n• Starlink will provide satellite backup for Flow’s mobile network\n• Designed to keep customers connected during hurricanes and major outages\n• Network can switch to Starlink if traditional infrastructure is disrupted\n• Rollout expected before the peak of hurricane season\n\nAnother telecom operator is integrating Starlink into critical communications infrastructure.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2067670926142157239#m",
       "link": "https://nitter.net/elonmusk/status/2067675411383763399#m",
       "date": "Thu, 18 Jun 2026 18:26:48 GMT"
-    },
-    {
-      "text": "The problem w/ the left-wing that pushed for mass immigration is it largely relies on people’s empathy.  The reality is the world is not a safe place & it’s the job of elected officials to keep their country safe. Meaning we must enforce laws. No exceptions.\n\n\nBreaking911 (@Breaking911)\n\nThe Department of Homeland Security says Abraham Hermosillo Alvarez, a Mexican national, was the alleged leader of a terror plot targeting UFC Freedom 250 at the White House. The FBI arrested Alvarez in Omaha on the day of the event, and ICE later lodged a detainer against him.\n\nAdministration officials say Alvarez orchestrated the failed attack and will be prosecuted before being deported. He came to the United States as a child and was granted DACA protection in 2014 after overstaying a B-2 visa that expired in 2001.\n\n\n\n\n\n— https://nitter.net/Breaking911/status/2067585606599761989#m",
-      "link": "https://nitter.net/realannapaulina/status/2067603936081539246#m",
-      "date": "Thu, 18 Jun 2026 13:42:47 GMT"
-    },
-    {
-      "text": "\"If civilization is not strong, if civilization doesn't grow, then nothing else matters. Profits don't matter if civilization collapses. We cannot exist absent civilization. You have to be pro civilization, because you cannot exist without civilization.\"\n\n— Elon Musk\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2067518422490227024#m",
-      "date": "Thu, 18 Jun 2026 08:02:59 GMT"
-    },
-    {
-      "text": "…\n\n\nNew York Post (@nypost)\n\nAlleged 'ringleader' behind drone attack plot for White House UFC event ID'd as illegal immigrant trib.al/NSQgcJK\n\n\n\n\n\n— https://nitter.net/nypost/status/2067580533152874583#m",
-      "link": "https://nitter.net/elonmusk/status/2067674395124875453#m",
-      "date": "Thu, 18 Jun 2026 18:22:45 GMT"
-    },
-    {
-      "text": "They have imported voters to win\n\n\nElizabeth Barcohana (@E_Barcohana)\n\nIt happened.\n\nLA City Council voted 10-5 to include giving illegals the right to vote in the City Charter reform referendum that will be on the November ballot\n\nSame ballot that will have the statewide Voter ID proposition\n\n@BasedMikeLee help us SOS 🆘\n\n\n\n— https://nitter.net/E_Barcohana/status/2067476530226397529#m",
-      "link": "https://nitter.net/elonmusk/status/2067673634051674579#m",
-      "date": "Thu, 18 Jun 2026 18:19:44 GMT"
-    },
-    {
-      "text": "Grok TTS is already sounding insanely human\n\nIn Vapi’s blind voting Humaneness Index, Grok TTS ranked as the top AI voice model in the chart with a humaneness score of 96.....just 4 points below the real human benchmark\n\n• Top AI voice model shown\n• 96/100 humaneness score\n• Only 4 points behind the human benchmark\n\nWhat makes this even more impressive is that Grok TTS is combining natural-sounding speech with low latency and aggressive pricing\n\nThe gap between AI-generated speech and real human voices is disappearing faster than most people realize\n\nGrok is starting to speak like a real person",
-      "link": "https://nitter.net/XFreeze/status/2067658361487921484#m",
-      "date": "Thu, 18 Jun 2026 17:19:03 GMT"
-    },
-    {
-      "text": "I sometimes wonder if part of the reason late-stage Rome was sacked was because they couldn’t get a permit in time to marshal the legions",
-      "link": "https://nitter.net/elonmusk/status/2067668243985137664#m",
-      "date": "Thu, 18 Jun 2026 17:58:19 GMT"
-    },
-    {
-      "text": "Grok now on Databricks\n\n\nxAI (@xai)\n\nGrok models are now available on Databricks Agent Bricks.\n\nBring SpaceXAI's latest models to your enterprise data to power capable AI agents.\n\nx.ai/news/grok-databricks\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/xai/status/2067638691275907084#m",
-      "link": "https://nitter.net/elonmusk/status/2067646181379854418#m",
-      "date": "Thu, 18 Jun 2026 16:30:39 GMT"
-    },
-    {
-      "text": "Grok Imagine Video 1.5 is here\n\nOur new image-to-video model with sharper realism, better physics and faster generations 🧵\n\ngrok.com/imagine\n\nVideo",
-      "link": "https://nitter.net/xai/status/2067092897951109427#m",
-      "date": "Wed, 17 Jun 2026 03:52:06 GMT"
-    },
-    {
-      "text": "𝕏 is the #1 news app in the UK.\n\nThis is exactly why the BBC, The Telegraph and other UK legacy media keep pushing negative fake attacks on Elon Musk.\n\nThey are getting destroyed in the rankings. The British public has rejected them.\n\nLegacy media is finished. They are lashing out in pure panic because they lost control.\n\n𝕏 is winning because it gave people what they actually wanted - truth.",
-      "link": "https://nitter.net/cb_doge/status/2067487814451933415#m",
-      "date": "Thu, 18 Jun 2026 06:01:21 GMT"
-    },
-    {
-      "text": "Grok Imagine 1.5\nGrumpy cat talks\n\nVideo",
-      "link": "https://nitter.net/gailalfaratx/status/2067443741082681621#m",
-      "date": "Thu, 18 Jun 2026 03:06:13 GMT"
-    },
-    {
-      "text": "\"My favorite enterprise AI service is Cursor. It is an AI coder & every one of our engineers, 100% is now assisted by AI coders & our productivity has gone up incredibly. These companies are some of the fastest-growing companies in world & they address enterprise\"\n\n— Jensen Huang\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2067272144074264711#m",
-      "date": "Wed, 17 Jun 2026 15:44:21 GMT"
-    },
-    {
-      "text": "Doctors and hospitals used junk science from WPATH to justify selling gender transition procedures to kids and their parents. Huge props to Andrew and his team for taking an important step in our efforts to end this outrageous practice.\n\n\nAndrew Ferguson (@AFergusonFTC)\n\nSince President Trump was sworn in, the @FTC has been aggressively protecting children and the rights of parents across every part of the economy. Today, the FTC took another huge step in defense of children and parents. We have filed an enforcement action against the World Professional Association for Transgender Health (WPATH) for making false and unsubstantiated claims about the safety and efficacy of medical transition procedures, and for providing to doctors the means to sell those procedures to children and parents.\n\n\n\n— https://nitter.net/AFergusonFTC/status/2067287289571450939#m",
-      "link": "https://nitter.net/JDVance/status/2067370337474400551#m",
-      "date": "Wed, 17 Jun 2026 22:14:32 GMT"
-    },
-    {
-      "text": "BREAKING: California Birth Rate Falls Below Replacement Level\n\n• California’s fertility rate hit a record low\n• It fell from 2.21 children per woman in 2007 to 1.48 in 2023\n• That’s far below the 2.1 replacement level\n• By 2038, deaths could outnumber births in California\n• Public school enrollment could drop by about 630,000 students",
-      "link": "https://nitter.net/cb_doge/status/2067446356030218248#m",
-      "date": "Thu, 18 Jun 2026 03:16:37 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2067438979667140620#m",
-      "date": "Thu, 18 Jun 2026 02:47:18 GMT"
-    },
-    {
-      "text": "Grok Build just got new update with new improvements, features, and bug fixes\n\nRelease Notes: v0.2.55\n\nFeatures:\n• Added option to fully disable the hunk tracker via --hunk-tracker-mode, GROK_HUNK_TRACKER, or config.\n\nBug Fixes:\n• Windows install scripts now run cleanly via irm | iex without spurious BOM errors.\n• Tables & wide content no longer leave stray characters next to timestamps in the scrollback.\n• Mermaid diagrams now render node labels cleanly without HTML tags or raw markdown syntax.\n• MCP servers using HTTP now recover automatically after temporary connection drops!\n• Very long sessions can now scroll all the way to the bottom of the conversation history\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got new update. The team is shipping at an absolutely relentless pace\n\nRelease Notes: v0.2.54\n\nFeatures:\n• Rewind now works end-to-end across conversation and file state with proper CAS handling.\n\nBug Fixes:\n• Git branch icons now render correctly on Windows without Nerd Fonts.\n• Mermaid diagrams now render inline without the model suggesting external viewers.\n• MCP connection errors now show the actual failure reason to the model.\n• MCP servers with noisy stdout no longer disconnect unexpectedly.\n• Usage warnings now always display \"Usage left: N%\" instead of varying between \"Free credits left\" and \"Credits left\".\n• Window title no longer flashes or oscillates during permission prompts while the terminal window is focused.\n\nPerformance:\n• Fixed pager freezes and 100% CPU usage when rendering very long agent reasoning outputs with thousands of styled spans.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2066784422431756323#m",
-      "link": "https://nitter.net/XFreeze/status/2067271801877742036#m",
-      "date": "Wed, 17 Jun 2026 15:43:00 GMT"
-    },
-    {
-      "text": "It’s now easier to move local agents to the cloud so they can keep working with your laptop closed.\n\nPrompt Cursor from your phone, run many agents in parallel, and get back PRs with demos of their work.\n\nVideo",
-      "link": "https://nitter.net/cursor_ai/status/2067366343817805899#m",
-      "date": "Wed, 17 Jun 2026 21:58:40 GMT"
-    },
-    {
-      "text": "Progress\n\n\nAndrew Milich (@milichab)\n\nTry Grok Build 0.1 on code review\n\n\n\n— https://nitter.net/milichab/status/2067389688256909373#m",
-      "link": "https://nitter.net/elonmusk/status/2067432573836652699#m",
-      "date": "Thu, 18 Jun 2026 02:21:51 GMT"
-    },
-    {
-      "text": "As it should.\n\n\nInfantryDort (@infantrydort)\n\nThe British Isles are beginning to remember what every civilization eventually remembers:\n\nA government that cannot protect its people eventually loses the moral authority to govern them.\n\nEverything that follows is just the timetable.\n\n\n\n— https://nitter.net/infantrydort/status/2067376315569750492#m",
-      "link": "https://nitter.net/elonmusk/status/2067431278006391066#m",
-      "date": "Thu, 18 Jun 2026 02:16:42 GMT"
-    },
-    {
-      "text": "Elon Musk: ”I think there are great things in every culture. We don’t want the German culture to disappear. We don’t want French culture to disappear. We don’t want Korean culture to disappear, or Japan, or America, or anywhere.\n\nI think we should be very cautious about having some sort of global mixing pot, because every place will be the same, and there won’t be any unique cultures in the world. Which I think would make the world worse.\n\nSo I think we need to preserve these country cultures, and that’s the future that I think is better. I think that most people would agree is better. We shouldn’t have cultures disappear.\n\nAnd currently, based on the current birth rates and the sort of so-called multiculturalism and globalism, what we’re actually seeing is the dilution of individual cultures and the destruction and death of individual cultures, which I think is terrible for the future.”\n\nVideo",
-      "link": "https://nitter.net/travelingflying/status/2067291185484288016#m",
-      "date": "Wed, 17 Jun 2026 17:00:01 GMT"
     }
   ]
 }
