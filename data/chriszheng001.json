@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-06-19T22:08:31Z",
+  "updated_at": "2026-06-20T04:10:17Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "这是假消息，两项强标没有限定传感器，只限定了需要达成的能力目标。至于如何实现这个目标，对各个企业用的不同的技术路线不做要求。\n\n\n大趙 (@zhongwen2005)\n\nMinistry of Industry and Information Technology Issues National Standards for Autonomous Driving\nLevel 3: Vision + millimetre-wave radar\nLevel 4: Vision + millimetre-wave radar + lidar\nTesla’s FSD may only be at Level 2\nSadly….\n\n\n\n\n\n— https://nitter.net/zhongwen2005/status/2067964247892730320#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2068163321510187100#m",
+      "date": "Sat, 20 Jun 2026 02:45:35 GMT"
+    },
     {
       "text": "按照 FSD 软件开发的节奏，年底几乎 100% 会推送 FSD v15，我认为 FSD v15 有极大概率实现停车场的无监督，其次是根据 DMS 动态限定的公开道路无监督。\n\n\nDevin Olsen (@DevinOlsenn)\n\nFriendly bet between Omar and I\n\nThe bet is will banish release before the end of the year. \n\nI say it won’t - Omar says it will. \n\n$100 to the winner\n\nWho do you think is going to win? Let me know!\n\n\n\n— https://nitter.net/DevinOlsenn/status/2067389414360355107#m",
       "link": "https://nitter.net/ChrisZheng001/status/2067433550689997022#m",
@@ -97,11 +102,6 @@
       "text": "",
       "link": "https://nitter.net/shaunmmaguire/status/2036097323458343361#m",
       "date": "Mon, 23 Mar 2026 15:06:45 GMT"
-    },
-    {
-      "text": "Think about Elon.\n\n\nJerry Tworek (@MillionInt)\n\nBeing brave can be a moat.\n\nEspecially in a world where top management of most companies isn’t.\n\n\n\n— https://nitter.net/MillionInt/status/2033005289306468741#m",
-      "link": "https://nitter.net/ChrisZheng001/status/2033048595067523521#m",
-      "date": "Sun, 15 Mar 2026 05:12:11 GMT"
     }
   ]
 }

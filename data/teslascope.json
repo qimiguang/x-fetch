@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-19T22:08:27Z",
+  "updated_at": "2026-06-20T04:10:14Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.16.6 is now rolling out to ~1,210 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.16.6 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2067784566140449130#m",
+      "link": "https://nitter.net/teslascope/status/2068172038552862819#m",
+      "date": "Sat, 20 Jun 2026 03:20:13 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.3 is now rolling out to ~8,580 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2067392215488303265#m",
       "link": "https://nitter.net/teslascope/status/2068075323942465760#m",
@@ -97,11 +102,6 @@
       "text": "Love that @vehiclescope is now showing FSD usage per ride. @teslascope",
       "link": "https://nitter.net/ElectricRob/status/2066973906812957047#m",
       "date": "Tue, 16 Jun 2026 19:59:16 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.11 is now rolling out to ~9,240 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2066364789622702513#m",
-      "link": "https://nitter.net/teslascope/status/2066944051350323607#m",
-      "date": "Tue, 16 Jun 2026 18:00:38 GMT"
     }
   ]
 }
