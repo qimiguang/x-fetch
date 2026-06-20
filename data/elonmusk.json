@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-19T22:08:26Z",
+  "updated_at": "2026-06-20T09:26:15Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Elon Musk allows his harshest critics to speak freely on X\nThis is the opposite of what a real totalitarian would do",
+      "link": "https://nitter.net/gailalfaratx/status/2068157403363770771#m",
+      "date": "Sat, 20 Jun 2026 02:22:04 GMT"
+    },
+    {
+      "text": "The great lie is that society is divided between rich and poor.\nThe great truth, as David Friedberg puts it, is makers vs takers.\n\nMakers build, create, and deliver real value: houses, software, art, businesses, and everything that moves civilization forward.\n\nTakers watch, criticize, analyze, and politic. They push the lie that the rich hoard unfairly so the poor must seize it… all while positioning themselves to rule the chaos.\n\nAs @friedberg tells his kids: “At the end of the day, if you made something and someone else valued it, you were a maker. That was an amazing achievement. That is a great day.”\n\nTakers thrive on division. Makers drive progress.\n\nTime to choose your side.\n\nVideo",
+      "link": "https://nitter.net/jayplemons/status/2068119821980770527#m",
+      "date": "Fri, 19 Jun 2026 23:52:44 GMT"
+    },
+    {
+      "text": "Starlink in Lesotho! 🇱🇸\n\n\nStarlink (@Starlink)\n\nStarlink is now providing reliable connectivity to more than 25 police stations, traffic systems and disaster response teams across Lesotho 🛰️❤️\n\n\n\n\n\n\n\n— https://nitter.net/Starlink/status/2068110058878304642#m",
+      "link": "https://nitter.net/elonmusk/status/2068130579757859247#m",
+      "date": "Sat, 20 Jun 2026 00:35:28 GMT"
+    },
+    {
+      "text": "You want me to be mad that 250,000 British girls were raped by brown invaders. But I want to know why the same outrage wasn’t seen when it was just 25 British girls.\n\nAnd I’ll tell you this - You, the men of Britain, will even tolerate 2.5 million of your women being raped and trafficked by the brown invaders, or more! \n\nWhy? \n\nBecause you are waiting for permission from someone to do what needs to be done and that permission will never come.\n\nThe problem isn’t so much the invader (don’t get me wrong, they are a problem), the problem is there is something faulty with our psychology. We have become the dumb, obedient golden retriever of the races of man. This mindset has to be erased from us, forever, or we will be wiped out.",
+      "link": "https://nitter.net/LordoftheDanged/status/2067897864676888909#m",
+      "date": "Fri, 19 Jun 2026 09:10:45 GMT"
+    },
     {
       "text": "Well, it worked with Charlie Kirk, didn’t it?",
       "link": "https://nitter.net/TheAliceSmith/status/2068048438814507054#m",
@@ -82,26 +102,6 @@
       "text": "Here’s everything you need to know about Grok Build’s changelog since release\n\nGrok Build is moving fast from a coding CLI into a full terminal-native agent workspace\n\nSince launch, it has added or improved plan/review/approve workflows, clean diffs, project-aware context through AGENTS.md, skills, hooks, plugins, MCP servers, parallel subagents, headless mode, ACP support, web/X search, image and video tools, compaction, memory handling, and long-running sessions\n\nThe biggest upgrade people should not miss is the rendering layer\n\nGrok Build can now keep more technical output directly inside the terminal: math, formulas, LaTeX, Mermaid diagrams, ER diagrams, UML/class diagrams, state diagrams, sequence diagrams, tables, media outputs, and richer terminal views\n\nThat matters a lot for research, ML, simulations, algorithms, database design, infra diagrams, paper implementation, and serious code review\n\nThe terminal is no longer just where you run commands. It is becoming the place where you understand the work, inspect the logic, review diagrams, and keep moving without constantly copying output into another app\n\nThe workspace layer is also got much more serious upgrades\n\nAgent Dashboard lets you manage multiple coding sessions from one screen, see what is working, idle, blocked, or waiting for input, peek at the latest output, reply inline, and dispatch new work without jumping between sessions\n\nThe Plugin Marketplace turns Grok Build into an extensible developer environment\n\nPlugins can bundle skills, slash commands, agents, hooks, MCP servers, and LSPs. Launch partners include MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers. Plugin installs can now resolve directly from registered marketplaces instead of only local paths\n\nThe latest releases are mostly about making all of this reliable during real work\n\nLong responses can resume after network blips. MCP servers recover better after drops or noisy output. Compaction no longer hangs forever. Notifications only fire when user attention is actually needed. Linux clipboard support is stronger. Windows and iTerm rendering are cleaner. Very long sessions can scroll, resume, and quit without falling apart\n\nGrok Build is becoming a full terminal-native agent workspace: multi-session, plugin-driven, MCP-connected, diagram-aware, math-capable, media-capable, long-context, and built for developers who actually live in the terminal",
       "link": "https://nitter.net/XFreeze/status/2067814505090830771#m",
       "date": "Fri, 19 Jun 2026 03:39:30 GMT"
-    },
-    {
-      "text": "Announcing a new division of Midjourney called \"Midjourney Medical\"\n\nVideo",
-      "link": "https://nitter.net/midjourney/status/2067421950314688759#m",
-      "date": "Thu, 18 Jun 2026 01:39:38 GMT"
-    },
-    {
-      "text": "Elon warned about the AI energy bottleneck before most people even understood it was coming\n\n“I can’t emphasize enough - we need more electricity. However much electricity you think you need, it’s more than that”\n\nNow if look at what is happening. AI labs are raising billions, buying tons of GPUs, and announcing giant clusters\n\nBut then reality hits:\nWhere do you plug them in?\n\nThis is why the AI race is really an energy race. Even the most sophisticated labs can have the money, the chips, and the models but none of it scales without the grid capacity to feed it\n\nThe bottleneck is not just GPUs anymore. It is electricity, substations, transmission, permitting, and the ability to actually plug these massive clusters into the real world\n\nElon saw this years ago and now everyone else is catching up\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2067636957883330942#m",
-      "date": "Thu, 18 Jun 2026 15:54:00 GMT"
-    },
-    {
-      "text": "Afghan Army commanders brought their child sex slaves onto US bases; Marines got PTSD from hearing them get raped at night\n\nThe governor of the district I deployed to had a basement rape dungeon\n\nAnd these were our allies, the “good guys”\n\nPeople have no idea how bad it is there\n\n\nMatt Walsh (@MattWalshBlog)\n\nRape gangs are not some kind of aberration. Ask any combat veteran what they saw in Afghanistan. The sexual torture and slavery of children is utterly commonplace in Muslim countries. It’s part of their “culture.” Which is why it’s suicidal to import that culture into the west.\n\n\n\n— https://nitter.net/MattWalshBlog/status/2067231983965487491#m",
-      "link": "https://nitter.net/RobertMSterling/status/2067387040757358969#m",
-      "date": "Wed, 17 Jun 2026 23:20:55 GMT"
-    },
-    {
-      "text": "“It’s an astonishing story”\n\nThey’re feeding your children to the crocodiles and the Government won’t say who did it because it would be ‘racist’ to do so…\n\nVideo",
-      "link": "https://nitter.net/liz_churchill10/status/2067754860116598887#m",
-      "date": "Thu, 18 Jun 2026 23:42:30 GMT"
     }
   ]
 }

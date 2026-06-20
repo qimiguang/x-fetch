@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-20T04:10:14Z",
+  "updated_at": "2026-06-20T09:26:16Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.8.200.1 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.",
+      "link": "https://nitter.net/teslascope/status/2068203045142290722#m",
+      "date": "Sat, 20 Jun 2026 05:23:25 GMT"
+    },
+    {
+      "text": "A new feature has been detected: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2068182261577429167#m",
+      "date": "Sat, 20 Jun 2026 04:00:50 GMT"
+    },
     {
       "text": "Tesla software update 2026.16.6 is now rolling out to ~1,210 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.16.6 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n\n— https://nitter.net/teslascope/status/2067784566140449130#m",
       "link": "https://nitter.net/teslascope/status/2068172038552862819#m",
@@ -92,16 +102,6 @@
       "text": "A new feature has been detected: Security Improvements\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2067392238485729699#m",
       "date": "Wed, 17 Jun 2026 23:41:34 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2067392215488303265#m",
-      "date": "Wed, 17 Jun 2026 23:41:29 GMT"
-    },
-    {
-      "text": "Love that @vehiclescope is now showing FSD usage per ride. @teslascope",
-      "link": "https://nitter.net/ElectricRob/status/2066973906812957047#m",
-      "date": "Tue, 16 Jun 2026 19:59:16 GMT"
     }
   ]
 }
