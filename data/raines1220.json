@@ -1,8 +1,18 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-21T04:52:23Z",
+  "updated_at": "2026-06-21T09:57:35Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "I think there will be many Tesla owners who drive distracted, get into a serious crash, get scared, and then lie to the police by saying the car was self-driving because they think it might make them less liable, even if legally it wouldn’t.\n\nI’m not saying this is what happened here, but this has happened in the past, and I do see why some people would have that motivation.\n\n\nABC News (@ABC)\n\nA driver in a Tesla vehicle that was allegedly in self-driving mode crashed into a Texas house Friday night, killing a woman who was inside the home, investigators said. abcnews.link/qbwtFc0\n\n\n\n\n\n— https://nitter.net/ABC/status/2068417451046441338#m",
+      "link": "https://nitter.net/raines1220/status/2068570145933631506#m",
+      "date": "Sun, 21 Jun 2026 05:42:09 GMT"
+    },
+    {
+      "text": "This is another similar scenario. The first part is almost identical, but the second half is far more dangerous than mine.\n\nWhen an event is unfolding in real time, there are multiple plausible futures with similar probabilities. FSD cannot assume the best-case outcome. In this video, the other driver actually accelerated into the lane and created an extremely dangerous situation.\n\nWhat’s interesting is that FSD made almost the same magnitude of evasive maneuver in his video as it did in mine. That suggests FSD was not overreacting in my case. It was choosing a “Game theory Optimal”-style strategy: instead of betting on what the reckless human driver would do next, it positioned itself to preserve safety across multiple possible outcomes.\n\nThis is the kind of strategy humans often fail to appreciate, because humans judge the event after seeing how it ended.\n\n\nC. L. Max Nikias (@MaxNikias_)\n\nMy Cybertruck, on full FSD, in downtown Los Angeles, suddenly swerved to the left and narrowly avoided a collision with the white Audi car changing lanes very fast. If I were the driver, I wouldn’t have been able to prevent the accident.  Views from three different cameras of the CT. \n@elonmusk @Tesla_AI @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MaxNikias_/status/2068342345477894420#m",
+      "link": "https://nitter.net/raines1220/status/2068565561030668313#m",
+      "date": "Sun, 21 Jun 2026 05:23:56 GMT"
+    },
     {
       "text": "B-pillar view as requested\n\nVideo",
       "link": "https://nitter.net/raines1220/status/2067875336348688640#m",
@@ -34,7 +44,7 @@
       "date": "Mon, 15 Jun 2026 14:25:17 GMT"
     },
     {
-      "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
+      "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\nLink\n\n\n\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n\nThe US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.\nanthropic.com\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
       "link": "https://nitter.net/raines1220/status/2065606023466111266#m",
       "date": "Sat, 13 Jun 2026 01:23:47 GMT"
     },
@@ -87,16 +97,6 @@
       "text": "Raines (@raines1220)\n\nTesla Robotaxi was at least ~1.81x safer than humans in April 2026. With the latest NHTSA crash report, and thanks to Robotaxi Tracker, I can finally report that Tesla Robotaxi in Austin surpassed average human safety in April 2026 (last month).\n\n1. According to NHTSA, I estimate the human crash rate, including both reported and non-reported crashes, is ~249K miles per accident.\n\n2. I collected all Tesla-reported mileage, as well as 7-day active fleet size from Robotaxi Tracker, and found the mileage is pretty predictable. This allows me to accurately estimate monthly Robotaxi mileage in Austin with <5% error.\n\n3. Using the latest NHTSA crash report, I calculated the 3-month rolling crash rate, since Tesla sometimes has 0 monthly crashes. It clearly shows that in April, the 3-month rolling crash rate surpassed humans for the first time.\n\n\n\n\n\n— https://nitter.net/raines1220/status/2055521959467733479#m",
       "link": "https://nitter.net/raines1220/status/2055522490278109333#m",
       "date": "Sat, 16 May 2026 05:35:26 GMT"
-    },
-    {
-      "text": "Modeling Robotaxi mileage in Austin",
-      "link": "https://nitter.net/raines1220/status/2055522416814915766#m",
-      "date": "Sat, 16 May 2026 05:35:08 GMT"
-    },
-    {
-      "text": "More detail on human baseline",
-      "link": "https://nitter.net/raines1220/status/2055522202934792407#m",
-      "date": "Sat, 16 May 2026 05:34:17 GMT"
     }
   ]
 }
