@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-22T12:13:56Z",
+  "updated_at": "2026-06-22T18:50:41Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "Yes, Tesla is deploying Robotaxi very slowly for some reason. However, Tesla is constantly producing new Cybercabs, and those are filling parking lots at a stable rate. Recently, new Cybercabs reportedly no longer have steering wheels, according to @tesla2moon.\n\nIf the large-scale deployment timeline is unclear to Elon, then why doesn’t he pause or slow down Cybercab production, or at least add steering wheels to them?\n\nIn fact, if you think about Robotaxi long term, the scaling rate will probably be bottlenecked by the manufacturing rate for years. So I suggest that, in the early stages, we look at the production rate of Cybercabs, especially those without steering wheels, to estimate the actual “scale” of Robotaxi, instead of only looking at those running on the road. This might reduce short-term noise.",
+      "link": "https://nitter.net/raines1220/status/2069110868223435010#m",
+      "date": "Mon, 22 Jun 2026 17:30:47 GMT"
+    },
     {
       "text": "Raines (@raines1220)\n\nEven if we give them every possible benefit of the doubt and assume FSD was active, why didn’t the driver disengage or intervene? The car was clearly speeding, and that was an obvious warning sign that it was time to disengage. Was the driver asleep with his foot on the accelerator?\n\nIf the driver were trying to make up a story, claiming the brakes failed would’ve been a better lie. Saying “self-driving was active” sounds more like an attempt to avoid responsibility.\n\n\n\n— https://nitter.net/raines1220/status/2068740808262746615#m",
       "link": "https://nitter.net/raines1220/status/2068741057920274637#m",
@@ -59,7 +64,7 @@
       "date": "Mon, 15 Jun 2026 14:25:17 GMT"
     },
     {
-      "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\nLink\n\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n\nThe US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.\nanthropic.com\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
+      "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\nLink\n\n\n\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n\nThe US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.\nanthropic.com\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
       "link": "https://nitter.net/raines1220/status/2065606023466111266#m",
       "date": "Sat, 13 Jun 2026 01:23:47 GMT"
     },
@@ -87,11 +92,6 @@
       "text": "Since I joined🤓",
       "link": "https://nitter.net/raines1220/status/2061909727580409942#m",
       "date": "Tue, 02 Jun 2026 20:36:02 GMT"
-    },
-    {
-      "text": "FSD v14 in China shows off superhuman capability on a narrow cliffside mountain road in insane fog and rain.\n\nfrom: 大胡L5\n\nVideo",
-      "link": "https://nitter.net/raines1220/status/2059671126419378387#m",
-      "date": "Wed, 27 May 2026 16:20:38 GMT"
     }
   ]
 }
