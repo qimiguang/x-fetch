@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-22T18:50:41Z",
+  "updated_at": "2026-06-22T22:49:23Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "I actually think SpaceX has a fair price now (~$2T), based on simple math using publicly known information that everyone already has access to.\n\nAnd since I also did some secret research (lol), my take on the win rate of certain core projects might be different from the market’s take. As a result, personally, I think it is actually very undervalued and a good deal now.",
+      "link": "https://nitter.net/raines1220/status/2069189625235869878#m",
+      "date": "Mon, 22 Jun 2026 22:43:44 GMT"
+    },
     {
       "text": "Yes, Tesla is deploying Robotaxi very slowly for some reason. However, Tesla is constantly producing new Cybercabs, and those are filling parking lots at a stable rate. Recently, new Cybercabs reportedly no longer have steering wheels, according to @tesla2moon.\n\nIf the large-scale deployment timeline is unclear to Elon, then why doesn’t he pause or slow down Cybercab production, or at least add steering wheels to them?\n\nIn fact, if you think about Robotaxi long term, the scaling rate will probably be bottlenecked by the manufacturing rate for years. So I suggest that, in the early stages, we look at the production rate of Cybercabs, especially those without steering wheels, to estimate the actual “scale” of Robotaxi, instead of only looking at those running on the road. This might reduce short-term noise.",
       "link": "https://nitter.net/raines1220/status/2069110868223435010#m",
@@ -87,11 +92,6 @@
       "text": "I noticed that many people do not really understand the difference between Mythos and Fable. They assume Mythos is publicly available today, but that is not true. The model available to the public is Fable, which comes with ridiculous \"safeguards\" and is so restricted that you basically cannot do anything with it.",
       "link": "https://nitter.net/raines1220/status/2064555315404964236#m",
       "date": "Wed, 10 Jun 2026 03:48:39 GMT"
-    },
-    {
-      "text": "Since I joined🤓",
-      "link": "https://nitter.net/raines1220/status/2061909727580409942#m",
-      "date": "Tue, 02 Jun 2026 20:36:02 GMT"
     }
   ]
 }
