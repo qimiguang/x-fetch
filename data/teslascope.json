@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-22T22:49:05Z",
+  "updated_at": "2026-06-23T04:00:30Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "ICYMI: The viral (and unfortunately fatal) crash in Texas was due to the driver pressing down on the accelerator and reaching a top speed of 73 mph.\n\nReckless driving costs lives and the media’s desire to find AP / Full Self-Driving at fault makes roads less safe for everyone.\n\n\nAshok Elluswamy (@aelluswamy)\n\nYup. In this case, the driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area. They reached a speed of 73 mph during the crash, and had the accelerator pressed even after the crash.\n\n\n\n— https://nitter.net/aelluswamy/status/2069168079549161491#m",
+      "link": "https://nitter.net/teslascope/status/2069197421859729614#m",
+      "date": "Mon, 22 Jun 2026 23:14:43 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.3 is now rolling out to ~2,750 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.3 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.3.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2067392215488303265#m",
       "link": "https://nitter.net/teslascope/status/2069106957839909198#m",
@@ -97,11 +102,6 @@
       "text": "A new feature has been detected: Autopilot Naming Update\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2067784583878234198#m",
       "date": "Fri, 19 Jun 2026 01:40:37 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.16.6 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.16.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.16.6.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2067784566140449130#m",
-      "date": "Fri, 19 Jun 2026 01:40:32 GMT"
     }
   ]
 }
