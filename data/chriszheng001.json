@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-06-24T04:02:44Z",
+  "updated_at": "2026-06-24T09:40:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "FSD v12、v13 和 v14 分别是在 2023/11、2024/11 和 2025/10 前后开始内测，之所以选择内测作为观测指标，是因为从内测到全量，时长很难收敛到一个固定区间。如果研发流程没有重大变化，FSD v15 也会在 Q4 到来。但另一方面，很难想象 4 月投产的 CyberCab 会一直等到 Q4。@Tesla_AI 能不能分享下规划",
+      "link": "https://nitter.net/ChrisZheng001/status/2069688381723058312#m",
+      "date": "Wed, 24 Jun 2026 07:45:37 GMT"
+    },
     {
       "text": "还是应该安全第一，FSD v14.3 统计数据应该可以到 MPCI＞ 1000 km，直接睡觉还是心太大了。😂\n\n\nCyberCat (@CyberCatX)\n\n我现在开FSD下班回家经常有一段时间进入无意识打盹状态，但其实睡还是睡不安稳的，经常会担心无意触碰到方向盘或踩到刹车退出了FSD。 我觉得当未来fsd进入无监督，在后期某个阶段会推出锁定睡眠模式，意思是这个状态下车辆将无法被接管。\n\n\n\n— https://nitter.net/CyberCatX/status/2069617325989392481#m",
       "link": "https://nitter.net/ChrisZheng001/status/2069618743525994705#m",
@@ -97,11 +102,6 @@
       "text": "Tesla Never Stopped Developing The Model S — Revelations with Jason Cammisa piped.video/IwnJzP0TlCk?si=tUb6… 来自 @YouTube\n\nLink\n\n\n\nTesla Never Stopped Developing The Model S — Revelations with Jason Cammisa\n\nThe Tesla Model S is the most significant car of the last 75 years....\nyoutube.com",
       "link": "https://nitter.net/ChrisZheng001/status/2047660773942710734#m",
       "date": "Fri, 24 Apr 2026 12:55:46 GMT"
-    },
-    {
-      "text": "Before FSD even began to slow down, the Hyundai SUV on the left showed no intention of cutting in to the right. Yet FSD’s prediction was spot on.\n\n\nMike P (@mikepat711)\n\nFSD realizes the car to its’ left dun goofed up/has nowhere to go, anticipates what it needs to do, and slows to let him in.\n\nZoom into the guy’s license plate and read it. Can’t make this stuff up 😂\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/mikepat711/status/2040229970572632512#m",
-      "link": "https://nitter.net/ChrisZheng001/status/2040344962295099714#m",
-      "date": "Sat, 04 Apr 2026 08:25:21 GMT"
     }
   ]
 }
