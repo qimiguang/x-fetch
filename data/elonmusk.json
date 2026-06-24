@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-06-24T04:02:40Z",
+  "updated_at": "2026-06-24T17:08:17Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The strange thing about progress is that it only counts if you ignore where we started.\n\nEvery civilisation practised slavery.\n\nThe civilisation that ended it is now told it should feel guilty forever for having once participated. How does that make any sense?\n\nVideo",
+      "link": "https://nitter.net/KonstantinKisin/status/2069724387855503501#m",
+      "date": "Wed, 24 Jun 2026 10:08:42 GMT"
+    },
+    {
+      "text": "Starlink\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Starlink will help power emergency communications across all 78 Puerto Rico municipalities.\n\n• Announced by Puerto Rico Governor Jenniffer González Colón\n\n• Puerto Rico will equip emergency management offices with Starlink satellite internet.\n\n• Starlink will donate satellite antennas to Puerto Rico’s emergency management bureau\n\n• The deployment will cover all 78 municipalities\n\n• Designed to keep communications online during hurricanes, disasters, and emergencies\n\n• Provides backup internet when cellular and fiber networks fail\n\n• Helps emergency responders coordinate rescue and recovery efforts during outages\n\nThis is why Starlink matters: internet when everything else goes down.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2069776779909181802#m",
+      "link": "https://nitter.net/elonmusk/status/2069807896767107532#m",
+      "date": "Wed, 24 Jun 2026 15:40:32 GMT"
+    },
+    {
+      "text": "I’m reading an old collection of interconnected science fiction stories by Jerry Pournelle, written in the early 70s. His best books were later co-authored with Larry Niven, but it is still solid work in my favored “competence porn” genre, with entrepreneurs as protagonists.\n\nIt stands out to me that he was despairing for America when he wrote the stories. Things looked bad at the time, and his fiction projected it into the future. Social unrest, Vietnam, Watergate, economic recession, energy crisis, and for a patriotic space guy, abandoning Apollo.\n\nThe backdrop for the stories was that America was unfixable, which is, of course, a motivation to go to space in fiction, but I do think he was genuinely worried by what he saw around him.\n\nBut over the next decade, things got better, and Jerry had a front row seat for the rise of the technology sector, writing the Chaos Manor column in Byte magazine for many years. He also got to see the founding of SpaceX, a company straight out of a hard SF novel, and they re-flew a landed rocket shortly before he died.\n\nTrends aren’t fate.\n\nBad situations can be fixed, and good ones still need to be defended.\n\nRIP Jerry, I’m glad you got to see things turn around.\n\nen.wikipedia.org/wiki/Jerry_…",
+      "link": "https://nitter.net/ID_AA_Carmack/status/2069768841043845436#m",
+      "date": "Wed, 24 Jun 2026 13:05:20 GMT"
+    },
+    {
+      "text": "SpaceX's @Starlink will be installed on more than 80 giant Oldendorff ships.\n\nOldendorff is one of the world’s largest dry bulk shipping companies.\n\n\"With vessels operating in diverse regions and trading routes, reliable and resilient connectivity plays an increasingly important role in maintaining operational efficiency and optimizing global fleet management.\"",
+      "link": "https://nitter.net/SawyerMerritt/status/2069768562072289781#m",
+      "date": "Wed, 24 Jun 2026 13:04:14 GMT"
+    },
+    {
+      "text": "Try Grok\n\n\nCernovich (@Cernovich)\n\nI switched the Grok as my search engine a few months ago. I only use Google now to correct typos / check spelling, as it's slower to use Grok for those tasks. Grok is superior to Google in every way.\n\n\n\n— https://nitter.net/Cernovich/status/2069576386608771251#m",
+      "link": "https://nitter.net/elonmusk/status/2069690741295861935#m",
+      "date": "Wed, 24 Jun 2026 07:55:00 GMT"
+    },
+    {
+      "text": "Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed\nnotthebee.com/t23da\n\nLink\n\n\n\nReport: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist...\n\nThis reads like the darkest of satire:\nnotthebee.com",
+      "link": "https://nitter.net/Not_the_Bee/status/2069443300038205633#m",
+      "date": "Tue, 23 Jun 2026 15:31:45 GMT"
+    },
+    {
+      "text": "Grok Build just got another update with many improvements\n\nRelease Notes: v0.2.64 — 2026-06-24\n\nFeatures:\n• Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees.\n• /recap now appears as a collapsible tool-style block with a loading spinner while generating.\n\nBug Fixes:\n• Dashboard arrow keys open agent details and exit overlays; closing an agent now selects the neighboring row.\n• /usage command and credit warnings are now hidden for API-key authentication.\n• MCP servers from your user config no longer appear labeled as project-scoped when running from your home directory.\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got another update with many new features, improvements, and bug fixes\n\nRelease Notes: 0.2.61 – 2026-06-22\n\nFeatures:\n• Closing a terminal tab with a running process now shows a confirmation dialog instead of killing it immediately.\n• /usage now shows prepaid credits balance and auto top-up status.\n• Clipboard copy on Wayland now also tries wl-copy; per-leg outcomes are now logged for diagnostics.\n• Goal mode toggles and limits can now be set in config.toml under the [features] table.\n• All /goal options (toggles, limits, role models) are now configurable together in a [goal] table.\n• Clipboard copies from VS Code over SSH now warn when non-ASCII text may be garbled.\n\nBug Fixes:\n• Focus reports no longer leak as literal text when split across reads over SSH.\n• --disable-web-search now honored in grok -p and grok agent; auxiliary model routing respects catalog overrides.\n• Focus events now fire correctly for SSH-split focus reports.\n• Boolean tool flags now accept \"true\"/\"false\"/\"yes\"/\"no\"/1/0 strings and numbers in addition to native booleans.\n• Session last-active timestamps and message counts no longer regress under concurrent writers.\n• iTerm2 now always uses text/metadata image fallback instead of broken OSC 1337 overlays.\n• Model switches no longer leave the prompt queue stuck after a reconnect.\n• Closing a terminal tab with a running process no longer shows a confirmation dialog.\n• Custom agent profiles now correctly use the harness required by their pinned model.\n• Subagents under custom profiles now adopt the correct harness from the parent's model.\n• Changelog and release-notes modals now scroll with the mouse wheel and arrow keys.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2069299636968591699#m",
+      "link": "https://nitter.net/XFreeze/status/2069660314870899007#m",
+      "date": "Wed, 24 Jun 2026 05:54:06 GMT"
+    },
+    {
+      "text": "Asmongold explains Keir Starmer's resignation using a WoW raid strategy and it makes perfect sense\n\n\"Labour just performed a tank swap. Starmer had too many debuffs so they pulled him out and brought in a new tank.\"\n\n\"The new guy is going to do the same thing for the same raid. They're tanking the same boss in the same way.\"\n\n\"You're Onyxia. Don't fall for the tank swap. He's not the organization. You didn't win, they just reset your aggro.\"\n\nVideo",
+      "link": "https://nitter.net/Asmon_Updates/status/2069639853894201536#m",
+      "date": "Wed, 24 Jun 2026 04:32:47 GMT"
+    },
+    {
+      "text": "People who are complaining that he spends the first half of the movie murdering white people not migrants fail to understand that it’s hammering home an important premise. \n\n“Always hang a traitor before you shoot an enemy”",
+      "link": "https://nitter.net/ltwombly93/status/2069567858376323102#m",
+      "date": "Tue, 23 Jun 2026 23:46:42 GMT"
+    },
+    {
+      "text": "Elon Musk just confirmed that ‘Starmind’ will be the official name of the SpaceX AI satellite constellation\n\nVideo",
+      "link": "https://nitter.net/iam_smx/status/2069569325019635826#m",
+      "date": "Tue, 23 Jun 2026 23:52:32 GMT"
+    },
+    {
+      "text": "I warned you but you scoffed. You will regret your Suicidal Empathy.\n\n\nJayGen 𝕏 er🇨🇦 (@JayGenXer)\n\nRegina just became the first Canadian downtown to blast the Muslim call to prayer over public loudspeakers — right across from City Hall.\n\n@BenMulroney said he’s uncomfortable with it. Well Ben…\n\nSO AM I!!\n\nHe’s right!! And every Canadian who still gives a damn about this country should be too!!\n\nThis isn’t church bells!!\n\nChurch bells chime. They don’t repeat “Allah is the greatest” and “There is no god but Allah” five times a day in Arabic for the whole street to hear.\n\nOne is neutral sound. The other is a public declaration of religious supremacy and the rejection of every other faith.\n\nBen nailed the difference. I’ll say it louder:\n\nYou want to pray? \n\nDo it in your mosque! \nDo it in your home! \nDo it quietly like the rest of us!!\n\nBut don’t turn our public streets and sidewalks into your personal broadcast system!!!\n\nCanada was built on Judeo-Christian foundations. Not imported megaphone dawah.\n\nThis is what “diversity” looks like when it only goes one way — and the people who built this country are expected to sit down and take it.\n\nEnough!!!\n\nCanada First means Canadian streets, Canadian soundscape, and Canadian culture come first.\n\nNot this!!\n\n#cdnpoli #Regina #Saskatchewan #CanadaFirst\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JayGenXer/status/2069571696621686851#m",
+      "link": "https://nitter.net/GadSaad/status/2069617626955825633#m",
+      "date": "Wed, 24 Jun 2026 03:04:28 GMT"
+    },
+    {
+      "text": "\"Democracy\" is when the people vote for Brexit because they want less immigration, but they get exponentially more immigration as punishment.\n\n\nCurt Mills (@CurtMills)\n\nStill absolutely mind-boggling\n\n\n\n\n\n— https://nitter.net/CurtMills/status/2069430928682766618#m",
+      "link": "https://nitter.net/adamkjohnston/status/2069509987554975815#m",
+      "date": "Tue, 23 Jun 2026 19:56:45 GMT"
+    },
+    {
+      "text": "A message to the Republicans in congress and the Trump administration.\n\nPlease stop treating legal immigration like just another issue to be fine tuned and start treating it like the existential threat that it is.\n\nThree genocidal communists were just elected to the House of Representatives because mass legal immigration from the third world made it possible to do so in New York City.\n\nIf you don't ban immigration from the third world, your jobs will be gone too. You think this stays in New York? Your seat is next.",
+      "link": "https://nitter.net/Anc_Aesthetics/status/2069664207977501148#m",
+      "date": "Wed, 24 Jun 2026 06:09:34 GMT"
+    },
+    {
+      "text": "🤣🤣\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2069665946286043260#m",
+      "date": "Wed, 24 Jun 2026 06:16:28 GMT"
+    },
+    {
+      "text": "If your sole value is identity, then someone else will use a more extreme identity to displace you.",
+      "link": "https://nitter.net/yunta_tsai/status/2069664081683107987#m",
+      "date": "Wed, 24 Jun 2026 06:09:04 GMT"
+    },
+    {
+      "text": "USAID funded the Wuhan lab\n\nWuhan lab created SARS-CoV-2\n\nWuhan lab was making more viruses\n\nDOGE defunded USAID\n\nDOGE may have been the most important pandemic prevention agency of the past century\n\n\nTommy Vietor (@TVietor08)\n\nThis is such a monstrous lie. Believe what he said then, not the lies he is telling you (and probably himself) now about the countless deaths DOGE is responsible for\n\n\n\n\n\n— https://nitter.net/TVietor08/status/2069501823795462149#m",
+      "link": "https://nitter.net/kevinnbass/status/2069582523697344681#m",
+      "date": "Wed, 24 Jun 2026 00:44:59 GMT"
+    },
+    {
+      "text": "💯",
+      "link": "https://nitter.net/cb_doge/status/2069624318514938060#m",
+      "date": "Wed, 24 Jun 2026 03:31:03 GMT"
+    },
+    {
+      "text": "Article\n\n\n\nHow USAID Built Color Revolution Infrastructure With NGOs\n\nEveryone is arguing about whether USAID was wasteful. Nobody is explaining what it was actually for.\nYesterday the Daily Caller ran a piece noting that since Trump gutted USAID, right-wing candidates",
+      "link": "https://nitter.net/DataRepublican/status/2069619851518431312#m",
+      "date": "Wed, 24 Jun 2026 03:13:18 GMT"
+    },
+    {
+      "text": "Elon confirms \"Starmind\" will be the official name of @SpaceX's AI satellite constellation.\n\nEarlier this year, SpaceX filed a request with the FCC to launch and operate a constellation of 1 million AI satellites.\n\nSpaceX's AI1 satellite:\n\n\n\n\nElon Musk (@elonmusk)\n\nYes\n\n\n\n— https://nitter.net/elonmusk/status/2069563583382630894#m",
+      "link": "https://nitter.net/SawyerMerritt/status/2069570317798785480#m",
+      "date": "Tue, 23 Jun 2026 23:56:29 GMT"
+    },
     {
       "text": "460 criminal charges\n\n$6.5B intended loss, $1.4B actual loss\n\n$127M seized assets\n\nGreat work by @SecKennedy, @DAGToddBlanche, @FBIDirectorKash, & @DrOzCMS on today’s fraud takedown. If you’re committing fraud, we’ll find you.\n\n\nSecretary Kennedy (@SecKennedy)\n\nWe will find fraud. We will stop it. We will recover taxpayer dollars whenever the law permits, and we will restore integrity to the programs that millions of Americans rely on for their care.\n\n\n\n— https://nitter.net/SecKennedy/status/2069446088742850845#m",
       "link": "https://nitter.net/JDVance/status/2069488592443851030#m",
       "date": "Tue, 23 Jun 2026 18:31:44 GMT"
-    },
-    {
-      "text": "True\n\n\nWall Street Apes (@WallStreetApes)\n\nThe money being sent from USAID wasn’t for humanitarian efforts. USAID money was being LAUNDERED TO GEORGE SOROS to pay for protests\n\nMike Benz exposes USAID has been sending money to George Soros NGOs, he then uses that money to FUND AND TRAIN PROTESTERS\n\nUSAID paying for street protest handbooks to be printed\n\n“USAID gave $5 million to Open Society Foundation — USAID is actually funding George Soros and Soros is passing those funds to the people on the ground.”\n\n“USAID paid to have Saul Alinsky Street protest handbooks printed.”\n\n“The local politicians, the local judges, the local prosecutors, the local anti-corruption NGOs, the local media outlets, the local trade labor, labor groups and unions.”\n\nThis is 100% true and it’s publicly available information \n\nIn 2001, the Soros foundations network was listed USAID among its “donor partners” alongside other government aid agencies. There have been many documented collaborations\n\nWe funded these protests handbooks\n\nUSAID provided 5+ million noted in the Government Accountability Office reports for projects involving OSF-linked groups. These trained hundreds of young Macedonians in activism\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/WallStreetApes/status/2069483990579605925#m",
-      "link": "https://nitter.net/elonmusk/status/2069535856491483484#m",
-      "date": "Tue, 23 Jun 2026 21:39:32 GMT"
-    },
-    {
-      "text": "Starlink coming to @AmericanAir next year!\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: American Airlines has just confirmed it will begin rolling out Starlink across more than 500 narrowbody aircraft starting early next year.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2069529110544839048#m",
-      "link": "https://nitter.net/elonmusk/status/2069535601892987275#m",
-      "date": "Tue, 23 Jun 2026 21:38:32 GMT"
-    },
-    {
-      "text": "USAID and other shady leftist charities used real suffering as a human shield for leftist graft!\n\nAlmost 57% of USAID money to Haiti was...spent inside the DC Beltway.\n\nJust 2% made it to Haiti.\n\n\n\n\nC3 (@C_3C_3)\n\nEnding USAID saved lives.\n\nFact.\n\n\n\n— https://nitter.net/C_3C_3/status/2069111771198103834#m",
-      "link": "https://nitter.net/AndrewCFollett/status/2069355041887048004#m",
-      "date": "Tue, 23 Jun 2026 09:41:03 GMT"
-    },
-    {
-      "text": "If you are asking “Why push back against anti-datacenter efforts?” I consider it a tragedy that anti-nuclear efforts largely strangled nuclear power in the US based on vibes, and I don’t want to see that happen to AI. Public opinion matters, and it shouldn’t be ceded unchallenged.\n\nIf you are asking “Why should I support AI efforts at all?” I believe we are in the midst of a transition more vibrant than the industrial revolution. Opinions formed a couple of years ago about the uselessness of AI are no longer valid. Millions of people and organizations are getting great returns from using it, and the demand for data centers is the market responding to the value signal. That is how progress is made!",
-      "link": "https://nitter.net/ID_AA_Carmack/status/2069486595917402117#m",
-      "date": "Tue, 23 Jun 2026 18:23:48 GMT"
-    },
-    {
-      "text": "Tip of the iceberg\n\n\nNick shirley (@nickshirleyy)\n\n“The fraud is not real”\n\nToday: 455 fraudsters charged, $6.5 billion exposed\n\n*silent*\n\nSociety will never improve until people and the media can look at issues with a logical perspective of: Is this right or wrong to be happening?\n\nEXPOSE IT ALL\n\n\n\n— https://nitter.net/nickshirleyy/status/2069503152488079733#m",
-      "link": "https://nitter.net/elonmusk/status/2069514943385469087#m",
-      "date": "Tue, 23 Jun 2026 20:16:26 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2069497797993451848#m",
-      "date": "Tue, 23 Jun 2026 19:08:19 GMT"
-    },
-    {
-      "text": "💫\n\n\nSawyer Merritt (@SawyerMerritt)\n\nSpaceX has cool star names for stuff.\n\n• Starfall: Will enable access to microgravity environment for scientific research & in-space manufacturing\n\n• Stargaze: Tracks objects in orbit to prevent collisions\n\n• Starshield: Secured satellite network designed specifically for government, military, and intelligence agencies\n\n• Starbase: Official incorporated city and private spaceport located in Boca Chica, Texas\n\n• Starfactory: 1+ million-square-foot advanced manufacturing facility located at Starbase\n\n• Starship: Largest and most powerful rocket ever\n\n• Starlink: Satellite internet constellation\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2069480462066860380#m",
-      "link": "https://nitter.net/elonmusk/status/2069493276525449553#m",
-      "date": "Tue, 23 Jun 2026 18:50:21 GMT"
-    },
-    {
-      "text": "More riddles for @RoKhanna. The President of El Salvador came to the same conclusion as DOGE and celebrated the shutdown of USAID. Are you accusing the President who reduced his country’s murder rate by 95% of supporting the murder of children?",
-      "link": "https://nitter.net/MikeBenzCyber/status/2069492539455832144#m",
-      "date": "Tue, 23 Jun 2026 18:47:25 GMT"
-    },
-    {
-      "text": "You can map the collapse of the West by its denial of the True, then the Good, and finally the Beautiful.\n\nAll that’s left to replace them are  power,  performance, and pleasure.",
-      "link": "https://nitter.net/TheAliceSmith/status/2069364308291576255#m",
-      "date": "Tue, 23 Jun 2026 10:17:52 GMT"
-    },
-    {
-      "text": "First Southwest Airlines flight with Starlink!\n\n\nStarlink (@Starlink)\n\nThe first @SouthwestAir flight with Starlink has taken off, connecting passengers and crew with reliable, high-speed Wi-Fi from gate to gate 🛰️✈️\n\n\n\n\n\n\n\n— https://nitter.net/Starlink/status/2069456317635498279#m",
-      "link": "https://nitter.net/elonmusk/status/2069484512984371663#m",
-      "date": "Tue, 23 Jun 2026 18:15:31 GMT"
-    },
-    {
-      "text": "Accusations of racism have been weaponized to stop criticism and common sense. \n\nNo more.\n\n\nThe British Patriot (@TheBritLad)\n\nI used to be bothered about being called a racist.\n\nNow I do not give a flying shit.\n\nAnyone else feel the same?\n\n\n\n— https://nitter.net/TheBritLad/status/2069427542910484640#m",
-      "link": "https://nitter.net/elonmusk/status/2069484189003796951#m",
-      "date": "Tue, 23 Jun 2026 18:14:14 GMT"
-    },
-    {
-      "text": "Soros wants to end Western Civilization\n\n\nRothmus 🏴 (@Rothmus)\n\nThe open society and its enemy, Soros. \n\nWhile he named his Open Society Foundations after Karl Popper’s “The Open Society and Its Enemies,” his project stands as a philosophical inversion of everything Popper defended.\n\nPopper’s open society rested on critical rationalism, the recognition that no one possesses final truth, that institutions must remain open to criticism and piecemeal reform, and that democracy functions as a method for removing rulers without bloodshed. \n\nHe rejected historicism, the belief in iron laws of history that justify sacrificing present generations for a utopian future, and warned that such thinking inevitably produces closed, authoritarian societies.\n\nSoros has repurposed the label to advance a grand project of engineered demographic transformation. \n\nThrough mass immigration, multiculturalism as official policy, and diversity mandates that prioritize group identity over individual merit and assimilation, his foundations actively dissolve the cultural continuity and social trust that make rational criticism and incremental change possible. \n\nPopper understood that openness requires a stable framework, a shared language of reason, basic cohesion, and institutions citizens feel they collectively own. \nSoros treats those foundations as obstacles to be overcome in the name of an abstract, borderless openness.\n\nThe concrete results are visible. Parallel societies that operate under different norms, public spaces where debate on the scale and selection of immigration is treated as illegitimate, and the rise of identity based hierarchies that close off dissent in the name of equity. \n\nThese are certainly not expansions of the open society, but new forms of closure, tribal in character, enforced through institutional capture rather than overt dictatorship, yet hostile to the very critical spirit Popper placed at the center of civilized life.\n\nPhilosophically, Soros replaces Popper’s falsification and humility before reality with a new historicism, the conviction that global multiculturalism and open borders represent inevitable moral progress, and that resistance from actual existing communities constitutes the new enemy. \n\nThe machinery funded in the name of openness does not test its own assumptions against evidence, it suppresses the questions.\n\nThose who still value the ideal of an open society should read Popper on their own terms. \nThey will find that Soros has not extended the open society, but has supplied its most sophisticated contemporary enemies.\n\n\n\n\n\n\n\n— https://nitter.net/Rothmus/status/2069264652337365235#m",
-      "link": "https://nitter.net/elonmusk/status/2069483505051128064#m",
-      "date": "Tue, 23 Jun 2026 18:11:31 GMT"
-    },
-    {
-      "text": "🎯\n\n\nDepartment of Government Efficiency (@DOGE)\n\nCan confirm. 🇺🇸\n\n\n\n— https://nitter.net/DOGE/status/2069462183600148681#m",
-      "link": "https://nitter.net/elonmusk/status/2069482748268744823#m",
-      "date": "Tue, 23 Jun 2026 18:08:30 GMT"
-    },
-    {
-      "text": "It’s a requirement to be born in America to be President.\n\nIt should also be a requirement to be born in America to be a federal judge.",
-      "link": "https://nitter.net/IanJaeger29/status/2069412912444149959#m",
-      "date": "Tue, 23 Jun 2026 13:31:00 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2069477887598886973#m",
-      "date": "Tue, 23 Jun 2026 17:49:12 GMT"
-    },
-    {
-      "text": "Exactly. \n\nIf there were mass deaths due to USAID, when are they? I would like to call the bereaved parents! \n\nNobody died is the truth, but a lot of fraud, funding bioweapons and foreign government interference was stopped. \n\nMany lives were saved as a result of stopping the bad parts of USAID funding. The parts of funding that have some chance of doing good remain in place and were transferred to the State Department.\n\n\nI Meme Therefore I Am 🇺🇸 (@ImMeme0)\n\nDemocrats aren’t going after Elon Musk because of “dying children.” They are pissed off that DOGE cut their USAID slush fund used to manipulate information and tilt elections in our country and foreign countries.\n\nNotice the pattern? Since the 2025 USAID cuts, 7 conservative candidates swept presidential elections across Latin America: Ecuador, Bolivia, Honduras, Chile, Costa Rica, Colombia, and Peru. If USAID was still in place, Lula most likely wouldn’t have won in Brazil.\n\nHere, Samantha Power, the former administrator of USAID, proudly highlighted the agency’s role in influencing what she called “strategically important elections” through the Democratic Elections Fund. She also discussed how USAID funded journalists not only to report the news, but also to “fact-check” incoming information.\n\nUSAID directed nearly $500 million to the Internews Network, a little-known NGO funded by the U.S. government. The organization worked with 4,291 media outlets, produced 4,799 hours of broadcasts in a single year, reached as many as 778 million people, and trained more than 9,000 journalists by 2023. Internews also supported social media censorship initiatives.\n\nUSAID also funded and trained thousands of lawyers, judges, and election workers, conducted polls that questioned election legitimacy, published reports alleging fraud, and participated in overseeing new elections both in the United States and abroad, among many other activities.\n\nOn the contrary, Elon Musk and DOGE actually saved millions of children. By cutting USAID influence, they let parents freely reject leftist failures on crime, economy, and socialism at the polls without manipulation.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ImMeme0/status/2069456595868696815#m",
-      "link": "https://nitter.net/elonmusk/status/2069477706593604018#m",
-      "date": "Tue, 23 Jun 2026 17:48:28 GMT"
-    },
-    {
-      "text": "It’s all fake and gay.\n\nGovernment and media manufactured the “class war” then pivoted to race war to absolve the state of blame for the 2008 crisis, sideline the Tea Party with racist media attacks, and consolidate power in leftist hands.\n\nThe crash was produced by Fed money printing, Fannie and Freddie guarantees, and government mandates that forced risky loans into the system. \nWhen it collapsed the insiders got bailed out. The public absorbed the damage.\n\nThe Tea Party demanded accountability for the bailouts and spending. \nMedia met that challenge by branding the movement racist from the start. That attack neutralized a direct threat to big government and crony finance.\nOccupy was tolerated because it focused on banks and left the state’s central role untouched.\n\nAnd since the “racist” accusations worked on the Tea Party, the pivot to race delivered new tools for state expansion. \n\nMedia usage of the word racist surged after 2012. Equity and systemic claims became the justification for deeper government reach into hiring, lending, education, and speech.\n\nThe result is consolidated leftist power. The administrative state grew larger and more intrusive. Progressive ideology gained institutional dominance while opposition gets preemptively discredited rather than debated on substance.\n\nThis sequence protected the government from reckoning with the crisis it created and shifted authority toward those who thrive on bigger government and identity based control.\n\nNow the woke narrative is crumbling, watch them pivot back to a class war.",
-      "link": "https://nitter.net/Rothmus/status/2069442368047136934#m",
-      "date": "Tue, 23 Jun 2026 15:28:03 GMT"
-    },
-    {
-      "text": "USAID should be called USCON\n\n\nTom Elliott (@tomselliott)\n\nHow many people has Elon Musk personally murdered via his work helping defund USAID? I've run the numbers. \n\nUSAID, as people outside of CNN's viewership already know, operates largely as a CIA cutout, placing assets on the ground in countries where the U.S. govt is intervening politically. \n\nUSAID was instrumental is helping seed the following revolutions/coup d'états/civil wars:\n\nSerbia — Bulldozer Revolution (Oct. 2000)\n\nVenezuela — coup attempt + sustained OTI funding (April 2002)\n\nGeorgia — Rose Revolution (Nov. 2003)\n\nUkraine — Orange Revolution (2004)\n\nHaiti — Ouster of Aristide (Feb. 2004)\n\nLebanon — Cedar Revolution (2005)\n\nBelarus — opposition funding, \"Jeans Revolution\" and after — attempted, failed (2006)\n\nHonduras — Coup against Zelaya (Jun. 2009)\n\nCuba — ZunZuneo / \"Cuban Twitter\"  — attempted, failed (2010–12)\n\nTunisia — \"Arab Spring\" (2011)\n\nEgypt — \"Arab Spring\" (2011–12) \n\nUkraine — Euromaidan / Revolution of Dignity (2014)\n\nBolivia — anti-Morales funding; 2013 expulsion; 2019 ouster\n\nKyrgyzstan — Tulip Revolution (March 2005)\n\nWithout U.S. intervention, it's hard to see how any of these would have gotten off the ground. Some back-of-the-envelope math on these conflicts' bodycount: \n\nVenezuela (2002): 19\n\nHaiti (2004): ~300\n\nMaidan event (2014): ~100+ killed.\n\nBolivia (2019): 36\n\nDonbas war (2014–2022): 14,200–14,400 military & civilian deaths. \n\nUkraine full-scale war (2022–present), deaths, both sides, mil + civ: roughly 350,000–500,000 killed.\n\nSo far we're up to somewhere north of 365,000 deaths, more likely north of 500K.\n\nWhat else do we have?\n\nUSAID also helped fund poppy (heroin) farmers in Afghanistan. Unfortunately I haven't seen estimates of how many have died as a result of this taxpayer funded drug dealing, but I'm assuming they're not small numbers. \n\nUSAID also worked with groups sexually abusing/trafficking children in Kenya (2021), and the Central African Republic (2013).\n\nMuch earlier, during Vietnam, USAID helped the CIA arm & feed Hmong guerrillas fighting communist forces (not the worst thing). USAID also helped the Hmong militia & other warlords smuggle opium (a far less forgivable thing). \n\nWhile the final tally is hard to properly calculate, if past is predicate, in helping shutdown USAID, @elonmusk could be saving hundreds of thousands of lives, thousands of African children, & millions of people around the world susceptible to opiate addiction. \n\nGet this man a Peace Prize, @NobelPrize\n\n\n\n\n\n— https://nitter.net/tomselliott/status/2069474408104653203#m",
-      "link": "https://nitter.net/elonmusk/status/2069475896982118444#m",
-      "date": "Tue, 23 Jun 2026 17:41:17 GMT"
-    },
-    {
-      "text": "We need to rename USAID to \"USCON\" to more accurately reflect what the money was being used for.",
-      "link": "https://nitter.net/AdamLowisz/status/2069461383758885277#m",
-      "date": "Tue, 23 Jun 2026 16:43:37 GMT"
     }
   ]
 }
