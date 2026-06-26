@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-25T22:23:56Z",
+  "updated_at": "2026-06-26T04:10:31Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.20.3 is now rolling out to ~6,710 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.3 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.3.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2067392215488303265#m",
+      "link": "https://nitter.net/teslascope/status/2070290993430053197#m",
+      "date": "Thu, 25 Jun 2026 23:40:11 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.14.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.14.300 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.14.300.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2070214197368037847#m",
@@ -89,7 +94,7 @@
       "date": "Sat, 20 Jun 2026 04:00:50 GMT"
     },
     {
-      "text": "Tesla software update 2026.16.6 is now rolling out to ~1,210 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.16.6 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.16.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.16.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2067784566140449130#m",
+      "text": "Tesla software update 2026.16.6 is now rolling out to ~1,210 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.16.6 on Model 3 Performance (2024) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n2026.16.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.16.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2067784566140449130#m",
       "link": "https://nitter.net/teslascope/status/2068172038552862819#m",
       "date": "Sat, 20 Jun 2026 03:20:13 GMT"
     },
@@ -97,11 +102,6 @@
       "text": "Tesla software update 2026.20.3 is now rolling out to ~8,580 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.3 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.3.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2067392215488303265#m",
       "link": "https://nitter.net/teslascope/status/2068075323942465760#m",
       "date": "Fri, 19 Jun 2026 20:55:54 GMT"
-    },
-    {
-      "text": "A new feature has been detected: Blind Spot Warning While Parked\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2068040524720656613#m",
-      "date": "Fri, 19 Jun 2026 18:37:38 GMT"
     }
   ]
 }
