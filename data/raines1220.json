@@ -1,7 +1,7 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-06-26T22:18:58Z",
-  "count": 19,
+  "updated_at": "2026-06-27T03:56:53Z",
+  "count": 17,
   "tweets": [
     {
       "text": "Supreme stupidity.\n\n\nGordon Johnson (@GordonJohnson19)\n\nHey @aelluswamy are you stating, below, FSD (supervised) was indeed engaged right before the fatal accident occurred - i.e., the driver was “supervising” the FSD that was activated? And, if yes, does this mean the system failed? Any help is GREATLY appreciated? $TSLA\n\n\n\n— https://nitter.net/GordonJohnson19/status/2069360882568560836#m",
@@ -24,11 +24,6 @@
       "date": "Mon, 22 Jun 2026 17:30:47 GMT"
     },
     {
-      "text": "I think there will be many Tesla owners who drive distracted, get into a serious crash, get scared, and then lie to the police by saying the car was self-driving because they think it might make them less liable, even if legally it wouldn’t.\n\nI’m not saying this is what happened here, but this has happened in the past, and I do see why some people would have that motivation.\n\n\nABC News (@ABC)\n\nA driver in a Tesla vehicle that was allegedly in self-driving mode crashed into a Texas house Friday night, killing a woman who was inside the home, investigators said. abcnews.link/qbwtFc0\n\n\n\n\n\n— https://nitter.net/ABC/status/2068417451046441338#m",
-      "link": "https://nitter.net/raines1220/status/2068570145933631506#m",
-      "date": "Sun, 21 Jun 2026 05:42:09 GMT"
-    },
-    {
       "text": "Raines (@raines1220)\n\nEven if we give them every possible benefit of the doubt and assume FSD was active, why didn’t the driver disengage or intervene? The car was clearly speeding, and that was an obvious warning sign that it was time to disengage. Was the driver asleep with his foot on the accelerator?\n\nIf the driver were trying to make up a story, claiming the brakes failed would’ve been a better lie. Saying “self-driving was active” sounds more like an attempt to avoid responsibility.\n\n\n\n— https://nitter.net/raines1220/status/2068740808262746615#m",
       "link": "https://nitter.net/raines1220/status/2068741057920274637#m",
       "date": "Sun, 21 Jun 2026 17:01:18 GMT"
@@ -44,9 +39,9 @@
       "date": "Sat, 20 Jun 2026 14:36:57 GMT"
     },
     {
-      "text": "FSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo",
-      "link": "https://nitter.net/raines1220/status/2067801983306866712#m",
-      "date": "Fri, 19 Jun 2026 02:49:45 GMT"
+      "text": "I think there will be many Tesla owners who drive distracted, get into a serious crash, get scared, and then lie to the police by saying the car was self-driving because they think it might make them less liable, even if legally it wouldn’t.\n\nI’m not saying this is what happened here, but this has happened in the past, and I do see why some people would have that motivation.\n\n\nABC News (@ABC)\n\nA driver in a Tesla vehicle that was allegedly in self-driving mode crashed into a Texas house Friday night, killing a woman who was inside the home, investigators said. abcnews.link/qbwtFc0\n\n\n\n\n\n— https://nitter.net/ABC/status/2068417451046441338#m",
+      "link": "https://nitter.net/raines1220/status/2068570145933631506#m",
+      "date": "Sun, 21 Jun 2026 05:42:09 GMT"
     },
     {
       "text": "This is another similar scenario. The first part is almost identical, but the second half is far more dangerous than mine.\n\nWhen an event is unfolding in real time, there are multiple plausible futures with similar probabilities. FSD cannot assume the best-case outcome. In this video, the other driver actually accelerated into the lane and created an extremely dangerous situation.\n\nWhat’s interesting is that FSD made almost the same magnitude of evasive maneuver in his video as it did in mine. That suggests FSD was not overreacting in my case. It was choosing a “Game theory Optimal”-style strategy: instead of betting on what the reckless human driver would do next, it positioned itself to preserve safety across multiple possible outcomes.\n\nThis is the kind of strategy humans often fail to appreciate, because humans judge the event after seeing how it ended.\n\n\nC. L. Max Nikias (@MaxNikias_)\n\nMy Cybertruck, on full FSD, in downtown Los Angeles, suddenly swerved to the left and narrowly avoided a collision with the white Audi car changing lanes very fast. If I were the driver, I wouldn’t have been able to prevent the accident.  Views from three different cameras of the CT. \n@elonmusk @Tesla_AI @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MaxNikias_/status/2068342345477894420#m",
@@ -57,6 +52,11 @@
       "text": "B-pillar view as requested\n\nVideo",
       "link": "https://nitter.net/raines1220/status/2067875336348688640#m",
       "date": "Fri, 19 Jun 2026 07:41:14 GMT"
+    },
+    {
+      "text": "FSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo",
+      "link": "https://nitter.net/raines1220/status/2067801983306866712#m",
+      "date": "Fri, 19 Jun 2026 02:49:45 GMT"
     },
     {
       "text": "I gave it more thought, and I think I found all the answers. I have to say SpaceX’s story is much harder to comprehend compared with Tesla’s.\n\nThe short answer is that 1) inference is trending toward becoming the majority of future compute expense. One day, training in space might also make economic sense. 2) Sending AI chips to space does not make compute cheaper in absolute terms, but during a severe shortage, it can make adding new compute less expensive relative to ground-based alternatives. And 3) to make the AI story complete, Terafab must succeed in solving the production capacity issue around memory and packaging. Hopefully, faster iteration is the key to addressing that challenge, but the risk remains.\n\n\nRaines (@raines1220)\n\nPlease correct me if I’m wrong, but here are my thoughts about AI satellite from SPCX:\n\n1. Training/inference: They are kilometers away from each other. Due to physics limitations, the latency and bandwidth between satellites will make them better suited for inference only, not training.\n\n2. Energy saving: Energy cost for data centers is usually less than 10%. The majority of data center cost today is still depreciation of AI chips. Therefore, even if you consider energy cost as zero, I still have trouble seeing significant cost efficiency when comparing on-ground data centers with in-space ones.\n\n3. Production capacity: If AI chip manufacturing speed is the scaling bottleneck, then launching AI satellites does not unblock scaling, since the satellites still need to wait for the chips. Otherwise, the plan to have 10,000 Starship launches per year becomes the bottleneck, and at this speed, it still does not significantly outpace the expected compute scaling speed on the ground within five years.\n\n\n\n— https://nitter.net/raines1220/status/2066538753670402167#m",
@@ -77,16 +77,6 @@
       "text": "This new crash was a Tesla Robotaxi stopped at a solid red left arrow and rear-ended by a pickup truck. Even after including this new crash, Tesla Robotaxi’s latest 3-month rolling all-crash rate is still better than the average U.S. human baseline.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru May 15, 2026\n\nCrashes since the April 15th release:\n\n@Tesla:      +1       (18 total - Austin Only)\n@Waymo: +191   (2009)\n@Zoox:      +6       (139)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2066516006810374380#m",
       "link": "https://nitter.net/raines1220/status/2066527470422212737#m",
       "date": "Mon, 15 Jun 2026 14:25:17 GMT"
-    },
-    {
-      "text": "I noticed that many people do not really understand the difference between Mythos and Fable. They assume Mythos is publicly available today, but that is not true. The model available to the public is Fable, which comes with ridiculous \"safeguards\" and is so restricted that you basically cannot do anything with it.",
-      "link": "https://nitter.net/raines1220/status/2064555315404964236#m",
-      "date": "Wed, 10 Jun 2026 03:48:39 GMT"
-    },
-    {
-      "text": "Hopefully, this post will clear up some confusion for people who don’t know the difference.",
-      "link": "https://nitter.net/raines1220/status/2064556437620351289#m",
-      "date": "Wed, 10 Jun 2026 03:53:06 GMT"
     },
     {
       "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\nLink\n\n\n\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n\nThe US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.\nanthropic.com\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
