@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-06-27T22:06:51Z",
+  "updated_at": "2026-06-28T04:19:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "可能是基于 AI3 的 FSD v14 Lite，但也有可能是基于 AI4 的 FSD v15，这里底层的研发哲学是一致的。\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nTo ensure the scaling law hits exponential returns after all the pain, it’s critical to maximize useful bits per token per second on a small compute and memory budget before moving into a grand palace.\n\n\n\n— https://nitter.net/yunta_tsai/status/2070741656366944369#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2071041317845823763#m",
+      "date": "Sun, 28 Jun 2026 01:21:42 GMT"
+    },
     {
       "text": "FSD v12、v13 和 v14 分别是在 2023/11、2024/11 和 2025/10 前后开始内测，之所以选择内测作为观测指标，是因为从内测到全量，时长很难收敛到一个固定区间。如果研发流程没有重大变化，FSD v15 也会在 Q4 到来。但另一方面，很难想象 4 月投产的 CyberCab 会一直等到 Q4。@Tesla_AI 能不能分享下规划",
       "link": "https://nitter.net/ChrisZheng001/status/2069688381723058312#m",
@@ -97,11 +102,6 @@
       "text": "In fact Tesla never produced a 40 kWh battery pack; this is a Model S 60, in which they software-locked a portion of the battery capacity.\n\n\nBrandon (@Brand0n)\n\nAnyone interested in owning the elusive \"hobbled horse\" aka the 2013 Tesla Model S 40? 🦄\n\n- No Supercharging as it lacks the hardware\n- Sub 120 mile range\n- 235 hp and 0-60 in 6.5 seconds\n- Air suspension\n- Sunroof\n- Yacht floor\n\nPrice: $8,000. ODO: 120,431 miles. Located in Tucson, AZ.\n\n\n\n\n\n\n\n\n\n— https://nitter.net/Brand0n/status/2051030357001248859#m",
       "link": "https://nitter.net/ChrisZheng001/status/2051258779447280126#m",
       "date": "Mon, 04 May 2026 11:12:58 GMT"
-    },
-    {
-      "text": "Tesla Never Stopped Developing The Model S — Revelations with Jason Cammisa piped.video/IwnJzP0TlCk?si=tUb6… 来自 @YouTube\n\nLink\n\n\n\nTesla Never Stopped Developing The Model S — Revelations with Jason Cammisa\n\nThe Tesla Model S is the most significant car of the last 75 years....\nyoutube.com",
-      "link": "https://nitter.net/ChrisZheng001/status/2047660773942710734#m",
-      "date": "Fri, 24 Apr 2026 12:55:46 GMT"
     }
   ]
 }
