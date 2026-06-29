@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-06-28T22:04:43Z",
-  "count": 20,
+  "updated_at": "2026-06-29T04:25:46Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "48 hours remain for V14 Lite to be released to HW3-equipped Tesla vehicles in eligible regions based on the latest timeline.\n\nWhile this was shared by @aelluswamy during the Q1 Earnings Call, it was specifically prefaced as \"expected to come end of June\".",
+      "link": "https://nitter.net/teslascope/status/2071445493943861377#m",
+      "date": "Mon, 29 Jun 2026 04:07:46 GMT"
+    },
     {
       "text": "The timing of this post, hmmmm.\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nTo ensure the scaling law hits exponential returns after all the pain, it’s critical to maximize useful bits per token per second on a small compute and memory budget before moving into a grand palace.\n\n\n\n— https://nitter.net/yunta_tsai/status/2070741656366944369#m",
       "link": "https://nitter.net/teslascope/status/2071025931158954055#m",
@@ -92,16 +97,6 @@
       "text": "ICYMI: The viral (and unfortunately fatal) crash in Texas was due to the driver pressing down on the accelerator and reaching a top speed of 73 mph.\n\nReckless driving costs lives and the media’s desire to find AP / Full Self-Driving at fault makes roads less safe for everyone.\n\n\nAshok Elluswamy (@aelluswamy)\n\nYup. In this case, the driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area. They reached a speed of 73 mph during the crash, and had the accelerator pressed even after the crash.\n\n\n\n— https://nitter.net/aelluswamy/status/2069168079549161491#m",
       "link": "https://nitter.net/teslascope/status/2069197421859729614#m",
       "date": "Mon, 22 Jun 2026 23:14:43 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.20.3 is now rolling out to ~2,750 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.3 on Model 3 AWD LR (2022) in Georgia, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.3 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.3.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2067392215488303265#m",
-      "link": "https://nitter.net/teslascope/status/2069106957839909198#m",
-      "date": "Mon, 22 Jun 2026 17:15:15 GMT"
-    },
-    {
-      "text": "Happy Father’s Day!",
-      "link": "https://nitter.net/teslascope/status/2068818717669253166#m",
-      "date": "Sun, 21 Jun 2026 22:09:53 GMT"
     }
   ]
 }
