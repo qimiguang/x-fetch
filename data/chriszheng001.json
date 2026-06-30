@@ -1,8 +1,18 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-06-30T04:05:21Z",
+  "updated_at": "2026-06-30T09:49:46Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Suggest FREE 14-day trial for owners to experience FSD v14 Lite.",
+      "link": "https://nitter.net/teslayoda/status/2071694146528760039#m",
+      "date": "Mon, 29 Jun 2026 20:35:49 GMT"
+    },
+    {
+      "text": "Due to its short front overhang and the need for crash safety, the CyberCab features the thickest A-pillar. Combined with the 20.5-inch screen, it becomes ergonomically clear that even if a steering wheel were added, driving it would be highly impractical. It’s a native Robotaxi.\n\n\nTesla (@Tesla)\n\nEngineering tests of the first production Cybercab have begun in Austin\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2071810353156194719#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2071816514349728037#m",
+      "date": "Tue, 30 Jun 2026 04:42:04 GMT"
+    },
     {
       "text": "可能是基于 AI3 的 FSD v14 Lite，但也有可能是基于 AI4 的 FSD v15，这里底层的研发哲学是一致的。\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nTo ensure the scaling law hits exponential returns after all the pain, it’s critical to maximize useful bits per token per second on a small compute and memory budget before moving into a grand palace.\n\n\n\n— https://nitter.net/yunta_tsai/status/2070741656366944369#m",
       "link": "https://nitter.net/ChrisZheng001/status/2071041317845823763#m",
@@ -92,16 +102,6 @@
       "text": "Article\n\n\n\nWhat 10 months in production taught us about the robotics “bubble”\n\nThree numbers, before anything else.\nThe robotics industry raised over $18 billion across 235 equity deals between 2022 and 2025. Annual funding tripled from $2.86B in 2022 to $8.76B in 2025.\nChina",
       "link": "https://nitter.net/YorkYang5050/status/2051306890991415507#m",
       "date": "Mon, 04 May 2026 14:24:08 GMT"
-    },
-    {
-      "text": "HW4 涨价 or HW3 降价都 work，但确实需要不同定价，因为能力有差异，且可以预期能力差异其实比较大。\n\n\nTSLA99T (@Tsla99T)\n\n按照现在的FSD能力和通货膨胀，更有可能的是HW4涨价，而不是HW3降价\n\n\n\n— https://nitter.net/Tsla99T/status/2051084407377682797#m",
-      "link": "https://nitter.net/ChrisZheng001/status/2051265952059392193#m",
-      "date": "Mon, 04 May 2026 11:41:28 GMT"
-    },
-    {
-      "text": "In fact Tesla never produced a 40 kWh battery pack; this is a Model S 60, in which they software-locked a portion of the battery capacity.\n\n\nBrandon (@Brand0n)\n\nAnyone interested in owning the elusive \"hobbled horse\" aka the 2013 Tesla Model S 40? 🦄\n\n- No Supercharging as it lacks the hardware\n- Sub 120 mile range\n- 235 hp and 0-60 in 6.5 seconds\n- Air suspension\n- Sunroof\n- Yacht floor\n\nPrice: $8,000. ODO: 120,431 miles. Located in Tucson, AZ.\n\n\n\n\n\n\n\n\n\n— https://nitter.net/Brand0n/status/2051030357001248859#m",
-      "link": "https://nitter.net/ChrisZheng001/status/2051258779447280126#m",
-      "date": "Mon, 04 May 2026 11:12:58 GMT"
     }
   ]
 }
