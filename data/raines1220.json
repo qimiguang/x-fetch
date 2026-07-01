@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-07-01T04:21:38Z",
+  "updated_at": "2026-07-01T09:59:16Z",
   "count": 17,
   "tweets": [
+    {
+      "text": "It’s not an experiment. It’s malware.\n\n\nThariq (@trq212)\n\nHi, this is an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation. \n\nThe team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while. We merged the PR and this should be fully rolled back in tomorrow’s release.\n\n\n\n— https://nitter.net/trq212/status/2072079729331777817#m",
+      "link": "https://nitter.net/raines1220/status/2072201040703762527#m",
+      "date": "Wed, 01 Jul 2026 06:10:02 GMT"
+    },
     {
       "text": "Supreme stupidity.\n\n\nGordon Johnson (@GordonJohnson19)\n\nHey @aelluswamy are you stating, below, FSD (supervised) was indeed engaged right before the fatal accident occurred - i.e., the driver was “supervising” the FSD that was activated? And, if yes, does this mean the system failed? Any help is GREATLY appreciated? $TSLA\n\n\n\n— https://nitter.net/GordonJohnson19/status/2069360882568560836#m",
       "link": "https://nitter.net/raines1220/status/2069471168021799382#m",
@@ -82,11 +87,6 @@
       "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\nLink\n\n\n\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n\nThe US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.\nanthropic.com\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
       "link": "https://nitter.net/raines1220/status/2065606023466111266#m",
       "date": "Sat, 13 Jun 2026 01:23:47 GMT"
-    },
-    {
-      "text": "I got one share of SpaceX.",
-      "link": "https://nitter.net/raines1220/status/2065335262650278150#m",
-      "date": "Fri, 12 Jun 2026 07:27:53 GMT"
     }
   ]
 }
