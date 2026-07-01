@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-01T17:19:59Z",
+  "updated_at": "2026-07-01T20:02:44Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.14.6.12 is now rolling out to ~3,850 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.12 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.14.6.12 (FSD V14.3.4) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.14.6.12.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2069549668632027466#m",
+      "link": "https://nitter.net/teslascope/status/2072371267630493943#m",
+      "date": "Wed, 01 Jul 2026 17:26:27 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.6 is now rolling out to ~1,650 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2071668311142601129#m",
       "link": "https://nitter.net/teslascope/status/2072241378633875810#m",
@@ -97,11 +102,6 @@
       "text": "The following feature is included: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2071483421533016256#m",
       "date": "Mon, 29 Jun 2026 06:38:28 GMT"
-    },
-    {
-      "text": "The following feature is included: Start Self-Driving from Park\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2071483412536304064#m",
-      "date": "Mon, 29 Jun 2026 06:38:26 GMT"
     }
   ]
 }
