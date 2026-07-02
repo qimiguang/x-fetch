@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-02T04:01:13Z",
+  "updated_at": "2026-07-02T09:21:46Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2072535990133027136#m",
+      "date": "Thu, 02 Jul 2026 04:21:00 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2072535265533456878#m",
+      "date": "Thu, 02 Jul 2026 04:18:07 GMT"
+    },
     {
       "text": "Tesla software update 2026.14.6.12 is now rolling out to ~5,060 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.12 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.14.6.12 (FSD V14.3.4) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.14.6.12.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2069549668632027466#m",
       "link": "https://nitter.net/teslascope/status/2072504686884643251#m",
@@ -92,16 +102,6 @@
       "text": "This is subject to change, especially as we don't anticipate this update will go out widely, and subsequent software updates are expected soon...\n\nBut it's nice to take a moment and appreciate that Tesla released it on a newer branch for better compatibility.",
       "link": "https://nitter.net/teslascope/status/2071489264236523593#m",
       "date": "Mon, 29 Jun 2026 07:01:41 GMT"
-    },
-    {
-      "text": "Best Part of this initial V14 Lite release?\n\nEvery single HW3 vehicle on Earth (whether in an eligible region or not) can upgrade to 2026.20.5.1, because every single vehicle is on an older software update.\n\nAll vehicles that have received 2026.20.5.1 were on 2026.20.3 or older.",
-      "link": "https://nitter.net/teslascope/status/2071488942034313420#m",
-      "date": "Mon, 29 Jun 2026 07:00:24 GMT"
-    },
-    {
-      "text": "That’s me!",
-      "link": "https://nitter.net/BLKMDL3/status/2071483814728380493#m",
-      "date": "Mon, 29 Jun 2026 06:40:02 GMT"
     }
   ]
 }
