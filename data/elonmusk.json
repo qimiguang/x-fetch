@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-02T14:12:59Z",
+  "updated_at": "2026-07-02T16:53:46Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Paraguay is entering a new era of connectivity 🇵🇾\n\nParaguay is working with Starlink through MITIC and COPACO to bring high-speed internet to more than 1,600 schools in isolated areas\n\nThis will connect 50,000+ students and teachers to online learning, digital libraries, collaboration tools, and new opportunities\n\nA satellite in orbit can now change the future of a classroom full of students on the ground",
+      "link": "https://nitter.net/XFreeze/status/2072534996678771188#m",
+      "date": "Thu, 02 Jul 2026 04:17:03 GMT"
+    },
+    {
+      "text": "In 1825, a rich Welsh industrialist bought an entire American town to prove that socialism could work.\n\nHe had the money, the buildings, the theory, and hundreds of eager followers waiting to move in.\n\nTwo years later, it was over. 🧵",
+      "link": "https://nitter.net/sfliberty/status/2072447065397825701#m",
+      "date": "Wed, 01 Jul 2026 22:27:39 GMT"
+    },
+    {
+      "text": "True\n\n\nStudents For Liberty (@sfliberty)\n\nWarren identified the deeper problem almost a century before Ludwig von Mises and Friedrich Hayek made it famous in academic economics.\n\nWhen everyone owns everything, no one owns anything. When labor earns the same reward regardless of effort, effort disappears. When prices vanish, no one knows what anything is worth.\n\n\n\n\n\n— https://nitter.net/sfliberty/status/2072447076751876171#m",
+      "link": "https://nitter.net/elonmusk/status/2072703739866083721#m",
+      "date": "Thu, 02 Jul 2026 15:27:35 GMT"
+    },
+    {
+      "text": "Good analysis of rent control\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2072702987915415887#m",
+      "date": "Thu, 02 Jul 2026 15:24:35 GMT"
+    },
+    {
+      "text": "Starship static fire\n\n\nSpaceX (@SpaceX)\n\nStarship 60-second static fire ahead of the thirteenth flight test\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2072695632104468543#m",
+      "link": "https://nitter.net/elonmusk/status/2072696059835367870#m",
+      "date": "Thu, 02 Jul 2026 14:57:04 GMT"
+    },
+    {
+      "text": "BREAKING: Japan is testing Starlink-powered fire hydrant signs as emergency communication hubs.\n\n• Japan has approximately 120,000 fire hydrant signs installed nationwide.\n\n• The technical demonstration was conducted by Shokasen Hyoshiki Co., Ltd., a company that manages fire hydrant signs across Japan.\n\n• The test explored mounting Starlink equipment on a fire hydrant sign to provide satellite internet connectivity.\n\n• The goal is to transform existing fire hydrant signs into temporary Wi-Fi and emergency communication hubs during disasters.\n\n• Residents could use them to access emergency information and stay connected if cellular and terrestrial internet networks go down.\n\n• The project is currently an early-stage technical verification and has not yet been deployed commercially or nationwide.\n\nThis demonstration shows how @elonmusk's Starlink could help keep communities connected when traditional networks are unavailable.",
+      "link": "https://nitter.net/cb_doge/status/2072652219527368921#m",
+      "date": "Thu, 02 Jul 2026 12:02:51 GMT"
+    },
     {
       "text": "Teams recently completed build and acceptance testing of our 1,000th Merlin 1D engine for Falcon’s first stage! With Falcon’s reusability, recovering these engines has enabled continued reliability enhancements, making Merlin one of the most reliable rocket engines ever manufactured",
       "link": "https://nitter.net/SpaceX/status/2072464558732824680#m",
@@ -72,36 +102,6 @@
       "text": "Grok Build just got another workflow-focused update, bringing smarter controls, improved reliability, and better performance.\n\nRelease Notes: v0.2.80 — 2026-07-01\n\nFeatures:\n• Command timeouts can now be configured per session with a foreground-only ceiling.\n• Background tasks and TODO lists now survive compaction and remain visible to the model.\n• Contextual hints can now be toggled individually for undo, plan mode, and image input.\n\nBug Fixes:\n• Subagent dialogs now reliably show full transcripts on open and reopen.\n• Recap blocks now copy only the summary body, not the header label.\n• Vim navigation keys now type into dashboard prompts, and modals properly handle Esc/Left.\n\nPerformance:\n• Network connections are now more resilient to proxy/load balancer drops.\n\n\n\n\nX Freeze (@XFreeze)\n\nAnother major Grok Build update just landed, bringing new features, smarter workflows, performance improvements, and important bug fixes\n\nRelease Notes: v0.2.79 — 2026-06-30\n\nFeatures:\n• Contextual hints now surface shortcuts like plan mode and clipboard paste when relevant.\n• Graceful shutdowns let interrupted turns resume with a configurable pause budget.\n• Grok.com chat sessions now fully integrate with the gateway bridge for model catalog and resume.\n\nBug Fixes:\n• Question prompts now time out after 6 minutes instead of blocking indefinitely.\n• Fixed a crash that could occur during conversation integrity repairs while a turn was active.\n\nPerformance:\n• Compaction now performs part of its work in the background before blocking the session, improving responsiveness.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2072155918956204375#m",
       "link": "https://nitter.net/XFreeze/status/2072304588586147937#m",
       "date": "Wed, 01 Jul 2026 13:01:30 GMT"
-    },
-    {
-      "text": "“Sometimes I wonder, maybe everything is conscious, or nothing is conscious. I prefer the former; it just seems more fun.”\n\n – Elon Musk\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nNeuralink has solved through-dura electrode implantation!\n\nThis is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.\n\n\n\n— https://nitter.net/elonmusk/status/2072034905299563005#m",
-      "link": "https://nitter.net/teslaownersSV/status/2072049009741738469#m",
-      "date": "Tue, 30 Jun 2026 20:05:55 GMT"
-    },
-    {
-      "text": "Walking the Optimus production line in Fremont",
-      "link": "https://nitter.net/elonmusk/status/2072214077372518657#m",
-      "date": "Wed, 01 Jul 2026 07:01:50 GMT"
-    },
-    {
-      "text": "Neuralink 🧠✨\n\nHow it started  v/s. How it's going\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2072095000041807988#m",
-      "date": "Tue, 30 Jun 2026 23:08:40 GMT"
-    },
-    {
-      "text": "Grok",
-      "link": "https://nitter.net/elonmusk/status/2072097988064018595#m",
-      "date": "Tue, 30 Jun 2026 23:20:32 GMT"
-    },
-    {
-      "text": "This is how USAID spent your tax dollars",
-      "link": "https://nitter.net/elonmusk/status/2072087338789015618#m",
-      "date": "Tue, 30 Jun 2026 22:38:13 GMT"
-    },
-    {
-      "text": "Just hardcore engineering\n\n\nDanish Hussain (@astrodanish)\n\nThis required:\n\n- advanced optics solutions to be able to see vessels through an opaque layer of tissue\n\n- precision manufacturing to machine micrometer scale features in our needles to make them reliably pierce through the tough dural membrane\n\n- and rigorous testing to prove it would all work before we ever tried it in a human for the first time\n\nVery proud of our whole team for executing on such a difficult and important problem- but there are many more challenges left to solve, and we're hiring brilliant engineers across the stack to help! \n\nno biomed background needed!\n\n\n\n— https://nitter.net/astrodanish/status/2072060362934087889#m",
-      "link": "https://nitter.net/elonmusk/status/2072086856553078942#m",
-      "date": "Tue, 30 Jun 2026 22:36:18 GMT"
     }
   ]
 }
