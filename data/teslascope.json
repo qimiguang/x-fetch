@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-02T16:53:49Z",
+  "updated_at": "2026-07-02T19:39:16Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Introducing Model Y Long Wheelbase – now available in the US & Puerto Rico\n\nA 3-row, 6-seat configuration that brings exceptional interior space with ample headroom & legroom for all passengers\n\n0-60 in 4.4 seconds\n325 miles of range\n\n– Front row: Heated/ventilated seats w/ powered thigh cushion\n– Second row: Heated/ventilated captain seats w/ powered armrests & one‑touch fold\n– Third row: Heated seats w/ power recline, one‑touch fold & child seat anchors\n\n–  Improved airflow, increased efficiency & more range\n\n– 89 cu ft of trunk space: with 6 passengers, trunk still fits a 28\" and 20\" suitcase each, plus frunk holds an additional 20\" suitcase. Oversized items like snowboards and bikes also fit easily\n\n– Engineered for safety w/ seat belts & side air bag optimized for second & third row\n\n– Upgraded acoustic glass & suspension to minimize road noise\n\n– Adaptive damping for a smooth, stable ride\n\n– Staggered tires for enhanced grip\n\n– Larger tailgate for better rear visibility & bigger windows overall to deliver great views from every seat\n\n– 16\" first row & 8” second row touchscreens + 19-speaker immersive Tesla Audio\n\n– Upgraded 50W wireless charging pads w/ active cooling & charging ports for all other seats\n\n– FSD Supervised & integrated Grok AI\n\ntesla.com/modely/design#over…\n\n\n\n\n\n\n\nVideo",
+      "link": "https://nitter.net/Tesla/status/2072739795810525522#m",
+      "date": "Thu, 02 Jul 2026 17:50:51 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.20.6.1 is now rolling out to ~2,200 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
+      "link": "https://nitter.net/teslascope/status/2072743602858406320#m",
+      "date": "Thu, 02 Jul 2026 18:05:59 GMT"
+    },
     {
       "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2072535990133027136#m",
@@ -92,16 +102,6 @@
       "text": "V14 Lite is now associated with 2026.20.5.1 on our web platform and iOS app, following new additions to our release note processing.",
       "link": "https://nitter.net/teslascope/status/2071490579922575437#m",
       "date": "Mon, 29 Jun 2026 07:06:55 GMT"
-    },
-    {
-      "text": "FSD v14 Lite is now rolling out to AI3 early-access customers. Based on the feedback, will rollout to more customers over the next few weeks.\n\nThis build distills the driving behavior from AI4’s v14 series into both the camera and compute config of AI3. It includes destination options and speed profiles on city roads, but more importantly significantly improved safety.\n\nWe hope you’ll enjoy it, once the build ships wide.",
-      "link": "https://nitter.net/aelluswamy/status/2071487485172134131#m",
-      "date": "Mon, 29 Jun 2026 06:54:37 GMT"
-    },
-    {
-      "text": "This is subject to change, especially as we don't anticipate this update will go out widely, and subsequent software updates are expected soon...\n\nBut it's nice to take a moment and appreciate that Tesla released it on a newer branch for better compatibility.",
-      "link": "https://nitter.net/teslascope/status/2071489264236523593#m",
-      "date": "Mon, 29 Jun 2026 07:01:41 GMT"
     }
   ]
 }
