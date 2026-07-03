@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-03T03:45:15Z",
+  "updated_at": "2026-07-03T09:26:28Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "True\n\n\nUri Kurlianchik (@VerminusM)\n\nThere is a Frank Herbert quote that describes the future of the West perfectly: \"When I am weaker than you I ask you for freedom because that is according to your principles; when I am stronger than you I take away your freedom because that is according to my principles.\"\n\n\n\n— https://nitter.net/VerminusM/status/2056070468579307686#m",
+      "link": "https://nitter.net/elonmusk/status/2072927075317457223#m",
+      "date": "Fri, 03 Jul 2026 06:15:02 GMT"
+    },
+    {
+      "text": "BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.",
+      "link": "https://nitter.net/cb_doge/status/2072629168983187589#m",
+      "date": "Thu, 02 Jul 2026 10:31:16 GMT"
+    },
+    {
+      "text": "Turbo America. 🇺🇸🚀\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS: \"There’s no reason we should stop at 4%. We should be at 12% and 13% GDP... That’s how we built the country.\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/RapidResponse47/status/2072795296044630502#m",
+      "link": "https://nitter.net/pmarca/status/2072798806559818154#m",
+      "date": "Thu, 02 Jul 2026 21:45:20 GMT"
+    },
+    {
+      "text": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now requires a one-sentence description rationale in every invocation.\n• ask_user_question timeout policy is now configurable in config.toml and /settings.\n• Ask-Question timeout can now be toggled from /settings (Agent & Approval).\n• Thinking/reasoning blocks are now shown by default while the model is working.\n• Critical announcements now show a red title with a clickable [hide] button and aligned message.\n• Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments.\n\nBug Fixes:\n• Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation.\n• Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count.\n• Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name.\n• Copy now succeeds when running inside containers even when the terminal brand cannot be detected.\n• Tool result previews no longer paint opaque panels in grok --minimal.\n• grok wrap now correctly handles quoted strings and shell aliases.\n• Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain.\n• Fixed a freeze that could occur when editing and sending the last message in the queue.\n• Fixed a startup crash on minimal Linux systems lacking system CA certificates.\n\nPerformance:\n• Grep now stops early on broad searches, returning faster results with far less memory use.\n• Idle CPU and memory usage after long sessions or resume is now dramatically lower.\n\n\n\n\nX Freeze (@XFreeze)\n\nAnother Grok Build update is here, it brings new usability improvements to make everyday workflows even smoother.\n\nRelease Notes: v0.2.83 — 2026-07-02\n\nFeatures:\n• Critical announcements now appear in a top banner during active sessions with a hide command.\n• Pasting the same text again next to a paste chip now expands the chip into editable text instead of duplicating it.\n• Paste preview now shows a hint explaining how to expand the chip.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2072552037041209704#m",
+      "link": "https://nitter.net/XFreeze/status/2072891163502080053#m",
+      "date": "Fri, 03 Jul 2026 03:52:20 GMT"
+    },
+    {
+      "text": "First builds of Model Y Long Wheelbase at Giga Texas",
+      "link": "https://nitter.net/tesla_na/status/2072833182635024712#m",
+      "date": "Fri, 03 Jul 2026 00:01:56 GMT"
+    },
     {
       "text": "Q2 2026\n\nProduction: 451,758\n\nDeliveries: 480,126\n\nEnergy storage deployments: 13.5 GWh\n\nOur Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT\n\n→ ir.tesla.com/press-release/t…\n\nLink\n\n\n\nTesla Investor Relations\n\nAUSTIN, Texas, July 2, 2026 – In the second quarter, we produced over 450,000 vehicles, delivered over 480,000 vehicles and deployed 13.5 GWh of energy storage products.\nir.tesla.com",
       "link": "https://nitter.net/Tesla/status/2072667103396806925#m",
@@ -77,31 +102,6 @@
       "text": "Last year, @elonmusk brought national attention to the paper-based federal retirement process hidden deep underground in Boyers, Pennsylvania.\n\nThe Last Day of Paper is more than a milestone, it is proof that government modernization can deliver real results for the American people.\n\nThank you @POTUS and @elonmusk for the initial discussions that led to this important accomplishment: foxnews.com/politics/elon-mu…\n\nLink\n\n\n\nElon Musk describes limestone mine used for processing federal workers&apos; retirement papers: ‘Like a...\n\nElon Musk took aim at a limestone mine in Pennsylvania, where they said federal employee retirements are processed using an outdated system.\nfoxnews.com",
       "link": "https://nitter.net/skupor/status/2072345733584269416#m",
       "date": "Wed, 01 Jul 2026 15:44:59 GMT"
-    },
-    {
-      "text": "Free money, housing, etc acts as a massive financial forcing function to draw illegals to America and Europe\n\n\nJoel Berry (@JoelWBerry)\n\nI think ending welfare for immigrants would solve most of our immigrant problem\n\n\n\n— https://nitter.net/JoelWBerry/status/2072053690748252617#m",
-      "link": "https://nitter.net/elonmusk/status/2072450156801446239#m",
-      "date": "Wed, 01 Jul 2026 22:39:56 GMT"
-    },
-    {
-      "text": "Peter: \"I heard you say you might want a mini woolly mammoth. Is that true?\"\n\nElon: \"Yeah, I think it would be really cool to have a pet miniature woolly mammoth. That'd be pretty epic.\"\n\nPeter: \"I'll put a word in with you for you with  with with Ben [Lamm].\"\n\nElon: \"That'd be adorable. Little things just running around trumpeting away and it's like look at the be a great little pet.\"\n\nVideo",
-      "link": "https://nitter.net/PeterDiamandis/status/2072439276491460715#m",
-      "date": "Wed, 01 Jul 2026 21:56:42 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2072445332315902174#m",
-      "date": "Wed, 01 Jul 2026 22:20:46 GMT"
-    },
-    {
-      "text": "Tesla’s Supercharger network just delivered a monster Q2\n\nIn Q2 2026, Tesla Superchargers delivered 2 terawatt-hours of electricity globally\n\nThat is enough electricity to power roughly 180,000+ U.S. homes for an entire year\n\nThe scale is getting insane:\n• 2 TWh delivered\n• 60 million charging sessions in 3 months\n• 266 kWh sold per plug per day\n• Wait-time percentage dropped below 0.5%\n• 5,000 site maps now live\n• +17% YoY growth\n\nTesla's EV charging network is becoming global energy infrastructure\n\nTesla’s charging infrastructure is getting bigger, faster, more efficient, and less congested at the same time",
-      "link": "https://nitter.net/XFreeze/status/2072408701554897130#m",
-      "date": "Wed, 01 Jul 2026 19:55:12 GMT"
-    },
-    {
-      "text": "The truth about Ellis Islanders.\n\n- Around 2% were denied entry due to poor health or for holding anti-Christian ideology. \n\n- 33% voluntarily returned home, because there wasn't welfare in the U.S. back then.\n\nnews.stanford.edu/stories/20…\n\nLink\n\n\n\nReturning home during Age of Mass Migration\n\nNew research by Stanford economist Ran Abramitzky studies Norwegian immigrants to the U.S. during the late 19th and early 20th centuries who chose to return to Europe. Return migrants hailed from...\nnews.stanford.edu",
-      "link": "https://nitter.net/Cernovich/status/2072364239961125075#m",
-      "date": "Wed, 01 Jul 2026 16:58:32 GMT"
     }
   ]
 }
