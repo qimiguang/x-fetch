@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-04T19:21:20Z",
+  "updated_at": "2026-07-04T22:02:36Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Happy 4th of July! 🎆",
+      "link": "https://nitter.net/teslascope/status/2073504701950333151#m",
+      "date": "Sat, 04 Jul 2026 20:30:19 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.6.1 is now rolling out to ~3,850 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
       "link": "https://nitter.net/teslascope/status/2073128673314504726#m",
@@ -97,11 +102,6 @@
       "text": "Tesla software update 2026.20.6 is now rolling out to ~1,650 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6 on Model X Plaid (2023) in Trøndelag, Norway. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2071668311142601129#m",
       "link": "https://nitter.net/teslascope/status/2072241378633875810#m",
       "date": "Wed, 01 Jul 2026 08:50:19 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.14.6.12 is now rolling out to ~5,170 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.12 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.14.6.12 (FSD V14.3.4) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.14.6.12.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2069549668632027466#m",
-      "link": "https://nitter.net/teslascope/status/2071834944364552625#m",
-      "date": "Tue, 30 Jun 2026 05:55:18 GMT"
     }
   ]
 }
