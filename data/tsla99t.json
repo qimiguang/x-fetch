@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-07-04T16:08:34Z",
+  "updated_at": "2026-07-04T19:21:56Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "🇺🇸大好山川250周年\n\nVideo",
+      "link": "https://nitter.net/Tsla99T/status/2073459234956841245#m",
+      "date": "Sat, 04 Jul 2026 17:29:39 GMT"
+    },
     {
       "text": "通过推送 V14 Lite，特斯拉把 2019 年上市的 HW3 变成了世界上仅次于V14 的 智驾产品\n让大家感受得更强烈一些：那一年，大家还在用 iPhone 10。也就是说，今天各大厂商用最新的硬件、最强的算力所要追赶和对标的，却是特斯拉7 年多前的硬件",
       "link": "https://nitter.net/Tsla99T/status/2073374665569931562#m",
@@ -97,11 +102,6 @@
       "text": "看来大家对华为的过度装修极度厌倦了\n也许特斯拉的极简性冷淡风又将流行起来\n或成为雷军的下一个模仿对象",
       "link": "https://nitter.net/Tsla99T/status/2071237940349386979#m",
       "date": "Sun, 28 Jun 2026 14:23:01 GMT"
-    },
-    {
-      "text": "很显然，开发FSD的编程模型必须只能是Grok\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX & Tesla. Early evals show performance close to, perhaps exceeding Opus. \n\nRL is continuing to significantly improve the model, and the Grok Build harness gets better every day.\n\nNice work by all those involved!\n\nCompletely trained from scratch new models will be released by @SpaceX every month this year.\n\n\n\n— https://nitter.net/elonmusk/status/2071184354756477041#m",
-      "link": "https://nitter.net/Tsla99T/status/2071234420065943827#m",
-      "date": "Sun, 28 Jun 2026 14:09:02 GMT"
     }
   ]
 }
