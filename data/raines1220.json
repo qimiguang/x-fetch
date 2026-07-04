@@ -1,8 +1,13 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-07-03T22:09:36Z",
+  "updated_at": "2026-07-04T03:38:06Z",
   "count": 17,
   "tweets": [
+    {
+      "text": "AI is real.\n\nBut the LLM-token economy still looks like a bubble.\n\nThe money flow is simple:\n\nEnterprise → LLM → GPU → Memory\n\nInvestors are moving upstream in search of certainty.\n\nNo one knows which AI app will win, so they buy the LLM labs. No one knows whether OpenAI, Anthropic, Google, Meta, or xAI will win, so they buy NVIDIA. No one knows how durable GPU demand is, so they buy memory.\n\nEvery layer looks safer than the one below it. But that certainty is an illusion. The entire chain is still funded by the layer closest to real ROI.\n\nEnterprises pay for tokens because they are trying to prove LLM adoption works. But so far, LLM productivity gains have not clearly translated into revenue growth. Consumers are not obviously buying more. Expenses are not obviously falling either.\n\nMost AI-related layoffs look more like companies using LLMs to rationalize previous overhiring. The layoffs truly driven by “AI efficiency” often create backlash, operational problems, or quality issues. When hallucination is still unsolved, critical work still needs human supervision.\n\nSo the economics are awkward: no obvious revenue lift, no obvious expense reduction, and a new token bill on top.\n\nMeanwhile, customers are not receiving much of the surplus. They are not getting better products at lower prices. They are getting higher prices, worse content, and weaker job security.\n\nPersonally, I hate this most when I see gaming consoles getting more expensive, PCs getting more expensive, Macs getting more expensive, and the internet filling up with lower-quality AI slop.\n\nIf consumers do not spend more, the companies selling to them cannot justify ever-growing LLM expenses. And enterprises do not need to abandon LLMs for the chain to break. They only need to slow the growth of LLM spending.",
+      "link": "https://nitter.net/raines1220/status/2073191786915549204#m",
+      "date": "Fri, 03 Jul 2026 23:46:54 GMT"
+    },
     {
       "text": "1.  Hidden\n2. Unauthorized \n3. Against the user’s interests\n\nThe “experiment” from Anthropic coincidentally checks every box of my malware test.\n\n\nThariq (@trq212)\n\nHi, this is an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation. \n\nThe team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while. We merged the PR and this should be fully rolled back in tomorrow’s release.\n\n\n\n— https://nitter.net/trq212/status/2072079729331777817#m",
       "link": "https://nitter.net/raines1220/status/2072423755800871177#m",
@@ -82,11 +87,6 @@
       "text": "This new crash was a Tesla Robotaxi stopped at a solid red left arrow and rear-ended by a pickup truck. Even after including this new crash, Tesla Robotaxi’s latest 3-month rolling all-crash rate is still better than the average U.S. human baseline.\n\n\nMehauff 🚘✈️ (@mehauff7)\n\n🚘NHTSA autonomous vehicle crash data is now updated thru May 15, 2026\n\nCrashes since the April 15th release:\n\n@Tesla:      +1       (18 total - Austin Only)\n@Waymo: +191   (2009)\n@Zoox:      +6       (139)\n\nSource data & more info about methodology in comments\n\n\n\n\n\n— https://nitter.net/mehauff7/status/2066516006810374380#m",
       "link": "https://nitter.net/raines1220/status/2066527470422212737#m",
       "date": "Mon, 15 Jun 2026 14:25:17 GMT"
-    },
-    {
-      "text": "nitter.net/anthropicai/status/206…\n\nSome believe mythos is a scam. I told them it is not. Now you know who to trust.\n\n\n\n\nAnthropic (@AnthropicAI)\n\nThe US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.\n\nThe net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.\n\nAccess to all other Claude models is not affected.\n\nWe apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.\n\nRead our full statement: anthropic.com/news/fable-myt…\n\nLink\n\n\n\nStatement on the US government directive to suspend access to Fable 5 and Mythos 5\n\nThe US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.\nanthropic.com\n\n\n\n\n— https://nitter.net/AnthropicAI/status/2065597531644743999#m",
-      "link": "https://nitter.net/raines1220/status/2065606023466111266#m",
-      "date": "Sat, 13 Jun 2026 01:23:47 GMT"
     }
   ]
 }
