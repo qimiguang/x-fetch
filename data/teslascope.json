@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-06T20:04:31Z",
-  "count": 20,
+  "updated_at": "2026-07-06T22:17:51Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Our @Tesla iOS app is now available to everyone via TestFlight, with the official launch later this month!\n\nMore features, including an Apple Watch companion app, are now pending approval with Apple.\n\nDownload our app using the link below.\ntestflight.apple.com/join/Qp…",
+      "link": "https://nitter.net/teslascope/status/2073955531157627387#m",
+      "date": "Mon, 06 Jul 2026 02:21:45 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.6.1 is now rolling out to ~9,460 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
       "link": "https://nitter.net/teslascope/status/2074205572287672569#m",
@@ -17,11 +22,6 @@
       "text": "We've updated our platform to V6.3.3.\n\nThis includes support for importing data from Tessie for the first time, using their provided \"raw data\" option.\n\nWe've also added sorting for Drives and Charging sessions (and coming to our iOS next update)\n\nMore:\nteslascope.com/blog/6.3.3",
       "link": "https://nitter.net/teslascope/status/2073958461008920937#m",
       "date": "Mon, 06 Jul 2026 02:33:24 GMT"
-    },
-    {
-      "text": "Our @Tesla iOS app is now available to everyone via TestFlight, with the official launch later this month!\n\nMore features, including an Apple Watch companion app, are now pending approval with Apple.\n\nDownload our app using the link below.\ntestflight.apple.com/join/Qp…",
-      "link": "https://nitter.net/teslascope/status/2073955531157627387#m",
-      "date": "Mon, 06 Jul 2026 02:21:45 GMT"
     },
     {
       "text": "New in the Tesla app, starting in 2026.20.6.1:\n\nYou can now view whether a vehicle is actively Self-Driving!\n\n\nJordan Camina (@hletes)\n\nIs this new in the Tesla app?!? @teslascope\n\n\n\n\n\n— https://nitter.net/hletes/status/2073816238778622084#m",
@@ -97,11 +97,6 @@
       "text": "Tesla software update 2026.14.6.12 is now rolling out to ~5,060 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.4 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.14.6.12 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.14.6.12 (FSD V14.3.4) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.14.6.12.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2069549668632027466#m",
       "link": "https://nitter.net/teslascope/status/2072504686884643251#m",
       "date": "Thu, 02 Jul 2026 02:16:37 GMT"
-    },
-    {
-      "text": "Our hunch is the Model Y L is launching in North America this weekend!",
-      "link": "https://nitter.net/teslascope/status/2072497065423515733#m",
-      "date": "Thu, 02 Jul 2026 01:46:20 GMT"
     }
   ]
 }
