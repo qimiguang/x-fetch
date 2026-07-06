@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-05T22:06:09Z",
+  "updated_at": "2026-07-06T04:02:49Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.20.6.1 is now rolling out to ~4,180 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
+      "link": "https://nitter.net/teslascope/status/2073975301898490101#m",
+      "date": "Mon, 06 Jul 2026 03:40:19 GMT"
+    },
+    {
+      "text": "We've updated our platform to V6.3.3.\n\nThis includes support for importing data from Tessie for the first time, using their provided \"raw data\" option.\n\nWe've also added sorting for Drives and Charging sessions (and coming to our iOS next update)\n\nMore:\nteslascope.com/blog/6.3.3",
+      "link": "https://nitter.net/teslascope/status/2073958461008920937#m",
+      "date": "Mon, 06 Jul 2026 02:33:24 GMT"
+    },
+    {
+      "text": "Our @Tesla iOS app is now available to everyone via TestFlight, with the official launch later this month!\n\nMore features, including an Apple Watch companion app, are now pending approval with Apple.\n\nDownload our app using the link below.\ntestflight.apple.com/join/Qp…",
+      "link": "https://nitter.net/teslascope/status/2073955531157627387#m",
+      "date": "Mon, 06 Jul 2026 02:21:45 GMT"
+    },
     {
       "text": "New in the Tesla app, starting in 2026.20.6.1:\n\nYou can now view whether a vehicle is actively Self-Driving!\n\n\nJordan Camina (@hletes)\n\nIs this new in the Tesla app?!? @teslascope\n\n\n\n\n\n— https://nitter.net/hletes/status/2073816238778622084#m",
       "link": "https://nitter.net/teslascope/status/2073871401023648038#m",
@@ -87,21 +102,6 @@
       "text": "What do you think this cryptic message from Tesla means? Notably the \"long\" and dog's collar tag.\n\n\nTesla (@Tesla)\n\nLooking forward to the long weekend\n\n\n\n\n\n— https://nitter.net/Tesla/status/2072450928087900404#m",
       "link": "https://nitter.net/teslascope/status/2072497063062044730#m",
       "date": "Thu, 02 Jul 2026 01:46:19 GMT"
-    },
-    {
-      "text": "Tesla Insurance is on track to launch soon in Washington state, as the company has filed for a new auto insurance program in the state.\n\nThe proposed start date is September 1, 2026. The program will have two safety scores: Safety Score and Safety Score with FSD (Supervised).\n\nThis would be the 16th U.S. state to get Tesla Insurance.",
-      "link": "https://nitter.net/SawyerMerritt/status/2072450048026128417#m",
-      "date": "Wed, 01 Jul 2026 22:39:30 GMT"
-    },
-    {
-      "text": "Even when we received dozens of replies and comments throughout the year that V14 Lite didn’t exist or wasn’t being worked on, we held firm with our timelines and speculations.\n\nWe ask that you once again trust in us, and we’re eager for V14 Lite on our 2018 Model 3 as well.",
-      "link": "https://nitter.net/teslascope/status/2072448645417607404#m",
-      "date": "Wed, 01 Jul 2026 22:33:55 GMT"
-    },
-    {
-      "text": "As for AI3 vehicles outside of North America, this will take some time. We’d give a very rough estimate of late August to early September for the first expansion.\n\nGive the @Tesla_AI team just a bit more patience for this final stretch. We know you’ve been waiting a long time.",
-      "link": "https://nitter.net/teslascope/status/2072448643035230638#m",
-      "date": "Wed, 01 Jul 2026 22:33:55 GMT"
     }
   ]
 }
