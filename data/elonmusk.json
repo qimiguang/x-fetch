@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-08T14:26:20Z",
+  "updated_at": "2026-07-08T16:42:50Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Correct\n\n\ntetsuo (@tetsuoai)\n\nGrok 4.5 goes public tomorrow. Here’s everything that’s known.\n\nThe model runs on V9, xAI’s new 1.5 trillion parameter foundation, roughly three times the size of the v8-small architecture behind Grok 4.3. It’s the largest model the company has shipped, trained on Blackwell GPUs at the Colossus cluster in Memphis.\n\nCoding is the clear focus. Cursor’s developer data was added in supplemental training, and reinforcement learning has been improving the model daily alongside the Grok Build harness. The next foundation model already in training will have Cursor data included from the start of pre-training.\n\nElon calls it Opus-level, and says it’s faster, more token-efficient, and cheaper. It’s been in private beta at SpaceX and Tesla since June 28, with early internal evals reportedly at or above that mark. Public benchmarks land once the model does.\n\nThis is the first flagship under SpaceXAI since the merger, and the plan is a from-scratch foundation model shipping every month through the end of 2026.\n\nTomorrow we get to use it!\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2074785879730577685#m",
+      "link": "https://nitter.net/elonmusk/status/2074889665119740341#m",
+      "date": "Wed, 08 Jul 2026 16:13:40 GMT"
+    },
     {
       "text": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow.\n\nIt is an Opus-class model, but faster, more token-efficient and lower cost.",
       "link": "https://nitter.net/elonmusk/status/2074740539874775163#m",
@@ -92,11 +97,6 @@
       "text": "Falcon 9 landing confirmed\n\nVideo",
       "link": "https://nitter.net/SpaceX/status/2074393818850357568#m",
       "date": "Tue, 07 Jul 2026 07:23:21 GMT"
-    },
-    {
-      "text": "Falcon delivers 81 satellites to orbit\n\n\nSpaceX (@SpaceX)\n\nFalcon 9 launches the 17th Transporter rideshare mission and delivers 81 payloads to orbit\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2074439975957856705#m",
-      "link": "https://nitter.net/elonmusk/status/2074519858381799592#m",
-      "date": "Tue, 07 Jul 2026 15:44:11 GMT"
     }
   ]
 }
