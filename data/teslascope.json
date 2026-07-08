@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-08T19:41:05Z",
+  "updated_at": "2026-07-08T22:11:42Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.20.6.1 is now rolling out to ~9,900 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
+      "link": "https://nitter.net/teslascope/status/2074963269429661921#m",
+      "date": "Wed, 08 Jul 2026 21:06:09 GMT"
+    },
     {
       "text": "Waypoints will initially be available to vehicles with a Plus or Pro subscription while we analyze costs (including Tesla API and Google/Mapbox API fees).\n\nOver time, we'll gradually provide access to this for all members and apply improvements based on feedback.",
       "link": "https://nitter.net/teslascope/status/2074644154039275832#m",
@@ -92,11 +97,6 @@
       "text": "FSD DU 14.3.3 waiting to download NSW Australia, could this be the next wave 🤞",
       "link": "https://nitter.net/Old_Pete_Au/status/2072894558372008025#m",
       "date": "Fri, 03 Jul 2026 04:05:49 GMT"
-    },
-    {
-      "text": "Another wave of v14 rolling out in ANZ, refresh your apps !! @teslascope",
-      "link": "https://nitter.net/arnavsharma/status/2072894110126772603#m",
-      "date": "Fri, 03 Jul 2026 04:04:03 GMT"
     }
   ]
 }

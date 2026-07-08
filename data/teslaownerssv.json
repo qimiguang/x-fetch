@@ -1,8 +1,23 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-07-08T19:41:07Z",
-  "count": 20,
+  "updated_at": "2026-07-08T22:11:44Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "GROK 4.5 RANKS NEAR THE TOP FOR COST EFFICIENCY\n\nAccording to Artificial Analysis, Grok 4.5 is one of the most cost-efficient frontier models available right now.\n\nKey highlights from their evaluation:\n•  $0.31 per task on the Intelligence Index — significantly cheaper than Claude Opus 4.8 and GPT-5.5\n•  Over 60% lower headline pricing than the top competing models\n•  Extremely token-efficient (uses far fewer tokens per task)\n•  Strong performance on the Coding Agent Index at just $2.59 per task in Grok Build\n•  Sits on the Pareto frontier for cost vs. performance across multiple benchmarks\nWhile it doesn’t take the absolute #1 spot in raw intelligence, Grok 4.5 delivers near-frontier capability at a fraction of the cost of the leaders.\nThis combination of strong real-world performance + excellent cost efficiency makes it especially practical for heavy usage.",
+      "link": "https://nitter.net/teslaownersSV/status/2074971856608837675#m",
+      "date": "Wed, 08 Jul 2026 21:40:16 GMT"
+    },
+    {
+      "text": "🚀 Grok 4.5 just dropped — and it’s making serious moves.\n\nAccording to @ArtificialAnlys latest evaluation:\n\n• #4 on the Artificial Analysis Intelligence Index (score: 54)\n\nRight behind Fable 5, GPT-5.5, and Claude Opus 4.8\n\n• Extremely strong on agentic tasks — knowledge work, terminal use, and customer service benchmarks (GDPval-AA v2, τ³-Banking, Terminal-Bench v2.1). It’s sitting right in line with or ahead of the top closed models.\n\n• Insanely cost-efficient: Only $0.31 per Intelligence Index task — significantly cheaper than the leaders while staying competitive.\n\n• As a coding agent in Grok Build, it scores on par with GPT-5.5 (Codex) and delivers excellent efficiency — far fewer tokens than Claude Code or Codex while matching performance.\n\nIt’s 3× larger than Grok 4.3 (1.5T parameters), with a 500k context window and much better price/performance.\n\nThe intelligence frontier is getting both smarter and more accessible.\nBig congrats to the xAI team. This one feels like a real step forward. 🔥",
+      "link": "https://nitter.net/teslaownersSV/status/2074968589820739994#m",
+      "date": "Wed, 08 Jul 2026 21:27:17 GMT"
+    },
+    {
+      "text": "Flew the @Antigravity_HQ A1 Drone around Tesla's Fremont Factory in CA 🔥\n\nJust 249g 🪶\nShoots in 8k 📹\n360° video recording 🌐\n\nSave up to 25% off the A1 till July 12th ⌛️\n\nOrder yours ➡️ amazon.com/dp/B0H2XSYJSS?maa…\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2074842826462912699#m",
+      "date": "Wed, 08 Jul 2026 13:07:33 GMT"
+    },
     {
       "text": "Starlink Direct to Cell is now live in the Philippines. 🇵🇭\n\nStandard LTE phones can now stay connected via satellite in areas without cellular coverage no extra hardware required.\n\nA major milestone for connectivity across the Philippines' thousands of islands.",
       "link": "https://nitter.net/teslaownersSV/status/2074932279525380417#m",
@@ -59,11 +74,6 @@
       "date": "Wed, 08 Jul 2026 13:40:06 GMT"
     },
     {
-      "text": "Flew the @Antigravity_HQ A1 Drone around Tesla's Fremont Factory in CA 🔥\n\nJust 249g 🪶\nShoots in 8k 📹\n360° video recording 🌐\n\nSave up to 25% off the A1 till July 12th ⌛️\n\nOrder yours ➡️ amazon.com/dp/B0H2XSYJSS?maa…\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2074842826462912699#m",
-      "date": "Wed, 08 Jul 2026 13:07:33 GMT"
-    },
-    {
       "text": "Elon Musk: \"Wokeness isn’t building on liberalism I t’s the opposite. When you can’t even question ideas, you’ve already lost freedom.\"\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2074764883594461358#m",
       "date": "Wed, 08 Jul 2026 07:57:50 GMT"
@@ -87,21 +97,6 @@
       "text": "Tesla has expanded its Robotaxi service to Miami, marking its first launch outside Texas and California. \n\nThe rollout begins with a limited service area, bringing Tesla one step closer to expanding autonomous transportation across the U.S.",
       "link": "https://nitter.net/teslaownersSV/status/2074733728790966703#m",
       "date": "Wed, 08 Jul 2026 05:54:02 GMT"
-    },
-    {
-      "text": "SpaceXAI is hiring engineers.\n\nIf you have the skills and ambition to help build @Grok alongside Elon Musk, now is your chance.\n\nAll open engineering roles are listed on @SpaceXAI, and you can apply directly through 𝕏.\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2074733642002395216#m",
-      "date": "Wed, 08 Jul 2026 05:53:41 GMT"
-    },
-    {
-      "text": "Big announcement!🚨 Want to get rid of solicitors at your front door? Cybertruck’s new Anti-Solicitor Mode takes care of them fast! No more answering the door. Let Cybertruck do all the dirty work.\n\nVideo",
-      "link": "https://nitter.net/cybrgalaxy/status/2074622300494958739#m",
-      "date": "Tue, 07 Jul 2026 22:31:15 GMT"
-    },
-    {
-      "text": "Update your Grok app\n\n15-second Imagine videos are now available, bringing longer AI-generated clips with impressive quality.\n\nThe latest update takes Grok's video generation to the next level.\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2074694722669748502#m",
-      "date": "Wed, 08 Jul 2026 03:19:02 GMT"
     }
   ]
 }
