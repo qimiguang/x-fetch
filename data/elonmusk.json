@@ -1,8 +1,73 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-09T15:20:38Z",
+  "updated_at": "2026-07-09T19:53:01Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Try @Grok 4.5!\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nGrok 4.5 is the top non-Anthropic model on AA-Briefcase, combining frontier agentic knowledge work capabilities with leading cost and time-efficiency\n\nYesterday @SpaceXAI released Grok 4.5, a new frontier-level model with strengths in agentic coding and knowledge work. On AA-Briefcase, Grok 4.5 scores 1328, a +578 improvement over Grok 4.3 and the highest score of any non-Anthropic model (note that GPT-5.6 not released yet). It achieves this while sitting on the cost and time efficiency frontier, averaging $1.12 per task, 86% lower than Claude Opus 4.8 (max), and 12.4 minutes per task, around half the time of Opus 4.8 (max).\n\nAA-Briefcase is our new proprietary benchmark for agentic knowledge work, testing models on a fully private dataset of realistic tasks across thousands of complex input files. Tasks require deliverables like spreadsheets, presentations, and UI mock-ups, with performance combined into a single AA-Briefcase Elo across correctness, analytical quality, and presentation quality.\n\nKey results for Grok 4.5 with high reasoning on AA-Briefcase:\n\n➤ Frontier agentic knowledge work capabilities: Grok 4.5 achieves an AA-Briefcase Elo of 1328, the highest score of any non-Anthropic model,  behind only Claude Fable 5 (1390), Claude Sonnet 5 (max, 1390), and Claude Opus 4.8 (max, 1354). Across the three AA-Briefcase scoring axes, Grok 4.5 is strongest on objective rubric criteria and analytical quality, with comparatively weaker presentation quality. It achieves the second-highest overall rubric pass rate (40.7%), behind Claude Fable 5 (56%) and Claude Sonnet 5 (42.3%)\n\n➤ Leading cost efficiency: Grok 4.5 averages a cost of $1.12 per AA-Briefcase task, placing it on the cost-performance Pareto frontier. This is much most cost effective than peer models such as Claude Opus 4.8 (max, $8.26) and GLM 5.2 (max, $1.71)\n\n➤ Faster task completion: Grok 4.5 averages 12.4 minutes per AA-Briefcase task, also placing it on the speed-performance frontier. It is much faster than Claude Opus 4.8 (max, 23.9 min) and Claude Sonnet 5 (max, 36.9 min), primarily due to lower turn use. Grok 4.5 averages just 23 turns per task, ~40% of GLM 5.2 (max, 56) and ~13% of Claude Sonnet 5 (max, 183)\n\nCongratulations to @SpaceXAI, @cursor_ai, and @elonmusk on the impressive release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2075264155527901522#m",
+      "link": "https://nitter.net/elonmusk/status/2075283356439257417#m",
+      "date": "Thu, 09 Jul 2026 18:18:03 GMT"
+    },
+    {
+      "text": "The upcoming wave of SpaceXAI Grok updates is insane\n\nGrok 4.5:\nThe 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week\n\nNext model:\nThe 2T foundation model is expected to finish training this month and become available to customers next month\n\nGrok Build:\nThe harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed\n\nInference:\nSpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more\n\nAgentic Imagine:\nGrok will be able to call Imagine as a tool in agentic mode for image and video generation\n\nThat is going to be huge for game developers, designers, builders, and anyone creating interactive worlds\n\nBut the biggest thing is this:\nGrok is being built for real-world engineering\n\nGrok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems\n\nNext month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company\n\nAnd from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month",
+      "link": "https://nitter.net/XFreeze/status/2075252689529983026#m",
+      "date": "Thu, 09 Jul 2026 16:16:12 GMT"
+    },
+    {
+      "text": "Aaron Burnett (@aaronburnett)\n\nGrok 4.5 is looking like a success with help from Cursor data but underneath the surface we expect future Grok/Cursor model training is likely to speed up in the coming months. \n\nWe've spent several months getting up to speed on the SpaceXAI business, especially the tech underneath it.\n\nThe C rewrite was under appreciated by the investor community so we dug in to quantify its impact. including building a physics first model that functions as a stopwatch for the SpaceXAI model factory.\n\nBottomline: C-rewrite gets SpaceXAI faster model cycles, leveraging 33% more tokens/second/GPU against SOTA competition resulting in the potential to shipping new models every ~3.5 weeks. \n\ntwo core learnings from this modeling exercise:\n\n1: the training cycle speed up is primarily coming from RL (not pretraining) where the increased tokens/second/GPU advantage can shave up 2+ weeks off full model training cycle. \n\n2: the rewrite itself should compound the time savings as model sizes grow. at ~2T shaving off 2-3 weeks, ~8 weeks at 6T, and 15 weeks at 10T. \n\nNote: a 20T parameter model likely runs into a data bottleneck prior to a training speed bottleneck but the directional advantage stands. Also we assume tokens/second/gpu advantage will melt over time as competitors try to match it.\n\nwhen you do the math, in true SpaceX and Elon fashion, it looks like they are attempting to build a SOTA model factory that can pump out bigger models faster than anyone else. \n\nFull analysis here for the public:\nresearch.33fg.com/analysis/w…\n\n\n\n\n\n\n\n\n\n— https://nitter.net/aaronburnett/status/2074995041248940483#m",
+      "link": "https://nitter.net/elonmusk/status/2075261123264164276#m",
+      "date": "Thu, 09 Jul 2026 16:49:42 GMT"
+    },
+    {
+      "text": "Consistent with the simulation hypothesis. \n\nLike a video game, objects are randomly generated, with positional certainty only when  observed.\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2075259819154341957#m",
+      "date": "Thu, 09 Jul 2026 16:44:32 GMT"
+    },
+    {
+      "text": "grok 4.5 is seriously good. it's going in the direction which i'm hoping to see more of -- an emphasize on speed as well as intelligence. i'm noticing in my own work that speed is often the bottleneck now. the grok build tui is also very well done. bullish!  \n\nbut the bigger signal beyond the model is that the team over there has officially propped up the model factory. they have the compute, the talent, the data, and leaders in place to make a run for the top. never bet against elon, @milichab, and team. they're the real deal. we love some good competition.",
+      "link": "https://nitter.net/tylerbruno05/status/2075221384033132924#m",
+      "date": "Thu, 09 Jul 2026 14:11:48 GMT"
+    },
+    {
+      "text": "Mark Zuckerberg hasn’t posted since 2023. \n\nX is the global town square — this is where news happens.\n\n\nMark Zuckerberg (@finkd)\n\n(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.\n\n\n\n— https://nitter.net/finkd/status/2075218444056707458#m",
+      "link": "https://nitter.net/KatieMiller/status/2075239663720153506#m",
+      "date": "Thu, 09 Jul 2026 15:24:26 GMT"
+    },
+    {
+      "text": "California has legalized election fraud\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2075255448714805440#m",
+      "date": "Thu, 09 Jul 2026 16:27:10 GMT"
+    },
+    {
+      "text": "Interesting comparison of Grok & Opus\n\n1M+ context window coming soon\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2075254074224623692#m",
+      "date": "Thu, 09 Jul 2026 16:21:42 GMT"
+    },
+    {
+      "text": ">be stardust\n>float around the universe for billions of years\n>somehow become human\n>gain consciousness\n>immediately start asking \"WHY?\"\n>never stop\n>discover fire\n>discover math\n>discover atoms\n>discover electricity\n>pick up a random rock\n>ask yourself\n>\"is this true?\"\n>extract it\n>purify it until it's basically perfect\n>carve billions of microscopic transistors into it\n>invent completely imaginary rules called binary\n>convince electrons to obey them\n>rock starts doing math\n>\"NICE\"\n>make smaller rocks\n>make faster rocks\n>put billions of them in everyone's pocket\n>connect them all together\n>store most of humanity's knowledge on them\n>teach the rocks to recognize patterns\n>teach the rocks to write\n>to code\n>to imagine\n>to reason\n>to understand\n>build Grok\n>ask Grok how to build an even smarter Grok\n>Grok thinks\n>Grok thinks harder\n>explains the universe\n>everything starts accelerating\n>singularity\n>BOOM\n>repeat\n\n@grok is this true?",
+      "link": "https://nitter.net/doganuraldesign/status/2075231325133439120#m",
+      "date": "Thu, 09 Jul 2026 14:51:18 GMT"
+    },
+    {
+      "text": "Falcon 9 lands on the A Shortfall of Gravitas droneship, completing the first 36th launch and landing of a booster\n\nVideo",
+      "link": "https://nitter.net/SpaceX/status/2075152027764555865#m",
+      "date": "Thu, 09 Jul 2026 09:36:12 GMT"
+    },
+    {
+      "text": "Traffic to grok.com more than doubled year-over-year in H1.",
+      "link": "https://nitter.net/Similarweb/status/2075122933450633304#m",
+      "date": "Thu, 09 Jul 2026 07:40:35 GMT"
+    },
+    {
+      "text": "Even Zuckerberg has to advertise his AI model on X.\n\nX is the real arena.",
+      "link": "https://nitter.net/yunta_tsai/status/2075228817099231439#m",
+      "date": "Thu, 09 Jul 2026 14:41:20 GMT"
+    },
+    {
+      "text": "Falcon 9 launches 29 @Starlink satellites from Florida",
+      "link": "https://nitter.net/SpaceX/status/2075176864558006425#m",
+      "date": "Thu, 09 Jul 2026 11:14:54 GMT"
+    },
     {
       "text": "Kardashev II or we’re not a serious civilization \n\nMoon and Mars are necessary steps to this\n\n\n\n\n\n\n\n\n\n\nElon Musk (@elonmusk)\n\nThe Moon and Mars\n\n\n\n— https://nitter.net/elonmusk/status/2075117340836962713#m",
       "link": "https://nitter.net/ArthurMacwaters/status/2075118564995145860#m",
@@ -37,71 +102,6 @@
       "text": "Try out Grok 4.5!\n\n\nBoris Skorobogaty (@theskory)\n\nGrok 4.5 is finally the model that can handle the entire workflow end-to-end:\n\n/design <what u want to do>\n/execute-plan <design_output> --effort <desired_effort> --instructions \"your specific guidance\"\n/pr-babysit add <tip of the stack>\n/loop 5m /pr-babysit check\n\nYou come back to a clean, well-scoped PR stack that’s ready to ship with minimal worry.\n\n\n\n\n\n— https://nitter.net/theskory/status/2074979713286647891#m",
       "link": "https://nitter.net/elonmusk/status/2075125320521310589#m",
       "date": "Thu, 09 Jul 2026 07:50:05 GMT"
-    },
-    {
-      "text": "Grok 4.5 delivering Fable level performance at like 1/17th the cost! 😮 @elonmusk",
-      "link": "https://nitter.net/DrewPavlou/status/2074959672982073572#m",
-      "date": "Wed, 08 Jul 2026 20:51:51 GMT"
-    },
-    {
-      "text": "Grok 4.5 is also rank 1 in SWE marathon\n\n\nTech Dev Notes (@techdevnotes)\n\nSpaceXAI has added SWE Marathon benchmark to Grok 4.5 blog  \n\nGrok 4.5 ranks #1 in SWE Marathon\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2075100330828997072#m",
-      "link": "https://nitter.net/elonmusk/status/2075117841733353498#m",
-      "date": "Thu, 09 Jul 2026 07:20:21 GMT"
-    },
-    {
-      "text": "How it feels to use Grok 4.5 😎\n\nVideo",
-      "link": "https://nitter.net/iam_smx/status/2074966046625194202#m",
-      "date": "Wed, 08 Jul 2026 21:17:11 GMT"
-    },
-    {
-      "text": "The Moon and Mars\n\n\nJames Stephenson (@ICannot_Enough)\n\n🔊 @elonmusk did a live phone interview earlier today with a guest host of the Sean Hannity radio program, discussing his latest SpaceX timelines. I only caught about the last 5 minutes of it:\n\n“The best way to expand compute is really in space. There’s a lot of room in space and if you look at the size of Earth relative to the sun or relative to the solar system, you realize just how tiny Earth is. We’re very, very tiny. We only receive about half a billionth of The Sun’s energy. So if you really think of Earth as being like a tiny dust mote in a vast darkness. \n\nSo the way to expand compute— without, ya know, using up all the land on Earth— is to do so in space. And then you can do it without using up space for power & water on Earth. You can just do it in space, so… \n\nI think we will probably be launching our first AI satellites next year and then we will probably be able to do that, I think, at large scale in about two years.\n\n<question about a longtime SpaceX welder living the American dream by working hard and becoming a millionaire>\n\nYeah, well, I’ve always had the philosophy that everyone at the company should receive stock in the company so that they can participate in the upside of the company and it’s great for aligning incentives as well, so as the company prospers, then the people at the company— the employees — also prosper, so that’s just been, ya know, my philosophy from Day 1 is just to make sure everyone gets stock in the company, so there are, I think, several thousand people who’ve been – it’s not just one welder – it’s several thousand people who were, you know, working on the production line and started at the company relatively early… then probably their stock is worth over $1 million at this point\n\n<question about Mars timeline>\n\n“Yeah, so, Mars is much harder to get to than the moon and you can only travel to Mars roughly every two years. So Earth and Mars align such that you can travel to Mars only once every 26 months. So that makes it a lot harder than the moon where you can go to the moon pretty much anytime and it only takes a few days to get to the moon whereas it takes about six months to get to Mars. So that’s why we can do the moon faster than we can do Mars.\n\nBut I think, probably, if things go well, we can probably send the first people to Mars in about five years, and then rapidly increase the cadence of sending people to Mars thereafter, so every two years we could dramatically increase the number of ships going to Mars and, ya know, hopefully in a 10 or 12 year timeframe we’ve sent thousands of people to Mars.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ICannot_Enough/status/2074977269982826945#m",
-      "link": "https://nitter.net/elonmusk/status/2075117340836962713#m",
-      "date": "Thu, 09 Jul 2026 07:18:22 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2075116747342925967#m",
-      "date": "Thu, 09 Jul 2026 07:16:01 GMT"
-    },
-    {
-      "text": "Grok Build mogs Claude Code & Codex TUIs i can't lie. \n\nNot to mention the perf of Grok 4.5...\n\nIt's not even a competition at this point.\n\nGood shit xAI team",
-      "link": "https://nitter.net/grimcodes/status/2075036803023909196#m",
-      "date": "Thu, 09 Jul 2026 01:58:20 GMT"
-    },
-    {
-      "text": "Impressive Intelligence vs. Cost for Grok 4.5\n\nI think given terafab + the Tesla FSD team's expertise in making very efficient AI models, this advantage will only continue to compound\n\n\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok is making progress\n\n\n\n— https://nitter.net/elonmusk/status/2075111931682148855#m",
-      "link": "https://nitter.net/ArthurMacwaters/status/2075113237331525995#m",
-      "date": "Thu, 09 Jul 2026 07:02:04 GMT"
-    },
-    {
-      "text": "Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.\n\n\nThibault Jaigu (@ThibaultJaigu)\n\nVery impressed by grok-4.5! Awesome job @elonmusk & @mntruell \n\nBest ever score on our internal coding benchmark!!\n\n\n\n\n\n— https://nitter.net/ThibaultJaigu/status/2074964035104059523#m",
-      "link": "https://nitter.net/elonmusk/status/2075114431462207817#m",
-      "date": "Thu, 09 Jul 2026 07:06:48 GMT"
-    },
-    {
-      "text": "I appreciate the many xAI and Cursor engineers who dedicated their time to addressing feedback from Tesla.\n\nI remember meeting Andrew a few weeks after he was hired and telling him that I needed a better client for my work to solve real-world engineering.\n\nGrok Build was not even a thing back then. It was a very primitive client with lots of rough edges but had a lot of potential.\n\nWhen building something from scratch, the only limit is imagination armed with first principles. We encountered many unique use cases to solve diverse workflows, and the teams took prompt feedback and addressed it quickly—to the point that it became an indispensable tool.\n\nNow when my teams need to ask questions, instead of jumping through hoops with various backends or plugins or skills, Grok 4.5 can directly deliver deep insights with minimal setup.\n\nYou can tell the teams love the product like parents love their children when receiving the feedback.\n\nAt this very moment, they are still doing excellent customer service.\n\nThank you, Grok Build team, for helping us be more productive. Looking forward to what comes next.",
-      "link": "https://nitter.net/yunta_tsai/status/2075087949386109050#m",
-      "date": "Thu, 09 Jul 2026 05:21:35 GMT"
-    },
-    {
-      "text": "Grok 4.5 is pretty good at building websites.\n\nJust made a beautiful website about black holes.\n\nCheck this out:\n\nVideo",
-      "link": "https://nitter.net/doganuraldesign/status/2074946774284882393#m",
-      "date": "Wed, 08 Jul 2026 20:00:36 GMT"
-    },
-    {
-      "text": "Elon Musk reveals the environmentalist viewpoint he says has become total madness\n\n\"There are 8 billion people on Earth and it would be better if there were none. I'm like, 'hey buddy, you can start with yourself. See if you really want to make a difference'\"\n\n\"That's like a crazy viewpoint. That's like literally saying, let's genocide humanity. How can you say that with a straight face? That sounds like total madness\"\n\n\"In the limit of environmentalism, it becomes like an ingrown toenail. A toenail's fine, but not if it's warped and ingrown. It's just gone too far\"\n\n\"Humanity is not a blight on the face of the Earth\"\n\n\"Even with climate change, life on Earth will still continue. The calamities Earth has suffered where life continued, gigantic meteorite impacts, super volcanoes, continents drifting all over the place\"\n\n\"There've been times in Earth's past where it's been like a total snowball or absolutely sweltering hot. We had many extinction events, but life continued\"\n\n\"We don't see the dinosaurs now, but they had a good run for 100 plus million years\"\n\n\"Even if there's catastrophic climate change, life continues. It just may not be life as we know it. It may not be humans, it'll be something else\"\n\n\"What we're talking about with climate change is not a threat to all life on Earth, but really maybe a threat to humans, a dislocation if low-lying countries end up underwater\"\n\n\"Over time we need to move to a sustainable energy economy. We can't just keep taking billions of tons of carbon from deep underground and putting it in the atmosphere and expect nothing will happen forever\"\n\n\"But we also don't need to be alarmist about it and super negative and massively disrupt people's lifestyles\"\n\n\"People can continue to live a normal life. They shouldn't feel guilty about being human or having a stake. It's fine\"\n\nVideo",
-      "link": "https://nitter.net/jaynitx/status/2074785574700064861#m",
-      "date": "Wed, 08 Jul 2026 09:20:03 GMT"
-    },
-    {
-      "text": ".@Starcloud_ CEO @PhilipJohnston: \"Buy SpaceX stock.\"\n\n\"It's like owning the railroads.\"\n\n\" The SpaceX IPO is going to be viewed historically as the most undervalued IPO of all time.\"\n\n\"They will tear through $10 trillion certainly within the next couple of years, and then have almost unlimited TAM for what they're building.\"\n\n\"I'm not like regulated by anybody. So I'm going to tell people, 'Just buy SpaceX stock.' I think it's a great stock to buy.\"\n\n\"They own what will be by far the most cost-effective launch vehicle, and that opens up every industry in space that will be possible beyond that: asteroid mining, lunar resource mining, all of the comms businesses that are going to be built. Everything else is going to have to go through SpaceX.\"\n\n\"It's like owning the railroads. Lots of businesses will be built on top of it, like our business will be built on top of it.\"\n\n\"The railroads are a great business to own.\"\n\n@elonmusk\n\nVideo",
-      "link": "https://nitter.net/sourceryy/status/2074970863464825038#m",
-      "date": "Wed, 08 Jul 2026 21:36:19 GMT"
-    },
-    {
-      "text": "Cool\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2075113099175014559#m",
-      "date": "Thu, 09 Jul 2026 07:01:31 GMT"
     }
   ]
 }
