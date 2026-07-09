@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-07-08T22:12:18Z",
+  "updated_at": "2026-07-09T03:47:43Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "这个东西有什么用？\n\n\nMondo Robotics (@mondorobotics)\n\nMeet Beni, Your First Camera Robot. \n\nIt films you — auto-follows at 17.9 mph, shoots stabilized 4K, then auto-edits the highlights. No filmer. No tripod. No editing.\n\nLive on Kickstarter.\n\nLink\n\n\n\nMeet Beni, Your First Camera Robot\nkickstarter.com\n\n\n\n\n— https://nitter.net/mondorobotics/status/2074800829534810314#m",
+      "link": "https://nitter.net/Tsla99T/status/2075055984234405934#m",
+      "date": "Thu, 09 Jul 2026 03:14:33 GMT"
+    },
     {
       "text": "幽灵刹车Phantom braking和安全，不可能都满足\n\n\nTechGeek Tesla 🔋⚡️ (@JonBbC_TechGeek)\n\nAs someone who gets a chance to review the latest versions of Tesla‘s full self driving software for HW3 vehicles, one of the top questions I always receive when a new version comes out is “is phantom braking fixed?”\nIt’s really hard to answer that. It takes a lot of driving before you can provide any worthwhile feedback IMHO. To be honest, it will probably never be fixed. Phantom braking may not seem like a good thing on the surface, however, it’s a necessary evil to protect human lives. The question, in & of itself, is a little crazy to me. How can it ever be fixed? The question should always be: is it better or worse?\nWhen it comes to v14 Lite, it depends on the time of day you’re driving, but it’s still there. Is it worse? It’s so hard to tell. I actually feel like it’s more hesitant and careful than it was before. So, yeah, after 1 week of testing, I’m going to claim that it’s worse. But again, I feel like this is a very situational thing, and I also feel that it’s somewhat subjective. Harsh braking is interpreted differently depending on who you’re talking to. Thoughts on this from other testers, I’d love to hear. @BLKMDL3 @j32pmxr @tesla_raj @RoccoSperanza @Kristennetten @niccruzpatane @koby_pierce\n\n\n\n— https://nitter.net/JonBbC_TechGeek/status/2074575947924185241#m",
       "link": "https://nitter.net/Tsla99T/status/2074625686224961811#m",
@@ -92,11 +97,6 @@
       "text": "特斯拉算L4\n了\n吗？",
       "link": "https://nitter.net/Tsla99T/status/2071934917651402834#m",
       "date": "Tue, 30 Jun 2026 12:32:33 GMT"
-    },
-    {
-      "text": "连着TSLA100T等待V14 Lite",
-      "link": "https://nitter.net/Tsla99T/status/2071928547879661743#m",
-      "date": "Tue, 30 Jun 2026 12:07:15 GMT"
     }
   ]
 }
