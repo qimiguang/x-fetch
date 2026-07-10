@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-10T14:39:06Z",
+  "updated_at": "2026-07-10T22:10:03Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Try Grok 4.5 in Perplexity\n\n\nPerplexity (@perplexity_ai)\n\nGrok 4.5 is now available as an orchestrator model in Computer for Consumer Pro and Max subscribers.\n\nWe evaluated it against five other orchestrator configurations on WANDR. It scored higher than every other configuration at roughly half the cost of Opus 4.8.\n\n\n\n\n\n— https://nitter.net/perplexity_ai/status/2075660058625790159#m",
+      "link": "https://nitter.net/elonmusk/status/2075687836091625704#m",
+      "date": "Fri, 10 Jul 2026 21:05:19 GMT"
+    },
+    {
+      "text": "Grok is closing the loop on real-world use cases\n\n\nThibault Jaigu (@ThibaultJaigu)\n\n@OpenAI released 3 new models yesterday and we immediately tested it on our internal benchmark.\n\nAll three outperforming gpt-5.5 but @SpaceXAI still the clear winner with Grok-4.5\n\n\n\n\n\n— https://nitter.net/ThibaultJaigu/status/2075556689953063349#m",
+      "link": "https://nitter.net/elonmusk/status/2075611819872223385#m",
+      "date": "Fri, 10 Jul 2026 16:03:15 GMT"
+    },
+    {
+      "text": "True\n\n\nMia (@MiaAI_lab)\n\nHere's one way to get the most from Grok 4.5 ✨\n\nSwitching effort to \"low\" gives strong results on most tasks, near-zero quality loss, big usage savings — plus it's the fastest.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MiaAI_lab/status/2075572009589739714#m",
+      "link": "https://nitter.net/elonmusk/status/2075608188376772644#m",
+      "date": "Fri, 10 Jul 2026 15:48:49 GMT"
+    },
+    {
+      "text": "Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 with Grok Build just ranked #1 on the SWE-Atlas-QnA benchmark with a score of 84\n\nThat puts it level with GPT-5.6 (max) Codex and ahead of Claude Code Fable 5 (max), Opus 4.8 (max), and every other tested coding setup\n\nGrok Build is now the most powerful harness for agentic developer workflows\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2075487843691229539#m",
+      "link": "https://nitter.net/elonmusk/status/2075607754429854036#m",
+      "date": "Fri, 10 Jul 2026 15:47:06 GMT"
+    },
+    {
+      "text": "Try @grok\n\n\nGrok (@grok)\n\nGrok 4.5 is now available to try on the free tier. Use Grok Build with any X or SuperGrok account.\n\nWe’re excited to hear your feedback.\n\nx.ai/cli\n\n\n\n\n\n— https://nitter.net/grok/status/2075603491842859298#m",
+      "link": "https://nitter.net/elonmusk/status/2075606632629752137#m",
+      "date": "Fri, 10 Jul 2026 15:42:38 GMT"
+    },
+    {
+      "text": "Grok 4.5 has the best real-world ROI\n\n\nJulian Solemsli Rian (@LORD_RIAN_)\n\nGrok 4.5 just did what no other lab has managed: pushed the limits of frontier intelligence AND made it accessible to everyone.\n\nHopefully this shifts the AI race toward winning on cost too -> frontier intelligence for all, not just the few.\n\nHuge respect to the @SpaceXAI  team. This one changes who gets to build.\n\n\n\n— https://nitter.net/LORD_RIAN_/status/2075553382358470770#m",
+      "link": "https://nitter.net/elonmusk/status/2075606415264080104#m",
+      "date": "Fri, 10 Jul 2026 15:41:46 GMT"
+    },
     {
       "text": "😂\n\n\nDoge Tipping (@Dogetothemoon)\n\n\"Grok will be able to call Imagine as a tool in agentic mode now. \nTo develop games, right?\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Dogetothemoon/status/2075073024131494373#m",
       "link": "https://nitter.net/elonmusk/status/2075491921540034689#m",
@@ -24,7 +54,7 @@
       "date": "Thu, 09 Jul 2026 02:39:36 GMT"
     },
     {
-      "text": "Model comparison\n\n\nCursor (@cursor_ai)\n\nSee how every model compares: cursor.com/evals\n\nLink\n\n\n\nCursor · CursorBench\n\nCompare CursorBench 3.1 results across the models Cursor evaluates.\ncursor.com\n\n\n\n\n— https://nitter.net/cursor_ai/status/2075265505229730048#m",
+      "text": "Model comparison\n\n\nCursor (@cursor_ai)\n\nSee how every model compares: cursor.com/evals\n\nLink\n\n\n\nCursor · CursorBench\n\nCompare CursorBench 3.2 results across the models Cursor evaluates.\ncursor.com\n\n\n\n\n— https://nitter.net/cursor_ai/status/2075265505229730048#m",
       "link": "https://nitter.net/elonmusk/status/2075487063848206727#m",
       "date": "Fri, 10 Jul 2026 07:47:31 GMT"
     },
@@ -72,36 +102,6 @@
       "text": "Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts.\n\nFive years ago this month, I had the honor of flying with her on New Shepard's first crewed flight. At 82, she was fearless, joyful, and asking to go again before we’d even landed.\n\nHer dream took six decades, but it came true. Dreams have no expiration date. Godspeed, Wally.",
       "link": "https://nitter.net/JeffBezos/status/2075363502441865592#m",
       "date": "Thu, 09 Jul 2026 23:36:32 GMT"
-    },
-    {
-      "text": "Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world\n\n\nStarlink (@Starlink)\n\nStarlink is delivering peak speeds of up to 10 Gbps symmetric in Utqiagvik, Alaska – the northernmost city in the United States, located 320 miles above the Arctic Circle\n\nThrough bonded gateways, Starlink can provide up to 20 Gbps symmetric, enabling high-capacity connectivity even in the most remote and extreme environments→starlink.com/gateways\n\nLink\n\n\n\nStarlink\n\nHigh-speed internet. Available almost anywhere on Earth.\nstarlink.com\n\n\n\n\n— https://nitter.net/Starlink/status/2075316879586214044#m",
-      "link": "https://nitter.net/elonmusk/status/2075402626284368071#m",
-      "date": "Fri, 10 Jul 2026 02:11:59 GMT"
-    },
-    {
-      "text": "GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK\n\nNew data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks.\n\nOn their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy):\n\n•  Grok 4.5: 29% mean pass rate\n•  GPT 5.5: 22%\n•  Claude Opus 4.8: 21%\nGrok 4.5 showed particularly strong gains in demanding areas like legal work, education, healthcare, and QA analysis.\n\nThis lines up with xAI’s focus on building models that excel at practical, agentic work rather than just synthetic benchmarks.\nWhile general intelligence leaderboards still see tight competition at the very top, Grok 4.5 is delivering some of the strongest results on actual professional deliverables right now.\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok Build improves almost every day\n\n\n\n— https://nitter.net/elonmusk/status/2075372185158377948#m",
-      "link": "https://nitter.net/teslaownersSV/status/2075375036916187560#m",
-      "date": "Fri, 10 Jul 2026 00:22:22 GMT"
-    },
-    {
-      "text": "Grok only gets better from here\n\n\nPaata Ivanisvili (@PI010101)\n\nGrok 4.5 just constructed an explicit counterexample to hypercontractivity for the Poisson semigroup (the square root of the Laplace–Beltrami operator) on the 4-sphere.\n\nBack in 2021, with Rupert Frank arxiv.org/abs/2101.06209  we proved that hypercontractivity holds in dimensions  ≤3 and fails in sufficiently large dimensions (for example, in dimension 13). Grok's example shows that it already fails in dimension 4, making our earlier result sharp.\n\nI also tested this problem on several other frontier AI models. One of them also managed to find a counterexample, but I particularly like Grok 4.5's solution: it is explicit, simple, and elegant.\n\nThe attached files were generated entirely by Grok 4.5 build (with zero intervention on my side).\n\n\n\n\n\n\n\n\n\n— https://nitter.net/PI010101/status/2075325611799953778#m",
-      "link": "https://nitter.net/elonmusk/status/2075387273797853612#m",
-      "date": "Fri, 10 Jul 2026 01:10:59 GMT"
-    },
-    {
-      "text": "Grok is a frontier model.\n\n\nPaata Ivanisvili (@PI010101)\n\nGrok 4.5 just constructed an explicit counterexample to hypercontractivity for the Poisson semigroup (the square root of the Laplace–Beltrami operator) on the 4-sphere.\n\nBack in 2021, with Rupert Frank arxiv.org/abs/2101.06209  we proved that hypercontractivity holds in dimensions  ≤3 and fails in sufficiently large dimensions (for example, in dimension 13). Grok's example shows that it already fails in dimension 4, making our earlier result sharp.\n\nI also tested this problem on several other frontier AI models. One of them also managed to find a counterexample, but I particularly like Grok 4.5's solution: it is explicit, simple, and elegant.\n\nThe attached files were generated entirely by Grok 4.5 build (with zero intervention on my side).\n\n\n\n\n\n\n\n\n\n— https://nitter.net/PI010101/status/2075325611799953778#m",
-      "link": "https://nitter.net/teortaxesTex/status/2075347335412953265#m",
-      "date": "Thu, 09 Jul 2026 22:32:17 GMT"
-    },
-    {
-      "text": "Grok Build improves almost every day\n\n\nJason Ginsberg (@JasonBud)\n\nsome special features in Grok Build if you're new\n\n/dashboard: shows you every agent running in your TUI. no need to tab jump. can click and respond.\n\n/imagine: create videos + images w/ an agent. useful for three.js textures or complex video edits.\n\nX search tool: great for research. try asking for the best recent AI papers.\n\nGrok 4.5 is strongest on tough coding problems in real, messy codebases. push it hard and send us feedback.\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JasonBud/status/2075259469844365375#m",
-      "link": "https://nitter.net/elonmusk/status/2075372185158377948#m",
-      "date": "Fri, 10 Jul 2026 00:11:02 GMT"
-    },
-    {
-      "text": "The Cape Gigabay is getting closer to being ready for Starship! Teams recently installed the 420-ton crane – which we’ll use to break over and move Starships and Super Heavy boosters preparing for flight. One step closer to the Moon and Mars 🚀🚀🚀",
-      "link": "https://nitter.net/TurkeyBeaver/status/2075344118734012687#m",
-      "date": "Thu, 09 Jul 2026 22:19:30 GMT"
     }
   ]
 }
