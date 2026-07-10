@@ -1,8 +1,88 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-09T22:26:04Z",
+  "updated_at": "2026-07-10T03:48:58Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases.\n\nThis post by Mark Zuckerberg already received over 12 million views for free!\n\n\nMark Zuckerberg (@finkd)\n\n(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.\n\n\n\n— https://nitter.net/finkd/status/2075218444056707458#m",
+      "link": "https://nitter.net/elonmusk/status/2075403875410928124#m",
+      "date": "Fri, 10 Jul 2026 02:16:57 GMT"
+    },
+    {
+      "text": "Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts.\n\nFive years ago this month, I had the honor of flying with her on New Shepard's first crewed flight. At 82, she was fearless, joyful, and asking to go again before we’d even landed.\n\nHer dream took six decades, but it came true. Dreams have no expiration date. Godspeed, Wally.",
+      "link": "https://nitter.net/JeffBezos/status/2075363502441865592#m",
+      "date": "Thu, 09 Jul 2026 23:36:32 GMT"
+    },
+    {
+      "text": "Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world\n\n\nStarlink (@Starlink)\n\nStarlink is delivering peak speeds of up to 10 Gbps symmetric in Utqiagvik, Alaska – the northernmost city in the United States, located 320 miles above the Arctic Circle\n\nThrough bonded gateways, Starlink can provide up to 20 Gbps symmetric, enabling high-capacity connectivity even in the most remote and extreme environments→starlink.com/gateways\n\nLink\n\n\n\nStarlink\n\nHigh-speed internet. Available almost anywhere on Earth.\nstarlink.com\n\n\n\n\n— https://nitter.net/Starlink/status/2075316879586214044#m",
+      "link": "https://nitter.net/elonmusk/status/2075402626284368071#m",
+      "date": "Fri, 10 Jul 2026 02:11:59 GMT"
+    },
+    {
+      "text": "GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK\n\nNew data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks.\n\nOn their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy):\n\n•  Grok 4.5: 29% mean pass rate\n•  GPT 5.5: 22%\n•  Claude Opus 4.8: 21%\nGrok 4.5 showed particularly strong gains in demanding areas like legal work, education, healthcare, and QA analysis.\n\nThis lines up with xAI’s focus on building models that excel at practical, agentic work rather than just synthetic benchmarks.\nWhile general intelligence leaderboards still see tight competition at the very top, Grok 4.5 is delivering some of the strongest results on actual professional deliverables right now.\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok Build improves almost every day\n\n\n\n— https://nitter.net/elonmusk/status/2075372185158377948#m",
+      "link": "https://nitter.net/teslaownersSV/status/2075375036916187560#m",
+      "date": "Fri, 10 Jul 2026 00:22:22 GMT"
+    },
+    {
+      "text": "Grok only gets better from here\n\n\nPaata Ivanisvili (@PI010101)\n\nGrok 4.5 just constructed an explicit counterexample to hypercontractivity for the Poisson semigroup (the square root of the Laplace–Beltrami operator) on the 4-sphere.\n\nBack in 2021, with Rupert Frank arxiv.org/abs/2101.06209  we proved that hypercontractivity holds in dimensions  ≤3 and fails in sufficiently large dimensions (for example, in dimension 13). Grok's example shows that it already fails in dimension 4, making our earlier result sharp.\n\nI also tested this problem on several other frontier AI models. One of them also managed to find a counterexample, but I particularly like Grok 4.5's solution: it is explicit, simple, and elegant.\n\nThe attached files were generated entirely by Grok 4.5 build (with zero intervention on my side).\n\n\n\n\n\n\n\n\n\n— https://nitter.net/PI010101/status/2075325611799953778#m",
+      "link": "https://nitter.net/elonmusk/status/2075387273797853612#m",
+      "date": "Fri, 10 Jul 2026 01:10:59 GMT"
+    },
+    {
+      "text": "Grok is a frontier model.\n\n\nPaata Ivanisvili (@PI010101)\n\nGrok 4.5 just constructed an explicit counterexample to hypercontractivity for the Poisson semigroup (the square root of the Laplace–Beltrami operator) on the 4-sphere.\n\nBack in 2021, with Rupert Frank arxiv.org/abs/2101.06209  we proved that hypercontractivity holds in dimensions  ≤3 and fails in sufficiently large dimensions (for example, in dimension 13). Grok's example shows that it already fails in dimension 4, making our earlier result sharp.\n\nI also tested this problem on several other frontier AI models. One of them also managed to find a counterexample, but I particularly like Grok 4.5's solution: it is explicit, simple, and elegant.\n\nThe attached files were generated entirely by Grok 4.5 build (with zero intervention on my side).\n\n\n\n\n\n\n\n\n\n— https://nitter.net/PI010101/status/2075325611799953778#m",
+      "link": "https://nitter.net/teortaxesTex/status/2075347335412953265#m",
+      "date": "Thu, 09 Jul 2026 22:32:17 GMT"
+    },
+    {
+      "text": "Grok Build improves almost every day\n\n\nJason Ginsberg (@JasonBud)\n\nsome special features in Grok Build if you're new\n\n/dashboard: shows you every agent running in your TUI. no need to tab jump. can click and respond.\n\n/imagine: create videos + images w/ an agent. useful for three.js textures or complex video edits.\n\nX search tool: great for research. try asking for the best recent AI papers.\n\nGrok 4.5 is strongest on tough coding problems in real, messy codebases. push it hard and send us feedback.\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JasonBud/status/2075259469844365375#m",
+      "link": "https://nitter.net/elonmusk/status/2075372185158377948#m",
+      "date": "Fri, 10 Jul 2026 00:11:02 GMT"
+    },
+    {
+      "text": "The Cape Gigabay is getting closer to being ready for Starship! Teams recently installed the 420-ton crane – which we’ll use to break over and move Starships and Super Heavy boosters preparing for flight. One step closer to the Moon and Mars 🚀🚀🚀",
+      "link": "https://nitter.net/TurkeyBeaver/status/2075344118734012687#m",
+      "date": "Thu, 09 Jul 2026 22:19:30 GMT"
+    },
+    {
+      "text": "Grok gaming\n\n\ntetsuo (@tetsuoai)\n\nGrok 4.5 in Grok Build created an FPS game in under an hour.\n\nThe prompt was simple. I told it to write a game design document and pull free assets from the web. Then I had it create a TODO.md with implementation phases and run a loop to build out each phase.\n\nSpaceXAI and Cursor cooked here. This model is insane.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2075351242025398678#m",
+      "link": "https://nitter.net/elonmusk/status/2075371558588055670#m",
+      "date": "Fri, 10 Jul 2026 00:08:32 GMT"
+    },
+    {
+      "text": "Grok doesn’t give up\n\n\nComposio (@composio)\n\nGrok 4.5 is the most persistent agent model we've tested. \n\nHere's one example:  In one of our evals, we asked 3 models (GPT-5.5, GLM-5.2 and Grok 4.5) to audit a GitHub repo for hardcoded credentials using code search, which returns paginated results.\n\nThe prompt even warned \"page through ALL result pages.\"\n\nGPT-5.5 stopped at the first page and submitted 18 results out of 48, covering just 11 of 29 affected files. GLM-5.2 did the same.\n\nGrok 4.5 paginated until the results ran out and successfully audited the Github repo.\n\n\n\n— https://nitter.net/composio/status/2075225191160889786#m",
+      "link": "https://nitter.net/elonmusk/status/2075370255971447176#m",
+      "date": "Fri, 10 Jul 2026 00:03:22 GMT"
+    },
+    {
+      "text": "Grok 4.5\n\n\nKevin Bass (@kevinnbass)\n\nGrok 4.5 scores significantly better than other frontier models Opus 4.8 and GPT 5.5 across ALL professional work benchmarks.\n\nIt performs exceptionally well at law.\n\n\n\n\n\n— https://nitter.net/kevinnbass/status/2075303746397962662#m",
+      "link": "https://nitter.net/elonmusk/status/2075368342014099576#m",
+      "date": "Thu, 09 Jul 2026 23:55:45 GMT"
+    },
+    {
+      "text": "Defense is 8% of US government spending.\n\nEducation 15%!\n\nWelfare is 47%!\n\n\n\n\nSulla (@spqr_sulla)\n\nWe spend more on K-12 education alone then defense\n\n\n\n— https://nitter.net/spqr_sulla/status/2075196963457245543#m",
+      "link": "https://nitter.net/AndrewCFollett/status/2075228066649985064#m",
+      "date": "Thu, 09 Jul 2026 14:38:21 GMT"
+    },
+    {
+      "text": "Starmind\n\nspacex.com/spacexai/starmind…\n\nLink\n\n\n\nSpaceX\n\nSpaceX designs, manufactures and launches advanced rockets and spacecraft.\nspacex.com",
+      "link": "https://nitter.net/elonmusk/status/2075367885438890134#m",
+      "date": "Thu, 09 Jul 2026 23:53:57 GMT"
+    },
+    {
+      "text": "New renderings of SpaceX's AI satellite, called AI1.\n\n• AI chip vendor agnostic. System architecture supports compute modules from any provider.\n• 150 kW peak compute payload\n• 120 kW average compute payload\n• 70 kW per ton\n• Wingspan: 70 meters\n• Deployed height: 20 meters\n• 110 m² deployable liquid radiator\n• Redundant pumping loops\n• Integrated micrometeoroid shielding\n• 150 kW solar array\n• 250 W/m²\n• High-speed laser links interconnect satellites and beam AI results back to Earth through Starlink. Low-latency, high-bandwidth connection\n• SpaceX-manufactured solar technology from Bastrop, Texas\n\n\n\n\n\n\n\n\n\n\nSawyer Merritt (@SawyerMerritt)\n\nSpaceX has introduced a new website for Starmind, the company's AI satellite constellation.\n\nBack in January of this year, @SpaceX filed a request with the FCC to launch and operate a constellation of 1 million AI satellites.\n\nThe website provides info about their AI1 satellite, thermals, solar, etc.\n\nWebsite: spacex.com/spacexai/starmind…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2075326116600975736#m",
+      "link": "https://nitter.net/SawyerMerritt/status/2075327054942232713#m",
+      "date": "Thu, 09 Jul 2026 21:11:42 GMT"
+    },
+    {
+      "text": "Super Heavy booster moved to the Starbase pad for testing ahead of Flight 13\n\nVideo",
+      "link": "https://nitter.net/SpaceX/status/2075353490713432440#m",
+      "date": "Thu, 09 Jul 2026 22:56:45 GMT"
+    },
+    {
+      "text": "Grok 4.5 is dominating the latest AI leaderboards\n\nClaims the #1 spot:\n• #1 on AutomationBench-AA\n• #1 on Terminal-Bench v2\n• #1 on Harvey Legal Agent Benchmark\n• #1 on SWE Marathon\n• #1 on SWE-Atlas-QnA",
+      "link": "https://nitter.net/XFreeze/status/2075270300196012263#m",
+      "date": "Thu, 09 Jul 2026 17:26:10 GMT"
+    },
     {
       "text": "Try @Grok 4.5!\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nGrok 4.5 is the top non-Anthropic model on AA-Briefcase, combining frontier agentic knowledge work capabilities with leading cost and time-efficiency\n\nYesterday @SpaceXAI released Grok 4.5, a new frontier-level model with strengths in agentic coding and knowledge work. On AA-Briefcase, Grok 4.5 scores 1328, a +578 improvement over Grok 4.3 and the highest score of any non-Anthropic model (note that GPT-5.6 not released yet). It achieves this while sitting on the cost and time efficiency frontier, averaging $1.12 per task, 86% lower than Claude Opus 4.8 (max), and 12.4 minutes per task, around half the time of Opus 4.8 (max).\n\nAA-Briefcase is our new proprietary benchmark for agentic knowledge work, testing models on a fully private dataset of realistic tasks across thousands of complex input files. Tasks require deliverables like spreadsheets, presentations, and UI mock-ups, with performance combined into a single AA-Briefcase Elo across correctness, analytical quality, and presentation quality.\n\nKey results for Grok 4.5 with high reasoning on AA-Briefcase:\n\n➤ Frontier agentic knowledge work capabilities: Grok 4.5 achieves an AA-Briefcase Elo of 1328, the highest score of any non-Anthropic model,  behind only Claude Fable 5 (1390), Claude Sonnet 5 (max, 1390), and Claude Opus 4.8 (max, 1354). Across the three AA-Briefcase scoring axes, Grok 4.5 is strongest on objective rubric criteria and analytical quality, with comparatively weaker presentation quality. It achieves the second-highest overall rubric pass rate (40.7%), behind Claude Fable 5 (56%) and Claude Sonnet 5 (42.3%)\n\n➤ Leading cost efficiency: Grok 4.5 averages a cost of $1.12 per AA-Briefcase task, placing it on the cost-performance Pareto frontier. This is much most cost effective than peer models such as Claude Opus 4.8 (max, $8.26) and GLM 5.2 (max, $1.71)\n\n➤ Faster task completion: Grok 4.5 averages 12.4 minutes per AA-Briefcase task, also placing it on the speed-performance frontier. It is much faster than Claude Opus 4.8 (max, 23.9 min) and Claude Sonnet 5 (max, 36.9 min), primarily due to lower turn use. Grok 4.5 averages just 23 turns per task, ~40% of GLM 5.2 (max, 56) and ~13% of Claude Sonnet 5 (max, 183)\n\nCongratulations to @SpaceXAI, @cursor_ai, and @elonmusk on the impressive release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2075264155527901522#m",
       "link": "https://nitter.net/elonmusk/status/2075283356439257417#m",
@@ -22,86 +102,6 @@
       "text": "Consistent with the simulation hypothesis. \n\nLike a video game, objects are randomly generated, with positional certainty only when  observed.\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2075259819154341957#m",
       "date": "Thu, 09 Jul 2026 16:44:32 GMT"
-    },
-    {
-      "text": "grok 4.5 is seriously good. it's going in the direction which i'm hoping to see more of -- an emphasize on speed as well as intelligence. i'm noticing in my own work that speed is often the bottleneck now. the grok build tui is also very well done. bullish!  \n\nbut the bigger signal beyond the model is that the team over there has officially propped up the model factory. they have the compute, the talent, the data, and leaders in place to make a run for the top. never bet against elon, @milichab, and team. they're the real deal. we love some good competition.",
-      "link": "https://nitter.net/tylerbruno05/status/2075221384033132924#m",
-      "date": "Thu, 09 Jul 2026 14:11:48 GMT"
-    },
-    {
-      "text": "Mark Zuckerberg hasn’t posted since 2023. \n\nX is the global town square — this is where news happens.\n\n\nMark Zuckerberg (@finkd)\n\n(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.\n\n\n\n— https://nitter.net/finkd/status/2075218444056707458#m",
-      "link": "https://nitter.net/KatieMiller/status/2075239663720153506#m",
-      "date": "Thu, 09 Jul 2026 15:24:26 GMT"
-    },
-    {
-      "text": "California has legalized election fraud\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2075255448714805440#m",
-      "date": "Thu, 09 Jul 2026 16:27:10 GMT"
-    },
-    {
-      "text": "Interesting comparison of Grok & Opus\n\n1M+ context window coming soon\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2075254074224623692#m",
-      "date": "Thu, 09 Jul 2026 16:21:42 GMT"
-    },
-    {
-      "text": ">be stardust\n>float around the universe for billions of years\n>somehow become human\n>gain consciousness\n>immediately start asking \"WHY?\"\n>never stop\n>discover fire\n>discover math\n>discover atoms\n>discover electricity\n>pick up a random rock\n>ask yourself\n>\"is this true?\"\n>extract it\n>purify it until it's basically perfect\n>carve billions of microscopic transistors into it\n>invent completely imaginary rules called binary\n>convince electrons to obey them\n>rock starts doing math\n>\"NICE\"\n>make smaller rocks\n>make faster rocks\n>put billions of them in everyone's pocket\n>connect them all together\n>store most of humanity's knowledge on them\n>teach the rocks to recognize patterns\n>teach the rocks to write\n>to code\n>to imagine\n>to reason\n>to understand\n>build Grok\n>ask Grok how to build an even smarter Grok\n>Grok thinks\n>Grok thinks harder\n>explains the universe\n>everything starts accelerating\n>singularity\n>BOOM\n>repeat\n\n@grok is this true?",
-      "link": "https://nitter.net/doganuraldesign/status/2075231325133439120#m",
-      "date": "Thu, 09 Jul 2026 14:51:18 GMT"
-    },
-    {
-      "text": "Falcon 9 lands on the A Shortfall of Gravitas droneship, completing the first 36th launch and landing of a booster\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2075152027764555865#m",
-      "date": "Thu, 09 Jul 2026 09:36:12 GMT"
-    },
-    {
-      "text": "Traffic to grok.com more than doubled year-over-year in H1.",
-      "link": "https://nitter.net/Similarweb/status/2075122933450633304#m",
-      "date": "Thu, 09 Jul 2026 07:40:35 GMT"
-    },
-    {
-      "text": "Even Zuckerberg has to advertise his AI model on X.\n\nX is the real arena.",
-      "link": "https://nitter.net/yunta_tsai/status/2075228817099231439#m",
-      "date": "Thu, 09 Jul 2026 14:41:20 GMT"
-    },
-    {
-      "text": "Falcon 9 launches 29 @Starlink satellites from Florida",
-      "link": "https://nitter.net/SpaceX/status/2075176864558006425#m",
-      "date": "Thu, 09 Jul 2026 11:14:54 GMT"
-    },
-    {
-      "text": "Kardashev II or we’re not a serious civilization \n\nMoon and Mars are necessary steps to this\n\n\n\n\n\n\n\n\n\n\nElon Musk (@elonmusk)\n\nThe Moon and Mars\n\n\n\n— https://nitter.net/elonmusk/status/2075117340836962713#m",
-      "link": "https://nitter.net/ArthurMacwaters/status/2075118564995145860#m",
-      "date": "Thu, 09 Jul 2026 07:23:14 GMT"
-    },
-    {
-      "text": "Try Grok 4.5 in the API, Grok Build, and Cursor\n\n\nSpaceXAI (@SpaceXAI)\n\nAnnouncing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency.\n\nx.ai/news/grok-4-5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2074915721684086811#m",
-      "link": "https://nitter.net/milichab/status/2074916029848027636#m",
-      "date": "Wed, 08 Jul 2026 17:58:26 GMT"
-    },
-    {
-      "text": "Grok 4.5 on OpenClaw\n\n\nOpenClaw🦞 (@openclaw)\n\nGrok 4.5 from @SpaceXAI is live on OpenClaw.\n\nNo OpenClaw update required, just connect your X Premium or SuperGrok subscription, select Grok 4.5 under the xAI provider, and use an Opus-class model that’s fast, low cost, and ready for agentic work.\n\n\n\n\n\n— https://nitter.net/openclaw/status/2074973471977955556#m",
-      "link": "https://nitter.net/elonmusk/status/2075136517144535171#m",
-      "date": "Thu, 09 Jul 2026 08:34:34 GMT"
-    },
-    {
-      "text": "Use Grok 4.5 to build full-stack apps with Convex\n\n\nMikeysee (@mikeysee)\n\nWow Grok 4.5 is very impressive at @convex code. Almost perfect score with a very very low run cost! Nice work @SpaceXAI!\n\nWithout the guidelines it is worse as expected so make sure you are using the guidelines file (ai-files) when using Grok 4.5 + Convex.\n\n\n\n\n\n\n\n— https://nitter.net/mikeysee/status/2075030398036492344#m",
-      "link": "https://nitter.net/grok/status/2075052834324955511#m",
-      "date": "Thu, 09 Jul 2026 03:02:02 GMT"
-    },
-    {
-      "text": "Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis\n\nAhead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max)",
-      "link": "https://nitter.net/XFreeze/status/2075129600850678033#m",
-      "date": "Thu, 09 Jul 2026 08:07:05 GMT"
-    },
-    {
-      "text": "Good review of Grok 4.5\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2075130137817825315#m",
-      "date": "Thu, 09 Jul 2026 08:09:13 GMT"
-    },
-    {
-      "text": "Try out Grok 4.5!\n\n\nBoris Skorobogaty (@theskory)\n\nGrok 4.5 is finally the model that can handle the entire workflow end-to-end:\n\n/design <what u want to do>\n/execute-plan <design_output> --effort <desired_effort> --instructions \"your specific guidance\"\n/pr-babysit add <tip of the stack>\n/loop 5m /pr-babysit check\n\nYou come back to a clean, well-scoped PR stack that’s ready to ship with minimal worry.\n\n\n\n\n\n— https://nitter.net/theskory/status/2074979713286647891#m",
-      "link": "https://nitter.net/elonmusk/status/2075125320521310589#m",
-      "date": "Thu, 09 Jul 2026 07:50:05 GMT"
     }
   ]
 }

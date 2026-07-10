@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-09T22:26:06Z",
+  "updated_at": "2026-07-10T03:49:00Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "v14 Lite now rolling out to early access AI3 owners in Korea\n\n\nTesla Korea (@tesla_korea)\n\n🚀풀 셀프 드라이빙(감독형) v14 Lite, 한국 상륙\n\n오늘부터 순차 배포를 시작합니다.\n업데이트는 차량별로 순차 제공되며, 적용 시점은 다를 수 있습니다. 아직 업데이트가 표시되지 않더라도 정상적인 배포 과정이므로 조금만 기다려 주시기 바랍니다.\n\n풀 셀프 드라이빙(감독형) v14 Lite가 선사하는 더욱 자연스럽고 향상된 주행 경험을 만나보시기 바랍니다.\n\n*풀 셀프 드라이빙(감독형) v14 Lite는 현재 미국 생산 Model 3/Y(풀 셀프 드라이빙 컴퓨터 3) 차량 중 FSD(감독형)이 활성화된 차량에 한해 제공됩니다.\n*풀 셀프 드라이빙(감독형) v14 Lite는 완전한 자율주행 기능이 아니며, 모든 장애물, 도로, 교통상황을 완벽히 인식하지 못할 수 있는바, 운전자는 항상 주의를 유지하고 즉시 제어할 준비가 되어 있어야 합니다.\n\n\n\n\n\n— https://nitter.net/tesla_korea/status/2075387532251177305#m",
+      "link": "https://nitter.net/Tesla_AI/status/2075394506783080508#m",
+      "date": "Fri, 10 Jul 2026 01:39:44 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.6.1 is now rolling out to ~9,900 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
       "link": "https://nitter.net/teslascope/status/2074963269429661921#m",
@@ -92,11 +97,6 @@
       "text": "Check your apps people. \nFSD V14.3.3 Down Under looks like it’s rolling out a little wider.  \nAnyone else downloading now? \n@teslascope @FleetCtrl",
       "link": "https://nitter.net/ozzy2435/status/2072896092992418003#m",
       "date": "Fri, 03 Jul 2026 04:11:55 GMT"
-    },
-    {
-      "text": "FSD DU 14.3.3 waiting to download NSW Australia, could this be the next wave 🤞",
-      "link": "https://nitter.net/Old_Pete_Au/status/2072894558372008025#m",
-      "date": "Fri, 03 Jul 2026 04:05:49 GMT"
     }
   ]
 }
