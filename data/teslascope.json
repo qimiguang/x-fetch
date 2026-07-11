@@ -1,8 +1,33 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-10T22:10:05Z",
+  "updated_at": "2026-07-11T03:15:46Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Video",
+      "link": "https://nitter.net/teslascope/status/2075753787759960479#m",
+      "date": "Sat, 11 Jul 2026 01:27:23 GMT"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) \n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2075734070105919923#m",
+      "date": "Sat, 11 Jul 2026 00:09:02 GMT"
+    },
+    {
+      "text": "Tesla employees at Giga Texas now able to take Cybercab across the campus as a continuous service.\n\nThis is a good sign for impending expansion to Robotaxi customers in Austin and other regions.",
+      "link": "https://nitter.net/teslascope/status/2075732263648858183#m",
+      "date": "Sat, 11 Jul 2026 00:01:51 GMT"
+    },
+    {
+      "text": "While the version ends in .100, this is a unique (first of its kind, ever) instance where this version is NOT a factory update.\n\nThis update includes Full Self-Driving V14.2.2.6.",
+      "link": "https://nitter.net/teslascope/status/2075702595239432582#m",
+      "date": "Fri, 10 Jul 2026 22:03:58 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2075701941707870584#m",
+      "date": "Fri, 10 Jul 2026 22:01:22 GMT"
+    },
     {
       "text": "v14 Lite now rolling out to early access AI3 owners in Korea\n\n\nTesla Korea (@tesla_korea)\n\n🚀풀 셀프 드라이빙(감독형) v14 Lite, 한국 상륙\n\n오늘부터 순차 배포를 시작합니다.\n업데이트는 차량별로 순차 제공되며, 적용 시점은 다를 수 있습니다. 아직 업데이트가 표시되지 않더라도 정상적인 배포 과정이므로 조금만 기다려 주시기 바랍니다.\n\n풀 셀프 드라이빙(감독형) v14 Lite가 선사하는 더욱 자연스럽고 향상된 주행 경험을 만나보시기 바랍니다.\n\n*풀 셀프 드라이빙(감독형) v14 Lite는 현재 미국 생산 Model 3/Y(풀 셀프 드라이빙 컴퓨터 3) 차량 중 FSD(감독형)이 활성화된 차량에 한해 제공됩니다.\n*풀 셀프 드라이빙(감독형) v14 Lite는 완전한 자율주행 기능이 아니며, 모든 장애물, 도로, 교통상황을 완벽히 인식하지 못할 수 있는바, 운전자는 항상 주의를 유지하고 즉시 제어할 준비가 되어 있어야 합니다.\n\n\n\n\n\n— https://nitter.net/tesla_korea/status/2075387532251177305#m",
       "link": "https://nitter.net/Tesla_AI/status/2075394506783080508#m",
@@ -14,9 +39,9 @@
       "date": "Wed, 08 Jul 2026 21:06:09 GMT"
     },
     {
-      "text": "Next week, we're launching a new feature called \"Waypoints\" for both iOS and web.\n\nWaypoints let you effortlessly create and share multi-stop routes for your vehicles and other Tesla drivers.\n\nRoutes sent directly to your vehicle will also precondition for Superchargers!",
-      "link": "https://nitter.net/teslascope/status/2074644149966635231#m",
-      "date": "Tue, 07 Jul 2026 23:58:05 GMT"
+      "text": "Waypoints will initially be available to vehicles with a Plus or Pro subscription while we analyze costs (including Tesla API and Google/Mapbox API fees).\n\nOver time, we'll gradually provide access to this for all members and apply improvements based on feedback.",
+      "link": "https://nitter.net/teslascope/status/2074644154039275832#m",
+      "date": "Tue, 07 Jul 2026 23:58:06 GMT"
     },
     {
       "text": "We believe this feature will help friends and family who road-trip together, as well as creators who wish to share which specific routes they took.\n\nWaypoints are private by default. When shared, they are not associated with the account that created them.\n\nPrivacy is paramount.",
@@ -24,9 +49,9 @@
       "date": "Tue, 07 Jul 2026 23:58:05 GMT"
     },
     {
-      "text": "Waypoints will initially be available to vehicles with a Plus or Pro subscription while we analyze costs (including Tesla API and Google/Mapbox API fees).\n\nOver time, we'll gradually provide access to this for all members and apply improvements based on feedback.",
-      "link": "https://nitter.net/teslascope/status/2074644154039275832#m",
-      "date": "Tue, 07 Jul 2026 23:58:06 GMT"
+      "text": "Next week, we're launching a new feature called \"Waypoints\" for both iOS and web.\n\nWaypoints let you effortlessly create and share multi-stop routes for your vehicles and other Tesla drivers.\n\nRoutes sent directly to your vehicle will also precondition for Superchargers!",
+      "link": "https://nitter.net/teslascope/status/2074644149966635231#m",
+      "date": "Tue, 07 Jul 2026 23:58:05 GMT"
     },
     {
       "text": "We've seen an influx of sign-ups and increased usage within the last six hours, so we've scaled up our infrastructure to better handle requests.\n\nStability and overall performance on our iOS and web platforms should now be improving, and we'll continue to monitor this closely.\n\n\nTeslascope (@teslascope)\n\nOur @Tesla iOS app is now available to everyone via TestFlight, with the official launch later this month!\n\nMore features, including an Apple Watch companion app, are now pending approval with Apple.\n\nDownload our app using the link below.\ntestflight.apple.com/join/Qp…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2073955531157627387#m",
@@ -69,34 +94,9 @@
       "date": "Sun, 05 Jul 2026 20:47:27 GMT"
     },
     {
-      "text": "Happy 4th of July! 🎆",
-      "link": "https://nitter.net/teslascope/status/2073504701950333151#m",
-      "date": "Sat, 04 Jul 2026 20:30:19 GMT"
-    },
-    {
-      "text": "R to @teslascope: Image",
-      "link": "https://nitter.net/teslascope/status/2073603962985713955#m",
-      "date": "Sun, 05 Jul 2026 03:04:45 GMT"
-    },
-    {
       "text": "And secured the badge, just in time.\n\nHope everyone had a great day and safe travels.",
       "link": "https://nitter.net/teslascope/status/2073658695775649934#m",
       "date": "Sun, 05 Jul 2026 06:42:14 GMT"
-    },
-    {
-      "text": "Happy Fourth of July\n\nVideo",
-      "link": "https://nitter.net/TeslaCharging/status/2073435090311606382#m",
-      "date": "Sat, 04 Jul 2026 15:53:42 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.20.6.1 is now rolling out to ~3,850 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
-      "link": "https://nitter.net/teslascope/status/2073128673314504726#m",
-      "date": "Fri, 03 Jul 2026 19:36:07 GMT"
-    },
-    {
-      "text": "Check your apps people. \nFSD V14.3.3 Down Under looks like it’s rolling out a little wider.  \nAnyone else downloading now? \n@teslascope @FleetCtrl",
-      "link": "https://nitter.net/ozzy2435/status/2072896092992418003#m",
-      "date": "Fri, 03 Jul 2026 04:11:55 GMT"
     }
   ]
 }
