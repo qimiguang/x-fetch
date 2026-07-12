@@ -1,8 +1,18 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-07-12T03:27:27Z",
+  "updated_at": "2026-07-12T08:25:23Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "这件事我觉得很像是一个法盲把openai坑了\n\n\n墓碑科技 (@mubeitech)\n\n一个做了 8 年 iPhone 硬件的华人工程师，1 月进了 OpenAI。\n几个小时后，Apple 要他还电脑。\n他没还。\n\n图里这个人叫 Chang Liu。\nLinkedIn 上写得很清楚：2018 到 2026，Apple，iPhone Electrical Engineer。\n2026 年 1 月，OpenAI，Member of Technical Staff。\n简介只有一句：make something cool。\n\nApple 的起诉书里，那句 cool 变得很具体。\nLiu 离职后还留着一台 Apple 工作电脑。\n他给还在 Apple 的朋友 Yu-Ting “Alyssa” Peng 发消息：我还有另一台电脑。\n\n然后，事情开始像硅谷版谍战片。\n2 月 9 日，他尝试访问 Apple 的网络存储。\n一个认证 bug 还在生效。\n他发现自己还能进 Apple 的机密工程文件库。\n\n他的反应很直白：LOL，我发现我还能访问那个网络存储，太好笑了。\nPeng 回：我准备好了。\n\n接下来，Apple 指控他下载了几十份机密文件。\n里面包括一套上千页的技术文件汇编。\n还有 MLB，也就是 iPhone 主逻辑板的制造和测试材料。\n\n更离谱的是，Apple 说他还把专有文件夹链接发给 Peng。\n告诉她看哪些项目数据。\n教她怎么复制文件，避免被安全团队找麻烦。\n还提醒她，OpenAI 面试前要补哪些 Apple 机密材料。\n\n有个细节很硅谷。\n他建议换到 LINE Messenger。\n理由是别让人看到。\n\n但 Apple 说，这些消息很多就留在 Apple 发的工作电脑上。\n这就像一个电气工程师拆了八年 iPhone，最后忘了自己手里那台设备也会留下电流痕迹。\n\nPeng 后来拿到 OpenAI offer，4 月 16 日离开 Apple。\n7 月 10 日，Apple 把 OpenAI、io Products、Tang Tan、Chang Liu 都告了。\nChang Liu 的名字，在起诉书里排得非常靠前。\n\n这件事真正值得盯的地方，不在八卦。\n而在 AI 硬件竞赛已经进入第二阶段。\n第一阶段抢模型、抢算力、抢论文。\n第二阶段抢工业经验、供应链记忆、制造细节。\n\n软件公司想做硬件，最缺的往往不是灵感。\n是那些藏在测试流程、板级设计、供应商沟通和失败记录里的经验。\nApple 最贵的资产，也常常不在发布会上。\n而在这些普通用户永远看不到的工程文件里。\n\nAI 时代的战争，表面上是模型参数。\n往深处看，是制度、资本和工程组织能力的正面碰撞。\n谁能把聪明人、机密、边界和法律同时管住，谁才有资格把未来装进一台设备里。\n\n\n\n\n\n— https://nitter.net/mubeitech/status/2075878125460721896#m",
+      "link": "https://nitter.net/Tsla99T/status/2076180392844145083#m",
+      "date": "Sun, 12 Jul 2026 05:42:33 GMT"
+    },
+    {
+      "text": "感谢台风，今天东京很凉快\n\nVideo",
+      "link": "https://nitter.net/Tsla99T/status/2076180189512630549#m",
+      "date": "Sun, 12 Jul 2026 05:41:45 GMT"
+    },
     {
       "text": "夏天出行\n就这么简单",
       "link": "https://nitter.net/Tsla99T/status/2075342980815220833#m",
@@ -14,14 +24,14 @@
       "date": "Thu, 09 Jul 2026 15:02:27 GMT"
     },
     {
-      "text": "Alpha School的周末免费创业课\n面向9-16岁\n链接在楼下",
-      "link": "https://nitter.net/Tsla99T/status/2075214642360570237#m",
-      "date": "Thu, 09 Jul 2026 13:45:01 GMT"
-    },
-    {
       "text": "founders.school/founders-wee…\n\nLink\n\n\n\nFounders Weekend — Founders School\n\nLearn how to make money before you can drive a car. A free 48-hour build weekend for ages 9–16. Six cities, Summer 2026.\nfounders.school",
       "link": "https://nitter.net/Tsla99T/status/2075214662639960490#m",
       "date": "Thu, 09 Jul 2026 13:45:05 GMT"
+    },
+    {
+      "text": "Alpha School的周末免费创业课\n面向9-16岁\n链接在楼下",
+      "link": "https://nitter.net/Tsla99T/status/2075214642360570237#m",
+      "date": "Thu, 09 Jul 2026 13:45:01 GMT"
     },
     {
       "text": "很后悔当年轮毂买小了",
@@ -87,16 +97,6 @@
       "text": "市场在惩罚追涨杀跌的人儿",
       "link": "https://nitter.net/Tsla99T/status/2072695528479949023#m",
       "date": "Thu, 02 Jul 2026 14:54:57 GMT"
-    },
-    {
-      "text": "sell the news而已\n怕啥？\n\n\nTSLA99T (@Tsla99T)\n\n特斯拉下半年的交付周期要开始了\n上半年是积累\n\n\n\n— https://nitter.net/Tsla99T/status/2071677958838698130#m",
-      "link": "https://nitter.net/Tsla99T/status/2072681255770968397#m",
-      "date": "Thu, 02 Jul 2026 13:58:14 GMT"
-    },
-    {
-      "text": "特斯拉洗车千万不要让他们刷车\n\nVideo",
-      "link": "https://nitter.net/Tsla99T/status/2072436712790274177#m",
-      "date": "Wed, 01 Jul 2026 21:46:30 GMT"
     }
   ]
 }
