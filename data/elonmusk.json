@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-12T03:26:53Z",
+  "updated_at": "2026-07-12T19:11:55Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.5 is the truth seeking leader that other AIs can aspire to become",
+      "link": "https://nitter.net/gailalfaratx/status/2076259670751100967#m",
+      "date": "Sun, 12 Jul 2026 10:57:35 GMT"
+    },
+    {
+      "text": "I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation.\n\nOur solar system has only a tiny percentage of non-solar atoms with which to build things.",
+      "link": "https://nitter.net/elonmusk/status/2076340432464752656#m",
+      "date": "Sun, 12 Jul 2026 16:18:30 GMT"
+    },
+    {
+      "text": "I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump.\n\nBefore AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves.\n\nIt turned out most moves do not lead to a win. Combined with clever use of Monte Carlo Tree Search, the sampling becomes quite manageable. The same can be said for physics, where equations are just another form of compression.\n\nEinstein did not start with relativity. That was not his first paper. He spent years understanding the properties of light before concluding that the speed of light is constant across the universe, which unlocked his discovery of relativity. During his thought process, he also interacted with other physicists (e.g., sub-agents) to enrich his thinking.\n\nCurrently we have not run an agent for years of compute. The sessions are often fragmented and disoriented, so every new session is almost a fragmented memory of the past, but it may not be for long.\n\n\nHan Xiao ✈️ ICML 2026 (@hxiao)\n\ninteresting position paper throwing cold water on autoresearch/ai scientist: LLMs can't jump.\n\nThe thought experiment is this: Take an LLM with a 1905 knowledge cutoff. Feed it every paper, every dataset, every equation of that era. Could it invent general relativity?\n\nNo.\n\nDiscovery isn't one thing. It's three. You can induce — generalize from data, which lands you at Newton plus some epicycles to explain Mercury's weird orbit. You can deduce — derive rigorously from axioms you already have, which never gives you new axioms. Or you can jump — invent the frame itself, decide that spacetime curves. That third move is the one that matters, and it's exactly the one induction and deduction can't reach.\n\nPenrose put it as three worlds: Physical, Mental, Platonic. Data flows from the world into a mind fine. But the new law has to be discovered into the Platonic world first — and that step is the jump. LLMs are induction machines running over what already exists. Structurally, they don't take it.\n\nI think it’s a warning to AI scientists/autoresearch against collapsing two very different things into one word.\n\nHill-climbing: LLMs are already superhuman here, and autoresearch in this sense is real and moving fast. \nAbduction/leap/jump: a new frame that reorganizes the field, that is a different act entirely, and nothing about scaling induction suggests you get there.\n\nMost of what Autoresearch ships today will be spectacular hill-climbing. The jump is still ours for now.\n\n\n\n\n\n— https://nitter.net/hxiao/status/2075180424754757722#m",
+      "link": "https://nitter.net/yunta_tsai/status/2076323348217565485#m",
+      "date": "Sun, 12 Jul 2026 15:10:37 GMT"
+    },
+    {
+      "text": "How many people have left America to escape Capitalism?\n\nVS\n\nHow many people have come to America while escaping socialism?",
+      "link": "https://nitter.net/TheRabbitHole/status/2076005333416521787#m",
+      "date": "Sat, 11 Jul 2026 18:06:56 GMT"
+    },
+    {
+      "text": "Try Grok 4.5 and see for yourself\n\n\nMin Choi (@minchoi)\n\nOk Grok 4.5 is insane.\n\nPeople are already building things that shouldn't be possible this fast.\n\n10 wild examples:\n\n\n\n— https://nitter.net/minchoi/status/2075959167689396374#m",
+      "link": "https://nitter.net/elonmusk/status/2076252465674977609#m",
+      "date": "Sun, 12 Jul 2026 10:28:57 GMT"
+    },
     {
       "text": "Starship is evolving rapidly\n\n\nSawyer Merritt (@SawyerMerritt)\n\nSpaceX just announced that they will be deploying V3 Starlink satellites for the first time during their 13th Starship test flight next week! Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery.\n\nSummary of every major upgrade and modification @SpaceX says it's made for the upcoming test flight:\n• More robust stage separation flip sequence to prevent the booster from rotating off course.\n• Hardware upgrades to improve Super Heavy Raptor re-light reliability during the boostback burn.\n• Updated engine alarms and abort logic for multi-engine flight conditions.\n• Starship propulsion system hardware and operational changes to address the Flight 12 engine-out issue.\n• First deployment of 20 Starlink V3 satellites with laser links, deployable solar arrays, and antennas.\n• Six Starlink V3 satellites equipped with cameras to inspect Starship's heat shield after reentry.\n• White-painted heat shield tiles added as simulated missing tiles and imaging targets.\n• New heat shield tile designs and attachment mechanisms, including tests on the aft flaps and aft skirt.\n• Load-sensing heat shield tiles to measure stresses during flight.\n• Higher dynamic pressure ascent profile to stress-test the heat shield and increase payload capability.\n• Planned in-space Raptor engine relight test.\n\nSpaceX: \"For the first time, Starship will carry V3 Starlink satellites to space, which aim to greatly expand the network's capacity and user speeds. As part of this initial test, Starship is planned to deploy 20 satellites which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.\"\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2076079355890212972#m",
       "link": "https://nitter.net/elonmusk/status/2076102645823971373#m",
@@ -77,31 +102,6 @@
       "text": "tesla fsd is the greatest piece of technology i've ever experienced. it's not even close. there's something hard to comprehend that my car is operating in the physical world, completely autonomously. pure magic. I can't ever get another car now...",
       "link": "https://nitter.net/tylerbruno05/status/2075587411334119779#m",
       "date": "Fri, 10 Jul 2026 14:26:16 GMT"
-    },
-    {
-      "text": "They sure put a lot of effort into this crime\n\n\nAakash Gupta (@aakashgupta)\n\nApple just sued OpenAI, and the wildest part is how they got caught: one candidate screenshotted confidential Apple files on his Apple work laptop hours before his OpenAI interview. Apple reads its own server logs. The recruiting pipeline generated its own evidence trail.\n\nThe complaint says OpenAI's hardware chief Tang Tan, a 24-year Apple veteran, directed candidates still employed at Apple to bring \"actual parts\" (batteries, logic boards) to interviews for show and tell sessions. One candidate was surprised, saying he didn't even know you could take those out of the office.\n\nApple also alleges Tan circulated an internal Apple offboarding document to coach new hires on dodging exit security checks, and that a departing engineer kept his Apple laptop, found a bug that still gave him access to Apple's cloud storage, and downloaded dozens of confidential hardware files after joining OpenAI.\n\nThen the supplier: OpenAI allegedly got one of Apple's manufacturing partners to demonstrate a proprietary metal finishing technique by letting the partner believe Apple had approved it.\n\nOver 400 former Apple employees now work at OpenAI. Apple says it flagged all of this to OpenAI in February and never got a response. Five months later, it filed.\n\nThe ask reveals the strategy. Apple wants an injunction barring OpenAI from using the secrets, the return of every file, and full discovery into io, right as OpenAI preps its first device launch and an IPO. If a judge grants it, OpenAI may have to prove the device was built clean, component by component, before it ships.\n\nThe device was supposed to run on the world's best hardware talent. Now its bill of materials is evidence.\n\n\n\n— https://nitter.net/aakashgupta/status/2075811573600575568#m",
-      "link": "https://nitter.net/elonmusk/status/2075887316577439860#m",
-      "date": "Sat, 11 Jul 2026 10:17:59 GMT"
-    },
-    {
-      "text": "Nuanced\n\n\nTyler Storm (@tstorm)\n\nGrok 4.5 solved it\n\n---\n\nAnswer: 더바른정육식당 (The Barun Jeongyuk Sikdang)\n📍 서울 강남구 강남대로 482, 신논현/논현 · IG @barun_jo\n\n1. Plate first. The tweet photo is a classic Korean 고깃집 사인 벽 — light vertical wood, white cards in clear plastic sleeves, red stickers “open AI / Ilya Sutskever,” date 2023. 9. 16. That style + Korean date format already points at a local meat house, not a touristy Instagram spot.\n\n2. The only public breadcrumb. A Feb 2025 CHON Facebook post by 신근영 (Shin Keun-young / @rms1155) shares essentially the same plate: he paid for lunch, noticed the signature, and the owner said Ilya (with his Korean wife) had dined and signed. No name given — exactly why the original challenge works.\n\n3. Date unlocks geography. 2023.9.16 lands on Prompter Day Seoul 2023 (SKT × OpenAI), prelims that weekend, finals at Dreamplus Gangnam (신논현/역삼). So search shifted from “random Korea BBQ” → 신논현 / 논현 / 역삼 정육식당 with celebrity signature walls.\n\n4. Shortlist + wall matching. Candidates with dense 사인 벽 near Dreamplus: 더바른정육식당, 산솔 신논현, 대운목장, a few quieter 드-슐랭 정육. Cross-checked public wall photos against the hardware in the tweet (vertical wood + laminated white cards, not door-writing / yellow sticky notes / free-form paper).\n\n5. The lock. Google Images for “더바른정육식당 사인 벽” surfaces the same wall system — same wood, same clear sleeves, same card\n\ninstagram.com/barun_jo/p/Cuh…\n\n\n\n\n\n— https://nitter.net/tstorm/status/2075856003619586433#m",
-      "link": "https://nitter.net/elonmusk/status/2075885854787064241#m",
-      "date": "Sat, 11 Jul 2026 10:12:10 GMT"
-    },
-    {
-      "text": "Falcon Rising\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2075818822544601377#m",
-      "date": "Sat, 11 Jul 2026 05:45:48 GMT"
-    },
-    {
-      "text": "Grok places second after Fable on real-world software engineering\n\n\nMercor (@mercor_ai)\n\nGrok 4.5 from @SpaceXAI places #2 on the APEX-SWE leaderboard at 51.2% Pass@1 (±6.0), behind Fable 5 (65.5% ±6.2) on our benchmark for real-world software engineering work.\n\nIt leads Integration (65.0% Pass@1) and places #2 in Observability (37.3% Pass@1), covering multi-step build tasks and diagnosis/debugging respectively. The Integration lead maps directly to the agentic workflows Grok 4.5 was built for: multi-step coding tasks run in collaboration with Cursor.\n\nGrok models have improved 30.2 pp in a year on this benchmark: Grok 4 (21.0% Pass@1) to Grok 4.5 (51.2% Pass@1).\n\nCongratulations to the xAI and Cursor teams.\n\n\n\n\n\n— https://nitter.net/mercor_ai/status/2075792789690888640#m",
-      "link": "https://nitter.net/elonmusk/status/2075814989953114259#m",
-      "date": "Sat, 11 Jul 2026 05:30:35 GMT"
-    },
-    {
-      "text": "Grok 4.5 Review\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2075814427698344032#m",
-      "date": "Sat, 11 Jul 2026 05:28:20 GMT"
     }
   ]
 }
