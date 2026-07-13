@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-13T03:29:56Z",
+  "updated_at": "2026-07-13T09:36:31Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Tesla FSD V14.3.5 has just started rolling out.\n\nOne new feature: You can now open Camera Preview at any time, even if your Tesla is not in Park.\n\nDownloading it on my Model Y right now.",
+      "link": "https://nitter.net/SawyerMerritt/status/2076561690087333923#m",
+      "date": "Mon, 13 Jul 2026 06:57:42 GMT"
+    },
+    {
+      "text": "We're sharing this information publicly because we've been contacted by several of our platform's members based in Australia who have observed missing vehicle data.\n\nDue to @Telstra's recent countrywide outages and other infrastructure issues, Tesla vehicles were affected, resulting in connectivity issues and severe delays for third-party services such as ours.\n\nWhile Tesla's Fleet Telemetry is designed to attempt to send stale data (resending) in the case of temporary connectivity issues, the internal storage for this data is limited, and this system is not designed for prolonged downtimes impacting cellular providers.\n\nWhenever there is cellular downtime or while traveling through known cellular dead zones, vehicle data recording can be affected, and, as such, data loss is expected.\n\nWe appreciate our members down under for their understanding.",
+      "link": "https://nitter.net/teslascope/status/2076567992146800701#m",
+      "date": "Mon, 13 Jul 2026 07:22:44 GMT"
+    },
     {
       "text": "Video",
       "link": "https://nitter.net/teslascope/status/2075753787759960479#m",
@@ -87,16 +97,6 @@
       "text": "We've updated our platform to V6.3.3.\n\nThis includes support for importing data from Tessie for the first time, using their provided \"raw data\" option.\n\nWe've also added sorting for Drives and Charging sessions (and coming to our iOS next update)\n\nMore:\nteslascope.com/blog/6.3.3",
       "link": "https://nitter.net/teslascope/status/2073958461008920937#m",
       "date": "Mon, 06 Jul 2026 02:33:24 GMT"
-    },
-    {
-      "text": "New in the Tesla app, starting in 2026.20.6.1:\n\nYou can now view whether a vehicle is actively Self-Driving!\n\n\nJordan Camina (@hletes)\n\nIs this new in the Tesla app?!? @teslascope\n\n\n\n\n\n— https://nitter.net/hletes/status/2073816238778622084#m",
-      "link": "https://nitter.net/teslascope/status/2073871401023648038#m",
-      "date": "Sun, 05 Jul 2026 20:47:27 GMT"
-    },
-    {
-      "text": "And secured the badge, just in time.\n\nHope everyone had a great day and safe travels.",
-      "link": "https://nitter.net/teslascope/status/2073658695775649934#m",
-      "date": "Sun, 05 Jul 2026 06:42:14 GMT"
     }
   ]
 }

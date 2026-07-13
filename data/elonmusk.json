@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-13T03:29:55Z",
+  "updated_at": "2026-07-13T09:36:30Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Well shit - grok 4.5 is KILLING it it in my video studio evals!\n\n6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models",
+      "link": "https://nitter.net/mikiovsh/status/2076373041773256963#m",
+      "date": "Sun, 12 Jul 2026 18:28:04 GMT"
+    },
+    {
+      "text": "Using Grok agents in background mode\n\n\nAndrew Milich (@milichab)\n\n1) Yes! Use `.grok/agents` or config.toml (see below), adding to the docs site right now. \n\n2) Yes: Agents can spawn background subagents, or try /dashboard, to move your agent to the background and create another. I've been using /dashboard as my default.\n\n\n\n\n\n— https://nitter.net/milichab/status/2076388813581258818#m",
+      "link": "https://nitter.net/elonmusk/status/2076563677319209094#m",
+      "date": "Mon, 13 Jul 2026 07:05:36 GMT"
+    },
+    {
+      "text": "The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
+      "link": "https://nitter.net/elonmusk/status/2076558971905650718#m",
+      "date": "Mon, 13 Jul 2026 06:46:54 GMT"
+    },
+    {
+      "text": "NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.",
+      "link": "https://nitter.net/Polymarket/status/2076472406860873975#m",
+      "date": "Mon, 13 Jul 2026 01:02:55 GMT"
+    },
+    {
+      "text": "I get to see this monster fly again later this week... new photos to come!",
+      "link": "https://nitter.net/AJamesMcCarthy/status/2076373929439244528#m",
+      "date": "Sun, 12 Jul 2026 18:31:36 GMT"
+    },
     {
       "text": "Elon Musk explains why the Sun is humanity's ultimate energy source:\n\n\"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball\n\nA roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\"\n\nThe challenge isn't whether enough solar energy exists\nIt's building the infrastructure to capture, store, and distribute it efficiently\n\nVideo",
       "link": "https://nitter.net/XFreeze/status/2076352093703794999#m",
@@ -77,31 +102,6 @@
       "text": "and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.",
       "link": "https://nitter.net/CardilloSamuel/status/2076036462290624972#m",
       "date": "Sat, 11 Jul 2026 20:10:38 GMT"
-    },
-    {
-      "text": "Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right.\n\nNo other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize!\n\n\n\n\nSamuel Cardillo (@CardilloSamuel)\n\nand yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.\n\n\n\n\n\n— https://nitter.net/CardilloSamuel/status/2076036462290624972#m",
-      "link": "https://nitter.net/mark_k/status/2076040435743506800#m",
-      "date": "Sat, 11 Jul 2026 20:26:25 GMT"
-    },
-    {
-      "text": "Grok is the most politically neutral and objectively truth-seeking AI\n\n\nBrivael Le Pogam (@brivael)\n\nEncore un scandale.\n\nOn accuse Elon Musk sans arrêt de se servir de Grok pour faire passer ses idées. \n\nPourtant, le @neutralityorg vient de sortir The Neutrality Project : une étude indépendante qui prouve l’inverse.\n\nSur 18 modèles IA testés, 54 positions sur 60 atterrissent à gauche du centre. \n\nMoyenne globale : -0.41 (biais progressiste massif, surtout environnement et valeurs sociales).\n\nEt Grok 4.5 ? -0.02. Le modèle le plus neutre de tout le benchmark. Le seul vraiment proche du centre.\n\nPendant ce temps, les autres boîtes injectent massivement leur idéologie de gauche dans des IA qui répondent à des milliards de questions par jour. \n\nManipulation des masses à grande échelle.\n\nC’est absolument scandaleux. Ça devrait être un scandale mondial.\n\nnitter.net/neutralityorg/status/2…\n\n\n\n\n\n— https://nitter.net/brivael/status/2076056826408300864#m",
-      "link": "https://nitter.net/elonmusk/status/2076102201575969192#m",
-      "date": "Sun, 12 Jul 2026 00:31:51 GMT"
-    },
-    {
-      "text": "Next Starship launch aiming for Thursday\n\n\nSpaceX (@SpaceX)\n\nStarship’s thirteenth flight test is preparing to launch as early as Thursday, July 16 → spacex.com/launches/starship…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2076075162420629714#m",
-      "link": "https://nitter.net/elonmusk/status/2076100095867506809#m",
-      "date": "Sun, 12 Jul 2026 00:23:29 GMT"
-    },
-    {
-      "text": "Tesla self-driving enables safer mobility for senior citizens\n\n\nTesla (@Tesla)\n\nWhen a 93-year-old woman noticed how tired she was on her daily drives, she started going out less.\n\nBut with FSD Supervised, she’s now able to drive herself to appointments, run errands and even take road trips to visit her family on her own\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2075977376681603233#m",
-      "link": "https://nitter.net/elonmusk/status/2076038090947166516#m",
-      "date": "Sat, 11 Jul 2026 20:17:06 GMT"
-    },
-    {
-      "text": "Grok 4.5 with Grok Build has tied for the #1 spot on the SWE-Atlas-QnA benchmark, matching Codex GPT-5.6 with an impressive 84 score.\n\nAnother strong milestone for xAI's rapidly advancing coding capabilities.",
-      "link": "https://nitter.net/teslaownersSV/status/2075643190334705885#m",
-      "date": "Fri, 10 Jul 2026 18:07:54 GMT"
     }
   ]
 }
