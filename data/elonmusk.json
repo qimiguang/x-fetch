@@ -1,8 +1,43 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-13T09:36:30Z",
+  "updated_at": "2026-07-13T19:35:09Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "If you run /privacy and change the setting, all previously synced data is deleted.",
+      "link": "https://nitter.net/SpaceXAI/status/2076696092037833091#m",
+      "date": "Mon, 13 Jul 2026 15:51:46 GMT"
+    },
+    {
+      "text": "That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
+      "link": "https://nitter.net/milichab/status/2076725943708868615#m",
+      "date": "Mon, 13 Jul 2026 17:50:23 GMT"
+    },
+    {
+      "text": "Progress\n\n\nX Freeze (@XFreeze)\n\nGrok Build is growing insanely fast, reaching 1.16 million monthly visits within just weeks after its early-beta launch\n\nTraffic jumped from around 460,000 visits in May to 1.16 million in June\n\nThat’s growth of more than 150% in just one month\n\nGrok Build with Grok 4.5 ranked #1 on the SWE-Atlas-QnA benchmark with a score of 84, ahead of Claude Code with Fable 5 on the benchmark\n\nMore developers are discovering Grok Build and realizing how capable Grok 4.5 actually is for real coding work\n\nGrok Build is quickly taking over the AI coding space\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2076639388805804140#m",
+      "link": "https://nitter.net/elonmusk/status/2076739857863385206#m",
+      "date": "Mon, 13 Jul 2026 18:45:40 GMT"
+    },
+    {
+      "text": "True. \n\nAs a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.\n\n\nAndrew Milich (@milichab)\n\nI worked on building an end-to-end encrypted email/docs/files/calendar app @skiffprivacy for 4 years and care deeply about privacy. \n\nZDR and /privacy are always respected in Grok Build - and swapping your setting with /privacy deletes any synced data retoractively\n\n\n\n— https://nitter.net/milichab/status/2076693464016994685#m",
+      "link": "https://nitter.net/elonmusk/status/2076739687658496209#m",
+      "date": "Mon, 13 Jul 2026 18:45:00 GMT"
+    },
+    {
+      "text": "Their zero data retention policy fine print says they still retain data? Am I reading this right?",
+      "link": "https://nitter.net/elonmusk/status/2076737284192285068#m",
+      "date": "Mon, 13 Jul 2026 18:35:27 GMT"
+    },
+    {
+      "text": "SpaceX policy regarding data retention.\n\nIt is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.\n\n\nSpaceXAI (@SpaceXAI)\n\nWe care deeply about your privacy and respect customer choice. For teams using zero data retention, no trace and code data is ever retained. All API key use of Grok Build also respects ZDR. \n\nIf ZDR is disabled, the /privacy command is available in the CLI to disable data retention, which also deletes previously synced data.\n\nRun the /privacy command to view or change your settings at any time.\n\n\n\n— https://nitter.net/SpaceXAI/status/2076692402442846289#m",
+      "link": "https://nitter.net/elonmusk/status/2076737992689914215#m",
+      "date": "Mon, 13 Jul 2026 18:38:16 GMT"
+    },
+    {
+      "text": "Literally true\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2076690060699684905#m",
+      "date": "Mon, 13 Jul 2026 15:27:48 GMT"
+    },
     {
       "text": "Well shit - grok 4.5 is KILLING it it in my video studio evals!\n\n6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models",
       "link": "https://nitter.net/mikiovsh/status/2076373041773256963#m",
@@ -67,41 +102,6 @@
       "text": "For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space\n\nStarlink V3 is designed to massively expand the network’s capacity and increase user speeds\n\nAfter deployment, the test satellites will:\n• Extend their solar arrays and antennas\n• Attempt to connect with ground stations in South Africa\n• Establish links with the wider Starlink constellation using high-capacity lasers\n\nThe satellites will follow the same suborbital trajectory as Starship, meaning they will not remain in orbit and are expected to reenter the atmosphere later in the mission\n\nBut the most interesting part is how Starlink will help inspect Starship\n\nSix of the satellites have been modified with cameras designed to scan Starship’s heat shield and transmit the imagery back to SpaceX operators\n\nSeveral heat-shield tiles have even been painted white to simulate missing tiles and provide clear imaging targets\n\nThe goal is to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions\n\nStarship launches Starlink\nStarlink helps inspect Starship\nThe entire SpaceX ecosystem is starting to compound on itself",
       "link": "https://nitter.net/XFreeze/status/2076358671798575154#m",
       "date": "Sun, 12 Jul 2026 17:30:58 GMT"
-    },
-    {
-      "text": "Grok 4.5 is the truth seeking leader that other AIs can aspire to become",
-      "link": "https://nitter.net/gailalfaratx/status/2076259670751100967#m",
-      "date": "Sun, 12 Jul 2026 10:57:35 GMT"
-    },
-    {
-      "text": "I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation.\n\nOur solar system has only a tiny percentage of non-solar atoms with which to build things.",
-      "link": "https://nitter.net/elonmusk/status/2076340432464752656#m",
-      "date": "Sun, 12 Jul 2026 16:18:30 GMT"
-    },
-    {
-      "text": "I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump.\n\nBefore AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves.\n\nIt turned out most moves do not lead to a win. Combined with clever use of Monte Carlo Tree Search, the sampling becomes quite manageable. The same can be said for physics, where equations are just another form of compression.\n\nEinstein did not start with relativity. That was not his first paper. He spent years understanding the properties of light before concluding that the speed of light is constant across the universe, which unlocked his discovery of relativity. During his thought process, he also interacted with other physicists (e.g., sub-agents) to enrich his thinking.\n\nCurrently we have not run an agent for years of compute. The sessions are often fragmented and disoriented, so every new session is almost a fragmented memory of the past, but it may not be for long.\n\n\nHan Xiao ✈️ ICML 2026 (@hxiao)\n\ninteresting position paper throwing cold water on autoresearch/ai scientist: LLMs can't jump.\n\nThe thought experiment is this: Take an LLM with a 1905 knowledge cutoff. Feed it every paper, every dataset, every equation of that era. Could it invent general relativity?\n\nNo.\n\nDiscovery isn't one thing. It's three. You can induce — generalize from data, which lands you at Newton plus some epicycles to explain Mercury's weird orbit. You can deduce — derive rigorously from axioms you already have, which never gives you new axioms. Or you can jump — invent the frame itself, decide that spacetime curves. That third move is the one that matters, and it's exactly the one induction and deduction can't reach.\n\nPenrose put it as three worlds: Physical, Mental, Platonic. Data flows from the world into a mind fine. But the new law has to be discovered into the Platonic world first — and that step is the jump. LLMs are induction machines running over what already exists. Structurally, they don't take it.\n\nI think it’s a warning to AI scientists/autoresearch against collapsing two very different things into one word.\n\nHill-climbing: LLMs are already superhuman here, and autoresearch in this sense is real and moving fast. \nAbduction/leap/jump: a new frame that reorganizes the field, that is a different act entirely, and nothing about scaling induction suggests you get there.\n\nMost of what Autoresearch ships today will be spectacular hill-climbing. The jump is still ours for now.\n\n\n\n\n\n— https://nitter.net/hxiao/status/2075180424754757722#m",
-      "link": "https://nitter.net/yunta_tsai/status/2076323348217565485#m",
-      "date": "Sun, 12 Jul 2026 15:10:37 GMT"
-    },
-    {
-      "text": "How many people have left America to escape Capitalism?\n\nVS\n\nHow many people have come to America while escaping socialism?",
-      "link": "https://nitter.net/TheRabbitHole/status/2076005333416521787#m",
-      "date": "Sat, 11 Jul 2026 18:06:56 GMT"
-    },
-    {
-      "text": "Try Grok 4.5 and see for yourself\n\n\nMin Choi (@minchoi)\n\nOk Grok 4.5 is insane.\n\nPeople are already building things that shouldn't be possible this fast.\n\n10 wild examples:\n\n\n\n— https://nitter.net/minchoi/status/2075959167689396374#m",
-      "link": "https://nitter.net/elonmusk/status/2076252465674977609#m",
-      "date": "Sun, 12 Jul 2026 10:28:57 GMT"
-    },
-    {
-      "text": "Starship is evolving rapidly\n\n\nSawyer Merritt (@SawyerMerritt)\n\nSpaceX just announced that they will be deploying V3 Starlink satellites for the first time during their 13th Starship test flight next week! Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery.\n\nSummary of every major upgrade and modification @SpaceX says it's made for the upcoming test flight:\n• More robust stage separation flip sequence to prevent the booster from rotating off course.\n• Hardware upgrades to improve Super Heavy Raptor re-light reliability during the boostback burn.\n• Updated engine alarms and abort logic for multi-engine flight conditions.\n• Starship propulsion system hardware and operational changes to address the Flight 12 engine-out issue.\n• First deployment of 20 Starlink V3 satellites with laser links, deployable solar arrays, and antennas.\n• Six Starlink V3 satellites equipped with cameras to inspect Starship's heat shield after reentry.\n• White-painted heat shield tiles added as simulated missing tiles and imaging targets.\n• New heat shield tile designs and attachment mechanisms, including tests on the aft flaps and aft skirt.\n• Load-sensing heat shield tiles to measure stresses during flight.\n• Higher dynamic pressure ascent profile to stress-test the heat shield and increase payload capability.\n• Planned in-space Raptor engine relight test.\n\nSpaceX: \"For the first time, Starship will carry V3 Starlink satellites to space, which aim to greatly expand the network's capacity and user speeds. As part of this initial test, Starship is planned to deploy 20 satellites which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.\"\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2076079355890212972#m",
-      "link": "https://nitter.net/elonmusk/status/2076102645823971373#m",
-      "date": "Sun, 12 Jul 2026 00:33:37 GMT"
-    },
-    {
-      "text": "and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.",
-      "link": "https://nitter.net/CardilloSamuel/status/2076036462290624972#m",
-      "date": "Sat, 11 Jul 2026 20:10:38 GMT"
     }
   ]
 }
