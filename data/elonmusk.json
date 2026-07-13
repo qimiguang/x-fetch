@@ -1,8 +1,48 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-12T19:11:55Z",
+  "updated_at": "2026-07-13T03:29:55Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Elon Musk explains why the Sun is humanity's ultimate energy source:\n\n\"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball\n\nA roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\"\n\nThe challenge isn't whether enough solar energy exists\nIt's building the infrastructure to capture, store, and distribute it efficiently\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2076352093703794999#m",
+      "date": "Sun, 12 Jul 2026 17:04:50 GMT"
+    },
+    {
+      "text": "Grok Build improvements\n\n\nX Freeze (@XFreeze)\n\nGrok Build just received another update, bringing smoother navigation and improved keyboard workflows across the Agent Dashboard\n\nRelease Notes: v0.2.99 — 2026-07-12\n\nFeatures:\n• Multiline input now works on the agent dashboard the same way it does in regular sessions.\n• PageUp and PageDown now scroll the conversation while the prompt is focused.\n• Keyboard Shortcuts modal now follows Vim mode navigation keys when enabled\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2076414354451533933#m",
+      "link": "https://nitter.net/elonmusk/status/2076434715951689733#m",
+      "date": "Sun, 12 Jul 2026 22:33:09 GMT"
+    },
+    {
+      "text": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
+      "link": "https://nitter.net/elonmusk/status/2076434607562531049#m",
+      "date": "Sun, 12 Jul 2026 22:32:43 GMT"
+    },
+    {
+      "text": "The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed.\n\nIt would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency.\n\nThere are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal.\n\nWith SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative.\n\nThis is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though.\n\nWe will see.\n\n\nCassandra Unchained (@michaeljburry)\n\nThis is true as I have heard this from contacts in the Valley. Goes with my pinned post. \n\nThe AI race is shifting from bigger models to cheaper, smarter systems cnbc.com/2026/07/10/the-ai-r…\n\nLink\n\n\n\nThe AI race is shifting from bigger models to cheaper, smarter systems\n\nCompanies are starting to choose AI models by task, cost and control, not just leaderboard rank.\ncnbc.com\n\n\n\n\n— https://nitter.net/michaeljburry/status/2075834571581456649#m",
+      "link": "https://nitter.net/GavinSBaker/status/2076369936251851091#m",
+      "date": "Sun, 12 Jul 2026 18:15:44 GMT"
+    },
+    {
+      "text": "Follow the Starship series @SpaceX\n\n\nSpaceX (@SpaceX)\n\nThe path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together towards a common goal. “Critical Path” continues the ongoing Starship series, following SpaceX engineers through the final days before launch of the first Starship V3 and the challenges that come with development of the world’s most powerful and fully reusable rocket.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2075621981488033835#m",
+      "link": "https://nitter.net/elonmusk/status/2076433121893814735#m",
+      "date": "Sun, 12 Jul 2026 22:26:49 GMT"
+    },
+    {
+      "text": "Cool\n\n\n@jason (@Jason)\n\nI made myself a personalized podcast player using @grok 4.5 and @perplexity_ai Computer \n\nIt finds the top topics people are discussing on tech and business podcasts, then lets me play a single stream across multiple podcasts by topic. \n\nWhen you click PLAY DEEP-LINK STREAM, it plays me all the pods talking about China and open source (in the screenshot here) \n\nit's called PODMEME (after Techmeme, which is what i modeled it off of!)\n\nThanks @AravSrinivas @elonmusk for the harness and model! Cost me 1,100 \"credits\" on Perplexity -- so $11! \n\nNot sure what it will cost to run this every 48 hours... but, I think worth it. \n\nI might actually output a custom MP4 file for each topic with an audio transition in the middle\n\n\n\n\n\n— https://nitter.net/Jason/status/2076231055443440105#m",
+      "link": "https://nitter.net/elonmusk/status/2076432602999722000#m",
+      "date": "Sun, 12 Jul 2026 22:24:45 GMT"
+    },
+    {
+      "text": "Grok 4.5 is Opus class for browser use\n\n\nAlexander Yue (@Alezander907)\n\nI take it all back. We just got access to eval Grok 4.5 and it has landed above GPT-5.6-Sol and just shy of Opus for browser use.\n\nBecause cache input is expensive, the overall cost is only 10% cheaper than opus. Its overall a bit faster. \n\nWe have another opus-class model in the competition\n\n\n\n— https://nitter.net/Alezander907/status/2076144541669962060#m",
+      "link": "https://nitter.net/elonmusk/status/2076411563116835245#m",
+      "date": "Sun, 12 Jul 2026 21:01:09 GMT"
+    },
+    {
+      "text": "For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space\n\nStarlink V3 is designed to massively expand the network’s capacity and increase user speeds\n\nAfter deployment, the test satellites will:\n• Extend their solar arrays and antennas\n• Attempt to connect with ground stations in South Africa\n• Establish links with the wider Starlink constellation using high-capacity lasers\n\nThe satellites will follow the same suborbital trajectory as Starship, meaning they will not remain in orbit and are expected to reenter the atmosphere later in the mission\n\nBut the most interesting part is how Starlink will help inspect Starship\n\nSix of the satellites have been modified with cameras designed to scan Starship’s heat shield and transmit the imagery back to SpaceX operators\n\nSeveral heat-shield tiles have even been painted white to simulate missing tiles and provide clear imaging targets\n\nThe goal is to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions\n\nStarship launches Starlink\nStarlink helps inspect Starship\nThe entire SpaceX ecosystem is starting to compound on itself",
+      "link": "https://nitter.net/XFreeze/status/2076358671798575154#m",
+      "date": "Sun, 12 Jul 2026 17:30:58 GMT"
+    },
     {
       "text": "Grok 4.5 is the truth seeking leader that other AIs can aspire to become",
       "link": "https://nitter.net/gailalfaratx/status/2076259670751100967#m",
@@ -62,46 +102,6 @@
       "text": "Grok 4.5 with Grok Build has tied for the #1 spot on the SWE-Atlas-QnA benchmark, matching Codex GPT-5.6 with an impressive 84 score.\n\nAnother strong milestone for xAI's rapidly advancing coding capabilities.",
       "link": "https://nitter.net/teslaownersSV/status/2075643190334705885#m",
       "date": "Fri, 10 Jul 2026 18:07:54 GMT"
-    },
-    {
-      "text": "BREAKING: Starlink has provided new emergency connectivity support to Armenia. 🇦🇲\n\n• 56 additional kits will be deployed by Armenia’s Ministry of Internal Affairs’ Rescue Service to provide connectivity during natural disasters and emergencies.\n\n• 110 Starlink terminals already connect thousands of students across Armenia’s remote schools.",
-      "link": "https://nitter.net/cb_doge/status/2075888291824746682#m",
-      "date": "Sat, 11 Jul 2026 10:21:51 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2075926721337991455#m",
-      "date": "Sat, 11 Jul 2026 12:54:33 GMT"
-    },
-    {
-      "text": "He might literally love scamming more than any human alive!",
-      "link": "https://nitter.net/elonmusk/status/2075926480387776675#m",
-      "date": "Sat, 11 Jul 2026 12:53:36 GMT"
-    },
-    {
-      "text": "By “this” he means scamming 🤣🤣",
-      "link": "https://nitter.net/elonmusk/status/2075926239848611976#m",
-      "date": "Sat, 11 Jul 2026 12:52:39 GMT"
-    },
-    {
-      "text": "He takes scamming to a whole new level\n\n\nDogeDesigner (@cb_doge)\n\nElon Musk warned the world about Scam Altman. \n\nNow everyone is finding out why.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2075891436034384264#m",
-      "link": "https://nitter.net/elonmusk/status/2075892136604573903#m",
-      "date": "Sat, 11 Jul 2026 10:37:08 GMT"
-    },
-    {
-      "text": "The Anglo-Scottish Enlightenment – the real antidote to Rousseau and Voltaire\n\nThe French Enlightenment and the Anglo-Scottish Enlightenment happened simultaneously, in the same century, reading the same books, arguing about the same questions. They reached completely opposite conclusions. One produced the Declaration of Independence and the American Constitution. The other produced the guillotine. This is the most important civilizational fork in modern history.\n\n1. The French Enlightenment begins with the assumption that human beings can be improved by reason – that if you strip away the corrupting institutions of Church, tradition, and inherited authority, the natural goodness underneath will organize itself into a just society. This sounds like progress. It is a fantasy with a body count. Every attempt to implement it has required, at some point, a Committee of Public Safety to handle the people who turned out not to be naturally good enough.\n\n2. The Anglo-Scottish Enlightenment begins with the opposite assumption: human beings are what they are, not what they could be if properly enlightened. Hume grounds morality in human nature as it actually operates – sympathy, habit, sentiment, the slow accumulation of social trust. Smith shows that self-interest, properly channeled, produces collective benefit without a planner. Neither man is building a utopia. Both are building with the actual material available.\n\n3. Burke is the direct refutation, written in real time. He published Reflections on the Revolution in France in 1790 – before the Terror, predicting it precisely – because he understood that institutions are not obstacles to human flourishing, they are its precondition. They contain accumulated wisdom — the knowledge of the dead — that cannot be recovered once destroyed. Pull society apart to improve it and you don’t get the General Will. You get Robespierre.\n\n4. The American founders read Burke, Hume, Smith, and Montesquieu – the Frenchman who looked at England and understood what France was missing. They built a system that takes human nature as given — self-interested, power-hungry, tribal — and constructs institutions to contain those tendencies rather than assume they disappear once the right people are in charge. Checks and balances are not a design flaw. They are what you build when you don’t believe in philosopher-kings.\n\n5. 1776 versus 1789. Same Enlightenment, same century, same vocabulary of liberty and reason. One produces a constitutional republic that has survived two and a half centuries of stress, civil war, and upheaval. The other produces, in sequence: the Terror, Napoleon, 1848, the Commune, and eventually — via Marx, who was a Frenchman in spirit if not in birth — the entire catastrophe of the twentieth century. The difference was not intelligence or intention. It was the starting assumption about human nature. Get that wrong and everything that follows is wrong with it.\n\n6. The guillotine is not the Revolution’s failure. It is its logical conclusion. If man is naturally good and the system is corrupt, then whoever seizes the system in the name of natural goodness is licensed to do anything. The General Will cannot be wrong. Those who resist it are not opponents – they are enemies of nature itself.\n\n7. The real antidote to Rousseau and Voltaire was never a better French philosopher. It was a different civilizational tradition – one that builds with human beings as they are; that treats inherited institutions as repositories of wisdom rather than obstacles to progress; that distributes power rather than concentrating it in whoever currently claims to know the General Will. That tradition was built in Edinburgh, London, and Philadelphia. It is currently under sustained assault — from exactly the same ideas, in exactly the same form, with exactly the same confidence — that Burke watched demolish France in 1789. He was right then. He is right now.\n\n\n\n\nKrzysztof Szczawinski 🇵🇱 (@Kristof_Poland)\n\nVoltaire – the fake antidote to Rousseau\n\nHe is the most entertaining man of the eighteenth century and the most seductive trap in Western intellectual history. He seems like the cure for Rousseau. He is the other half of the disease.\n\n1. Where Rousseau is emotional, Voltaire is rational. Where Rousseau weeps over the noble savage, Voltaire mocks. He is the master of devastating wit, precise irony, surgical ridicule. Candide dismantles every naive optimism in ninety pages with the efficiency of a guillotine – which is fitting, since the guillotine is partly what his work made possible.\n\n2. His great weapon is mockery. Écrasez l’infâme – crush the infamous, meaning the Church, tradition, inherited authority. He crushed it. With wit, elegance, and devastating precision. He was right that the Church was corrupt, that the aristocracy was parasitic, that the old order was indefensible in many of its particulars. Being right about what to demolish is not the same as knowing what to build.\n\n3. Voltaire is the demolition crew without an architecture firm. He tears down, magnificently. He offers no replacement – only rubble, and the advice to cultivate your garden. Private. Disengaged. The conclusion of Candide: after every horror, every injustice, every system failure – grow vegetables. This is not wisdom. This is elegant surrender dressed as philosophy.\n\n4. His irony is a solvent. It dissolves corruption, yes – but it dissolves everything, including the things worth keeping. A civilization marinated in Voltairean irony learns to mock every claim to authority, every appeal to tradition, every invocation of duty. This feels like freedom. It is actually vulnerability – a society that has learned to be ironic about everything is defenseless against the person who believes something earnestly enough to act on it. Robespierre was not ironic. He was a true believer. He won.\n\n5. Rousseau gave the revolutionary the emotional fuel: the pure victim, the corrupt oppressor, the righteous rage of nature against civilization. Voltaire provided the intellectual solvent: he dissolved the legitimacy of every institution that might have contained that rage. Together they cleared the ground completely. Robespierre arrived and found no Church, no tradition, no inherited authority with enough credibility to resist him. He simply moved into the vacuum and filled it with the General Will and the guillotine.\n\n6. And when he wasn’t playing \"champion of liberty\", he was on the payroll of kings, literally. He spent years at Frederick the Great’s court and corresponded adoringly with Catherine the Great, flattering both in print as enlightened monarchs of the age. While he was writing these letters, Frederick and Catherine were carving up Poland – dismembering a European nation, erasing it from the map and subjugating an entire people in one of the great crimes of the eighteenth century. Voltaire knew. He didn’t care. Écrasez l’infâme — crush the infamous — unless the infamous is paying well and lives in a palace in Berlin or St. Petersburg.\n\n7. The contemporary Voltaire is everywhere: the late night host who dismantles everything with devastating wit and proposes nothing. The enlightened cynic who sees through every institution, trusts nothing, builds nothing, and considers this sophistication – while cashing checks from the very system he mocks. The fake antidote doesn’t kill you. It leaves you without defenses when the real disease arrives. Rousseau is the fire. Voltaire is the man who dismantled your fireplace and called it progress – and then went to warm himself at the tsar’s.\nTogether they produced the French Revolution, with the Terror, and the template for every ideological catastrophe that followed. The most dangerous intellectual partnership in Western history wasn’t a conspiracy. It was two men who despised each other and destroyed the same thing from opposite ends, leaving the ground perfectly prepared for those who came after them with a plan.\n\n\n\n\n\n— https://nitter.net/Kristof_Poland/status/2075703112489148623#m",
-      "link": "https://nitter.net/Kristof_Poland/status/2075864669151998341#m",
-      "date": "Sat, 11 Jul 2026 08:47:59 GMT"
-    },
-    {
-      "text": "Cybercab at a fork in the road\n\n\nTesla Robotaxi (@robotaxi)\n\nCool news from Giga Texas\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/robotaxi/status/2075766457242415386#m",
-      "link": "https://nitter.net/elonmusk/status/2075891028284903616#m",
-      "date": "Sat, 11 Jul 2026 10:32:43 GMT"
-    },
-    {
-      "text": "tesla fsd is the greatest piece of technology i've ever experienced. it's not even close. there's something hard to comprehend that my car is operating in the physical world, completely autonomously. pure magic. I can't ever get another car now...",
-      "link": "https://nitter.net/tylerbruno05/status/2075587411334119779#m",
-      "date": "Fri, 10 Jul 2026 14:26:16 GMT"
     }
   ]
 }
