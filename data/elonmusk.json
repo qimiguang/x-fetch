@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-14T02:51:59Z",
+  "updated_at": "2026-07-14T08:16:40Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench\n\n\ntetsuo (@tetsuoai)\n\nThe Long-Horizon Terminal-Bench paper landed around May and concluded that the results showed headroom for improvement. The best of the 15 models they tested finished seven of the 46 tasks, and the mean across all models was about two. That ceiling is what fifth place looks like on the current board.\n\nGrok 4.5 is now at 13, and Fable 5 is at 12. A single task costs around 9.9M tokens, 231 episodes, and 85 minutes of wall clock time. That means agents are holding a plan across all of it and finishing, and that capability nearly doubled in two months.\n\nSpaceXAI is on top, and they marketed the 4.2x output token efficiency, which undersells it. Two dollars in, six out, per million. On a benchmark where one task burns ten million tokens, the bill is dominated by input replay, and they say Grok 4.5 solves tasks in under half the number of steps, so there is less accumulated context to resend on every call. The efficiency compounds on the input side, which is the side that costs money.\n\nFable 5 is one task behind. Their own launch chart has them losing DeepSWE 1.1 to Fable by 17 points, and Grok 4.20 sits on this same board at 0.080 with zero completions, so whatever happened in 4.5 is not a family trait.\n\nMy read is that the 4.5 jump came out of training alongside Cursor, which is a stream of real agentic edit trajectories nobody else has at that volume, and nothing in the counterevidence argues against it compounding into the next checkpoint.\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2076879157137686634#m",
+      "link": "https://nitter.net/elonmusk/status/2076909201524203973#m",
+      "date": "Tue, 14 Jul 2026 05:58:35 GMT"
+    },
+    {
+      "text": "Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today\n\nThere was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data\n\nThose engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong\n\nI guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm\n\nThen came Opus 4.5 earlier this year which changed everything\n\nSuddenly real production code became possible with so much less friction and headache\n\nEveryone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8\n\nNow a completely new crop of models is coming out that is not quite a 4.5 moment but something close\n\nWe are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past\n\nMy wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on\n\nShe never stops letting me know that she was right, and she was\n\nThe next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic\n\nThere are many amazing things ahead and extraordinary challenges and opportunities\n\nWe are living inside one of one of the biggest revolutions in human history",
+      "link": "https://nitter.net/kevinnbass/status/2076881971117011234#m",
+      "date": "Tue, 14 Jul 2026 04:10:23 GMT"
+    },
+    {
+      "text": "The woke mob had turned Twitter into Wormtongue to the World\n\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nElon buying Twitter and restoring free speech was unironically one of the most pivotal moments in the 21st century\n\nIts effects will be studied for generations\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2076790049421828402#m",
+      "link": "https://nitter.net/elonmusk/status/2076905740531302479#m",
+      "date": "Tue, 14 Jul 2026 05:44:50 GMT"
+    },
+    {
+      "text": "SpaceX was founded on one powerful belief:\n\nA future where humanity is out exploring the stars is fundamentally more exciting than one where we are not\n\nEvery Falcon launch, every Starship test, and every step toward Mars is built around that belief\n\nThe goal is not just to reach space\n\nIt is to build a future where humanity becomes a multiplanetary civilization",
+      "link": "https://nitter.net/XFreeze/status/2076750536582529090#m",
+      "date": "Mon, 13 Jul 2026 19:28:06 GMT"
+    },
+    {
+      "text": "Crazy what you can build with Grok 4.5 and Grok Build in minutes.\n\n\n\n\nFalconOrtiz (@Falconortizx)\n\nGrok 4.5 Everybody loves it.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Falconortizx/status/2076699535296856102#m",
+      "link": "https://nitter.net/tetsuoai/status/2076722045136843026#m",
+      "date": "Mon, 13 Jul 2026 17:34:53 GMT"
+    },
     {
       "text": "The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
       "link": "https://nitter.net/JasonBud/status/2076726650365264196#m",
@@ -64,6 +89,11 @@
       "date": "Mon, 13 Jul 2026 07:05:36 GMT"
     },
     {
+      "text": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
+      "link": "https://nitter.net/elonmusk/status/2076434607562531049#m",
+      "date": "Sun, 12 Jul 2026 22:32:43 GMT"
+    },
+    {
       "text": "The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
       "link": "https://nitter.net/elonmusk/status/2076558971905650718#m",
       "date": "Mon, 13 Jul 2026 06:46:54 GMT"
@@ -72,36 +102,6 @@
       "text": "NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.",
       "link": "https://nitter.net/Polymarket/status/2076472406860873975#m",
       "date": "Mon, 13 Jul 2026 01:02:55 GMT"
-    },
-    {
-      "text": "I get to see this monster fly again later this week... new photos to come!",
-      "link": "https://nitter.net/AJamesMcCarthy/status/2076373929439244528#m",
-      "date": "Sun, 12 Jul 2026 18:31:36 GMT"
-    },
-    {
-      "text": "Elon Musk explains why the Sun is humanity's ultimate energy source:\n\n\"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball\n\nA roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\"\n\nThe challenge isn't whether enough solar energy exists\nIt's building the infrastructure to capture, store, and distribute it efficiently\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2076352093703794999#m",
-      "date": "Sun, 12 Jul 2026 17:04:50 GMT"
-    },
-    {
-      "text": "Grok Build improvements\n\n\nX Freeze (@XFreeze)\n\nGrok Build just received another update, bringing smoother navigation and improved keyboard workflows across the Agent Dashboard\n\nRelease Notes: v0.2.99 — 2026-07-12\n\nFeatures:\n• Multiline input now works on the agent dashboard the same way it does in regular sessions.\n• PageUp and PageDown now scroll the conversation while the prompt is focused.\n• Keyboard Shortcuts modal now follows Vim mode navigation keys when enabled\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2076414354451533933#m",
-      "link": "https://nitter.net/elonmusk/status/2076434715951689733#m",
-      "date": "Sun, 12 Jul 2026 22:33:09 GMT"
-    },
-    {
-      "text": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
-      "link": "https://nitter.net/elonmusk/status/2076434607562531049#m",
-      "date": "Sun, 12 Jul 2026 22:32:43 GMT"
-    },
-    {
-      "text": "The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed.\n\nIt would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency.\n\nThere are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal.\n\nWith SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative.\n\nThis is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though.\n\nWe will see.\n\n\nCassandra Unchained (@michaeljburry)\n\nThis is true as I have heard this from contacts in the Valley. Goes with my pinned post. \n\nThe AI race is shifting from bigger models to cheaper, smarter systems cnbc.com/2026/07/10/the-ai-r…\n\nLink\n\n\n\nThe AI race is shifting from bigger models to cheaper, smarter systems\n\nCompanies are starting to choose AI models by task, cost and control, not just leaderboard rank.\ncnbc.com\n\n\n\n\n— https://nitter.net/michaeljburry/status/2075834571581456649#m",
-      "link": "https://nitter.net/GavinSBaker/status/2076369936251851091#m",
-      "date": "Sun, 12 Jul 2026 18:15:44 GMT"
-    },
-    {
-      "text": "Follow the Starship series @SpaceX\n\n\nSpaceX (@SpaceX)\n\nThe path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together towards a common goal. “Critical Path” continues the ongoing Starship series, following SpaceX engineers through the final days before launch of the first Starship V3 and the challenges that come with development of the world’s most powerful and fully reusable rocket.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2075621981488033835#m",
-      "link": "https://nitter.net/elonmusk/status/2076433121893814735#m",
-      "date": "Sun, 12 Jul 2026 22:26:49 GMT"
     }
   ]
 }
