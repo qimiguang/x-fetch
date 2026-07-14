@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-14T13:55:58Z",
+  "updated_at": "2026-07-14T16:19:18Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Ancient times\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2077044528234553709#m",
+      "date": "Tue, 14 Jul 2026 14:56:19 GMT"
+    },
+    {
+      "text": "True\n\n\nAlice Smith (@TheAliceSmith)\n\nWe could have closed borders and a welfare state.\n\nOr we could have open borders and no welfare state.\n\nBut of course we’ve chosen the most foolish and destructive option available - open borders and a welfare state.\n\nThe worst of all possible worlds.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2076822350599712801#m",
+      "link": "https://nitter.net/elonmusk/status/2077043449279262954#m",
+      "date": "Tue, 14 Jul 2026 14:52:02 GMT"
+    },
+    {
+      "text": "Falcon 9 launches 27 @Starlink satellites from California\n\n\n\nVideo",
+      "link": "https://nitter.net/SpaceX/status/2076879176628305957#m",
+      "date": "Tue, 14 Jul 2026 03:59:16 GMT"
+    },
+    {
+      "text": "Grok is the Flow LLM.\n\nGrok 4.5’s biggest advantage is its speed.\n\nIt’s smart enough to be comparable to the other models on most things.\n\nBut that speed allows you to make little tweaks to your system so that the output is PERFECT.\n\nWith the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this.\n\nIt’s now my preferred model.\n\n\nJon Shulkin (@jon)\n\nIt's great that Grok 4.5 is faster and 90% cheaper than Fable 5.   What really matters to enterprise is \"does it work\".   Grok 4.5 allowed me to complete what Fable 5 couldn't.   Full ingestion, crawl, indexing, AI searchibility, vault, filestore app of 450,000 files with full app service, ask, wiki, and custom agent enablement.  Intelligence layer enabled for an entire company by Grok 4.5.  The only one that succeeded.   Try it...\n\n\n\n\n\n— https://nitter.net/jon/status/2076829910879043934#m",
+      "link": "https://nitter.net/farzyness/status/2077012251899277738#m",
+      "date": "Tue, 14 Jul 2026 12:48:04 GMT"
+    },
+    {
+      "text": "Starlink will provide high-speed, low-latency connectivity onboard @FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️\n\n\nFrontier Airlines (@FlyFrontier)\n\nThe Wi-Fi era begins. @Starlink  is coming to Frontier flights 2027. 🛜✈️\n\n\n\n\n\n— https://nitter.net/FlyFrontier/status/2077016033538302299#m",
+      "link": "https://nitter.net/Starlink/status/2077022708693684548#m",
+      "date": "Tue, 14 Jul 2026 13:29:37 GMT"
+    },
+    {
+      "text": "Right-wing wave in Europe.\n\nFrance 🇫🇷: Marine Le Pen now leading polls to be next President.\n\nAustria 🇦🇹: the Freedom Party is leading the polls massively at almost 40%\n\nGermany 🇩🇪: The AfD party now consistently number ONE in polls.\n\nNorway 🇳🇴: The Libertarian FrP party leading the polls by a wide margin.\n\nSomething is changing in Europe.",
+      "link": "https://nitter.net/PeterSweden7/status/2076723840168632703#m",
+      "date": "Mon, 13 Jul 2026 17:42:01 GMT"
+    },
     {
       "text": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench\n\n\ntetsuo (@tetsuoai)\n\nThe Long-Horizon Terminal-Bench paper landed around May and concluded that the results showed headroom for improvement. The best of the 15 models they tested finished seven of the 46 tasks, and the mean across all models was about two. That ceiling is what fifth place looks like on the current board.\n\nGrok 4.5 is now at 13, and Fable 5 is at 12. A single task costs around 9.9M tokens, 231 episodes, and 85 minutes of wall clock time. That means agents are holding a plan across all of it and finishing, and that capability nearly doubled in two months.\n\nSpaceXAI is on top, and they marketed the 4.2x output token efficiency, which undersells it. Two dollars in, six out, per million. On a benchmark where one task burns ten million tokens, the bill is dominated by input replay, and they say Grok 4.5 solves tasks in under half the number of steps, so there is less accumulated context to resend on every call. The efficiency compounds on the input side, which is the side that costs money.\n\nFable 5 is one task behind. Their own launch chart has them losing DeepSWE 1.1 to Fable by 17 points, and Grok 4.20 sits on this same board at 0.080 with zero completions, so whatever happened in 4.5 is not a family trait.\n\nMy read is that the 4.5 jump came out of training alongside Cursor, which is a stream of real agentic edit trajectories nobody else has at that volume, and nothing in the counterevidence argues against it compounding into the next checkpoint.\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2076879157137686634#m",
       "link": "https://nitter.net/elonmusk/status/2076909201524203973#m",
@@ -72,36 +102,6 @@
       "text": "SpaceX policy regarding data retention.\n\nIt is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.\n\n\nSpaceXAI (@SpaceXAI)\n\nWe care deeply about your privacy and respect customer choice. For teams using zero data retention, no trace and code data is ever retained. All API key use of Grok Build also respects ZDR. \n\nIf ZDR is disabled, the /privacy command is available in the CLI to disable data retention, which also deletes previously synced data.\n\nRun the /privacy command to view or change your settings at any time.\n\n\n\n— https://nitter.net/SpaceXAI/status/2076692402442846289#m",
       "link": "https://nitter.net/elonmusk/status/2076737992689914215#m",
       "date": "Mon, 13 Jul 2026 18:38:16 GMT"
-    },
-    {
-      "text": "Literally true\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2076690060699684905#m",
-      "date": "Mon, 13 Jul 2026 15:27:48 GMT"
-    },
-    {
-      "text": "Well shit - grok 4.5 is KILLING it it in my video studio evals!\n\n6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models",
-      "link": "https://nitter.net/mikiovsh/status/2076373041773256963#m",
-      "date": "Sun, 12 Jul 2026 18:28:04 GMT"
-    },
-    {
-      "text": "Using Grok agents in background mode\n\n\nAndrew Milich (@milichab)\n\n1) Yes! Use `.grok/agents` or config.toml (see below), adding to the docs site right now. \n\n2) Yes: Agents can spawn background subagents, or try /dashboard, to move your agent to the background and create another. I've been using /dashboard as my default.\n\n\n\n\n\n— https://nitter.net/milichab/status/2076388813581258818#m",
-      "link": "https://nitter.net/elonmusk/status/2076563677319209094#m",
-      "date": "Mon, 13 Jul 2026 07:05:36 GMT"
-    },
-    {
-      "text": "The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
-      "link": "https://nitter.net/elonmusk/status/2076558971905650718#m",
-      "date": "Mon, 13 Jul 2026 06:46:54 GMT"
-    },
-    {
-      "text": "NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.",
-      "link": "https://nitter.net/Polymarket/status/2076472406860873975#m",
-      "date": "Mon, 13 Jul 2026 01:02:55 GMT"
-    },
-    {
-      "text": "I get to see this monster fly again later this week... new photos to come!",
-      "link": "https://nitter.net/AJamesMcCarthy/status/2076373929439244528#m",
-      "date": "Sun, 12 Jul 2026 18:31:36 GMT"
     }
   ]
 }
