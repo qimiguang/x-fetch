@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-13T19:35:09Z",
+  "updated_at": "2026-07-14T02:51:59Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
+      "link": "https://nitter.net/JasonBud/status/2076726650365264196#m",
+      "date": "Mon, 13 Jul 2026 17:53:11 GMT"
+    },
+    {
+      "text": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize.\n\nThis should also help clusters form around interests more easily, which many people have asked for.",
+      "link": "https://nitter.net/nikitabier/status/2076747704248758617#m",
+      "date": "Mon, 13 Jul 2026 19:16:51 GMT"
+    },
+    {
+      "text": "True\n\n\nX Freeze (@XFreeze)\n\nA reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in practice\n\nIn other words, “opting out” does not always mean your data is fully deleted or excluded...the company’s own way of saying opt-out may not actually match what users reasonably expect in the end\n\nHowever SpaceXAI just showed what going beyond the industry standard actually looks like\n\nRunning \"/privacy\" in Grok Build to disable retention also deletes all previously synced data...not just data created after changing the setting and prevents future code and session data from being retained\n\nElon also confirmed that, as a precautionary measure, all user data uploaded to SpaceXAI before now will be completely deleted, with nothing remaining\n\nYet some people are having a selective outrage meltdown, acting as though AI companies retaining uploaded data is some completely new revelation\n\nData retention has long been common across major AI products, while manual privacy opt-outs are often buried, limited by exceptions, or focused primarily on future activity\n\nMeanwhile, SpaceXAI is setting a new privacy standard that goes far beyond what the rest of the AI industry currently provides by default\n\n\n\n— https://nitter.net/XFreeze/status/2076780519770018131#m",
+      "link": "https://nitter.net/elonmusk/status/2076796854973423971#m",
+      "date": "Mon, 13 Jul 2026 22:32:09 GMT"
+    },
     {
       "text": "If you run /privacy and change the setting, all previously synced data is deleted.",
       "link": "https://nitter.net/SpaceXAI/status/2076696092037833091#m",
@@ -87,21 +102,6 @@
       "text": "Follow the Starship series @SpaceX\n\n\nSpaceX (@SpaceX)\n\nThe path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together towards a common goal. “Critical Path” continues the ongoing Starship series, following SpaceX engineers through the final days before launch of the first Starship V3 and the challenges that come with development of the world’s most powerful and fully reusable rocket.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2075621981488033835#m",
       "link": "https://nitter.net/elonmusk/status/2076433121893814735#m",
       "date": "Sun, 12 Jul 2026 22:26:49 GMT"
-    },
-    {
-      "text": "Cool\n\n\n@jason (@Jason)\n\nI made myself a personalized podcast player using @grok 4.5 and @perplexity_ai Computer \n\nIt finds the top topics people are discussing on tech and business podcasts, then lets me play a single stream across multiple podcasts by topic. \n\nWhen you click PLAY DEEP-LINK STREAM, it plays me all the pods talking about China and open source (in the screenshot here) \n\nit's called PODMEME (after Techmeme, which is what i modeled it off of!)\n\nThanks @AravSrinivas @elonmusk for the harness and model! Cost me 1,100 \"credits\" on Perplexity -- so $11! \n\nNot sure what it will cost to run this every 48 hours... but, I think worth it. \n\nI might actually output a custom MP4 file for each topic with an audio transition in the middle\n\n\n\n\n\n— https://nitter.net/Jason/status/2076231055443440105#m",
-      "link": "https://nitter.net/elonmusk/status/2076432602999722000#m",
-      "date": "Sun, 12 Jul 2026 22:24:45 GMT"
-    },
-    {
-      "text": "Grok 4.5 is Opus class for browser use\n\n\nAlexander Yue (@Alezander907)\n\nI take it all back. We just got access to eval Grok 4.5 and it has landed above GPT-5.6-Sol and just shy of Opus for browser use.\n\nBecause cache input is expensive, the overall cost is only 10% cheaper than opus. Its overall a bit faster. \n\nWe have another opus-class model in the competition\n\n\n\n— https://nitter.net/Alezander907/status/2076144541669962060#m",
-      "link": "https://nitter.net/elonmusk/status/2076411563116835245#m",
-      "date": "Sun, 12 Jul 2026 21:01:09 GMT"
-    },
-    {
-      "text": "For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space\n\nStarlink V3 is designed to massively expand the network’s capacity and increase user speeds\n\nAfter deployment, the test satellites will:\n• Extend their solar arrays and antennas\n• Attempt to connect with ground stations in South Africa\n• Establish links with the wider Starlink constellation using high-capacity lasers\n\nThe satellites will follow the same suborbital trajectory as Starship, meaning they will not remain in orbit and are expected to reenter the atmosphere later in the mission\n\nBut the most interesting part is how Starlink will help inspect Starship\n\nSix of the satellites have been modified with cameras designed to scan Starship’s heat shield and transmit the imagery back to SpaceX operators\n\nSeveral heat-shield tiles have even been painted white to simulate missing tiles and provide clear imaging targets\n\nThe goal is to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions\n\nStarship launches Starlink\nStarlink helps inspect Starship\nThe entire SpaceX ecosystem is starting to compound on itself",
-      "link": "https://nitter.net/XFreeze/status/2076358671798575154#m",
-      "date": "Sun, 12 Jul 2026 17:30:58 GMT"
     }
   ]
 }
