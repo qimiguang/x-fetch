@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-14T19:26:14Z",
+  "updated_at": "2026-07-14T22:02:48Z",
   "count": 20,
   "tweets": [
     {
@@ -14,19 +14,14 @@
       "date": "Mon, 13 Jul 2026 23:34:59 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.20.6.4 on Model 3 SR (2024) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.4 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.4.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2076802031692505561#m",
-      "date": "Mon, 13 Jul 2026 22:52:44 GMT"
-    },
-    {
       "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2076802167567003853#m",
       "date": "Mon, 13 Jul 2026 22:53:16 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2076799969424523478#m",
-      "date": "Mon, 13 Jul 2026 22:44:32 GMT"
+      "text": "We noticed a new Tesla software update 2026.20.6.4 on Model 3 SR (2024) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.4 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.4.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2076802031692505561#m",
+      "date": "Mon, 13 Jul 2026 22:52:44 GMT"
     },
     {
       "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
@@ -49,6 +44,11 @@
       "date": "Mon, 13 Jul 2026 22:45:41 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2076799969424523478#m",
+      "date": "Mon, 13 Jul 2026 22:44:32 GMT"
+    },
+    {
       "text": "Tesla FSD V14.3.5 has just started rolling out.\n\nOne new feature: You can now open Camera Preview at any time, even if your Tesla is not in Park.\n\nDownloading it on my Model Y right now.",
       "link": "https://nitter.net/SawyerMerritt/status/2076561690087333923#m",
       "date": "Mon, 13 Jul 2026 06:57:42 GMT"
@@ -59,19 +59,9 @@
       "date": "Mon, 13 Jul 2026 07:22:44 GMT"
     },
     {
-      "text": "Tesla employees at Giga Texas now able to take Cybercab across the campus as a continuous service.\n\nThis is a good sign for impending expansion to Robotaxi customers in Austin and other regions.",
-      "link": "https://nitter.net/teslascope/status/2075732263648858183#m",
-      "date": "Sat, 11 Jul 2026 00:01:51 GMT"
-    },
-    {
       "text": "Video",
       "link": "https://nitter.net/teslascope/status/2075753787759960479#m",
       "date": "Sat, 11 Jul 2026 01:27:23 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2075701941707870584#m",
-      "date": "Fri, 10 Jul 2026 22:01:22 GMT"
     },
     {
       "text": "The following feature is included: FSD (Supervised) \n\nteslascope.com/software/2026…",
@@ -79,9 +69,19 @@
       "date": "Sat, 11 Jul 2026 00:09:02 GMT"
     },
     {
+      "text": "Tesla employees at Giga Texas now able to take Cybercab across the campus as a continuous service.\n\nThis is a good sign for impending expansion to Robotaxi customers in Austin and other regions.",
+      "link": "https://nitter.net/teslascope/status/2075732263648858183#m",
+      "date": "Sat, 11 Jul 2026 00:01:51 GMT"
+    },
+    {
       "text": "While the version ends in .100, this is a unique (first of its kind, ever) instance where this version is NOT a factory update.\n\nThis update includes Full Self-Driving V14.2.2.6.",
       "link": "https://nitter.net/teslascope/status/2075702595239432582#m",
       "date": "Fri, 10 Jul 2026 22:03:58 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2075701941707870584#m",
+      "date": "Fri, 10 Jul 2026 22:01:22 GMT"
     },
     {
       "text": "v14 Lite now rolling out to early access AI3 owners in Korea\n\n\nTesla Korea (@tesla_korea)\n\n🚀풀 셀프 드라이빙(감독형) v14 Lite, 한국 상륙\n\n오늘부터 순차 배포를 시작합니다.\n업데이트는 차량별로 순차 제공되며, 적용 시점은 다를 수 있습니다. 아직 업데이트가 표시되지 않더라도 정상적인 배포 과정이므로 조금만 기다려 주시기 바랍니다.\n\n풀 셀프 드라이빙(감독형) v14 Lite가 선사하는 더욱 자연스럽고 향상된 주행 경험을 만나보시기 바랍니다.\n\n*풀 셀프 드라이빙(감독형) v14 Lite는 현재 미국 생산 Model 3/Y(풀 셀프 드라이빙 컴퓨터 3) 차량 중 FSD(감독형)이 활성화된 차량에 한해 제공됩니다.\n*풀 셀프 드라이빙(감독형) v14 Lite는 완전한 자율주행 기능이 아니며, 모든 장애물, 도로, 교통상황을 완벽히 인식하지 못할 수 있는바, 운전자는 항상 주의를 유지하고 즉시 제어할 준비가 되어 있어야 합니다.\n\n\n\n\n\n— https://nitter.net/tesla_korea/status/2075387532251177305#m",
