@@ -1,6 +1,6 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-14T08:16:40Z",
+  "updated_at": "2026-07-14T13:55:58Z",
   "count": 20,
   "tweets": [
     {
@@ -89,11 +89,6 @@
       "date": "Mon, 13 Jul 2026 07:05:36 GMT"
     },
     {
-      "text": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!",
-      "link": "https://nitter.net/elonmusk/status/2076434607562531049#m",
-      "date": "Sun, 12 Jul 2026 22:32:43 GMT"
-    },
-    {
       "text": "The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
       "link": "https://nitter.net/elonmusk/status/2076558971905650718#m",
       "date": "Mon, 13 Jul 2026 06:46:54 GMT"
@@ -102,6 +97,11 @@
       "text": "NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.",
       "link": "https://nitter.net/Polymarket/status/2076472406860873975#m",
       "date": "Mon, 13 Jul 2026 01:02:55 GMT"
+    },
+    {
+      "text": "I get to see this monster fly again later this week... new photos to come!",
+      "link": "https://nitter.net/AJamesMcCarthy/status/2076373929439244528#m",
+      "date": "Sun, 12 Jul 2026 18:31:36 GMT"
     }
   ]
 }
