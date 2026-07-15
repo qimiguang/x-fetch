@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-14T19:26:13Z",
+  "updated_at": "2026-07-15T02:50:29Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.5 is worth trying\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 just ranked #2 on the FrontierSWE leaderboard, outperforming Claude Opus 4.8 and GPT-5.5\n\nIt delivers top-tier coding performance with exceptional speed, strong token efficiency and a much lower cost than many competing frontier models\n\nGrok 4.5 is already one of the best coding models available today, sitting at the very top\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2077170837413867751#m",
+      "link": "https://nitter.net/elonmusk/status/2077219839626641676#m",
+      "date": "Wed, 15 Jul 2026 02:32:57 GMT"
+    },
+    {
+      "text": "BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4.\n\n• Size: 384 × 306 mm vs 594 × 383 mm\n• Weight: 1.1 kg vs 2.9 kg\n• Power: 35–50W vs 75–100W\n• Wind rating: 265 km/h vs 96+ km/h\n• Same 110° field of view\n• Speeds up to 375+ Mbps",
+      "link": "https://nitter.net/cb_doge/status/2077152453557178625#m",
+      "date": "Tue, 14 Jul 2026 22:05:11 GMT"
+    },
+    {
+      "text": "Grok 4.5 Usage reset to 0% time to build.",
+      "link": "https://nitter.net/tetsuoai/status/2077183806117920958#m",
+      "date": "Wed, 15 Jul 2026 00:09:46 GMT"
+    },
+    {
+      "text": "Order the Starlink V5 terminal!\n\n\nStarlink (@Starlink)\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity for streaming, video calling, gaming and more.\n\nCurrently available in select areas. As production ramps, Starlink V5 will be available in additional areas.\n\nOrder now → starlink.com/v5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2077145785481957839#m",
+      "link": "https://nitter.net/elonmusk/status/2077217230895382826#m",
+      "date": "Wed, 15 Jul 2026 02:22:35 GMT"
+    },
+    {
+      "text": "People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.",
+      "link": "https://nitter.net/yunta_tsai/status/2077204303568347312#m",
+      "date": "Wed, 15 Jul 2026 01:31:13 GMT"
+    },
+    {
+      "text": "SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours\n\nSpaceX is moving at light speed right now\n\nFirst:\n• 27 Starlink satellites from Vandenberg\n\nThen, just 7 hours and 42 minutes later:\n• 29 more Starlink satellites from Florida\n\nTwo coasts, two rockets, 56 satellites, less than eight hours\n\nFor most space programs, one launch is a major national achievement\nSpaceX launched twice in one day and was already preparing for the next mission\n\nSpaceX is basically running an orbital assembly line",
+      "link": "https://nitter.net/XFreeze/status/2077042441698312486#m",
+      "date": "Tue, 14 Jul 2026 14:48:02 GMT"
+    },
     {
       "text": "Ancient times\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2077044528234553709#m",
@@ -72,36 +102,6 @@
       "text": "True\n\n\nX Freeze (@XFreeze)\n\nA reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in practice\n\nIn other words, “opting out” does not always mean your data is fully deleted or excluded...the company’s own way of saying opt-out may not actually match what users reasonably expect in the end\n\nHowever SpaceXAI just showed what going beyond the industry standard actually looks like\n\nRunning \"/privacy\" in Grok Build to disable retention also deletes all previously synced data...not just data created after changing the setting and prevents future code and session data from being retained\n\nElon also confirmed that, as a precautionary measure, all user data uploaded to SpaceXAI before now will be completely deleted, with nothing remaining\n\nYet some people are having a selective outrage meltdown, acting as though AI companies retaining uploaded data is some completely new revelation\n\nData retention has long been common across major AI products, while manual privacy opt-outs are often buried, limited by exceptions, or focused primarily on future activity\n\nMeanwhile, SpaceXAI is setting a new privacy standard that goes far beyond what the rest of the AI industry currently provides by default\n\n\n\n— https://nitter.net/XFreeze/status/2076780519770018131#m",
       "link": "https://nitter.net/elonmusk/status/2076796854973423971#m",
       "date": "Mon, 13 Jul 2026 22:32:09 GMT"
-    },
-    {
-      "text": "If you run /privacy and change the setting, all previously synced data is deleted.",
-      "link": "https://nitter.net/SpaceXAI/status/2076696092037833091#m",
-      "date": "Mon, 13 Jul 2026 15:51:46 GMT"
-    },
-    {
-      "text": "That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
-      "link": "https://nitter.net/milichab/status/2076725943708868615#m",
-      "date": "Mon, 13 Jul 2026 17:50:23 GMT"
-    },
-    {
-      "text": "Progress\n\n\nX Freeze (@XFreeze)\n\nGrok Build is growing insanely fast, reaching 1.16 million monthly visits within just weeks after its early-beta launch\n\nTraffic jumped from around 460,000 visits in May to 1.16 million in June\n\nThat’s growth of more than 150% in just one month\n\nGrok Build with Grok 4.5 ranked #1 on the SWE-Atlas-QnA benchmark with a score of 84, ahead of Claude Code with Fable 5 on the benchmark\n\nMore developers are discovering Grok Build and realizing how capable Grok 4.5 actually is for real coding work\n\nGrok Build is quickly taking over the AI coding space\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2076639388805804140#m",
-      "link": "https://nitter.net/elonmusk/status/2076739857863385206#m",
-      "date": "Mon, 13 Jul 2026 18:45:40 GMT"
-    },
-    {
-      "text": "True. \n\nAs a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.\n\n\nAndrew Milich (@milichab)\n\nI worked on building an end-to-end encrypted email/docs/files/calendar app @skiffprivacy for 4 years and care deeply about privacy. \n\nZDR and /privacy are always respected in Grok Build - and swapping your setting with /privacy deletes any synced data retoractively\n\n\n\n— https://nitter.net/milichab/status/2076693464016994685#m",
-      "link": "https://nitter.net/elonmusk/status/2076739687658496209#m",
-      "date": "Mon, 13 Jul 2026 18:45:00 GMT"
-    },
-    {
-      "text": "Their zero data retention policy fine print says they still retain data? Am I reading this right?",
-      "link": "https://nitter.net/elonmusk/status/2076737284192285068#m",
-      "date": "Mon, 13 Jul 2026 18:35:27 GMT"
-    },
-    {
-      "text": "SpaceX policy regarding data retention.\n\nIt is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.\n\n\nSpaceXAI (@SpaceXAI)\n\nWe care deeply about your privacy and respect customer choice. For teams using zero data retention, no trace and code data is ever retained. All API key use of Grok Build also respects ZDR. \n\nIf ZDR is disabled, the /privacy command is available in the CLI to disable data retention, which also deletes previously synced data.\n\nRun the /privacy command to view or change your settings at any time.\n\n\n\n— https://nitter.net/SpaceXAI/status/2076692402442846289#m",
-      "link": "https://nitter.net/elonmusk/status/2076737992689914215#m",
-      "date": "Mon, 13 Jul 2026 18:38:16 GMT"
     }
   ]
 }
