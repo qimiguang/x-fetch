@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-15T05:36:35Z",
+  "updated_at": "2026-07-15T10:54:47Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.\n\n\nStarlink (@Starlink)\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\n\nWith speeds up to 375+ Mbps, Starlink V5 delivers seamless connectivity for streaming, video calling, gaming and more.\n\nCurrently available in select areas. As production ramps, Starlink V5 will be available in additional areas.\n\nOrder now → starlink.com/v5\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2077145785481957839#m",
+      "link": "https://nitter.net/michaelnicollsx/status/2077233376281469157#m",
+      "date": "Wed, 15 Jul 2026 03:26:44 GMT"
+    },
     {
       "text": "Grok 4.5 is worth trying\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 just ranked #2 on the FrontierSWE leaderboard, outperforming Claude Opus 4.8 and GPT-5.5\n\nIt delivers top-tier coding performance with exceptional speed, strong token efficiency and a much lower cost than many competing frontier models\n\nGrok 4.5 is already one of the best coding models available today, sitting at the very top\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2077170837413867751#m",
       "link": "https://nitter.net/elonmusk/status/2077219839626641676#m",
@@ -97,11 +102,6 @@
       "text": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize.\n\nThis should also help clusters form around interests more easily, which many people have asked for.",
       "link": "https://nitter.net/nikitabier/status/2076747704248758617#m",
       "date": "Mon, 13 Jul 2026 19:16:51 GMT"
-    },
-    {
-      "text": "True\n\n\nX Freeze (@XFreeze)\n\nA reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in practice\n\nIn other words, “opting out” does not always mean your data is fully deleted or excluded...the company’s own way of saying opt-out may not actually match what users reasonably expect in the end\n\nHowever SpaceXAI just showed what going beyond the industry standard actually looks like\n\nRunning \"/privacy\" in Grok Build to disable retention also deletes all previously synced data...not just data created after changing the setting and prevents future code and session data from being retained\n\nElon also confirmed that, as a precautionary measure, all user data uploaded to SpaceXAI before now will be completely deleted, with nothing remaining\n\nYet some people are having a selective outrage meltdown, acting as though AI companies retaining uploaded data is some completely new revelation\n\nData retention has long been common across major AI products, while manual privacy opt-outs are often buried, limited by exceptions, or focused primarily on future activity\n\nMeanwhile, SpaceXAI is setting a new privacy standard that goes far beyond what the rest of the AI industry currently provides by default\n\n\n\n— https://nitter.net/XFreeze/status/2076780519770018131#m",
-      "link": "https://nitter.net/elonmusk/status/2076796854973423971#m",
-      "date": "Mon, 13 Jul 2026 22:32:09 GMT"
     }
   ]
 }

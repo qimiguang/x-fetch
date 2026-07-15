@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-15T08:22:39Z",
+  "updated_at": "2026-07-15T10:54:48Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2077336278375297280#m",
+      "date": "Wed, 15 Jul 2026 10:15:38 GMT"
+    },
     {
       "text": "Tesla software update 2026.21.100 is now rolling out to ~1,100 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2075701941707870584#m",
       "link": "https://nitter.net/teslascope/status/2076860561615135179#m",
@@ -97,11 +102,6 @@
       "text": "Waypoints will initially be available to vehicles with a Plus or Pro subscription while we analyze costs (including Tesla API and Google/Mapbox API fees).\n\nOver time, we'll gradually provide access to this for all members and apply improvements based on feedback.",
       "link": "https://nitter.net/teslascope/status/2074644154039275832#m",
       "date": "Tue, 07 Jul 2026 23:58:06 GMT"
-    },
-    {
-      "text": "We believe this feature will help friends and family who road-trip together, as well as creators who wish to share which specific routes they took.\n\nWaypoints are private by default. When shared, they are not associated with the account that created them.\n\nPrivacy is paramount.",
-      "link": "https://nitter.net/teslascope/status/2074644152453886225#m",
-      "date": "Tue, 07 Jul 2026 23:58:05 GMT"
     }
   ]
 }
