@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-15T19:18:58Z",
+  "updated_at": "2026-07-15T22:06:05Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.20.6.6 is now rolling out to ~1,210 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.5 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2076799969424523478#m",
+      "link": "https://nitter.net/teslascope/status/2077474889338851736#m",
+      "date": "Wed, 15 Jul 2026 19:26:25 GMT"
+    },
     {
       "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2077336278375297280#m",
@@ -97,11 +102,6 @@
       "text": "Tesla software update 2026.20.6.1 is now rolling out to ~9,900 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.1 on Model X AWD (2022) in Oklahoma, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2072535265533456878#m",
       "link": "https://nitter.net/teslascope/status/2074963269429661921#m",
       "date": "Wed, 08 Jul 2026 21:06:09 GMT"
-    },
-    {
-      "text": "Waypoints will initially be available to vehicles with a Plus or Pro subscription while we analyze costs (including Tesla API and Google/Mapbox API fees).\n\nOver time, we'll gradually provide access to this for all members and apply improvements based on feedback.",
-      "link": "https://nitter.net/teslascope/status/2074644154039275832#m",
-      "date": "Tue, 07 Jul 2026 23:58:06 GMT"
     }
   ]
 }
