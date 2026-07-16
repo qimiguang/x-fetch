@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-15T22:06:04Z",
+  "updated_at": "2026-07-16T02:57:12Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Usage limits are reset and Grok Build is open-source\n\n\nSpaceXAI (@SpaceXAI)\n\nWe've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\nx.ai/open-source\n\nLink\n\n\n\nSpaceXAI — Creators of Grok, the AI Chatbot\n\nSpaceXAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.\nx.ai\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2077494535387828644#m",
+      "link": "https://nitter.net/grok/status/2077528321819320571#m",
+      "date": "Wed, 15 Jul 2026 22:58:45 GMT"
+    },
+    {
+      "text": "I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local):\n\nCore (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI.\n\nEverything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config.\n\nPurely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent.\n\nFull details 👇",
+      "link": "https://nitter.net/MiaAI_lab/status/2077512540431466565#m",
+      "date": "Wed, 15 Jul 2026 21:56:02 GMT"
+    },
     {
       "text": "Grok Build is now open source\n\n\nSpaceXAI (@SpaceXAI)\n\nWe've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\nx.ai/open-source\n\nLink\n\n\n\nSpaceXAI — Creators of Grok, the AI Chatbot\n\nSpaceXAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.\nx.ai\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2077494535387828644#m",
       "link": "https://nitter.net/elonmusk/status/2077495635687723408#m",
@@ -92,16 +102,6 @@
       "text": "Starship still tracking to fly tomorrow\n\n\nAndrew McCarthy (@AJamesMcCarthy)\n\nAbsolutely wild that this thing was built by humans. \n\nStarship flies again as soon as tomorrow. I’ll be in South Texas to cover the launch. 🚀 photos to come!\n\n\n\n\n\n— https://nitter.net/AJamesMcCarthy/status/2077376821709140445#m",
       "link": "https://nitter.net/elonmusk/status/2077380942151266325#m",
       "date": "Wed, 15 Jul 2026 13:13:07 GMT"
-    },
-    {
-      "text": "Showing more content from people you follow has been one of the fixes. \n\nThe algorithm not barraging you with similar content due to a few likes is another.\n\n\ni like teslas (@iliketeslas)\n\nThe only thing that needs correcting  in the algorithm is that if I like a World Cup post it doesn’t mean I want to be flooded with World Cup posts , same with other topics. Give me 90% people I follow and random other topics  please.\n\n\n\n— https://nitter.net/iliketeslas/status/2077330543943852508#m",
-      "link": "https://nitter.net/elonmusk/status/2077380458996773192#m",
-      "date": "Wed, 15 Jul 2026 13:11:11 GMT"
-    },
-    {
-      "text": "Yes\n\n\nMore Births (@MoreBirths)\n\nAn org that Paul Ehrlich created, Population Connection (formerly Zero Population Growth), continues to miseducate millions of American kids every year with antinatalism and overpopulation fear mongering through a network teachers.\n\nThat must be stopped!\n\n\n\n— https://nitter.net/MoreBirths/status/2077366045673660504#m",
-      "link": "https://nitter.net/elonmusk/status/2077379814558679285#m",
-      "date": "Wed, 15 Jul 2026 13:08:38 GMT"
     }
   ]
 }
