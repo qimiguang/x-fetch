@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-16T16:20:07Z",
+  "updated_at": "2026-07-16T19:19:39Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Starlink Mobile will be available in Italy with @FASTWEB.  The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱\n\n\nFASTWEB (@FASTWEB)\n\nMontagne, aree remote, zone costiere isolate: Fastweb e @Starlink avviano una sperimentazione in una zona limitata del Paese per portare la connessione dove prima non arrivava, aprendo la strada ad una copertura mobile unica nel suo genere in Italia.\n\nDove non c’è copertura di rete terrestre, entrano in gioco i satelliti in orbita bassa di Starlink Mobile, il primo progetto Direct to Cell in Italia.\n\nNon c’è campo? Lo smartphone si connetterà automaticamente alla rete via satellite per continuare a usare WhatsApp, Google Maps, SMS e le principali app abilitate a questa tecnologia senza fare nulla.\n\nÈ anche così che costruiamo ogni giorno una connettività davvero senza limiti.\n\n\n\n\n\n— https://nitter.net/FASTWEB/status/2077702395291713805#m",
+      "link": "https://nitter.net/Starlink/status/2077803428512969113#m",
+      "date": "Thu, 16 Jul 2026 17:11:55 GMT"
+    },
+    {
+      "text": "It’s been very fast, and a pleasure to use. Nice work!",
+      "link": "https://nitter.net/aelluswamy/status/2077779871649181921#m",
+      "date": "Thu, 16 Jul 2026 15:38:19 GMT"
+    },
+    {
+      "text": "Stacking Starship for Flight 13\n\nVideo",
+      "link": "https://nitter.net/SpaceX/status/2077767492487774635#m",
+      "date": "Thu, 16 Jul 2026 14:49:07 GMT"
+    },
     {
       "text": "Starship Flight 13 is flying today, and once again it’s going to make history\n\nThrowback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight\n\n“We will make it,” the employee said to Elon\n\nVideo",
       "link": "https://nitter.net/iam_smx/status/2077675807959364062#m",
@@ -87,21 +102,6 @@
       "text": "We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Build is now open source.\n\n\nSpaceXAI (@SpaceXAI)\n\nWe've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\nx.ai/open-source\n\nLink\n\n\n\nSpaceXAI — Creators of Grok, the AI Chatbot\n\nSpaceXAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.\nx.ai\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2077494535387828644#m",
       "link": "https://nitter.net/JasonBud/status/2077496523685056751#m",
       "date": "Wed, 15 Jul 2026 20:52:23 GMT"
-    },
-    {
-      "text": "Usage limits are reset and Grok Build is open-source\n\n\nSpaceXAI (@SpaceXAI)\n\nWe've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\nx.ai/open-source\n\nLink\n\n\n\nSpaceXAI — Creators of Grok, the AI Chatbot\n\nSpaceXAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.\nx.ai\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2077494535387828644#m",
-      "link": "https://nitter.net/grok/status/2077528321819320571#m",
-      "date": "Wed, 15 Jul 2026 22:58:45 GMT"
-    },
-    {
-      "text": "I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local):\n\nCore (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI.\n\nEverything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config.\n\nPurely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent.\n\nFull details 👇",
-      "link": "https://nitter.net/MiaAI_lab/status/2077512540431466565#m",
-      "date": "Wed, 15 Jul 2026 21:56:02 GMT"
-    },
-    {
-      "text": "Grok Build is now open source\n\n\nSpaceXAI (@SpaceXAI)\n\nWe've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\nx.ai/open-source\n\nLink\n\n\n\nSpaceXAI — Creators of Grok, the AI Chatbot\n\nSpaceXAI builds Grok, an AI chatbot with voice chat, image and video generation, real-time search, and advanced reasoning. Try Grok at grok.com.\nx.ai\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2077494535387828644#m",
-      "link": "https://nitter.net/elonmusk/status/2077495635687723408#m",
-      "date": "Wed, 15 Jul 2026 20:48:52 GMT"
     }
   ]
 }
