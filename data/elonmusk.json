@@ -1,8 +1,88 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-16T22:06:08Z",
+  "updated_at": "2026-07-17T08:17:51Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "also 29 days ago.",
+      "link": "https://nitter.net/no4core/status/2077959740316074188#m",
+      "date": "Fri, 17 Jul 2026 03:33:03 GMT"
+    },
+    {
+      "text": "As promised\n\n\nPremium (@premium)\n\nSuperGrok Heavy now includes X Premium+ at no extra cost.\n\nJust link your X account in the Grok app to activate it instantly.\n\n\n\n\n\n— https://nitter.net/premium/status/2077820074015293774#m",
+      "link": "https://nitter.net/elonmusk/status/2078015422931091486#m",
+      "date": "Fri, 17 Jul 2026 07:14:19 GMT"
+    },
+    {
+      "text": "Try Grok\n\n\nthehype. (@thehypedotnews)\n\nkimi k3 vs gpt 5.6 sol vs fable 5 vs grok 4.5\n\n@Kimi_Moonshot just dropped kimi k3 – a 2.8t param native multimodal model, the first open 3t-class release. key facts:\n\n• 1m token context. stable latentmoe activating 16 of 896 experts, built on kimi delta attention (kda) and attention residuals\n\n• quantization-aware training from the sft stage onward – mxfp4 weights, mxfp8 activations. moonshot claims ~2.5x scaling efficiency over k2\n\n• max thinking effort by default. low- and high-effort modes are \"coming in updates\" – there is no way to turn the thinking down today, and you feel it in every run\n\n• pricing: $0.30/mtok cache-hit input, $3.00/mtok cache-miss, $15.00/mtok output. claims >90% cache hit rate on coding workloads\n\n• benchmarks: swe marathon 42.0 (1st – fable 5: 35.0, sol: 39.0, opus 4.8: 40.0), terminal bench 2.1 88.3, browsecomp 91.2 (1st), program bench 77.8 (1st), gpqa-diamond 93.5. loses frontierswe 81.2 vs fable's 86.6, and deepswe 67.5 vs sol's 73.0\n\nour test – 3 prompts, single-file html, @threejs, fully procedural, no assets:\n\n1. photorealistic european roulette wheel – 37 pockets in the real sequence, mahogany clearcoat bowl, chrome turret, diamond deflectors, flick-to-spin, ball that spirals inward and settles on a mathematically real number\n\n2. las vegas slot machine – 3 reels behind transmissive glass, drag the chrome lever to play, mechanical odometer counters modelled in 3d, coin physics on win\n\n3. full pinball table – 6.5° tilted playfield, flipper impulse physics, spline ramps, drop targets, 6 bumpers, mechanical score reels in the backbox\n\nwe ran the test on @aimlapi platform\n\nresults:\n\n- cost\n#1 grok 4.5 – $0.30\n#2 kimi k3 – $0.71\n#3 gpt 5.6 sol – $2.05\n#4 fable 5 – $7.69\n\n- tokens\n#1 grok 4.5 – 34,241\n#2 gpt 5.6 sol – 51,748\n#3 fable 5 – 144,126\n#4 kimi k3 – 157,999\n\n- lines of code\n#1 gpt 5.6 sol – 3,054\n#2 grok 4.5 – 3,047\n#3 kimi k3 – 2,255\n#4 fable 5 – 1,950\n\n- generation time\n#1 grok 4.5 – 5.1 min\n#2 gpt 5.6 sol – 22.0 min\n#3 fable 5 – 31.5 min\n#4 kimi k3 – 75.6 min\n\nobservations:\n\n• kimi k3 is cheap and it is slow. 75.6 minutes across three prompts against grok's 5.1. it is 2.4x grok's price and 15x grok's wall clock. the roulette took 15 min, the slot 18, the pinball 42\n\n• it failed 2 of 3. only the roulette works. the slot machine has reel cutouts on both faces of the cabinet and the symbols face backwards – you can only read your spin by walking around to the rear of the machine. the pinball table stands vertically on its edge with the legs floating detached beside it.\n\n• 81% of kimi's output tokens are reasoning, not code. grok: 22%. you are not paying for a bigger answer, you are paying for a longer argument with itself\n\n• price per 100 shipped lines – grok $0.010, kimi $0.031, sol $0.067, fable $0.394. a 39x spread for the same three files\n\nkimi k3's code quality:\n\nupsides:\n\n• the roulette is genuinely good – procedural wood grain with real specular breakup, correct european sequence (0-32-15-19-4...), chrome turret, diamond deflectors, clean console\n\n• the pinball artwork is the best in the test – a synthwave \"nova strike / deep space\" field with six individually coloured neon bumper rings, a retro sun on a grid horizon, a nova burst, and a scoring legend printed on the apron. no other model printed the rules on the machine. it is a beautiful texture on a broken object\n\n• physics reasoning is real – it derived a 480hz substep for the collider, worked out ball settle conditions and termination guarantees, and checked every ramp exit vector by hand before writing any of it\n\n• it is the only model that saw the importmap trap coming. sol shipped a blank white page twice because three.js addons import the bare specifier 'three' and die without an import map\n\ndownsides:\n\n• it dodged that trap on the slot by loading three.js r128 through classic script tags – a 2021 build with no working transmission. its slot glass rendered fully opaque and buried all three reels behind a white pane. the code asks for transmission: 0.93, ior: 1.5 – correct, and silently ignored by a renderer that predates the feature\n\n• after 42 minutes and 212k characters of reasoning, the pinball cabinet is not assembled. the table stands vertically on its edge like a wardrobe – the prompt asked for 6.5° from horizontal, it delivered 90°. the legs float detached in the void beside it. head-on it photographs beautifully; orbit ten degrees and it is a painted slab with four chrome rods hovering nearby\n\n• the playfield z-fights with the glass – hard black banding across the whole field as soon as you pull the camera back\n\na note on the pinball, in fairness to kimi: nobody passed it. every model shipped broken ball physics and controls you cannot trust. it is the hardest prompt we have run and the whole field failed it, each in its own way\n\nkimi k3 reasons better than anything else here and it shows exactly where reasoning pays – physics constants, sequences, edge cases, traps the others walked into\n\nfollow @thehypedotnews for 24/7 ai news, analysis and breakdowns\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/thehypedotnews/status/2077924746415518033#m",
+      "link": "https://nitter.net/elonmusk/status/2078014448267104664#m",
+      "date": "Fri, 17 Jul 2026 07:10:26 GMT"
+    },
+    {
+      "text": "Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.",
+      "link": "https://nitter.net/kentcdodds/status/2077867806906003478#m",
+      "date": "Thu, 16 Jul 2026 21:27:44 GMT"
+    },
+    {
+      "text": "Grok Imagine\n\n\nDéborah (@dvorahfr)\n\nWe are beings of light, and Grok reveals this light.✨\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2077990430122111051#m",
+      "link": "https://nitter.net/elonmusk/status/2078008818764505356#m",
+      "date": "Fri, 17 Jul 2026 06:48:04 GMT"
+    },
+    {
+      "text": "Grok Build upgrades\n\n\nX Freeze (@XFreeze)\n\nGrok Build just received another major update, introducing powerful conversation navigation, enhanced enterprise controls, smarter terminal workflows, and extensive reliability improvements\n\nRelease Notes: v0.2.102 — 2026-07-16\n\nBreaking Changes:\n• --minimal and --fullscreen flags now apply only to the current session.\n\nFeatures:\n• New /jump slash command lets you quickly jump to any previous turn in the conversation.\n• New /timeline sidebar shows a clickable tick rail for fast navigation between conversation turns.\n• grok login now requests Grok Projects scopes so workspace listing works after consent.\n• Permission mode can now be set fleet-wide via remote config when no local setting exists.\n• Edit tool output has a setting to show a compact one-line summary instead of always-expanded diffs.\n• Tab completion in !bash mode now works like a normal terminal (prefix fill, dropdown, directory drill-down).\n• Enterprise deployments can now disable voice dictation via requirements.toml so /voice and Ctrl+Space are hidden for everyone.\n• User prompts now appear bold only in --minimal mode; fullscreen keeps normal weight.\n• grok plugin install now accepts a marketplace's registered name as a qualifier.\n• Consecutive edits to the same file now collapse into a single scrollback row when collapsed edit blocks are enabled.\n• Local sessions now inherit your shell environment variables and keep the current directory across commands.\n\nBug Fixes:\n• Login and re-login no longer stack multiple device-code polls or leave stale flows running.\n• Background task tools now render with correct icons and titles instead of the generic MCP wrench.\n• Task tool now correctly validates and displays allowed model slugs for subagents.\n• Rewind now correctly handles bash transcripts, permission follow-ups, and sessions that mix old and new prompt markers.\n• Re-login during a session now immediately uses the new token instead of requiring a new session.\n• Terminal commands using globs now behave the same on zsh as on bash and no longer fail with shell errors.\n• Installer no longer replaces stowed shell configuration symlinks with plain files on upgrade.\n• Voice transcription now works with enterprise API bases and API-key authentication.\n• Fixed crashes on some network-mounted home directories by using a safer SQLite journal mode.\n• Home and End keys now move to the ends of the current wrapped line in the prompt.\n• Arrow keys and Esc now work correctly inside viewers opened from the dashboard.\n• Warns at startup when user and project sandbox profiles define the same name differently.\n• Billing upgrade links now show the full URL in the transcript (and copy it) when a browser cannot be opened.\n• Fixed Ctrl+Y yank no longer working after sending a prompt.\n• No longer shows permission prompts seconds after a turn was cancelled with Esc or Ctrl+C.\n• Page Up and Page Down now move the highlighted entry to the top or bottom of the visible scrollback area.\n• Conflicting project and user sandbox profiles now show a clear warning on the welcome screen.\n• OAuth login URLs no longer contain duplicate referrer parameters.\n• File links in official VS Code Remote-SSH terminals now use VS Code's native path handling.\n• Minimal mode now shows the folder-trust prompt after sign-in when required.\n• Skills whose names collide with built-in slash commands are now reachable via qualified names.\n• Fixed background task tracking when using grok -p --no-wait-for-background so tasks are properly reaped on exit.\n• Rate limit errors (429) now show specific server messages (capacity, team limits, free-usage) instead of generic upgrade prompts, with correct copy based on auth type.\n• /copy slash command is now available in minimal mode.\n\nPerformance:\n• Improved recap and compaction behavior.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2077942111807398179#m",
+      "link": "https://nitter.net/elonmusk/status/2078007993296179568#m",
+      "date": "Fri, 17 Jul 2026 06:44:47 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2078006929188606315#m",
+      "date": "Fri, 17 Jul 2026 06:40:34 GMT"
+    },
+    {
+      "text": "Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude\n\n\nStarlink (@Starlink)\n\nThe V3 satellites will bring meaningful increases in capacity, data density, and power generation, allowing Starlink to serve more people around the world with increasingly better high-speed internet\n\n\n\n— https://nitter.net/Starlink/status/2077882717455450360#m",
+      "link": "https://nitter.net/elonmusk/status/2077917951957643693#m",
+      "date": "Fri, 17 Jul 2026 00:47:00 GMT"
+    },
+    {
+      "text": "To be confident of a good flight, 2 Raptors will be removed & replaced. Most probable launch timing is early next week.",
+      "link": "https://nitter.net/elonmusk/status/2077906757641183445#m",
+      "date": "Fri, 17 Jul 2026 00:02:31 GMT"
+    },
+    {
+      "text": "Some of the engines didn’t start, triggering an automatic launch abort. \n\nNow offloading propellant.\n\nNext launch attempt hopefully in a few days.",
+      "link": "https://nitter.net/elonmusk/status/2077890013841310149#m",
+      "date": "Thu, 16 Jul 2026 22:55:59 GMT"
+    },
+    {
+      "text": "SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information",
+      "link": "https://nitter.net/techdevnotes/status/2077702864345133420#m",
+      "date": "Thu, 16 Jul 2026 10:32:19 GMT"
+    },
+    {
+      "text": "To understand more about Starship\n\n\nSpaceX (@SpaceX)\n\nIn case you missed it, check out the 2nd episode of our Starship series. “Critical Path” follows SpaceX engineers through the final days before launch of the first Starship V3 and the challenges that come with development of the world’s most powerful and fully reusable rocket → spacex.com/content/starship/…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2077880964412219550#m",
+      "link": "https://nitter.net/elonmusk/status/2077882072950096042#m",
+      "date": "Thu, 16 Jul 2026 22:24:26 GMT"
+    },
+    {
+      "text": "No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market.\n\nBefore you watch tonight's launch, see what we think SpaceX's master plan is.\n\n\nARK Invest (@ARKInvest)\n\nSpaceX says over 90% of its future market is AI, not space. @DMaguireARK, ACA breaks down what that means: orbital data centers, a potential $28.5 trillion Total Addressable Market (TAM), and why Starship is the only vehicle that can get there.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ARKInvest/status/2074594301493874896#m",
+      "link": "https://nitter.net/ARKInvest/status/2077845977516392703#m",
+      "date": "Thu, 16 Jul 2026 20:01:00 GMT"
+    },
+    {
+      "text": "A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.\n\n\nMeta for Developers (@MetaforDevs)\n\nDeveloper choice is core to what we're building.\n\nWe’re excited to share that Muse Spark 1.1 is now available on @OpenRouter for US-based developers.  \n\nGet started today 👉 bit.ly/4vvjSNa\n\n\n\n\n\n— https://nitter.net/MetaforDevs/status/2077804044505272425#m",
+      "link": "https://nitter.net/finkd/status/2077804413251354698#m",
+      "date": "Thu, 16 Jul 2026 17:15:50 GMT"
+    },
+    {
+      "text": "Today I’m really feeling the acceleration.\n\n\nAndrew McCarthy (@AJamesMcCarthy)\n\nThis feels like a scene out of a sci-fi movie but it’s just my drive to work this morning\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/AJamesMcCarthy/status/2077722244571144271#m",
+      "link": "https://nitter.net/jamesdouma/status/2077849526816350455#m",
+      "date": "Thu, 16 Jul 2026 20:15:06 GMT"
+    },
+    {
+      "text": "We have Falcon and Starship taking off almost at the same time today (~2 hours apart)\n\nFor other space programs, this is years' worth of launch cycle, and SpaceX does it in a day",
+      "link": "https://nitter.net/XFreeze/status/2077858079660814810#m",
+      "date": "Thu, 16 Jul 2026 20:49:05 GMT"
+    },
     {
       "text": "Tesla now in Uruguay\n\n\nTesla Latinoamérica (@Tesla_LatAm)\n\n¡Hola, Uruguay – estamos aca! 🇺🇾\n\ntesla.com/es_UY\n\nLink\n\n\n\nVehículos eléctricos, energía solar y limpia | Tesla\n\nTesla está acelerando la transición del mundo hacia la energía sustentable con autos eléctricos, soluciones integradas de energía solar y renovables para el hogar y empresas.\ntesla.com\n\n\n\n\n— https://nitter.net/Tesla_LatAm/status/2077873260486967521#m",
       "link": "https://nitter.net/elonmusk/status/2077875206702448814#m",
@@ -22,86 +102,6 @@
       "text": "Starship launch window opens at 5:45pm Texas time\n\n\nSpaceX (@SpaceX)\n\nWatch Starship's thirteenth flight test nitter.net/i/broadcasts/1MKgNNXAZ…\n\nLink\n\n\n\nSpaceX\n\nStarship&apos;s Thirteenth Flight Test\nhttps://nitter.net/i/broadcasts/1MKgNNXAZdmxL\n\n\n\n\n— https://nitter.net/SpaceX/status/2077785645645209727#m",
       "link": "https://nitter.net/elonmusk/status/2077867066556547097#m",
       "date": "Thu, 16 Jul 2026 21:24:48 GMT"
-    },
-    {
-      "text": "Extremely strong at CAD and spatial reasoning\n\n\nZach Dive (@zachdive)\n\nI continue to be extremely impressed by Grok 4.5.\n\nIt outperforms Opus at CAD.\n\nExcellent for fast builds and quickly editing features.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/zachdive/status/2077802300245241897#m",
-      "link": "https://nitter.net/milichab/status/2077825887962337434#m",
-      "date": "Thu, 16 Jul 2026 18:41:10 GMT"
-    },
-    {
-      "text": "Starlink Mobile will be available in Italy with @FASTWEB.  The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱\n\n\nFASTWEB (@FASTWEB)\n\nMontagne, aree remote, zone costiere isolate: Fastweb e @Starlink avviano una sperimentazione in una zona limitata del Paese per portare la connessione dove prima non arrivava, aprendo la strada ad una copertura mobile unica nel suo genere in Italia.\n\nDove non c’è copertura di rete terrestre, entrano in gioco i satelliti in orbita bassa di Starlink Mobile, il primo progetto Direct to Cell in Italia.\n\nNon c’è campo? Lo smartphone si connetterà automaticamente alla rete via satellite per continuare a usare WhatsApp, Google Maps, SMS e le principali app abilitate a questa tecnologia senza fare nulla.\n\nÈ anche così che costruiamo ogni giorno una connettività davvero senza limiti.\n\n\n\n\n\n— https://nitter.net/FASTWEB/status/2077702395291713805#m",
-      "link": "https://nitter.net/Starlink/status/2077803428512969113#m",
-      "date": "Thu, 16 Jul 2026 17:11:55 GMT"
-    },
-    {
-      "text": "It’s been very fast, and a pleasure to use. Nice work!",
-      "link": "https://nitter.net/aelluswamy/status/2077779871649181921#m",
-      "date": "Thu, 16 Jul 2026 15:38:19 GMT"
-    },
-    {
-      "text": "Stacking Starship for Flight 13\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2077767492487774635#m",
-      "date": "Thu, 16 Jul 2026 14:49:07 GMT"
-    },
-    {
-      "text": "Starship Flight 13 is flying today, and once again it’s going to make history\n\nThrowback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight\n\n“We will make it,” the employee said to Elon\n\nVideo",
-      "link": "https://nitter.net/iam_smx/status/2077675807959364062#m",
-      "date": "Thu, 16 Jul 2026 08:44:48 GMT"
-    },
-    {
-      "text": "I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.",
-      "link": "https://nitter.net/stevenmarkryan/status/2077662880972054731#m",
-      "date": "Thu, 16 Jul 2026 07:53:26 GMT"
-    },
-    {
-      "text": "Render mermaid charts in your CLI\n\n\nSimon Willison (@simonw)\n\nI poked around in the just open sourced Grok Build CLI tool - 844,000 lines of Rust code! - and dug up a few interesting highlights, including a \"self-contained terminal renderer for Mermaid diagrams\" that renders them using Unicode box-art!\nsimonwillison.net/2026/Jul/1…\n\nLink\n\nxai-org/grok-build, now open source\n\nxAI&apos;s grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI&apos;s Google Cloud buckets. …\nsimonwillison.net\n\n\n\n\n— https://nitter.net/simonw/status/2077545830802976796#m",
-      "link": "https://nitter.net/milichab/status/2077556147595419927#m",
-      "date": "Thu, 16 Jul 2026 00:49:19 GMT"
-    },
-    {
-      "text": "Rick\n\nScott \n\nIs \n\nRight\n\n\nRick Scott (@SenRickScott)\n\nWe shouldn’t go home until the SAVE America Act is PASSED. Cancel August recess if we need to.\n\nAmericans. Want. Secure. Elections. \n\nLet’s keep working until it’s done 🇺🇸\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SenRickScott/status/2077393021864206743#m",
-      "link": "https://nitter.net/BasedMikeLee/status/2077437124593234356#m",
-      "date": "Wed, 15 Jul 2026 16:56:22 GMT"
-    },
-    {
-      "text": "OH MY GOSH! \n\nThe House just voted 215-211 in favor of a special rules resolution, \n\nwhich instructs for the text of the SAVE America to be attached to the National Defense Authorization Act (NDAA). \n\nThe House is doing its job.\n\n@SpeakerJohnson is keeping his promise.\n\nVideo",
-      "link": "https://nitter.net/ScottPresler/status/2077119943246483668#m",
-      "date": "Tue, 14 Jul 2026 19:56:00 GMT"
-    },
-    {
-      "text": "Buying a Tesla is easy\n\nOrder within 2 mins on our website, then complete the entire process in the Tesla app\n\n\nKatie Miller (@KatieMiller)\n\n“My @Tesla buying experience was nothing like anything I’ve ever experienced before. Normally, when you buy a car, you go to a dealership, test drive the vehicle, haggle with the salesperson, and then deal with the finance team—which is usually way worse than the sales staff. I still remember one car I bought years ago that took a full six hours. It was miserable.\n\n“This time, I wasn’t even sure I was going to buy a Tesla. I just wanted to test drive one—I’d never even ridden in one before. I hadn’t looked at the Model Y much, though I saw them on the road all the time. Like a lot of gas-car drivers, I used to think EVs were kind of stupid. But over the years, Tesla’s infrastructure has improved so much that I decided it was worth checking out.\n\n“My current car was a 2020 Volvo that was starting to show its age. Even though I had promised my husband I’d keep it forever, maintenance was getting ridiculous. The 50,000-mile service alone cost around $800. So I booked a test drive appointment for 1:00 p.m.\n\n“At the center, a Tesla advisor drove me first to show me how Autopilot worked, then handed me the keys. I only drove for about 10 minutes, came back, and spent some time exploring all the car’s features. After that, I was sold. I wanted it.\n\n“Before going in, I had already checked Tesla’s trade-in offer on my Volvo and it was significantly better than what Carvana was quoting. The numbers made sense. All I had to do was fill out the finance application. The rate was an incredible 0.99%, and if I kept the loan the entire term, the total finance charges would only be about $800. That was a no-brainer.\n\n“I arrived at 1:00 p.m. and drove home in my new Tesla around 5:00 p.m. Most of that time wasn’t even at the Tesla center—I had to run home to eat, find my title, clean out my old car, talk to my husband, and head back. If I had done all that in advance and had the car cleared out with the title in hand, I probably would have been in and out in about an hour.\n\n“They also happened to have the exact model, color, and configuration I would have ordered on the spot. I didn’t have to wait for a custom build.\n\n“Super long rant, but that’s my Tesla car buying story!”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/KatieMiller/status/2077389927575105906#m",
-      "link": "https://nitter.net/Tesla/status/2077445377628966976#m",
-      "date": "Wed, 15 Jul 2026 17:29:09 GMT"
-    },
-    {
-      "text": "Starlink and the @JAAGOFoundation in Bangladesh are providing connectivity to 30,000 students across remote schools, giving each child the opportunity to develop digital skills that were not possible before 🛰️💓\n\n\nJAAGO Foundation (@JAAGOFoundation)\n\nIn collaboration with @Starlink, we are redefining access to education—bringing seamless, uninterrupted learning to 167 classrooms across 26 districts. By bridging the digital divide, we are breaking down geographical barriers and opening the door to quality education for 30,000 students, strengthening our commitment to ensure every child has equal rights and opportunities.\n\n#StarlinkForGood #JAAGOFoundation #Starlink #JAAGO #TechForEducation #DigitalInclusion #BridgingTheDigitalDivide #EducationForAll #NoChildLeftBehind #TransformingLives\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/JAAGOFoundation/status/2075218420845436946#m",
-      "link": "https://nitter.net/Starlink/status/2077496574301847827#m",
-      "date": "Wed, 15 Jul 2026 20:52:35 GMT"
-    },
-    {
-      "text": "This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning\n\nVideo",
-      "link": "https://nitter.net/AJamesMcCarthy/status/2077722244571144271#m",
-      "date": "Thu, 16 Jul 2026 11:49:19 GMT"
-    },
-    {
-      "text": "Arguing with NPCs is pointless\n\n\nCorey J. Mahler (@CoreyJMahler)\n\nNever forget: When you are arguing with a Leftist or a Boomer, you are actually arguing with the TV — and the TV cannot hear you and it does not care.\n\n\n\n— https://nitter.net/CoreyJMahler/status/1730235498021478681#m",
-      "link": "https://nitter.net/elonmusk/status/2077629400569278597#m",
-      "date": "Thu, 16 Jul 2026 05:40:24 GMT"
-    },
-    {
-      "text": "Image",
-      "link": "https://nitter.net/elonmusk/status/2077626867297681867#m",
-      "date": "Thu, 16 Jul 2026 05:30:20 GMT"
-    },
-    {
-      "text": "I know I'm late but yeah ok Grok 4.5 is actually really good. \n\nIt's super fast, direct path to solutions, and quite capable.",
-      "link": "https://nitter.net/MatthewBerman/status/2077445418884202757#m",
-      "date": "Wed, 15 Jul 2026 17:29:19 GMT"
-    },
-    {
-      "text": "\"@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I.\"\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2077620854696050963#m",
-      "date": "Thu, 16 Jul 2026 05:06:26 GMT"
     }
   ]
 }
