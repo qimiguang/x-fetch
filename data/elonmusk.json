@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-17T08:17:51Z",
+  "updated_at": "2026-07-17T10:51:12Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Turns out Elon was completely right\nThe coding moat is disappearing in real time",
+      "link": "https://nitter.net/XFreeze/status/2078062254046544149#m",
+      "date": "Fri, 17 Jul 2026 10:20:24 GMT"
+    },
     {
       "text": "also 29 days ago.",
       "link": "https://nitter.net/no4core/status/2077959740316074188#m",
@@ -97,11 +102,6 @@
       "text": "Starlink now available in Côte d'Ivoire!\n\n\nStarlink (@Starlink)\n\nStarlink's high-speed, low-latency internet is now available in Côte d'Ivoire! 🛰️🇨🇮❤️ → starlink.com/cotedivoire\n\n\n\n\n\n— https://nitter.net/Starlink/status/2077775304240865458#m",
       "link": "https://nitter.net/elonmusk/status/2077867371956412545#m",
       "date": "Thu, 16 Jul 2026 21:26:01 GMT"
-    },
-    {
-      "text": "Starship launch window opens at 5:45pm Texas time\n\n\nSpaceX (@SpaceX)\n\nWatch Starship's thirteenth flight test nitter.net/i/broadcasts/1MKgNNXAZ…\n\nLink\n\n\n\nSpaceX\n\nStarship&apos;s Thirteenth Flight Test\nhttps://nitter.net/i/broadcasts/1MKgNNXAZdmxL\n\n\n\n\n— https://nitter.net/SpaceX/status/2077785645645209727#m",
-      "link": "https://nitter.net/elonmusk/status/2077867066556547097#m",
-      "date": "Thu, 16 Jul 2026 21:24:48 GMT"
     }
   ]
 }
