@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-18T16:01:44Z",
+  "updated_at": "2026-07-18T21:55:32Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Robot fights are fun 😂\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2078521506007560474#m",
+      "date": "Sat, 18 Jul 2026 16:45:18 GMT"
+    },
     {
       "text": "Try Grok Build\n\nx.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nJust press Ctrl + Space in Grok Build and start talking\n\nGrok's Speech-to-Text is incredibly accurate, transcribing your prompts in real time as you speak\n\nIt makes interacting with your coding agents feel completely natural\n\nInstead of pausing to type every instruction, you can simply think out loud while Grok keeps up with your ideas\n\nOnce you start using voice in Grok Build, it's surprisingly hard to go back to typing everything\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2078307274049855972#m",
       "link": "https://nitter.net/elonmusk/status/2078495013936206287#m",
@@ -97,11 +102,6 @@
       "text": "Grok 4.5 is only 1.5T parameters.\n\nKimi K3 is 2.8T... and costs 3× more per task.\n\nSpaceXAI cracked intelligence efficiency.\n\nNow imagine Grok at 3T.\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok 4.5 is arguably #1 when taking speed and cost into account\n\n\n\n— https://nitter.net/elonmusk/status/2078195617877143895#m",
       "link": "https://nitter.net/minchoi/status/2078239768459030811#m",
       "date": "Fri, 17 Jul 2026 22:05:47 GMT"
-    },
-    {
-      "text": "RT by @elonmusk: Image",
-      "link": "https://nitter.net/TheBabylonBee/status/2078268554353234388#m",
-      "date": "Sat, 18 Jul 2026 00:00:10 GMT"
     }
   ]
 }
