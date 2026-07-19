@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-19T03:22:54Z",
+  "updated_at": "2026-07-19T08:25:52Z",
   "count": 20,
   "tweets": [
     {
@@ -29,11 +29,6 @@
       "date": "Wed, 15 Jul 2026 19:26:25 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2075701941707870584#m",
-      "date": "Fri, 10 Jul 2026 22:01:22 GMT"
-    },
-    {
       "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2077336278375297280#m",
       "date": "Wed, 15 Jul 2026 10:15:38 GMT"
@@ -49,19 +44,14 @@
       "date": "Mon, 13 Jul 2026 23:34:59 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.20.6.4 on Model 3 SR (2024) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.4 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.4.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2076802031692505561#m",
-      "date": "Mon, 13 Jul 2026 22:52:44 GMT"
-    },
-    {
       "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2076802167567003853#m",
       "date": "Mon, 13 Jul 2026 22:53:16 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2076799969424523478#m",
-      "date": "Mon, 13 Jul 2026 22:44:32 GMT"
+      "text": "We noticed a new Tesla software update 2026.20.6.4 on Model 3 SR (2024) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.4 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.4.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2076802031692505561#m",
+      "date": "Mon, 13 Jul 2026 22:52:44 GMT"
     },
     {
       "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
@@ -84,6 +74,11 @@
       "date": "Mon, 13 Jul 2026 22:45:41 GMT"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2076799969424523478#m",
+      "date": "Mon, 13 Jul 2026 22:44:32 GMT"
+    },
+    {
       "text": "Tesla FSD V14.3.5 has just started rolling out.\n\nOne new feature: You can now open Camera Preview at any time, even if your Tesla is not in Park.\n\nDownloading it on my Model Y right now.",
       "link": "https://nitter.net/SawyerMerritt/status/2076561690087333923#m",
       "date": "Mon, 13 Jul 2026 06:57:42 GMT"
@@ -94,14 +89,19 @@
       "date": "Mon, 13 Jul 2026 07:22:44 GMT"
     },
     {
-      "text": "Tesla employees at Giga Texas now able to take Cybercab across the campus as a continuous service.\n\nThis is a good sign for impending expansion to Robotaxi customers in Austin and other regions.",
-      "link": "https://nitter.net/teslascope/status/2075732263648858183#m",
-      "date": "Sat, 11 Jul 2026 00:01:51 GMT"
-    },
-    {
       "text": "Video",
       "link": "https://nitter.net/teslascope/status/2075753787759960479#m",
       "date": "Sat, 11 Jul 2026 01:27:23 GMT"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) \n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2075734070105919923#m",
+      "date": "Sat, 11 Jul 2026 00:09:02 GMT"
+    },
+    {
+      "text": "Tesla employees at Giga Texas now able to take Cybercab across the campus as a continuous service.\n\nThis is a good sign for impending expansion to Robotaxi customers in Austin and other regions.",
+      "link": "https://nitter.net/teslascope/status/2075732263648858183#m",
+      "date": "Sat, 11 Jul 2026 00:01:51 GMT"
     }
   ]
 }

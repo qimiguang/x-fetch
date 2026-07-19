@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-19T03:22:52Z",
+  "updated_at": "2026-07-19T08:25:51Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2078741450812965182#m",
+      "date": "Sun, 19 Jul 2026 07:19:17 GMT"
+    },
+    {
+      "text": "Gold rush",
+      "link": "https://nitter.net/robotaxi/status/2078562760942850182#m",
+      "date": "Sat, 18 Jul 2026 19:29:14 GMT"
+    },
+    {
+      "text": "Grok Build is becoming a complete environment for building, deploying and managing real-world applications\n\nIts plugin marketplace brings the entire development stack into one connected workflow:\n\n• Vercel for deployment\n• Sentry for monitoring\n• Chrome DevTools for debugging\n• Cloudflare for infrastructure\n• Supabase, MongoDB and Neon for databases\n• Firecrawl for web data\n• Figma for design\n• Railway for hosting\n• Stripe for payments\n\nYou are not just asking Grok to write code\n\nYou can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools\n\nGrok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product",
+      "link": "https://nitter.net/XFreeze/status/2078402450738893169#m",
+      "date": "Sat, 18 Jul 2026 08:52:13 GMT"
+    },
+    {
+      "text": "Try Grok Build\n\n\nMark Kretschmann (@mark_k)\n\nGrok Build news: @SpaceXAI is back with a banger!\n\nSome of the best changes in 0.2.105:\n\n• Grok 4.5 is now the default model, with high, medium, and low reasoning effort\n• /btw now works inside grok --minimal\n• New /summarize command for instant session summaries\n• Local shell tools now inherit your normal environment variables, aliases, and functions\n• Improved long-session compaction\n• Global rules are now discovered correctly\n• Smoother scrolling under load and on slow connections\n\nPlus a long list of bug fixes. Another seriously strong update.\n\n\n\n\n\n— https://nitter.net/mark_k/status/2078545195818172624#m",
+      "link": "https://nitter.net/elonmusk/status/2078692662345888102#m",
+      "date": "Sun, 19 Jul 2026 04:05:25 GMT"
+    },
+    {
+      "text": "Every person living in a western nation needs to listen to every word of this\n\nKatherine Berbalsingh went to the University of Oxford and is Headmaster at Michaela Community School in London, UK\n\nShe PERFECTLY explains the mass indoctrination into the narrative of oppressor and oppressed, and of hating White People\n\nI will write only some of this out because it’s very important, however you should listen to it so you can hear the passion:\n\n“The culture shift comes from what children learn at school and online. Ask any young person what history they learned at school, and they’ll tell you, Hitler. Ask them what else? Slavery. Ask them what else? American civil rights. \n\nIn fact, what little they know of history will be all about Black and brown people fighting for equality against the white man, women fighting men for the vote, gay and trans people fighting for various rights. Our young people have been taught that history is simply one long story about various groups struggling under the oppressive dead white man. \n\n— History is taught through an oppressor lens. The triangular slave trade, white men held the power. What about Britain ending the slave trade? More than a quick mention, if at all? Mm, no.\n\nWhat of the Arab slave trade that lasted 3 times as long as the triangular slave trade? Mm, no. \n\nOkay, so GCSE history in Britain is often taught as migration through time, so the idea that Britain has always been a land of immigrants is embedded in our children’s heads. Most schools would prefer to concentrate learning about the tiny number of Black people who existed in Tudor England over a thorough analysis of England’s break from Rome.\n\n— Not to mention weeks on King Mansa Musa of Mali because he was a Black Muslim. His bearing on British institutions, laws, and faith is nonexistent. And the fact that he is said to have been the richest man in history, thanks in part to his massive slave-owning society, is a detail somehow that teachers rarely ever teach. \n\nBut it isn’t just our schools. It’s our general culture too. Take your kids to a museum or an art gallery in any Western country, and you’ll find the same narrative.\n\nAs an example, when learning about aviation in London’s Science Museum and the extraordinary feat that is man making massive machines move in the sky, a write-up on the wall explains that women and Black people were historically barred from aviation schools and the military. Similarly, James Watt, the man who invented the steam engine and is considered the founder of the Industrial Revolution, has a write-up on the wall explaining that his early career involved slave trafficking, with a bonus analysis of the whole of Britain’s complicity in the slave trade. \n\nThey flatten the entire human story and all of its complexities into the narrative of oppressor and oppressed, leaving young people unable to see the world in any other terms.”\n\nWe have to end the mass indoctrination\n\nVideo",
+      "link": "https://nitter.net/WallStreetApes/status/2078546257354907778#m",
+      "date": "Sat, 18 Jul 2026 18:23:39 GMT"
+    },
     {
       "text": "Big updates next week :)\n\n\nDhravya Shah (@DhravyaShah)\n\nthe grok cli is SO DAMN GOOD OMG @xai\n\nThe model is fast\nThe UX is literally perfect, even better than having a UI. it's like they took advantage of the CLI interface with such a rich rendering / control feed\n\n\n\n— https://nitter.net/DhravyaShah/status/2078364055061069970#m",
       "link": "https://nitter.net/milichab/status/2078543365101216077#m",
@@ -77,31 +102,6 @@
       "text": "Video",
       "link": "https://nitter.net/elonmusk/status/2078322392036790316#m",
       "date": "Sat, 18 Jul 2026 03:34:06 GMT"
-    },
-    {
-      "text": "Try Grok 4.5\n\n\nPenny2x (@imPenny2x)\n\nI’m running Fable, K3, 5.6 and 4.5 like 10 hours a day and they are all sick. At work, at home. I have subscriptions for many of them at both locations. But you know which model legit doesn’t get enough hype?\n\nGROK.\n\nI’m so serious. Even on 𝕏 it doesn’t get enough hype cause we assume oh yeah it’s Elon’s network of course they are gonna hype grok.\n\nBut I don’t care about benchmarks. It absolutely crushes in usefulness and im quickly using it more and more. It gets the job done well, and fast, and it doesn't spend all day thinking about nothing. But its not just fast and cheap. Sometimes it WORKS BETTER than 5.6 or even Fable. Check this.\n\nI told Grok and Codex to help design a level that I could dynamically spawn some quest monsters and players on using the level tools available for my game.\n\nSol on max settings took forever to put out garbage and Grok's level was pretty sick right away. I have many other dramatic cases of Grok outperforming so called frontier models on genuinely useful tasks.\n\nI can’t wait for the 2 parameter model.\n\n\n\n\n\n\n\n— https://nitter.net/imPenny2x/status/2078319396309832007#m",
-      "link": "https://nitter.net/elonmusk/status/2078319826263474481#m",
-      "date": "Sat, 18 Jul 2026 03:23:54 GMT"
-    },
-    {
-      "text": "I have yet to find an example where wearing a short-sleeved white button-up shirt and tie did not imply absolutely PEAK performance\n\n\n\n\n\n\nDima Zeniuk (@DimaZeniuk)\n\nThe launch of Apollo 11, July 16, 1969\n\n57 years ago today 🤯\n\nNext step — Mars\n\n\n\n\n\n— https://nitter.net/DimaZeniuk/status/2077889895402529162#m",
-      "link": "https://nitter.net/ArthurMacwaters/status/2078220714210099605#m",
-      "date": "Fri, 17 Jul 2026 20:50:04 GMT"
-    },
-    {
-      "text": "Can't wait! Grok 4.5 has been amazing already",
-      "link": "https://nitter.net/minchoi/status/2078290352612487568#m",
-      "date": "Sat, 18 Jul 2026 01:26:47 GMT"
-    },
-    {
-      "text": "Grok 4.5 uses less tokens than any other big model, performance great on almost all tasks, cost you cheaper than any big model, finishes the task faster than others. Makes me happy :)",
-      "link": "https://nitter.net/naoufal_elh/status/2078122342966858183#m",
-      "date": "Fri, 17 Jul 2026 14:19:10 GMT"
-    },
-    {
-      "text": "Grok TTS just took the top spot on The Humanness Index\n\nIt scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating\n\nEven the cost difference is insane:\n• Grok TTS: $15\n• Eleven v3: $100\n\nGrok delivers the higher human-likeness score while costing nearly 7× less than the next model\nIt is also faster, with 460 ms latency compared with 758 ms for Eleven v3\n\nGrok TTS is delivering top-tier voice quality without the premium price",
-      "link": "https://nitter.net/XFreeze/status/2078291115858624574#m",
-      "date": "Sat, 18 Jul 2026 01:29:49 GMT"
     }
   ]
 }

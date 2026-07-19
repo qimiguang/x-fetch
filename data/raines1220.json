@@ -1,6 +1,6 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-07-19T03:23:28Z",
+  "updated_at": "2026-07-19T08:26:28Z",
   "count": 17,
   "tweets": [
     {
@@ -34,6 +34,11 @@
       "date": "Mon, 22 Jun 2026 17:30:47 GMT"
     },
     {
+      "text": "I think there will be many Tesla owners who drive distracted, get into a serious crash, get scared, and then lie to the police by saying the car was self-driving because they think it might make them less liable, even if legally it wouldn’t.\n\nI’m not saying this is what happened here, but this has happened in the past, and I do see why some people would have that motivation.\n\n\nABC News (@ABC)\n\nA driver in a Tesla vehicle that was allegedly in self-driving mode crashed into a Texas house Friday night, killing a woman who was inside the home, investigators said. abcnews.link/qbwtFc0\n\n\n\n\n\n— https://nitter.net/ABC/status/2068417451046441338#m",
+      "link": "https://nitter.net/raines1220/status/2068570145933631506#m",
+      "date": "Sun, 21 Jun 2026 05:42:09 GMT"
+    },
+    {
       "text": "Raines (@raines1220)\n\nEven if we give them every possible benefit of the doubt and assume FSD was active, why didn’t the driver disengage or intervene? The car was clearly speeding, and that was an obvious warning sign that it was time to disengage. Was the driver asleep with his foot on the accelerator?\n\nIf the driver were trying to make up a story, claiming the brakes failed would’ve been a better lie. Saying “self-driving was active” sounds more like an attempt to avoid responsibility.\n\n\n\n— https://nitter.net/raines1220/status/2068740808262746615#m",
       "link": "https://nitter.net/raines1220/status/2068741057920274637#m",
       "date": "Sun, 21 Jun 2026 17:01:18 GMT"
@@ -49,9 +54,9 @@
       "date": "Sat, 20 Jun 2026 14:36:57 GMT"
     },
     {
-      "text": "I think there will be many Tesla owners who drive distracted, get into a serious crash, get scared, and then lie to the police by saying the car was self-driving because they think it might make them less liable, even if legally it wouldn’t.\n\nI’m not saying this is what happened here, but this has happened in the past, and I do see why some people would have that motivation.\n\n\nABC News (@ABC)\n\nA driver in a Tesla vehicle that was allegedly in self-driving mode crashed into a Texas house Friday night, killing a woman who was inside the home, investigators said. abcnews.link/qbwtFc0\n\n\n\n\n\n— https://nitter.net/ABC/status/2068417451046441338#m",
-      "link": "https://nitter.net/raines1220/status/2068570145933631506#m",
-      "date": "Sun, 21 Jun 2026 05:42:09 GMT"
+      "text": "FSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo",
+      "link": "https://nitter.net/raines1220/status/2067801983306866712#m",
+      "date": "Fri, 19 Jun 2026 02:49:45 GMT"
     },
     {
       "text": "This is another similar scenario. The first part is almost identical, but the second half is far more dangerous than mine.\n\nWhen an event is unfolding in real time, there are multiple plausible futures with similar probabilities. FSD cannot assume the best-case outcome. In this video, the other driver actually accelerated into the lane and created an extremely dangerous situation.\n\nWhat’s interesting is that FSD made almost the same magnitude of evasive maneuver in his video as it did in mine. That suggests FSD was not overreacting in my case. It was choosing a “Game theory Optimal”-style strategy: instead of betting on what the reckless human driver would do next, it positioned itself to preserve safety across multiple possible outcomes.\n\nThis is the kind of strategy humans often fail to appreciate, because humans judge the event after seeing how it ended.\n\n\nC. L. Max Nikias (@MaxNikias_)\n\nMy Cybertruck, on full FSD, in downtown Los Angeles, suddenly swerved to the left and narrowly avoided a collision with the white Audi car changing lanes very fast. If I were the driver, I wouldn’t have been able to prevent the accident.  Views from three different cameras of the CT. \n@elonmusk @Tesla_AI @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/MaxNikias_/status/2068342345477894420#m",
@@ -62,11 +67,6 @@
       "text": "B-pillar view as requested\n\nVideo",
       "link": "https://nitter.net/raines1220/status/2067875336348688640#m",
       "date": "Fri, 19 Jun 2026 07:41:14 GMT"
-    },
-    {
-      "text": "FSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo",
-      "link": "https://nitter.net/raines1220/status/2067801983306866712#m",
-      "date": "Fri, 19 Jun 2026 02:49:45 GMT"
     },
     {
       "text": "I gave it more thought, and I think I found all the answers. I have to say SpaceX’s story is much harder to comprehend compared with Tesla’s.\n\nThe short answer is that 1) inference is trending toward becoming the majority of future compute expense. One day, training in space might also make economic sense. 2) Sending AI chips to space does not make compute cheaper in absolute terms, but during a severe shortage, it can make adding new compute less expensive relative to ground-based alternatives. And 3) to make the AI story complete, Terafab must succeed in solving the production capacity issue around memory and packaging. Hopefully, faster iteration is the key to addressing that challenge, but the risk remains.\n\n\nRaines (@raines1220)\n\nPlease correct me if I’m wrong, but here are my thoughts about AI satellite from SPCX:\n\n1. Training/inference: They are kilometers away from each other. Due to physics limitations, the latency and bandwidth between satellites will make them better suited for inference only, not training.\n\n2. Energy saving: Energy cost for data centers is usually less than 10%. The majority of data center cost today is still depreciation of AI chips. Therefore, even if you consider energy cost as zero, I still have trouble seeing significant cost efficiency when comparing on-ground data centers with in-space ones.\n\n3. Production capacity: If AI chip manufacturing speed is the scaling bottleneck, then launching AI satellites does not unblock scaling, since the satellites still need to wait for the chips. Otherwise, the plan to have 10,000 Starship launches per year becomes the bottleneck, and at this speed, it still does not significantly outpace the expected compute scaling speed on the ground within five years.\n\n\n\n— https://nitter.net/raines1220/status/2066538753670402167#m",
