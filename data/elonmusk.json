@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-18T21:55:32Z",
+  "updated_at": "2026-07-19T03:22:52Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Big updates next week :)\n\n\nDhravya Shah (@DhravyaShah)\n\nthe grok cli is SO DAMN GOOD OMG @xai\n\nThe model is fast\nThe UX is literally perfect, even better than having a UI. it's like they took advantage of the CLI interface with such a rich rendering / control feed\n\n\n\n— https://nitter.net/DhravyaShah/status/2078364055061069970#m",
+      "link": "https://nitter.net/milichab/status/2078543365101216077#m",
+      "date": "Sat, 18 Jul 2026 18:12:10 GMT"
+    },
+    {
+      "text": "Olive Garden implemented the SAVE America Act more quickly than the US Senate.",
+      "link": "https://nitter.net/ScottPresler/status/2078185742480597122#m",
+      "date": "Fri, 17 Jul 2026 18:31:06 GMT"
+    },
     {
       "text": "Robot fights are fun 😂\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2078521506007560474#m",
@@ -92,16 +102,6 @@
       "text": "Grok TTS just took the top spot on The Humanness Index\n\nIt scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating\n\nEven the cost difference is insane:\n• Grok TTS: $15\n• Eleven v3: $100\n\nGrok delivers the higher human-likeness score while costing nearly 7× less than the next model\nIt is also faster, with 460 ms latency compared with 758 ms for Eleven v3\n\nGrok TTS is delivering top-tier voice quality without the premium price",
       "link": "https://nitter.net/XFreeze/status/2078291115858624574#m",
       "date": "Sat, 18 Jul 2026 01:29:49 GMT"
-    },
-    {
-      "text": "Yes\n\n\nLisan al Gaib (@scaling01)\n\nyou should give Grok 4.5 a try\n\n\n\n\n\n— https://nitter.net/scaling01/status/2078217746806984918#m",
-      "link": "https://nitter.net/elonmusk/status/2078290383977562472#m",
-      "date": "Sat, 18 Jul 2026 01:26:54 GMT"
-    },
-    {
-      "text": "Grok 4.5 is only 1.5T parameters.\n\nKimi K3 is 2.8T... and costs 3× more per task.\n\nSpaceXAI cracked intelligence efficiency.\n\nNow imagine Grok at 3T.\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok 4.5 is arguably #1 when taking speed and cost into account\n\n\n\n— https://nitter.net/elonmusk/status/2078195617877143895#m",
-      "link": "https://nitter.net/minchoi/status/2078239768459030811#m",
-      "date": "Fri, 17 Jul 2026 22:05:47 GMT"
     }
   ]
 }
