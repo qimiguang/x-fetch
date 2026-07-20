@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-20T16:27:11Z",
+  "updated_at": "2026-07-20T19:48:21Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079269684801581562#m",
+      "date": "Mon, 20 Jul 2026 18:18:18 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.20.200.1 (factory update) on Model 3 Performance (2026) in Utah, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.20.200.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.200.1.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2079269671740567773#m",
+      "date": "Mon, 20 Jul 2026 18:18:15 GMT"
+    },
     {
       "text": "The new FSD v14 lite build adds the Self-Driving app INCLUDING streaks!!",
       "link": "https://nitter.net/BLKMDL3/status/2079103424092897319#m",
@@ -92,16 +102,6 @@
       "text": "Tesla software update 2026.20.6.6 is now rolling out to ~1,210 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.5 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2076799969424523478#m",
       "link": "https://nitter.net/teslascope/status/2077474889338851736#m",
       "date": "Wed, 15 Jul 2026 19:26:25 GMT"
-    },
-    {
-      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2077336278375297280#m",
-      "date": "Wed, 15 Jul 2026 10:15:38 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.21.100 is now rolling out to ~1,100 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2075701941707870584#m",
-      "link": "https://nitter.net/teslascope/status/2076860561615135179#m",
-      "date": "Tue, 14 Jul 2026 02:45:18 GMT"
     }
   ]
 }
