@@ -1,8 +1,73 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-20T03:57:40Z",
+  "updated_at": "2026-07-20T09:23:56Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The new FSD v14 lite build adds the Self-Driving app INCLUDING streaks!!",
+      "link": "https://nitter.net/BLKMDL3/status/2079103424092897319#m",
+      "date": "Mon, 20 Jul 2026 07:17:38 GMT"
+    },
+    {
+      "text": "For our Plus and Pro subscribers, AI3 vehicles will also automatically begin recording Self-Driving usage per drive upon receiving the update.\n\nWe’ll also be expanding our existing Self-Driving data visualizations on both web and iOS in the following week.",
+      "link": "https://nitter.net/teslascope/status/2079129819057660099#m",
+      "date": "Mon, 20 Jul 2026 09:02:31 GMT"
+    },
+    {
+      "text": "We're pleased to share that @Tesla has enabled Self-Driving telemetry metrics for AI3 vehicles starting on 2026.20.6.10!\n\nThis means that tracking and leaderboard participation on our app will be automatically enabled for all AI3 vehicles once you receive V14 Lite.",
+      "link": "https://nitter.net/teslascope/status/2079129816591368679#m",
+      "date": "Mon, 20 Jul 2026 09:02:31 GMT"
+    },
+    {
+      "text": "The feature \"Start Self-Driving from Park\" has a new addition to its notes in 2026.20.6.10:\n\nBrake Confirm requires the driver to press and release the brake pedal before FSD (Supervised) can be activated. When Brake Confirm is disabled, pressing the button will allow Self-Driving to apply the brakes and engage FSD (Supervised).\n\nIf driver detection requirements are not met or if FSD (Supervised) does not detect a driver, you will be required to press and release the brake pedal to confirm. You can enable Brake Confirm in Self-Driving > Brake Confirm.\n\n\nTeslascope (@teslascope)\n\nThe following feature is included: Start Self-Driving from Park\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2079080926248603716#m",
+      "link": "https://nitter.net/teslascope/status/2079090066874597628#m",
+      "date": "Mon, 20 Jul 2026 06:24:34 GMT"
+    },
+    {
+      "text": "Right on the cusp, but we were spot on with our speculation for rollout delays from weeks ago. 👍\n\n\nTeslascope (@teslascope)\n\nWe’ve been confidently sharing our expectations on the V14 Lite launch for months, and the current deployment matches what we’ve echoed.\n\nAs with any major release, expect very little movement after the initial wave for 1-3 weeks. More waves soon, but may require point releases.\n\n\n\n— https://nitter.net/teslascope/status/2072448637519769623#m",
+      "link": "https://nitter.net/teslascope/status/2079086208039448612#m",
+      "date": "Mon, 20 Jul 2026 06:09:14 GMT"
+    },
+    {
+      "text": "V14 Lite has resumed its rollout via 2026.20.6.10, after three weeks of no activity!\n\nKeep an eye out for additional waves.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.10 on Model 3 Performance (2019) in California, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.10 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.10.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079080903431635297#m",
+      "link": "https://nitter.net/teslascope/status/2079085784800678328#m",
+      "date": "Mon, 20 Jul 2026 06:07:33 GMT"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) v14 Lite\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079080963129131212#m",
+      "date": "Mon, 20 Jul 2026 05:48:23 GMT"
+    },
+    {
+      "text": "The following feature is included: Arrival Options\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079080954119811557#m",
+      "date": "Mon, 20 Jul 2026 05:48:21 GMT"
+    },
+    {
+      "text": "The following feature is included: Speed Profiles\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079080944237957162#m",
+      "date": "Mon, 20 Jul 2026 05:48:19 GMT"
+    },
+    {
+      "text": "The following feature is included: UI Improvements\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079080935270555705#m",
+      "date": "Mon, 20 Jul 2026 05:48:17 GMT"
+    },
+    {
+      "text": "The following feature is included: Start Self-Driving from Park\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079080926248603716#m",
+      "date": "Mon, 20 Jul 2026 05:48:14 GMT"
+    },
+    {
+      "text": "The following feature is included: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2079080916228407804#m",
+      "date": "Mon, 20 Jul 2026 05:48:12 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.20.6.10 on Model 3 Performance (2019) in California, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.10 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.10.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2079080903431635297#m",
+      "date": "Mon, 20 Jul 2026 05:48:09 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.6.6 is now rolling out to ~3,190 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.5 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2076799969424523478#m",
       "link": "https://nitter.net/teslascope/status/2078293842067959848#m",
@@ -37,71 +102,6 @@
       "text": "Tesla software update 2026.21.100 is now rolling out to ~1,100 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.21.100 (factory update) on Model Y RWD LR (2026) in Overijssel, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.21.100 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.100.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2075701941707870584#m",
       "link": "https://nitter.net/teslascope/status/2076860561615135179#m",
       "date": "Tue, 14 Jul 2026 02:45:18 GMT"
-    },
-    {
-      "text": "The very first recorded drive on our platform of Full Self-Driving V14.3.5 (2026.20.6.6) was 100% on FSD.\n\nNeat!\n\n\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2076799969424523478#m",
-      "link": "https://nitter.net/teslascope/status/2076812665067028962#m",
-      "date": "Mon, 13 Jul 2026 23:34:59 GMT"
-    },
-    {
-      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2076802167567003853#m",
-      "date": "Mon, 13 Jul 2026 22:53:16 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.20.6.4 on Model 3 SR (2024) in Texas, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.4 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.4.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2076802031692505561#m",
-      "date": "Mon, 13 Jul 2026 22:52:44 GMT"
-    },
-    {
-      "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2076800283636605284#m",
-      "date": "Mon, 13 Jul 2026 22:45:47 GMT"
-    },
-    {
-      "text": "The following feature is included: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2076800275424190930#m",
-      "date": "Mon, 13 Jul 2026 22:45:45 GMT"
-    },
-    {
-      "text": "The following feature is included: FSD (Supervised) v14.3.5\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2076800266809016715#m",
-      "date": "Mon, 13 Jul 2026 22:45:43 GMT"
-    },
-    {
-      "text": "The following feature is included: Actually Smart Summon\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2076800258021982527#m",
-      "date": "Mon, 13 Jul 2026 22:45:41 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.20.6.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.6 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.6.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2076799969424523478#m",
-      "date": "Mon, 13 Jul 2026 22:44:32 GMT"
-    },
-    {
-      "text": "Tesla FSD V14.3.5 has just started rolling out.\n\nOne new feature: You can now open Camera Preview at any time, even if your Tesla is not in Park.\n\nDownloading it on my Model Y right now.",
-      "link": "https://nitter.net/SawyerMerritt/status/2076561690087333923#m",
-      "date": "Mon, 13 Jul 2026 06:57:42 GMT"
-    },
-    {
-      "text": "We're sharing this information publicly because we've been contacted by several of our platform's members based in Australia who have observed missing vehicle data.\n\nDue to @Telstra's recent countrywide outages and other infrastructure issues, Tesla vehicles were affected, resulting in connectivity issues and severe delays for third-party services such as ours.\n\nWhile Tesla's Fleet Telemetry is designed to attempt to send stale data (resending) in the case of temporary connectivity issues, the internal storage for this data is limited, and this system is not designed for prolonged downtimes impacting cellular providers.\n\nWhenever there is cellular downtime or while traveling through known cellular dead zones, vehicle data recording can be affected, and, as such, data loss is expected.\n\nWe appreciate our members down under for their understanding.",
-      "link": "https://nitter.net/teslascope/status/2076567992146800701#m",
-      "date": "Mon, 13 Jul 2026 07:22:44 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/teslascope/status/2075753787759960479#m",
-      "date": "Sat, 11 Jul 2026 01:27:23 GMT"
-    },
-    {
-      "text": "The following feature is included: FSD (Supervised) \n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2075734070105919923#m",
-      "date": "Sat, 11 Jul 2026 00:09:02 GMT"
-    },
-    {
-      "text": "Tesla employees at Giga Texas now able to take Cybercab across the campus as a continuous service.\n\nThis is a good sign for impending expansion to Robotaxi customers in Austin and other regions.",
-      "link": "https://nitter.net/teslascope/status/2075732263648858183#m",
-      "date": "Sat, 11 Jul 2026 00:01:51 GMT"
     }
   ]
 }
