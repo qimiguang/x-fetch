@@ -1,8 +1,88 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-20T22:04:03Z",
+  "updated_at": "2026-07-21T08:36:05Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "𝕏Money with friends is fun <3\n\nCongrats to all those that got access today!",
+      "link": "https://nitter.net/paranoidream/status/2079360764213874980#m",
+      "date": "Tue, 21 Jul 2026 00:20:13 GMT"
+    },
+    {
+      "text": "It’s been this way for years\n\n\nWall Street Apes (@WallStreetApes)\n\nMy jaw literally dropped checking this out\n\nIf you go to New Jersey inmates mugshots and filter by race “White” you’re mind is gong to be blown\n\nAlmost all mugshots are of minorities being booked as “White.” (Proof in video)\n\nTHIS IS INSANE. You should be furious. I go through all the inmates just on the first page and the people doing this need to go to prison \n\nJust imagine this nationwide….\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/WallStreetApes/status/2078946666967900573#m",
+      "link": "https://nitter.net/elonmusk/status/2079448786745631005#m",
+      "date": "Tue, 21 Jul 2026 06:09:59 GMT"
+    },
+    {
+      "text": "Grok Imagine ❣️\n\nVideo",
+      "link": "https://nitter.net/dvorahfr/status/2079411063603245287#m",
+      "date": "Tue, 21 Jul 2026 03:40:05 GMT"
+    },
+    {
+      "text": "Grok is a solid workhorse\n\n\nMia (@MiaAI_lab)\n\nStill haven’t found a real use case where Grok 4.5 fails at something I ask vs GPT-5.6 Sol, Fable 5, or Kimi K3.\n\nAll of them are excellent — but Grok 4.5 wins on price and speed by far.\n\n\n\n— https://nitter.net/MiaAI_lab/status/2079159804661043391#m",
+      "link": "https://nitter.net/elonmusk/status/2079448540900647179#m",
+      "date": "Tue, 21 Jul 2026 06:09:01 GMT"
+    },
+    {
+      "text": "X is where all the real voices matter. You could never do this on Instagram.\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nThe scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?\n\n\n\n— https://nitter.net/yunta_tsai/status/2079389241021501447#m",
+      "link": "https://nitter.net/AdamLowisz/status/2079422033151029591#m",
+      "date": "Tue, 21 Jul 2026 04:23:41 GMT"
+    },
+    {
+      "text": "I’m currently using Grok 4.5 99% of the time now for both planning and tasks.\n\nThe fact that I don’t have to switch out to a cheaper model to do tasks means there is less context window model switching and faster speed.\n\nFeels incredible.\n\n\nCursor (@cursor_ai)\n\nWe had a team of agents rebuild SQLite from its 835-page manual.\n\nIt created a replica in Rust which passed 100% of a held-out test suite.\n\nInterestingly, cost varied 15x depending on which model mix we used.\n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2079256614238814551#m",
+      "link": "https://nitter.net/DannyLimanseta/status/2079387802924732537#m",
+      "date": "Tue, 21 Jul 2026 02:07:40 GMT"
+    },
+    {
+      "text": "SpaceX’s massive corpus of world-class engineering data (excluding material blocked by ITAR) will be added during supplemental training of the 2T run.\n\nThis will dramatically improve Grok’s engineering capabilities.\n\n\nCory Robin (@flycory)\n\nFor the past few wks since Grok Build launch, we've run SxS testing of complex Codex & Grok Build tasks. Eliminated Claude for needy intern BS. Grok Build wins more trust w/ higher accuracy & less hand-holding. Codex remains solid; each has unique strengths. For heavy math/science/data in aerospace, we're normalizing on Grok Build as of Jul 20. Exciting yet nerve-racking shift after 6mo on Codex. Qs on process/A/B testing welcome.\n\nCongratulations to @SpaceXAI and the Build TEAM!\n\n\n\n— https://nitter.net/flycory/status/2079287429148938494#m",
+      "link": "https://nitter.net/elonmusk/status/2079446276299465185#m",
+      "date": "Tue, 21 Jul 2026 06:00:01 GMT"
+    },
+    {
+      "text": "instagram: just got married\n\nlinkedin: thrilled to announce we have sold more b2b saas\n\nX: hello there the jacobian conjecture is false",
+      "link": "https://nitter.net/netcapgirl/status/2079196068865364044#m",
+      "date": "Mon, 20 Jul 2026 13:25:47 GMT"
+    },
+    {
+      "text": "A Cybercab with no steering wheel, a massive display, and high speed Starlink is going to be the best place to work or watch a movie as you take a ride across town",
+      "link": "https://nitter.net/wholemars/status/2079358618546409871#m",
+      "date": "Tue, 21 Jul 2026 00:11:41 GMT"
+    },
+    {
+      "text": "Try Grok Build, it’s awesome!\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 now also ranked #1 on the Long-Horizon Terminal-Bench by binary pass rate, outperforming Claude Fable 5, Claude Opus 4.8 and GPT-5.6-sol\n\nUnder the strictest scoring metric - where a task counts only if it is fully solved with a perfect reward and zero errors......Grok 4.5 finished clearly ahead of every other tested model\n\nThis matters for real-world coding, automation and difficult engineering work because long-horizon terminal tasks require much more than making partial progress\n\nThe model has to maintain context, recover from mistakes and successfully complete an entire workflow across hundreds of steps\n\nGrok 4.5 is showing serious strength on complex agentic tasks over extended periods of time\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2079264002316927312#m",
+      "link": "https://nitter.net/elonmusk/status/2079430412837757338#m",
+      "date": "Tue, 21 Jul 2026 04:56:59 GMT"
+    },
+    {
+      "text": "One very useful tool in Agent mode is image cropping of Grok Imagine .\n\nI don't know why no one talks about it, as it is a crucial element for creating smooth transitions.\n\nDuring a conversation, you need to frame each person and switch camera angles to add energy to your video.\n\nBeing able to pick the frame you want and crop it saves a huge amount of time.",
+      "link": "https://nitter.net/dvorahfr/status/2079200049058496799#m",
+      "date": "Mon, 20 Jul 2026 13:41:36 GMT"
+    },
+    {
+      "text": "The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?",
+      "link": "https://nitter.net/yunta_tsai/status/2079389241021501447#m",
+      "date": "Tue, 21 Jul 2026 02:13:22 GMT"
+    },
+    {
+      "text": "Try Grok Build!\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 is leading on actual professional work\n\nIn Snorkel AI’s benchmark, Grok 4.5 combined with Grok Build was tested against GPT 5.5 and Claude Opus 4.8 across nearly 2,000 expert-created workplace tasks involving real documents, spreadsheets, presentations and professional analysis\n\nGrok outperformed both GPT 5.5 and Claude Opus 4.8 overall, while leading by even wider margins across several high-judgment fields:\n\n• Education: 58%\n• Legal work: 40%\n• Quality assurance: 37%\n• Healthcare: 35%\n\nIt also recorded the lowest failure rate across every error category Snorkel measured, including missing analysis, incorrect recommendations, poor structure and missing sources\n\nThe most important result is not simply that Grok completed more tasks\n\nIt produced better professional deliverables, made fewer critical mistakes and provided more specific, actionable recommendations where competing models often returned generic work\n\nGrok 4.5 is proving that real-world usefulness matters more than benchmark scores alone\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2079358164957606331#m",
+      "link": "https://nitter.net/elonmusk/status/2079420891163680790#m",
+      "date": "Tue, 21 Jul 2026 04:19:08 GMT"
+    },
+    {
+      "text": "Watch 4K streaming video while Cybercab takes you anywhere you want\n\n\nTesla (@Tesla)\n\nStarlink V5 directly integrated in Cybercab\n\n\n\n\n\n— https://nitter.net/Tesla/status/2079325767260139962#m",
+      "link": "https://nitter.net/elonmusk/status/2079420769302397401#m",
+      "date": "Tue, 21 Jul 2026 04:18:39 GMT"
+    },
+    {
+      "text": "Yes\n\n\nPenny2x (@imPenny2x)\n\nElon has repeated this over and over. \"Everything will be free\". The pickup is slow and few take him serious because humans are not good at visualizing exponential growth.\n\nThe truth is maybe not EVERYTHING will be free, like you can't own the entire galaxy for example. Nobody can do that. But any single thing that you can own now, up to and including things as big as jets and boats. They will be free to use if not free to own when we more efficiently harness solar power and master automation of both intelligent and physical labor.\n\nThe penny has already started doubling. If you know that story then you know how it ends. Amazing abundance.\n\n\n\n— https://nitter.net/imPenny2x/status/2079355947471053064#m",
+      "link": "https://nitter.net/elonmusk/status/2079420377604759584#m",
+      "date": "Tue, 21 Jul 2026 04:17:06 GMT"
+    },
+    {
+      "text": "Today we're announcing the completion of one of the largest engineering projects in the company's history:\n\nWe rebuilt the X Android app from scratch\n\nIt's faster, smoother and more reliable. But most of all: it will enable us to build new features at lightning speed.\n\nVideo",
+      "link": "https://nitter.net/nikitabier/status/2079273272274026718#m",
+      "date": "Mon, 20 Jul 2026 18:32:33 GMT"
+    },
     {
       "text": "Grok 4.5 is really good at React.\n\nIt's also very affordable and token efficient!",
       "link": "https://nitter.net/leerob/status/2079240370576146875#m",
@@ -22,86 +102,6 @@
       "text": "Today is the 57th anniversary of Apollo 11 Moon Landing.\n\nIn 1969: most powerful technology on Earth = Apollo 11.\nIn 2026: most powerful technology on Earth = 2-trillion-parameter AI.\n\nWhich one changes civilization more?",
       "link": "https://nitter.net/PeterDiamandis/status/2079196565537993102#m",
       "date": "Mon, 20 Jul 2026 13:27:45 GMT"
-    },
-    {
-      "text": "Grok\n\n\nMin Choi (@minchoi)\n\nThis is literally my new workflow now:\n\nRealtime Research → Grok 4.5\nPlanning & Orchestration→ Fable 5\nDay-to-day Coding/Debug → Grok 4.5\nWrite & Run Tests → Grok 4.5\nComplex Coding/Debug → GPT-5.6 Sol\nFrontend → Fable 5\n\nBookmark this\n\n\n\n— https://nitter.net/minchoi/status/2079041544200262061#m",
-      "link": "https://nitter.net/elonmusk/status/2079157111183806697#m",
-      "date": "Mon, 20 Jul 2026 10:50:58 GMT"
-    },
-    {
-      "text": "Rome conquered Greece in 146 BC when they burned Corinth to the ground. And then the strangest thing in ancient history happened. The winners spent the next few centuries desperately trying to become the losers.\n\nIt actually started before the final conquest. When the general Marcellus sacked Syracuse in 211 BC, he shipped boatloads of Greek statues and paintings back to Rome, and the city went crazy for it. Suddenly every rich Roman had to have Greek art in his house. Decades later Cicero built an entire court case around prosecuting a governor named Verres for looting Greek masterpieces, and Romans ate it up.\n\nThen came the schools. Wealthy families started buying Greek slaves specifically because they were educated, and handed them the job of raising their children. So the sons of the men who crushed Greece grew up speaking Greek, memorizing Greek poetry, and learning philosophy from Greeks. The elite eventually sent their teenagers abroad to Athens and Rhodes to finish their education, the way people today send kids to study overseas. Cicero did it. Julius Caesar did it.\n\nTheir gods were Greek gods wearing name tags. Zeus became Jupiter. Hera became Juno. Aphrodite became Venus. Ares became Mars. Same myths, same family drama, mostly just relabeled.\n\nTheir entertainment was borrowed too. The first big Roman playwrights, Plautus and Terence, basically adapted Greek comedies into Latin. Their doctors were Greek. Their architecture leaned on Greek columns, the Doric and Ionic and Corinthian orders you still see on bank buildings today.\n\nAnd the art obsession left a strange fingerprint on history. Romans loved Greek bronze statues so much that they mass produced marble copies of them. A huge chunk of what people walk past in museums today and call \"Greek sculpture\" is actually a Roman copy. The Greek originals melted down or vanished long ago. The knockoffs are what survived.\n\nNot everyone was thrilled. Cato the Elder spent his whole life warning that Greek culture would rot the Roman character. He sneered at Greek philosophers, distrusted Greek doctors, and wanted them kept out of the city. And then, as an old man, he quietly sat down and learned Greek anyway. Even the loudest hater caved.\n\nThe trend went all the way to the top. Virgil wrote the Aeneid, Rome's national epic, by openly modeling it on Homer. The emperor Nero competed in Greek games and toured Greece like a superfan. Hadrian was so obsessed he grew a Greek philosopher's beard and poured money into rebuilding Athens. And Marcus Aurelius, master of the entire Roman world, wrote his private journal not in Latin but in Greek, because that was the language of serious thinking.\n\nThe poet Horace nailed it in a single line: captured Greece took her savage conqueror captive. Rome won every war on the battlefield and then handed its whole soul to the people it had beaten.",
-      "link": "https://nitter.net/AncientHistorry/status/2078913853203882238#m",
-      "date": "Sun, 19 Jul 2026 18:44:21 GMT"
-    },
-    {
-      "text": "True\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nSocialists under Stalin killed 20,000,000 people. \n\nUnder Mao 65,000,000\n\nThe National Socialist Party was **Socialist**\n\nAll told, socialists are responsible for 100,000,000+ deaths in the last century. \n\nThink about that. \n\nThey will gladly take 100 million more if given the chance. \n\nBecause they think they are justified.\n\nSocialism is the worst ideology ever conceived by man. \n\nIt is a form of religious extremism where the god is envy and worship is cruelty, justified by greed.\n\nIt has never \"worked\" and never will. \n\nWhen idiots like Hassan Piker espouse socialism, they should be humiliated ruthlessly and potentially criminally charged. \n\nSame with university professors. \n\nNever give it a single inch.\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2079073510568439975#m",
-      "link": "https://nitter.net/elonmusk/status/2079149795810152550#m",
-      "date": "Mon, 20 Jul 2026 10:21:54 GMT"
-    },
-    {
-      "text": "I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters.\nScientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-year-old artery.\nPublished five days ago in Nature Communications. Revel Pharmaceuticals, with Calico and the University of Colorado.\nHere's what they erased.\nSugar reacts with proteins in your body the same way heat browns bread — slowly, over a lifetime. It leaves behind a residue called CML, the most abundant advanced glycation end product in aging tissue. It welds itself onto collagen and elastin in your skin, your eye lens, and your arterial walls.\nTwo things follow. Your arteries stiffen. And CML latches onto a receptor called RAGE, which drives chronic inflammation — the exact fire I've been writing about for months as the engine of heart disease.\nSince the 1980s this damage was considered permanent. Your body has no enzyme to remove it. Every existing approach only slows new damage from forming. Nothing touched what was already there.\nSo they built an enzyme that doesn't exist in nature. They screened 45,000 protein structures, then ran five rounds of directed evolution across more than 500 million variants until they had CMLase — a molecular lawnmower that oxidizes the CML off the protein and restores the original, healthy lysine underneath.\nNot patched. Reversed.\nOver 70% cleared from elderly arterial tissue. Over 55% from elderly skin — below the levels found in 31-year-old skin. 45-78% in lens proteins. The CEO said they expected 20% and were floored.\nArterial stiffness drives systolic hypertension, heart failure, and stroke, and I have no drug that reverses it. I can slow the process. I cannot undo it. This paper says undoing it may be possible.\nThe caveats are real and I won't skip them. This was done on donated tissue in a dish, not in a living person. No functional data yet — we don't know if that artery got measurably more elastic. Delivering a large enzyme deep into human tissue is a hard, unsolved problem. Clinical trials are years away.\nBut something considered permanent for forty years just came off human tissue.\nWe spent a century learning to slow aging. Someone finally figured out how to erase it.\nThank you @theallinpod @friedberg @chamath @pesottas\n\n\nThe All-In Podcast (@theallinpod)\n\nFriedberg: New study shows enzyme reverses skin age from 70+ years to 31\n\nChamath: That’s a $2T market.\n\nDid Scientists Just Discover How to Reverse Skin Aging!?\n\n“CML is kind of the predominant molecule that gets formed in this extracellular matrix that's driving aging, and nothing breaks it down.\n\nSo these scientists set out to try and create an enzyme, an enzyme is a protein that breaks something down, that can break down CML.\n\nAnd so these guys kind of went out and they took the target, which is CML, and tried to figure out, ‘Okay, how do we actually degrade CML, clear that extracellular matrix, and reverse aging?’\n\nThey started to test it on the proteins that we would find in our body, casein, collagen, retinal proteins, which are in your eye, hemoglobin, and they were able to get rid of 52 to 97% of the CML, just degrade it away.\n\nAnd then they found several sites where they were able to degrade over 90%.\n\nAnd then they took actual human skin from elderly patients that had donated their skin, and they put this enzyme onto that skin, and they were able to eliminate 55% of the CML on the skin, basically reverse the skin's age down to the age of a 31-year-old, this is from greater than 70-year-old patients, just by putting this enzyme on the skin.\n\nAnd so it's kind of a groundbreaking demonstration of combination of AlphaFold, what's called directed evolution, where you change the order of the DNA that changes the structure of the protein to test different proteins, do high throughput screening, and ultimately make a novel protein that doesn't exist in nature today that can do something pretty profound for human health.”\n\nChamath:\n\n“It will be a trillion-dollar market. If you can create a cream…”\n\nFriedberg:\n\n“I mean, dude, if you could put this enzyme literally on your skin and have it absorb in…”\n\nChamath:\n\n“Game over. That alone is $2 trillion.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/theallinpod/status/2078334237481046412#m",
-      "link": "https://nitter.net/afshineemrani/status/2078891465145810993#m",
-      "date": "Sun, 19 Jul 2026 17:15:23 GMT"
-    },
-    {
-      "text": "An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!\n\nVideo",
-      "link": "https://nitter.net/sundarpichai/status/2078988716950065383#m",
-      "date": "Sun, 19 Jul 2026 23:41:50 GMT"
-    },
-    {
-      "text": "RT by @elonmusk: Image",
-      "link": "https://nitter.net/videosinfolder/status/2078766969877049810#m",
-      "date": "Sun, 19 Jul 2026 09:00:41 GMT"
-    },
-    {
-      "text": "Next Starship launch attempt on Friday\n\n\nSpaceX (@SpaceX)\n\nNow targeting to launch Starship’s thirteenth flight test  as early as Thursday, July 23 → spacex.com/launches/starship…\n\n\n\n\n\n— https://nitter.net/SpaceX/status/2078966109240262701#m",
-      "link": "https://nitter.net/elonmusk/status/2078971885488919010#m",
-      "date": "Sun, 19 Jul 2026 22:34:57 GMT"
-    },
-    {
-      "text": "I mean Thursday (duh)",
-      "link": "https://nitter.net/elonmusk/status/2079010090036641831#m",
-      "date": "Mon, 20 Jul 2026 01:06:46 GMT"
-    },
-    {
-      "text": "Try Grok 4.5!\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 🔥\n\nGrok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier.\n\nGrok keeps winning. 🏆\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2078920456682488189#m",
-      "link": "https://nitter.net/elonmusk/status/2078987522927972695#m",
-      "date": "Sun, 19 Jul 2026 23:37:05 GMT"
-    },
-    {
-      "text": "Back then she was a young 55 year old with crazy ideas\n\n\nKamala Harris (@KamalaHarris)\n\nPaper ballots are the smartest, safest way to ensure your vote is secure against attacks by foreign actors. Russia can’t hack a piece of paper like they can a computer. We introduced the Secure Elections Act to ensure our elections are safeguarded. We must be ready.\n\n\n\n— https://nitter.net/KamalaHarris/status/1112410982607974400#m",
-      "link": "https://nitter.net/adamcarolla/status/2078836217378975750#m",
-      "date": "Sun, 19 Jul 2026 13:35:51 GMT"
-    },
-    {
-      "text": "Grok is good at predictions\n\n\nX Freeze (@XFreeze)\n\nGrok accurately predicted that Spain would win the FIFA World Cup 🏆\n\nHere’s how it arrived at the prediction:\n\nBefore the 2026 FIFA World Cup even began, Grok picked Spain to become champion\n\nBack in April, it analyzed betting odds, prediction markets and supercomputer forecasts, concluding that Spain had the highest probability of winning\n\nMonths later...\n\nSpain lifted the World Cup trophy\n\nA great example of Grok combining multiple independent signals to identify the most likely outcome before the tournament even began\n\nGrok is once again proving exceptionally strong at prediction and forecasting\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2078972736454754757#m",
-      "link": "https://nitter.net/elonmusk/status/2078973008358555851#m",
-      "date": "Sun, 19 Jul 2026 22:39:25 GMT"
-    },
-    {
-      "text": "🇪🇸 🇪🇸 Congratulations Spain!! 🇪🇸 🇪🇸",
-      "link": "https://nitter.net/elonmusk/status/2078972489925812454#m",
-      "date": "Sun, 19 Jul 2026 22:37:21 GMT"
-    },
-    {
-      "text": "The @SpaceX team is amazing\n\n\nX Freeze (@XFreeze)\n\nStarlink’s progress in under seven years is totally insane\n\n2019 — The first dedicated Starlink launch carried 60 satellites  \n2020 — Wider public beta service began  \n2024 — The first Direct to Cell satellites launched, followed by the first commercial satellite-texting rollout  \n2025 — Direct to Cell expanded across more carriers, devices and markets  \n2026 — Starlink reached approximately 10.3 million subscribers across 164 countries, territories and other markets\n\nBy March 31, 2026, SpaceX had approximately 9,600 Starlink broadband and mobile satellites in low-Earth orbit\n\nDirect to Cell was already providing satellite-to-mobile texting and voice services to approximately 7.4 million monthly unique devices across roughly 30 countries\n\nWhat began with a single launch of 60 satellites is becoming a global communications layer connecting homes, businesses, aircraft, ships, government operations, rescue missions and ordinary smartphones\n\nSpaceX is building connectivity infrastructure for the entire planet\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2078966076847837378#m",
-      "link": "https://nitter.net/elonmusk/status/2078971746896449595#m",
-      "date": "Sun, 19 Jul 2026 22:34:24 GMT"
-    },
-    {
-      "text": "nitter.net/i/jf/soccer/league/mat…",
-      "link": "https://nitter.net/elonmusk/status/2078960515900940515#m",
-      "date": "Sun, 19 Jul 2026 21:49:46 GMT"
-    },
-    {
-      "text": "nitter.net/i/jf/soccer/league/mat…",
-      "link": "https://nitter.net/elonmusk/status/2078960011196141571#m",
-      "date": "Sun, 19 Jul 2026 21:47:46 GMT"
-    },
-    {
-      "text": "The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thousand in today's money. Right now you can see a face on the other side of the planet, in real time, for free.",
-      "link": "https://nitter.net/PeterDiamandis/status/2078903115248460118#m",
-      "date": "Sun, 19 Jul 2026 18:01:41 GMT"
     }
   ]
 }
