@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-21T16:25:42Z",
+  "updated_at": "2026-07-21T19:37:54Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+      "link": "https://nitter.net/karpathy/status/2079610838143623371#m",
+      "date": "Tue, 21 Jul 2026 16:53:55 GMT"
+    },
+    {
+      "text": "Backpropagation by hand ✍️ ~ 11 steps walkthrough below\n\nBackpropagation is the algorithm that actually trains a neural network, and it is where most people stop following along. It is not calculus you cannot do. It is matrix multiplication, working backward, one layer at a time.\n\nSo I drew and calculated one entirely by hand.\n\nGoal: push the loss gradient back through a 3-layer network and land on a new value for every weight and bias.\n\n= 1. Given =\n\nA 3-layer perceptron, an input X, predictions Ypred = [0.5, 0.5, 0], and the truth Ytarget = [0, 1, 0].\n\n= 2. Backprop gradient cells =\n\nLet us draw empty cells for every gradient we are about to compute. The shape of the answer comes first.\n\n= 3. Layer 3 softmax =\n\nWe get dL/dz3 straight from Ypred minus Ytarget = [0.5, -0.5, 0]. No chain rule needed, and that shortcut is the whole reason softmax and cross-entropy are paired.\n\n= 4. Layer 3 weights and biases =\n\nLet us multiply dL/dz3 by [a2 | 1]. One multiplication gives the gradient for W3 and b3 together.\n\n= 5. Layer 2 activations =\n\nWe multiply dL/dz3 by W3 to get dL/da2. The gradient moves back across a layer the same way the signal moved forward.\n\n= 6. Layer 2 ReLU =\n\nLet us pass it through the gate: keep the gradient where the activation was positive, zero it everywhere else.\n\n= 7. Layer 2 weights and biases =\n\nWe multiply dL/dz2 by [a1 | 1]. The same figure as step 4, one layer up.\n\n= 8. Layer 1 activations =\n\nLet us multiply dL/dz2 by W2.\n\n= 9. Layer 1 ReLU =\n\nWe apply the same gate again, now on a1.\n\n= 10. Layer 1 weights and biases =\n\nLet us multiply dL/dz1 by [x | 1], and every weight in the network now has a gradient.\n\n= 11. Update =\n\nWe subtract, and the network has learned. In practice a learning rate scales this step.\n\nThe gradients:\ndL/dz3 = [0.5, -0.5, 0]\ndL/da1 = [1, -2, 2, -1]\ndL/dz1 = [0, -2, 2, -1]\n\nThe takeaway: matrix multiplication is all you need. Just like the forward pass, backpropagation is matrix multiplications end to end. You can do every one by hand, slowly and imperfectly, which is exactly why a GPU's ability to do them fast mattered so much to deep learning.\n\n💾 Save this post!\n\nVideo",
+      "link": "https://nitter.net/ProfTomYeh/status/2079208495094677511#m",
+      "date": "Mon, 20 Jul 2026 14:15:09 GMT"
+    },
+    {
+      "text": "Someone tipped me off to a website where it compiles all the real ratings for movies on Rotten Tomatoes and compares it to the fake push ratings they try to portray as real ratings. Really eye opening. \n\nWill link the website in first reply but it's called PopcornGap.\n\n\n\n\nAesthetica (@Anc_Aesthetics)\n\n\"Rotten Tomatoes says The Odyssey has a 97% audience rating. The raw JSON data proves it's actually 56%\"\n\nI was right and bad actors were still able to brigade my post and add a fake community note. Just get rid of the entire community notes program it's just used by bad actors to demonetize popular posts they don't like.\n\n\n\n\n\n— https://nitter.net/Anc_Aesthetics/status/2079338474486804964#m",
+      "link": "https://nitter.net/Anc_Aesthetics/status/2079476290394984934#m",
+      "date": "Tue, 21 Jul 2026 07:59:17 GMT"
+    },
+    {
+      "text": "Tesla's Robotaxi/ride-hailing service is now available in 7 areas:\n\n• Orlando: Unsupervised Model Y rides only (new)\n• Miami: Unsupervised Model Y rides only\n• Tampa: Unsupervised Model Y rides only (new)\n• Dallas: Unsupervised Model Y rides only\n• Houston: Unsupervised Model Y rides only\n• Austin: Mix of Unsupervised & safety monitor Model Y rides\n• Bay Area: Safety monitor Model Y rides only",
+      "link": "https://nitter.net/SawyerMerritt/status/2079571784760746359#m",
+      "date": "Tue, 21 Jul 2026 14:18:44 GMT"
+    },
+    {
+      "text": "And Miami\n\n\nTesla Robotaxi (@robotaxi)\n\nRobotaxi now in Tampa & Orlando!\n\n\n\n\n\n\n\n— https://nitter.net/robotaxi/status/2079551968725303500#m",
+      "link": "https://nitter.net/elonmusk/status/2079606389631332659#m",
+      "date": "Tue, 21 Jul 2026 16:36:15 GMT"
+    },
     {
       "text": "𝕏Money with friends is fun <3\n\nCongrats to all those that got access today!",
       "link": "https://nitter.net/paranoidream/status/2079360764213874980#m",
@@ -77,31 +102,6 @@
       "text": "Yes\n\n\nPenny2x (@imPenny2x)\n\nElon has repeated this over and over. \"Everything will be free\". The pickup is slow and few take him serious because humans are not good at visualizing exponential growth.\n\nThe truth is maybe not EVERYTHING will be free, like you can't own the entire galaxy for example. Nobody can do that. But any single thing that you can own now, up to and including things as big as jets and boats. They will be free to use if not free to own when we more efficiently harness solar power and master automation of both intelligent and physical labor.\n\nThe penny has already started doubling. If you know that story then you know how it ends. Amazing abundance.\n\n\n\n— https://nitter.net/imPenny2x/status/2079355947471053064#m",
       "link": "https://nitter.net/elonmusk/status/2079420377604759584#m",
       "date": "Tue, 21 Jul 2026 04:17:06 GMT"
-    },
-    {
-      "text": "Today we're announcing the completion of one of the largest engineering projects in the company's history:\n\nWe rebuilt the X Android app from scratch\n\nIt's faster, smoother and more reliable. But most of all: it will enable us to build new features at lightning speed.\n\nVideo",
-      "link": "https://nitter.net/nikitabier/status/2079273272274026718#m",
-      "date": "Mon, 20 Jul 2026 18:32:33 GMT"
-    },
-    {
-      "text": "Grok 4.5 is really good at React.\n\nIt's also very affordable and token efficient!",
-      "link": "https://nitter.net/leerob/status/2079240370576146875#m",
-      "date": "Mon, 20 Jul 2026 16:21:49 GMT"
-    },
-    {
-      "text": "Grok for Excel is now live\n\n\nGrok (@grok)\n\nGrok for Excel is live.\n\nUse Grok 4.5 to build financial models, analyze market data, and generate charts and graphs.\n\nTry it now x.ai/grok/excel\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2079233333893185876#m",
-      "link": "https://nitter.net/elonmusk/status/2079261553136734239#m",
-      "date": "Mon, 20 Jul 2026 17:45:59 GMT"
-    },
-    {
-      "text": "• Starship To “Collapse Cost” of AI Compute & Global Communications\n\nVideo",
-      "link": "https://nitter.net/stevenmarkryan/status/2079072559673577619#m",
-      "date": "Mon, 20 Jul 2026 05:15:00 GMT"
-    },
-    {
-      "text": "Today is the 57th anniversary of Apollo 11 Moon Landing.\n\nIn 1969: most powerful technology on Earth = Apollo 11.\nIn 2026: most powerful technology on Earth = 2-trillion-parameter AI.\n\nWhich one changes civilization more?",
-      "link": "https://nitter.net/PeterDiamandis/status/2079196565537993102#m",
-      "date": "Mon, 20 Jul 2026 13:27:45 GMT"
     }
   ]
 }

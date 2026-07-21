@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-21T16:25:44Z",
-  "count": 20,
+  "updated_at": "2026-07-21T19:37:54Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Designated spot selection (and improved parking memory) coming in a future Full Self-Driving release.\n\nWe'd tentatively guess within the next 1-2 months. Not too far from now.\n\n\nElon Musk (@elonmusk)\n\nIt’s coming soon\n\n\n\n— https://nitter.net/elonmusk/status/2079640204894404849#m",
+      "link": "https://nitter.net/teslascope/status/2079641930053661119#m",
+      "date": "Tue, 21 Jul 2026 18:57:28 GMT"
+    },
+    {
+      "text": "Robotaxi now in Tampa & Orlando!",
+      "link": "https://nitter.net/robotaxi/status/2079551968725303500#m",
+      "date": "Tue, 21 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "text": "Article\n\n\n\nSummer Release 2026\n\n2026 Summer Release rolling out shortly – here&apos;s what to expect\n \nMore Grok Commands\n \nGrok can now make phone calls, search and play music, adjust climate, open the glovebox, and answer questions",
+      "link": "https://nitter.net/Tesla/status/2079584176182087827#m",
+      "date": "Tue, 21 Jul 2026 15:07:59 GMT"
+    },
     {
       "text": "We've seen a number of posts on X from AI3 vehicle owners receiving V14 Lite via 2026.20.6.10, who were not in the initial wave.\n\nAt this time, this second wave appears to be very small (~<0.2% of eligible vehicles), and all vehicles have been notified via the Tesla mobile app.\n\n\n🤖FSD & Chill⚡️ (@MateenOmair)\n\nV14 Lite INCOMING!!!!! 🤩🤩 Canadian Model 3 HW3 (Ryzen) downloading 2026.20.6.10. !! 🇨🇦🇨🇦🇨🇦\n\nLetzzzz GOOOOO!! It’s officially rollin out! \n\n@Tesla_AI @teslascope @wholemars @SawyerMerritt @DillonLoomis\n\n\n\n\n\n\n\n— https://nitter.net/MateenOmair/status/2079455387921547642#m",
       "link": "https://nitter.net/teslascope/status/2079456314653356448#m",
@@ -82,26 +97,6 @@
       "text": "The feature \"Start Self-Driving from Park\" has a new addition to its notes in 2026.20.6.10:\n\nBrake Confirm requires the driver to press and release the brake pedal before FSD (Supervised) can be activated. When Brake Confirm is disabled, pressing the button will allow Self-Driving to apply the brakes and engage FSD (Supervised).\n\nIf driver detection requirements are not met or if FSD (Supervised) does not detect a driver, you will be required to press and release the brake pedal to confirm. You can enable Brake Confirm in Self-Driving > Brake Confirm.\n\n\nTeslascope (@teslascope)\n\nThe following feature is included: Start Self-Driving from Park\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2079080926248603716#m",
       "link": "https://nitter.net/teslascope/status/2079090066874597628#m",
       "date": "Mon, 20 Jul 2026 06:24:34 GMT"
-    },
-    {
-      "text": "V14 Lite has resumed its rollout via 2026.20.6.10, after three weeks of no activity!\n\nKeep an eye out for additional waves.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.10 on Model 3 Performance (2019) in California, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.10 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.10.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079080903431635297#m",
-      "link": "https://nitter.net/teslascope/status/2079085784800678328#m",
-      "date": "Mon, 20 Jul 2026 06:07:33 GMT"
-    },
-    {
-      "text": "Right on the cusp, but we were spot on with our speculation for rollout delays from weeks ago. 👍\n\n\nTeslascope (@teslascope)\n\nWe’ve been confidently sharing our expectations on the V14 Lite launch for months, and the current deployment matches what we’ve echoed.\n\nAs with any major release, expect very little movement after the initial wave for 1-3 weeks. More waves soon, but may require point releases.\n\n\n\n— https://nitter.net/teslascope/status/2072448637519769623#m",
-      "link": "https://nitter.net/teslascope/status/2079086208039448612#m",
-      "date": "Mon, 20 Jul 2026 06:09:14 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.20.6.10 on Model 3 Performance (2019) in California, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.10 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.10.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2079080903431635297#m",
-      "date": "Mon, 20 Jul 2026 05:48:09 GMT"
-    },
-    {
-      "text": "The following feature is included: FSD (Supervised) v14 Lite\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079080963129131212#m",
-      "date": "Mon, 20 Jul 2026 05:48:23 GMT"
     }
   ]
 }
