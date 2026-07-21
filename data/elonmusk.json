@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-21T19:37:54Z",
+  "updated_at": "2026-07-21T22:06:38Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "We've doubled usage limits for all individual and teams plans!\n\nThese limits apply to Grok, Composer, and any new Cursor models.",
+      "link": "https://nitter.net/cursor_ai/status/2079615536963485815#m",
+      "date": "Tue, 21 Jul 2026 17:12:36 GMT"
+    },
+    {
+      "text": "Enough with everyone trying to be an influencer. We need electricians and mechanics.",
+      "link": "https://nitter.net/engineers_feed/status/2079639690567729647#m",
+      "date": "Tue, 21 Jul 2026 18:48:34 GMT"
+    },
+    {
+      "text": "Children are the future\n\n\nvittorio (@IterIntellectus)\n\nthe new State of Fertility Report for the US just came out and it’s a real blackpill \n\nthe main findings are basically:  \n- the current fertility decline is worse than any other \n- if this keeps going, US population will start declining in less than a generation, much sooner than most forecasts assumed \n- americans still want about 2.4 children, but are having fewer than 1.6 \n- culture matters A LOT. supportive friends, people around you and even celebrities affect how many children people want \n- if policymakers actually want to change this, it will require a lot of money and serious interventions  \n\npeople often say america was built by immigrants, but around 80% of all the people who have ever lived in america were born there and without american children there's no america left  \nyou can use immigration to support population growth for a while, but no country can survive indefinitely if the people already there stop having children\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/IterIntellectus/status/2079597573711495494#m",
+      "link": "https://nitter.net/elonmusk/status/2079660702592086188#m",
+      "date": "Tue, 21 Jul 2026 20:12:04 GMT"
+    },
     {
       "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
       "link": "https://nitter.net/karpathy/status/2079610838143623371#m",
@@ -87,21 +102,6 @@
       "text": "The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?",
       "link": "https://nitter.net/yunta_tsai/status/2079389241021501447#m",
       "date": "Tue, 21 Jul 2026 02:13:22 GMT"
-    },
-    {
-      "text": "Try Grok Build!\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 is leading on actual professional work\n\nIn Snorkel AI’s benchmark, Grok 4.5 combined with Grok Build was tested against GPT 5.5 and Claude Opus 4.8 across nearly 2,000 expert-created workplace tasks involving real documents, spreadsheets, presentations and professional analysis\n\nGrok outperformed both GPT 5.5 and Claude Opus 4.8 overall, while leading by even wider margins across several high-judgment fields:\n\n• Education: 58%\n• Legal work: 40%\n• Quality assurance: 37%\n• Healthcare: 35%\n\nIt also recorded the lowest failure rate across every error category Snorkel measured, including missing analysis, incorrect recommendations, poor structure and missing sources\n\nThe most important result is not simply that Grok completed more tasks\n\nIt produced better professional deliverables, made fewer critical mistakes and provided more specific, actionable recommendations where competing models often returned generic work\n\nGrok 4.5 is proving that real-world usefulness matters more than benchmark scores alone\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2079358164957606331#m",
-      "link": "https://nitter.net/elonmusk/status/2079420891163680790#m",
-      "date": "Tue, 21 Jul 2026 04:19:08 GMT"
-    },
-    {
-      "text": "Watch 4K streaming video while Cybercab takes you anywhere you want\n\n\nTesla (@Tesla)\n\nStarlink V5 directly integrated in Cybercab\n\n\n\n\n\n— https://nitter.net/Tesla/status/2079325767260139962#m",
-      "link": "https://nitter.net/elonmusk/status/2079420769302397401#m",
-      "date": "Tue, 21 Jul 2026 04:18:39 GMT"
-    },
-    {
-      "text": "Yes\n\n\nPenny2x (@imPenny2x)\n\nElon has repeated this over and over. \"Everything will be free\". The pickup is slow and few take him serious because humans are not good at visualizing exponential growth.\n\nThe truth is maybe not EVERYTHING will be free, like you can't own the entire galaxy for example. Nobody can do that. But any single thing that you can own now, up to and including things as big as jets and boats. They will be free to use if not free to own when we more efficiently harness solar power and master automation of both intelligent and physical labor.\n\nThe penny has already started doubling. If you know that story then you know how it ends. Amazing abundance.\n\n\n\n— https://nitter.net/imPenny2x/status/2079355947471053064#m",
-      "link": "https://nitter.net/elonmusk/status/2079420377604759584#m",
-      "date": "Tue, 21 Jul 2026 04:17:06 GMT"
     }
   ]
 }
