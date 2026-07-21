@@ -1,8 +1,13 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-07-20T22:04:06Z",
+  "updated_at": "2026-07-21T03:18:02Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "BREAKING: SpaceXAI has announced the Grokathon, and applications are now open. \n\n• Selected builders will gather in San Francisco on August 8 for a 12-hour AI hackathon.\n• Participants will receive exclusive access to the latest Grok models and X APIs.\n• Meet the team behind Grok 4.5.\n• Build and ship real AI applications in just 12 hours.\n• Event prizes will be announced on-site.\n\nApplications close on July 28 and are being reviewed on a rolling basis.\n\nA unique opportunity for developers to build with frontier AI alongside the Grok team.\n\nx.ai/grokathon",
+      "link": "https://nitter.net/teslaownersSV/status/2079364750480388270#m",
+      "date": "Tue, 21 Jul 2026 00:36:03 GMT"
+    },
     {
       "text": "Cybercab is everywhere\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2079325395598680566#m",
@@ -97,11 +102,6 @@
       "text": "BREAKING: Zimbabwe is expanding digital education with Starlink in rural schools. 🇿🇼\n\n• Swereki Secondary School and Jalukanga Primary School have received Starlink internet, new science laboratories, and improved water infrastructure.\n• Students say reliable internet will help them conduct research, strengthen their studies, and access better learning resources.\n• Government officials say more rural schools will receive Starlink as part of a nationwide effort to expand digital education.\n• The initiative supports Zimbabwe's Heritage-Based Education 5.0 curriculum by bringing modern technology to underserved communities.\n\nSource: ZBC NEWS",
       "link": "https://nitter.net/teslaownersSV/status/2078909341860868540#m",
       "date": "Sun, 19 Jul 2026 18:26:26 GMT"
-    },
-    {
-      "text": "BREAKING: Starlink has begun assigning local Iraqi IP addresses to users in Iraq. 🇮🇶\n\n• The update follows Starlink's recent approval to operate in the country.\n• Previously, Iraqi users were routed through Europe using Bulgarian IP addresses.\n• Local IP routing is expected to reduce latency and improve overall network performance.\n\nAnother step as Starlink continues expanding and localizing its global network.\n\nVideo",
-      "link": "https://nitter.net/teslaownersSV/status/2078908221910348240#m",
-      "date": "Sun, 19 Jul 2026 18:21:59 GMT"
     }
   ]
 }
