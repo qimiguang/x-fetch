@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-22T03:15:24Z",
+  "updated_at": "2026-07-22T11:12:44Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Another wave of V14 Lite (for AI3) + V14.3.6 (for AI4) via 2026.20.6.11 went out within the past half an hour!\n\n\nDumpsterFire (@DumpsterFireIL)\n\nYEEESSSSS @teslascope\n\n\n\n\n\n— https://nitter.net/DumpsterFireIL/status/2079801593650729466#m",
+      "link": "https://nitter.net/teslascope/status/2079807401772150854#m",
+      "date": "Wed, 22 Jul 2026 05:55:00 GMT"
+    },
+    {
+      "text": "Finytes (@finytes)\n\nAnother wave! @teslascope\n\n\n\n\n\n— https://nitter.net/finytes/status/2079806835150795157#m",
+      "link": "https://nitter.net/teslascope/status/2079807476938215803#m",
+      "date": "Wed, 22 Jul 2026 05:55:18 GMT"
+    },
     {
       "text": "Surprise! This update includes @Tesla Full Self-Driving V14.3.6 for AI4 and V14 Lite for AI3.\n\nThis is the update you're looking for.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079689907262398709#m",
       "link": "https://nitter.net/teslascope/status/2079693653812093300#m",
@@ -92,16 +102,6 @@
       "text": "🚨 Important PSA regarding 2026.20.200.1 (if originating from a build with Full Self-Driving V14.3 or later).\n\n\nTeslascope (@teslascope)\n\nThis is a very rare occasion (and perhaps the first) where we are actively suggesting Tesla owners to NOT install this update.\n\nInstalling 2026.20.200.1 will also wipe and disable Full Self-Driving streaks.\n\nIf and when there is additional information, we will share it here.\n\n\n\n— https://nitter.net/teslascope/status/2079365625059910014#m",
       "link": "https://nitter.net/teslascope/status/2079366178494124200#m",
       "date": "Tue, 21 Jul 2026 00:41:44 GMT"
-    },
-    {
-      "text": "Here to answer any and all questions that we can, otherwise, more information can be found in the quoted post above.",
-      "link": "https://nitter.net/teslascope/status/2079366457964814359#m",
-      "date": "Tue, 21 Jul 2026 00:42:50 GMT"
-    },
-    {
-      "text": "Specifically, we believe the rollout of 2026.20.200.1 was not intentional, given that drivers are being reverted from Full Self-Driving V14.3.4 back to V14.2.2.5.\n\nFrom all appearances, this appears to be an erroneous rollout and that it WAS meant to be a factory build.\n\n\nJoey (@JoeyV1117)\n\nSame thing happened to me @teslascope what’s going on? I took delivery on June 5th.\n\n\n\n\n\n\n\n— https://nitter.net/JoeyV1117/status/2079358351729729755#m",
-      "link": "https://nitter.net/teslascope/status/2079364947897893040#m",
-      "date": "Tue, 21 Jul 2026 00:36:50 GMT"
     }
   ]
 }
