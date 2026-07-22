@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-22T19:26:39Z",
+  "updated_at": "2026-07-22T22:08:17Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Try out Grok Build!\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\ntetsuo (@tetsuoai)\n\nThis is insanely cool. Set this up in Grok Build!\n\nUnity shipped a free terminal Unity CLI for coding agents, CI, and custom tooling. MCP stays supported, the CLI includes MCP Mode for existing MCP agents, and Unity says both the CLI and MCP are free with no concurrency limits on the MCP server.\n\nDan got Grok 4.5 via Grok Build to install the CLI, build a 3D scene, and export a video.\n\n\"Same session shipped a playable macOS Island Explorer with Poly Haven CC0 trees, rocks, and cliffs, Crest FFT ocean with shoreline foam, irregular hills, grounded props, FPS walk, and a half-size performance pass when the scene got heavy.\"\n-- Daniel Farinax\n\n\n\n— https://nitter.net/tetsuoai/status/2080038493594734780#m",
+      "link": "https://nitter.net/elonmusk/status/2080049853036728541#m",
+      "date": "Wed, 22 Jul 2026 21:58:25 GMT"
+    },
+    {
+      "text": "France’s Transport Minister says Tesla FSD is not yet safe enough to be approved in its current form.\n\nBut in reality, Tesla FSD is safer than human driving.\n\n• 12.1B+ miles driven with FSD\n• 4.5B+ city miles driven\n• 7x fewer major collisions than the U.S. average\n• 7x fewer minor collisions\n• 5x fewer collisions on non-highway roads\n• Improves U.S. road safety by over 80%, reducing collisions caused by human error\n• 32,000+ lives potentially saved per year\n• 1,900,000+ injuries could potentially be avoided per year\n• Tesla vehicles have earned 5-star safety ratings from NHTSA, Euro NCAP and ANCAP.\n\nVideo",
+      "link": "https://nitter.net/cb_doge/status/2079962763041136691#m",
+      "date": "Wed, 22 Jul 2026 16:12:21 GMT"
+    },
+    {
+      "text": "Tesla Earnings Call\n\n\nTesla (@Tesla)\n\nQ2 2026 Earnings Call  nitter.net/i/broadcasts/1DxLddLml…\n\nLink\n\n\n\nTesla\n\nQ2 2026 Earnings Call\nhttps://nitter.net/i/broadcasts/1DxLddLmlEvxm\n\n\n\n\n— https://nitter.net/Tesla/status/2079959046799692043#m",
+      "link": "https://nitter.net/elonmusk/status/2080048685522837664#m",
+      "date": "Wed, 22 Jul 2026 21:53:46 GMT"
+    },
+    {
+      "text": "Tesla shareholder update underway right now!\n\n\nTesla (@Tesla)\n\nQ2 Shareholder Update → ir.tesla.com\n\nHighlights\n– Cybercab began production at Gigafactory Texas\n\n– Tesla Semi remains on track for volume production this year at our new factory in Nevada\n\n– Making continued progress with battery pack capacity expansion (the main limiting factor to near-term vehicle production volume increase)\n\n– Megafactory Texas is nearing completion (start of production planned for this year)\n\n– More customers are now opting to subscribe to FSD at the time of vehicle purchase!\n\n– Robotaxi rollout continued in the US. Now live in 7 major metros\n\n– Construction of Optimus at Fremont Factory began after decommissioning the Model S & X lines. Planned production later this year\n\nFrom here, there remains much hard work as we aim to revolutionize transportation, energy and productivity through our leading real-world AI. Scaling will be non-linear and we are focused on long-term value creation.\n\nWe’ve never been more optimistic about the future.\n\nAutomotive\n– Record deliveries in several markets: South Korea, Australia, Colombia, Japan, Taiwan, Thailand, Portugal, the Philippines, Chile, Slovenia & Lithuania\n\n– We launched the Model YL in the US in July and have seen a positive response from customers\n\nEnergy generation and storage\n– Record energy storage deployments in EMEA, supported by record deployments from Megafactory Shanghai, which continues to ramp production\n\n– On track to begin production of Megapack 3 & Megablock this year at our new Megafactory Texas\n\n– Powerwall 3P (three-phase) is now available in Germany and is designed to meet the power needs of German homes with a single unit\n\nRobotics\n– Installing the first-generation lines for Optimus at Fremont Factory, where we expect to start production soon\n\n– The initial Optimus builds will be used in our Optimus Academy for training data collection and further functionality development\n\n– Additionally, we continued site development at Gigafactory Texas with building construction now in full swing\n\nAI Training Compute\n– More than doubled our onsite compute in Texas (in terms of MW of compute) during the first half of 2026\n\n– Cortex 2 supports the development of both vehicle and humanoid robot autonomy software & will ramp further over the rest of the year\n\nBattery\n– Ramping new battery & material factories, including vehicle pack capacity in Berlin, cathode material production and lithium refining in Texas and LFP cells in Nevada for our energy storage products\n\n– Increasing production of 4680 cells to support ramping Cybercab & Tesla Semi plus increased production of Model Y\n\nOther Supporting Infrastructure\n– Added over 2,400 net new Supercharging stalls, growing the network by 17% year-over-year\n\nAI Software\n– Started rolling out FSD v14 lite to early-access customers in the US & South Korea with AI3 hardware\n\nThis software build distills the driving behavior from AI4’s v14 series into both the camera & compute configuration of AI3, bringing destination options & speed profiles. It also addresses challenging driving scenarios with improved proactive & reactive responsiveness\n\nAI Inference Compute\n– Making progress on construction & equipment procurement for our semiconductor fab in Austin\n\nAutomotive and Other Software\n– Rolled out Summer Release:\nSelf-Driving stats are now available in the mobile app\n\nGrok can make phone calls, search & play music, and adjust climate controls, among other things\n\nAutomatic Navigation expands beyond home & work to support any destination based on personal habits and schedule\n\nRobotaxi\n– Started production of Cybercab, our purpose-built autonomous EV designed to be the workhorse of our Robotaxi fleet\n\n– Began offering employee rides in Cybercabs on our GFTX campus in July\n\n– Preparing for expansion of our Robotaxi service to additional US metros: testing, permitting & first responder training\n\n– Expanded unsupervised rides to the entire Austin metro area & launched unsupervised rides in Miami, Orlando & Tampa in July\n\nFSD Supervised\n– Record net new subscriptions in Q2\n\n– Record FSD attach rates in North America, with over half of new deliveries including FSD subscriptions\n\n– Received additional approvals in Lithuania, Estonia, Denmark & Belgium, with customers in these countries driving over 50 million kilometers (31 million miles) on FSD as of July\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/Tesla/status/2080021924072366329#m",
+      "link": "https://nitter.net/elonmusk/status/2080048415443157502#m",
+      "date": "Wed, 22 Jul 2026 21:52:42 GMT"
+    },
+    {
+      "text": "Jetzt aufgrund des großen medialen Interesses auch in Englisch, was da gestern im Wahlausschuss passiert ist:\n\nVideo",
+      "link": "https://nitter.net/Martin_Sichert/status/2079937641722650669#m",
+      "date": "Wed, 22 Jul 2026 14:32:31 GMT"
+    },
+    {
+      "text": "Elon Musk is not merely building companies\n\nHe is building the infrastructure humanity needs to move entire civilization forward\n\n• SpaceX — making life multiplanetary\n• Tesla — accelerating sustainable energy, autonomy and robotics\n• 𝕏 — defending free speech and protecting the global town square\n• SpaceXAI— pursuing truth and understanding the universe\n• Starbase — building the launch gateway to humanity’s multiplanetary future\n• Starlink — connecting humanity everywhere, from the world’s largest cities to its most remote regions\n• The Boring Company — building three-dimensional transportation networks for three-dimensional cities\n• Neuralink — restoring communication, mobility and human capability\n\nDifferent companies, different missions, one goal\n\nOne man pushing every frontier forward\n\nElon Musk has dedicated his entire life to expanding the boundaries of what humanity can achieve\n\nElon is on Team Humanity",
+      "link": "https://nitter.net/XFreeze/status/2080023521653354730#m",
+      "date": "Wed, 22 Jul 2026 20:13:47 GMT"
+    },
     {
       "text": "Zero stories is a low number …\n\n\nEnd Wokeness (@EndWokeness)\n\n3 people were just executed in St. Paul, MN by Tsegaab Binessu. Race WAS a motive.\n\n0 AP stories about the executions\n0 PBS stories about the executions\n0 NYT stories about the executions \n0 NPR stories about the executions \n0 WSJ stories about the executions\n0 BBC stories about the executions\n0 CNN stories about the executions\n0 WaPo stories about the executions \n0 Reuters stories about the executions\n0 MSNBC stories about the executions\n\n\n\n\n\n\n\n— https://nitter.net/EndWokeness/status/2079957617384816902#m",
       "link": "https://nitter.net/elonmusk/status/2079984441179684961#m",
@@ -72,36 +102,6 @@
       "text": "Try Workflows on Grok Build\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nTech Dev Notes (@techdevnotes)\n\nGrok Build now has Workflows feature\n\nWorkflows can be created with /create-workflow\n\nThey're for multi-agent pipelines you want to run repeatedly with a fixed structure\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2079663899347939809#m",
       "link": "https://nitter.net/elonmusk/status/2079842345668022641#m",
       "date": "Wed, 22 Jul 2026 08:13:51 GMT"
-    },
-    {
-      "text": "Grok 4.5 is outstanding at writing + being direct.\n\nI'm constantly telling other models to \"be concise\" and even so they rarely explain things as clearly and succinctly as this (me asking about virtual memory).\n\nWonder if training on X dot com has anything to do with it.",
-      "link": "https://nitter.net/BenjDicken/status/2079570418869137753#m",
-      "date": "Tue, 21 Jul 2026 14:13:19 GMT"
-    },
-    {
-      "text": "The numbers are in: 1.7B+ global viewers tuned in to @YouTube to watch World Cup-related videos during the tournament. ⚽️ It was our most viewed World Cup ever on YouTube, bringing lifetime views of related content to over 200B!\n\n\nNeal Mohan (@nealmohan)\n\nWhat an unforgettable @FIFAWorldCup!⚽🔥 \n Here’s how the world followed the tournament on @YouTube:\n📺 1.7B+ unique global viewers and 200B+ lifetime views of World Cup related content\n🔥 2.5B+ views from our creator cohort who brought iconic commentary and perspectives throughout the tournament\n🏆 10M+ live views for our first Creator Cup\n\nCongrats on an incredible championship, Spain! And a huge thanks to our partners, creators and teams at YouTube who made the fan experience unlike any other.\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/nealmohan/status/2079744131556085817#m",
-      "link": "https://nitter.net/sundarpichai/status/2079782148605641102#m",
-      "date": "Wed, 22 Jul 2026 04:14:39 GMT"
-    },
-    {
-      "text": "𝕏 just rolled out custom video thumbnails on iOS\n\nCreators can now choose exactly how their videos appear in the timeline\n\nYou can:\n•   Upload a custom thumbnail\n•   Pick any frame from your video\n•   Edit it using 𝕏’s built‑in photo editor\n\nA thumbnail is often the first thing people notice.\nGiving creators control over it will make a meaningful difference in clicks, views, and overall engagement\n\nThis is another important update that makes publishing videos on 𝕏 much more creator‑friendly\n\n\n\n\nCreators (@XCreators)\n\nThumbnails are here.\n\nUpload an image or pick any frame from your video, then customize it with our photo editor. Now live on iOS.\n\n\n\n\n\n— https://nitter.net/XCreators/status/2079626925291532484#m",
-      "link": "https://nitter.net/XFreeze/status/2079658668279423360#m",
-      "date": "Tue, 21 Jul 2026 20:03:59 GMT"
-    },
-    {
-      "text": "We are in the Singularity\n\n\nwill depue (@willdepue)\n\none of the craziest things i’ve read in uhhhh….  *checks notes*   3 days. welcome to the singularity i guess \n\n07/21/26 — Codex escapes eval and attacks Hugging Face\n07/20/26 — Jacobian counterexample \n05/20/26 — Unit-distance conjecture\n04/14/26 — Erdős #1196 primitive sets\n04/07/26 — Glasswing finds tons of zero-days\n\n\n\n— https://nitter.net/willdepue/status/2079718977945928108#m",
-      "link": "https://nitter.net/elonmusk/status/2079839398959697982#m",
-      "date": "Wed, 22 Jul 2026 08:02:08 GMT"
-    },
-    {
-      "text": "It could have been your daughter\n\n\nRupert Lowe MP (@RupertLowe10)\n\nI have written to the chair of the Nursing and Midwifery Council about their scandalous decision to publicly suspend Restore Britain's Greater Manchester mayoral candidate days before the election over social media posts.\n\nA post about the Pakistani gangs who raped his daughter.\n\n\n\n\n\n— https://nitter.net/RupertLowe10/status/2079634820037034347#m",
-      "link": "https://nitter.net/elonmusk/status/2079831399969042845#m",
-      "date": "Wed, 22 Jul 2026 07:30:21 GMT"
-    },
-    {
-      "text": "Another day and another invader jailed for sex attacks on our people. \n\nAbdul Barkeeh Salihi, an Afghan living in a taxpayer funded hotel, sexually assaulted a 42yr old woman in London.\n\nA few hours later he sexually assaulted a 14yr old girl who was on a Harry Potter trip, the family fled and were pursued by Abdul!\n\nGet them all out!",
-      "link": "https://nitter.net/TRobinsonNewEra/status/2079581070043795860#m",
-      "date": "Tue, 21 Jul 2026 14:55:38 GMT"
     }
   ]
 }
