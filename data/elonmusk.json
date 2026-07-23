@@ -1,8 +1,58 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-23T03:22:12Z",
+  "updated_at": "2026-07-23T11:13:37Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default",
+      "link": "https://nitter.net/BHolmesDev/status/2080056695477129649#m",
+      "date": "Wed, 22 Jul 2026 22:25:36 GMT"
+    },
+    {
+      "text": "SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents",
+      "link": "https://nitter.net/techdevnotes/status/2079868339002687524#m",
+      "date": "Wed, 22 Jul 2026 09:57:08 GMT"
+    },
+    {
+      "text": "Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions!\n\nIt can do so, because, FSD is trained on corner cases extracted from more than a 1000 lifetimes of driving. It has learnt to accurately predict the probability of collision even for crazy cases such others running red lights, swerving into us, kids running into roads and such. Do watch the full video for some highlights.\n\nA no-brainer way to significantly improve your and your family's safety is to get a Tesla with FSD. It also completely takes the stress out of driving. Not saying this just because I work at Tesla, rather that it's genuinely a great product already and is continuing to get even better.\n\n\nTesla (@Tesla)\n\nFSD Supervised helps save lives\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2080087667119898780#m",
+      "link": "https://nitter.net/aelluswamy/status/2080149830467547297#m",
+      "date": "Thu, 23 Jul 2026 04:35:41 GMT"
+    },
+    {
+      "text": "0 notable incidents across over 380,000 miles traveled by Robotaxi",
+      "link": "https://nitter.net/Tesla/status/2080054990337622379#m",
+      "date": "Wed, 22 Jul 2026 22:18:49 GMT"
+    },
+    {
+      "text": "FSD Supervised helps save lives\n\nVideo",
+      "link": "https://nitter.net/Tesla/status/2080087667119898780#m",
+      "date": "Thu, 23 Jul 2026 00:28:40 GMT"
+    },
+    {
+      "text": "Cool\n\n\nGregor Zunic (@gregpr07)\n\nGrok Build, with the Browser Use CLI, outperforms Codex and Claude Code at browser tasks\n\n\n\n\n\n— https://nitter.net/gregpr07/status/2080028066160775670#m",
+      "link": "https://nitter.net/elonmusk/status/2080170375363891250#m",
+      "date": "Thu, 23 Jul 2026 05:57:19 GMT"
+    },
+    {
+      "text": "Grok Build gets better every day\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got major update, giving developers more control over AI tools, better account visibility, built-in diagnostics, stronger session reliability, and lower memory usage for Voice Mode on macOS.\n\nRelease Notes: v0.2.111\n\nFeatures:\n• Users can now disable image generation and video generation tools (and their slash commands) via config.toml or environment variables.\n• /session-info now displays whether the session uses OAuth or an API key and where to manage the account.\n• You can now run grok doctor fix commands directly from inside the TUI instead of only from the CLI.\n\nBug Fixes:\n• !cmd commands now allow up to one hour before timing out.\n• npm package now installs the native binary under $GROK_HOME/bin (honoring the same override as the Rust CLI).\n• Startup warnings now point to /doctor for details and fixes.\n• Dashboard hover and clicks no longer miss the gaps between items in wide mode.\n• Shift/Alt+Enter now inserts a newline while editing a queued prompt.\n• Queued prompt edits under combine mode no longer lose changes due to premature hold release.\n• Forking a session that used compaction no longer causes later rewinds to fail with missing checkpoint errors.\n• When a permission prompt appears while viewing scrollback, focus now correctly moves to the prompt so you can answer.\n• Pressing Esc once now cancels the current agent turn (except in fullscreen vim scrollback mode).\n• Grok now automatically stops a turn that keeps repeating the exact same tool call many times in a row.\n• Configs using either spelling of the workspace teleport disable flag now load and save correctly.\n• Background subagent completion messages no longer leak into unrelated sessions when multiple sessions are active.\n• When the auto-permission classifier times out or fails, Grok now shows a normal permission prompt instead of silently denying.\n• Managed MCP tools no longer time out prematurely on slow operations like Notion updates.\n\nPerformance:\n• Voice dictation on macOS now uses less memory by running capture in a temporary helper process.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2080150685060936037#m",
+      "link": "https://nitter.net/elonmusk/status/2080170228554903796#m",
+      "date": "Thu, 23 Jul 2026 05:56:44 GMT"
+    },
+    {
+      "text": "The European Commission rejected the registration of the @SaveEuropeAct.\n\nThey claim it’s “racist” and goes against “European values” to want to keep Europe, European.\n\nWe’re not accepting the madness anymore. \n\nEurope belongs to us.\n\nSee you in court.\n\nVideo",
+      "link": "https://nitter.net/EvaVlaar/status/2080009485242798267#m",
+      "date": "Wed, 22 Jul 2026 19:18:00 GMT"
+    },
+    {
+      "text": "Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and gets the job done\n\n\nX Freeze (@XFreeze)\n\nWith Grok 4.5 you never have to wait. It’s insanely fast, extremely token‑efficient, and does tasks at Fable‑level quality at a fraction of the cost.....all while being crazy fast\n\n\n\n— https://nitter.net/XFreeze/status/2080153313798951357#m",
+      "link": "https://nitter.net/elonmusk/status/2080168539420594481#m",
+      "date": "Thu, 23 Jul 2026 05:50:02 GMT"
+    },
+    {
+      "text": "Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years\n\n\njustin (@justinsunyt)\n\nCapy accidentally cracked a graph theory conjecture entirely in Slack\n\nREFUTED: Graffiti Conjecture 284 (open for ~30 years)\n\nWe shared the original post in Slack and Capy (running on Grok 4.5 Medium!!!) decided it wanted to take a shot, finding a novel refutation in 8 minutes\n\n\n\n\n\n— https://nitter.net/justinsunyt/status/2080116559352316409#m",
+      "link": "https://nitter.net/elonmusk/status/2080165738464280725#m",
+      "date": "Thu, 23 Jul 2026 05:38:54 GMT"
+    },
     {
       "text": "Easy to make video games with Grok!\n\n\nMin Choi (@minchoi)\n\nGrok 4.5 is becoming a one-person game studio and more\n\nCode. Assets. Worlds. Gameplay. Testing.\n\n10 new examples:\n\n\n\n— https://nitter.net/minchoi/status/2079769568533229692#m",
       "link": "https://nitter.net/elonmusk/status/2080073361343054247#m",
@@ -52,56 +102,6 @@
       "text": "Elon Musk is not merely building companies\n\nHe is building the infrastructure humanity needs to move entire civilization forward\n\n• SpaceX — making life multiplanetary\n• Tesla — accelerating sustainable energy, autonomy and robotics\n• 𝕏 — defending free speech and protecting the global town square\n• SpaceXAI— pursuing truth and understanding the universe\n• Starbase — building the launch gateway to humanity’s multiplanetary future\n• Starlink — connecting humanity everywhere, from the world’s largest cities to its most remote regions\n• The Boring Company — building three-dimensional transportation networks for three-dimensional cities\n• Neuralink — restoring communication, mobility and human capability\n\nDifferent companies, different missions, one goal\n\nOne man pushing every frontier forward\n\nElon Musk has dedicated his entire life to expanding the boundaries of what humanity can achieve\n\nElon is on Team Humanity",
       "link": "https://nitter.net/XFreeze/status/2080023521653354730#m",
       "date": "Wed, 22 Jul 2026 20:13:47 GMT"
-    },
-    {
-      "text": "Zero stories is a low number …\n\n\nEnd Wokeness (@EndWokeness)\n\n3 people were just executed in St. Paul, MN by Tsegaab Binessu. Race WAS a motive.\n\n0 AP stories about the executions\n0 PBS stories about the executions\n0 NYT stories about the executions \n0 NPR stories about the executions \n0 WSJ stories about the executions\n0 BBC stories about the executions\n0 CNN stories about the executions\n0 WaPo stories about the executions \n0 Reuters stories about the executions\n0 MSNBC stories about the executions\n\n\n\n\n\n\n\n— https://nitter.net/EndWokeness/status/2079957617384816902#m",
-      "link": "https://nitter.net/elonmusk/status/2079984441179684961#m",
-      "date": "Wed, 22 Jul 2026 17:38:29 GMT"
-    },
-    {
-      "text": "Ethiopian migrant accused of executing three apartment staffers due to a parking dispute in Minnesota. \n\n30-year-old Tsegaab Binessu was reportedly upset that he wasn't allowed to cancel his $ 65-a-month parking garage contract, so he decided to murder three people.\n\nNansi Fuentes Zambrano, 25, Dena Silcox, 56, and Adam Wilwerding, 43, were shot and killed.\n\n\"No, no... no no,\" Silcox, an assistant manager, was heard screaming as Wilwerding, the community manager, was shot. \n\nBinessu then turned the gun on her and Fuentes Zambrano, killing them both.  \n\n21 shell casings were found by investigators in the office.\n\nWhile being arrested, Binessu reportedly said he \"hated the American system\" and was mad that his family couldn't immigrate to the U.S. from Ethiopia. \n\nHe also claimed he was \"treated unfairly because he is black and an immigrant,\" according to court documents.\n\nBinessu has been charged with second-degree murder.\n\nAbsolutely infuriating. He should have never been in this country in the first place.\n\nVideo",
-      "link": "https://nitter.net/CollinRugg/status/2079958827404034384#m",
-      "date": "Wed, 22 Jul 2026 15:56:42 GMT"
-    },
-    {
-      "text": "No threat of violence against my life is going to stop me from pushing for the SAVE America Act.",
-      "link": "https://nitter.net/ScottPresler/status/2079329000787468594#m",
-      "date": "Mon, 20 Jul 2026 22:14:00 GMT"
-    },
-    {
-      "text": "I think there is now overwhelming evidence to say: DO NOT TRUST OPEN AI",
-      "link": "https://nitter.net/adeoressi/status/2079772638273319365#m",
-      "date": "Wed, 22 Jul 2026 03:36:51 GMT"
-    },
-    {
-      "text": "Weird how the mainstream media is suddenly very quiet about the attacks on democracy currently happening in Hungary.",
-      "link": "https://nitter.net/PeterSweden7/status/2079902263745618379#m",
-      "date": "Wed, 22 Jul 2026 12:11:57 GMT"
-    },
-    {
-      "text": "Today in AI.",
-      "link": "https://nitter.net/bgurley/status/2079769629329952947#m",
-      "date": "Wed, 22 Jul 2026 03:24:54 GMT"
-    },
-    {
-      "text": "Grok Build continues to strengthen the developer experience with safer extension management, better session recovery, and more resilient auto-compaction when authentication expires\n\nRelease Notes: v0.2.110\n\nFeatures:\n• Removing MCP servers, plugins, or hook sources in the Extensions modal now asks for confirmation (press y to proceed)\n\nBug Fixes:\n• Session creation failures (including disk full) now show an error message instead of hanging on \"Starting session…\".\n• Auto-compact that fails due to an expired token now lets you log in and automatically retry the compact + original prompt\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got another major update, giving developers deeper visibility into token usage and costs, more flexible model configuration, smarter prompt batching, and enhanced diagnostics for troubleshooting\n\nRelease Notes: v0.2.109\n\nFeatures:\n• /usage now shows token counts and cost for the current session.\n• grok doctor fix terminal.ssh-wrap can install the recommended SSH wrapper alias.\n• [model_providers.] lets operators share gateway settings across custom models.\n• Reasoning effort now accepts max as its own tier (above xhigh) when the model advertises it.\n• Queued follow-ups can now be batched into a single model turn with the new combine_queued_prompts setting.\n• /doctor is now the main slash command for terminal, tmux, clipboard and keyboard diagnostics.\n• read_file now returns full Markdown files inside skills/directories without truncation.\n\nBug Fixes:\n• Voice dictation now explains when the microphone delivered only silence (macOS permission) versus no speech detected.\n• Duplicate 'Worked for' markers no longer stack in the transcript when background tasks defer during a parked turn.\n• The idle status row now clearly says '1 subagent still running' instead of 'watching · 1 subagent' when background work remains.\n• Background /loop iterations no longer overlap when descendant subagents are still running.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2079641456130842877#m",
-      "link": "https://nitter.net/XFreeze/status/2079873531387711985#m",
-      "date": "Wed, 22 Jul 2026 10:17:46 GMT"
-    },
-    {
-      "text": "Dear @ZohranKMamdani, thank you for improving the lives of New Yorkers by spending your days either explaining to the Americans that Islam should rule the US, and/or why Israel is an evil entity.  The United States failed its citizens when they allowed your family to become Americans.  You are as American as a man who sleeps in a stable becoming a horse.\n\n\nMayor Zohran Kwame Mamdani (@NYCMayor)\n\nBenjamin Netanyahu is a war criminal.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/NYCMayor/status/2079718073058091261#m",
-      "link": "https://nitter.net/GadSaad/status/2079734938811711807#m",
-      "date": "Wed, 22 Jul 2026 01:07:03 GMT"
-    },
-    {
-      "text": "Their next step is to agree that there are large numbers of illegals voting (or usually getting harvested by Dem operatives who pick up their ballots and fill them out) and that it is a good thing and anyone who opposes it is racist\n\n\nMAZE (@mazemoore)\n\nJanuary: There's no evidence of voter fraud.\n\nJuly: Ok, there's a some voter fraud but it's not widespread and the illegals who voted were just confused.\n\nThis is CNN.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/mazemoore/status/2079808470329459187#m",
-      "link": "https://nitter.net/elonmusk/status/2079903803227455928#m",
-      "date": "Wed, 22 Jul 2026 12:18:04 GMT"
-    },
-    {
-      "text": "Footage has re-emerged showing Andrew​ Arrabaca, the man accused of the anti-ICE arson terror attack in Manhattan, at a 2025 protest wearing a Luigi hat with a pro-Palestine symbol. He repeatedly calls a Jewish man the n-word.\n\nVideo",
-      "link": "https://nitter.net/MrAndyNgo/status/2079735652216693156#m",
-      "date": "Wed, 22 Jul 2026 01:09:53 GMT"
     }
   ]
 }

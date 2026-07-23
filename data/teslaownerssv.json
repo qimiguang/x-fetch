@@ -1,8 +1,23 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-07-23T08:37:50Z",
+  "updated_at": "2026-07-23T11:13:40Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "Cybercab door open and closure.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2080238779236057577#m",
+      "date": "Thu, 23 Jul 2026 10:29:08 GMT"
+    },
+    {
+      "text": "Elon Musk: “Optimus Will Be The Biggest Product Ever Created”\n\nLet's see Optimus. You know, as you've heard me say before, I think Optimus will be the biggest product ever. But it is a very complex problem to solve. It's one of the hardest things to solve.\n\nTo make a humanoid robot that can do tasks that you simply ask it to do, or show it a video, and it can do the task without any programming — like, no one's ever achieved this.\n\nAnd there are many challenges in the electromechanical design of the robot, to achieve sufficient dexterity and reliable hands, to be very reliable and have long, long wear and tear.\n\nBut, I mean, it's good to be out in the field and not break down. Otherwise, you get this 70-kilogram robot that just flopped over, and you could carry it around like a baby, you know.\n\nAnd we don't want Optimus to go haywire.\n\nSo, it's a lot of work to scale, to get the design right, and to scale production.\n\nAnd I really want to emphasize here that the production scaling challenge is very, very substantial.\n\nSo this is going to be the hardest product to scale manufacturing that we've ever made at Tesla, because everything on the robot is new.\n\nAnd the difficulty of scaling the production up is proportionate to the newness of the parts in the robot.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2080238735745294613#m",
+      "date": "Thu, 23 Jul 2026 10:28:58 GMT"
+    },
+    {
+      "text": "Exactly 3 years ago today, Twitter became 𝕏.",
+      "link": "https://nitter.net/teslaownersSV/status/2080235955836117135#m",
+      "date": "Thu, 23 Jul 2026 10:17:55 GMT"
+    },
     {
       "text": "Most people focus on Starship’s height and thrust.\n\nThe number that actually matters is cost per kilogram to orbit.\n\nFalcon 9 already cut it from the Shuttle era’s ~$54,500/kg down to around $1,500/kg. Starship is targeting under $100/kg.\n\nThat’s a 500x reduction in roughly 25 years.\nThat single metric is what makes Mars, lunar bases, and large-scale orbital industry possible. \n\nEverything else is a consequence of driving launch costs down.\n\nReusable rockets aren’t just cool engineering — they’re the fundamental economic unlock for becoming multiplanetary.",
       "link": "https://nitter.net/teslaownersSV/status/2080175879846818173#m",
@@ -77,21 +92,6 @@
       "text": "AI & infrastructure:\n• Onsite AI training compute in Texas more than doubled in H1 2026\n• Cortex 2 ramping for both vehicle and Optimus autonomy\n• FSD v14 lite now rolling out to AI3 vehicles (U.S. + South Korea)\n• Summer software release: Self-Driving Stats sharing + expanded Grok capabilities\n• Semiconductor fab progress in Austin continuing\nReal-world AI stack advancing on multiple fronts simultaneously.",
       "link": "https://nitter.net/teslaownersSV/status/2080024440298250600#m",
       "date": "Wed, 22 Jul 2026 20:17:26 GMT"
-    },
-    {
-      "text": "Manufacturing & future products:\n\n• Model YL launched in the U.S. (positive early response)\n• Optimus first-gen production lines being installed in Fremont (S/X lines decommissioned)\n• Tesla Semi factory in Nevada still on track for production this year\n• Megafactory Texas nearing completion (Megapack 3 + Megablock)\n• Battery pack capacity remains the near-term bottleneck — teams actively expanding it\nHardware platform for the next phase is coming online.",
-      "link": "https://nitter.net/teslaownersSV/status/2080023959534481874#m",
-      "date": "Wed, 22 Jul 2026 20:15:31 GMT"
-    },
-    {
-      "text": "Robotaxi & FSD progress:\n• Cybercab production started at Giga Texas\n• Employee rides already happening on the Texas campus\n• Unsupervised Robotaxi now live/ramping in Austin, Dallas, Houston, Miami, Orlando, Tampa\n• Live in 7 major metros\n• FSD (Supervised) active subscriptions: 1.48M (+56% YoY)\n• Record FSD attach rate in North America (>55% of new deliveries)\nAutonomy is moving from software to real-world fleet operations.",
-      "link": "https://nitter.net/teslaownersSV/status/2080023483304849493#m",
-      "date": "Wed, 22 Jul 2026 20:13:38 GMT"
-    },
-    {
-      "text": "Tesla Q2 2026 results:\n• Record Q2 deliveries: 480,126 (+25% YoY)\n• Total production: 451,758 (+10% YoY)\n• Revenue: $28.2B (+26% YoY)\n• First time >$100B trailing-twelve-month revenue\n• Energy storage deployments: 13.5 GWh (+41% YoY)\n• Services & Other: record profitability and margin\nStrong core business performance while investing heavily in the future",
-      "link": "https://nitter.net/teslaownersSV/status/2080022918260727900#m",
-      "date": "Wed, 22 Jul 2026 20:11:23 GMT"
     }
   ]
 }
