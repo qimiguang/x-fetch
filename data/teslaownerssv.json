@@ -1,8 +1,23 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-07-23T14:12:46Z",
+  "updated_at": "2026-07-23T16:39:31Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "Elon Musk: Tesla’s Mega Pods Could Transform AI Computing Everywhere\n\nWe're also building out a mega pod design that has — because, for computers with x86, it's a very x86 computer with the Tesla AI computer.\n\nYou know, it's got this visual Optimus in a box, a mega pod kind of like the Megapack packaging.\n\nSo, we put a large number of four-plus x86 combos into a giant box, essentially. And these boxes can be placed anywhere in the country or outside the country.\n\nThis allows us to scale AI compute using disaggregated electricity production.\n\nAgain, there are lots of places all around the world, including Superchargers. I think we get something like seven gigawatts of power at our Superchargers.\n\nAnd we can place mega pods at many of these Superchargers and have distributed power for AI.\n\nSo, I think that could be quite a big deal.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2080327642885337100#m",
+      "date": "Thu, 23 Jul 2026 16:22:15 GMT"
+    },
+    {
+      "text": "Article\n\n\n\nTesla Delivers Strong Q2 Growth as Vehicle Sales Rebound and Future Bets Accelerate\n\nTesla reported second-quarter 2026 results on July 22 showing a clear rebound in vehicle demand alongside continued expansion in energy storage and services. Total revenue reached $28.2 billion, up",
+      "link": "https://nitter.net/teslaownersSV/status/2080304696183361817#m",
+      "date": "Thu, 23 Jul 2026 14:51:04 GMT"
+    },
+    {
+      "text": "Elon Musk: Tesla’s Secret AI Chip Factory Could Change Everything \n\nThat said, we expect to announce their location soon and provide more details about our plans in that regard, but we'll leave that to the product launch announcement.\n\nRather than trying to squeeze it into an earnings call, I think this is a very big announcement and deserves to have its own spotlight, instead of being squeezed into an earnings call.\n\nBut I do think this is going to be an amazing initiative, and a necessary one. Without it, we will be constrained in our ability to scale up mass production because we simply won't have enough AI chips.\n\nSo, it's crucial to solve that.\n\nAnd we'll have to solve memory, logic, and packaging in order to scale.\n\nWe'll leave the rest for its own announcement.\n\nWe've placed equipment orders for our development fab in Austin. And that development fab, I think, is pretty cool because it's intended to have lithography mask production, logic, memory, packaging, and chip testing — all under one roof.\n\nSo you can have a very fast iterative cycle, try out new chip designs very quickly, and see if they work.\n\nI don't think such a building exists anywhere on Earth.\n\nSo this is really going to be super helpful as we try some exciting, adventurous, high-risk, high-payoff bets.\n\nVideo",
+      "link": "https://nitter.net/teslaownersSV/status/2080296724690833449#m",
+      "date": "Thu, 23 Jul 2026 14:19:23 GMT"
+    },
     {
       "text": "Spent 2 hours giving @teslaownersSV the first deep look inside the entire Boring Company manufacturing operation.\n\nWe covered the full production line, looked under the hood of Prufrock, and discussed the philosophies that allow us to move as fast as possible.\n\n(Camera did me dirty though — I look about 3’5” in half the shots 😂)\n\nI’ll drop some of the better factoids from the video in the comments 👇\nnitter.net/teslaownerssv/status/2…\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nFIRST EVER BORING COMPANY HQ & FACTORY TOUR\n\nI got the chance to take the first ever tour through @boringcompany Headquarters and their massive factory/production line.  \n\nIn this video we walk through the facility, see the huge tunnel sections  being manufactured, and get an up-close look at how everything is  built.  \n\nThis is Part 1 of the tour.\n\nPart 2 drops next Saturday! Make sure you’re subscribed so you don’t miss it.  \n\nDrop a like if you enjoyed this one and comment what you want to see in Part 2 Thanks for watching!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/teslaownersSV/status/2075943193833570667#m",
       "link": "https://nitter.net/Mike__Baier/status/2080286241388400687#m",
@@ -77,21 +92,6 @@
       "text": "Robotaxi status (July 2026):\n\n• Unsupervised ramping in Austin, Dallas, Houston\n\n• Just launched unsupervised in Miami, Orlando, and Tampa\n\n• Preparations underway in Phoenix and Las Vegas\n\n• Cybercab production already started\nSeven major metros. Expanding fast.\n\nVideo",
       "link": "https://nitter.net/teslaownersSV/status/2080027069891948677#m",
       "date": "Wed, 22 Jul 2026 20:27:53 GMT"
-    },
-    {
-      "text": "Optimus update:\n\n• Model S/X lines at Fremont fully decommissioned\n\n• First-generation Optimus production lines now being installed\n\n• Initial robots will go straight into the Optimus Academy for training data\n\n• Texas site construction is in full swing\nHumanoid production is no longer “coming.” It’s being built right now.",
-      "link": "https://nitter.net/teslaownersSV/status/2080026323842732268#m",
-      "date": "Wed, 22 Jul 2026 20:24:55 GMT"
-    },
-    {
-      "text": "BREAKING: Tesla generated over $100 billion in revenue on a trailing twelve-month basis for the first time.\n\nWhile simultaneously making the largest investments in company history into AI, autonomy, Optimus, batteries, and semiconductor manufacturing.\n\nThis is the setup phase for the next decade.",
-      "link": "https://nitter.net/teslaownersSV/status/2080026007608889565#m",
-      "date": "Wed, 22 Jul 2026 20:23:39 GMT"
-    },
-    {
-      "text": "Big picture from the letter:\n\nTesla is in its largest and most exciting investment cycle ever. \nCore vehicle + energy + services businesses are healthy, while the company is building the factories, compute, batteries, and autonomy systems required for the next decade. \n\nScaling will be non-linear. Long-term focused.\n\nWe’ve never been more optimistic about the future.\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nAI & infrastructure:\n• Onsite AI training compute in Texas more than doubled in H1 2026\n• Cortex 2 ramping for both vehicle and Optimus autonomy\n• FSD v14 lite now rolling out to AI3 vehicles (U.S. + South Korea)\n• Summer software release: Self-Driving Stats sharing + expanded Grok capabilities\n• Semiconductor fab progress in Austin continuing\nReal-world AI stack advancing on multiple fronts simultaneously.\n\n\n\n\n\n— https://nitter.net/teslaownersSV/status/2080024440298250600#m",
-      "link": "https://nitter.net/teslaownersSV/status/2080024720267972845#m",
-      "date": "Wed, 22 Jul 2026 20:18:32 GMT"
     }
   ]
 }
