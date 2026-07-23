@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-23T19:24:58Z",
+  "updated_at": "2026-07-23T22:08:11Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Our brief V14 Lite review with a 2018 Model 3 Performance. A mixed bag, but predominantly positive.\n\nWe received V14 Lite yesterday, promptly installed it, and set out on some drives along our usual routes in Torrance, California. Each route we've manually driven and self-driven hundreds of times across every FSD release for both AI3 and AI4.\n\nIt is clear that V14 Lite is a leap forward in terms of its capabilities: Its ability to reverse out of parking spots and our garage is incredible and starting a drive with a button press makes end-to-end driving feel great! In one instance, our vehicle reversed to provide additional room for another vehicle who was blocking a crosswalk.\n\nIt is clear that Tesla squeezed in a highly performant V14 model. We'd give a rough estimate of ~70-80% the performance of AI4-equipped vehicles based on our own experience and more scientific tests completed by other community members. This is seen via improved response time to cut-ins, faster lane changing, and seemingly better lane positioning during both day and night driving.\n\nWith that said; every drive exhibited more hesitation and pausing than on V12.6.4, resulting in an overall less enjoyable experience. All-way stop intersections throughout our city resulted in missed turns due to taking too long to proceed and were honked at twice; something that had not occurred on V12.6.4.\n\nWe feel confident that V14 Lite will continue to receive minor revisions and tweaks in the following weeks and months (as it already has between 2026.20.5.1, 2026.20.6.10 and 2026.20.6.11).\n\nAs with V12.6.4, Tesla continued to adjust the model despite no point releases or fanfare, and we look forward to the same for V14 Lite.\n\nWe use Full Self-Driving on a daily basis, so we're looking forward to future refinements to V14 Lite by @Tesla_AI's incredible team.",
+      "link": "https://nitter.net/teslascope/status/2080395943065821558#m",
+      "date": "Thu, 23 Jul 2026 20:53:39 GMT"
+    },
     {
       "text": "RT @Terra_Cimmeria: Another wave of v14 lite! @teslascope",
       "link": "https://nitter.net/teslascope/status/2080359116934127937#m",
@@ -97,11 +102,6 @@
       "text": "Robotaxi now in Tampa & Orlando!",
       "link": "https://nitter.net/robotaxi/status/2079551968725303500#m",
       "date": "Tue, 21 Jul 2026 13:00:00 GMT"
-    },
-    {
-      "text": "Article\n\n\n\nSummer Release 2026\n\n2026 Summer Release rolling out shortly – here&apos;s what to expect\n \nMore Grok Commands\n \nGrok can now make phone calls, search and play music, adjust climate, open the glovebox, and answer questions",
-      "link": "https://nitter.net/Tesla/status/2079584176182087827#m",
-      "date": "Tue, 21 Jul 2026 15:07:59 GMT"
     }
   ]
 }

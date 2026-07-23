@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-23T19:24:57Z",
+  "updated_at": "2026-07-23T22:08:08Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Just common sense!\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2080390728228970729#m",
+      "date": "Thu, 23 Jul 2026 20:32:56 GMT"
+    },
+    {
+      "text": "Grok 4.5 making progress\n\n\nstonkdaddy (@stonk_daddy)\n\nGrok 4.5 token volume is surging on OpenRouter, breaking into the top 10 for closed models today beating out GPT 5.6 Sol and Fable 5. Previously the most used model was Tencent’s Hy3 (free version), whose promotional period ended on July 21. It seems Grok 4.5 is seeing migration from cost conscious users since then.\n\n\n\n\n\n\n\n— https://nitter.net/stonk_daddy/status/2080270918664774032#m",
+      "link": "https://nitter.net/elonmusk/status/2080389505438396555#m",
+      "date": "Thu, 23 Jul 2026 20:28:04 GMT"
+    },
+    {
+      "text": "Truth is stranger than fiction\n\n\nAndrew McCarthy (@AJamesMcCarthy)\n\nI’ll never get used to seeing a rocket just sitting on the beach like this\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/AJamesMcCarthy/status/2080102937875841435#m",
+      "link": "https://nitter.net/elonmusk/status/2080376998367813926#m",
+      "date": "Thu, 23 Jul 2026 19:38:22 GMT"
+    },
     {
       "text": "This was 13yr ago now.\n\nThe parents of 9yr old Aaron Dugmore found him dead by suicide in his bedroom after constant bullying for being white by \"Asian\" bullies in Birmingham. \n\nHis family say that Aaron was threatened with a plastic knife by one \"asian\" pupil - who warned him: \"Next time it will be a real one,\" \n\nWhites are a minority in Birmingham, England's second largest city.\n\nThis is the future for all if not reversed.",
       "link": "https://nitter.net/TRobinsonNewEra/status/2080289014876078537#m",
@@ -87,21 +102,6 @@
       "text": "Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years\n\n\njustin (@justinsunyt)\n\nCapy accidentally cracked a graph theory conjecture entirely in Slack\n\nREFUTED: Graffiti Conjecture 284 (open for ~30 years)\n\nWe shared the original post in Slack and Capy (running on Grok 4.5 Medium!!!) decided it wanted to take a shot, finding a novel refutation in 8 minutes\n\n\n\n\n\n— https://nitter.net/justinsunyt/status/2080116559352316409#m",
       "link": "https://nitter.net/elonmusk/status/2080165738464280725#m",
       "date": "Thu, 23 Jul 2026 05:38:54 GMT"
-    },
-    {
-      "text": "Easy to make video games with Grok!\n\n\nMin Choi (@minchoi)\n\nGrok 4.5 is becoming a one-person game studio and more\n\nCode. Assets. Worlds. Gameplay. Testing.\n\n10 new examples:\n\n\n\n— https://nitter.net/minchoi/status/2079769568533229692#m",
-      "link": "https://nitter.net/elonmusk/status/2080073361343054247#m",
-      "date": "Wed, 22 Jul 2026 23:31:49 GMT"
-    },
-    {
-      "text": "Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. \n\n- The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. \n- The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. \n- The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π. \nThese identities, established through techniques such as contour integration, link analysis across mathematics. \n\nEngineers apply the sinc integral within the sampling theorem to perfectly reconstruct continuous-time signals from discrete samples in digital communications systems.",
-      "link": "https://nitter.net/mathemetica/status/2079875839605473621#m",
-      "date": "Wed, 22 Jul 2026 10:26:57 GMT"
-    },
-    {
-      "text": "Grok Build just got another powerful plugin: Exa\n\nThe new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build\n\nWith Exa, you can:\n• Search the web semantically instead of relying only on keywords\n• Filter results across companies, people, news, research papers and financial reports\n• Extract webpages as clean Markdown\n• Run structured, multi-step research workflows with deduplicated, cited results\n\nSetup is simple: install the plugin, sign in to your Exa account through the browser and start using it\n\nNo API key is required, and new accounts receive free credits at signup\n\nThe Grok Build plugin ecosystem keeps expanding\n\nInstead of constantly switching between research tools and your development environment, you can bring high-quality web search and content extraction directly into the same AI workflow",
-      "link": "https://nitter.net/XFreeze/status/2079906440463151129#m",
-      "date": "Wed, 22 Jul 2026 12:28:32 GMT"
     }
   ]
 }

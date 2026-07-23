@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-07-23T19:25:37Z",
+  "updated_at": "2026-07-23T22:09:16Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "TSLA跌麻了，叠舒服了\nFSD月活数继续暴增\nrobotaxi扩展慢，是因为追求零事故率\noptimus的系统能力，依然讳莫如深，居然一个demo都不放\n一切按照马斯克的薪酬计划展开",
+      "link": "https://nitter.net/Tsla99T/status/2080402032490430813#m",
+      "date": "Thu, 23 Jul 2026 21:17:51 GMT"
+    },
     {
       "text": "携程的20元举牌接机是特别值得花钱的服务",
       "link": "https://nitter.net/Tsla99T/status/2080201779766010270#m",
@@ -97,11 +102,6 @@
       "text": "那些说马斯克彻底放弃grok的人请出来转三圈\n同理，扎克伯格也不会放弃meta ai\n谷歌的gemini也会赶上来\n如果甘愿让其他公司的模型开发自己的核心代码\n那就说明，代码没啥核心了\n\n\nTSLA99T (@Tsla99T)\n\n刚试用了Cursor和SpaceXAI训练的Composer2.5做了一个作业题，速度极快，期待下一个10X版本\n马斯克不可能放弃Grok，并且一定会拼老命干成第一\n浅显的原因：在openai面前争口气\n不太浅显的原因：特斯拉SpaceX的核心代码必须用自己的模型生成，不能受制于人，更不能有数据泄漏风险\n深层次的原因：必须有自己能够控制的大模型，这是他整个生态的必要组成部分\n看了下面这篇文章你们就秒懂了\nstate-media-influence-llm.gi…\n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2056703656066441558#m",
       "link": "https://nitter.net/Tsla99T/status/2075191622120112212#m",
       "date": "Thu, 09 Jul 2026 12:13:32 GMT"
-    },
-    {
-      "text": "又开始炒股了是吧？",
-      "link": "https://nitter.net/Tsla99T/status/2075178381620949186#m",
-      "date": "Thu, 09 Jul 2026 11:20:55 GMT"
     }
   ]
 }
