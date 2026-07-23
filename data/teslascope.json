@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-22T22:08:18Z",
+  "updated_at": "2026-07-23T03:22:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "0 notable incidents across over 380,000 miles traveled by Robotaxi",
+      "link": "https://nitter.net/Tesla/status/2080054990337622379#m",
+      "date": "Wed, 22 Jul 2026 22:18:49 GMT"
+    },
     {
       "text": "As we predicted an hour ago, a third wave of Full Self-Driving V14.3.6 (for AI4) and V14 Lite (for AI3) is now going out via 2026.20.6.11!\n\nThis wave is predominantly AI3 vehicles, but AI4 is also included.\n\n\nTeslascope (@teslascope)\n\nMore waves coming, expected within 72 hours or less.\n\n\n\n— https://nitter.net/teslascope/status/2079997764830969911#m",
       "link": "https://nitter.net/teslascope/status/2080019233921196124#m",
@@ -97,11 +102,6 @@
       "text": "We've seen a number of posts on X from AI3 vehicle owners receiving V14 Lite via 2026.20.6.10, who were not in the initial wave.\n\nAt this time, this second wave appears to be very small (~<0.2% of eligible vehicles), and all vehicles have been notified via the Tesla mobile app.\n\n\n🤖FSD & Chill⚡️ (@MateenOmair)\n\nV14 Lite INCOMING!!!!! 🤩🤩 Canadian Model 3 HW3 (Ryzen) downloading 2026.20.6.10. !! 🇨🇦🇨🇦🇨🇦\n\nLetzzzz GOOOOO!! It’s officially rollin out! \n\n@Tesla_AI @teslascope @wholemars @SawyerMerritt @DillonLoomis\n\n\n\n\n\n\n\n— https://nitter.net/MateenOmair/status/2079455387921547642#m",
       "link": "https://nitter.net/teslascope/status/2079456314653356448#m",
       "date": "Tue, 21 Jul 2026 06:39:54 GMT"
-    },
-    {
-      "text": "Another vehicle (reported within the last hour).\n\n\nDalton Brewer (@daltonbrewer)\n\nI JUST GOT FSD V14 LITE FOR MY MODEL 3\n\nLFGGGG!!!!!\n\nCheck your cars!!!\n\n\n\n\n\n— https://nitter.net/daltonbrewer/status/2079448930555679132#m",
-      "link": "https://nitter.net/teslascope/status/2079456608669888561#m",
-      "date": "Tue, 21 Jul 2026 06:41:04 GMT"
     }
   ]
 }
