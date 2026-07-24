@@ -1,8 +1,23 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-07-23T22:09:16Z",
+  "updated_at": "2026-07-24T11:06:30Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Ashok: V15早期版本已经部署\n同时有7条技术栈并行推进\n\n也就是说，更强大的基座模型已经训练完毕并且部署在AI4上，FSD前沿进入V15时代\n\n同时团队还在打磨v14 lite",
+      "link": "https://nitter.net/Tsla99T/status/2080470142300106763#m",
+      "date": "Fri, 24 Jul 2026 01:48:29 GMT"
+    },
+    {
+      "text": "魔都热得不敢出门\n只能刷推\n中午去请老师吃海鲜自助\n\nVideo",
+      "link": "https://nitter.net/Tsla99T/status/2080464440630313098#m",
+      "date": "Fri, 24 Jul 2026 01:25:50 GMT"
+    },
+    {
+      "text": "TSLA 300和SPCX 110的puts 就要喜提了\n坚决不roll",
+      "link": "https://nitter.net/Tsla99T/status/2080460905561964859#m",
+      "date": "Fri, 24 Jul 2026 01:11:47 GMT"
+    },
     {
       "text": "TSLA跌麻了，叠舒服了\nFSD月活数继续暴增\nrobotaxi扩展慢，是因为追求零事故率\noptimus的系统能力，依然讳莫如深，居然一个demo都不放\n一切按照马斯克的薪酬计划展开",
       "link": "https://nitter.net/Tsla99T/status/2080402032490430813#m",
@@ -87,21 +102,6 @@
       "text": "founders.school/founders-wee…\n\nLink\n\n\n\nFounders Weekend — Founders School\n\nLearn how to make money before you can drive a car. A free 48-hour build weekend for ages 9–16. Six cities, Summer 2026.\nfounders.school",
       "link": "https://nitter.net/Tsla99T/status/2075214662639960490#m",
       "date": "Thu, 09 Jul 2026 13:45:05 GMT"
-    },
-    {
-      "text": "很后悔当年轮毂买小了",
-      "link": "https://nitter.net/Tsla99T/status/2075203105495421333#m",
-      "date": "Thu, 09 Jul 2026 12:59:10 GMT"
-    },
-    {
-      "text": "$SPCX 卖了一些puts，从110到80\n等待接盘",
-      "link": "https://nitter.net/Tsla99T/status/2075193464258523234#m",
-      "date": "Thu, 09 Jul 2026 12:20:51 GMT"
-    },
-    {
-      "text": "那些说马斯克彻底放弃grok的人请出来转三圈\n同理，扎克伯格也不会放弃meta ai\n谷歌的gemini也会赶上来\n如果甘愿让其他公司的模型开发自己的核心代码\n那就说明，代码没啥核心了\n\n\nTSLA99T (@Tsla99T)\n\n刚试用了Cursor和SpaceXAI训练的Composer2.5做了一个作业题，速度极快，期待下一个10X版本\n马斯克不可能放弃Grok，并且一定会拼老命干成第一\n浅显的原因：在openai面前争口气\n不太浅显的原因：特斯拉SpaceX的核心代码必须用自己的模型生成，不能受制于人，更不能有数据泄漏风险\n深层次的原因：必须有自己能够控制的大模型，这是他整个生态的必要组成部分\n看了下面这篇文章你们就秒懂了\nstate-media-influence-llm.gi…\n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2056703656066441558#m",
-      "link": "https://nitter.net/Tsla99T/status/2075191622120112212#m",
-      "date": "Thu, 09 Jul 2026 12:13:32 GMT"
     }
   ]
 }
