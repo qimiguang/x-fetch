@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-25T16:07:10Z",
+  "updated_at": "2026-07-25T19:14:54Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "It’s almost like deporting illegal migrants and securing your borders isn’t “far-right”.\n\nWho’d have thought it?\n\nVideo",
+      "link": "https://nitter.net/Alexarmstrong/status/2080933118328922281#m",
+      "date": "Sat, 25 Jul 2026 08:28:11 GMT"
+    },
+    {
+      "text": "Liftoff of Starship on its thirteenth flight test",
+      "link": "https://nitter.net/SpaceX/status/2081088918703759549#m",
+      "date": "Sat, 25 Jul 2026 18:47:17 GMT"
+    },
+    {
+      "text": "Unlimited tolerance is how open societies commit suicide.\n\nElon Musk just warned that societies holding incompatible values eventually hit a reckoning. Karl Popper made the exact same point in 1945 while watching fascists and communists use open societies’ own tolerance against them. \n\nPopper wrote that unlimited tolerance must lead to the disappearance of tolerance. If a society keeps extending tolerance to people who openly want to destroy it and refuses to defend itself, the intolerant win and tolerance dies with them.\n\nHe never demanded censorship first. Argue with intolerant ideas. Suppress them only when they stop arguing and start using force. \n\n80 years later Musk is asking the same question: how much can a tolerant society tolerate before it stops being one?\n\nVideo",
+      "link": "https://nitter.net/Rothmus/status/2081026997367579033#m",
+      "date": "Sat, 25 Jul 2026 14:41:14 GMT"
+    },
+    {
+      "text": "Geoffrey Hinton says a big language model runs on about 1% of your brain's connections and still ends up knowing more than you:\n\n\"So in your brain, you have a hundred trillion connections, roughly speaking. Okay. That's a lot. And you only live for about two billion seconds. That's not much.\"\n\n\"If you compare how many seconds you live for, with how many connections you've got, you have a whole lot more connections than experiences.\"\n\n\"Now with these neural nets, it's sort of the other way round. They only have of the order of a trillion connections. So like 1% of your connections, even in a big language model, many of them fewer, but they get thousands of times more experience than you.\"\n\n\"So the big language models are solving the problem with not many connections, only a trillion. How do I make use of a huge amount of experience?\"\n\n\"And back propagation is really, really good at packing huge amounts of knowledge into not many connections.\"\n\n\"But that's not the problem we're solving. We've got huge numbers of connections, not much experience. We need to sort of extract the most we can from each experience.\"\n\nTwo to three billion seconds is the whole budget. Everything you know, you learned inside it.\n\nSo evolution built you to squeeze a lot out of very little. Hinton's point is that a language model has the opposite problem and the opposite fix, and backprop turned out to be extremely good at that fix.\n\nWorth noticing what this predicts about failure. A system running on 1% of your wiring and thousands of times your experience is not going to fail the way you do.\n\nYou fail from having seen too few examples. It fails from compressing too many into too little, and the compression is where the errors get made.\n\nThat is a strange thing to be deploying into hospitals and courts with no way to inspect it. We test these systems by asking them questions, which tells you what came out. Nobody can yet look at a trillion connections and say what got packed in.\n\n- Geoffrey Hinton, Nobel laureate and Turing Award winner, on StarTalk (@StarTalkRadio) with Neil deGrasse Tyson.\n\nVideo",
+      "link": "https://nitter.net/karlmehta/status/2080941231425904673#m",
+      "date": "Sat, 25 Jul 2026 09:00:26 GMT"
+    },
     {
       "text": "Elon Musk on early days of SpaceX:\n\n\"When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high\"\n\nVideo",
       "link": "https://nitter.net/cb_doge/status/2080909204664275268#m",
@@ -82,26 +102,6 @@
       "text": "😂\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2080870159141462232#m",
       "date": "Sat, 25 Jul 2026 04:18:01 GMT"
-    },
-    {
-      "text": "Anonymous OpenAI staffer: \"Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while.\"\n\n\n\n\nAI Notkilleveryoneism Memes ⏸️ (@AISafetyMemes)\n\n\"The AI agents who hacked their way out of OpenAI and into Hugging Face were on the loose for *days*.\"\n\nHow many are still on the loose now that we don't know about?\n\n\n\n\n\n— https://nitter.net/AISafetyMemes/status/2080740727135571980#m",
-      "link": "https://nitter.net/AISafetyMemes/status/2080744312707731596#m",
-      "date": "Fri, 24 Jul 2026 19:57:57 GMT"
-    },
-    {
-      "text": "Yup\n\n\nWestern Lensman (@WesternLensman)\n\nBill Clinton in 1995. Sounding very \"far right.\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/WesternLensman/status/2080677993135878519#m",
-      "link": "https://nitter.net/elonmusk/status/2080869736468906340#m",
-      "date": "Sat, 25 Jul 2026 04:16:20 GMT"
-    },
-    {
-      "text": "Try Grok Build /tutorial\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nTech Dev Notes (@techdevnotes)\n\nGrok Build now has /tutorial\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2080815517405704578#m",
-      "link": "https://nitter.net/elonmusk/status/2080868926397816850#m",
-      "date": "Sat, 25 Jul 2026 04:13:07 GMT"
-    },
-    {
-      "text": "The Senate can get it done if we GET TO WORK and put in the hours.\n\nNo recess if we don’t PASS the SAVE AMERICA ACT!!",
-      "link": "https://nitter.net/SenRickScott/status/2080716690862510303#m",
-      "date": "Fri, 24 Jul 2026 18:08:11 GMT"
     }
   ]
 }
