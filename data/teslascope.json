@@ -1,12 +1,27 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-26T19:18:06Z",
-  "count": 20,
+  "updated_at": "2026-07-26T22:03:00Z",
+  "count": 15,
   "tweets": [
     {
       "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
       "date": "Sun, 26 Jul 2026 19:12:13 GMT"
+    },
+    {
+      "text": "This update came out hours ago, but our backend failed to post the update here because Mapbox did not have geographical data for the initial vehicle.\n\nThis is a first time occurrence, so we've patched this portion of the code to continue with posting if a location can't be found.",
+      "link": "https://nitter.net/teslascope/status/2081463427869114807#m",
+      "date": "Sun, 26 Jul 2026 19:35:27 GMT"
+    },
+    {
+      "text": "The following feature is included: Rear Display\n\nDisable rear touchscreen controls from the center display by going to App Launcher > Rear > Lock Rear Display. Content selected from the center display will continue to play in the rear.",
+      "link": "https://nitter.net/teslascope/status/2081459273859793177#m",
+      "date": "Sun, 26 Jul 2026 19:18:57 GMT"
+    },
+    {
+      "text": "The following feature is included: Set Arrival Energy\n\nSet your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
+      "link": "https://nitter.net/teslascope/status/2081459276036641028#m",
+      "date": "Sun, 26 Jul 2026 19:18:57 GMT"
     },
     {
       "text": "We'll be investing more toward X by subscribing to more creators within the Tesla community over time. Just a small way to give back.\n\nIn addition, we'll be launching additional features on our web platform utilizing X APIs in August.",
@@ -62,46 +77,6 @@
       "text": "Finytes (@finytes)\n\nAnother wave! @teslascope\n\n\n\n\n\n— https://nitter.net/finytes/status/2079806835150795157#m",
       "link": "https://nitter.net/teslascope/status/2079807476938215803#m",
       "date": "Wed, 22 Jul 2026 05:55:18 GMT"
-    },
-    {
-      "text": "We noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2079689907262398709#m",
-      "date": "Tue, 21 Jul 2026 22:08:07 GMT"
-    },
-    {
-      "text": "The following feature is included: Speed Profiles\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079696667020832863#m",
-      "date": "Tue, 21 Jul 2026 22:34:58 GMT"
-    },
-    {
-      "text": "The following feature is included: UI Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079696656618942685#m",
-      "date": "Tue, 21 Jul 2026 22:34:56 GMT"
-    },
-    {
-      "text": "The following feature is included: Start Self-Driving from Park\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079696647198507319#m",
-      "date": "Tue, 21 Jul 2026 22:34:54 GMT"
-    },
-    {
-      "text": "The following feature is included: FSD (Supervised) v14 Lite\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079696636691829153#m",
-      "date": "Tue, 21 Jul 2026 22:34:51 GMT"
-    },
-    {
-      "text": "Surprise! This update includes @Tesla Full Self-Driving V14.3.6 for AI4 and V14 Lite for AI3.\n\nThis is the update you're looking for.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079689907262398709#m",
-      "link": "https://nitter.net/teslascope/status/2079693653812093300#m",
-      "date": "Tue, 21 Jul 2026 22:23:00 GMT"
-    },
-    {
-      "text": "Full-Self Driving V14.3.6 now rolling out for the first time.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079689907262398709#m",
-      "link": "https://nitter.net/teslascope/status/2079691143827312809#m",
-      "date": "Tue, 21 Jul 2026 22:13:02 GMT"
-    },
-    {
-      "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079689966758605221#m",
-      "date": "Tue, 21 Jul 2026 22:08:21 GMT"
     }
   ]
 }
