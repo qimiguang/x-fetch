@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-26T16:05:15Z",
+  "updated_at": "2026-07-26T19:18:06Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
+      "date": "Sun, 26 Jul 2026 19:12:13 GMT"
+    },
     {
       "text": "We'll be investing more toward X by subscribing to more creators within the Tesla community over time. Just a small way to give back.\n\nIn addition, we'll be launching additional features on our web platform utilizing X APIs in August.",
       "link": "https://nitter.net/teslascope/status/2080862085383430213#m",
@@ -97,11 +102,6 @@
       "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2079689966758605221#m",
       "date": "Tue, 21 Jul 2026 22:08:21 GMT"
-    },
-    {
-      "text": "The following feature is included: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2079689957652803956#m",
-      "date": "Tue, 21 Jul 2026 22:08:19 GMT"
     }
   ]
 }
