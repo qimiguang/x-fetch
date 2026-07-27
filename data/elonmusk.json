@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-26T19:18:04Z",
+  "updated_at": "2026-07-27T03:36:49Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.5 is a solid workhorse\n\n\nTim Sweeney (@TimSweeneyEpic)\n\nGrok 4.5 is very good for vibe math in the field of Programming Language Theory. It's keeping up with Sol 5.6 and is way more fun to use than Fable/Opus 5 which love to spend hours creating superfluous documents (Claude code) or constantly nags me to \"Continue\" (web).\n\n\n\n— https://nitter.net/TimSweeneyEpic/status/2081449972201922735#m",
+      "link": "https://nitter.net/elonmusk/status/2081485024872796427#m",
+      "date": "Sun, 26 Jul 2026 21:01:16 GMT"
+    },
     {
       "text": "Grok Build /deep-research\n\n\nTech Dev Notes (@techdevnotes)\n\nGrok Build has /deep-research command\n\nResearch with bounded parallel agents, cross-check evidence, and write a cited report\n\n\n\n\n\n— https://nitter.net/techdevnotes/status/2081405805644136678#m",
       "link": "https://nitter.net/elonmusk/status/2081449658363134075#m",
@@ -97,11 +102,6 @@
       "text": "Download Grok Build and type /tutorial\n\nX.ai/cli\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2081174079969632347#m",
       "date": "Sun, 26 Jul 2026 00:25:41 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2081169947372184053#m",
-      "date": "Sun, 26 Jul 2026 00:09:16 GMT"
     }
   ]
 }
