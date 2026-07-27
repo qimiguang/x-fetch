@@ -1,17 +1,27 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-27T19:42:08Z",
-  "count": 14,
+  "updated_at": "2026-07-27T22:11:04Z",
+  "count": 15,
   "tweets": [
-    {
-      "text": "An amazing accomplishment worth spotlighting.\n\nCongrats to @DavidMoss @OwenSparks and @scotsrule08!\n\n\nSpencer (@scotsrule08)\n\nNYC to LA Cannonball with Tesla FSD is done!\n\n@DavidMoss, @OwenSparks, and I are proud to announce that we have broken the record for the fastest fully autonomous drive from New York City to Los Angeles!\n\nWe left the Red Ball Garage in New York, NY 47 hours, 15 minutes, and 39 seconds ago, and now have ended in Redondo Beach, CA at the Portofino Hotel\n\n(2,886 miles / 4,645 km)\n\nThis was accomplished with Tesla FSD v14.3.6, beating the previous record of 49:55:57 by 2 hours, 40 minutes, and 18 seconds, with absolutely zero disengagements.\n\nHuge thanks to @AlexRoy144 for years of inspiration. Thank you to all of the teams at @Tesla, with particular shout-outs to @Tesla_AI and @TeslaCharging for their phenomenal efforts. This would not have been possible without them.\n\n\n\n\n\n— https://nitter.net/scotsrule08/status/2081601992963866744#m",
-      "link": "https://nitter.net/teslascope/status/2081619791455150442#m",
-      "date": "Mon, 27 Jul 2026 05:56:47 GMT"
-    },
     {
       "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
       "date": "Sun, 26 Jul 2026 19:12:13 GMT"
+    },
+    {
+      "text": "For transparency's sake, we upgraded (once again) to Premium+.\n\nWe've been an avid user of @cursor_ai x @SpaceXAI's Grok 4.5 model via Cursor, so additional usage via SuperGrok sounds great.\n\nWe're also excited to try out X Money (once invited) and re-evaluate any reply boosts.",
+      "link": "https://nitter.net/teslascope/status/2080862084250964418#m",
+      "date": "Sat, 25 Jul 2026 03:45:56 GMT"
+    },
+    {
+      "text": "Well, looks like X may only allow what it thinks is a personally owned account (which makes sense!), so set up on @tylercorsair. 👍\n\nHopefully can someday set up an @XMoney here as well! 🤣",
+      "link": "https://nitter.net/teslascope/status/2081850583032692757#m",
+      "date": "Mon, 27 Jul 2026 21:13:52 GMT"
+    },
+    {
+      "text": "An amazing accomplishment worth spotlighting.\n\nCongrats to @DavidMoss @OwenSparks and @scotsrule08!\n\n\nSpencer (@scotsrule08)\n\nNYC to LA Cannonball with Tesla FSD is done!\n\n@DavidMoss, @OwenSparks, and I are proud to announce that we have broken the record for the fastest fully autonomous drive from New York City to Los Angeles!\n\nWe left the Red Ball Garage in New York, NY 47 hours, 15 minutes, and 39 seconds ago, and now have ended in Redondo Beach, CA at the Portofino Hotel\n\n(2,886 miles / 4,645 km)\n\nThis was accomplished with Tesla FSD v14.3.6, beating the previous record of 49:55:57 by 2 hours, 40 minutes, and 18 seconds, with absolutely zero disengagements.\n\nHuge thanks to @AlexRoy144 for years of inspiration. Thank you to all of the teams at @Tesla, with particular shout-outs to @Tesla_AI and @TeslaCharging for their phenomenal efforts. This would not have been possible without them.\n\n\n\n\n\n— https://nitter.net/scotsrule08/status/2081601992963866744#m",
+      "link": "https://nitter.net/teslascope/status/2081619791455150442#m",
+      "date": "Mon, 27 Jul 2026 05:56:47 GMT"
     },
     {
       "text": "This update came out hours ago, but our backend failed to post the update here because Mapbox did not have geographical data for the initial vehicle.\n\nThis is a first time occurrence, so we've patched this portion of the code to continue with posting if a location can't be found.",
@@ -27,11 +37,6 @@
       "text": "The following feature is included: Set Arrival Energy\n\nSet your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
       "link": "https://nitter.net/teslascope/status/2081459276036641028#m",
       "date": "Sun, 26 Jul 2026 19:18:57 GMT"
-    },
-    {
-      "text": "For transparency's sake, we upgraded (once again) to Premium+.\n\nWe've been an avid user of @cursor_ai x @SpaceXAI's Grok 4.5 model via Cursor, so additional usage via SuperGrok sounds great.\n\nWe're also excited to try out X Money (once invited) and re-evaluate any reply boosts.",
-      "link": "https://nitter.net/teslascope/status/2080862084250964418#m",
-      "date": "Sat, 25 Jul 2026 03:45:56 GMT"
     },
     {
       "text": "We'll be investing more toward X by subscribing to more creators within the Tesla community over time. Just a small way to give back.\n\nIn addition, we'll be launching additional features on our web platform utilizing X APIs in August.",
