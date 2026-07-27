@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-07-27T03:36:52Z",
+  "updated_at": "2026-07-27T09:59:48Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "地狱笑话\n\n\nBen Burtenshaw (@ben_burtenshaw)\n\ndon't worry. I've setup the logos so we're all included. play below\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/ben_burtenshaw/status/2081402417992654915#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2081616472582107610#m",
+      "date": "Mon, 27 Jul 2026 05:43:36 GMT"
+    },
     {
       "text": "Article\n\n\n\n梁文锋投资者交流会（完整版全文）\n\n梁文锋",
       "link": "https://nitter.net/falali2015/status/2080141498658762797#m",
@@ -97,11 +102,6 @@
       "text": "难以置信的是，特斯拉至今没有解决导航 bug。自去年 3 月以来我一直开 FSD 上下班，导航 bug 是 FSD 在中国最大的问题，没有之一。\n\n\nChuck Cook (@ChuckCook)\n\nWe really are looking forward to the fabled Navigation AI rewrite. It still feels like it is boilerplate google maps with a little traffic and closed road layers mixed in.  Honestly sometimes I can't do the math and figure out what it was thinking...\n\n\n\n— https://nitter.net/ChuckCook/status/2061216003996946910#m",
       "link": "https://nitter.net/ChrisZheng001/status/2061218934561607682#m",
       "date": "Sun, 31 May 2026 22:51:04 GMT"
-    },
-    {
-      "text": "Suggestion for Tesla team: Grok is multimodal\n\nLoop the FSD cameras in so you can talk to Grok about what you / the car is actually seeing outside the window in real-time",
-      "link": "https://nitter.net/BenjaminDEKR/status/2059004946096263530#m",
-      "date": "Mon, 25 May 2026 20:13:28 GMT"
     }
   ]
 }
