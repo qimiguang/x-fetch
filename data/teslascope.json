@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-27T22:11:04Z",
-  "count": 15,
+  "updated_at": "2026-07-28T02:53:08Z",
+  "count": 14,
   "tweets": [
+    {
+      "text": "New version right before the beach!\n@teslascope @wholemars",
+      "link": "https://nitter.net/MrKibbles0/status/2081891917780963381#m",
+      "date": "Mon, 27 Jul 2026 23:58:07 GMT"
+    },
+    {
+      "text": "FSD 14.3.6 downloading!",
+      "link": "https://nitter.net/dkmitc/status/2081886542063145132#m",
+      "date": "Mon, 27 Jul 2026 23:36:45 GMT"
+    },
     {
       "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
@@ -62,21 +72,6 @@
       "text": "RT @Terra_Cimmeria: Another wave of v14 lite! @teslascope",
       "link": "https://nitter.net/teslascope/status/2080359116934127937#m",
       "date": "Thu, 23 Jul 2026 18:27:19 GMT"
-    },
-    {
-      "text": "0 notable incidents across over 380,000 miles traveled by Robotaxi",
-      "link": "https://nitter.net/Tesla/status/2080054990337622379#m",
-      "date": "Wed, 22 Jul 2026 22:18:49 GMT"
-    },
-    {
-      "text": "As we predicted an hour ago, a third wave of Full Self-Driving V14.3.6 (for AI4) and V14 Lite (for AI3) is now going out via 2026.20.6.11!\n\nThis wave is predominantly AI3 vehicles, but AI4 is also included.\n\n\nTeslascope (@teslascope)\n\nMore waves coming, expected within 72 hours or less.\n\n\n\n— https://nitter.net/teslascope/status/2079997764830969911#m",
-      "link": "https://nitter.net/teslascope/status/2080019233921196124#m",
-      "date": "Wed, 22 Jul 2026 19:56:44 GMT"
-    },
-    {
-      "text": "Our vehicle was included in this wave. 👍",
-      "link": "https://nitter.net/teslascope/status/2080019951059181902#m",
-      "date": "Wed, 22 Jul 2026 19:59:35 GMT"
     }
   ]
 }
