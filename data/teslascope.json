@@ -1,8 +1,38 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-29T03:13:03Z",
-  "count": 14,
+  "updated_at": "2026-07-29T08:47:33Z",
+  "count": 17,
   "tweets": [
+    {
+      "text": "We've restored our automated Tesla software deployment and detection posts here on X!\n\nWhat was initially believed to be a coding issue turned out to be due to running out of credits for the @XDevelopers platform. 😅 Crisis averted.",
+      "link": "https://nitter.net/teslascope/status/2082342375129792960#m",
+      "date": "Wed, 29 Jul 2026 05:48:04 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.26 is now rolling out to ~2,090 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nThe @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2081457578715058443#m",
+      "link": "https://nitter.net/teslascope/status/2082340391773151248#m",
+      "date": "Wed, 29 Jul 2026 05:40:12 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.20.6.11 is now rolling out to ~10,340 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.6 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 (FSD V14 Lite/V14.3.6) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079689907262398709#m",
+      "link": "https://nitter.net/teslascope/status/2082340390170997219#m",
+      "date": "Wed, 29 Jul 2026 05:40:11 GMT"
+    },
+    {
+      "text": "A new Tesla software update 2026.20.6.9 has been detected and is now rolling out.\n\nThis update contains minor fixes.\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.9 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.9.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2082337040746844252#m",
+      "date": "Wed, 29 Jul 2026 05:26:53 GMT"
+    },
+    {
+      "text": "My dad’s car just got FSD 14.3.6! Don’t even realize a wave went out @teslascope \n\nStill nothing for me 😢",
+      "link": "https://nitter.net/actuallyajoke/status/2082325873047306343#m",
+      "date": "Wed, 29 Jul 2026 04:42:30 GMT"
+    },
+    {
+      "text": "New wave @teslascope",
+      "link": "https://nitter.net/Cameron33493096/status/2082303586533265588#m",
+      "date": "Wed, 29 Jul 2026 03:13:57 GMT"
+    },
     {
       "text": "Full Self-Driving V14.3.5 is rolling out to vehicles down under (Australia and New Zealand) within the past couple hours!\n\n\nEVStraya (@EVStraya)\n\nShout out to @vehiclescope for exciting me mid meeting whilst I’m overseas 🤣\n\n\n\n\n\n— https://nitter.net/EVStraya/status/2081997812305375417#m",
       "link": "https://nitter.net/teslascope/status/2082034517611806730#m",
@@ -57,21 +87,6 @@
       "text": "The following feature is included: Set Arrival Energy\n\nSet your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
       "link": "https://nitter.net/teslascope/status/2081459276036641028#m",
       "date": "Sun, 26 Jul 2026 19:18:57 GMT"
-    },
-    {
-      "text": "We'll be investing more toward X by subscribing to more creators within the Tesla community over time. Just a small way to give back.\n\nIn addition, we'll be launching additional features on our web platform utilizing X APIs in August.",
-      "link": "https://nitter.net/teslascope/status/2080862085383430213#m",
-      "date": "Sat, 25 Jul 2026 03:45:56 GMT"
-    },
-    {
-      "text": "We've now seen a handful of reports of AI3 vehicles receiving V14 Lite within 24 hours of subscribing to FSD.\n\nAs we've reminded many (including @Shoaib117A who we've quoted), subscribing does NOT guarantee you will receive 2026.20.6.11 with V14 Lite, but does make you eligible.\n\n\nShoaib (@Shoaib117A)\n\nLook what showed up on my dad’s car after a few hours of subbing!! 😍\n\n\n\n\n\n— https://nitter.net/Shoaib117A/status/2080845830140129673#m",
-      "link": "https://nitter.net/teslascope/status/2080852530226147652#m",
-      "date": "Sat, 25 Jul 2026 03:07:58 GMT"
-    },
-    {
-      "text": "Tesla hints at Robotaxi expansion to Canada and South America with new job postings driveteslacanada.ca/news/tes…\n\nLink\n\n\n\nTesla hints at Robotaxi expansion to Canada and South America with new job postings\n\nTesla has posted AI Safety Operator jobs in Canada, Colombia, and Chile that reference ride-hailing operations, hinting at future Robotaxi expansion beyond the U.S.\ndriveteslacanada.ca",
-      "link": "https://nitter.net/DriveTeslaca/status/2080778754431836182#m",
-      "date": "Fri, 24 Jul 2026 22:14:48 GMT"
     }
   ]
 }
