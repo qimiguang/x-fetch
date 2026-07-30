@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-30T19:40:20Z",
+  "updated_at": "2026-07-30T22:10:48Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Model Y L in North America currently being tested have immediate access to Full Self-Driving V14.3.7.\n\nThe release notes remain the same as V14.3.6.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMy Model Y L test unit has a currently unreleased version of FSD: V14.3.7\n\nRelease note below:\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2082923045208150509#m",
+      "link": "https://nitter.net/teslascope/status/2082937451086249993#m",
+      "date": "Thu, 30 Jul 2026 21:12:42 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.26 is now rolling out to ~2,090 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nThe @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2081457578715058443#m",
+      "link": "https://nitter.net/teslascope/status/2082931748355076575#m",
+      "date": "Thu, 30 Jul 2026 20:50:02 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.20.6.11 is now rolling out to ~7,810 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.6 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 (FSD V14 Lite/V14.3.6) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079689907262398709#m",
+      "link": "https://nitter.net/teslascope/status/2082929280015556915#m",
+      "date": "Thu, 30 Jul 2026 20:40:13 GMT"
+    },
     {
       "text": "And now approved by Apple in record time!\n\nDownload our iOS app if you haven’t already using the link below, or wait for the official App Store release soon. :)\n\ntestflight.apple.com/join/Qp…\n\nLink\n\n\n\nJoin the Vehiclescope beta\n\nAvailable on iOS\ntestflight.apple.com\n\n\n\nVehiclescope (@vehiclescope)\n\nOur latest (and largest) app update includes over a dozen new features/improvements and is now under review!⚡️\n\nThis is the last build before we launch on the App Store.\n\nThank you to the over 700 testers who have used our app to manage their Tesla vehicles, in some cases daily.\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2082887599614763246#m",
       "link": "https://nitter.net/teslascope/status/2082904504916385816#m",
@@ -87,21 +102,6 @@
       "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
       "date": "Sun, 26 Jul 2026 19:12:13 GMT"
-    },
-    {
-      "text": "This update came out hours ago, but our backend failed to post the update here because Mapbox did not have geographical data for the initial vehicle.\n\nThis is a first time occurrence, so we've patched this portion of the code to continue with posting if a location can't be found.",
-      "link": "https://nitter.net/teslascope/status/2081463427869114807#m",
-      "date": "Sun, 26 Jul 2026 19:35:27 GMT"
-    },
-    {
-      "text": "The following feature is included: Rear Display\n\nDisable rear touchscreen controls from the center display by going to App Launcher > Rear > Lock Rear Display. Content selected from the center display will continue to play in the rear.",
-      "link": "https://nitter.net/teslascope/status/2081459273859793177#m",
-      "date": "Sun, 26 Jul 2026 19:18:57 GMT"
-    },
-    {
-      "text": "The following feature is included: Set Arrival Energy\n\nSet your desired Arrival Energy for any trip from your phone. Open the location tab in the Tesla Mobile App, enter your destination, and tap Set Arrival Energy. Requires Mobile App v4.58.0 or later.",
-      "link": "https://nitter.net/teslascope/status/2081459276036641028#m",
-      "date": "Sun, 26 Jul 2026 19:18:57 GMT"
     }
   ]
 }
