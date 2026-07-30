@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-30T05:46:03Z",
-  "count": 16,
+  "updated_at": "2026-07-30T08:35:25Z",
+  "count": 18,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.20.10 is now rolling out to ~2,970 additional vehicles within the last five minutes based on available fleet data.",
+      "link": "https://nitter.net/teslascope/status/2082711547571249367#m",
+      "date": "Thu, 30 Jul 2026 06:15:02 GMT"
+    },
+    {
+      "text": "This is FSD V14.3.5 going wider in Australia and New Zealand!",
+      "link": "https://nitter.net/teslascope/status/2082715252815483075#m",
+      "date": "Thu, 30 Jul 2026 06:29:45 GMT"
+    },
     {
       "text": "We've restored our automated Tesla software deployment and detection posts here on X!\n\nWhat was initially believed to be a coding issue turned out to be due to running out of credits for the @XDevelopers platform. 😅 Crisis averted.",
       "link": "https://nitter.net/teslascope/status/2082342375129792960#m",
