@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-30T16:38:39Z",
-  "count": 18,
+  "updated_at": "2026-07-30T19:40:20Z",
+  "count": 20,
   "tweets": [
+    {
+      "text": "And now approved by Apple in record time!\n\nDownload our iOS app if you haven’t already using the link below, or wait for the official App Store release soon. :)\n\ntestflight.apple.com/join/Qp…\n\nLink\n\n\n\nJoin the Vehiclescope beta\n\nAvailable on iOS\ntestflight.apple.com\n\n\n\nVehiclescope (@vehiclescope)\n\nOur latest (and largest) app update includes over a dozen new features/improvements and is now under review!⚡️\n\nThis is the last build before we launch on the App Store.\n\nThank you to the over 700 testers who have used our app to manage their Tesla vehicles, in some cases daily.\n\n\n\n\n\n— https://nitter.net/vehiclescope/status/2082887599614763246#m",
+      "link": "https://nitter.net/teslascope/status/2082904504916385816#m",
+      "date": "Thu, 30 Jul 2026 19:01:47 GMT"
+    },
+    {
+      "text": "Our latest (and largest) app update includes over a dozen new features/improvements and is now under review!⚡️\n\nThis is the last build before we launch on the App Store.\n\nThank you to the over 700 testers who have used our app to manage their Tesla vehicles, in some cases daily.",
+      "link": "https://nitter.net/vehiclescope/status/2082887599614763246#m",
+      "date": "Thu, 30 Jul 2026 17:54:36 GMT"
+    },
     {
       "text": "Tesla software update 2026.20.10 is now rolling out to ~2,970 additional vehicles within the last five minutes based on available fleet data.",
       "link": "https://nitter.net/teslascope/status/2082711547571249367#m",
@@ -59,11 +69,6 @@
       "date": "Mon, 27 Jul 2026 23:36:45 GMT"
     },
     {
-      "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
-      "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
-      "date": "Sun, 26 Jul 2026 19:12:13 GMT"
-    },
-    {
       "text": "For transparency's sake, we upgraded (once again) to Premium+.\n\nWe've been an avid user of @cursor_ai x @SpaceXAI's Grok 4.5 model via Cursor, so additional usage via SuperGrok sounds great.\n\nWe're also excited to try out X Money (once invited) and re-evaluate any reply boosts.",
       "link": "https://nitter.net/teslascope/status/2080862084250964418#m",
       "date": "Sat, 25 Jul 2026 03:45:56 GMT"
@@ -77,6 +82,11 @@
       "text": "An amazing accomplishment worth spotlighting.\n\nCongrats to @DavidMoss @OwenSparks and @scotsrule08!\n\n\nSpencer (@scotsrule08)\n\nNYC to LA Cannonball with Tesla FSD is done!\n\n@DavidMoss, @OwenSparks, and I are proud to announce that we have broken the record for the fastest fully autonomous drive from New York City to Los Angeles!\n\nWe left the Red Ball Garage in New York, NY 47 hours, 15 minutes, and 39 seconds ago, and now have ended in Redondo Beach, CA at the Portofino Hotel\n\n(2,886 miles / 4,645 km)\n\nThis was accomplished with Tesla FSD v14.3.6, beating the previous record of 49:55:57 by 2 hours, 40 minutes, and 18 seconds, with absolutely zero disengagements.\n\nHuge thanks to @AlexRoy144 for years of inspiration. Thank you to all of the teams at @Tesla, with particular shout-outs to @Tesla_AI and @TeslaCharging for their phenomenal efforts. This would not have been possible without them.\n\n\n\n\n\n— https://nitter.net/scotsrule08/status/2081601992963866744#m",
       "link": "https://nitter.net/teslascope/status/2081619791455150442#m",
       "date": "Mon, 27 Jul 2026 05:56:47 GMT"
+    },
+    {
+      "text": "The @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2081457578715058443#m",
+      "date": "Sun, 26 Jul 2026 19:12:13 GMT"
     },
     {
       "text": "This update came out hours ago, but our backend failed to post the update here because Mapbox did not have geographical data for the initial vehicle.\n\nThis is a first time occurrence, so we've patched this portion of the code to continue with posting if a location can't be found.",
