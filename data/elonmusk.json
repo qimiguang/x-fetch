@@ -1,8 +1,53 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-30T05:46:02Z",
+  "updated_at": "2026-07-30T11:11:22Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Gates-ism perfectly epitomized.\n\n\njay plemons (@jayplemons)\n\nBill Gates “saved” Africa… by DESTROYING their food supply 🚨\n\nForrest Galante:  “I’m going to go on a f-ing rant here.\n\nThey gave millions of mosquito nets out to all these people to avoid malaria. Guess what the people who are starving to death did with their mosquito nets. They fished with them.\n\nMosquito net has a hole that is so small that a mosquito can’t get through. So guess what? These mosquito nets now indiscriminately catch tiny baby fish in areas like Cahora Bassa where the fish go to breed and reproduce and populate. So now all of a sudden you have thousands and thousands of people that have been handed nets that have been living one way for hundreds of thousands of years. They don’t give a shit about malaria.\n\nBill and Melinda Gates Foundation come in, hand out millions of mosquito nets, absolutely collapse the entire population of fish that feed millions of people because these people just take the nets and fish all the baby fish out so that those fish don’t grow up to make substantial protein sources. So now these wonderful philanthropists that have given out millions of nets have destroyed an ecosystem, crashed a fish population, and created widespread hunger for people that otherwise had plenty of resources. All because they were trying to help with their mosquito nets.\n\nThey’ve taken such a rich and important part of Africa, one of the most abundant freshwater fisheries in the world, and destroyed it because they’re ‘helping’ by handing out mosquito nets.\n\nAnd they’re still giving out mosquito nets, by the way. And you literally watch these guys line up, take a mosquito net, and it never goes in their house. It goes straight to catching fish for them to eat.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/jayplemons/status/2082157699031302179#m",
+      "link": "https://nitter.net/xenocosmography/status/2082494156987871642#m",
+      "date": "Wed, 29 Jul 2026 15:51:12 GMT"
+    },
+    {
+      "text": "Grok Build now has a way to enable/disable MCP\n\ngrok mcp enable <name>\n\ngrok mcp disable <name>",
+      "link": "https://nitter.net/techdevnotes/status/2082546312608719207#m",
+      "date": "Wed, 29 Jul 2026 19:18:27 GMT"
+    },
+    {
+      "text": "Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mission from pad 40 in Florida  nitter.net/i/broadcasts/1DxLddLoq…\n\nLink\n\n\n\nSpaceX\n\nNROL-95 Mission\nhttps://nitter.net/i/broadcasts/1DxLddLoqayxm",
+      "link": "https://nitter.net/SpaceX/status/2082722674732626193#m",
+      "date": "Thu, 30 Jul 2026 06:59:15 GMT"
+    },
+    {
+      "text": "Congrats to all Tesla teams. Proud to be part of this amazing journey. And we’re just getting started.\n\n\nTesla (@Tesla)\n\nProduced our 10 millionth Tesla globally at Fremont Factory this week!\n\nOnly 6 years ago, Fremont Factory made our 1 millionth vehicle\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2082707648148099363#m",
+      "link": "https://nitter.net/tomzhu_nz/status/2082715175795482909#m",
+      "date": "Thu, 30 Jul 2026 06:29:27 GMT"
+    },
+    {
+      "text": "NVIDIA CEO, Jensen Huang: I want to be involved in nearly everything Elon Musk does.\n\n\"For xAI, we're an investor already. The only regret I have is I didn't give him more money. Almost everything that @elonmusk is part of you really want to be part of as well, and and he gave us the opportunity to invest, I'm just delighted by that.\"\n\nVideo",
+      "link": "https://nitter.net/cb_doge/status/2082718093608944035#m",
+      "date": "Thu, 30 Jul 2026 06:41:03 GMT"
+    },
+    {
+      "text": "Congratulations to the Tesla Team!\n\n10 million vehicles manufactured is an incredible amount of work.\n\n\nTesla (@Tesla)\n\nProduced our 10 millionth Tesla globally at Fremont Factory this week!\n\nOnly 6 years ago, Fremont Factory made our 1 millionth vehicle\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2082707648148099363#m",
+      "link": "https://nitter.net/elonmusk/status/2082712206169256279#m",
+      "date": "Thu, 30 Jul 2026 06:17:39 GMT"
+    },
+    {
+      "text": "And Grok 4.6 comes out in a week\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.9%, ahead of Claude Sonnet 5, GLM 5.2, Claude Opus 5, Kimi K3 and GPT-5.6.\n\nThe benchmark tests real-world AI agents across conversation, tool use, memory and safety.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2082472135910473976#m",
+      "link": "https://nitter.net/elonmusk/status/2082707547203518569#m",
+      "date": "Thu, 30 Jul 2026 05:59:08 GMT"
+    },
+    {
+      "text": "Grok Build update\n\n\nX Freeze (@XFreeze)\n\nGrok Build new update brings richer headless streaming with tool calls and usage, a new /undo alias for rewind, smarter slash-command mode support, and more reliable token refresh after sleep\n\nRelease Notes: v0.2.116\n\nFeatures:\n• Headless streaming output now includes tool calls, results, and usage when using `--output-format streaming-json`.\n• New `/undo` slash command restores files and chat to an earlier turn, same as `/rewind`.\n• Slash commands are now correctly hidden or refused in minimal or fullscreen mode based on their declared support.\n\nBug Fixes:\n• Fixed repeated forced re-logins after laptop sleep or network hiccups during token refresh.\n• Suppressed spurious history load warnings on draft conversations that have no server history yet.\n• Settings enum pickers now keep the selected radio button on the current value until you press Enter.\n• Deep-linked settings such as `/privacy` now close the settings modal on Esc or Enter instead of returning to the list.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2082689490657927463#m",
+      "link": "https://nitter.net/elonmusk/status/2082705390358212687#m",
+      "date": "Thu, 30 Jul 2026 05:50:34 GMT"
+    },
+    {
+      "text": "• Hostile Media Outlet Gets DESTROYED By Own Audience After Posting Elon Musk Interview Online\n\nTHIS\nIS\nGLORIOUS\n\n😂😂😂😂😂😂😂😂\n\nVideo",
+      "link": "https://nitter.net/stevenmarkryan/status/2082696438514143655#m",
+      "date": "Thu, 30 Jul 2026 05:15:00 GMT"
+    },
     {
       "text": "And Grok 4.6 is a significant improvement\n\n\nben hylak (@benhylak)\n\nguys i really hate to break this to you but grok 4.5 high fast is actually good. \n\ni know this isn't news anyone wanted to hear.\n\n\n\n— https://nitter.net/benhylak/status/2082527240416612688#m",
       "link": "https://nitter.net/elonmusk/status/2082679015161069831#m",
@@ -57,51 +102,6 @@
       "text": "So, the rules are if you have right wing views and post incitement to violence to almost no followers you go to jail instantly.\n\nIf you do so as the leader of a left wing party with one of the biggest social followings in the UK, you don’t even have to apologise.\n\nBritain, 2026.",
       "link": "https://nitter.net/ZiaYusufUK/status/2082392920984781256#m",
       "date": "Wed, 29 Jul 2026 09:08:56 GMT"
-    },
-    {
-      "text": "Grok Imagine\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2082656239780266487#m",
-      "date": "Thu, 30 Jul 2026 02:35:16 GMT"
-    },
-    {
-      "text": "It will happen\n\n\nPeter H. Diamandis, MD (@PeterDiamandis)\n\nNever, ever bet against @elonmusk!  Here's @NASAAdmin on why the Moon base and Mars will come into existence.\n\n\"If Elon and SpaceX are betting on this right now,  there is no reason to to believe this will not come into existence. I never bet against an extremely well- capitalized Elon.  So, people ask, you know, and my position as NASA administrator, what  do I think of, for example, if SpaceX is an IPO?  I'm  thrilled with any of our partners that are essential to undertaking achieving our mission. Our number one national space policy objective return American astronauts to the lunar surface build the moon base out we can't do it without them.\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/PeterDiamandis/status/2082498584650416155#m",
-      "link": "https://nitter.net/elonmusk/status/2082656083404026262#m",
-      "date": "Thu, 30 Jul 2026 02:34:38 GMT"
-    },
-    {
-      "text": "True\n\n\nDr. Eli David (@DrEliDavid)\n\nHitler wasn't \"far right\". He was far left, and today's woke left shares nearly identical ideology with him.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DrEliDavid/status/2082549080035868732#m",
-      "link": "https://nitter.net/elonmusk/status/2082655819657875858#m",
-      "date": "Thu, 30 Jul 2026 02:33:35 GMT"
-    },
-    {
-      "text": "🚨The Police have confirmed they will take NO action against Zack Polanski for sharing a photo of a man wearing a T-shirt calling for the beheading of Nigel Farage.\n\nPROOF of two tier policing in Britain.\n\nJust imagine if it had been the other way round.",
-      "link": "https://nitter.net/ZiaYusufUK/status/2082533756389200172#m",
-      "date": "Wed, 29 Jul 2026 18:28:33 GMT"
-    },
-    {
-      "text": "Any old men or women or children ?\n\nNo. Only young men of fighting age\n\nHow odd !\n\n\nHJB News (@HJB_News__)\n\nNearly 1000 undocumented men have arrived under Andy Burnham’s new formed government in the last seven days with more arriving today. They are now using what they call Mega Dinghies like in other parts of Europe.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/HJB_News__/status/2082448068713070666#m",
-      "link": "https://nitter.net/JohnCleese/status/2082561721902719361#m",
-      "date": "Wed, 29 Jul 2026 20:19:41 GMT"
-    },
-    {
-      "text": "Allison Pearson receives payout and apology from Essex policing chief\n\nHurrah @AllisonPearson !!\n\nRoger Hirst says he is ‘very sorry’ for accusations made after officers visited Telegraph columnist over post on X\n\nWell done Allison for being brave and consistent \n\nEveryone needs to have courage. \nWe are stronger when we insist on our freedom together",
-      "link": "https://nitter.net/alanvibe/status/2082560078876434882#m",
-      "date": "Wed, 29 Jul 2026 20:13:09 GMT"
-    },
-    {
-      "text": "Starlink Internet works even in the middle of nowhere\n\n\nStarlink (@Starlink)\n\nStarlink-equipped buoys provided real-time video streaming in the Indian Ocean during Starship’s thirteenth test flight 🛰️🚀\n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Starlink/status/2082596155813495108#m",
-      "link": "https://nitter.net/elonmusk/status/2082646903402229872#m",
-      "date": "Thu, 30 Jul 2026 01:58:10 GMT"
-    },
-    {
-      "text": "Time Magazine, February 24th 1961\n\nIn the 5 years that followed the labor force grew by 6.4% and real wages grew by 9.9%.\n\nSome quotes:\n\nThe number of jobs lost to more efficient machines is only part of the problem. What worries many job experts more is that automation may prevent the economy from creating enough new jobs.\n\nMany of the losses in factory jobs have been countered by an increase in the service industries or in office jobs. But automation is beginning to move in and eliminate office jobs too.\n\nIn the past, new industries hired far more people than those they put out of business. But this is not true of many of today’s new industries. The switch from manned military aircraft to missiles has cost 200,000 production jobs, even though the aircraft industry’s dollar volume is up.",
-      "link": "https://nitter.net/wintonARK/status/2082477415217922064#m",
-      "date": "Wed, 29 Jul 2026 14:44:41 GMT"
-    },
-    {
-      "text": "Good analysis\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2082618654248861761#m",
-      "date": "Thu, 30 Jul 2026 00:05:55 GMT"
     }
   ]
 }
