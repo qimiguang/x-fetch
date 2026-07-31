@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-07-31T19:42:14Z",
+  "updated_at": "2026-07-31T22:10:06Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "机场drop off太难了，还是要像uber一样有专门下车区域\n\n\nDavid Moss (@DavidMoss)\n\nRobotaxi Supervisor Intervention:\n\nDriver today on my drop off at San Francisco International Airport had to take over after FSD failed to find a curb to park at\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/DavidMoss/status/2083275307751252242#m",
+      "link": "https://nitter.net/Tsla99T/status/2083295847630938283#m",
+      "date": "Fri, 31 Jul 2026 20:56:50 GMT"
+    },
     {
       "text": "这个上海的人才公寓很不错啊，苏州河边上 一个月才4000不到\npiped.video/n02WrI1afbM?si=4_IZ…\n\nLink\n\n\n\n租房市场也卷！实探上海苏州河旁保租房，是首批商办楼改建的保障性租赁房，最低3000一个月，满足这两个条件就能租！\n\n非广告🪧\nyoutube.com",
       "link": "https://nitter.net/Tsla99T/status/2083237548097204505#m",
@@ -97,11 +102,6 @@
       "text": "Ashok: V15早期版本已经部署\n同时有7条技术栈并行推进\n\n也就是说，更强大的基座模型已经训练完毕并且部署在AI4上，FSD前沿进入V15时代\n\n同时团队还在打磨v14 lite",
       "link": "https://nitter.net/Tsla99T/status/2080470142300106763#m",
       "date": "Fri, 24 Jul 2026 01:48:29 GMT"
-    },
-    {
-      "text": "魔都热得不敢出门\n只能刷推\n中午去请老师吃海鲜自助\n\nVideo",
-      "link": "https://nitter.net/Tsla99T/status/2080464440630313098#m",
-      "date": "Fri, 24 Jul 2026 01:25:50 GMT"
     }
   ]
 }
