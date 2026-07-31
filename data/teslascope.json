@@ -1,12 +1,27 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-07-31T16:48:05Z",
+  "updated_at": "2026-07-31T19:41:39Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Enjoying a brief trip along the Baja California coast in a friend’s Model Y.\n\nWhile in the car, I used @cursor_ai +\nGrok 4.5 to develop an iOS app for managing the service while on the go.\n\nEven on vacation, all I can think of is work!",
+      "link": "https://nitter.net/teslascope/status/2083268951132516399#m",
+      "date": "Fri, 31 Jul 2026 19:09:57 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.26.1 on Model 3 SR (2022) in Taipei, Taiwan. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.1.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2083039587073429876#m",
       "date": "Fri, 31 Jul 2026 03:58:33 GMT"
+    },
+    {
+      "text": "The following feature is included: Rear Display\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2083246023384732085#m",
+      "date": "Fri, 31 Jul 2026 17:38:51 GMT"
+    },
+    {
+      "text": "The following feature is included: Preferred Routes \n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2083246014345994679#m",
+      "date": "Fri, 31 Jul 2026 17:38:49 GMT"
     },
     {
       "text": "The following feature is included: Set Arrival Energy \n\nteslascope.com/software/2026…",
@@ -87,21 +102,6 @@
       "text": "More details about the Model Y L, graciously shared by @SawyerMerritt.\n\nDespite recent rumors we’ve seen posted by certain accounts and publications, the new wireless phone charger won’t be coming to the United States just yet.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nCan confirm that the Model Y L does come with PowerShare in North America (V2H), 11.5kW output to your home. Sounds like it will require Powerwall 3.\n\nAs for the actively cooled wireless phone chargers, North American Model Y L doesn't come with it right now. Tesla said this is because North America hasn't adopted the new Qi charging standard yet, and that China has much faster wirelessly charging phones right now. They will add it to the Model Y L (and other Tesla vehicle models) in North America in the next 1-2 years.\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2082981637751799977#m",
       "link": "https://nitter.net/teslascope/status/2082997773863883148#m",
       "date": "Fri, 31 Jul 2026 01:12:24 GMT"
-    },
-    {
-      "text": "Model Y L in North America currently being tested have immediate access to Full Self-Driving V14.3.7.\n\nThe release notes remain the same as V14.3.6.\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMy Model Y L test unit has a currently unreleased version of FSD: V14.3.7\n\nRelease note below:\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2082923045208150509#m",
-      "link": "https://nitter.net/teslascope/status/2082937451086249993#m",
-      "date": "Thu, 30 Jul 2026 21:12:42 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.26 is now rolling out to ~2,090 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nThe @Tesla Summer Update has arrived and is rolling out to vehicles now. View the complete release notes and other metrics on our platform!\n\nteslascope.com/software/2026…\n\nLink\n\n\n\n2026.26 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2081457578715058443#m",
-      "link": "https://nitter.net/teslascope/status/2082931748355076575#m",
-      "date": "Thu, 30 Jul 2026 20:50:02 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.20.6.11 is now rolling out to ~7,810 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.6 for eligible AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.20.6.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.20.6.11 (FSD V14 Lite/V14.3.6) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.6.11.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2079689907262398709#m",
-      "link": "https://nitter.net/teslascope/status/2082929280015556915#m",
-      "date": "Thu, 30 Jul 2026 20:40:13 GMT"
     }
   ]
 }
