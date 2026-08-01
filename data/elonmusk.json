@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-07-31T16:48:03Z",
+  "updated_at": "2026-08-01T03:26:32Z",
   "count": 20,
   "tweets": [
     {
-      "text": "What happened in Ceuta is happening across Europe and in the U.K.  \n\nThe scale is smaller and the rate of influx slower. But the net result will be the same. \n\nEurope and the U.K. will be overwhelmed. \n\nOur borders need military enforcement",
-      "link": "https://nitter.net/benhabib6/status/2083215573358379265#m",
-      "date": "Fri, 31 Jul 2026 15:37:51 GMT"
+      "text": "Watch Falcon 9 launch 24 @Starlink satellites to orbit from California nitter.net/i/broadcasts/1AxRnnrOb…\n\nLink\n\n\n\nSpaceX\n\nStarlink Mission\nhttps://nitter.net/i/broadcasts/1AxRnnrObgzxl",
+      "link": "https://nitter.net/SpaceX/status/2083386927521153342#m",
+      "date": "Sat, 01 Aug 2026 02:58:45 GMT"
     },
     {
-      "text": "The whole you owe us X because Y happened a trillion years ago argument is fucking retarded",
-      "link": "https://nitter.net/wraith_/status/2083107303725629469#m",
-      "date": "Fri, 31 Jul 2026 08:27:38 GMT"
-    },
-    {
-      "text": "This is extremely important to understand. \n\nThe birth rate you see in the West is the BLENDED number of ~90% who have a fertility rate half that of replacement and ~10% who have a birth rate double that of replacement. \n\nDemographics is destiny.\n\n\nFrancis Fleming (@FrncsFlmng)\n\nMark Steyn explains the stark demographic reality: a 90% population with 1.3 children per couple and a 10% population with 3.5 children will have roughly the same number of grandchildren in only two generations. The transformation is already underway.(2010)\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/FrncsFlmng/status/2069032376290738655#m",
-      "link": "https://nitter.net/elonmusk/status/2083226039371628562#m",
-      "date": "Fri, 31 Jul 2026 16:19:26 GMT"
-    },
-    {
-      "text": "Immigration is the meta-issue because it determines who will get to decide every other issue. It must be the top priority. No other issue is even close to it in importance. Vote for whoever credibly promises closed borders and remigration. We’ll work out everything else later.",
-      "link": "https://nitter.net/ArtemisConsort/status/2083201138682458456#m",
-      "date": "Fri, 31 Jul 2026 14:40:30 GMT"
-    },
-    {
-      "text": "There is still time, but not much time\n\n\nGad Saad (@GadSaad)\n\nFor the first time in recorded history, a civilization has decided that the most enlightened virtue is to surrender its culture, heritage, women, and children without putting up any defence. Suicidal empathy shall prove to be the demise of the West.\n\n\n\n— https://nitter.net/GadSaad/status/2083187506766393406#m",
-      "link": "https://nitter.net/elonmusk/status/2083216984959864971#m",
-      "date": "Fri, 31 Jul 2026 15:43:28 GMT"
-    },
-    {
-      "text": "It must be done\n\n\nGad Saad (@GadSaad)\n\nEvery single individual who has entered the West illegally should be deported.  Every person who has entered legally and who is loyal to an ideology that is antithetical to the West’s foundational values should also be deported. This is a battle for the soul of humanity. Wake up. Grow a pair.\n\n\n\n— https://nitter.net/GadSaad/status/2083202756114833867#m",
-      "link": "https://nitter.net/elonmusk/status/2083211708777066746#m",
-      "date": "Fri, 31 Jul 2026 15:22:30 GMT"
-    },
-    {
-      "text": "Yes\n\n\nDogeDesigner (@cb_doge)\n\nELON MUSK: “The reason I went so hardcore for Trump was because, to me, this was a fork in the road. If they had another four years, they would legalize enough illegals in the swing states to make the swing states not swing states, they would be blue states. Then they would win the House, the Senate, and the Presidency. And then they will keep importing more illegals to cement that outcome. Basically what happened in California.\n\nIt would have been the end. That's why I went so hardcore for Trump. I invite people to do their research. The more they do their research, the more they will see that what I'm saying is absolutely true.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2083068828620050840#m",
-      "link": "https://nitter.net/elonmusk/status/2083079293354095039#m",
-      "date": "Fri, 31 Jul 2026 06:36:19 GMT"
+      "text": "Grok Build improvements\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got another meaningful upgrade, bringing permanent session deletion, smarter diagnostics, better keyboard guidance, and stronger reliability across session management, background tasks, and compaction\n\nRelease Notes: v0.2.118\n\nFeatures:\n• Sessions can now be permanently deleted from the dashboard by pressing Ctrl+X twice on an idle row, or from the welcome list with d then y.\n• Keyboard shortcuts help (Ctrl+.) now shows how to browse prompt history and search the conversation.\n• grok doctor now warns when tmux is reducing colors and can fix the config.\nBug Fixes:\n• /btw now retries on temporary model overload instead of failing immediately.\n• Session sharing is temporarily disabled.\n• [stop] / Ctrl+C during /compact now cancels instead of no-opping.\n• Automatic recaps no longer appear twice after the same turn.\n• Background task wait timeout descriptions and limits now match the client's actual configured ceiling.\n• Background tasks no longer stay stuck as 'Running' in the tasks pane when they finish quickly.\n• Plan mode indicator now disappears right after approving a plan instead of lingering.\n• Dragging the scrollbar in the plan preview now works as expected.\n• Compaction now correctly handles certain context-length errors from the inference API.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2083354386655285519#m",
+      "link": "https://nitter.net/elonmusk/status/2083372850505781361#m",
+      "date": "Sat, 01 Aug 2026 02:02:49 GMT"
     },
     {
       "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2083073907163041981#m",
-      "date": "Fri, 31 Jul 2026 06:14:55 GMT"
+      "link": "https://nitter.net/elonmusk/status/2083371052067860671#m",
+      "date": "Sat, 01 Aug 2026 01:55:40 GMT"
     },
     {
-      "text": "Imagine upgrade\n\n\nDogan Ural (@doganuraldesign)\n\nGrok Imagine Templates just got a huge update!\n\nNow it’s smarter and more powerful with ready-made presets and a ton of new creative tools.\n\nPhoto Edit, Restyle, Smart Resize, Background Remover, Profile Picture Maker, Emoji Creator, Merch Maker, and much more.\n\nGive it a try!\n\n\n\n\n\n\n\n\n\n\n\n— https://nitter.net/doganuraldesign/status/2082846518940192936#m",
-      "link": "https://nitter.net/elonmusk/status/2083068786731553123#m",
-      "date": "Fri, 31 Jul 2026 05:54:34 GMT"
+      "text": "Try @Grok Build\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nJason Kneen (@jasonkneen)\n\nHonestly and this is not sponsored, @grok and @SpaceXAI grok build are just astonishing. I just paid for the promo for grok heavy.\n\nI took a screenshot of a workflow tool, asked Grok Build to make it and it got a working first pass.\n\nFrom there it's taken no longer than 30mins of a handful of prompts etc to turn it into a complete and polished product that can create workflows, then them, debug and supports writing custom tooling.\n\nJust astonishing.\n\n\n\n— https://nitter.net/jasonkneen/status/2083077756447818176#m",
+      "link": "https://nitter.net/elonmusk/status/2083369385616421314#m",
+      "date": "Sat, 01 Aug 2026 01:49:03 GMT"
     },
     {
-      "text": "Hot staging\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2083068604648395015#m",
-      "date": "Fri, 31 Jul 2026 05:53:51 GMT"
+      "text": "Imagine Video 1.5 improvements\n\n\nGrok (@grok)\n\nImagine Video 1.5 launched last month as our best video model yet, with more lifelike motion and sound. Today it goes even further with text-to-video support, image and voice references, and native 1080p.\n\ngrok.com/imagine\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2083353607370416632#m",
+      "link": "https://nitter.net/elonmusk/status/2083356782693380350#m",
+      "date": "Sat, 01 Aug 2026 00:58:58 GMT"
     },
     {
-      "text": "True\n\n\nStephen Miller (@StephenM)\n\nThe Democrats did this to America every single day for 4 years under Biden and will do it again instantaneously, but orders of magnitude greater, if they are given any form of national power. Democrats will see your home trampled and stolen by invaders and they will rejoice.\n\n\n\n— https://nitter.net/StephenM/status/2082974213791441027#m",
-      "link": "https://nitter.net/elonmusk/status/2083066952373715353#m",
-      "date": "Fri, 31 Jul 2026 05:47:17 GMT"
+      "text": "SECRETARY RUBIO: We in America have no interest in being polite and orderly caretakers of the West's managed decline.\n\nVideo",
+      "link": "https://nitter.net/StateDept/status/2083230240189436318#m",
+      "date": "Fri, 31 Jul 2026 16:36:08 GMT"
     },
     {
-      "text": "That’s my actual car that I drove for 3 years that is currently orbiting the Sun between the Earth and the edge of the asteroid belt\n\n\nDogeDesigner (@cb_doge)\n\nImagine being Elon Musk, having a car in your garage, and then sending it into space for 10 million years. 😂\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2082779179787944397#m",
-      "link": "https://nitter.net/elonmusk/status/2083066783859101915#m",
-      "date": "Fri, 31 Jul 2026 05:46:37 GMT"
+      "text": "Wake up Europe.\n\nYou have civilizations worth preserving, and it’s not racist to make sure entrants are compatible with it.\n\nIf Spain doesn’t handle this migrant invasion decisively, they’ll experience exactly what Paris does.\n\nRiots and chaos, even during celebrations.\n\n\nKaizen D. Asiedu (@thatsKAIZEN)\n\n\nArticle\n\n\n\nParis Was Trashed After Winning A Championship. Madrid Wasn&apos;t. And The Difference Is Immigration. \n\nI’m writing this from Madrid.\nA week and a half ago, on July 19, I was here when Spain won the World Cup, defeating Argentina.\nI’d never seen anything like it, and perhaps never will again.\nAn\n\n\n\n\n— https://nitter.net/thatsKAIZEN/status/2082969750695784531#m",
+      "link": "https://nitter.net/thatsKAIZEN/status/2083266668596195721#m",
+      "date": "Fri, 31 Jul 2026 19:00:53 GMT"
     },
     {
-      "text": "Falcon 9 launches NROL-95 to orbit from pad 40 in Florida",
-      "link": "https://nitter.net/SpaceX/status/2082771710818869482#m",
-      "date": "Thu, 30 Jul 2026 10:14:06 GMT"
+      "text": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth. \n\nIf interested, please email 3 bullet points demonstrating evidence of exceptional ability & your resume to datacenters@spacex.com.",
+      "link": "https://nitter.net/elonmusk/status/2083353705504469233#m",
+      "date": "Sat, 01 Aug 2026 00:46:44 GMT"
     },
     {
-      "text": "I have a new job. I will now lead Global Brand Strategy for McDonald's.\n\nFor those who do not know me, I use @X to share news and behind the scenes about the brand, but more importantly to get live feedback and hear from fans directly. The good, the bad, the not good enough yet.\n\nI mostly heard from US fans in the past - thank you. Of course, I want this to continue, but now I also want to get insights and feedback from McDonald's fans all around the world, whether you're in Japan, China or really anywhere! Please feel free to comment and say hi! I speak French, English and Spanish, but you can reply to me in any language if easier for you and I will use the translation tool from Grok. If you think the feedback won't make a difference, I can tell you the return of the Snack Wrap, Szechuan sauce, Hi-C or the come back of the Changeables Happy Meal in the US all happened because of what we've heard here.\n\nI will also share more campaigns from countries around the world in the near future.\n\nIf you have never come across my profile before, I started my career at McDonald's in France as an intern and joined the US market as a Social Media Manager in February 2020. First mission was to reset our social media strategy and make us a modern brand. I then took over all US campaigns starting in 2024 with cool moments like the return of the Snack Wrap, Kai Cenat Chicken Big Mac, Minecraft, KPOP Demon Hunters and other fun things.\n\nThank you to everyone here who's ever interacted with me. Grateful for the feedback and advices we get here everyday. I aspire to be a decent marketer and a CMO one day, and every time I get to read one of your comments, I feel like it is getting me closer to that goal.",
-      "link": "https://nitter.net/HuinGuillaume/status/2082837545096810781#m",
-      "date": "Thu, 30 Jul 2026 14:35:42 GMT"
+      "text": "Starlink with @SostGlobalMX, is providing high-speed internet to two community centers run by Indigenous Maya groups on Mexico’s Yucatán Peninsula. At these centers, several families can now access digital tools for education, improve farming projects and protect forest conservation 🛰️❤️",
+      "link": "https://nitter.net/Starlink/status/2083333504306401323#m",
+      "date": "Fri, 31 Jul 2026 23:26:28 GMT"
     },
     {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2083062407245516802#m",
-      "date": "Fri, 31 Jul 2026 05:29:13 GMT"
+      "text": "Moonlight Sonata Starship\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2083343510757892116#m",
+      "date": "Sat, 01 Aug 2026 00:06:14 GMT"
     },
     {
-      "text": "Absolutely\n\n\nWill Chamberlain (@willchamberlain)\n\nI cannot stand the idiots on the right who are demoralizing our own side.\n\nIf the Democrats take Congress they will use every bit of leverage they have to stop deportations.\n\nIf they take the White House in 2028 they will re-open the borders.\n\nLosing is NOT AN OPTION\n\n\n\n— https://nitter.net/willchamberlain/status/2083035167107490075#m",
-      "link": "https://nitter.net/elonmusk/status/2083061867119800659#m",
-      "date": "Fri, 31 Jul 2026 05:27:05 GMT"
+      "text": "Zimbabwe destroyed itself the day it destroyed the people who produce. \n\nConfiscating 4,500 productive commercial farms from the people who actually knew how to run them and handing them to political allies with zero farming experience is precisely how you turn Africa’s breadbasket into a country that can’t feed itself and ends up printing 100 trillion dollar notes that won’t even cover a bus fare.\n\nMugabe did exactly that in 2000. >commercial farmland lost 3/4 of its value in a single year\n>food production dropped 60% over the next decade\n>nearly 700 companies that depended on farm exports and food processing shut down within 2 years\n>the economy shrank more than 6% a year and average incomes fell by more than half\n\n“Just give poor people money, bro!” \n\nAnd so they did with the tax base gone!\n \n>printed money to fill the hole\n>prices were doubling every 24 hours by late 2008\n>official inflation numbers stopped being published and an independent economist calculated monthly inflation at 79.6 billion %. \n\nCommunism is grand.\n\nVideo\n  \n\n\n\n\nRothmus 🏴 (@Rothmus)\n\nGermany printed money until people burned banknotes for heat because firewood cost more.\n\nBy late 1923, workers got paid TWICE A DAY because their wages lost value between breakfast and lunch. \n\nThe spiral started when France and Belgium occupied the Ruhr after Germany missed reparations payments, German workers walked out in mass strike, and the government covered their wages by running the printing presses nonstop. \n\n$1 bought 4.2 marks in 1914 and 4.2 trillion by November 1923. \n\nPeople hauled pay home in wheelbarrows and suitcases while wives met husbands at the factory gate to spend the morning’s money before afternoon prices made it worthless.\n\nGustav Stresemann introduced the Rentenmark in November, backed by mortgages on land and industry after the gold was gone, and simply cut 12 zeros off the old prices. It stabilized almost overnight. \n\nA year later the Reichsmark replaced it and the hyperinflation that erased an entire middle class’s savings was over within weeks.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Rothmus/status/2083206170458669138#m",
+      "link": "https://nitter.net/Rothmus/status/2083234027146752329#m",
+      "date": "Fri, 31 Jul 2026 16:51:11 GMT"
     },
     {
-      "text": "They prey upon your empathy\n\n\nAlice Smith (@TheAliceSmith)\n\nThey told us immigrants were doctors and engineers - they weren’t.\n\nThey told us immigrants were refugees and evacuees - they weren’t.\n\nThey told us immigrants were women and children - they’re not.\n\nIt’s been lie after lie upon lie.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2083006946542547444#m",
-      "link": "https://nitter.net/elonmusk/status/2083061553880805744#m",
-      "date": "Fri, 31 Jul 2026 05:25:50 GMT"
+      "text": "This is the most impossible launch moments ever captured this close\n\nA camera sat beneath Starship’s Super Heavy booster as all 33 Raptor engines ignited at once\n\nInside each Raptor, methane and oxygen produce combustion gases approaching 3,000°C, or roughly 5,400°F\n\nThen the full engine array erupts, hammering the launch mount with supersonic exhaust, violent shockwaves, extreme acoustic energy, vibration, water spray and enormous clouds of steam\n\nYet the camera kept recording through the entire ignition sequence from directly beneath the mount, without the view ever clouding or fogging\n\nSpaceX team engineered a way to capture footage from the most brutal launch environments imaginable\n\nThe camera system behind this shot may be almost as impressive as the footage itself\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2083298049112367272#m",
+      "date": "Fri, 31 Jul 2026 21:05:35 GMT"
     },
     {
-      "text": "Seriously\n\n\nThe Babylon Bee (@TheBabylonBee)\n\nCalifornia DMV Worker Requests Interpreter To Assist Customer Who Speaks English buff.ly/Bh4RCzc\n\n\n\n\n\n— https://nitter.net/TheBabylonBee/status/2082909485006291176#m",
-      "link": "https://nitter.net/elonmusk/status/2083050405349482668#m",
-      "date": "Fri, 31 Jul 2026 04:41:32 GMT"
+      "text": "21 out of 27 EU countries have more deaths than births\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Europe is facing a historic birth collapse.\n\n• EU: 3.46 million births vs 4.81 million deaths in 2025, a natural loss of 1.35 million people.\n\n• 21 of 27 EU countries recorded more deaths than births. The EU’s population growth came entirely from migration.\n\n• EU fertility fell to a record-low 1.34 in 2024, declining in 24 of 27 member states.\n\n• Germany: 654,241 births in 2025, the lowest postwar total. Fertility fell to 1.32.\n\n• France: Fertility fell to 1.56, the lowest since WWI. Deaths exceeded births for the first time since WWII.\n\n• Italy: Just 355,000 births vs 652,000 deaths. Fertility fell to 1.14.\n\n• Poland: 238,000 births, the lowest postwar total. Deaths exceeded births by 168,000.\n\n• Czechia: 77,636 births, the lowest ever. Fertility fell to 1.28.\n\n• England and Wales: Births fell 1.6% in 2025, while fertility dropped to an estimated 1.39.\n\n• Scotland: Births reached their lowest level since records began in 1855. Fertility hit a record-low 1.25.\n\n• Austria: Births fell to a 25-year low. Fertility hit a record-low 1.30.\n\n• Switzerland: Fertility fell again to 1.28 in 2025.\n\n• Greece: 68,467 births vs 126,916 deaths.\n\n• Malta, Spain and Lithuania recorded the EU’s lowest fertility rates: 1.01, 1.10 and 1.11.\n\n• Spain still recorded 122,167 more deaths than births in 2025, despite a small rise in births.\n\n• Finland: Fertility rose slightly to 1.30 in 2025, but remains far below 1.87 in 2010.\n\nReplacement level is roughly 2.1 children per woman.\n\nEurope’s demographic crisis is no longer limited to just a few countries.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2083307164290973733#m",
+      "link": "https://nitter.net/elonmusk/status/2083325295369564560#m",
+      "date": "Fri, 31 Jul 2026 22:53:51 GMT"
     },
     {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2083048643615957215#m",
-      "date": "Fri, 31 Jul 2026 04:34:32 GMT"
+      "text": "Connect Superwhisper to Grok Build with your SuperGrok or X Premium subscription\n\n\nsuperwhisper (@superwhisper)\n\nKeep a tab on your agents from anywhere. Our integration is now live in @Grok Build✨\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/superwhisper/status/2083285646387433827#m",
+      "link": "https://nitter.net/SpaceXAI/status/2083312089620222378#m",
+      "date": "Fri, 31 Jul 2026 22:01:22 GMT"
     },
     {
-      "text": "Wow, the situation in Spain looks crazy!\n\nVideo",
-      "link": "https://nitter.net/elonmusk/status/2083034836097192096#m",
-      "date": "Fri, 31 Jul 2026 03:39:40 GMT"
+      "text": "Most countries are dying",
+      "link": "https://nitter.net/elonmusk/status/2083323403134439684#m",
+      "date": "Fri, 31 Jul 2026 22:46:20 GMT"
+    },
+    {
+      "text": "I finally have all 1.2 million raw image files from my latest mission to ISS! Here is a sample of one of my favorite Milky Way photos, taken from the Cupola with Nikon Z9, Arri Zeiss 15mm lens, T1.8 with custom sidereal drive that cancelled out star motion relative to our orbit.",
+      "link": "https://nitter.net/astro_Pettit/status/2083310808927293700#m",
+      "date": "Fri, 31 Jul 2026 21:56:17 GMT"
+    },
+    {
+      "text": "Nigeria alone had 4 million more births than the entire EU last year! grok.com/share/bGVnYWN5_55b9…\n\nLink\n\n\n\nNigeria vs EU Births | Shared Grok Conversation\n\nAre you, wait. Are you sure that Nigeria had 4 million births than the EU last year?\ngrok.com",
+      "link": "https://nitter.net/elonmusk/status/2083304103799664685#m",
+      "date": "Fri, 31 Jul 2026 21:29:38 GMT"
+    },
+    {
+      "text": "This is essentially true. \n\nHowever, it is possible to filter for exceptional people from any country. The problem for the left is that exceptional people mostly won’t vote for them.\n\n\nAlice Smith (@TheAliceSmith)\n\nIf you’re wondering whether mass immigration a good or bad thing, then look at the countries they’re coming from and ask if you want your country to become like that.\n\nIt really is that simple.\n\n\n\n— https://nitter.net/TheAliceSmith/status/2083084415287128143#m",
+      "link": "https://nitter.net/elonmusk/status/2083302544026046857#m",
+      "date": "Fri, 31 Jul 2026 21:23:27 GMT"
+    },
+    {
+      "text": "The top 0.1% paid $440 billion in federal income taxes.\n\nThe bottom 80% paid $350 billion.\n\nYes, the top 0.1% paid more than the entire bottom 80% COMBINED.\n\nThe tax code is already extremely progressive. Leftists know this. There’s almost nothing left to extract from income.\n\nThat’s why they’ve shifted the target from income to assets. \n\nThey now want to expropriate asset owners through property taxes and wealth taxes.\n\nBut even then, total confiscation would only fund the government for a few months, while destroying the productive capital that generates future wealth. \n\nEssentially, they’re trading the future for a few short months of spending.\n\nAnd no amount will ever satisfy them, because the real goal is to forbid wealth creation itself. \n\nNo one is allowed to rise above the lowest common denominator.\n\nBut the truth remains that the government already has more than enough revenue. \n\nWe have a spending problem, not a revenue problem.\n\n\nPeter St Onge, Ph.D. (@profstonge)\n\nOn the free newsletter — now including the weekly round up video 🥳\n\nThe Top 0.1% Now Pay more Tax Than Bottom 80%\n\n\"The rich could pay 100% of taxes and it still wouldn't be their \"fair share.\" \n\n\"Because it's not about fairness. It's about power.\n\nopen.substack.com/pub/profst…\n\n\n\n\n\n— https://nitter.net/profstonge/status/2083153200337580443#m",
+      "link": "https://nitter.net/Rothmus/status/2083180502891020644#m",
+      "date": "Fri, 31 Jul 2026 13:18:30 GMT"
+    },
+    {
+      "text": "Starship in space as seen by Starlink\n\n\nSpaceX (@SpaceX)\n\nView of Starship in space from a Starlink V3 satellite on Flight 13.\n\nThis composite is made of imagery from four separate cameras on a single satellite. Six of the satellites were equipped with cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2083296921230164378#m",
+      "link": "https://nitter.net/elonmusk/status/2083298392357167506#m",
+      "date": "Fri, 31 Jul 2026 21:06:57 GMT"
     }
   ]
 }
