@@ -1,8 +1,43 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-08-01T16:04:25Z",
+  "updated_at": "2026-08-01T19:16:23Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "2026.21.5 with FSD 14.3.7 rolling out to Cybertruck now!\n\n@teslascope @vehiclescope",
+      "link": "https://nitter.net/caseysfloyd/status/2083631128712482975#m",
+      "date": "Sat, 01 Aug 2026 19:09:07 GMT"
+    },
+    {
+      "text": "Full Self-Driving V14.3.7 is now rolling out for the first time to AI4 vehicles.\n\n\nTeslascope (@teslascope)\n\nThe following feature is included: FSD (Supervised) v14.3.7\n\nteslascope.com/software/2026…\n\n\n\n\n\n— https://nitter.net/teslascope/status/2083630782774407576#m",
+      "link": "https://nitter.net/teslascope/status/2083631709757604308#m",
+      "date": "Sat, 01 Aug 2026 19:11:26 GMT"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.21.5 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.21.5 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.5.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2083630759403733423#m",
+      "date": "Sat, 01 Aug 2026 19:07:39 GMT"
+    },
+    {
+      "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2083630800390480383#m",
+      "date": "Sat, 01 Aug 2026 19:07:49 GMT"
+    },
+    {
+      "text": "The following feature is included: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2083630791649599602#m",
+      "date": "Sat, 01 Aug 2026 19:07:47 GMT"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) v14.3.7\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2083630782774407576#m",
+      "date": "Sat, 01 Aug 2026 19:07:45 GMT"
+    },
+    {
+      "text": "The following feature is included: Actually Smart Summon\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2083630772980764877#m",
+      "date": "Sat, 01 Aug 2026 19:07:42 GMT"
+    },
     {
       "text": "Enjoying a brief trip along the Baja California coast in a friend’s Model Y.\n\nWhile in the car, I used @cursor_ai +\nGrok 4.5 to develop an iOS app for managing the service while on the go.\n\nEven on vacation, all I can think of is work!",
       "link": "https://nitter.net/teslascope/status/2083268951132516399#m",
@@ -67,41 +102,6 @@
       "text": "The following feature is included: Set Arrival Energy \n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2083048258822086981#m",
       "date": "Fri, 31 Jul 2026 04:33:00 GMT"
-    },
-    {
-      "text": "The following feature is included: Caraoke with Scoring\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083048249863086150#m",
-      "date": "Fri, 31 Jul 2026 04:32:58 GMT"
-    },
-    {
-      "text": "The following feature is included: \"Hey Grok\" \n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083048241407353168#m",
-      "date": "Fri, 31 Jul 2026 04:32:56 GMT"
-    },
-    {
-      "text": "The following feature is included: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083039687053074662#m",
-      "date": "Fri, 31 Jul 2026 03:58:57 GMT"
-    },
-    {
-      "text": "The following feature is included: Supercharger Search\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083039678219886758#m",
-      "date": "Fri, 31 Jul 2026 03:58:54 GMT"
-    },
-    {
-      "text": "The following feature is included: Web Browser\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083039668161962148#m",
-      "date": "Fri, 31 Jul 2026 03:58:52 GMT"
-    },
-    {
-      "text": "The following feature is included: Driving Visualization\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083039659601355118#m",
-      "date": "Fri, 31 Jul 2026 03:58:50 GMT"
-    },
-    {
-      "text": "The following feature is included: Apple Music \n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2083039649551770007#m",
-      "date": "Fri, 31 Jul 2026 03:58:48 GMT"
     }
   ]
 }
