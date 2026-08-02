@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-01T21:59:37Z",
+  "updated_at": "2026-08-02T03:26:14Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Thank you, @cursor_ai, for providing free credits to several FFmpeg developers. These credits will support their ongoing work on FFmpeg, including development and code review.\n\nWe greatly appreciate Cursor’s support for FFmpeg and its community.",
+      "link": "https://nitter.net/FFmpeg/status/2083656620576231556#m",
+      "date": "Sat, 01 Aug 2026 20:50:25 GMT"
+    },
+    {
+      "text": "I would like to see a steampunk-style film\n\nVideo",
+      "link": "https://nitter.net/dvorahfr/status/2083552831542370314#m",
+      "date": "Sat, 01 Aug 2026 13:58:00 GMT"
+    },
+    {
+      "text": "Starlink enables fast, reliable connectivity where traditional infrastructure does not exist 🛰️🏔️\n\n\nOffRoadCampingBoys (@OffRoadCampBoys)\n\nMany of the areas we went, there is not a single cell provider that has reception for long distances.  Here is a speed test location at one camp site. And, yes, the more remote the better it performs.  We ran Starlink for 8,431 miles - non-stop and turned off cellular data to prevent switching and dropping from the network.\n\n\n\n\n\n\n\n— https://nitter.net/OffRoadCampBoys/status/2079023053942751663#m",
+      "link": "https://nitter.net/Starlink/status/2083624518862684644#m",
+      "date": "Sat, 01 Aug 2026 18:42:51 GMT"
+    },
+    {
+      "text": "Made with Grok Imagine\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2083709924236751300#m",
+      "date": "Sun, 02 Aug 2026 00:22:14 GMT"
+    },
+    {
+      "text": "Grok Imagine\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2083706250370449572#m",
+      "date": "Sun, 02 Aug 2026 00:07:38 GMT"
+    },
+    {
+      "text": "SpaceX just completed its 90th Falcon-family launch of 2026\n\nFalcon 9 lifted off from Vandenberg carrying 24 Starlink satellites, successfully deploying all of them into low Earth orbit\n\nBooster B1081 completed its 26th mission and landed on Of Course I Still Love You in the Pacific\n\nThat is 89 Falcon 9 launches and one Falcon Heavy mission in just seven months",
+      "link": "https://nitter.net/XFreeze/status/2083446940562243827#m",
+      "date": "Sat, 01 Aug 2026 06:57:13 GMT"
+    },
     {
       "text": "The Moon base will be even more epic\n\n\nDon Pettit (@astro_Pettit)\n\nMany have asked how this photo was made. This is my explanation.\n\nThe ISS rotates about its pitch axis as it orbits Earth at 17,000mph to keep its nadir view constant. Because of this long exposure photography turns stars into arced lines.\n\nSidereal clock drives on Earth match the planet's rotation to see stars clearly. I knew one designed for space could do this too.\n\nSo a camera mount was custom built at @RITtigers to rotate once every 90 minutes using a 60 to 90 toothed gear system, cancelling out the orbital motion of ISS and allowing the capture of distant stars as fixed points! \n\nIn essence, it is a a rotational coil spring powered analog star tracker. It was machined out of aluminum and is entirely mechanical to bypass NASA's strict electrical requirements for cargo. We had to get creative!\n\nAfter Expedition 72 it was safely returned to Earth and is to be displayed at RIT. Which I am pleased to say because a similar barn door tracker I made from spare parts on Expedition 6 for nighttime city photography was destroyed in an atmospheric trash disposal!\n\nPhotography is an important part of sharing the journey to new frontiers for all people of Earth!\n\n\n\n\n\n— https://nitter.net/astro_Pettit/status/2083655015240016368#m",
       "link": "https://nitter.net/elonmusk/status/2083658315582632272#m",
@@ -72,36 +102,6 @@
       "text": "Grok Build can do almost anything you can think of\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nMost people seriously underestimate what Grok Build can do\n\nThey assume an AI coding agent is only useful for building apps or writing complex software\n\nBut some of its most valuable work is handling the boring, obvious tasks that quietly consume 10 minutes here, 20 minutes there, every single day\n\nFor example, I gave Grok Build a SpaceX video posted on 𝕏 and asked it to extract the clearest frames and turn them into a clean collage\n\nIt pulled the video, selected the strongest images, cropped them, arranged the layout and produced the final collage shown in the post below\n\nI simply described the result I wanted, then let it handle the entire process while I worked on something else\n\nAnd that is only one small example\n\nYou can use Grok Build to:\n• Organize and intelligently search files across your computer\n• Diagnose and fix audio, display and system-setting problems\n• Download, install and configure apps or tools\n• Extract images or audio from videos\n• Add music, trim, compress and convert media\n• Resize, crop and enhance images\n• Batch rename and organize hundreds of files\n• Clean spreadsheets, merge datasets and build dashboards\n• Write scripts and automate repetitive tasks\n• Fix broken configurations and connect tools together\n\nEven something as annoying as an audio setting not working becomes much easier\n\nInstead of hunting through menus, searching forums and trying random fixes, you can explain the problem to Grok Build\n\nIt can inspect the setup, identify the likely cause, change the relevant configuration and test whether the fix worked\n\nIt is basically an agentic operator living inside your computer, working within the permissions you give it\n\nI also keep a simple instruction file telling Grok how I prefer tasks to be completed, including automatically opening the finished result after a successful run so I do not forget about it\n\nConfigure the workflow once, and Grok keeps working the way you prefer\n\nThat is what makes Grok Build so useful\nIt is not only building software\n\nIt turns all the small computer tasks between an idea and the finished result into work you can simply describe and delegate\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2083398783551799459#m",
       "link": "https://nitter.net/elonmusk/status/2083406375955177911#m",
       "date": "Sat, 01 Aug 2026 04:16:02 GMT"
-    },
-    {
-      "text": "Watch Falcon 9 launch 24 @Starlink satellites to orbit from California nitter.net/i/broadcasts/1AxRnnrOb…\n\nLink\n\n\n\nSpaceX\n\nStarlink Mission\nhttps://nitter.net/i/broadcasts/1AxRnnrObgzxl",
-      "link": "https://nitter.net/SpaceX/status/2083386927521153342#m",
-      "date": "Sat, 01 Aug 2026 02:58:45 GMT"
-    },
-    {
-      "text": "Grok Build improvements\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got another meaningful upgrade, bringing permanent session deletion, smarter diagnostics, better keyboard guidance, and stronger reliability across session management, background tasks, and compaction\n\nRelease Notes: v0.2.118\n\nFeatures:\n• Sessions can now be permanently deleted from the dashboard by pressing Ctrl+X twice on an idle row, or from the welcome list with d then y.\n• Keyboard shortcuts help (Ctrl+.) now shows how to browse prompt history and search the conversation.\n• grok doctor now warns when tmux is reducing colors and can fix the config.\nBug Fixes:\n• /btw now retries on temporary model overload instead of failing immediately.\n• Session sharing is temporarily disabled.\n• [stop] / Ctrl+C during /compact now cancels instead of no-opping.\n• Automatic recaps no longer appear twice after the same turn.\n• Background task wait timeout descriptions and limits now match the client's actual configured ceiling.\n• Background tasks no longer stay stuck as 'Running' in the tasks pane when they finish quickly.\n• Plan mode indicator now disappears right after approving a plan instead of lingering.\n• Dragging the scrollbar in the plan preview now works as expected.\n• Compaction now correctly handles certain context-length errors from the inference API.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2083354386655285519#m",
-      "link": "https://nitter.net/elonmusk/status/2083372850505781361#m",
-      "date": "Sat, 01 Aug 2026 02:02:49 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2083371052067860671#m",
-      "date": "Sat, 01 Aug 2026 01:55:40 GMT"
-    },
-    {
-      "text": "Try @Grok Build\n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nJason Kneen (@jasonkneen)\n\nHonestly and this is not sponsored, @grok and @SpaceXAI grok build are just astonishing. I just paid for the promo for grok heavy.\n\nI took a screenshot of a workflow tool, asked Grok Build to make it and it got a working first pass.\n\nFrom there it's taken no longer than 30mins of a handful of prompts etc to turn it into a complete and polished product that can create workflows, then them, debug and supports writing custom tooling.\n\nJust astonishing.\n\n\n\n— https://nitter.net/jasonkneen/status/2083077756447818176#m",
-      "link": "https://nitter.net/elonmusk/status/2083369385616421314#m",
-      "date": "Sat, 01 Aug 2026 01:49:03 GMT"
-    },
-    {
-      "text": "Imagine Video 1.5 improvements\n\n\nGrok (@grok)\n\nImagine Video 1.5 launched last month as our best video model yet, with more lifelike motion and sound. Today it goes even further with text-to-video support, image and voice references, and native 1080p.\n\ngrok.com/imagine\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2083353607370416632#m",
-      "link": "https://nitter.net/elonmusk/status/2083356782693380350#m",
-      "date": "Sat, 01 Aug 2026 00:58:58 GMT"
-    },
-    {
-      "text": "SECRETARY RUBIO: We in America have no interest in being polite and orderly caretakers of the West's managed decline.\n\nVideo",
-      "link": "https://nitter.net/StateDept/status/2083230240189436318#m",
-      "date": "Fri, 31 Jul 2026 16:36:08 GMT"
     }
   ]
 }
