@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-02T10:43:49Z",
+  "updated_at": "2026-08-02T21:59:01Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Spain, I’ve come to assess the situation.\nThe West must stand strong or fall.",
+      "link": "https://nitter.net/nickshirleyy/status/2083920891314884633#m",
+      "date": "Sun, 02 Aug 2026 14:20:32 GMT"
+    },
+    {
+      "text": "Accurate 😂",
+      "link": "https://nitter.net/elonmusk/status/2083979613156340154#m",
+      "date": "Sun, 02 Aug 2026 18:13:52 GMT"
+    },
     {
       "text": "Grok can analyze any video \ngrok.com/share/bGVnYWN5_8013…\n\nLink\n\n\n\nKobe Bryant pitches Grok 4.5 | Shared Grok Conversation\n\nWhich AI made this?\ngrok.com",
       "link": "https://nitter.net/elonmusk/status/2083800942927839307#m",
@@ -92,16 +102,6 @@
       "text": "💯\n\n\nThe Rabbit Hole (@TheRabbitHole)\n\nReject collective guilt\n\n\n\n\n\n— https://nitter.net/TheRabbitHole/status/2083371896784187674#m",
       "link": "https://nitter.net/elonmusk/status/2083433190941691982#m",
       "date": "Sat, 01 Aug 2026 06:02:35 GMT"
-    },
-    {
-      "text": "Read this Fauci diary entry closely. Officials would not admit the vaccine was not stopping spread because it might weaken the legal case for mandates. That is not science. That is a cover-up to justify coercion.\n\n\nJeffrey A Tucker (@jeffreytucker)\n\nAugust 13, 2022: we cannot admit that the shots don't work because that would undermine our policy to force people to get them.\n\n\n\n\n\n— https://nitter.net/jeffreytucker/status/2083155057462181979#m",
-      "link": "https://nitter.net/RandPaul/status/2083318034505109688#m",
-      "date": "Fri, 31 Jul 2026 22:25:00 GMT"
-    },
-    {
-      "text": "Cool\n\n\ntetsuo (@tetsuoai)\n\ngrok plugin marketplace add 7etsuo/write-legible-c\ngrok plugin install write-legible-c --trust\n\nGrok Build with Grok 4.5 is producing the most beautiful C I have ever seen come out of a model.\n\nEvery function under 25 lines with one job. Nesting never past depth 2. Zero naked literals. Every failure greps to a single producing line and the happy path runs straight down the left margin. Code you can read at 2am with the pager going off.\n\nIt took a standard to get there. I shipped it as a Grok Build plugin.\n\nwrite-legible-c gates Grok with strict C11 machine legibility every time it touches a .c or .h file. Every function is an orchestrator, a leaf, or an adapter, never a mix. A TRY macro that makes the forgotten check bug impossible to hide. An 18 item checklist the model runs before it shows you code. Clean code is a performance feature too: rewrites that cut model perceived complexity lift LLM task performance by up to 21 percent.\n\nFull 18 section standard inside.\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2083392485649531339#m",
-      "link": "https://nitter.net/elonmusk/status/2083430685411299374#m",
-      "date": "Sat, 01 Aug 2026 05:52:38 GMT"
     }
   ]
 }
