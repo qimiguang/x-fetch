@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-08-03T17:11:12Z",
+  "updated_at": "2026-08-03T19:44:12Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.26.1 is now rolling out to ~2,970 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.26.1 on Model 3 SR (2022) in Taipei, Taiwan. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.1 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2083039587073429876#m",
+      "link": "https://nitter.net/teslascope/status/2084336003012014081#m",
+      "date": "Mon, 03 Aug 2026 17:50:02 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.20.300 (factory update) on a Tesla vehicle (2026). View the rollout of this update here: teslascope.com/software/2026…\n\nFactory updates are available to recently delivered vehicles only.\n\nLink\n\n\n\n2026.20.300 Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.20.300.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2083974413582508179#m",
@@ -97,11 +102,6 @@
       "text": "Earlier we identified an issue with Groups not being accessible by its own members thanks to a report by @AusTeslaOwners.\n\nThis resulted from related optimizations we made to our API backend yesterday and has now been resolved.\n\nWe apologize for any inconvenience caused by this.",
       "link": "https://nitter.net/teslascope/status/2083337455256981791#m",
       "date": "Fri, 31 Jul 2026 23:42:10 GMT"
-    },
-    {
-      "text": "We're adding what countries are included in a new Tesla software wave to help provide much needed context.\n\nWhen available, we'll also include additional details in a subsequent reply post, such as what software versions vehicles are originating from.\n\nYour feedback matters.\n\n\nMarcus (@ResumeGamingYT)\n\n@teslascope can you possibly add to your auto alert which region each update is for? IE, NA, CN, OCE, etc? \n\nThese are getting really hard to track what’s relevant to me and my region.\n\n\n\n— https://nitter.net/ResumeGamingYT/status/2083304878772728020#m",
-      "link": "https://nitter.net/teslascope/status/2083308579369750819#m",
-      "date": "Fri, 31 Jul 2026 21:47:25 GMT"
     }
   ]
 }
