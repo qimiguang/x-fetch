@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-03T19:44:11Z",
+  "updated_at": "2026-08-04T02:56:42Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok Build update \n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nDogeDesigner (@cb_doge)\n\n🚨 NEW GROK BUILD UPDATE 🚨\n\nSpaceXAI is pushing new Grok Build updates almost daily. \n\nGrok Build v0.2.120 is now live. \n\nBug Fixes:\n• Model picker now updates the status bar and /model menu immediately, even before the first prompt creates a session.\n• Changes panel now refreshes after the agent commits on the current branch instead of showing stale unstaged files.\n• Background task completions now report the full log size and read hint even when only a short prefix was captured.\n• GitHub export on old hibernated sessions now shows a clear message to start a new chat instead of a generic error.\n\nTo download Grok Build Visit: x.ai/cli\nTo update to Alpha Version use command: grok update --alpha\nTo update to Stable Version use command: grok update\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2084327099511222597#m",
+      "link": "https://nitter.net/elonmusk/status/2084423416493338866#m",
+      "date": "Mon, 03 Aug 2026 23:37:23 GMT"
+    },
+    {
+      "text": "Starlink anywhere\n\n\nStarlink (@Starlink)\n\nStarlink provides the reliable connectivity needed to run company payroll even in the most remote locations\n\n\n\n— https://nitter.net/Starlink/status/2084417577615610232#m",
+      "link": "https://nitter.net/elonmusk/status/2084423245571252470#m",
+      "date": "Mon, 03 Aug 2026 23:36:43 GMT"
+    },
+    {
+      "text": "The next evolution of humanity will be written in space.\n\nVideo",
+      "link": "https://nitter.net/dvorahfr/status/2084315501778371018#m",
+      "date": "Mon, 03 Aug 2026 16:28:34 GMT"
+    },
+    {
+      "text": "💯\n\n\n@jason (@Jason)\n\nThis is going down to $25m in under 18 months… then $10m and finally $3m\n\n\n\n— https://nitter.net/Jason/status/2084329378469601441#m",
+      "link": "https://nitter.net/elonmusk/status/2084377571429433431#m",
+      "date": "Mon, 03 Aug 2026 20:35:13 GMT"
+    },
+    {
+      "text": "Wow\n\n\nNick shirley (@nickshirleyy)\n\n🚨 Here is the truth from Ceuta, Spain:\n60,000+ migrants from Morocco’s border stormed the small town and are now hiding in the mountains and city to reach mainland Europe.\n\nMoroccan migrants said Moroccan authorities let them through their border and Spain literally opened their gates upon arrival. Many migrants thank PM Pedro Sánchez for opening the border... Ceuta is now effectively shut down due to looting concerns, and the military is losing power as migrants outnumber them and continue to escape into the mountains.\n\nNow thousands of military age men are set to spread throughout Europe due to one country’s “failure.”\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/nickshirleyy/status/2084319166589243470#m",
+      "link": "https://nitter.net/elonmusk/status/2084377228717010984#m",
+      "date": "Mon, 03 Aug 2026 20:33:51 GMT"
+    },
+    {
+      "text": "Describe it once. Watch Grok Imagine bring your imaginations to life\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2084300392876372395#m",
+      "date": "Mon, 03 Aug 2026 15:28:32 GMT"
+    },
     {
       "text": ".@elonmusk — it’s not just ironic, it’s hypocritical! @NYCMayor Mamdani’s going to require an ID check for his grocery stores, but thinks it’s racist to require one for federal elections?!? \n\nWe HAVE to pass the SAVE America Act to end this corruption!\n\n\nElon Musk (@elonmusk)\n\nOh, the irony is too much …\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/elonmusk/status/2084277243585384481#m",
       "link": "https://nitter.net/SenRickScott/status/2084298101460701372#m",
@@ -72,36 +102,6 @@
       "text": "Grok can now analyze any video. \n\nFrom identifying AI-generated content to explaining what's happening frame by frame, Grok's video understanding is taking another big step forward.",
       "link": "https://nitter.net/teslaownersSV/status/2083979013396279393#m",
       "date": "Sun, 02 Aug 2026 18:11:29 GMT"
-    },
-    {
-      "text": "Grok Build improvements \n\nX.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build keeps getting smarter.....this update expands Auto mode, gives developers more control over Bash permissions, speeds up /btw, and makes long conversations easier to navigate\n\nRelease Notes: v0.2.119\n\nFeatures:\n• Always allow for bash commands now lets you edit a free-form glob pattern instead of only word-prefix scopes.\n• Long responses now show a clickable arrow that jumps back to the start of the answer.\n• Auto mode now auto-approves more common read-only git commands and harmless file appends.\n• Plan previews now show Mermaid diagram buttons (Open Image, Copy Image Path, Copy Source).\n\nBug Fixes:\n• Gateway connections now detect and recover from dead sockets more reliably.\n• Question cards now let you Tab through answers instead of losing focus to the scrollback.\n• Resume picker no longer tries to load a session from pasted garbage when you press Enter.\n• Background task completion messages no longer grow unbounded when the task produced a huge log.\n• Plan viewer scrollbar now responds to clicks on the border column and renders without dark stripes in Terminal.app.\n• Expired external auth provider credentials now correctly trigger the interactive sign-in flow instead of a silent 401 loop.\n\nPerformance:\n• /btw side questions now reuse the parent session’s cached prefix for faster responses.\n• Doctor and tmux-backed startup are now faster when no live tmux processes remain.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2084010242329981059#m",
-      "link": "https://nitter.net/elonmusk/status/2084156097405849727#m",
-      "date": "Mon, 03 Aug 2026 05:55:10 GMT"
-    },
-    {
-      "text": "Damn... new Grok Imagine 1.5 update is wild\n\nVideo",
-      "link": "https://nitter.net/minchoi/status/2084126964164542716#m",
-      "date": "Mon, 03 Aug 2026 03:59:24 GMT"
-    },
-    {
-      "text": "Did you know more white slaves were taken to Africa than Black slaves taken to the United States of America\n\nWhere are our reparations?",
-      "link": "https://nitter.net/BasilTheGreat/status/2083976409744081207#m",
-      "date": "Sun, 02 Aug 2026 18:01:09 GMT"
-    },
-    {
-      "text": "my MacBook was heating up my lap and nearly cooking my balls, so I asked Grok Build to investigate\n\nIt found the culprit 😂",
-      "link": "https://nitter.net/XFreeze/status/2084122084297359607#m",
-      "date": "Mon, 03 Aug 2026 03:40:00 GMT"
-    },
-    {
-      "text": "Midnight on Saturday at Boring Factory in Bastrop, TX!  \n\nTeam is welding Prufrock-MB3, which ships to Nashville in September.\n\nVideo",
-      "link": "https://nitter.net/boringcompany/status/2083789039648268774#m",
-      "date": "Sun, 02 Aug 2026 05:36:36 GMT"
-    },
-    {
-      "text": "The Pacific Ocean this morning from the cupola with an iPhone",
-      "link": "https://nitter.net/astro_anil/status/2083856550788043064#m",
-      "date": "Sun, 02 Aug 2026 10:04:52 GMT"
     }
   ]
 }
