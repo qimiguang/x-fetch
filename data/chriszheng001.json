@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-08-04T08:46:25Z",
+  "updated_at": "2026-08-04T11:28:51Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "非常有趣。对于这类场景，大部分时候 FSD 选择倒车避让，人类司机也是如此。这次选择尽量右打，事实证明空间是够的，这种对空间的预估和不同的避让策略非常 interesting.\n\n\nSpicy Tech (@SpicyTech_ca)\n\nYou know Tesla FSD is improving when it starts reacting to situations before your brain has fully processed them. @Tesla_AI\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpicyTech_ca/status/2084295958674760028#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2084586334036058210#m",
+      "date": "Tue, 04 Aug 2026 10:24:46 GMT"
+    },
     {
       "text": "速度是自动驾驶模型对齐中的终极问题，一个模型要跑出符合预期的速度，前提是准确理解它所处环境的细微差异，这是看似简单，实则最难的问题。\n\n\nAshok Elluswamy (@aelluswamy)\n\nMax speed control is an anti pattern. \n\nWe are working on better learning of user’s implied preferences.\n\n\n\n— https://nitter.net/aelluswamy/status/2084409199124238762#m",
       "link": "https://nitter.net/ChrisZheng001/status/2084431664680448443#m",
@@ -97,11 +102,6 @@
       "text": "Watch frame by frame. FSD responds instantly, even before the vehicle ahead.\n\n\nPete Balls to the wall FSD 🤖🚕 (@kylaschwaberow)\n\nFSD might have just saved me from a head on collision. \nMy Tesla was taking evasive action before I even saw the danger.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/kylaschwaberow/status/2065563105913196758#m",
       "link": "https://nitter.net/pduan/status/2065983996857905544#m",
       "date": "Sun, 14 Jun 2026 02:25:43 GMT"
-    },
-    {
-      "text": "I’ve had a number of conversations with folks inside and outside government about the current situation with Anthropic, and here is what I believe to be true: \n\n— As we know, Anthropic publicly released its Mythos class models earlier this week under the commercial name Fable. \n\n— Fable is Mythos with guardrails. But if those guardrails fail, then you’ve exposed Mythos and its advanced cyber capabilities to people who shouldn’t have them. (Keep in mind that Anthropic itself widely promoted the idea that Mythos was a cyberweapon and needed to be regulated as such. They asked for government regulation of Mythos and championed the guardrails on Fable. If there is a vulnerability — big or small — it is Anthropic’s responsibility to patch.)\n\n— A highly credible trusted partner of both Anthropic and the USG who was testing Fable came forward with a jailbreak of those guardrails. The Admin asked Dario to fix the jailbreak or de-deploy the model. Dario refused. \n\n— In their blog post, Anthropic defended its decision by saying the jailbreak isn’t serious. That is not what the trusted partner and the USG believe; nor is that kind of minimizing language consistent with Anthropic’s brand as the AI safety company. It’s difficult to fathom how they could claim a jailbreak allowing operability of a cyber weapon could be defined as not “serious.” \n\n— In the past, Anthropic has always said that safety must be top priority and taken super seriously. In this case, Anthropic prioritized the continued offering of the consumer model over safety.\n\n— In reaction, the Admin issued the export control. The Admin did this reluctantly. It’s been very surprised that Anthropic hasn’t wanted to cooperate with a reasonable safety request (ie fixing the jailbreak issue). Anthropic’s reaction is very much at odds with their branding and ethos as a safe AI research community. \n\n— The Admin’s hope now is that Anthropic remediates the safety issue, the export control is lifted, and Fable goes back into general release. The Admin wants all of this to happen as soon as possible. It is frankly bewildered that Anthropic hasn’t wanted to comply with safety requests that it previously said were its highest priority.\n\n— Those trying to misdirect and tie this action to the prior DoW/Anthropic issues are wrong. The Admin values Anthropic’s technical capabilities and feels that this issue, while serious, should be easily resolved. The ball is in Anthropic’s court.",
-      "link": "https://nitter.net/DavidSacks/status/2065853007619588171#m",
-      "date": "Sat, 13 Jun 2026 17:45:13 GMT"
     }
   ]
 }
