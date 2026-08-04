@@ -1,8 +1,13 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-08-04T11:29:39Z",
+  "updated_at": "2026-08-04T14:28:53Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "初试夏季更新版本Grok\nHW3 MS\n\nVideo\n  \n\n\n\n\nTSLA99T (@Tsla99T)\n\nSummer Update先于V14 lite来了\n\n\n\n\n\n— https://nitter.net/Tsla99T/status/2084344011335106980#m",
+      "link": "https://nitter.net/Tsla99T/status/2084639070030844214#m",
+      "date": "Tue, 04 Aug 2026 13:54:19 GMT"
+    },
     {
       "text": "V14 Lite把HW3压榨到车机过热了\n不容易，真的不容易\n\n\nChuck Cook (@ChuckCook)\n\nThis is another sourcing info from the crowd post about HW3 computer failures.\n\nI have some family members that I encouraged to buy a Tesla several years ago.  They have been driving a 2022 Model Y.  They have loved the vehicle, and I finally encouraged them to start subscribing to FSD, especially when they take long road trips.  While they were traveling, v14 Lite was deployed to their vehicle.  \n\nLess than two weeks later their right repeater camera goes out, Emergency Braking unavailable, Auto Wipers dont work, Lane Departure warnings gone etc.  They took it to Tesla Service while on the road in Boston and they said the HW3 computer  was failing or had failed.  Now they are on the hook for a new HW3 computer. This 80+ year old couple had to drive 1300 miles back to Florida with none of the Tesla basic safety features available, not to mention no FSD for the month they had subscribed.  And now they are asking me what to do.  They can't really afford the new computer, and feel like they were given bad advice to buy Tesla.\n\nThis seems very odd to me, this happening right after v14 Lite was deployed.  Is there a chance that this v14 Lite is actually smoking the HW3 boards?\n\nAre there any other similar stories like this out there?  Does anyone have any additional thoughts on this?\n\n\n\n— https://nitter.net/ChuckCook/status/2084215187318403400#m",
       "link": "https://nitter.net/Tsla99T/status/2084585872716870094#m",
@@ -97,11 +102,6 @@
       "text": "这是十天过境免签的入境贴纸\n出境的时候发生了一个小插曲：由于入境北京的边检多盖了一个入境章，上海这边打电话给北京边检取消了入境章才放行",
       "link": "https://nitter.net/Tsla99T/status/2081306014222299312#m",
       "date": "Sun, 26 Jul 2026 09:09:57 GMT"
-    },
-    {
-      "text": "感谢Meta空头赞助的商务舱",
-      "link": "https://nitter.net/Tsla99T/status/2081301516317503662#m",
-      "date": "Sun, 26 Jul 2026 08:52:04 GMT"
     }
   ]
 }
