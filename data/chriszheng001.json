@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-08-05T08:43:16Z",
+  "updated_at": "2026-08-05T11:24:29Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Elon 这里说的肯定是「训练」场景英伟达 GPU 独供，没有 AMD 或自研芯片什么事，但「推理」场景肯定还是 AI6/Dojo 3 芯片，并且未来自研占比是绝对主力，因为推理占比是绝对主力。\n\n\nFred Lambert (@FredLambert)\n\nA reminder that Elon Musk also recently claimed that Tesla has the best chip team in the world and that it will soon surpass NVIDIA in capabilities. \n\nOf course, it's all made up. Dojo didn't work. Most of the team left, but you know. Elon going to Elon.\n\n\n\n— https://nitter.net/FredLambert/status/2084748201131753692#m",
+      "link": "https://nitter.net/ChrisZheng001/status/2084958308512006498#m",
+      "date": "Wed, 05 Aug 2026 11:02:52 GMT"
+    },
     {
       "text": "非常有趣。对于这类场景，大部分时候 FSD 选择倒车避让，人类司机也是如此。这次选择尽量右打，事实证明空间是够的，这种对空间的预估和不同的避让策略非常 interesting.\n\n\nSpicy Tech (@SpicyTech_ca)\n\nYou know Tesla FSD is improving when it starts reacting to situations before your brain has fully processed them. @Tesla_AI\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpicyTech_ca/status/2084295958674760028#m",
       "link": "https://nitter.net/ChrisZheng001/status/2084586334036058210#m",
@@ -97,11 +102,6 @@
       "text": "按照 FSD 软件开发的节奏，年底几乎 100% 会推送 FSD v15，我认为 FSD v15 有极大概率实现停车场的无监督，其次是根据 DMS 动态限定的公开道路无监督。\n\n\nDevin Olsen (@DevinOlsenn)\n\nFriendly bet between Omar and I\n\nThe bet is will banish release before the end of the year. \n\nI say it won’t - Omar says it will. \n\n$100 to the winner\n\nWho do you think is going to win? Let me know!\n\n\n\n— https://nitter.net/DevinOlsenn/status/2067389414360355107#m",
       "link": "https://nitter.net/ChrisZheng001/status/2067433550689997022#m",
       "date": "Thu, 18 Jun 2026 02:25:44 GMT"
-    },
-    {
-      "text": "Watch frame by frame. FSD responds instantly, even before the vehicle ahead.\n\n\nPete Balls to the wall FSD 🤖🚕 (@kylaschwaberow)\n\nFSD might have just saved me from a head on collision. \nMy Tesla was taking evasive action before I even saw the danger.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/kylaschwaberow/status/2065563105913196758#m",
-      "link": "https://nitter.net/pduan/status/2065983996857905544#m",
-      "date": "Sun, 14 Jun 2026 02:25:43 GMT"
     }
   ]
 }
