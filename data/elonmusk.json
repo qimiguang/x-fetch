@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-05T08:42:42Z",
+  "updated_at": "2026-08-05T16:44:23Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Perfecting the overnight mode on Grok Build to keep the main agent context clean, dropping compaction from 3 times to 1.\n\nPrompt:\n\"Overnight mode on: <goal>. The role of the orchestrator is to a) make high-level strategy decisions, b) make sure sub-agents deliver useful information and keep going, c) validate sub-agent results (fan out another sub-agent as a validator), and make the next move.\"",
+      "link": "https://nitter.net/yunta_tsai/status/2084998906702901758#m",
+      "date": "Wed, 05 Aug 2026 13:44:11 GMT"
+    },
+    {
+      "text": "Grok Build\n\n\nX Freeze (@XFreeze)\n\n\nArticle\n\n\n\nGrok Build will rewrite how you use your laptop -A practical guide to your own Autonomous Employee\n\nGrok Build: What It’s Actually For\nMost people underestimate it by an order of magnitude.\nAsk someone what an AI coding agent is for, and they’ll probably tell you it builds apps.\nThat’s true and it\n\n\n\n\n— https://nitter.net/XFreeze/status/2084975853272801623#m",
+      "link": "https://nitter.net/elonmusk/status/2084989366590742585#m",
+      "date": "Wed, 05 Aug 2026 13:06:16 GMT"
+    },
+    {
+      "text": "Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship\n\nVideo",
+      "link": "https://nitter.net/SpaceX/status/2084912076502282341#m",
+      "date": "Wed, 05 Aug 2026 07:59:09 GMT"
+    },
+    {
+      "text": "An extraordinary graphic showing what will happen in Poland if fertility rates simply  stay where they are. Most of the developed world is on a trajectory of population collapse similar to this.\n\nNothing matters more than turning around birthrate decline.\n\nVideo\n  \n\n\n\n\nKrzysztof Szczawinski 🇵🇱 (@Kristof_Poland)\n\nLet’s consider the demographic situation of Western Civilization seriously.\n\nIts core demographic base is about 750 million people, with a fertility rate of about 1.3 children per woman.\n\nWhat that means a few generations out is terrifying – we are DYING OUT.\n\nI did the exercise for Poland, which is about one twentieth of that demographic base, with a fertility rate at about half of replacement.\nFour generations into the future, it gives us this👇🏻 – basically the end of the nation.\n\nMultiply it by 20 and you get the fate of the whole Civilization. You do the math…\n\nOur only hope is in the families with 3+ children, who are able to pass that tradition on to their children.\n\nThey will inherit Our Civilization, if it survives. The rest will simply die out.\n\n(The same math that dooms the average saves the tail.)\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Kristof_Poland/status/2084320001348009994#m",
+      "link": "https://nitter.net/MoreBirths/status/2084856017859317948#m",
+      "date": "Wed, 05 Aug 2026 04:16:24 GMT"
+    },
     {
       "text": "Grok 4.5 just turned Blender into a conversation.\n\nInstead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change.\n\nIt builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio.\n\nThe impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction.\n\nBut Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices.\n\nIt is replacing a suspicious amount of the boring work they had to do before the skilled part even started.\n\nVideo\n  \n\n\n\n\n88n77 (@88n77n)\n\n\nArticle\n\n\n\nGrok 4.5 + Blender MCP: describe it, the model builds it, then it fixes its own render\n\nEvery demo of this starts with a game character, because a robot knight appearing out of a sentence is easier to sell than a properly lit shampoo bottle.\nThat&apos;s the narrow read. The wider one: a model\n\n\n\n\n— https://nitter.net/88n77n/status/2084202563918815236#m",
       "link": "https://nitter.net/irinatoxi/status/2084737280204280212#m",
@@ -82,26 +102,6 @@
       "text": "Learn how to use References on Grok Imagine: characters, locations and props.\n\n\nAlex Utopia (@alexutopia)\n\nGrok Imagine 1.5 reference tutorial.\n\nThe new reference feature\nmakes it easy to maintain consistency\nacross characters, locations and props.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/alexutopia/status/2084275278801502474#m",
       "link": "https://nitter.net/imagine/status/2084411126876459300#m",
       "date": "Mon, 03 Aug 2026 22:48:33 GMT"
-    },
-    {
-      "text": "Falcon 9 launches 24 @Starlink satellites from California",
-      "link": "https://nitter.net/SpaceX/status/2084709117265064416#m",
-      "date": "Tue, 04 Aug 2026 18:32:40 GMT"
-    },
-    {
-      "text": "Crew-13 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in September",
-      "link": "https://nitter.net/SpaceX/status/2084714741876871462#m",
-      "date": "Tue, 04 Aug 2026 18:55:01 GMT"
-    },
-    {
-      "text": "The same Starmind V1 satellite design (minus solar & radiator) will be deployed on the ground in our data centers. It’s a major improvement in data center efficiency.\n\n\nSpaceX (@SpaceX)\n\nSpaceX is partnering with @Nvidia to design the Starmind AI1 satellite compute payload. \n\nEach of the Starmind satellites will include NVIDIA Rubin GPUs and Vera CPUs for datacenter class space compute → spacex.com/spacexai/starmind\n\n\n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2084723854534951218#m",
-      "link": "https://nitter.net/elonmusk/status/2084733538591486349#m",
-      "date": "Tue, 04 Aug 2026 20:09:42 GMT"
-    },
-    {
-      "text": "The scale of what Elon is building in Bastrop is not well understood.",
-      "link": "https://nitter.net/MrGoldBro/status/2084666793340326059#m",
-      "date": "Tue, 04 Aug 2026 15:44:29 GMT"
     }
   ]
 }
