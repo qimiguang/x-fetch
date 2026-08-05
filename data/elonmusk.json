@@ -1,8 +1,53 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-05T02:52:40Z",
+  "updated_at": "2026-08-05T05:49:32Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.5 just turned Blender into a conversation.\n\nInstead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change.\n\nIt builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio.\n\nThe impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction.\n\nBut Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices.\n\nIt is replacing a suspicious amount of the boring work they had to do before the skilled part even started.\n\nVideo\n  \n\n\n\n\n88n77 (@88n77n)\n\n\nArticle\n\n\n\nGrok 4.5 + Blender MCP: describe it, the model builds it, then it fixes its own render\n\nEvery demo of this starts with a game character, because a robot knight appearing out of a sentence is easier to sell than a properly lit shampoo bottle.\nThat&apos;s the narrow read. The wider one: a model\n\n\n\n\n— https://nitter.net/88n77n/status/2084202563918815236#m",
+      "link": "https://nitter.net/irinatoxi/status/2084737280204280212#m",
+      "date": "Tue, 04 Aug 2026 20:24:34 GMT"
+    },
+    {
+      "text": "Grok Imagine is truly an excellent app.\n\nThis app inspires me to dream completely different dreams. @elonmusk\n\nYou absolutely must try Grok Imagine.\n\nThank you, Emperor Kekius Maximus ⚔️💪⚔️\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nGrok Imagine\n\n\n\n— https://nitter.net/elonmusk/status/2084635712515678600#m",
+      "link": "https://nitter.net/Emp_Kek_Max/status/2084754523541889448#m",
+      "date": "Tue, 04 Aug 2026 21:33:05 GMT"
+    },
+    {
+      "text": "Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. \n\nAnother huge milestone for xAI as Grok continues to climb the rankings.",
+      "link": "https://nitter.net/teslaownersSV/status/2084530890093298013#m",
+      "date": "Tue, 04 Aug 2026 06:44:27 GMT"
+    },
+    {
+      "text": "SpaceX has launched more then every other company combined 🔥 🔥",
+      "link": "https://nitter.net/TheRabbitHole/status/2084765597901152301#m",
+      "date": "Tue, 04 Aug 2026 22:17:06 GMT"
+    },
+    {
+      "text": "Best way to use Grok is via our Build harness. \n\nDownload at X.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nGrok (@grok)\n\nTry Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.\n\nLink\n\n\nA powerful new coding agent\nx.ai\n\n\n\n\n— https://nitter.net/grok/status/2082791168765821324#m",
+      "link": "https://nitter.net/elonmusk/status/2084857373555101726#m",
+      "date": "Wed, 05 Aug 2026 04:21:47 GMT"
+    },
+    {
+      "text": "Bring any idea to life with Imagine\n\n\nArt Muse (@art_muse)\n\nUsed Grok Imagine’s reference feature to bring my ideas to life.\n\nCreated a reference character first, then a reference location, and Grok Imagine did the rest. Started with the girl in the white dress, locked her in as character reference, then referenced a Cotswolds village scene, and got this soft cinematic walk in seconds.\n\nThe consistency is amazing. Same face, same dress, completely new world. In\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/art_muse/status/2084705627033468996#m",
+      "link": "https://nitter.net/elonmusk/status/2084854619675754599#m",
+      "date": "Wed, 05 Aug 2026 04:10:50 GMT"
+    },
+    {
+      "text": "Beautiful art from Imagine\n\n\nArt Muse (@art_muse)\n\nHappy Tuesday! Wishing you all a wonderful day ahead.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/art_muse/status/2084520574403989539#m",
+      "link": "https://nitter.net/elonmusk/status/2084853838381711435#m",
+      "date": "Wed, 05 Aug 2026 04:07:44 GMT"
+    },
+    {
+      "text": "My favorite piece of merch other than the (not a) flamethrower\n\n\nJonah Katz (@dinkin_flickaa)\n\nThe SpaceX mug with Mars on it which terraforms green when hot water is added has been a huge hit in my crowd\n\n\n\n— https://nitter.net/dinkin_flickaa/status/2084658591382777901#m",
+      "link": "https://nitter.net/elonmusk/status/2084853510756282452#m",
+      "date": "Wed, 05 Aug 2026 04:06:26 GMT"
+    },
+    {
+      "text": "This Grok Imagine 1.5 is pure magic. The lighting, atmosphere and flawless consistency make it look so real. Grok Imagine creates the most natural and heartfelt videos of any AI.\n\nVideo",
+      "link": "https://nitter.net/testerlabor/status/2084629270714806587#m",
+      "date": "Tue, 04 Aug 2026 13:15:23 GMT"
+    },
     {
       "text": "AI compute is going to orbit. 🚀\n\n@SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars.\n\nThe next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
       "link": "https://nitter.net/nvidia/status/2084733460690903204#m",
@@ -57,51 +102,6 @@
       "text": "The scale of what Elon is building in Bastrop is not well understood.",
       "link": "https://nitter.net/MrGoldBro/status/2084666793340326059#m",
       "date": "Tue, 04 Aug 2026 15:44:29 GMT"
-    },
-    {
-      "text": "A very small percentage of my academic colleagues have ever openly supported my efforts to fight against the parasitic rot in academia.   Regrettably, most academics are astoundingly cowardly.  They prefer to nod quietly that \"men too can menstruate\" rather than  standing up and saying \"Are you insane?  No, men cannot menstruate.\"  If you can get academics to reject the most fundamental markers of biological reality, you know that academia is not populated with intellectual NAVY seals.\n\n\nNeil Thin (@NeilThin)\n\nArday scandal exposes \"moral rot\" in academia - racist identitarianism, \"opinion dressed up in incomprehensibility\", \"grievance studies\". \n\nPathologies won't disappear overnight, but things could improve if honest academics seize the moment and give the charlatans a roasting.\n\n\n\n\n\n— https://nitter.net/NeilThin/status/2084304579068379552#m",
-      "link": "https://nitter.net/GadSaad/status/2084633101230023088#m",
-      "date": "Tue, 04 Aug 2026 13:30:36 GMT"
-    },
-    {
-      "text": "Indeed\n\n\nGad Saad (@GadSaad)\n\nThis story serves as a perfect exemplar of how parasitic ideas coupled with suicidal empathy have fully gripped academia.  Academic honesty takes a backseat to the plagiarist's skin color.  Truth takes a backseat to promoting voices of color.  Integrity takes a backseat to celebrating \"marginalized\" voices.  It is a grotesque inversion of a well functioning moral compass.\n\n\n\n— https://nitter.net/GadSaad/status/2084626272441782674#m",
-      "link": "https://nitter.net/elonmusk/status/2084678514402271486#m",
-      "date": "Tue, 04 Aug 2026 16:31:03 GMT"
-    },
-    {
-      "text": "Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents 😂",
-      "link": "https://nitter.net/EvaFox/status/2084613682512724255#m",
-      "date": "Tue, 04 Aug 2026 12:13:26 GMT"
-    },
-    {
-      "text": "🚀🚀\n\n\nPeter H. Diamandis, MD (@PeterDiamandis)\n\n\nArticle\n\n\n\nWhy SpaceX Will Be the First $10 Trillion Company\n\nI’ll be on CNN this afternoon (8/4) and CNBC tomorrow (8/5), commenting on the expected SpaceX earnings report, their first as a public company following the IPO. As you might expect, I’m very bullish\n\n\n\n\n— https://nitter.net/PeterDiamandis/status/2084645799942582360#m",
-      "link": "https://nitter.net/elonmusk/status/2084669448376480185#m",
-      "date": "Tue, 04 Aug 2026 15:55:02 GMT"
-    },
-    {
-      "text": "Can’t trust OpenAI\n\n\nNIK (@ns123abc)\n\n🚨 BREAKING: Apple filed for a PRELIMINARY INJUNCTION against OpenAI AND asked a federal judge to put them under forensic supervision\n\n\"Apple respectfully moves the Court for a preliminary injunction to stop THE THEFT OF ITS TRADE SECRETS\"\n\nApple filed NINE sworn declarations, a 28-page memorandum and a concurrent motion for expedited discovery\n\nWhat Apple now says, under oath:\n\nChang Liu: 8 years at Apple, now OpenAI \"Member of Technical Staff\" exploited an authentication bug to steal Apple trade secrets \"on AT LEAST FIVE SEPARATE OCCASIONS\" from February to April 2026, WHILE working for OpenAI\n\nLiu downloaded \"THOUSANDS OF PAGES of Apple's most sensitive trade secrets\"\n\nThe stolen files, NAMED:\n>DisplayNotes.key — \"several hundred pages\" on Apple's custom display power development program\n>Architecture analyses. Fabrication decisions. Testing results\n>Engineering data for an UNANNOUNCED Apple product: 'touch, display, and power systems\"\n>Final.key + V2.key — compilations of two undisclosed Apple R&D projects\n>and those are \"only four of the dozens of proprietary documents Mr. Liu stole\"\n\nLiu fed OpenAI \"a steady stream of Apple proprietary information that he actively concealed\"\n\nLiu also \"coached Yu-Ting \"Alyssa\" Peng, then still INSIDE Apple, how to access and copy files from Apple workstations \"to avoid trouble with the security team\" and directed her to communicate with him on the encrypted LINE app \"to avoid detection\"\n\nTang Yew Tan: 24-year Apple VP, now OpenAI's Chief Hardware Officer, \"used an Apple internal project codename for an unannounced product to elicit still more trade secrets from job candidates.\"\n\nTan's own messages, quoted in the motion:\n>\"Just like last time, bring some parts you worked on\" >\"mlb, battery, shields type of stuff is interesting\"\n\nOpenAI recruiter, quoted: \"No, you won't sign anything at the exit interview. If they do ask you to sign anything, let me know asap.\"\n\nAPPLE TOLD FEDERAL JUDGE:\n>\"OpenAI knows its misappropriation is wrong and has tried to conceal it.\"\n>\"This is not a case of 'mere hiring'... it is a case of repeated instances of deliberate theft.\"\n\nApple says OpenAI went after its SUPPLIERS:\n>OpenAI \"directed a trusted Apple partner [name redacted] to perform [Apple's proprietary metal finishing] process for them, knowing it was proprietary to Apple... because they were involved in this partnership while at Apple.\"\n\nApple put its own Surface Finishing Manager, Jackie Hughes, under oath to prove it.\n\nApple named ELEVEN MORE former Apple employees at OpenAI — beyond Liu, Tan, and Peng — Fourteen people total.\n\nApple also filed a concurrent motion for EXPEDITED DISCOVERY demanding depositions:\n- Liu. Tan. Peng.\n- A fourth unnamed OpenAI employee\n- Plus OpenAI itself, under oath, through Rule 30(b)(6)\n\nApple has asked a federal judge to put OpenAI under forensic supervision RIGHT NOW:\n\n>Forensic inspection of ALL OpenAI devices\n>ALL cloud storage, Slack, email\n>Including anything that \"previously contained\" Apple data — deleted included\n\nDemanding the \"first available hearing date,\" citing \"imminent threat\" to its trade secrets.\n\nAPPLE:\n> \"The harm is happening now — every day that passes without an injunction allows OpenAI to embed their knowledge of Apple's stolen information into its hardware development efforts.\"\n\nHearing: October 1, 2026. Judge Edward J. Davila.\n\nITS HAPPENING\n\n\n\n\n\n— https://nitter.net/ns123abc/status/2084612001221820529#m",
-      "link": "https://nitter.net/elonmusk/status/2084652192024125768#m",
-      "date": "Tue, 04 Aug 2026 14:46:28 GMT"
-    },
-    {
-      "text": "Yeah\n\n\nDogan Ural (@doganuraldesign)\n\nGrok games are gonna be epic\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/doganuraldesign/status/2084504942190973362#m",
-      "link": "https://nitter.net/elonmusk/status/2084651951774454093#m",
-      "date": "Tue, 04 Aug 2026 14:45:30 GMT"
-    },
-    {
-      "text": "After their slave revolt, Haiti’s founder ordered the killing of all white people on the island. Soldiers went house to house killing thousands including women and children. \n\nThey took full control, purged the population they blamed, and turned the richest colony in the Caribbean into the poorest and most dysfunctional country in the Western Hemisphere. \n\nToday, their descendants demand entry into the West they fought to escape, refuse to return to the mess they and their ancestors created, and are for some reason strongly convinced that borders are racist.\n\nVideo",
-      "link": "https://nitter.net/Rothmus/status/2084362788307116099#m",
-      "date": "Mon, 03 Aug 2026 19:36:28 GMT"
-    },
-    {
-      "text": "Grok Imagine\n\n\nDéborah (@dvorahfr)\n\nGrok Imagine also possesses architectural capabilities.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2084569233598337386#m",
-      "link": "https://nitter.net/elonmusk/status/2084635712515678600#m",
-      "date": "Tue, 04 Aug 2026 13:40:59 GMT"
-    },
-    {
-      "text": "Terafab\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: SpaceX has paid Grimes County $10 million ahead of schedule under its Terafab tax agreement, a major step forward for the proposed project.\n\n• It equals nearly 40% of the county’s expected $26.5 million in property-tax revenue for all of 2026\n• County leaders may use the money for infrastructure, employee pay and retention\n• SpaceX/Terafab representatives are scheduled for a Q&A at the August 5 Commissioners Court meeting\n• The broader Terafab project could eventually involve up to $119 billion in investment, as per KBTX.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2084628645721616722#m",
-      "link": "https://nitter.net/elonmusk/status/2084635401566802217#m",
-      "date": "Tue, 04 Aug 2026 13:39:45 GMT"
     }
   ]
 }
