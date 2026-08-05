@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-04T22:16:55Z",
+  "updated_at": "2026-08-05T02:52:40Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "AI compute is going to orbit. 🚀\n\n@SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars.\n\nThe next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
+      "link": "https://nitter.net/nvidia/status/2084733460690903204#m",
+      "date": "Tue, 04 Aug 2026 20:09:24 GMT"
+    },
+    {
+      "text": "Elon & Jensen with NVIDIA GPUs\n\nAugust 2016",
+      "link": "https://nitter.net/Kristennetten/status/2084755184748486980#m",
+      "date": "Tue, 04 Aug 2026 21:35:43 GMT"
+    },
     {
       "text": "Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles.\n\nBeyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts.\n\nIt’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday.\n\nWe’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security.\n\nThe next wave of AI is robotics—and it starts with autonomous vehicles.\n\nGreat work, Alpamayo team!\n\nblogs.nvidia.com/blog/alpama…",
       "link": "https://nitter.net/JensenHuang/status/2084656303046332747#m",
@@ -92,16 +102,6 @@
       "text": "Terafab\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: SpaceX has paid Grimes County $10 million ahead of schedule under its Terafab tax agreement, a major step forward for the proposed project.\n\n• It equals nearly 40% of the county’s expected $26.5 million in property-tax revenue for all of 2026\n• County leaders may use the money for infrastructure, employee pay and retention\n• SpaceX/Terafab representatives are scheduled for a Q&A at the August 5 Commissioners Court meeting\n• The broader Terafab project could eventually involve up to $119 billion in investment, as per KBTX.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2084628645721616722#m",
       "link": "https://nitter.net/elonmusk/status/2084635401566802217#m",
       "date": "Tue, 04 Aug 2026 13:39:45 GMT"
-    },
-    {
-      "text": "Pension fraud is a global problem\n\n\nMichael Easter (@Michael_Easter)\n\nThe Blue Zones—places where people supposedly live past 100 at extraordinary rates—aren't real. \n\nA 🧵 on what went wrong: bad record keeping, pension fraud, and lots of money.\n\n\n\n— https://nitter.net/Michael_Easter/status/2084258413157175533#m",
-      "link": "https://nitter.net/elonmusk/status/2084634855472603516#m",
-      "date": "Tue, 04 Aug 2026 13:37:34 GMT"
-    },
-    {
-      "text": "Elon Musk with his first Tesla Roadster, in 2008.",
-      "link": "https://nitter.net/cb_doge/status/2084197918412587513#m",
-      "date": "Mon, 03 Aug 2026 08:41:20 GMT"
     }
   ]
 }
