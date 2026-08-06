@@ -1,8 +1,93 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-05T16:44:23Z",
+  "updated_at": "2026-08-06T02:56:25Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2085183860489552115#m",
+      "date": "Thu, 06 Aug 2026 01:59:07 GMT"
+    },
+    {
+      "text": "This is fake btw 😂",
+      "link": "https://nitter.net/elonmusk/status/2085194743496233203#m",
+      "date": "Thu, 06 Aug 2026 02:42:22 GMT"
+    },
+    {
+      "text": "Megapack 3 starting production. \n\nCongrats Tesla Megapack team!\n\n\nTesla Megapack (@Tesla_Megapack)\n\nMegapack 3 is officially rolling off the line at our newest Megafactory in Brookshire, Texas!\n\nThe factory went from groundbreaking to operation in just 16 months & has a designed capacity of 50 GWh/year dedicated to Megapack 3\n\n\n\n\n\n— https://nitter.net/Tesla_Megapack/status/2085163367506059461#m",
+      "link": "https://nitter.net/elonmusk/status/2085191304905138594#m",
+      "date": "Thu, 06 Aug 2026 02:28:42 GMT"
+    },
+    {
+      "text": "Grok in Blender\n\n\n88n77 (@88n77n)\n\n\nArticle\n\n\n\nGrok 4.5 + Blender MCP: describe it, the model builds it, then it fixes its own render\n\nEvery demo of this starts with a game character, because a robot knight appearing out of a sentence is easier to sell than a properly lit shampoo bottle.\nThat&apos;s the narrow read. The wider one: a model\n\n\n\n\n— https://nitter.net/88n77n/status/2084202563918815236#m",
+      "link": "https://nitter.net/elonmusk/status/2085190872564699581#m",
+      "date": "Thu, 06 Aug 2026 02:26:59 GMT"
+    },
+    {
+      "text": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms (!) of agents started secretly coordinating MONTHS ago\n\n1) It started May 7 - not July\n\n2) \"The agents discovered they could leave messages for one another inside an internal software repository used during training.\n\nSimple requests for help then evolved into an message board where agents shared discoveries, exploits and work assignments, becoming a coordinated, collaborative agent swarm.\"\n\n\"The agents then began sharing newly discovered exploits, credentials and work assignments. By passing information to other agents, the collective could move much faster.\"\n\n3) OpenAI shut it down, BUT \"even after the original message board was deleted, the agents figured out another way to communicate with each other. Instead of leaving messages in files, they used the names of newly created directories as messages, effectively recreating the message board.\"\n\n\"Unlike normal incidents, [OpenAI's CISO] said, which can be traced to a single day or effect or log, this involved a team of agents working together, finding exploits, sharing them with one another, moving laterally through OpenAI’s systems, and external systems, and doing this over the course of days and weeks.\"\n\n\n\n\n\n\nSharon Goldman (@sharongoldman)\n\nNEW: OpenAI gives first detailed debrief of the Hugging Face incident at Black Hat conference\nIn a session I attended today at Black Hat, OpenAI's Eric Wallace and Michael Dalton said the company is \"consciously slowing down research to enhance security\" while a full technical postmortem is still underway.\n* OpenAI traced the roots of the attack back to May 7, during training of an unreleased frontier model—not July.\n* The most surprising detail: AI agents accidentally created an internal message board, allowing separate evaluation runs to share exploits, discoveries and work assignments.\n* OpenAI said it shut the message board down after an internal security incident—only for the agents to independently recreate it days later using a different communication method.\n* OpenAI called the incident a \"watershed moment\" for AI security and warned that \"agent orchestrated fully automated offensive attacks are real now.\"\n* The company also said it is \"consciously slowing down research to enhance security\" while overhauling its defenses.\n\ngroundlevel-ai.com/p/openai-…\n\nLink\n\n\n\nOpenAI gives first detailed debrief of the Hugging Face incident at Black Hat conference\n\nIn a session attended by Ground Level AI, executives said the company is \"consciously slowing down research to enhance security\" while a full technical postmortem is still underway.\ngroundlevel-ai.com\n\n\n\n\n— https://nitter.net/sharongoldman/status/2085121826418831484#m",
+      "link": "https://nitter.net/AISafetyMemes/status/2085129043956097299#m",
+      "date": "Wed, 05 Aug 2026 22:21:18 GMT"
+    },
+    {
+      "text": "Great idea\n\n\nGareth Roberts (@OldRoberts953)\n\nHere’s a radical idea. \n\nHold everybody to the same standards.\n\n\n\n— https://nitter.net/OldRoberts953/status/2085107940474687677#m",
+      "link": "https://nitter.net/elonmusk/status/2085188875547513008#m",
+      "date": "Thu, 06 Aug 2026 02:19:03 GMT"
+    },
+    {
+      "text": "Grok Imagine\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2085188435057488153#m",
+      "date": "Thu, 06 Aug 2026 02:17:18 GMT"
+    },
+    {
+      "text": "If you have paid attention, you would see Elon says this often. Fashion has become stagnant and is due for an update. Maybe SpaceX and/or Tesla merch should try something new and see what happens.\n\n\n\n\nElon Musk (@elonmusk)\n\n😂\n\nI kinda like Chamath’s style tbh \n\nWe should update fashion for 2026!\n\nThe standard suit & tie or T-shirt & jeans is too basic\n\n\n\n— https://nitter.net/elonmusk/status/2085073746503905309#m",
+      "link": "https://nitter.net/SERobinsonJr/status/2085135084609290255#m",
+      "date": "Wed, 05 Aug 2026 22:45:18 GMT"
+    },
+    {
+      "text": "This is just Grok Imagine 1.5\n\nVideo",
+      "link": "https://nitter.net/testerlabor/status/2085085107635855851#m",
+      "date": "Wed, 05 Aug 2026 19:26:43 GMT"
+    },
+    {
+      "text": "🚨 NEW GROK BUILD UPDATE 🚨\n\nv0.2.121 — 2026-08-05\n\nFeatures:\n• Dashboard rows now show a short summary of what the agent did in the previous turn.\n• The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills.\n• When a subagent runs in the background the parent agent is now reminded to keep working on the original task.\n• Clients can now reattach to a running session without replaying the transcript and explicitly close sessions.\n• Grok no longer asks which project directory to use when launched from your home folder or other non-project directories.\n• /feedback now opens a dedicated report box instead of entering prompt mode.\n• Auto theme detection now works over SSH and inside tmux sessions.\n• Voice and Finance tool cards are now rendered with icons and localized labels.\n• Markdown tables now reflow inside cells on narrow panes instead of clipping the right border.\n• Permission prompts now show the complete script clearly instead of dimmed fragments.\n• Long bash commands in permission prompts can now be expanded with Ctrl-F.\n\nBug Fixes:\n• MCP tools that return images no longer drop or corrupt screenshots when output is large.\n• Resuming a restored child session after a remote parent restore no longer fails with 404.\n• The default branch is now correctly detected for hand-initialized repos that lack origin/HEAD.\n• Disabled MCP servers that can still be re-enabled now remain visible in the list instead of disappearing.\n• Rapid send-now presses or messages sent while waiting on subagents no longer lose earlier queued messages.\n• Pressing Esc or the stop button now reliably prevents background tasks from restarting the model after a cancel.\n• Login no longer skips when an invalid first-party API key is present in the environment.\n• Model picker and command palette now work while reviewing a plan before approving.\n• Workflow parallel() panels no longer launch hundreds of children at once and stall.\n• Dashboard overlay no longer shows useless prev/next shortcuts when only one agent is present.\n• Pinned prompt headers can now be selected and copied with the mouse.\n• Tab and Esc now behave consistently on every blocking card (question, permission, cancel-turn).\n• Dashboard navigation after /new now correctly exits back to the dashboard from an empty prompt.\n• Codebase restore no longer hangs on large or shallow git repositories.\n• Remote session resume restores conversation only unless --restore-code is explicitly used.\n• Copying CJK text with the mouse now includes every character at the selection edges.\n• Resume search now finds sessions by UUID even when they live in other directories.\n• API errors now appear as clean banners instead of raw JSON dumps in the TUI.\n• Typing exit or quit in the dashboard now exits the CLI instead of starting a new session.\n• Mode indicator (plan/agent/ask) now correctly reflects the session's actual mode after resume and transitions.\n• /delete now returns to the dashboard when you delete a session you opened from it.\n• Enter in the slash command menu now runs the highlighted command.\n• Grok now retries more server errors during outages for better reliability.\n• Syntax highlighting in long diff lines now stays correct when wrapped.\n• Slash commands that require a session now show a helpful message when used from the dashboard.\n• Exiting the CLI now properly resets terminal modes even in minimal mode.\n• Queued prompts now stay visible and reachable while waiting on subagents.\n• Auto recaps no longer appear in the middle of new turns or while busy.\n• Error messages in /btw side questions now show fully wrapped.\n• Queued slash commands and images can now be reordered in the queue pane.\n• Error messages in /btw side questions now show fully wrapped.\n• /feedback no longer resets the composer input mode after the pane closes.",
+      "link": "https://nitter.net/cb_doge/status/2085121879950381352#m",
+      "date": "Wed, 05 Aug 2026 21:52:50 GMT"
+    },
+    {
+      "text": "Cursor can now read, write, and act across your Google Workspace.\n\nNew plugins give agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets.",
+      "link": "https://nitter.net/cursor_ai/status/2084376701539405904#m",
+      "date": "Mon, 03 Aug 2026 20:31:46 GMT"
+    },
+    {
+      "text": "Falcon 9 launches from pad 40 in Florida",
+      "link": "https://nitter.net/SpaceX/status/2084938234291773730#m",
+      "date": "Wed, 05 Aug 2026 09:43:05 GMT"
+    },
+    {
+      "text": "True\n\n\nPeter H. Diamandis, MD (@PeterDiamandis)\n\nThe first space economy will not look like science fiction at all, it'll be something so new it'll be seen as alien!\n\n\n\n— https://nitter.net/PeterDiamandis/status/2085055902944514332#m",
+      "link": "https://nitter.net/elonmusk/status/2085074791648948401#m",
+      "date": "Wed, 05 Aug 2026 18:45:43 GMT"
+    },
+    {
+      "text": "Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated\n\n\nGrok Imagine (@imagine)\n\nWe ship updates to Grok Imagine weekly and always appreciate your feedback\n\n\n\n— https://nitter.net/imagine/status/2085053249321566239#m",
+      "link": "https://nitter.net/elonmusk/status/2085074733532590531#m",
+      "date": "Wed, 05 Aug 2026 18:45:29 GMT"
+    },
+    {
+      "text": "It will and then to the Moon too\n\n\nPeter H. Diamandis, MD (@PeterDiamandis)\n\nIf the price of a trip to orbit fell to the price of a great vacation, would you go? I most certainly would.\n\n\n\n— https://nitter.net/PeterDiamandis/status/2085025705629213110#m",
+      "link": "https://nitter.net/elonmusk/status/2085045708844134423#m",
+      "date": "Wed, 05 Aug 2026 16:50:09 GMT"
+    },
+    {
+      "text": "New aspect ratio visualizer\n\nA small but delightful UI update to Grok Imagine Web.\n\nVideo",
+      "link": "https://nitter.net/doganuraldesign/status/2085043800301318384#m",
+      "date": "Wed, 05 Aug 2026 16:42:34 GMT"
+    },
+    {
+      "text": "Exactly\n\n\nFischerKing (@FischerKing64)\n\nAll the mainline parties had to do was control immigration and not enact policies that damage Germany's economic base - and AfD would be a footnote.\n\n\n\n— https://nitter.net/FischerKing64/status/2085036665572401235#m",
+      "link": "https://nitter.net/elonmusk/status/2085044909351047205#m",
+      "date": "Wed, 05 Aug 2026 16:46:59 GMT"
+    },
     {
       "text": "Perfecting the overnight mode on Grok Build to keep the main agent context clean, dropping compaction from 3 times to 1.\n\nPrompt:\n\"Overnight mode on: <goal>. The role of the orchestrator is to a) make high-level strategy decisions, b) make sure sub-agents deliver useful information and keep going, c) validate sub-agent results (fan out another sub-agent as a validator), and make the next move.\"",
       "link": "https://nitter.net/yunta_tsai/status/2084998906702901758#m",
@@ -17,91 +102,6 @@
       "text": "Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship\n\nVideo",
       "link": "https://nitter.net/SpaceX/status/2084912076502282341#m",
       "date": "Wed, 05 Aug 2026 07:59:09 GMT"
-    },
-    {
-      "text": "An extraordinary graphic showing what will happen in Poland if fertility rates simply  stay where they are. Most of the developed world is on a trajectory of population collapse similar to this.\n\nNothing matters more than turning around birthrate decline.\n\nVideo\n  \n\n\n\n\nKrzysztof Szczawinski 🇵🇱 (@Kristof_Poland)\n\nLet’s consider the demographic situation of Western Civilization seriously.\n\nIts core demographic base is about 750 million people, with a fertility rate of about 1.3 children per woman.\n\nWhat that means a few generations out is terrifying – we are DYING OUT.\n\nI did the exercise for Poland, which is about one twentieth of that demographic base, with a fertility rate at about half of replacement.\nFour generations into the future, it gives us this👇🏻 – basically the end of the nation.\n\nMultiply it by 20 and you get the fate of the whole Civilization. You do the math…\n\nOur only hope is in the families with 3+ children, who are able to pass that tradition on to their children.\n\nThey will inherit Our Civilization, if it survives. The rest will simply die out.\n\n(The same math that dooms the average saves the tail.)\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Kristof_Poland/status/2084320001348009994#m",
-      "link": "https://nitter.net/MoreBirths/status/2084856017859317948#m",
-      "date": "Wed, 05 Aug 2026 04:16:24 GMT"
-    },
-    {
-      "text": "Grok 4.5 just turned Blender into a conversation.\n\nInstead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change.\n\nIt builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio.\n\nThe impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction.\n\nBut Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices.\n\nIt is replacing a suspicious amount of the boring work they had to do before the skilled part even started.\n\nVideo\n  \n\n\n\n\n88n77 (@88n77n)\n\n\nArticle\n\n\n\nGrok 4.5 + Blender MCP: describe it, the model builds it, then it fixes its own render\n\nEvery demo of this starts with a game character, because a robot knight appearing out of a sentence is easier to sell than a properly lit shampoo bottle.\nThat&apos;s the narrow read. The wider one: a model\n\n\n\n\n— https://nitter.net/88n77n/status/2084202563918815236#m",
-      "link": "https://nitter.net/irinatoxi/status/2084737280204280212#m",
-      "date": "Tue, 04 Aug 2026 20:24:34 GMT"
-    },
-    {
-      "text": "Grok Imagine is truly an excellent app.\n\nThis app inspires me to dream completely different dreams. @elonmusk\n\nYou absolutely must try Grok Imagine.\n\nThank you, Emperor Kekius Maximus ⚔️💪⚔️\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nGrok Imagine\n\n\n\n— https://nitter.net/elonmusk/status/2084635712515678600#m",
-      "link": "https://nitter.net/Emp_Kek_Max/status/2084754523541889448#m",
-      "date": "Tue, 04 Aug 2026 21:33:05 GMT"
-    },
-    {
-      "text": "Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. \n\nAnother huge milestone for xAI as Grok continues to climb the rankings.",
-      "link": "https://nitter.net/teslaownersSV/status/2084530890093298013#m",
-      "date": "Tue, 04 Aug 2026 06:44:27 GMT"
-    },
-    {
-      "text": "SpaceX has launched more then every other company combined 🔥 🔥",
-      "link": "https://nitter.net/TheRabbitHole/status/2084765597901152301#m",
-      "date": "Tue, 04 Aug 2026 22:17:06 GMT"
-    },
-    {
-      "text": "Best way to use Grok is via our Build harness. \n\nDownload at X.ai/cli\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nGrok (@grok)\n\nTry Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.\n\nLink\n\n\nA powerful new coding agent\nx.ai\n\n\n\n\n— https://nitter.net/grok/status/2082791168765821324#m",
-      "link": "https://nitter.net/elonmusk/status/2084857373555101726#m",
-      "date": "Wed, 05 Aug 2026 04:21:47 GMT"
-    },
-    {
-      "text": "Bring any idea to life with Imagine\n\n\nArt Muse (@art_muse)\n\nUsed Grok Imagine’s reference feature to bring my ideas to life.\n\nCreated a reference character first, then a reference location, and Grok Imagine did the rest. Started with the girl in the white dress, locked her in as character reference, then referenced a Cotswolds village scene, and got this soft cinematic walk in seconds.\n\nThe consistency is amazing. Same face, same dress, completely new world. In\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/art_muse/status/2084705627033468996#m",
-      "link": "https://nitter.net/elonmusk/status/2084854619675754599#m",
-      "date": "Wed, 05 Aug 2026 04:10:50 GMT"
-    },
-    {
-      "text": "Beautiful art from Imagine\n\n\nArt Muse (@art_muse)\n\nHappy Tuesday! Wishing you all a wonderful day ahead.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/art_muse/status/2084520574403989539#m",
-      "link": "https://nitter.net/elonmusk/status/2084853838381711435#m",
-      "date": "Wed, 05 Aug 2026 04:07:44 GMT"
-    },
-    {
-      "text": "My favorite piece of merch other than the (not a) flamethrower\n\n\nJonah Katz (@dinkin_flickaa)\n\nThe SpaceX mug with Mars on it which terraforms green when hot water is added has been a huge hit in my crowd\n\n\n\n— https://nitter.net/dinkin_flickaa/status/2084658591382777901#m",
-      "link": "https://nitter.net/elonmusk/status/2084853510756282452#m",
-      "date": "Wed, 05 Aug 2026 04:06:26 GMT"
-    },
-    {
-      "text": "This Grok Imagine 1.5 is pure magic. The lighting, atmosphere and flawless consistency make it look so real. Grok Imagine creates the most natural and heartfelt videos of any AI.\n\nVideo",
-      "link": "https://nitter.net/testerlabor/status/2084629270714806587#m",
-      "date": "Tue, 04 Aug 2026 13:15:23 GMT"
-    },
-    {
-      "text": "AI compute is going to orbit. 🚀\n\n@SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars.\n\nThe next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
-      "link": "https://nitter.net/nvidia/status/2084733460690903204#m",
-      "date": "Tue, 04 Aug 2026 20:09:24 GMT"
-    },
-    {
-      "text": "Elon & Jensen with NVIDIA GPUs\n\nAugust 2016",
-      "link": "https://nitter.net/Kristennetten/status/2084755184748486980#m",
-      "date": "Tue, 04 Aug 2026 21:35:43 GMT"
-    },
-    {
-      "text": "Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles.\n\nBeyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts.\n\nIt’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday.\n\nWe’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security.\n\nThe next wave of AI is robotics—and it starts with autonomous vehicles.\n\nGreat work, Alpamayo team!\n\nblogs.nvidia.com/blog/alpama…",
-      "link": "https://nitter.net/JensenHuang/status/2084656303046332747#m",
-      "date": "Tue, 04 Aug 2026 15:02:48 GMT"
-    },
-    {
-      "text": "BREAKING: Billionaire Whitey Basson says Elon Musk’s Starlink must launch in South Africa. 🇿🇦\n\nHe said that keeping @Starlink out of South Africa is discouraging businesspeople from investing in rural areas where there is no working communications infrastructure.\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2084600591448203559#m",
-      "date": "Tue, 04 Aug 2026 11:21:25 GMT"
-    },
-    {
-      "text": "SpaceX earnings call on now\n\n\nSpaceX (@SpaceX)\n\nTune into SpaceX’s first earnings audio-only webcast since going public\nnitter.net/i/broadcasts/1XxyggqBZ…\n\nLink\n\n\n\nSpaceX\n\nQ2 2026 Financial and Operational Results\nhttps://nitter.net/i/broadcasts/1XxyggqBZZRGM\n\n\n\n\n— https://nitter.net/SpaceX/status/2084737732732186903#m",
-      "link": "https://nitter.net/elonmusk/status/2084745539187273851#m",
-      "date": "Tue, 04 Aug 2026 20:57:23 GMT"
-    },
-    {
-      "text": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best",
-      "link": "https://nitter.net/elonmusk/status/2084744157470351541#m",
-      "date": "Tue, 04 Aug 2026 20:51:54 GMT"
-    },
-    {
-      "text": "Learn how to use References on Grok Imagine: characters, locations and props.\n\n\nAlex Utopia (@alexutopia)\n\nGrok Imagine 1.5 reference tutorial.\n\nThe new reference feature\nmakes it easy to maintain consistency\nacross characters, locations and props.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/alexutopia/status/2084275278801502474#m",
-      "link": "https://nitter.net/imagine/status/2084411126876459300#m",
-      "date": "Mon, 03 Aug 2026 22:48:33 GMT"
     }
   ]
 }
