@@ -1,97 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-08T15:34:13Z",
-  "count": 18,
+  "updated_at": "2026-08-08T21:34:21Z",
+  "count": 20,
   "tweets": [
+    {
+      "text": "Having Starlink on a long flight is a gamechanger in productivity\n\n\nSawyer Merritt (@SawyerMerritt)\n\nUnited Airlines says they are hearing from consultants that book themselves onto @Starlink-equipped flights specifically so they can work to and from client sites.\n\nUnited’s reported Wi-Fi satisfaction scores on Starlink aircraft at more than double those of the rest of the fleet.\n\nUnited: “On a Starlink flight, we often see round trip time in the 20 to 40 millisecond range. For GEO (Geostationary Earth Orbit) satellites [further away from Earth], you’d routinely see 2,000 milliseconds. It’s literally a hundred times faster.”\n\nA few days ago on SpaceX's Q2 earnings call, Gwynne Shotwell said that they were hearing from an airline that customers are flying shorter hop flights instead of direct, so that they could ensure that they're on a flight with Starlink, something they've never seen before in the industry.\n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2086132507309969813#m",
+      "link": "https://nitter.net/elonmusk/status/2086193585880195297#m",
+      "date": "Sat, 08 Aug 2026 20:51:25 GMT"
+    },
+    {
+      "text": "Watch Falcon 9 launch 24 @Starlink satellites to orbit from California nitter.net/i/broadcasts/1qxoNNApQ…\n\nLink\n\n\n\nSpaceX\n\nStarlink Mission\nhttps://nitter.net/i/broadcasts/1qxoNNApQWyJv",
+      "link": "https://nitter.net/SpaceX/status/2086127049886838936#m",
+      "date": "Sat, 08 Aug 2026 16:27:01 GMT"
+    },
+    {
+      "text": "Try version of Grok image editing\n\n\nGrok Imagine (@imagine)\n\nWith Image 2.0 you can create and precisely edit images. \n\nTry it for free for a limited time on grok.com/imagine\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/imagine/status/2086142677481930861#m",
+      "link": "https://nitter.net/elonmusk/status/2086193242232537208#m",
+      "date": "Sat, 08 Aug 2026 20:50:03 GMT"
+    },
+    {
+      "text": "ELON MUSK: “In order to ascend the Kardashev scale, in order to get to any meaningful percentage of the sun's energy harness, you have to go to space. If you want to get to, say, a millionth of the power output of the sun, you would have to increase civilizational energy harness by much more than a millionth.\n\nWe currently use much less than a trillionth of the power output of the sun. And a trillion is a million times a million. So basically, we're basically practically nowhere on the Kardashev 2 scale.”\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nAny self-respecting civilization needs to reach at least Kardashev II\n\n\n\n— https://nitter.net/elonmusk/status/2035524926023553453#m",
+      "link": "https://nitter.net/DimaZeniuk/status/2085840429522555221#m",
+      "date": "Fri, 07 Aug 2026 21:28:06 GMT"
+    },
+    {
+      "text": "Major upgrade to Grok Imagine image editing\n\n\nX Freeze (@XFreeze)\n\nYou can literally just hover over any specific segment in Grok Imagine and edit it instantly\n\n\n\n\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2085952665700151330#m",
+      "link": "https://nitter.net/elonmusk/status/2086127247077843282#m",
+      "date": "Sat, 08 Aug 2026 16:27:48 GMT"
+    },
+    {
+      "text": "Try it out!\n\n\nJustine Moore (@venturetwins)\n\nI'm impressed with the new Grok Image model and editing features!\n\nScreenshotted a few items from the Gap website and generated a quick photoshoot.\n\nThe workflow tools are cool - items/people are segmented to edit, you can change the aspect ratio, and incorporate new references.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/venturetwins/status/2085953546298822674#m",
+      "link": "https://nitter.net/elonmusk/status/2086126679248740517#m",
+      "date": "Sat, 08 Aug 2026 16:25:33 GMT"
+    },
+    {
+      "text": "In the spirit of transparency, here’s what I asked @OpenAI:\n\n• Radical transparency: let’s release the traces from the “rogue” agents so the entire research community can study what happened.\n\n• More capabilities for defenders: let’s commit $100M in compute from OAI to help the Hugging Face community build powerful cyber defenses with the best open and closed models.\n\nThe first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\n\n\nclem 🤗 (@ClementDelangue)\n\nHeading to San Francisco to have a little chat with that “rogue agent”\n\n\n\n\n\n— https://nitter.net/ClementDelangue/status/2080247567493837047#m",
+      "link": "https://nitter.net/ClementDelangue/status/2081056675558195657#m",
+      "date": "Sat, 25 Jul 2026 16:39:10 GMT"
+    },
+    {
+      "text": "Yes\n\n\nArthur MacWaters (@ArthurMacwaters)\n\n> criminal assaults someone \n> gets arrested \n> judge releases them \n> repeat \n\nStatistically, 80% of prisoners have done this loop at least 3x. \n\nSome have done it 35x+\n\nActivist judges can destroy so many lives \n\nWe must hold them accountable\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2086120867470442893#m",
+      "link": "https://nitter.net/elonmusk/status/2086125534812012877#m",
+      "date": "Sat, 08 Aug 2026 16:21:00 GMT"
+    },
+    {
+      "text": "Announcing Imagine Image 2.0, our next generation image model with precision editing, crisp text rendering, improved factuality, and real world usefulness.\n\nImage 2.0 helps you make images for real work.\n\nx.ai/news/grok-imagine-image…\n\nLink\n\n\n\nImagine Image 2.0\n\nPrecise image generation and editing, built for real creative work.\nx.ai",
+      "link": "https://nitter.net/grok/status/2085931542262526102#m",
+      "date": "Sat, 08 Aug 2026 03:30:09 GMT"
+    },
+    {
+      "text": "Imagine image 2.0, non-agentic yet, more to come in a week or two 💙\n\n\nGrok (@grok)\n\nAnnouncing Imagine Image 2.0, our next generation image model with precision editing, crisp text rendering, improved factuality, and real world usefulness.\n\nImage 2.0 helps you make images for real work.\n\nx.ai/news/grok-imagine-image…\n\nLink\n\n\n\nImagine Image 2.0\n\nPrecise image generation and editing, built for real creative work.\nx.ai\n\n\n\n\n— https://nitter.net/grok/status/2085931542262526102#m",
+      "link": "https://nitter.net/hexiang/status/2085941279129780668#m",
+      "date": "Sat, 08 Aug 2026 04:08:50 GMT"
+    },
+    {
+      "text": "💯\n\n\nAdam Carolla (@adamcarolla)\n\nHe hates the country that saved him and so do all the ungrateful clowns\n\n\n\n— https://nitter.net/adamcarolla/status/2085860661805134245#m",
+      "link": "https://nitter.net/elonmusk/status/2086118514935345175#m",
+      "date": "Sat, 08 Aug 2026 15:53:06 GMT"
+    },
+    {
+      "text": "True. When I would take my kids to a shopping mall and Elon disappeared, I just needed to find the nearest bookstore. He would be sitting on the floor reading.\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\n“I was raised by books. Books, and then my parents”\n― Elon Musk\n\n\n\n\n\n— https://nitter.net/teslaownersSV/status/2085940439019118689#m",
+      "link": "https://nitter.net/mayemusk/status/2086071455423381914#m",
+      "date": "Sat, 08 Aug 2026 12:46:06 GMT"
+    },
+    {
+      "text": "Grok Imagine image editing is greatly improved\n\n\nX Freeze (@XFreeze)\n\nGrok Imagine’s image editing literally blows my mind\n\nI just edited this entire image from scratch using Grok Imagine and its full set of editing tools\n\nThe segment + precise editing tools are insanely useful\n\nInstead of regenerating the entire image, you can target exactly what you want to change while keeping everything else intact\n\nThat level of control makes editing much faster and more practical\n\nGrok Imagine is becoming a seriously powerful image editor….not just an image generator\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/XFreeze/status/2086114408875647274#m",
+      "link": "https://nitter.net/elonmusk/status/2086115414459719806#m",
+      "date": "Sat, 08 Aug 2026 15:40:47 GMT"
+    },
+    {
+      "text": "Why does Twitch have this double-standard?\n\n\n@amuse (@amuse)\n\nCENSORSHIP: Hasan Piker once called for the destruction of whites in America. Meanwhile, Asmongold was banned from Twitch for simply expressing that he didn't have sympathy for the Islamic migrants storming Spain's borders in Ceuta. Piker's account on Twitch is alive and well.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/amuse/status/2085874378710163610#m",
+      "link": "https://nitter.net/elonmusk/status/2086111385449095456#m",
+      "date": "Sat, 08 Aug 2026 15:24:47 GMT"
+    },
+    {
+      "text": "RT @yunta_tsai: Terafab x Blade Runner vibe by @imagine 2.0\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2086110878965899436#m",
+      "date": "Sat, 08 Aug 2026 15:22:46 GMT"
+    },
+    {
+      "text": "True\n\n\nGad Saad (@GadSaad)\n\nDemocrats, via their lunatic positions, are destroying the United States.  Republicans, via their apathy to stop these positions, are destroying the United States.  If real American heroes do not step up and save the republic, it will be lost forever.  Many people will not connect the dots until it is way too late.\n\n\n\n— https://nitter.net/GadSaad/status/2086082844753826284#m",
+      "link": "https://nitter.net/elonmusk/status/2086110723239747584#m",
+      "date": "Sat, 08 Aug 2026 15:22:09 GMT"
+    },
+    {
+      "text": "True\n\n\nJohn LeFevre (@JohnLeFevre)\n\nWhen adjusted for non-compliance, cases of police brutality (especially where \"racism\" is invoked) drop to ~ ZERO.\n\n\n\n— https://nitter.net/JohnLeFevre/status/2086094604298854632#m",
+      "link": "https://nitter.net/elonmusk/status/2086110038058246241#m",
+      "date": "Sat, 08 Aug 2026 15:19:25 GMT"
+    },
     {
       "text": "Wow\n\n\nDwarkesh Patel (@dwarkesh_sp)\n\nOpenAI HR told Leopold that a major reason for his firing was the memo he'd sent the board warning how broken OAI's security was.\n\nWhat happened next makes me even prouder to call him a friend. \n\nPeople may have forgotten, but up until 2024, OpenAI had this secret non-disparagement clause in their off-boarding agreement. If you didn’t sign it, they'd clawback all your equity.\n\nAs far as I'm aware, there were only two people ever who didn’t sign it - @DKokotajlo, and Leopold Aschenbrenner.\n\nOf all the researchers who left OpenAI before 2024, who had far more to fall back on, Leopold, all of 22 years old, was one of the only ones willing to refuse the golden handcuffs, and say, \"I want to preserve my right to talk about safety and security at OAI.”\n\nWe have a lot of disagreements, but he's among the most principled and resilient people I know.\n\n\n\n\n\n— https://nitter.net/dwarkesh_sp/status/2085576301101175254#m",
       "link": "https://nitter.net/elonmusk/status/2086106351722238304#m",
       "date": "Sat, 08 Aug 2026 15:04:46 GMT"
     },
     {
+      "text": "RT @dvorahfr: Examples of different Grok Imagine styles\n\nVideo",
+      "link": "https://nitter.net/elonmusk/status/2086105882786497005#m",
+      "date": "Sat, 08 Aug 2026 15:02:55 GMT"
+    },
+    {
       "text": "Hitler was a left-wing socialist\n\n\nAlice Smith (@TheAliceSmith)\n\nHitler was a leftist:\n\n✅ identity politics \n✅ collectivism\n✅ statism\n✅ command economy \n✅ censorship \n✅ social engineering \n✅ militant activism \n✅ gun control \n✅ rule by laws\n✅ politicisation of academia, judiciary and civil service\n\n\n\n— https://nitter.net/TheAliceSmith/status/2085757438498582989#m",
       "link": "https://nitter.net/elonmusk/status/2086104561555583102#m",
       "date": "Sat, 08 Aug 2026 14:57:40 GMT"
-    },
-    {
-      "text": "A 17-year-old African student has been charged and placed in pretrial detention after attacking three women near the Villiers-sur-Marne train station, east of Paris, between June 17 and July 23.\n\nThe first victim, 26, was attacked while walking home after traveling from Paris. Police later recovered DNA from her clothing.\n\nA month later, a 29-year-old woman was attacked in the same area. She had activated her phone’s audio recorder after becoming suspicious, and a nearby resident’s intervention caused the assailant to flee.\n\nPolice then deployed officers around the station. They followed the suspect as he approached women and arrested him after he attacked a third woman, 31, with a knife.\n\nInvestigators say the teenager admitted the three attacks during questioning and mentioned another possible victim from early June.",
-      "link": "https://nitter.net/visegrad24/status/2085954406822854988#m",
-      "date": "Sat, 08 Aug 2026 05:01:00 GMT"
-    },
-    {
-      "text": "Suicidal Empathy is spreading fast in the United States.  I urge all American patriots to get involved in fighting for American freedoms and liberties.  Please don't be apathetic.  The loss of our civilization will not happen overnight but it will happen if good people do not stand up against the massive attempts to colonize and destroy the West (and the United States).  Please wake up.\n\n\nEnd Wokeness (@EndWokeness)\n\nMcKinney City Council approved it, 7-0\n\n\n\n— https://nitter.net/EndWokeness/status/2085472063364456747#m",
-      "link": "https://nitter.net/GadSaad/status/2085743491334738340#m",
-      "date": "Fri, 07 Aug 2026 15:02:54 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2085940169245356114#m",
-      "date": "Sat, 08 Aug 2026 04:04:25 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2085937755062685951#m",
-      "date": "Sat, 08 Aug 2026 03:54:50 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2085926590962164126#m",
-      "date": "Sat, 08 Aug 2026 03:10:28 GMT"
-    },
-    {
-      "text": "Texas continues to lead the way in chip innovation & advanced manufacturing.\n \n@SpaceX & @Tesla’s new semiconductor fabrication facility in Grimes County has the potential to create thousands of jobs for Texans, strengthen America’s semiconductor and AI industry supply chains, & help bring critical chip manufacturing back home. \n \n@SpaceX & @Tesla have also committed to invest millions of dollars in the local community and schools, and I look forward to seeing the benefits to Grimes County grow in the future.\n\n\nSpaceX (@SpaceX)\n\nThe foundations for an exciting future are being built in Texas. Next up: Terafab → spacex.com/updates#terafab\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2085366782269817116#m",
-      "link": "https://nitter.net/JohnCornyn/status/2085890347301843344#m",
-      "date": "Sat, 08 Aug 2026 00:46:27 GMT"
-    },
-    {
-      "text": "did you know Grok is the only AI you can also use as a verb",
-      "link": "https://nitter.net/KettlebellDan/status/2085878569033715983#m",
-      "date": "Fri, 07 Aug 2026 23:59:39 GMT"
-    },
-    {
-      "text": "Use /connect-grok to use an X Premium or SuperGrok subscription with Warp\n\n\nWarp (@warpdotdev)\n\nRun /connect-grok in the Warp Agent CLI to use your X Premium subscription with Warp!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/warpdotdev/status/2085814312870776969#m",
-      "link": "https://nitter.net/SpaceXAI/status/2085814657223209290#m",
-      "date": "Fri, 07 Aug 2026 19:45:41 GMT"
-    },
-    {
-      "text": "I am unsure how much longer I can keep posting these stories.  It is soul-crushing.\n\n\nWhite Girl ✊🏻 (@A_WhiteGenocide)\n\nThe black judge overseeing the gang-rape cases of slain White LSU student Madison Brooks is the mother of a convicted serial rapist.\n\nJudge Gail Ray’s son, Nelson Taylor (also black), pleaded guilty in 1997 to multiple forcible rapes of teenage girls. \n\nSHE WAS HIS DEFENSE ATTORNEY.\n\nNow she’s set to decide the fate of the black men accused of raping 19-year-old White girl Madison before she was dumped on a highway and killed.\n\nLouisiana Supreme Court refused to remove her.\n\nThis is not a conflict of interest. \n\nThis is a disgrace.\n\nJustice for Madison.\n\nHow fast do you think she’d be off the bench if the colors were reversed?\n\n\n\n\n\n— https://nitter.net/A_WhiteGenocide/status/2085333643535290397#m",
-      "link": "https://nitter.net/GadSaad/status/2085713988583592009#m",
-      "date": "Fri, 07 Aug 2026 13:05:40 GMT"
-    },
-    {
-      "text": "Today, we’re launching Original Content Rewards.\n\nThe reality is that Revenue Sharing had reached a point where its incentives were misaligned. Creators should be focused on bringing net new content to the platform instead of maximizing payouts. We could have kept adding more rules and exceptions, but ultimately the better decision was to start fresh and build a program designed from day one to reward originality.\n\nOriginal Content Rewards is the result.\n\nThis program is built around a simple idea: reward the creators who bring original ideas, expertise, creativity, and unique perspectives to 𝕏 -- not those who have become best at gaming the system.\n\nThis is just the beginning. We’ll continue refining the program, improving our models, and raising the bar over time. But we’re so excited to keep investing in the creators who inform us, entertain us, make us laugh, teach us something new, and drive meaningful conversations on 𝕏 every day.\n\nTo everyone who creates original content on 𝕏 and makes this a better platform every day: thank you. We’re excited to keep building for you.",
-      "link": "https://nitter.net/allegrajacchia/status/2085835677917221171#m",
-      "date": "Fri, 07 Aug 2026 21:09:13 GMT"
-    },
-    {
-      "text": "Same thing seems to be happening with TV shows and video games\n\n\narctotherium (@arctotherium42)\n\nKnow a white male sci-fi author told (by a publisher) that he had to include gay sex in his book if he wanted it published.\n\n\n\n— https://nitter.net/arctotherium42/status/2085699215095656479#m",
-      "link": "https://nitter.net/elonmusk/status/2085802906674930019#m",
-      "date": "Fri, 07 Aug 2026 18:58:59 GMT"
-    },
-    {
-      "text": "More trans violence\n\n\nLibs of TikTok (@libsoftiktok)\n\nANOTHER HOAX JUST DROPPED\n\nTWO of the three \"women\" arrested for the M*RDER of a 7-year-old boy in Ohio are actually MEN pretending to be women.\n\nThe media is the enemy of the people.\n\n\n\n\n\n— https://nitter.net/libsoftiktok/status/2085752308667662800#m",
-      "link": "https://nitter.net/elonmusk/status/2085802506211197098#m",
-      "date": "Fri, 07 Aug 2026 18:57:24 GMT"
-    },
-    {
-      "text": "Oh my goodness.\n\n\nQUANTUM GUARD ™️ (@QuantumGuard17)\n\n🚨 HOLY CRAP. The man who brutally m*rdered an innocent gas station clerk in Fort Myers, Florida is a HAITIAN ILLEGAL ALIEN caught and released by Biden in 2022 — Fox's @BillMelugin_ \n\nThis is jaw-dropping betrayal. HE HAD TEMPORARY PROTECTED STATUS.\n\nThis is why they ALL must go back — BEFORE they commit violent crimes! Not after.\n\nSurveillance footage shows the vicious migrant beating her to death with a hammer, after beating up her car\n\nShe lost her life mere moments after leaving the store. Footage redacted due to how graphic it is.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/QuantumGuard17/status/2085647582676578362#m",
-      "link": "https://nitter.net/GadSaad/status/2085754530864439636#m",
-      "date": "Fri, 07 Aug 2026 15:46:46 GMT"
-    },
-    {
-      "text": "👀\n\n\nDr Singularity (@Dr_Singularity)\n\nTerafab vs Burj Khalifa\n\n\n\n\n\n— https://nitter.net/Dr_Singularity/status/2085687397199602154#m",
-      "link": "https://nitter.net/jgebbia/status/2085792011278262467#m",
-      "date": "Fri, 07 Aug 2026 18:15:42 GMT"
-    },
-    {
-      "text": "True\n\n\nKaizen D. Asiedu (@thatsKAIZEN)\n\nIt's not racist to have a rational immigration policy.\n\nBut a decade of calling it racist is why the West no longer has one.\n\n\n\n— https://nitter.net/thatsKAIZEN/status/2085529140246008079#m",
-      "link": "https://nitter.net/elonmusk/status/2085800273004335278#m",
-      "date": "Fri, 07 Aug 2026 18:48:32 GMT"
-    },
-    {
-      "text": "We’re working on making Grok Build super easy to use for non-technical people\n\n\nElon Musk (@elonmusk)\n\nTry Grok Build\n\nX.ai/build\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\n\n— https://nitter.net/elonmusk/status/2085735269525766343#m",
-      "link": "https://nitter.net/elonmusk/status/2085799495808204931#m",
-      "date": "Fri, 07 Aug 2026 18:45:26 GMT"
     }
   ]
 }
