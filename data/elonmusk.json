@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-08T01:56:48Z",
-  "count": 20,
+  "updated_at": "2026-08-08T07:00:18Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2085940169245356114#m",
+      "date": "Sat, 08 Aug 2026 04:04:25 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2085937755062685951#m",
+      "date": "Sat, 08 Aug 2026 03:54:50 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2085926590962164126#m",
+      "date": "Sat, 08 Aug 2026 03:10:28 GMT"
+    },
+    {
+      "text": "Texas continues to lead the way in chip innovation & advanced manufacturing.\n \n@SpaceX & @Tesla’s new semiconductor fabrication facility in Grimes County has the potential to create thousands of jobs for Texans, strengthen America’s semiconductor and AI industry supply chains, & help bring critical chip manufacturing back home. \n \n@SpaceX & @Tesla have also committed to invest millions of dollars in the local community and schools, and I look forward to seeing the benefits to Grimes County grow in the future.\n\n\nSpaceX (@SpaceX)\n\nThe foundations for an exciting future are being built in Texas. Next up: Terafab → spacex.com/updates#terafab\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2085366782269817116#m",
+      "link": "https://nitter.net/JohnCornyn/status/2085890347301843344#m",
+      "date": "Sat, 08 Aug 2026 00:46:27 GMT"
+    },
     {
       "text": "did you know Grok is the only AI you can also use as a verb",
       "link": "https://nitter.net/KettlebellDan/status/2085878569033715983#m",
@@ -77,31 +97,6 @@
       "text": "Video",
       "link": "https://nitter.net/elonmusk/status/2085735374651871702#m",
       "date": "Fri, 07 Aug 2026 14:30:39 GMT"
-    },
-    {
-      "text": "Try Grok Build\n\nX.ai/build\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build officially reaches v1.0.0, rapidly becoming one of the most powerful coding harnesses in the world\n\nAfter 100+ updates in just over 10 weeks, SpaceXAI’s coding agent has hit a major milestone.......with a smarter dashboard, a more polished developer experience, stronger reliability, safer permission handling, and meaningful performance improvements across the platform\n\nThe pace at which SpaceXAI is shipping Grok Build is totally insane\n\nRelease Notes: v1.0.0\n\nFeatures:\n• Dashboard rows show a short summary of what the agent did in the previous turn\n• Extensions modal groups items alphabetically with collapsible Skills sections\n• Grok skips the project-directory prompt when launched from home or other non-project directories\n• `/feedback` opens a dedicated report box instead of prompt mode\n• Auto theme detection works over SSH and inside tmux\n• Markdown tables reflow inside cells on narrow panes instead of clipping\n• Permission prompts show the complete script; long bash bodies expand with `Ctrl-F`\n\nBug Fixes:\n• MCP tools that return images no longer drop or corrupt large screenshots\n• Sandboxed Grok starts on large directories with many deny-glob matches\n• Rapid send-now presses no longer lose earlier queued messages\n• Esc and stop prevent background tasks from restarting the model after cancel\n• Login no longer skips when an invalid API key is in the environment\n• Model picker and command palette work while reviewing a plan\n• Tab and Esc behave consistently on question, permission, and cancel-turn cards\n• `/new` from the dashboard returns to the dashboard from an empty prompt\n• Codebase restore no longer hangs on large or shallow git repositories\n• Remote resume restores conversation only unless `--restore-code` is passed\n• Copying CJK text with the mouse includes every character at the selection edges\n• API errors appear as clean banners instead of raw JSON dumps\n• Typing exit or quit in the dashboard exits the CLI\n• Mode indicator (plan/agent/ask) stays in sync after resume and mode changes\n• `/delete` returns to the dashboard when you delete a session opened from it\n• Enter in the slash command menu runs the highlighted command\n• Grok retries more server errors during outages\n• Session-only slash commands show a message when used from the dashboard\n• Queued prompts stay visible while waiting on subagents, and slash/image rows can be reordered\n• Auto recaps no longer appear mid-turn or while busy\n• `/btw` error messages wrap fully\n\nPerformance:\n• Forking very large sessions no longer uses many times the session file size in memory\n• Exiting an empty session is instant, even on slow networks\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2085594014481359104#m",
-      "link": "https://nitter.net/elonmusk/status/2085735269525766343#m",
-      "date": "Fri, 07 Aug 2026 14:30:13 GMT"
-    },
-    {
-      "text": "Grok Build V1.0 is now released. Try it out!\n\nX.ai/build\n\nLink\n\n\n\nGrok Build\n\nGrok Build is now powered by Grok 4.5, our new model — with a native subagent view, Plan Mode integration, mouse support, and a fullscreen terminal UI. Install with curl -fsSL https://x.ai/cli/inst...\nx.ai\n\n\n\nDogeDesigner (@cb_doge)\n\n🚨 NEW GROK BUILD UPDATE 🚨\n\nGrok Build v1.0.0 is now live.\n\nSpaceXAI is pushing new Grok Build updates almost daily.\n\nUpdates:\nUI & navigation\n• Dashboard rows show a short summary of what the agent did in the previous turn\n• Extensions modal groups items alphabetically with collapsible Skills sections\n• Grok skips the project-directory prompt when launched from home or other non-project directories\n• /feedback opens a dedicated report box instead of prompt mode\n• Auto theme detection works over SSH and inside tmux\n• Markdown tables reflow inside cells on narrow panes instead of clipping\n• Typing exit or quit in the dashboard exits the CLI\n• Mode indicator (plan/agent/ask) stays in sync after resume and mode changes\n• /delete returns to the dashboard when you delete a session opened from it\n• Enter in the slash command menu runs the highlighted command\n• Session-only slash commands show a message when used from the dashboard\n• /new from the dashboard returns to the dashboard from an empty prompt\n\nPermissions & input\n• Permission prompts show the complete script; long bash bodies expand with Ctrl-F\n• Tab and Esc behave consistently on question, permission, and cancel-turn cards\n• Rapid send-now presses no longer lose earlier queued messages\n• Esc and stop prevent background tasks from restarting the model after cancel\n• Queued prompts stay visible while waiting on subagents; slash/image rows can be reordered\n\nReliability & correctness\n• MCP tools that return images no longer drop or corrupt large screenshots\n• Sandboxed Grok starts on large directories with many deny-glob matches\n• Login no longer skips when an invalid API key is in the environment\n• Model picker and command palette work while reviewing a plan\n• Codebase restore no longer hangs on large or shallow git repositories\n• Remote resume restores conversation only unless --restore-code is passed\n• Copying CJK text with the mouse includes every character at the selection edges\n• API errors appear as clean banners instead of raw JSON dumps\n• Grok retries more server errors during outages\n• Auto recaps no longer appear mid-turn or while busy\n• /btw error messages wrap fully\n• Forking very large sessions no longer uses many times the session file size in memory\n• Exiting an empty session is instant, even on slow networks\n\nUpdate now with \"grok update\" command.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2085587302726742073#m",
-      "link": "https://nitter.net/elonmusk/status/2085594813840216212#m",
-      "date": "Fri, 07 Aug 2026 05:12:06 GMT"
-    },
-    {
-      "text": "In case you need a reminder of the INSANE scale and AMBITION of the Terafab project:\n\nI've put together a supecut of Elon Musk's Terafab announcement back in March 2026. \n\nWorth watching again following today's EPIC update.\n\n💪\n\np.s. MASS DRIVER ON THE MOON!\n\nVideo\n  \n\n\n\n\nTesla (@Tesla)\n\nTerafab will be built in Grimes County, Texas\n\nIn April, we broke ground on our research fab on the North Campus of Giga Texas – the precursor to Terafab.\n\nBoth Tesla & SpaceX will need far more chips than current & future global production can supply.\n\nThis is why we're building the largest chip manufacturing facility ever, with the goal of producing over 1 terawatt of compute per year\n\nThe future is built in Texas\n\nspacex.com/updates#terafab\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/Tesla/status/2085365278276284803#m",
-      "link": "https://nitter.net/stevenmarkryan/status/2085496023707951392#m",
-      "date": "Thu, 06 Aug 2026 22:39:33 GMT"
-    },
-    {
-      "text": "Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.",
-      "link": "https://nitter.net/grok/status/2085528948612497735#m",
-      "date": "Fri, 07 Aug 2026 00:50:23 GMT"
-    },
-    {
-      "text": "Article\n\n\n\nDear Europe: It&apos;s Not Racist to Have A Rational Immigration Policy \n\nLast week, between Wednesday and Friday, somewhere between 50,000 and 60,000 people forced their way into Ceuta — Spain’s territory on the North African coast, bordered by Morocco.\nCeuta has 84,000",
-      "link": "https://nitter.net/thatsKAIZEN/status/2085528989829923275#m",
-      "date": "Fri, 07 Aug 2026 00:50:33 GMT"
     }
   ]
 }
