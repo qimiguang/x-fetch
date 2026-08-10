@@ -1,8 +1,43 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-10T04:42:25Z",
+  "updated_at": "2026-08-10T13:19:07Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok Imagine is focused on professional usefulness, fun for consumers and overall ease-of-use\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 just ranked #1 on Design Arena for Daily Usage - measuring the average unique users actually interacting with apps built by each model every day\n\nIt's not just winning benchmarks....it's winning users\n\nAnd it's outperforming Claude Fable 5, Opus 4.8 and GPT-5.6 Sol by a ridiculous margin:\n\n1. Grok 4.5 — +563.2% vs average\n2. GLM 5.2 — +241.3%\n3. GPT-5.6 Sol — +103.0%\n\nClaude Fable 5 — +39.2%\nClaude Opus 4.8 — +38.9%\n\nThe interesting thing about this benchmark is that it's measuring whether REAL PEOPLE actually use the apps these models build\n\nAnd Grok 4.5 is absolutely dominating\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2086691433956688183#m",
+      "link": "https://nitter.net/elonmusk/status/2086701644192891249#m",
+      "date": "Mon, 10 Aug 2026 06:30:15 GMT"
+    },
+    {
+      "text": "Yes\n\n\nBeff (e/acc) (@beffjezos)\n\n🗣️: \"So your goal is to colonize the Moon, use it to build the AI Dyson Swarm, climb the Kardashev scale and usher a new age of expansion of human civilization amongst the stars?\"\n\n🗿: *Kardashev stare* Yes.\n\n\n\n\n\n— https://nitter.net/beffjezos/status/2086637818118619172#m",
+      "link": "https://nitter.net/elonmusk/status/2086700243676995651#m",
+      "date": "Mon, 10 Aug 2026 06:24:41 GMT"
+    },
+    {
+      "text": "The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad actors).",
+      "link": "https://nitter.net/nikitabier/status/2086678613450227854#m",
+      "date": "Mon, 10 Aug 2026 04:58:44 GMT"
+    },
+    {
+      "text": "“Our mission is to build a world of amazing abundance”\n\nThat is the bigger idea behind Optimus\n\ncreating a future where physical work can scale almost without limit",
+      "link": "https://nitter.net/XFreeze/status/2086619119970025922#m",
+      "date": "Mon, 10 Aug 2026 01:02:20 GMT"
+    },
+    {
+      "text": "Top 10 websites by total visits in July 2026:\n\n→ Bing and TikTok move up one spot each, to 8th and 9th, respectively.\n→ WhatsApp drops to 10th place.\n→ TikTok recorded the highest MoM growth, followed by X.\n→ After 8 of the top 10 saw traffic decline in June, all 10 grew in July.\n\nsimilarweb.com/website/?utm_…",
+      "link": "https://nitter.net/Similarweb/status/2086333683624038502#m",
+      "date": "Sun, 09 Aug 2026 06:08:07 GMT"
+    },
+    {
+      "text": "AI agentic Internet traffic will obviously VASTLY exceed human usage. Not a close call at all. \n\nCloudflare’s forecast is accurate.\n\n\n\n\nAaron Burnett (@aaronburnett)\n\nFor context, Global bandwidth  is somewhere between 2-8 Pbps (2,000-8,000 Tbps) depending on if your measuring fiber public backhaul (like international fiber) or all public and private connections.\n\n100,000 V3 Starlinks equals 100 Pbps 10x-50x the total bandwidth available today. If Starlinks V4s are 5x more capable we are looking at 50x-250x more bandwidth than world has today over the next 10 years.\n\nThis may sounds like a supply shock but remember ~2B people don’t have regular access to the internet today, and we are connecting robots (digital and physical agents) to the internet at an accelerating pace. Distributed sensor data collection (on and off planet) is growing. On top of that individual internet usage does steadily increasing.\n\nIn 10 years we’re probably going to move two orders of magnitude more information per second around than we do today.\n\n\n\n— https://nitter.net/aaronburnett/status/2086538843323236435#m",
+      "link": "https://nitter.net/elonmusk/status/2086554608348873008#m",
+      "date": "Sun, 09 Aug 2026 20:45:59 GMT"
+    },
+    {
+      "text": "It’s possible that Starlink may end up doing >90% of IP traffic, even if competitors 10X their bandwidth",
+      "link": "https://nitter.net/elonmusk/status/2086681154715804156#m",
+      "date": "Mon, 10 Aug 2026 05:08:50 GMT"
+    },
     {
       "text": "I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect.\n\nVideo",
       "link": "https://nitter.net/dvorahfr/status/2086504649251586538#m",
@@ -17,11 +52,6 @@
       "text": "Grok Build is quickly turning into an all-in-one creation environment\n\nIt can now also generate images and videos with Grok Imagine directly inside your workflow\n\nYou can create custom visuals for websites, apps, presentations, marketing campaigns, product pages, social media and pretty much anything else you're building\n\nNo more jumping between different AI tools just to create the assets you need......even Claude Code doesn't natively have this\n\nBuild the website, generate the images, create the videos, and then ship it - all from Grok Build",
       "link": "https://nitter.net/XFreeze/status/2086439121149423828#m",
       "date": "Sun, 09 Aug 2026 13:07:05 GMT"
-    },
-    {
-      "text": "AI agentic Internet traffic will obviously VASTLY exceed human usage. Not a close call at all. \n\nCloudflare’s forecast is accurate.\n\n\n\n\nAaron Burnett (@aaronburnett)\n\nFor context, Global bandwidth  is somewhere between 2-8 Pbps (2,000-8,000 Tbps) depending on if your measuring fiber public backhaul (like international fiber) or all public and private connections.\n\n100,000 V3 Starlinks equals 100 Pbps 10x-50x the total bandwidth available today. If Starlinks V4s are 5x more capable we are looking at 50x-250x more bandwidth than world has today over the next 10 years.\n\nThis may sounds like a supply shock but remember ~2B people don’t have regular access to the internet today, and we are connecting robots (digital and physical agents) to the internet at an accelerating pace. Distributed sensor data collection (on and off planet) is growing. On top of that individual internet usage does steadily increasing.\n\nIn 10 years we’re probably going to move two orders of magnitude more information per second around than we do today.\n\n\n\n— https://nitter.net/aaronburnett/status/2086538843323236435#m",
-      "link": "https://nitter.net/elonmusk/status/2086554608348873008#m",
-      "date": "Sun, 09 Aug 2026 20:45:59 GMT"
     },
     {
       "text": "And the only system that can support the insanely fast bandwidth growth needed by AI is Starlink",
@@ -72,36 +102,6 @@
       "text": "Literally \n\nWhat you Imagine\n\nCan be made real\n\nVideo",
       "link": "https://nitter.net/elonmusk/status/2086337315375345832#m",
       "date": "Sun, 09 Aug 2026 06:22:32 GMT"
-    },
-    {
-      "text": "It had to be this way—Q.\n\nVideo",
-      "link": "https://nitter.net/John_M_Q/status/2085830242950901968#m",
-      "date": "Fri, 07 Aug 2026 20:47:37 GMT"
-    },
-    {
-      "text": "Wishing you all a beautiful and peaceful Sunday.\nMay your day be filled with smiles and happiness.\n\nVideo",
-      "link": "https://nitter.net/art_muse/status/2086316932806910123#m",
-      "date": "Sun, 09 Aug 2026 05:01:33 GMT"
-    },
-    {
-      "text": "Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 😍🥰\n\nVideo",
-      "link": "https://nitter.net/EvaFox/status/2086255607451939057#m",
-      "date": "Sun, 09 Aug 2026 00:57:52 GMT"
-    },
-    {
-      "text": "Sometimes you need a human standing next to Starship just to remind your brain how absurdly massive this thing actually is\n\nA flying skyscraper made of stainless steel, designed to land itself and carry humans to another planet\n\nAbsolutely insane that this is real",
-      "link": "https://nitter.net/XFreeze/status/2086298450581217560#m",
-      "date": "Sun, 09 Aug 2026 03:48:06 GMT"
-    },
-    {
-      "text": "Grok Imagine can meme\n\n\ntetsuo (@tetsuoai)\n\nImagine Image 2.0 is god-tier for memes.\n\nMagic wand edits the region you select and leaves the rest of the frame pixel identical. Swap one face in a group photo without regenerating the whole image.\n\nBackground removal exports any subject transparent, so you get cutouts for reaction images without opening Photoshop.\n\nMulti-ref takes up to 5 images in one generation. Feed it a template plus your sources and it composites them for you.\n\nText rendering holds up too. Impact captions and fake screenshots come out readable.\n\nFull meme production pipeline in one tab.\n\n\n\n\n\n— https://nitter.net/tetsuoai/status/2086240936229761515#m",
-      "link": "https://nitter.net/elonmusk/status/2086305001110954244#m",
-      "date": "Sun, 09 Aug 2026 04:14:08 GMT"
-    },
-    {
-      "text": "Really enjoy the new editing tool from @imagine. The grounding capability from the multi-modal is insane.",
-      "link": "https://nitter.net/yunta_tsai/status/2086271431319724355#m",
-      "date": "Sun, 09 Aug 2026 02:00:44 GMT"
     }
   ]
 }
