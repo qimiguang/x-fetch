@@ -1,8 +1,43 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-11T13:15:51Z",
+  "updated_at": "2026-08-11T19:07:21Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "They can’t handle the truth is the real issue here\n\n\nWierd Duk ܦܝܪܬ ܕܘܟ (@wierdduk)\n\nToch benieuwd wat @elonmusk van deze kwalificatie zou vinden (U mag raden wie 'm maakt en waar):\n\n\"Premier Jetten moet Yesilgöz, en alle andere bewindslieden van zijn minderheidskabinet, verbieden om zich op sociale media uit te laten over alles dat buiten de eigen portefeuille valt. Daarnaast moet men natuurlijk sowieso geen mededelingen meer doen op X, een platform dat wordt gedomineerd door desinformatie, en dat in handen is van de rijkste man ter wereld, die bovendien een totale fascist is.\"\n\n\n\n— https://nitter.net/wierdduk/status/2086803318941118510#m",
+      "link": "https://nitter.net/elonmusk/status/2087235939055591862#m",
+      "date": "Tue, 11 Aug 2026 17:53:21 GMT"
+    },
+    {
+      "text": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week\n\n\nGrok Bot (@bot)\n\nIntroducing Grok Bot, now in early beta.\n\nBots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/bot/status/2087224798078517251#m",
+      "link": "https://nitter.net/elonmusk/status/2087233507370147920#m",
+      "date": "Tue, 11 Aug 2026 17:43:41 GMT"
+    },
+    {
+      "text": "What would you most like us to add to or fix about Grok Build?\n\n\nDogeDesigner (@cb_doge)\n\n🚨 NEW GROK BUILD UPDATE 🚨\n\nv1.0.1 — 2026-08-10 \n\nUpdates:\n• /rewind now only truncates conversation history instead of files as well and asks for confirmation by default.\n• Managed MCP servers are now only available through the gateway catalog.\n\nFeatures:\n• Subagent spawning is now bounded; wide fan-outs queue instead of exhausting file descriptors.\n• New grok du command shows disk usage of ~/.grok including worktrees and sessions.\n• Tools now report whether they only read data, enabling safer restricted agents and subagents.\n• Sandbox workspace sessions can now limit which bundled skills are advertised via caller config.\n• Renaming a session from the dashboard now starts with the current title prefilled for easy editing.\n• /usage, /session-info, and /context now open in a tabbed modal instead of adding text to the conversation.\n• grok trace exports now bundle memory trace files for easier debugging.\n• Session rename now enforces a 100-character limit, ghost-prefills the current title, and preserves manual titles across machines.\n• New /rename --auto command unpins a manual session title so automatic titling resumes.\n• Video generation from references now supports preset voices, single-image input, 1–15 s durations, and 4:3 / 3:4 aspect ratios.\n\nBug Fixes:\n• Sandbox config entries ending in /** now correctly grant the parent directory instead of creating a literal ** subdirectory.\n• Failed alpha/enterprise updates now suggest the matching GROK_CHANNEL reinstall command.\n• On Apple Silicon, grok now installs the native arm64 build even from a Rosetta shell or x86_64 updater.\n• Skills that share names with built-in commands now appear alongside them in the slash menu with qualified names.\n• Notebook permission rules imported from Claude configs are now ignored with a warning instead of applying broadly.\n• Goal evaluation at round end no longer fails due to timeouts.\n• Tool timeouts no longer cause the agent to hang when child processes are stuck in D-state or hold pipes open.\n• Home and End keys now move to the start or end of the current logical line even when the prompt is wrapped.\n• Worktree sessions now correctly show their branch in the status bar.\n• Worktree sessions now keep their status correctly when switching directories or resuming.\n• Worktree status is no longer lost when opening the dashboard.\n• Recaps are now written in the same language as your conversation.\n• Plugin suggestions no longer flash incorrectly while typing.\n• Send Now now works during active goals without cancelling the goal.\n• Headless sessions now correctly wait for MCP servers when using delivery tools.\n• Non-interactive sessions (grok -p) no longer fail when the agent asks for user input or plan approval.\n• read_file errors for missing skills now suggest the correct registered path instead of a generic hint.\n• Session load and creation can no longer freeze forever when .envrc evaluation blocks.\n• Upgraded installs no longer silently run outdated platform skill instructions.\n• Deleting a session now properly stops and waits for any running subagents before wiping history.\n• Permission and plan-approval notification hooks no longer fire on auto-allowed tools.\n• Mid-turn steering sent with double-Enter or Ctrl+Enter now correctly tells the model it arrived while work was in progress.\n• Scrollback drag selection no longer gets stuck after the mouse button is released outside VS Code or Cursor terminals.\n• Video generation tools now show a clear error explaining ZDR storage requirements instead of silently disappearing.\n• Esc on the cancel-turn panel now closes the panel and keeps the current turn running as the shortcuts bar indicates.\n\nDownload Grok Build: x.ai/cli\n\nUpdate to the latest Alpha release: grok update --alpha\n\nUpdate to the latest Stable release: grok update\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087189868875075617#m",
+      "link": "https://nitter.net/elonmusk/status/2087232895798616122#m",
+      "date": "Tue, 11 Aug 2026 17:41:15 GMT"
+    },
+    {
+      "text": "lmao\n\n\nsan (@saneord)\n\n\"we have sandboxed the agent\"\n\nthe agent:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/saneord/status/2086503225969295453#m",
+      "link": "https://nitter.net/elonmusk/status/2087228471667781885#m",
+      "date": "Tue, 11 Aug 2026 17:23:41 GMT"
+    },
+    {
+      "text": "Lightning strikes for continuous and long-run agents!\n\nNemotron 3.5 Lightning is smart, fast, efficient and open.\n\n\nNVIDIA AI (@NVIDIAAI)\n\nIntroducing NVIDIA Nemotron 3.5 Lightning⚡\n\nAn open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster.\n\nIt delivers up to 4x the output speed of similar-sized models.\n\n\n\n\n\n— https://nitter.net/NVIDIAAI/status/2087162151995629926#m",
+      "link": "https://nitter.net/JensenHuang/status/2087184542050496763#m",
+      "date": "Tue, 11 Aug 2026 14:29:07 GMT"
+    },
+    {
+      "text": "More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.”\n\nNone of these concerns were ever made public.\n\n\n\n\nBill Melugin (@BillMelugin_)\n\nBREAKING: Sen. Ron Johnson (R-WI) releases text obtained from Dr. Fauci’s phone that shows Fauci expressing concern in January 2021 that the second dose of a COVID vaccine could potentially be “associated with miscarriage in the 1st trimester” in conversation with Biden era CDC Director Rochelle Walensky & Surgeon General Vivek Murthy.\n\n\n\n— https://nitter.net/BillMelugin_/status/2086879286968176877#m",
+      "link": "https://nitter.net/BillMelugin_/status/2086901619346792543#m",
+      "date": "Mon, 10 Aug 2026 19:44:53 GMT"
+    },
+    {
+      "text": "Grok can now turn your daily news research into a voice memo you can just listen to\n\nAsk it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing\n\nSo instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes\n\nWith different voices available, it basically becomes your own personalized daily news show",
+      "link": "https://nitter.net/XFreeze/status/2087151014587826414#m",
+      "date": "Tue, 11 Aug 2026 12:15:53 GMT"
+    },
     {
       "text": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine\n\n\"Tony Fauci was OUT OF HIS LANE, and used that power to tell America one thing when he really thought another.\"\n\n\"I'm glad his words now can be heard by the American people... it's SHOCKING to me that he was sharing private thoughts and that, when he was out in public—and he was out in the public A LOT—he didn't share those private thoughts with the American public.\"\n\n\"I mean, and Tony Fauci was MAJOR figure in trying to get those COVID shots past the finish line. He owed the American public some transparency.\"\n\nVideo",
       "link": "https://nitter.net/nicksortor/status/2086924547886850353#m",
@@ -67,41 +102,6 @@
       "text": "💯\n\nSocialists are Hitler\n\n\nKevin Bass (@kevinnbass)\n\nHitler was a socialist.\n\nAmerican socialists say that Hitler was not a socialist because they do not want you to realize that they share many beliefs in common with Hitler.\n\nHitler was extremely proud of being a socialist.\n\nHitler called himself a socialist, from start to finish, throughout his political career.\n\nThere was never a time Hitler disavowed socialism.\n\nHe expounded on his socialist positions often, and he called them socialist, and they were socialist.\n\nThe \"Nazi\" party is short for National Socialist German Workers' Party.\n\nAll socialism eventually leads to the sorts of atrocities that occurred under Hitler, even the \"nice\" socialism of Europe.\n\nThat is why we see many terrible things -- rapes and murders at an increasing rate, covered up by the authorities -- that are happening in Europe today.\n\nDo not let a socialist tell you that Hitler was not a socialist.\n\nHitler was a socialist.\n\n\n\n— https://nitter.net/kevinnbass/status/2086656411631595822#m",
       "link": "https://nitter.net/elonmusk/status/2086827721498259761#m",
       "date": "Mon, 10 Aug 2026 14:51:14 GMT"
-    },
-    {
-      "text": "He means what he says\n\n\nResist the Mainstream (@ResisttheMS)\n\nHasan Piker: \"We're gonna destroy the white race, b*tch!\"\n\n\"That's what we're here to do!\"\n\n\n\n\n\n— https://nitter.net/ResisttheMS/status/2086790346273591723#m",
-      "link": "https://nitter.net/elonmusk/status/2086827441549398077#m",
-      "date": "Mon, 10 Aug 2026 14:50:08 GMT"
-    },
-    {
-      "text": "BREAKING: Lufthansa Airlines just released new pictures of Starlink being installed on its aircraft. The first Starlink-equipped Lufthansa Airbus A320neo will enter service on August 19.",
-      "link": "https://nitter.net/cb_doge/status/2086782987601928618#m",
-      "date": "Mon, 10 Aug 2026 11:53:29 GMT"
-    },
-    {
-      "text": "Super funny 🤣🤣\n\n\nGad Saad (@GadSaad)\n\nFocus on the real enemies lest your grandchildren will hate you\n\nArticle\n\n\n\nAre You Familiar with Six Degrees of Jew? \n\nStanley Milgram, the famous psychologist perhaps best known for his obedience to authority experiments, also carried out pioneering work on the small world problem, namely the idea that random people\n\n\n\n\n— https://nitter.net/GadSaad/status/2086806961060716622#m",
-      "link": "https://nitter.net/elonmusk/status/2086827128696234280#m",
-      "date": "Mon, 10 Aug 2026 14:48:53 GMT"
-    },
-    {
-      "text": "Grok Imagine is focused on professional usefulness, fun for consumers and overall ease-of-use\n\n\nX Freeze (@XFreeze)\n\nGrok 4.5 just ranked #1 on Design Arena for Daily Usage - measuring the average unique users actually interacting with apps built by each model every day\n\nIt's not just winning benchmarks....it's winning users\n\nAnd it's outperforming Claude Fable 5, Opus 4.8 and GPT-5.6 Sol by a ridiculous margin:\n\n1. Grok 4.5 — +563.2% vs average\n2. GLM 5.2 — +241.3%\n3. GPT-5.6 Sol — +103.0%\n\nClaude Fable 5 — +39.2%\nClaude Opus 4.8 — +38.9%\n\nThe interesting thing about this benchmark is that it's measuring whether REAL PEOPLE actually use the apps these models build\n\nAnd Grok 4.5 is absolutely dominating\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2086691433956688183#m",
-      "link": "https://nitter.net/elonmusk/status/2086701644192891249#m",
-      "date": "Mon, 10 Aug 2026 06:30:15 GMT"
-    },
-    {
-      "text": "Yes\n\n\nBeff (e/acc) (@beffjezos)\n\n🗣️: \"So your goal is to colonize the Moon, use it to build the AI Dyson Swarm, climb the Kardashev scale and usher a new age of expansion of human civilization amongst the stars?\"\n\n🗿: *Kardashev stare* Yes.\n\n\n\n\n\n— https://nitter.net/beffjezos/status/2086637818118619172#m",
-      "link": "https://nitter.net/elonmusk/status/2086700243676995651#m",
-      "date": "Mon, 10 Aug 2026 06:24:41 GMT"
-    },
-    {
-      "text": "The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad actors).",
-      "link": "https://nitter.net/nikitabier/status/2086678613450227854#m",
-      "date": "Mon, 10 Aug 2026 04:58:44 GMT"
-    },
-    {
-      "text": "“Our mission is to build a world of amazing abundance”\n\nThat is the bigger idea behind Optimus\n\ncreating a future where physical work can scale almost without limit",
-      "link": "https://nitter.net/XFreeze/status/2086619119970025922#m",
-      "date": "Mon, 10 Aug 2026 01:02:20 GMT"
     }
   ]
 }
