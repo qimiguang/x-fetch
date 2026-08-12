@@ -1,8 +1,53 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-12T02:21:05Z",
+  "updated_at": "2026-08-12T10:11:06Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun\n\nVideo\n  \n\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nIt’s always funny how people in SF twitter bubble will say things like “Claude has unbeatable narrative momentum” and then 2 weeks later “wow did Kimi just end the race” \n\nMy brother in Christ nobody outside of this little bubble even calls any AI anything other than “Chat” and they think datacenters destroy water molecules \n\nYou sound dumb. \n\nFocus on things that actually impact people not the little scores on overfit evals\n\nAnd also people who bet against Elon are stupid. The man built real world self driving cars (non-LLM based AI) that is still the best AI I’ve ever used by far. You think he can’t come from behind and win on writing code? He’s literally catching 30 story buildings with chopsticks and that’s like one of his projects \n\nI like a lot of the tools and have friends at all the main labs. Truly amazing work being done. But the overblown commentators are actually so out of touch\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2087403242984734942#m",
+      "link": "https://nitter.net/ArthurMacwaters/status/2087411297411625227#m",
+      "date": "Wed, 12 Aug 2026 05:30:10 GMT"
+    },
+    {
+      "text": "meeting more and more people who are daily driving grok",
+      "link": "https://nitter.net/jeffreyhuber/status/2087246938530062794#m",
+      "date": "Tue, 11 Aug 2026 18:37:03 GMT"
+    },
+    {
+      "text": "Grok Build is extremely powerful\n\n\nX Freeze (@XFreeze)\n\nSpaceX’s recent video volume was a little low, so I just gave it to Grok Build and asked it to increase the volume by +10 dB\n\nGrok analyzed the audio, boosted it, added soft compression + limiting to keep everything under control, and gave me the finished video\n\nThen after seeing the audio levels Grok gave me, I realized there was still room to push it another +10 dB\n\nSo I literally asked again\n\nGrok Build boosted it to +20 dB total, re-encoded the video and handed me the final file\n\nAnd it did the whole thing literally in just 25 seconds 😭\n\nIf I were doing this manually, I’d have to open editing software, understand gain, compression and limiting, adjust everything myself and export the video again\n\nThat could easily take me 10–20 minutes\n\nWith Grok Build, I just explained what I wanted in plain English and it handled everything for me\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087421322418700763#m",
+      "link": "https://nitter.net/elonmusk/status/2087433701764497852#m",
+      "date": "Wed, 12 Aug 2026 06:59:11 GMT"
+    },
+    {
+      "text": "How to use Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok Build has a really nice way to learn the entire tool without ever leaving the terminal\n\nJust type /tour or /tutorial, and Grok Build walks you through everything step by step\n\nIt covers:\n• Your first prompt\n• Attaching files, images & screenshots\n• Navigation\n• Slash commands\n• Parallel work with Worktrees\n• Plan Mode & permissions\n• AGENTS.md, memory & themes\n• Guides, feedback & best practices\n\nIt even makes switching from Claude, Cursor, or Codex easier, with support for carrying over your settings, rules, and skills\n\nInstead of opening a massive documentation page and trying to figure everything out yourself, you can learn Grok Build interactively while actually using it\n\nIf you're new to Grok Build, just start with /tour\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087189025358557340#m",
+      "link": "https://nitter.net/elonmusk/status/2087433011478634944#m",
+      "date": "Wed, 12 Aug 2026 06:56:27 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2087410119256764540#m",
+      "date": "Wed, 12 Aug 2026 05:25:29 GMT"
+    },
+    {
+      "text": "ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN\n\n“We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI.\n\nAnd I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is.\n\nIf the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose?\n\nAnd it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute.\n\nBut I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen.\n\nAnd we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”\n\nVideo",
+      "link": "https://nitter.net/cb_doge/status/2087314260770930780#m",
+      "date": "Tue, 11 Aug 2026 23:04:34 GMT"
+    },
+    {
+      "text": "Grok Bot is a workhorse \n\nAll the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now",
+      "link": "https://nitter.net/KettlebellDan/status/2087255832677253435#m",
+      "date": "Tue, 11 Aug 2026 19:12:24 GMT"
+    },
+    {
+      "text": "Grok Bot\n\n\nFarzad 🇺🇸 🇮🇷 (@farzyness)\n\nHere's my Grok Bot team:\n\n- Webby: Web designer\n- Shotry: Short-form content creator\n- Writey: Article/Newsletter writer\n- Claude Code: Grok agent that specializes in CC\n- Codex: Same as the above but for CODEX\n- Script: YT Scriptwriter\n- Idea: Idea generation for videos/content\n- Master: Orchestrator for the whole team\n\nSUPER easy to spin these up and get them working. Let's see how this goes!\n\n\n\n\n\n— https://nitter.net/farzyness/status/2087340859138224540#m",
+      "link": "https://nitter.net/elonmusk/status/2087409427888603229#m",
+      "date": "Wed, 12 Aug 2026 05:22:44 GMT"
+    },
+    {
+      "text": "SpaceX company update\n\n\nSpaceX (@SpaceX)\n\nWe made rockets reusable and are rebuilding the internet in space. The next challenge: making life multiplanetary and understanding the true nature of the universe\n\nWatch @ElonMusk deliver a company update to @SpaceX employees\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2087283977866379361#m",
+      "link": "https://nitter.net/elonmusk/status/2087409075009274035#m",
+      "date": "Wed, 12 Aug 2026 05:21:20 GMT"
+    },
     {
       "text": "Around 43% of the German population aged under 5 now has a foreign background.",
       "link": "https://nitter.net/PeterSweden7/status/2087148115304272168#m",
@@ -57,51 +102,6 @@
       "text": "Grok can now turn your daily news research into a voice memo you can just listen to\n\nAsk it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing\n\nSo instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes\n\nWith different voices available, it basically becomes your own personalized daily news show",
       "link": "https://nitter.net/XFreeze/status/2087151014587826414#m",
       "date": "Tue, 11 Aug 2026 12:15:53 GMT"
-    },
-    {
-      "text": "🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine\n\n\"Tony Fauci was OUT OF HIS LANE, and used that power to tell America one thing when he really thought another.\"\n\n\"I'm glad his words now can be heard by the American people... it's SHOCKING to me that he was sharing private thoughts and that, when he was out in public—and he was out in the public A LOT—he didn't share those private thoughts with the American public.\"\n\n\"I mean, and Tony Fauci was MAJOR figure in trying to get those COVID shots past the finish line. He owed the American public some transparency.\"\n\nVideo",
-      "link": "https://nitter.net/nicksortor/status/2086924547886850353#m",
-      "date": "Mon, 10 Aug 2026 21:16:00 GMT"
-    },
-    {
-      "text": "Tesla\n\n\nWhole Mars Catalog (@wholemars)\n\nU.S. Automotive Loyalty Rates by Make \n\n1. Tesla\n2. Ferrari\n3. Toyota\n4. Subaru\n5. Honda\n6. Ford\n7. Chevrolet\n8. Nissan\n9. BMW\n10. Mercedes-Benz\n11. Kia\n12. Hyundai\n13. Lucid\n14. Lexus\n15. Mazda\n16. Porsche\n17. Lincoln\n18. Acura\n19. Volkswagen\n20. Land Rover\n\n\n\n\n\n— https://nitter.net/wholemars/status/2086857630782574945#m",
-      "link": "https://nitter.net/elonmusk/status/2087046381877833990#m",
-      "date": "Tue, 11 Aug 2026 05:20:07 GMT"
-    },
-    {
-      "text": "Grok Imagine\n\n\nMin Choi (@minchoi)\n\nGrok Imagine just stopped being an image generator.\n\nImage 2.0 can surgically edit photos, combine 5 refs, render sharp text, resize anything + remove backgrounds.\n\nThis is a real creative tool now.\n\n100% AI\n\n10 wild examples (prompts included):\n\n1. Polaroid style group photo\n\n\n\n\n\n— https://nitter.net/minchoi/status/2087037119130636731#m",
-      "link": "https://nitter.net/elonmusk/status/2087046240353603854#m",
-      "date": "Tue, 11 Aug 2026 05:19:33 GMT"
-    },
-    {
-      "text": "Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.\n\nLink\n\n\nA powerful new coding agent\nx.ai",
-      "link": "https://nitter.net/grok/status/2082791168765821324#m",
-      "date": "Thu, 30 Jul 2026 11:31:25 GMT"
-    },
-    {
-      "text": "This really happened\n\n\nNew York Post (@nypost)\n\nFauci privately warned of miscarriage risk linked to COVID vaccine while publicly claiming no issues, newly released texts show trib.al/bDcp5GG\n\n\n\n\n\n— https://nitter.net/nypost/status/2086887707624534318#m",
-      "link": "https://nitter.net/elonmusk/status/2086975888525066354#m",
-      "date": "Tue, 11 Aug 2026 00:40:00 GMT"
-    },
-    {
-      "text": "SF spends more than $1,000,000,000/yr now on homelessness (5x increase in 5 years)\n\nA wild number. \n\nAnd yet the homeless population has only gotten larger\n\nBecause incentives determine results – if an NGO is paid by how many homeless people they manage, you can guarantee they will not reduce that number\n\nThese are real human lives who are ruined by the incompetence and greed of NGOs and bureaucrats\n\nDon't let communists run your cities\n\n\n\n\nSpencer Pratt (@spencerpratt)\n\nWow. Both mayoral candidates are still pushing housing as a solution for a DRUG PROBLEM. Delusional scammers. LA is so cooked. I was the only candidate talking about the real fix, so now you can enjoy Skid Row expanding even more! \nDon't let communists run your city!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/spencerpratt/status/2086936930814415056#m",
-      "link": "https://nitter.net/ArthurMacwaters/status/2086941469722722752#m",
-      "date": "Mon, 10 Aug 2026 22:23:14 GMT"
-    },
-    {
-      "text": "Grok ftw\n\n\nLuis Batalha (@luismbat)\n\nTesting Grok Imagine 2.0 against other image models:\n\nPrompt: \"A mathematician drinking from an object of genus 1\"\n\nChatGPT gets trapped by the donut analogy: it turns a donut (genus 1) into a mug, accidentally creating an object of genus 2.\n\nGrok gets it right: a regular coffee mug already has genus 1.\n\n\n\n\n\n\n\n— https://nitter.net/luismbat/status/2086827807624061086#m",
-      "link": "https://nitter.net/elonmusk/status/2086950103898603725#m",
-      "date": "Mon, 10 Aug 2026 22:57:33 GMT"
-    },
-    {
-      "text": "Jensen Huang just told the incredible story of how Elon Musk became NVIDIA’s first customer for its AI supercomputer - when literally nobody else wanted it\n\n“When I announced this thing, nobody wanted to buy it. Not one purchase order\n\nExcept for Elon\n\nIn 2016, I personally boxed it up and delivered the first one to a tiny room in San Francisco - It was OpenAI\"\n\nElon backed AI when almost nobody else saw where it was going. He invested in its future long before it became obvious\n\nVideo",
-      "link": "https://nitter.net/XFreeze/status/2086861141905465488#m",
-      "date": "Mon, 10 Aug 2026 17:04:02 GMT"
-    },
-    {
-      "text": "You will be able to watch live sports in 4k or movies or games or productivity!\n\n\nTesla Robotaxi (@robotaxi)\n\nFirst Cybercab with @Starlink integration\n\n\n\n\n\n\n\n— https://nitter.net/robotaxi/status/2086866794896392314#m",
-      "link": "https://nitter.net/elonmusk/status/2086948687318577252#m",
-      "date": "Mon, 10 Aug 2026 22:51:55 GMT"
     }
   ]
 }
