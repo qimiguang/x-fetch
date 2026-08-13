@@ -1,8 +1,33 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-13T02:22:45Z",
+  "updated_at": "2026-08-13T07:40:40Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "one best thing about Grok 4.6 is that you don't have to set a goal or loop\nIt now works for a long time autonomously as long as it can finish the job and it really really tries to finish the job",
+      "link": "https://nitter.net/XFreeze/status/2087769103821918619#m",
+      "date": "Thu, 13 Aug 2026 05:11:57 GMT"
+    },
+    {
+      "text": "Maybe it's just because it's new and shiny but I'm obsessed with with Grok Bot.\n\nThe form factor is so fun, especially when combined with text to speech. You can FLY.\n\nAutomations just work, cross-bot messaging works perfectly (I do most everything through my \"chief of staff\").",
+      "link": "https://nitter.net/Austen/status/2087685264617406963#m",
+      "date": "Wed, 12 Aug 2026 23:38:49 GMT"
+    },
+    {
+      "text": "I’m not sure who made this.\n\nBut it rocks.\n\nVideo",
+      "link": "https://nitter.net/BasedMikeLee/status/2087723917112721847#m",
+      "date": "Thu, 13 Aug 2026 02:12:24 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2087760446212522196#m",
+      "date": "Thu, 13 Aug 2026 04:37:33 GMT"
+    },
+    {
+      "text": "Grok 4.6 has a great sense of humor 😂\n\n\ntobi lutke (@tobi)\n\nI have no idea why but Grok-4.6 just totally freaked out doing some maintenance tasks when it saw my low github id.\n\n\n\n\n\n— https://nitter.net/tobi/status/2087704273438052632#m",
+      "link": "https://nitter.net/elonmusk/status/2087760069693997530#m",
+      "date": "Thu, 13 Aug 2026 04:36:03 GMT"
+    },
     {
       "text": "Grok 4.6 reaches #1 on @databricks\n\n\nIvan Zhou (@ivanzhouyq)\n\nWe worked with @SpaceXAI to evaluate Grok 4.6 on the latest OfficeQA Pro V2 from @DbrxMosaicAI. It achieves the SOTA performance with @databricks's Genie harness! \nThe model is strongest on our document understanding and data reasoning tasks, and it is a very efficient driver!\n\n\n\n\n\n\n\n— https://nitter.net/ivanzhouyq/status/2087586682652811458#m",
       "link": "https://nitter.net/elonmusk/status/2087668743929487420#m",
@@ -77,31 +102,6 @@
       "text": "Grok is the most efficient high intelligence AI\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nGrok 4.6 has arguably the highest intelligence per dollar. \n\nThis is an insanely important metric\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2087572037456089094#m",
       "link": "https://nitter.net/elonmusk/status/2087586860868755703#m",
       "date": "Wed, 12 Aug 2026 17:07:47 GMT"
-    },
-    {
-      "text": "Announcing Grok Voice Think Fast 2.0, our next-generation voice model with improved intelligence, transcription accuracy, and conversational capabilities.\n\nx.ai/news/grok-voice-think-f…",
-      "link": "https://nitter.net/SpaceXAI/status/2082529280341553209#m",
-      "date": "Wed, 29 Jul 2026 18:10:46 GMT"
-    },
-    {
-      "text": "Grok 4.6 is objectively #1 when considering intelligence, speed & cost\n\n\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nSpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. This brings SpaceXAI back to the intelligence frontier alongside OpenAI, behind only Anthropic.\n\nKey takeaways:\n➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3\n\n➤ Strong agentic performance: Grok 4.6 achieves a GDPval-AA v2 Elo of 1753, behind only Claude Opus 5 and with overlapping confidence intervals with Claude Fable 5 and Qwen3.8 Max. It scores 50.7% on 𝜏³-Banking, among the top two scores alongside Qwen3.8 Max (51.3%), and 88.4% on Terminal-Bench v2.1, in line with the leading models\n\n➤ Frontier-level intelligence at lower cost: Headline pricing is unchanged from Grok 4.5 at $2/$6 per 1M input/output tokens, 60%+ below Claude Opus 5 ($5/$25) and GPT-5.6 Sol ($5/$30). It cost $0.84 per task, the same as Kimi K3 with slightly higher intelligence, placing it on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Grok 4.6 sits at Fable 5-tier on AA-Briefcase, our private benchmark of long-horizon agentic knowledge work tasks, with an Elo of 1577 - behind the Claude Opus 5 family. It is notably turn-efficient, completing tasks in ~53 turns and ~0.5B input tokens on average vs. ~103 turns and ~2.0B input tokens for Claude Opus 5 (max)\n\nOther model details:\n➤ Context window of 500k tokens (unchanged from Grok 4.5)\n\n➤ Pricing of $2/$6 per 1M tokens of input/output; cache hits discounted to $0.5 per 1M tokens, an increase over Grok 4.5’s $0.3 per 1M tokens for cache hits\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2087564648325530099#m",
-      "link": "https://nitter.net/elonmusk/status/2087586063682596905#m",
-      "date": "Wed, 12 Aug 2026 17:04:37 GMT"
-    },
-    {
-      "text": "Yes\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nSame speed, better intelligent density.\n\n\n\n— https://nitter.net/yunta_tsai/status/2087579818439385585#m",
-      "link": "https://nitter.net/elonmusk/status/2087585217842487424#m",
-      "date": "Wed, 12 Aug 2026 17:01:16 GMT"
-    },
-    {
-      "text": "Grok 4.6 is now one of the top models in the world for agentic workflows\n\nIt ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max\n\nAgentic AI is about more than answering questions\n\nIt measures:\n• Tool use\n• Planning\n• Autonomy\n• Complex problem solving\n\nGrok 4.6 tops the chart",
-      "link": "https://nitter.net/XFreeze/status/2087581722116505959#m",
-      "date": "Wed, 12 Aug 2026 16:47:22 GMT"
-    },
-    {
-      "text": "Grok 4.6 is a banger\n\n\nDogeDesigner (@cb_doge)\n\nGrok 4.6 is a massive upgrade 🚀\n\nIt beats Grok 4.5 High across every benchmark listed and now ranks:\n\n🥇 #1 GDPVal-AA v2 — 1,753\n🥇 #1 AA-Briefcase — 1,577\n🥇 #1 Harvey LAB — 15.8%\n🥈 #2 CursorBench — 69.9%\n🥈 #2 FrontierCode — 61.3%\n🥈 #2 APEX-Agents — 57.5%\n🥈 #2 APEX-SWE — 56.4%\n\nIt also matches GPT-5.6 Sol Max on the Artificial Analysis Intelligence Index with a score of 61.\n\nGrok 4.6 is available today in Cursor and Grok Build, with 2× included usage during the first week.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087565206272823552#m",
-      "link": "https://nitter.net/elonmusk/status/2087566406921617534#m",
-      "date": "Wed, 12 Aug 2026 15:46:31 GMT"
     }
   ]
 }
