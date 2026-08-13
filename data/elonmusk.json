@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-13T13:21:39Z",
+  "updated_at": "2026-08-13T16:01:40Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok Bot has taken over the entire internet. And for good reason\n\nIt is an EXCELLENT AI agent\n\nBut you HAVE to set it up the right way\n\nHere are the first 5 steps to make your Grok Bot agent team SUPER powerful:\n\n1. Brain dump everything about yourself, goals, passions, and career into the initial agent. This is going to give it the context it needs to set up your agent team\n\n2. Next, prompt the agent \"Based on what you know about me, what do you think would be the best set up of this Grok Bot app? Which bots should I make and what should their responsibilities be? This should enable the best workflow and productivity\" This will give you the perfect plan for setting up Grok Bot\n\n3. After reviewing the plan, ask the Bot to set up your workspace for you. It will create the agents, give the right context and descriptions, and make sure your setup is built for productivity\n\n4. Next, ask it for which routines each agent can set up to help you out the most. This should give you a list of cron jobs (routines) that each agent can do on a regular interval\n\n5. Ask the agent to implement these\n\nAnd just like that, you have the most powerful AI agent on the internet all set up. \n\nYou have an entire fleet of agents ready to go and do work for you.\n\nAnd in fact, because you set up the routines, they're ALREADY doing work for you\n\nEnjoy the AGI",
+      "link": "https://nitter.net/AlexFinn/status/2087642719447609374#m",
+      "date": "Wed, 12 Aug 2026 20:49:45 GMT"
+    },
+    {
+      "text": "Not bad\n\n\nDHH (@dhh)\n\nI had @spacexai Grok 4.6 follow Fable's plan, and with just a couple of nudges, it was able to repeat this feat in 1h 24m using 8.6M tokens at a cost of ~$55 at per-token pricing. That's about 1/10 the cost of the Fable implementation for the same work!\n\n\n\n— https://nitter.net/dhh/status/2087867270479351885#m",
+      "link": "https://nitter.net/elonmusk/status/2087910515246784773#m",
+      "date": "Thu, 13 Aug 2026 14:33:52 GMT"
+    },
+    {
+      "text": "Video",
+      "link": "https://nitter.net/elonmusk/status/2087909414418235548#m",
+      "date": "Thu, 13 Aug 2026 14:29:30 GMT"
+    },
+    {
+      "text": "Grok Bot just passed Google’s “I'm not a robot?” test\nI fail this task sometimes tbh 😅\n\nVideo\n  \n\n\n\n\nGrok Bot (@bot)\n\nIntroducing Grok Bot, now in early beta.\n\nBots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/bot/status/2087224798078517251#m",
+      "link": "https://nitter.net/XFreeze/status/2087891600345010323#m",
+      "date": "Thu, 13 Aug 2026 13:18:43 GMT"
+    },
     {
       "text": "Video",
       "link": "https://nitter.net/elonmusk/status/2087822520128823438#m",
@@ -82,26 +102,6 @@
       "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6.\n\nGrok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
       "link": "https://nitter.net/nvidia/status/2087576824159297605#m",
       "date": "Wed, 12 Aug 2026 16:27:54 GMT"
-    },
-    {
-      "text": "Grok 4.6 is a leap in intelligence and persistence. From completing debugging tasks to building apps from scratch, Grok 4.6 is a fast, dependable, and smart companion.\n\nTry it now in Grok Build, Cursor, Grok Bot, and the SpaceXAI API!\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
-      "link": "https://nitter.net/milichab/status/2087563876749775002#m",
-      "date": "Wed, 12 Aug 2026 15:36:27 GMT"
-    },
-    {
-      "text": "Grok 4.6 is an excellent model.\nI’ve been using it heavily for the past couple of weeks and it handles everything from simple coding & code review all the way to designing and debugging complex systems with ease.\nWhat stands out even more is how strong it is outside of coding - deep research, long-form reasoning, planning, writing, and agentic workflows all feel noticeably sharper.\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nSpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. This brings SpaceXAI back to the intelligence frontier alongside OpenAI, behind only Anthropic.\n\nKey takeaways:\n➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3\n\n➤ Strong agentic performance: Grok 4.6 achieves a GDPval-AA v2 Elo of 1753, behind only Claude Opus 5 and with overlapping confidence intervals with Claude Fable 5 and Qwen3.8 Max. It scores 50.7% on 𝜏³-Banking, among the top two scores alongside Qwen3.8 Max (51.3%), and 88.4% on Terminal-Bench v2.1, in line with the leading models\n\n➤ Frontier-level intelligence at lower cost: Headline pricing is unchanged from Grok 4.5 at $2/$6 per 1M input/output tokens, 60%+ below Claude Opus 5 ($5/$25) and GPT-5.6 Sol ($5/$30). It cost $0.84 per task, the same as Kimi K3 with slightly higher intelligence, placing it on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Grok 4.6 sits at Fable 5-tier on AA-Briefcase, our private benchmark of long-horizon agentic knowledge work tasks, with an Elo of 1577 - behind the Claude Opus 5 family. It is notably turn-efficient, completing tasks in ~53 turns and ~0.5B input tokens on average vs. ~103 turns and ~2.0B input tokens for Claude Opus 5 (max)\n\nOther model details:\n➤ Context window of 500k tokens (unchanged from Grok 4.5)\n\n➤ Pricing of $2/$6 per 1M tokens of input/output; cache hits discounted to $0.5 per 1M tokens, an increase over Grok 4.5’s $0.3 per 1M tokens for cache hits\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2087564648325530099#m",
-      "link": "https://nitter.net/theskory/status/2087569089027817485#m",
-      "date": "Wed, 12 Aug 2026 15:57:10 GMT"
-    },
-    {
-      "text": "Pareto gold for Grok 4.6\n\n\nGavin Baker (@GavinSBaker)\n\nAbsolute Pareto dominance for Grok and Cursor even after the OpenAI price cuts:\n\n\n\n\n\n— https://nitter.net/GavinSBaker/status/2087576902512923095#m",
-      "link": "https://nitter.net/elonmusk/status/2087588014767976890#m",
-      "date": "Wed, 12 Aug 2026 17:12:22 GMT"
-    },
-    {
-      "text": "Tesla FSD FTW\n\n\nSawyer Merritt (@SawyerMerritt)\n\n\"I just don't f***ing understand why you would get anything other than a @Tesla. You can get one for like $300/month and it f***ing drives itself! I don't have to touch my steering wheel! $100/month for Full Self-Driving. How is this even a debate anymore?!\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2087209131375726885#m",
-      "link": "https://nitter.net/elonmusk/status/2087587240277049622#m",
-      "date": "Wed, 12 Aug 2026 17:09:18 GMT"
     }
   ]
 }
