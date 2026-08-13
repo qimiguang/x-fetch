@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-12T16:01:16Z",
+  "updated_at": "2026-08-13T02:22:45Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.6 reaches #1 on @databricks\n\n\nIvan Zhou (@ivanzhouyq)\n\nWe worked with @SpaceXAI to evaluate Grok 4.6 on the latest OfficeQA Pro V2 from @DbrxMosaicAI. It achieves the SOTA performance with @databricks's Genie harness! \nThe model is strongest on our document understanding and data reasoning tasks, and it is a very efficient driver!\n\n\n\n\n\n\n\n— https://nitter.net/ivanzhouyq/status/2087586682652811458#m",
+      "link": "https://nitter.net/elonmusk/status/2087668743929487420#m",
+      "date": "Wed, 12 Aug 2026 22:33:10 GMT"
+    },
+    {
+      "text": "one step closer to moon cannon and party.\n\nVideo\n  \n\n\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
+      "link": "https://nitter.net/billlee/status/2087592670893847008#m",
+      "date": "Wed, 12 Aug 2026 17:30:52 GMT"
+    },
+    {
+      "text": "give 4.6 a try and let us know how it goes. your feedback is a big part of why the model gets better with each iteration.\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nSpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. This brings SpaceXAI back to the intelligence frontier alongside OpenAI, behind only Anthropic.\n\nKey takeaways:\n➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3\n\n➤ Strong agentic performance: Grok 4.6 achieves a GDPval-AA v2 Elo of 1753, behind only Claude Opus 5 and with overlapping confidence intervals with Claude Fable 5 and Qwen3.8 Max. It scores 50.7% on 𝜏³-Banking, among the top two scores alongside Qwen3.8 Max (51.3%), and 88.4% on Terminal-Bench v2.1, in line with the leading models\n\n➤ Frontier-level intelligence at lower cost: Headline pricing is unchanged from Grok 4.5 at $2/$6 per 1M input/output tokens, 60%+ below Claude Opus 5 ($5/$25) and GPT-5.6 Sol ($5/$30). It cost $0.84 per task, the same as Kimi K3 with slightly higher intelligence, placing it on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Grok 4.6 sits at Fable 5-tier on AA-Briefcase, our private benchmark of long-horizon agentic knowledge work tasks, with an Elo of 1577 - behind the Claude Opus 5 family. It is notably turn-efficient, completing tasks in ~53 turns and ~0.5B input tokens on average vs. ~103 turns and ~2.0B input tokens for Claude Opus 5 (max)\n\nOther model details:\n➤ Context window of 500k tokens (unchanged from Grok 4.5)\n\n➤ Pricing of $2/$6 per 1M tokens of input/output; cache hits discounted to $0.5 per 1M tokens, an increase over Grok 4.5’s $0.3 per 1M tokens for cache hits\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2087564648325530099#m",
+      "link": "https://nitter.net/JasonBud/status/2087567786302374322#m",
+      "date": "Wed, 12 Aug 2026 15:52:00 GMT"
+    },
+    {
+      "text": "In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX:\n\nVideo",
+      "link": "https://nitter.net/paranoidream/status/2087588192019161253#m",
+      "date": "Wed, 12 Aug 2026 17:13:05 GMT"
+    },
+    {
+      "text": "SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / real-world productivity benchmarks (GDPVal-AA and AA-Briefcase) and on the legal benchmark, while remaining highly competitive on coding-agent and general intelligence metrics.",
+      "link": "https://nitter.net/SERobinsonJr/status/2087597115354849679#m",
+      "date": "Wed, 12 Aug 2026 17:48:32 GMT"
+    },
+    {
+      "text": "Try out Grok @Bot\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nGrok Bot was able to a) go through the calendars and find out anything I need to make reservations for beforehand that I haven’t done yet, b) determine the best time to make reservations, and c) navigate the reservations on a website.\n\nWhile I was walking in the parking lot before getting to my cars, I was talking to it in mixed Chinese and English.\n\nColor me impressed.\n\n\n\n— https://nitter.net/yunta_tsai/status/2087415205756391461#m",
+      "link": "https://nitter.net/elonmusk/status/2087602469778166195#m",
+      "date": "Wed, 12 Aug 2026 18:09:49 GMT"
+    },
+    {
+      "text": "Try out Grok 4.6!\n\nDouble your tokens for next 7 days.\n\n\nSpaceXAI (@SpaceXAI)\n\nGrok 4.6 is available today in Grok Build, Cursor, Grok Bot, and the API.\n\nWe’re including 2x usage inside Cursor and Grok Build for the first week.\n\nx.ai/news/grok-4-6\n\nLink\n\n\n\nIntroducing Grok 4.6\n\nGrok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.\nx.ai\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562804194902477#m",
+      "link": "https://nitter.net/elonmusk/status/2087601785833951705#m",
+      "date": "Wed, 12 Aug 2026 18:07:06 GMT"
+    },
+    {
+      "text": "Try Grok 4.6 on tough real-world tasks!\n\n\nEmad (@EMostaque)\n\nimo GDPVal is probably the most important benchmark, it measures the performance of models on real world tasks\n\nBig leap in performance here to top it at a great price, congrats to @SpaceXAI team & looking forward to the even bigger releases to come!\n\nopenai.com/index/gdpval/\n\n\n\n\n\n— https://nitter.net/EMostaque/status/2087566732525212001#m",
+      "link": "https://nitter.net/elonmusk/status/2087594669459001801#m",
+      "date": "Wed, 12 Aug 2026 17:38:49 GMT"
+    },
+    {
+      "text": "Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague.\n\n4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
+      "link": "https://nitter.net/mntruell/status/2087565040677454327#m",
+      "date": "Wed, 12 Aug 2026 15:41:05 GMT"
+    },
+    {
+      "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6.\n\nGrok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
+      "link": "https://nitter.net/nvidia/status/2087576824159297605#m",
+      "date": "Wed, 12 Aug 2026 16:27:54 GMT"
+    },
+    {
+      "text": "Grok 4.6 is a leap in intelligence and persistence. From completing debugging tasks to building apps from scratch, Grok 4.6 is a fast, dependable, and smart companion.\n\nTry it now in Grok Build, Cursor, Grok Bot, and the SpaceXAI API!\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
+      "link": "https://nitter.net/milichab/status/2087563876749775002#m",
+      "date": "Wed, 12 Aug 2026 15:36:27 GMT"
+    },
+    {
+      "text": "Grok 4.6 is an excellent model.\nI’ve been using it heavily for the past couple of weeks and it handles everything from simple coding & code review all the way to designing and debugging complex systems with ease.\nWhat stands out even more is how strong it is outside of coding - deep research, long-form reasoning, planning, writing, and agentic workflows all feel noticeably sharper.\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nSpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. This brings SpaceXAI back to the intelligence frontier alongside OpenAI, behind only Anthropic.\n\nKey takeaways:\n➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3\n\n➤ Strong agentic performance: Grok 4.6 achieves a GDPval-AA v2 Elo of 1753, behind only Claude Opus 5 and with overlapping confidence intervals with Claude Fable 5 and Qwen3.8 Max. It scores 50.7% on 𝜏³-Banking, among the top two scores alongside Qwen3.8 Max (51.3%), and 88.4% on Terminal-Bench v2.1, in line with the leading models\n\n➤ Frontier-level intelligence at lower cost: Headline pricing is unchanged from Grok 4.5 at $2/$6 per 1M input/output tokens, 60%+ below Claude Opus 5 ($5/$25) and GPT-5.6 Sol ($5/$30). It cost $0.84 per task, the same as Kimi K3 with slightly higher intelligence, placing it on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Grok 4.6 sits at Fable 5-tier on AA-Briefcase, our private benchmark of long-horizon agentic knowledge work tasks, with an Elo of 1577 - behind the Claude Opus 5 family. It is notably turn-efficient, completing tasks in ~53 turns and ~0.5B input tokens on average vs. ~103 turns and ~2.0B input tokens for Claude Opus 5 (max)\n\nOther model details:\n➤ Context window of 500k tokens (unchanged from Grok 4.5)\n\n➤ Pricing of $2/$6 per 1M tokens of input/output; cache hits discounted to $0.5 per 1M tokens, an increase over Grok 4.5’s $0.3 per 1M tokens for cache hits\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2087564648325530099#m",
+      "link": "https://nitter.net/theskory/status/2087569089027817485#m",
+      "date": "Wed, 12 Aug 2026 15:57:10 GMT"
+    },
+    {
+      "text": "Pareto gold for Grok 4.6\n\n\nGavin Baker (@GavinSBaker)\n\nAbsolute Pareto dominance for Grok and Cursor even after the OpenAI price cuts:\n\n\n\n\n\n— https://nitter.net/GavinSBaker/status/2087576902512923095#m",
+      "link": "https://nitter.net/elonmusk/status/2087588014767976890#m",
+      "date": "Wed, 12 Aug 2026 17:12:22 GMT"
+    },
+    {
+      "text": "Tesla FSD FTW\n\n\nSawyer Merritt (@SawyerMerritt)\n\n\"I just don't f***ing understand why you would get anything other than a @Tesla. You can get one for like $300/month and it f***ing drives itself! I don't have to touch my steering wheel! $100/month for Full Self-Driving. How is this even a debate anymore?!\"\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2087209131375726885#m",
+      "link": "https://nitter.net/elonmusk/status/2087587240277049622#m",
+      "date": "Wed, 12 Aug 2026 17:09:18 GMT"
+    },
+    {
+      "text": "Grok is the most efficient high intelligence AI\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nGrok 4.6 has arguably the highest intelligence per dollar. \n\nThis is an insanely important metric\n\n\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2087572037456089094#m",
+      "link": "https://nitter.net/elonmusk/status/2087586860868755703#m",
+      "date": "Wed, 12 Aug 2026 17:07:47 GMT"
+    },
+    {
+      "text": "Announcing Grok Voice Think Fast 2.0, our next-generation voice model with improved intelligence, transcription accuracy, and conversational capabilities.\n\nx.ai/news/grok-voice-think-f…",
+      "link": "https://nitter.net/SpaceXAI/status/2082529280341553209#m",
+      "date": "Wed, 29 Jul 2026 18:10:46 GMT"
+    },
+    {
+      "text": "Grok 4.6 is objectively #1 when considering intelligence, speed & cost\n\n\n\n\nArtificial Analysis (@ArtificialAnlys)\n\nSpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. This brings SpaceXAI back to the intelligence frontier alongside OpenAI, behind only Anthropic.\n\nKey takeaways:\n➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3\n\n➤ Strong agentic performance: Grok 4.6 achieves a GDPval-AA v2 Elo of 1753, behind only Claude Opus 5 and with overlapping confidence intervals with Claude Fable 5 and Qwen3.8 Max. It scores 50.7% on 𝜏³-Banking, among the top two scores alongside Qwen3.8 Max (51.3%), and 88.4% on Terminal-Bench v2.1, in line with the leading models\n\n➤ Frontier-level intelligence at lower cost: Headline pricing is unchanged from Grok 4.5 at $2/$6 per 1M input/output tokens, 60%+ below Claude Opus 5 ($5/$25) and GPT-5.6 Sol ($5/$30). It cost $0.84 per task, the same as Kimi K3 with slightly higher intelligence, placing it on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Grok 4.6 sits at Fable 5-tier on AA-Briefcase, our private benchmark of long-horizon agentic knowledge work tasks, with an Elo of 1577 - behind the Claude Opus 5 family. It is notably turn-efficient, completing tasks in ~53 turns and ~0.5B input tokens on average vs. ~103 turns and ~2.0B input tokens for Claude Opus 5 (max)\n\nOther model details:\n➤ Context window of 500k tokens (unchanged from Grok 4.5)\n\n➤ Pricing of $2/$6 per 1M tokens of input/output; cache hits discounted to $0.5 per 1M tokens, an increase over Grok 4.5’s $0.3 per 1M tokens for cache hits\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\n\n\n\n\n— https://nitter.net/ArtificialAnlys/status/2087564648325530099#m",
+      "link": "https://nitter.net/elonmusk/status/2087586063682596905#m",
+      "date": "Wed, 12 Aug 2026 17:04:37 GMT"
+    },
+    {
+      "text": "Yes\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nSame speed, better intelligent density.\n\n\n\n— https://nitter.net/yunta_tsai/status/2087579818439385585#m",
+      "link": "https://nitter.net/elonmusk/status/2087585217842487424#m",
+      "date": "Wed, 12 Aug 2026 17:01:16 GMT"
+    },
+    {
+      "text": "Grok 4.6 is now one of the top models in the world for agentic workflows\n\nIt ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max\n\nAgentic AI is about more than answering questions\n\nIt measures:\n• Tool use\n• Planning\n• Autonomy\n• Complex problem solving\n\nGrok 4.6 tops the chart",
+      "link": "https://nitter.net/XFreeze/status/2087581722116505959#m",
+      "date": "Wed, 12 Aug 2026 16:47:22 GMT"
+    },
     {
       "text": "Grok 4.6 is a banger\n\n\nDogeDesigner (@cb_doge)\n\nGrok 4.6 is a massive upgrade 🚀\n\nIt beats Grok 4.5 High across every benchmark listed and now ranks:\n\n🥇 #1 GDPVal-AA v2 — 1,753\n🥇 #1 AA-Briefcase — 1,577\n🥇 #1 Harvey LAB — 15.8%\n🥈 #2 CursorBench — 69.9%\n🥈 #2 FrontierCode — 61.3%\n🥈 #2 APEX-Agents — 57.5%\n🥈 #2 APEX-SWE — 56.4%\n\nIt also matches GPT-5.6 Sol Max on the Artificial Analysis Intelligence Index with a score of 61.\n\nGrok 4.6 is available today in Cursor and Grok Build, with 2× included usage during the first week.\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087565206272823552#m",
       "link": "https://nitter.net/elonmusk/status/2087566406921617534#m",
       "date": "Wed, 12 Aug 2026 15:46:31 GMT"
-    },
-    {
-      "text": "As soon as I got the new for the release for Grok Bot i just said Grok build to install it...and it handled the entire process for me\n\ni've been doing a lot of these tasks since the release of Grok Build\nI never actually installed anything myself since than.....searching and downloading and installing myself is a lot of time compared to what Grok build can do it\n\nit’s super easy and it also tells you everything you need to know after it completes the tasks...that's how I got to know that you can power it up with your SuperGrok Heavy subscription\n\ni literally use it so much for daily routines....now it feels like hell to do anything manually that I used to do before 😅\n\n\n\n\nX Freeze (@XFreeze)\n\nSpaceX’s recent video volume was a little low, so I just gave it to Grok Build and asked it to increase the volume by +10 dB\n\nGrok analyzed the audio, boosted it, added soft compression + limiting to keep everything under control, and gave me the finished video\n\nThen after seeing the audio levels Grok gave me, I realized there was still room to push it another +10 dB\n\nSo I literally asked again\n\nGrok Build boosted it to +20 dB total, re-encoded the video and handed me the final file\n\nAnd it did the whole thing literally in just 25 seconds 😭\n\nIf I were doing this manually, I’d have to open editing software, understand gain, compression and limiting, adjust everything myself and export the video again\n\nThat could easily take me 10–20 minutes\n\nWith Grok Build, I just explained what I wanted in plain English and it handled everything for me\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087421322418700763#m",
-      "link": "https://nitter.net/XFreeze/status/2087537837050597741#m",
-      "date": "Wed, 12 Aug 2026 13:52:59 GMT"
-    },
-    {
-      "text": "Grok 4.6 reaches 1753 ELO\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Grok 4.6 takes the #1 spot on the GDPVal-AA benchmark 🏆\n\n• Grok 4.6 — 1,753 Elo\n• Fable 5 Max — 1,741\n• GPT-5.6 Sol Max — 1,728\n• Grok 4.5 High — 1,526\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087563935688151175#m",
-      "link": "https://nitter.net/elonmusk/status/2087565375739474306#m",
-      "date": "Wed, 12 Aug 2026 15:42:25 GMT"
-    },
-    {
-      "text": "Grok 4.6 is now out 🚀🚀🚀\n\nSmart, fast & amazing bang for buck!\n\n\nSpaceXAI (@SpaceXAI)\n\nIntroducing Grok 4.6.\n\nIt delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n\n\n\n\n— https://nitter.net/SpaceXAI/status/2087562800982077492#m",
-      "link": "https://nitter.net/elonmusk/status/2087565020158992709#m",
-      "date": "Wed, 12 Aug 2026 15:41:00 GMT"
-    },
-    {
-      "text": "Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun\n\nVideo\n  \n\n\n\n\nArthur MacWaters (@ArthurMacwaters)\n\nIt’s always funny how people in SF twitter bubble will say things like “Claude has unbeatable narrative momentum” and then 2 weeks later “wow did Kimi just end the race” \n\nMy brother in Christ nobody outside of this little bubble even calls any AI anything other than “Chat” and they think datacenters destroy water molecules \n\nYou sound dumb. \n\nFocus on things that actually impact people not the little scores on overfit evals\n\nAnd also people who bet against Elon are stupid. The man built real world self driving cars (non-LLM based AI) that is still the best AI I’ve ever used by far. You think he can’t come from behind and win on writing code? He’s literally catching 30 story buildings with chopsticks and that’s like one of his projects \n\nI like a lot of the tools and have friends at all the main labs. Truly amazing work being done. But the overblown commentators are actually so out of touch\n\n\n\n— https://nitter.net/ArthurMacwaters/status/2087403242984734942#m",
-      "link": "https://nitter.net/ArthurMacwaters/status/2087411297411625227#m",
-      "date": "Wed, 12 Aug 2026 05:30:10 GMT"
-    },
-    {
-      "text": "meeting more and more people who are daily driving grok",
-      "link": "https://nitter.net/jeffreyhuber/status/2087246938530062794#m",
-      "date": "Tue, 11 Aug 2026 18:37:03 GMT"
-    },
-    {
-      "text": "Grok Build is extremely powerful\n\n\nX Freeze (@XFreeze)\n\nSpaceX’s recent video volume was a little low, so I just gave it to Grok Build and asked it to increase the volume by +10 dB\n\nGrok analyzed the audio, boosted it, added soft compression + limiting to keep everything under control, and gave me the finished video\n\nThen after seeing the audio levels Grok gave me, I realized there was still room to push it another +10 dB\n\nSo I literally asked again\n\nGrok Build boosted it to +20 dB total, re-encoded the video and handed me the final file\n\nAnd it did the whole thing literally in just 25 seconds 😭\n\nIf I were doing this manually, I’d have to open editing software, understand gain, compression and limiting, adjust everything myself and export the video again\n\nThat could easily take me 10–20 minutes\n\nWith Grok Build, I just explained what I wanted in plain English and it handled everything for me\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087421322418700763#m",
-      "link": "https://nitter.net/elonmusk/status/2087433701764497852#m",
-      "date": "Wed, 12 Aug 2026 06:59:11 GMT"
-    },
-    {
-      "text": "How to use Grok Build\n\n\nX Freeze (@XFreeze)\n\nGrok Build has a really nice way to learn the entire tool without ever leaving the terminal\n\nJust type /tour or /tutorial, and Grok Build walks you through everything step by step\n\nIt covers:\n• Your first prompt\n• Attaching files, images & screenshots\n• Navigation\n• Slash commands\n• Parallel work with Worktrees\n• Plan Mode & permissions\n• AGENTS.md, memory & themes\n• Guides, feedback & best practices\n\nIt even makes switching from Claude, Cursor, or Codex easier, with support for carrying over your settings, rules, and skills\n\nInstead of opening a massive documentation page and trying to figure everything out yourself, you can learn Grok Build interactively while actually using it\n\nIf you're new to Grok Build, just start with /tour\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087189025358557340#m",
-      "link": "https://nitter.net/elonmusk/status/2087433011478634944#m",
-      "date": "Wed, 12 Aug 2026 06:56:27 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2087410119256764540#m",
-      "date": "Wed, 12 Aug 2026 05:25:29 GMT"
-    },
-    {
-      "text": "ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN\n\n“We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI.\n\nAnd I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is.\n\nIf the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose?\n\nAnd it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute.\n\nBut I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen.\n\nAnd we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”\n\nVideo",
-      "link": "https://nitter.net/cb_doge/status/2087314260770930780#m",
-      "date": "Tue, 11 Aug 2026 23:04:34 GMT"
-    },
-    {
-      "text": "Grok Bot is a workhorse \n\nAll the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now",
-      "link": "https://nitter.net/KettlebellDan/status/2087255832677253435#m",
-      "date": "Tue, 11 Aug 2026 19:12:24 GMT"
-    },
-    {
-      "text": "Grok Bot\n\n\nFarzad 🇺🇸 🇮🇷 (@farzyness)\n\nHere's my Grok Bot team:\n\n- Webby: Web designer\n- Shotry: Short-form content creator\n- Writey: Article/Newsletter writer\n- Claude Code: Grok agent that specializes in CC\n- Codex: Same as the above but for CODEX\n- Script: YT Scriptwriter\n- Idea: Idea generation for videos/content\n- Master: Orchestrator for the whole team\n\nSUPER easy to spin these up and get them working. Let's see how this goes!\n\n\n\n\n\n— https://nitter.net/farzyness/status/2087340859138224540#m",
-      "link": "https://nitter.net/elonmusk/status/2087409427888603229#m",
-      "date": "Wed, 12 Aug 2026 05:22:44 GMT"
-    },
-    {
-      "text": "SpaceX company update\n\n\nSpaceX (@SpaceX)\n\nWe made rockets reusable and are rebuilding the internet in space. The next challenge: making life multiplanetary and understanding the true nature of the universe\n\nWatch @ElonMusk deliver a company update to @SpaceX employees\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SpaceX/status/2087283977866379361#m",
-      "link": "https://nitter.net/elonmusk/status/2087409075009274035#m",
-      "date": "Wed, 12 Aug 2026 05:21:20 GMT"
-    },
-    {
-      "text": "Around 43% of the German population aged under 5 now has a foreign background.",
-      "link": "https://nitter.net/PeterSweden7/status/2087148115304272168#m",
-      "date": "Tue, 11 Aug 2026 12:04:22 GMT"
-    },
-    {
-      "text": "Moonbase Alpha will be so cool. \n\nAnd we want to make it so that anyone can go to the Moon if they want.\n\n\nX Freeze (@XFreeze)\n\nSpaceX is getting very close to building the first serious base on the Moon\n\nStarship changes the entire equation\n\nIt is designed to deliver up to 100 tonnes directly to the lunar surface - enough to transport habitats, rovers, power systems, construction equipment and everything needed to begin building a permanent outpost\n\nThen the other pieces come together\n\nTesla Optimus robots could eventually unload cargo, assemble structures, move equipment and perform dangerous construction work before large human crews arrive\n\nBuilding a base mostly with humans is a serious limitation\n\nHumans need life support, pressurized habitats, spacesuits, oxygen, food and protection just to survive and work on the lunar surface\n\nBut with Tesla Optimus, that equation changes entirely\n\nTesla’s experience with solar energy, batteries, autonomous vehicles and large-scale manufacturing can support the power and transportation systems required on the Moon\n\nSpaceX provides transportation\n\nTesla provides energy, autonomy and robotics\n\nStarship provides the scale\n\nSuddenly building a serious base on the Moon becomes dramatically easier\n\nAnd once that infrastructure is ready, humans can stay for much longer periods and eventually even routine private lunar missions and tourism become possible\n\nOnce the first permanent lunar outpost is established, its usefulness will compound rapidly.....supporting science, resource development, communications and deeper missions into space\n\nThe Moon could become humanity’s first true outpost beyond Earth\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2087062943645012443#m",
-      "link": "https://nitter.net/elonmusk/status/2087260966660759954#m",
-      "date": "Tue, 11 Aug 2026 19:32:48 GMT"
-    },
-    {
-      "text": "RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price \n\nThis new low cost Japan carrier @ZIPAIRTokyo…",
-      "link": "https://nitter.net/elonmusk/status/2087260449964429796#m",
-      "date": "Tue, 11 Aug 2026 19:30:45 GMT"
-    },
-    {
-      "text": "You can make your own steampunk movies with Grok Imagine\n\n\nDéborah (@dvorahfr)\n\nThe word \"steampunk\" was coined in April 1987 by American science fiction writer K. W. Jeter. \n\nHe proposed it jokingly in a letter to *Locus* magazine to describe the alternate-history novels set in the 19th century that he was writing alongside his fellow authors Tim Powers and James Blaylock.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2087216517700030838#m",
-      "link": "https://nitter.net/elonmusk/status/2087260262525223221#m",
-      "date": "Tue, 11 Aug 2026 19:30:00 GMT"
-    },
-    {
-      "text": "They can’t handle the truth is the real issue here\n\n\nWierd Duk ܦܝܪܬ ܕܘܟ (@wierdduk)\n\nToch benieuwd wat @elonmusk van deze kwalificatie zou vinden (U mag raden wie 'm maakt en waar):\n\n\"Premier Jetten moet Yesilgöz, en alle andere bewindslieden van zijn minderheidskabinet, verbieden om zich op sociale media uit te laten over alles dat buiten de eigen portefeuille valt. Daarnaast moet men natuurlijk sowieso geen mededelingen meer doen op X, een platform dat wordt gedomineerd door desinformatie, en dat in handen is van de rijkste man ter wereld, die bovendien een totale fascist is.\"\n\n\n\n— https://nitter.net/wierdduk/status/2086803318941118510#m",
-      "link": "https://nitter.net/elonmusk/status/2087235939055591862#m",
-      "date": "Tue, 11 Aug 2026 17:53:21 GMT"
-    },
-    {
-      "text": "We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week\n\n\nGrok Bot (@bot)\n\nIntroducing Grok Bot, now in early beta.\n\nBots are AI teammates that do real work for you. They sign in to your tools, use them just like you do, and come back with finished work.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/bot/status/2087224798078517251#m",
-      "link": "https://nitter.net/elonmusk/status/2087233507370147920#m",
-      "date": "Tue, 11 Aug 2026 17:43:41 GMT"
-    },
-    {
-      "text": "What would you most like us to add to or fix about Grok Build?\n\n\nDogeDesigner (@cb_doge)\n\n🚨 NEW GROK BUILD UPDATE 🚨\n\nv1.0.1 — 2026-08-10 \n\nUpdates:\n• /rewind now only truncates conversation history instead of files as well and asks for confirmation by default.\n• Managed MCP servers are now only available through the gateway catalog.\n\nFeatures:\n• Subagent spawning is now bounded; wide fan-outs queue instead of exhausting file descriptors.\n• New grok du command shows disk usage of ~/.grok including worktrees and sessions.\n• Tools now report whether they only read data, enabling safer restricted agents and subagents.\n• Sandbox workspace sessions can now limit which bundled skills are advertised via caller config.\n• Renaming a session from the dashboard now starts with the current title prefilled for easy editing.\n• /usage, /session-info, and /context now open in a tabbed modal instead of adding text to the conversation.\n• grok trace exports now bundle memory trace files for easier debugging.\n• Session rename now enforces a 100-character limit, ghost-prefills the current title, and preserves manual titles across machines.\n• New /rename --auto command unpins a manual session title so automatic titling resumes.\n• Video generation from references now supports preset voices, single-image input, 1–15 s durations, and 4:3 / 3:4 aspect ratios.\n\nBug Fixes:\n• Sandbox config entries ending in /** now correctly grant the parent directory instead of creating a literal ** subdirectory.\n• Failed alpha/enterprise updates now suggest the matching GROK_CHANNEL reinstall command.\n• On Apple Silicon, grok now installs the native arm64 build even from a Rosetta shell or x86_64 updater.\n• Skills that share names with built-in commands now appear alongside them in the slash menu with qualified names.\n• Notebook permission rules imported from Claude configs are now ignored with a warning instead of applying broadly.\n• Goal evaluation at round end no longer fails due to timeouts.\n• Tool timeouts no longer cause the agent to hang when child processes are stuck in D-state or hold pipes open.\n• Home and End keys now move to the start or end of the current logical line even when the prompt is wrapped.\n• Worktree sessions now correctly show their branch in the status bar.\n• Worktree sessions now keep their status correctly when switching directories or resuming.\n• Worktree status is no longer lost when opening the dashboard.\n• Recaps are now written in the same language as your conversation.\n• Plugin suggestions no longer flash incorrectly while typing.\n• Send Now now works during active goals without cancelling the goal.\n• Headless sessions now correctly wait for MCP servers when using delivery tools.\n• Non-interactive sessions (grok -p) no longer fail when the agent asks for user input or plan approval.\n• read_file errors for missing skills now suggest the correct registered path instead of a generic hint.\n• Session load and creation can no longer freeze forever when .envrc evaluation blocks.\n• Upgraded installs no longer silently run outdated platform skill instructions.\n• Deleting a session now properly stops and waits for any running subagents before wiping history.\n• Permission and plan-approval notification hooks no longer fire on auto-allowed tools.\n• Mid-turn steering sent with double-Enter or Ctrl+Enter now correctly tells the model it arrived while work was in progress.\n• Scrollback drag selection no longer gets stuck after the mouse button is released outside VS Code or Cursor terminals.\n• Video generation tools now show a clear error explaining ZDR storage requirements instead of silently disappearing.\n• Esc on the cancel-turn panel now closes the panel and keeps the current turn running as the shortcuts bar indicates.\n\nDownload Grok Build: x.ai/cli\n\nUpdate to the latest Alpha release: grok update --alpha\n\nUpdate to the latest Stable release: grok update\n\n\n\n\n\n— https://nitter.net/cb_doge/status/2087189868875075617#m",
-      "link": "https://nitter.net/elonmusk/status/2087232895798616122#m",
-      "date": "Tue, 11 Aug 2026 17:41:15 GMT"
     }
   ]
 }
