@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-08-13T16:01:41Z",
+  "updated_at": "2026-08-13T19:07:37Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.26.6 is now rolling out to ~2,310 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.26.6 on a Tesla vehicle (2021). View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.6 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2087296988047880511#m",
+      "link": "https://nitter.net/teslascope/status/2087955065541681408#m",
+      "date": "Thu, 13 Aug 2026 17:30:54 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.26.6 on a Tesla vehicle (2021). View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.6 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.6.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2087296988047880511#m",
@@ -92,11 +97,6 @@
       "text": "The following feature is included: Camera Preview\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2087316261105541198#m",
       "date": "Tue, 11 Aug 2026 23:12:31 GMT"
-    },
-    {
-      "text": "The following feature is included: Automatic Navigation \n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2087316251336949793#m",
-      "date": "Tue, 11 Aug 2026 23:12:29 GMT"
     }
   ]
 }
