@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-14T07:38:35Z",
+  "updated_at": "2026-08-14T15:55:55Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Yes\n\n\nThinkingWest (@thinkingwest)\n\nThe death of a civilization\n\n\n\n— https://nitter.net/thinkingwest/status/2088262807896687002#m",
+      "link": "https://nitter.net/elonmusk/status/2088286607077990820#m",
+      "date": "Fri, 14 Aug 2026 15:28:20 GMT"
+    },
+    {
+      "text": "Cursor has officially joined SpaceX. \n\nWe’re grateful to become part of such a special company, and it has been a privilege working with the SpaceXAI team. Lots ahead.\n\n\nCursor (@cursor_ai)\n\nCursor is now part of @SpaceX. \n\nToday, we have officially closed our acquisition. We will join the @SpaceXAI team to help make Grok the world's most useful AI and improve Grok Build, Grok Bot, Grok API, Cursor, and more.\n\nSpaceX has built some of the most inspiring and impressive technology in the world, and we’re grateful for the opportunity to become part of such a special company. Onwards.\n\n\n\n— https://nitter.net/cursor_ai/status/2088249881718919393#m",
+      "link": "https://nitter.net/mntruell/status/2088277505933488137#m",
+      "date": "Fri, 14 Aug 2026 14:52:10 GMT"
+    },
+    {
+      "text": "It is an honor to have such a great team join @SpaceX\n\n\nSpaceXAI (@SpaceXAI)\n\nWelcome to the SpaceXAI team!\n\nCursor will help us move faster on the path to the world's most useful AI, starting with software engineering and expanding into knowledge work.\n\n\n\n— https://nitter.net/SpaceXAI/status/2088250109188608289#m",
+      "link": "https://nitter.net/elonmusk/status/2088273489820061920#m",
+      "date": "Fri, 14 Aug 2026 14:36:12 GMT"
+    },
     {
       "text": "How to use @bot\n\n\nDebbie O'Brien (@debs_obrien)\n\nI have a new chief of staff: In @bot I simply put: \n\ntake a look at me and what i do. find all info you can on me. take a look at the bots i have created. these are your team. see if we need to change anything or add more bots. what is best way of managing these bot teams. what else will make me super productive.\n\nAnd wow. try it yourself and you will see. This is amazing. Take a look at the answer I got from my chief of staff:\n\n\n\n\n\n— https://nitter.net/debs_obrien/status/2087832375526920381#m",
       "link": "https://nitter.net/elonmusk/status/2088149393731981516#m",
@@ -87,21 +102,6 @@
       "text": "Just took a Tesla Robotaxi ride in an area of Austin where the normal wait in the past was up to 20 minutes and my wait was only two minutes and this was consistent every time I did this!",
       "link": "https://nitter.net/gailalfaratx/status/2088012952624418880#m",
       "date": "Thu, 13 Aug 2026 21:20:55 GMT"
-    },
-    {
-      "text": "We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners. \n\nSince joining the community in 2024, SpaceXAI has paid $30 million in taxes, supporting essential local services, public education, infrastructure, and more. We’re proud to call Memphis home – the road to understanding the universe starts here.",
-      "link": "https://nitter.net/SpaceXAIMemphis/status/2088019251290341427#m",
-      "date": "Thu, 13 Aug 2026 21:45:57 GMT"
-    },
-    {
-      "text": "Grok 4.6 is now available in Warp and the Warp Agent CLI. \n\nRun /connect-grok in Warp to sign in with your X Premium or SuperGrok subscription to get started right away.\n\nVideo",
-      "link": "https://nitter.net/warpdotdev/status/2087935553790410954#m",
-      "date": "Thu, 13 Aug 2026 16:13:22 GMT"
-    },
-    {
-      "text": "grok 4.6 is live! a write up on my learnings, findings and tips to using the model!\n\nArticle\n\n\n\nGrok 4.6 – A field guide\n\nGrok 4.6 is out! I&apos;ve used it for a few weeks as my daily driver across the normal mix of coding and knowledge work, and built a few projects with it specifically to push on where it holds up.\nIt&apos;s",
-      "link": "https://nitter.net/ericzakariasson/status/2087566447178547494#m",
-      "date": "Wed, 12 Aug 2026 15:46:40 GMT"
     }
   ]
 }
