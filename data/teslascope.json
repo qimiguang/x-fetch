@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-08-14T04:52:10Z",
+  "updated_at": "2026-08-14T07:38:36Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.26.6.1 on Model X AWD (2022) in Quebec, Canada. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.6.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.6.1.\nteslascope.com",
+      "link": "https://nitter.net/teslascope/status/2088144436718944748#m",
+      "date": "Fri, 14 Aug 2026 06:03:24 GMT"
+    },
+    {
+      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://nitter.net/teslascope/status/2088144445816414304#m",
+      "date": "Fri, 14 Aug 2026 06:03:26 GMT"
+    },
+    {
+      "text": "Here’d our brief V14.1 Lite review (brief, being a good thing!)\n\nThe chief complaint we had with V14 Lite was the return of “brake stabbing”,  which is essentially sudden, unwarrented reductions in speed without an appropriate catalyst. This presented some occasions driving on California highways where being rear-ended was a risk, so we were unable to maintain a streak.\n\nWe’re pleased to report a ~95% reduction in brake stabbing following the V14.1 update over the course of about 150 miles. We also had a 100% success rate with parking within parking spot lines, and only one correction needed after parking the wrong way at a Supercharger.\n\nOn V14 Lite, corrections were required after parking about 50% of the time. This is a substancial improvement but still anticipate running into edge cases over time.\n\nOverall, a vast improvement over the initial release and excited to see this continue to rollout to additional vehicles (and regions).\n\n\nTeslascope (@teslascope)\n\nOur brief V14 Lite review with a 2018 Model 3 Performance. A mixed bag, but predominantly positive.\n\nWe received V14 Lite yesterday, promptly installed it, and set out on some drives along our usual routes in Torrance, California. Each route we've manually driven and self-driven hundreds of times across every FSD release for both AI3 and AI4.\n\nIt is clear that V14 Lite is a leap forward in terms of its capabilities: Its ability to reverse out of parking spots and our garage is incredible and starting a drive with a button press makes end-to-end driving feel great! In one instance, our vehicle reversed to provide additional room for another vehicle who was blocking a crosswalk.\n\nIt is clear that Tesla squeezed in a highly performant V14 model. We'd give a rough estimate of ~70-80% the performance of AI4-equipped vehicles based on our own experience and more scientific tests completed by other community members. This is seen via improved response time to cut-ins, faster lane changing, and seemingly better lane positioning during both day and night driving.\n\nWith that said; every drive exhibited more hesitation and pausing than on V12.6.4, resulting in an overall less enjoyable experience. All-way stop intersections throughout our city resulted in missed turns due to taking too long to proceed and were honked at twice; something that had not occurred on V12.6.4.\n\nWe feel confident that V14 Lite will continue to receive minor revisions and tweaks in the following weeks and months (as it already has between 2026.20.5.1, 2026.20.6.10 and 2026.20.6.11).\n\nAs with V12.6.4, Tesla continued to adjust the model despite no point releases or fanfare, and we look forward to the same for V14 Lite.\n\nWe use Full Self-Driving on a daily basis, so we're looking forward to future refinements to V14 Lite by @Tesla_AI's incredible team.\n\n\n\n— https://nitter.net/teslascope/status/2080395943065821558#m",
+      "link": "https://nitter.net/teslascope/status/2088143222048788955#m",
+      "date": "Fri, 14 Aug 2026 05:58:34 GMT"
+    },
     {
       "text": "FSD v14.1 Lite incoming!! 🤩 Via 2026.21.6 Canadian Model Y (Intel) 🇨🇦🇨🇦🇨🇦\n\n@teslascope @DriveTeslaca @RealTeslaNorth @niccruzpatane",
       "link": "https://nitter.net/MateenOmair/status/2088009684422644086#m",
@@ -82,21 +97,6 @@
       "text": "The following feature is included: Security Improvements\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2087316332236701714#m",
       "date": "Tue, 11 Aug 2026 23:12:48 GMT"
-    },
-    {
-      "text": "The following feature is included: Supercharger Search\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2087316323592237209#m",
-      "date": "Tue, 11 Aug 2026 23:12:46 GMT"
-    },
-    {
-      "text": "The following feature is included: Set Arrival Energy \n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2087316314893246738#m",
-      "date": "Tue, 11 Aug 2026 23:12:44 GMT"
-    },
-    {
-      "text": "The following feature is included: Traction Control Modes\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2087316305812603063#m",
-      "date": "Tue, 11 Aug 2026 23:12:42 GMT"
     }
   ]
 }
