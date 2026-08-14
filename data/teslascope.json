@@ -1,8 +1,13 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-08-14T19:00:00Z",
+  "updated_at": "2026-08-14T21:28:45Z",
   "count": 19,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.26.6.1 is now rolling out to ~1,870 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.26.6.1 on Model X AWD (2022) in Quebec, Canada. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.6.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.6.1.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2088144436718944748#m",
+      "link": "https://nitter.net/teslascope/status/2088372601110343797#m",
+      "date": "Fri, 14 Aug 2026 21:10:02 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.26.6.1 on Model X AWD (2022) in Quebec, Canada. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.6.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.6.1.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2088144436718944748#m",
@@ -92,11 +97,6 @@
       "text": "The following feature is included: Estimated Range\n\nteslascope.com/software/2026…",
       "link": "https://nitter.net/teslascope/status/2087333421009838408#m",
       "date": "Wed, 12 Aug 2026 00:20:43 GMT"
-    },
-    {
-      "text": "The following feature is included: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "https://nitter.net/teslascope/status/2087316332236701714#m",
-      "date": "Tue, 11 Aug 2026 23:12:48 GMT"
     }
   ]
 }
