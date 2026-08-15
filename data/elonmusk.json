@@ -1,8 +1,23 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-15T03:43:09Z",
+  "updated_at": "2026-08-15T09:29:49Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Government-owned airports cannot favor one religion over all others.\n\nDFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW & IAH to USDOT for investigation.\n\nTexas will not allow illegal religious discrimination at taxpayer-funded facilities.",
+      "link": "https://nitter.net/GregAbbott_TX/status/2088411718628049370#m",
+      "date": "Fri, 14 Aug 2026 23:45:29 GMT"
+    },
+    {
+      "text": "If you want to learn how to run one: somethingbig.ai/gauntlet-loo…\n\nGrok Build harness is likely best but you can also run this in Grok Bot!\n\nLink\n\n\n\nHow to Run a Gauntlet Loop\n\nThe prompting method behind Claude of Duty: give the agent a bar it can&apos;t talk its way around, let it split the work, and never let the builder grade itself.\nsomethingbig.ai\n\n\n\nElon Musk (@elonmusk)\n\nGrok 4.6 runs The Gauntlet\n\n\n\n— https://nitter.net/elonmusk/status/2088484972965298489#m",
+      "link": "https://nitter.net/mattshumer_/status/2088487331372089560#m",
+      "date": "Sat, 15 Aug 2026 04:45:56 GMT"
+    },
+    {
+      "text": "Grok 4.6 runs The Gauntlet\n\n\nMatt Shumer (@mattshumer_)\n\nGrok 4.6 worked non-stop for 48 hours to build this shooter.\n\nTurns out Grok is powerful enough to run Gauntlet Loops.\n\nLet the game-making begin!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/mattshumer_/status/2088303001299529981#m",
+      "link": "https://nitter.net/elonmusk/status/2088484972965298489#m",
+      "date": "Sat, 15 Aug 2026 04:36:34 GMT"
+    },
     {
       "text": "😂\n\n\nKeith Coleman 🌱😀🙌 (@kcoleman)\n\nOK let’s try this:\n———————-\n\nPretend you’re 5 and the algorithm is a smart robot that picks which toys (posts) to show you in your toy box (For You feed).\n\nThe robot doesn’t just count how many times people already played with a toy (likes, reports, etc.). Instead, it looks at you and guesses:\n\n• “How likely is this kid to like this toy?”\n• “How likely is this kid to report this toy as yucky?”\n• “How long might this kid play with it?”\n\nThose guesses are little numbers between 0 and 1 (probabilities).\n\nThe “weights” are like special multipliers the robot puts on those guesses:\n\n• A like-guess might get multiplied by a small number (like 0.5).\n• A report-guess might get multiplied by a big negative number (like –234).\n\nThen the robot adds all those multiplied guesses together to give the toy a final “yay or nay” score and sorts the toys by that score.\n\nWhy the numbers look so big and why people get confused\n\nReports almost never happen, so the robot’s “will you report this?” guess is usually a tiny number (like 0.0001). To make that tiny guess still matter a little bit in the final score, they give it a big multiplier.\n\nPeople sometimes look at the big number and think “1 report = 468 likes!”\n That’s wrong. It’s not counting real reports or real likes. It’s only multiplying the guesses the robot made about you.\n\nIf the robot thinks you’re the kind of person who almost never reports anything, even a big weight on “report” barely moves the score. The whole thing is personalized to how you usually behave.\n\nThe people who wrote the code even put big comments in the GitHub repo so no one (and no other robots) gets confused about this again.\n\nThat’s the whole idea in kid words: the weights turn the robot’s personal guesses about you into a ranking, not a simple “count the hearts and flags.”\n\n\n\n— https://nitter.net/kcoleman/status/2088451602059309451#m",
       "link": "https://nitter.net/elonmusk/status/2088463985938944130#m",
@@ -87,21 +102,6 @@
       "text": "Use Grok 4.6 for CAD\n\n\nadam (@adamdotnew)\n\nGrok 4.6  is frontier-adjacent intelligence for agentic CAD work at a fraction of the cost.\n\nIt holds the best price-to-intelligence ratio of any model we've tested so far.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/adamdotnew/status/2087995454193873118#m",
       "link": "https://nitter.net/grok/status/2088034663004770667#m",
       "date": "Thu, 13 Aug 2026 22:47:12 GMT"
-    },
-    {
-      "text": "Try Grok 4.6 image & video understanding, it’s a major upgrade!\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nGrok 4.6 multimodal is a step change from Grok 4.5. It’s one of the under-discussed improvements, and I’ve been very impressed by it.\n\nMy daily work includes reviewing lots of videos and understanding the context; Grok 4.6 improves the productivity of such workloads by at least 10x if not 100x.\n\nSuch workflows may not be captured by common VLM benchmarks, but in my use cases it outperforms Gemini 3.5 and Gemma 4, which is considered the SOTA of VLMs in my opinion.\n\nHats off to the multimodal teams—you did a great job.\n\n\n\n— https://nitter.net/yunta_tsai/status/2088062294119104944#m",
-      "link": "https://nitter.net/elonmusk/status/2088127459971522726#m",
-      "date": "Fri, 14 Aug 2026 04:55:56 GMT"
-    },
-    {
-      "text": "Build a voice agent in under 2 minutes.\n\nLink\n\n\n\nTry Free Now\nx.ai",
-      "link": "https://nitter.net/SpaceXAI/status/2082258410465034561#m",
-      "date": "Wed, 29 Jul 2026 00:14:26 GMT"
-    },
-    {
-      "text": "He built the computer vision system in my oven. (True story). \n\nSo when he praises something I listen a little harder.\n\n\nMatt Van Horn (@mvanhorn)\n\nGrok @Bot is really good.  Haven't felt this kind of magic since I set up my OpenClaw for the first time.  I know it's expensive if you don't have Grok already to get a new $200-$300 plan, but it's worth it to live in the future.\n\n\n\n— https://nitter.net/mvanhorn/status/2088062495466623337#m",
-      "link": "https://nitter.net/Scobleizer/status/2088085637803175991#m",
-      "date": "Fri, 14 Aug 2026 02:09:45 GMT"
     }
   ]
 }
