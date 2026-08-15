@@ -1,8 +1,43 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-15T15:25:49Z",
+  "updated_at": "2026-08-15T21:24:57Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "A quiet revolution is happening on Bay Area roads as a vast number of privately owned cars are now driving themselves. sfchronicle.com/bayarea/arti…\n\nLink\n\n\n\nTesla drivers are letting their cars take over. Increasingly, they’re barely driving at all\n\nA quiet revolution is happening on Bay Area roads as a vast number of privately owned cars are now driving themselves.\nsfchronicle.com",
+      "link": "https://nitter.net/sfchronicle/status/2088662039912665140#m",
+      "date": "Sat, 15 Aug 2026 16:20:10 GMT"
+    },
+    {
+      "text": "Tesla holds the top two spots for America’s most domestically produced vehicles - beating out both Ford and GM 🇺🇸\n\nCars.com 2026 American-Made Index:\n\n• Tesla Model 3 — #1\n• Tesla Model Y — #2 \n\nThe two most American-made cars in America are both Teslas",
+      "link": "https://nitter.net/XFreeze/status/2088674429564010632#m",
+      "date": "Sat, 15 Aug 2026 17:09:24 GMT"
+    },
+    {
+      "text": "Grok has improved massively\n\n\nDan (@KettlebellDan)\n\nLook how much Grok has progressed in just 6 months from Grok 3 to Grok 4.6!\n\nAs a quick Saturday morning project I gave Grok Build the link to this previous \"𝕏 THE GAME\" viral (yet ugly) game\n\nGrok was able to watch the video, quickly reverse engineer the game, and make dramatic improvements\n\nYou can play it here (on desktop): \nkettlebelldan.com/x_the_game…\n\nSome lessons I learned:\n\n- Grok is extremely token efficient. I was able to iterate on the design many times and still kept the token cost surprisingly low (only a few $ to make this game)\n\n-  Grok is great at working with humans. Instead of just telling it what to do, or on the other extreme having it go off and do something itself, ask for a list of options on how to improve and tell Grok which ones to implement. A true partnership\n\n- Anyone can build things these days with AI, no code knowledge needed\n\nWhat are you building with Grok?\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/KettlebellDan/status/2088684788156940337#m",
+      "link": "https://nitter.net/elonmusk/status/2088736114739917130#m",
+      "date": "Sat, 15 Aug 2026 21:14:31 GMT"
+    },
+    {
+      "text": "After using Grok Bot nonstop for the past week I'm going to say it: it's the best AI agent out there right now\n\nDead simple and just works\n\nIt eliminates the 10,000 decisions, configs, and fixes that scare people off\n\nThe integrated cloud computer unlock so many use cases too:\n\n1. Invited the cloud computer to my community. It opened it up and now monitors the community 24/7. Answering questions and DMs\n\n2. Uses the X plugin to monitor all the AI companies X accounts every 15 minutes around the clock. Looking for updates and big news, alerting me the moment it happens\n\n3. Clicks around testing the 2 apps I'm building around the clock. Looking for bugs, thinking of new features, then writing the PRs and waiting for my review\n\n4. My Grok Bot checks my social media channels around the clock. Moment I post anything, it repurposes the content based on other content I've posted, making writing my newsletter much easier\n\n5. The integrated Grok images are really nice. So I can tell it to go to my YT on its cloud computer and make similar thumbnails for my new videos\n\n6. Checks data in post hog on my product retention, gives me a list of at risk subscribers, prepares emails and reachout, then asks me for the OK\n\nCan the other AI agents out there do this? Yes. There's literally nothing Grok Bot can do that the others can't.\n\nBut here's the thing, the user experience is designed so beautifully that it unhobbles all of these use cases and make them so much more pleasant to execute on\n\nGrok Bot is a must try",
+      "link": "https://nitter.net/AlexFinn/status/2088666462819082645#m",
+      "date": "Sat, 15 Aug 2026 16:37:44 GMT"
+    },
+    {
+      "text": "Grok Build mode is so much fun!\n\nI made a few quick games for my nephew in just minutes using simple one-line prompts, all from the Grok iOS app on my iPhone.\n\nThis is honestly one of the coolest things ever!\n\nVideo",
+      "link": "https://nitter.net/cb_doge/status/2088678349359263929#m",
+      "date": "Sat, 15 Aug 2026 17:24:58 GMT"
+    },
+    {
+      "text": "Frontier lab ARR crossed combined Windows + Office revenue in late June of this year (on our estimates).\n\nThey are toppling the Titans.",
+      "link": "https://nitter.net/wintonARK/status/2088325401638809902#m",
+      "date": "Fri, 14 Aug 2026 18:02:29 GMT"
+    },
+    {
+      "text": "You don’t need to waste an hour digging through your Mac’s settings trying to figure out what’s wrong with your laptop\n\nGrok Build is insanely capable....just tell Grok Build what’s broken and let it investigate the machine for you\n\nYou can try things like:\n•  Trackpad suddenly behaving weird\n•  Battery draining ridiculously fast\n•  Microphone isn't working in calls. Diagnose it\n•  Some random website sending Chrome notifications every 10 seconds\n•  External monitor runs at 60Hz but supports 144Hz. Fix it\n•  Mac running hot or slowing down\n•  An app constantly crashing\n•  Something keeping your Mac awake or eating all your CPU?\n\nYou might have absolutely no idea where the setting is or even what’s causing the problem\n\nGrok Build can inspect the system, find the culprit and, with the right tools/skills, actually take action\n\nInstead of Googling the problem → opening 20 tabs → digging through Settings → trying random fixes....\nJust tell Grok Build what’s wrong and let it figure out the rest",
+      "link": "https://nitter.net/XFreeze/status/2088667797760979174#m",
+      "date": "Sat, 15 Aug 2026 16:43:03 GMT"
+    },
     {
       "text": "Posting my reply to @_sholtodouglas given that some of my comments about Anthropic on @theallinpod yesterday have been widely discussed here on X and I think the topic is important.\n\n\nGavin Baker (@GavinSBaker)\n\nSholto, thank you for setting the record straight. Larger issue is that multiple very serious people in Silicon Valley have heard some variation of this and believe it to be true. And the reason it is believable to so many is that it is consistent with Dario’s public messaging and what he outlined in the essay you shared: this technology *might* be dangerous for humans in multiple ways, could lead to extreme concentration of economic power (as outlined in the essay) and therefore needs to be regulated thoughtfully. I agree with the potential risks and I believe Dario makes all of these arguments in good faith.\n As discussed on the pod, if one agrees that AI *might* be dangerous, there are two ways to address this potential risk. Either concentrate it in the hands of a chosen few companies and politicians via regulation or distribute it widely.  Essentially boils down to whether one believes AI is too dangerous to concentrate or too dangerous to distribute. There are reasonable arguments on both sides, but I profoundly agree with Zuckerberg’s statement that: “The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems inherently problematic. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened has not led to safe or positive outcomes.” And as Dario says in the aforementioned essay, “some may object that we can simply keep AIs in check with a balance of power between many AI systems, as we do with humans.”  I believe this is the best path forward: I want as many AIs as possible to maximize the odds that one shares my own particular values.  And as Dario notes, no human has ever been able to take over the world.\n\nAt this point, I think safe to say that Dario has lost the argument. His messaging has failed to result in his preferred regulatory path. The fact that the only solution to the recent incident where an unreleased advanced OpenAI model hacked Hugging Face was an open-source model likely ended any chance of strict near-term regulation. Essentially every major company other than Anthropic has signed Jensen’s letter. \n\nHowever, Dario’s messaging has been massively helpful to efforts to ban datacenters here in America. I suspect we will see anti-datacenter advocacy groups runnings ads using clips of Dario warning about how dangerous AI could be for humans. His good faith efforts in favor of regulation are now increasing the odds that AI will not be beneficial for Americans and humans everywhere. I believe that there is a reasonable chance AI might help us cure most forms of disease such that we have extended lifespans and can enjoy these long lives in an abundant Star Trek like future. That is the future that I want and I think Dario is decreasing the odds of that future at this point.\n\nHe is about to be the CEO of one of the most important public companies in the world and given that the pro-regulatory effort has failed (at least for now), I respectfully think he should make an effort to be a more positive advocate for his own industry. And if I am wrong and we do need to regulate this technology, he will be a more effective advocate for this in the future having been open-minded to the alternative.\n\nAnd for the sake of clarity and as I outlined on the pod, I think Anthropic has deep competitive advantages and is an amazing company. Ironically, the main risk I saw to Anthropic a few months ago was nationalization as a result of Dario’s own rhetoric and behavior.\n\n\n\n— https://nitter.net/GavinSBaker/status/2088611616577253502#m",
       "link": "https://nitter.net/GavinSBaker/status/2088613126614757429#m",
@@ -67,41 +102,6 @@
       "text": "It is an honor to have such a great team join @SpaceX\n\n\nSpaceXAI (@SpaceXAI)\n\nWelcome to the SpaceXAI team!\n\nCursor will help us move faster on the path to the world's most useful AI, starting with software engineering and expanding into knowledge work.\n\n\n\n— https://nitter.net/SpaceXAI/status/2088250109188608289#m",
       "link": "https://nitter.net/elonmusk/status/2088273489820061920#m",
       "date": "Fri, 14 Aug 2026 14:36:12 GMT"
-    },
-    {
-      "text": "How to use @bot\n\n\nDebbie O'Brien (@debs_obrien)\n\nI have a new chief of staff: In @bot I simply put: \n\ntake a look at me and what i do. find all info you can on me. take a look at the bots i have created. these are your team. see if we need to change anything or add more bots. what is best way of managing these bot teams. what else will make me super productive.\n\nAnd wow. try it yourself and you will see. This is amazing. Take a look at the answer I got from my chief of staff:\n\n\n\n\n\n— https://nitter.net/debs_obrien/status/2087832375526920381#m",
-      "link": "https://nitter.net/elonmusk/status/2088149393731981516#m",
-      "date": "Fri, 14 Aug 2026 06:23:06 GMT"
-    },
-    {
-      "text": "Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a world of art really. It cuts through dense LA traffic expertly",
-      "link": "https://nitter.net/wholemars/status/2088130948995178532#m",
-      "date": "Fri, 14 Aug 2026 05:09:48 GMT"
-    },
-    {
-      "text": "Workflows are now in Grok Build.\n\nBuild plans the work, runs up to hundreds of agents in parallel, and comes back with one report.\n\nLink\n\n\nStart using for free\nx.ai",
-      "link": "https://nitter.net/grok/status/2082791168744767963#m",
-      "date": "Thu, 30 Jul 2026 11:31:25 GMT"
-    },
-    {
-      "text": "Thrilled to receive this feedback from Tesla — they tackle the world’s most critical multimodal challenges. \n\nExtremely proud that the team’s work is paying off🚀\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nGrok 4.6 multimodal is a step change from Grok 4.5. It’s one of the under-discussed improvements, and I’ve been very impressed by it.\n\nMy daily work includes reviewing lots of videos and understanding the context; Grok 4.6 improves the productivity of such workloads by at least 10x if not 100x.\n\nSuch workflows may not be captured by common VLM benchmarks, but in my use cases it outperforms Gemini 3.5 and Gemma 4, which is considered the SOTA of VLMs in my opinion.\n\nHats off to the multimodal teams—you did a great job.\n\n\n\n— https://nitter.net/yunta_tsai/status/2088062294119104944#m",
-      "link": "https://nitter.net/hexiang/status/2088070245210816595#m",
-      "date": "Fri, 14 Aug 2026 01:08:35 GMT"
-    },
-    {
-      "text": "Grok 4.6 ranks #1 on CursorBench for real-world coding\n\n\nX Freeze (@XFreeze)\n\nGrok 4.6 just ranked #1 on CursorBench 3.2\n\nOutperforming Claude Fable 5, Opus 5 and GPT-5.6 Sol on real-world coding performance\n\nAnd what makes this even crazier is the efficiency....the chart gives CursorBench performance against average cost per task, and Grok 4.6 is sitting right at the top of the frontier\n\nGrok 4.6 is insanely capable at coding....delivering frontier coding performance at ridiculous efficiency\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2088137836079804882#m",
-      "link": "https://nitter.net/elonmusk/status/2088138697002668110#m",
-      "date": "Fri, 14 Aug 2026 05:40:35 GMT"
-    },
-    {
-      "text": "Grok 4.6 from @SpaceXAI on ARC-AGI (Verified):\n\n- ARC-AGI-1: 87.5%, $0.30/task\n- ARC-AGI-2: 67.1%, $0.76/task\n- ARC-AGI-3: 2.11%, $5.6K\n\nOn ARC-AGI-3, Grok 4.6 with xhigh reasoning scored comparably to GPT-5.6 Sol with high reasoning, but cost $5.6K versus Sol's $15.2K.",
-      "link": "https://nitter.net/arcprize/status/2088073208268284352#m",
-      "date": "Fri, 14 Aug 2026 01:20:22 GMT"
-    },
-    {
-      "text": "Grok Imagine\n\n\nDéborah (@dvorahfr)\n\nAutomatic animation from Grok Imagine.\nI didn't ask for text; it suggested that itself. The result is stunning.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/dvorahfr/status/2088113453445562628#m",
-      "link": "https://nitter.net/elonmusk/status/2088137315109449870#m",
-      "date": "Fri, 14 Aug 2026 05:35:06 GMT"
     }
   ]
 }
