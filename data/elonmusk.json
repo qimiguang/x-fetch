@@ -1,8 +1,18 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-17T03:53:36Z",
+  "updated_at": "2026-08-17T09:47:42Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "OMG. I asked my Chief Engineer on Grok @bot to bring up the feature and it's done. 😳\n\nI can text my @maticrobots now through my Grok @bot—anywhere and anytime.\n\n\n\n\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nOkay, I need to figure out how to connect my Grok @bot to @maticrobots so I can text it where to clean.\n\n\n\n— https://nitter.net/yunta_tsai/status/2089144435024293894#m",
+      "link": "https://nitter.net/yunta_tsai/status/2089223114416898288#m",
+      "date": "Mon, 17 Aug 2026 05:29:41 GMT"
+    },
+    {
+      "text": "This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning & Orchestration→ Grok Bot\nDay-to-day Coding/Debug → Grok Build + Grok 4.6\nWrite & Run Tests → Grok Build + Grok 4.6\nComplex Coding/Debug → GPT-5.6 Sol\nFrontend → Fable 5\n\nBookmark this.",
+      "link": "https://nitter.net/minchoi/status/2089190230645432329#m",
+      "date": "Mon, 17 Aug 2026 03:19:00 GMT"
+    },
     {
       "text": "Yes\n\n\nX Freeze (@XFreeze)\n\n“Having two planets that are both self-sustaining and strong is going to be incredibly important for the long-term survival of civilization”\n\nThis is exactly what Starship is being built for....making Mars self-sustaining and giving human civilization a second home\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2088878954329579963#m",
       "link": "https://nitter.net/elonmusk/status/2089176557747413105#m",
@@ -92,16 +102,6 @@
       "text": "Grok 4.6\n\n\nDan (@KettlebellDan)\n\nSo I asked Grok Build to make a trailer for my video game\n\nIt booted the game, played it, recorded the screen, edited the footage, and voiced it. \n\nI didn’t touch anything\n\nX THE GAME — free to play\nkettlebelldan.com/x_the_game…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/KettlebellDan/status/2088779213247492254#m",
       "link": "https://nitter.net/elonmusk/status/2088780849948832078#m",
       "date": "Sun, 16 Aug 2026 00:12:16 GMT"
-    },
-    {
-      "text": "Worth trying Grok 4.6. Fable 5 is smarter overall, but Grok is much faster and lower cost.\n\nGrok 4.7 has a good chance of exceeding all current models in intelligence.",
-      "link": "https://nitter.net/elonmusk/status/2088735708693602427#m",
-      "date": "Sat, 15 Aug 2026 21:12:54 GMT"
-    },
-    {
-      "text": "After @elonmusk bought Twitter, a bunch of advertisers engaged in an illegal group boycott of @X.  The advertisers coordinated to pull billions in ad spend and reveled in the harm they caused.  We sued and this week received a flood of support for our appeal---for which we are incredibly grateful. 1/",
-      "link": "https://nitter.net/BurnhamDC/status/2088768818352951726#m",
-      "date": "Sat, 15 Aug 2026 23:24:28 GMT"
     }
   ]
 }
