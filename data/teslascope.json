@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-08-17T09:47:44Z",
-  "count": 20,
+  "updated_at": "2026-08-17T12:52:56Z",
+  "count": 19,
   "tweets": [
+    {
+      "text": "Teslascope V7 launches this weekend.\n\nIt includes a completely overhauled software tracking and analytics overview that provides more data than ever before.\n\n+ Dedicated FSD Tracking\n\nWe shared a sneak peek with our X subscribers last week, and more to come in the coming days.",
+      "link": "https://nitter.net/teslascope/status/2089319503608139819#m",
+      "date": "Mon, 17 Aug 2026 11:52:41 GMT"
+    },
+    {
+      "text": "On our @vehiclescope iOS and Android apps, we’re adding the much requested option to be notified upon a new software update being detected.\n\nWe've also begun initial testing with Apple Watch support and complications, with a scheduled release on TestFlight this weekend.",
+      "link": "https://nitter.net/teslascope/status/2089319510197375306#m",
+      "date": "Mon, 17 Aug 2026 11:52:43 GMT"
+    },
+    {
+      "text": "V7 is a collaborative effort made possible by hundreds of Tesla community members globally who have shared their feedback and feature requests with our team this year.\n\nWe remain committed to building the best experiences for all Tesla owners. Join us if you haven’t already! 👋",
+      "link": "https://nitter.net/teslascope/status/2089319512382570687#m",
+      "date": "Mon, 17 Aug 2026 11:52:44 GMT"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.15.7 on Model X AWD (2026) in Gyeonggi-do, South Korea. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.15.7 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.15.7.\nteslascope.com",
       "link": "https://nitter.net/teslascope/status/2089196302802337850#m",
@@ -82,26 +97,6 @@
       "text": "FSD v14.1 Lite incoming!! 🤩 Via 2026.21.6 Canadian Model Y (Intel) 🇨🇦🇨🇦🇨🇦\n\n@teslascope @DriveTeslaca @RealTeslaNorth @niccruzpatane",
       "link": "https://nitter.net/MateenOmair/status/2088009684422644086#m",
       "date": "Thu, 13 Aug 2026 21:07:56 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.21.6 is now rolling out to ~3,960 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.7 for eligible AI4 vehicles and V14.1 Lite for eligible HW3 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.21.6 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.21.6 (FSD V14.1 Lite/V14.3.7) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.21.6.\nteslascope.com\n\n\n\n\n— https://nitter.net/teslascope/status/2086308402481737988#m",
-      "link": "https://nitter.net/teslascope/status/2088005236833058883#m",
-      "date": "Thu, 13 Aug 2026 20:50:16 GMT"
-    },
-    {
-      "text": "We were included in this wave on our 2018 Model 3!",
-      "link": "https://nitter.net/teslascope/status/2088008894128025700#m",
-      "date": "Thu, 13 Aug 2026 21:04:48 GMT"
-    },
-    {
-      "text": "Got it",
-      "link": "https://nitter.net/MrKibbles0/status/2088006873538609584#m",
-      "date": "Thu, 13 Aug 2026 20:56:46 GMT"
-    },
-    {
-      "text": "2026.21.6 with FSD 14.1 Lite rolling out to more vehicles @teslascope",
-      "link": "https://nitter.net/RealTeslaNorth/status/2088007362804355222#m",
-      "date": "Thu, 13 Aug 2026 20:58:43 GMT"
     }
   ]
 }
