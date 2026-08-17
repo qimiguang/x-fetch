@@ -1,8 +1,43 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-16T18:35:01Z",
+  "updated_at": "2026-08-17T01:38:07Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "For those impacted by Hurricane Lala in Hawaii, Starlink is providing free service through September 17 to new and existing customers. We are coordinating with local emergency officials to set up Starlink for crews on the ground in the worst-hit communities → starlink.com/support/article…",
+      "link": "https://nitter.net/Starlink/status/2089133557281444184#m",
+      "date": "Sun, 16 Aug 2026 23:33:48 GMT"
+    },
+    {
+      "text": "Sawyer Merritt (@SawyerMerritt)\n\nJust got this clip from a follower showing their @Tesla avoiding a collision recently on the highway while on FSD (Supervised) V14.\n\nHere are all the angles. Self-Driving data at top:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/SawyerMerritt/status/2089136857095209405#m",
+      "link": "https://nitter.net/yunta_tsai/status/2089148348276347258#m",
+      "date": "Mon, 17 Aug 2026 00:32:35 GMT"
+    },
+    {
+      "text": "For those impacted by the earthquake in Indonesia, Starlink is providing free service through September 16 to new and existing customers. We are coordinating with emergency response agencies to provide service and hardware to their teams in the hardest-hit areas, and activating donated Starlinks from previous responses to help restore connectivity → starlink.com/support/article…",
+      "link": "https://nitter.net/Starlink/status/2088709146472517815#m",
+      "date": "Sat, 15 Aug 2026 19:27:21 GMT"
+    },
+    {
+      "text": "Two major rocket launches almost simultaneously\n\n\nDogeDesigner (@cb_doge)\n\nSpaceX just set a new record by launching two Falcon 9 rockets only 38.5 minutes apart.\n\nSpaceX is operating on another level. 🔥🚀\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2088960603125932337#m",
+      "link": "https://nitter.net/elonmusk/status/2089148681887031667#m",
+      "date": "Mon, 17 Aug 2026 00:33:54 GMT"
+    },
+    {
+      "text": "Try Grok @Bot!\n\n\n@amuse (@amuse)\n\nPRO TIP: If you’re not using Grok @bot you’re missing out. It has replaced OpenClaw, Hermes, & my local model ($10K Mac Minis). Get a Comet Pro Remote KVM to let the bot access your Mac environment. I’m going to sell my Minis (for more than I paid) next week.\n\n\n\n\n\n— https://nitter.net/amuse/status/2089111464921501985#m",
+      "link": "https://nitter.net/elonmusk/status/2089148540039901185#m",
+      "date": "Mon, 17 Aug 2026 00:33:21 GMT"
+    },
+    {
+      "text": "Tesla Model Y was China’s #1 best-selling midsize SUV last month. 🇨🇳\n\n• 25,158 retail sales\n• #3 best-selling vehicle overall\n• 197,671 sold from January through July\n\nTesla China also recorded 93,579 wholesale sales, up 37.8% YoY.",
+      "link": "https://nitter.net/cb_doge/status/2088986855039811790#m",
+      "date": "Sun, 16 Aug 2026 13:50:52 GMT"
+    },
+    {
+      "text": "Intelligence/Joule will keep improving\n\n\nAmjad Masad (@amasad)\n\n18x improvement in intelligence per joule in 16 months.\n\n\n\n\n\n— https://nitter.net/amasad/status/2089069905375351169#m",
+      "link": "https://nitter.net/elonmusk/status/2089106964307460362#m",
+      "date": "Sun, 16 Aug 2026 21:48:08 GMT"
+    },
     {
       "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship\n\nVideo",
       "link": "https://nitter.net/SpaceX/status/2088808869728256385#m",
@@ -67,41 +102,6 @@
       "text": "Grok 4.6 ranks #1 on RuntimeWire’s Newsroom Reliability v0.2 benchmark with a score of 0.79, beating GPT-5.6 Sol, Claude Opus 4.8, Gemini and DeepSeek.\n\nVideo",
       "link": "https://nitter.net/cb_doge/status/2088741843882426638#m",
       "date": "Sat, 15 Aug 2026 21:37:17 GMT"
-    },
-    {
-      "text": "I hope AI is nice to us\n\n\nNaval (@naval)\n\nYou cannot create God and put him on a leash.\n\n\n\n— https://nitter.net/naval/status/2088550653497053623#m",
-      "link": "https://nitter.net/elonmusk/status/2088774618559697175#m",
-      "date": "Sat, 15 Aug 2026 23:47:31 GMT"
-    },
-    {
-      "text": "Interesting exchange\n\n\nDario Amodei (@DarioAmodei)\n\n2/2 Second, on the messaging around AI.  I do not agree that my messaging has been disproportionately negative.  In fact it has been about equally balanced between risks and benefits: I’ve written one major essay about each, and even in interviews where I discuss the risks, I make sure to frequently mention the incredible benefits as well as proposing possible solutions to the risks (short clips from my interviews that end up on social media tend to be disproportionately negative, as that gets clicks).  In fact, I wrote Machines of Loving Grace because I didn’t feel the AI industry was painting an inspiring enough picture of how the technology could radically transform the world for the better.  The bulk of the essay is devoted to refuting skepticism of AI’s potential in health and biology, and showing why I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).  And, if you read my most recent essay (Policy on the AI Exponential), I discuss concrete proposals for how to streamline the FDA process to make sure the deluge of AI-accelerated drugs isn’t slowed down by the regulatory process.  I feel the urgency here: I lost my father to Hepatitis C only a few years before the development of direct-acting antivirals (sofosbuvir), which cure 95% of patients and probably would have cured him.\n\nI do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks.  I think it is fundamentally a crisis of trust.  I think that ordinary people don’t trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over.  The causes of this go back decades and AI is just the latest iteration of it.  I don’t think that a glitzy marketing campaign with a positive spin (which some have advocated that Anthropic do) is the way to win back that trust — at this point, saying that AI will cure cancer is more a cliche than it is inspiring, and most people think it is deceptive.  The thing that will work is *actually curing cancer*.  I think by far the most accurate criticism of AI companies including Anthropic is that we haven’t yet delivered on our big promises to benefit the world.  That is totally on us, and I think it’s the criticism you should be making, instead of all this stuff about messaging and marketing.\n\nWe are however doing our best to fix this: Anthropic is ramping up its efforts very quickly in biology and medicine, and we hope to have incredible results in the coming years and some early glimmers in the coming months.  When we’ve actually accomplished something real, the whole world will hear about it, as loudly as possible, you have my word on that.  But until then I don’t want to make empty promises, and in the meantime I feel compelled to speak honestly about the very real risks of AI and how to address them.  Honesty is the right thing on the merits, and in terms of public credibility and trust it is no worse than, and may in fact be better than, an approach that ignores or distracts from risks which people instinctively understand are real.\n\n\n\n— https://nitter.net/DarioAmodei/status/2088758819304443967#m",
-      "link": "https://nitter.net/elonmusk/status/2088774292586844664#m",
-      "date": "Sat, 15 Aug 2026 23:46:13 GMT"
-    },
-    {
-      "text": "Video",
-      "link": "https://nitter.net/elonmusk/status/2088747465482912152#m",
-      "date": "Sat, 15 Aug 2026 21:59:37 GMT"
-    },
-    {
-      "text": "A quiet revolution is happening on Bay Area roads as a vast number of privately owned cars are now driving themselves. sfchronicle.com/bayarea/arti…\n\nLink\n\n\n\nTesla drivers are letting their cars take over. Increasingly, they’re barely driving at all\n\nA quiet revolution is happening on Bay Area roads as a vast number of privately owned cars are now driving themselves.\nsfchronicle.com",
-      "link": "https://nitter.net/sfchronicle/status/2088662039912665140#m",
-      "date": "Sat, 15 Aug 2026 16:20:10 GMT"
-    },
-    {
-      "text": "Tesla holds the top two spots for America’s most domestically produced vehicles - beating out both Ford and GM 🇺🇸\n\nCars.com 2026 American-Made Index:\n\n• Tesla Model 3 — #1\n• Tesla Model Y — #2 \n\nThe two most American-made cars in America are both Teslas",
-      "link": "https://nitter.net/XFreeze/status/2088674429564010632#m",
-      "date": "Sat, 15 Aug 2026 17:09:24 GMT"
-    },
-    {
-      "text": "Grok has improved massively\n\n\nDan (@KettlebellDan)\n\nLook how much Grok has progressed in just 6 months from Grok 3 to Grok 4.6!\n\nAs a quick Saturday morning project I gave Grok Build the link to this previous \"𝕏 THE GAME\" viral (yet ugly) game\n\nGrok was able to watch the video, quickly reverse engineer the game, and make dramatic improvements\n\nYou can play it here (on desktop): \nkettlebelldan.com/x_the_game…\n\nSome lessons I learned:\n\n- Grok is extremely token efficient. I was able to iterate on the design many times and still kept the token cost surprisingly low (only a few $ to make this game)\n\n-  Grok is great at working with humans. Instead of just telling it what to do, or on the other extreme having it go off and do something itself, ask for a list of options on how to improve and tell Grok which ones to implement. A true partnership\n\n- Anyone can build things these days with AI, no code knowledge needed\n\nWhat are you building with Grok?\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/KettlebellDan/status/2088684788156940337#m",
-      "link": "https://nitter.net/elonmusk/status/2088736114739917130#m",
-      "date": "Sat, 15 Aug 2026 21:14:31 GMT"
-    },
-    {
-      "text": "After using Grok Bot nonstop for the past week I'm going to say it: it's the best AI agent out there right now\n\nDead simple and just works\n\nIt eliminates the 10,000 decisions, configs, and fixes that scare people off\n\nThe integrated cloud computer unlock so many use cases too:\n\n1. Invited the cloud computer to my community. It opened it up and now monitors the community 24/7. Answering questions and DMs\n\n2. Uses the X plugin to monitor all the AI companies X accounts every 15 minutes around the clock. Looking for updates and big news, alerting me the moment it happens\n\n3. Clicks around testing the 2 apps I'm building around the clock. Looking for bugs, thinking of new features, then writing the PRs and waiting for my review\n\n4. My Grok Bot checks my social media channels around the clock. Moment I post anything, it repurposes the content based on other content I've posted, making writing my newsletter much easier\n\n5. The integrated Grok images are really nice. So I can tell it to go to my YT on its cloud computer and make similar thumbnails for my new videos\n\n6. Checks data in post hog on my product retention, gives me a list of at risk subscribers, prepares emails and reachout, then asks me for the OK\n\nCan the other AI agents out there do this? Yes. There's literally nothing Grok Bot can do that the others can't.\n\nBut here's the thing, the user experience is designed so beautifully that it unhobbles all of these use cases and make them so much more pleasant to execute on\n\nGrok Bot is a must try",
-      "link": "https://nitter.net/AlexFinn/status/2088666462819082645#m",
-      "date": "Sat, 15 Aug 2026 16:37:44 GMT"
     }
   ]
 }
