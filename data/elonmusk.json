@@ -1,8 +1,28 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-18T03:48:39Z",
+  "updated_at": "2026-08-18T09:37:33Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok 4.6 takes top spot on this benchmark\n\n\nMedical Sphere (@MedicalSphereAI)\n\n🥇 We evaluated Grok 4.6 on MedAgentBench, a benchmark for agentic clinical EHR tasks, and it took the top spot. Grok 4.6 posts the highest pass@1 we've measured to date, moving ahead of the previous leader, GPT-5.6 Sol, to claim first place on the leaderboard. 🏥\n\nGrok 4.6 averages ~95.9% pass@1 (avg of 3 runs), edging out the prior best (GPT-5.6-sol at ~94.7%) and improving on Grok 4.5 by roughly 2.5 points. On a benchmark where the model acts as an autonomous agent in a simulated EHR, calling FHIR APIs to complete clinical tasks across 10 task types, the result is also remarkably consistent run to run (95.3% to 96.3%). \n\n📊 Leaderboards: medicalsphere.ai/benchmarks\n\n\n\n\n\n— https://nitter.net/MedicalSphereAI/status/2089548170347081895#m",
+      "link": "https://nitter.net/elonmusk/status/2089592732780032132#m",
+      "date": "Tue, 18 Aug 2026 05:58:24 GMT"
+    },
+    {
+      "text": "Grok 4.6 is my daily driver now. This is why:\n\nWhen I’m using interactive agents in a CLI/terminal (or even Slack), what matters most to me is speed & token throughput. Intelligence and differences in performance on benchmarks is negligible to me when speed is sacrificed. \n\nIf I am there to steer & guide the agent, or make some quick fixes, then I don’t want to wait 5+ min per turn.\n\nOpus 5 (fast) is a good solution to this, but it is WAY too expensive. Grok 4.6 is perfect though, incredibly fast, almost as smart as Fable, and relatively much cheaper than anything else right now.\n\nOn the flip side, for cloud agents working in Factories & background tasks triggered on crons, I don’t mind using intelligent, slow models like Fable / Sol. I’d even opt for a  model router for cloud tasks that biases to heavy, smart models. \n\nI guess the meta point I’m making here is that model choice is largely a function of whether there’s a human waiting in the loop.",
+      "link": "https://nitter.net/vikvang1/status/2088751558578061542#m",
+      "date": "Sat, 15 Aug 2026 22:15:53 GMT"
+    },
+    {
+      "text": "Grok @Bot\n\n\nPeter Yang (@petergyang)\n\nI think Grok @Bot is a glimpse into the future of personal AI agents.\n\nHere's my new tutorial where I show you how to set up 5 useful bots:\n\n1. An advisor to create and manage your bots\n2. A YouTube researcher to find outlier videos\n3. An X scout to find viral and funny tweets\n4. A digital Marie Kondo to clean up your inbox and save money on paid subscriptions\n5. A personal concierge to save money on trips\n\nI also tested a Gamer bot to see if Grok Bot can install and play classic games like Doom, Red Alert, and Commander Keen.\n\nPlus, I discuss the biggest barrier to Grok Bot adoption and whether it can replace ChatGPT as my daily driver.\n\n📌 Watch now: piped.video/MkVcHbviYOw\n\nLink\n\n\n\nGrok Bot: 5 Must-Try Use Cases for Work and Life (Full Tutorial)\n\n📌 Copy the AI system I use to run a one-person $1M+ business: https...\nyoutube.com\n\n\n\n\n— https://nitter.net/petergyang/status/2089401696946634801#m",
+      "link": "https://nitter.net/elonmusk/status/2089578400734167260#m",
+      "date": "Tue, 18 Aug 2026 05:01:27 GMT"
+    },
+    {
+      "text": "Sync to Origin\n\n\nCursor (@cursor_ai)\n\nOrigin, our code hosting platform, is now live.\n\nIt's fast, easy to use, and deeply integrated with Cursor.\n\nGet started by syncing your repos from GitHub.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cursor_ai/status/2089399057659596847#m",
+      "link": "https://nitter.net/elonmusk/status/2089575133442711787#m",
+      "date": "Tue, 18 Aug 2026 04:48:28 GMT"
+    },
     {
       "text": "Create a full scene with Grok Imagine for a chance to win 👇\n\n\nGrok (@grok)\n\nHomer had a lyre. You have Grok Imagine.\n\nCreate a compelling scene from Homer’s The Odyssey that shows what Grok @Imagine’s video and voice capabilities can do. We’re awarding $100K, $50K, and $25K to the top three videos submitted by quoting this post. 🧵\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2089443401695470006#m",
       "link": "https://nitter.net/imagine/status/2089461382051741919#m",
@@ -82,26 +102,6 @@
       "text": "For those impacted by the earthquake in Indonesia, Starlink is providing free service through September 16 to new and existing customers. We are coordinating with emergency response agencies to provide service and hardware to their teams in the hardest-hit areas, and activating donated Starlinks from previous responses to help restore connectivity → starlink.com/support/article…",
       "link": "https://nitter.net/Starlink/status/2088709146472517815#m",
       "date": "Sat, 15 Aug 2026 19:27:21 GMT"
-    },
-    {
-      "text": "Two major rocket launches almost simultaneously\n\n\nDogeDesigner (@cb_doge)\n\nSpaceX just set a new record by launching two Falcon 9 rockets only 38.5 minutes apart.\n\nSpaceX is operating on another level. 🔥🚀\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/cb_doge/status/2088960603125932337#m",
-      "link": "https://nitter.net/elonmusk/status/2089148681887031667#m",
-      "date": "Mon, 17 Aug 2026 00:33:54 GMT"
-    },
-    {
-      "text": "Try Grok @Bot!\n\n\n@amuse (@amuse)\n\nPRO TIP: If you’re not using Grok @bot you’re missing out. It has replaced OpenClaw, Hermes, & my local model ($10K Mac Minis). Get a Comet Pro Remote KVM to let the bot access your Mac environment. I’m going to sell my Minis (for more than I paid) next week.\n\n\n\n\n\n— https://nitter.net/amuse/status/2089111464921501985#m",
-      "link": "https://nitter.net/elonmusk/status/2089148540039901185#m",
-      "date": "Mon, 17 Aug 2026 00:33:21 GMT"
-    },
-    {
-      "text": "Tesla Model Y was China’s #1 best-selling midsize SUV last month. 🇨🇳\n\n• 25,158 retail sales\n• #3 best-selling vehicle overall\n• 197,671 sold from January through July\n\nTesla China also recorded 93,579 wholesale sales, up 37.8% YoY.",
-      "link": "https://nitter.net/cb_doge/status/2088986855039811790#m",
-      "date": "Sun, 16 Aug 2026 13:50:52 GMT"
-    },
-    {
-      "text": "Intelligence/Joule will keep improving\n\n\nAmjad Masad (@amasad)\n\n18x improvement in intelligence per joule in 16 months.\n\n\n\n\n\n— https://nitter.net/amasad/status/2089069905375351169#m",
-      "link": "https://nitter.net/elonmusk/status/2089106964307460362#m",
-      "date": "Sun, 16 Aug 2026 21:48:08 GMT"
     }
   ]
 }
