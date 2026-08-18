@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-18T01:27:26Z",
+  "updated_at": "2026-08-18T03:48:39Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Create a full scene with Grok Imagine for a chance to win 👇\n\n\nGrok (@grok)\n\nHomer had a lyre. You have Grok Imagine.\n\nCreate a compelling scene from Homer’s The Odyssey that shows what Grok @Imagine’s video and voice capabilities can do. We’re awarding $100K, $50K, and $25K to the top three videos submitted by quoting this post. 🧵\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2089443401695470006#m",
+      "link": "https://nitter.net/imagine/status/2089461382051741919#m",
+      "date": "Mon, 17 Aug 2026 21:16:28 GMT"
+    },
     {
       "text": "1/2 the turns and 25% of the tokens. Task/Token is something to watch. \n\nIs Grok 4.6 inside Grok Bot? Has this been revealed yet? Have I missed it? I’ve been wondering what magic allows grok bot to just work so consistently.\n\n\nchangis_k (@changis_k)\n\nAgentic work is where @grok 4.6 lands hardest, taking the top spot on the Artificial Analysis Agentic Index at 59, tied with Claude Opus 5 Max.\n\nThe index measures tool use, planning, autonomy and complex problem solving rather than single answers\n\nGrok 4.6 completes tasks in ~53 turns and ~0.5bn input tokens on average, against ~103 turns and ~2.0bn for Claude Opus 5 Max\n\nCost of $0.84 per task, putting it on the intelligence versus cost per task Pareto frontier\n\nEnterprises buying agents pay per completed task, not per benchmark point. Turn efficiency is what determines whether a long-running workflow is affordable at volume.\n\nTwo labs now sit at the top of this index with very different cost structures. Buyers get real choice on price for the first time in agentic deployment.\n\n\n\n\n\n— https://nitter.net/changis_k/status/2089366682083225893#m",
       "link": "https://nitter.net/aaronburnett/status/2089461344332394994#m",
@@ -97,11 +102,6 @@
       "text": "Intelligence/Joule will keep improving\n\n\nAmjad Masad (@amasad)\n\n18x improvement in intelligence per joule in 16 months.\n\n\n\n\n\n— https://nitter.net/amasad/status/2089069905375351169#m",
       "link": "https://nitter.net/elonmusk/status/2089106964307460362#m",
       "date": "Sun, 16 Aug 2026 21:48:08 GMT"
-    },
-    {
-      "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship\n\nVideo",
-      "link": "https://nitter.net/SpaceX/status/2088808869728256385#m",
-      "date": "Sun, 16 Aug 2026 02:03:37 GMT"
     }
   ]
 }
