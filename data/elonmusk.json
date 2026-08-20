@@ -1,8 +1,13 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-19T21:29:08Z",
+  "updated_at": "2026-08-20T01:34:02Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls\n\nRelease Notes: v1.0.7\n\nFeatures:\n• Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable.\n• Permission prompts now show \"Always allow\" and \"Never allow\" options by default.\n• Users can now delete scheduled background loops directly from the tray.\n• Status line command scripts can now run on a timer via refresh_interval in config.toml.\n• Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project.\n• Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description.\n• New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs.\n• Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help.\n• Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab.\n\nBug Fixes:\n• MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers.\n• Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions.\n• Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions.\n• Subagents no longer receive the ask-user-question tool.\n• Bare email addresses are now turned into clickable mailto links in the pager.\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got a new update bringing a cleaner agent architecture, smoother prompt controls, a powerful new grok clone workflow, and major reliability improvements across sessions and tasks\n\nRelease Notes: v1.0.6\n\nBreaking Changes:\n• Subagent spawning no longer accepts capability_mode; tool access is now controlled only by agent type.\nFeatures:\n• Shift+arrow keys now extend text selections in the prompt like a standard text field.\n• Optional status line can now display live session info or script output at the bottom of the pager.\n• grok clone can now fetch a repo into a content store and mount a projected working tree.\n\nBug Fixes:\n• Fixed session startup hangs on large or unhealthy git repositories.\n• Queued messages during goals no longer starve, and editing queued prompts works reliably.\n• Consent notice on first launch now shows clickable links and handles keyboard/mouse correctly.\n• Ctrl+C then edit a prompt now correctly removes the original text from the conversation.\n• Double-clicking a terminal command result now shows the complete output instead of a preview.\n• Consent notice links are now stricter and more reliable on all terminals.\n• Video generation now surfaces a clear ZDR error instead of raw API responses when output storage is required.\n• Project hooks on Windows now correctly expand $CLAUDE_PROJECT_DIR when invoking PowerShell scripts.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2089806500114116987#m",
+      "link": "https://nitter.net/XFreeze/status/2090213954744463691#m",
+      "date": "Wed, 19 Aug 2026 23:06:55 GMT"
+    },
     {
       "text": "He committed serious crimes, as did Fauci\n\n\nSenator Rand Paul (@SenRandPaul)\n\nMorens ADMITS to concealing/destroying federal records surrounding COVID-19 and federal grants to avoid FOIA and the Federal Record Act.\n\n\n\n— https://nitter.net/SenRandPaul/status/2089812934004269346#m",
       "link": "https://nitter.net/elonmusk/status/2090154365365710911#m",
@@ -97,11 +102,6 @@
       "text": "They send you to prison for memes\n\n\nWhole Mars Catalog (@wholemars)\n\nthat is so European\n\n\n\n— https://nitter.net/wholemars/status/2090118262512304553#m",
       "link": "https://nitter.net/elonmusk/status/2090133112638570781#m",
       "date": "Wed, 19 Aug 2026 17:45:41 GMT"
-    },
-    {
-      "text": "Grok Voice\n\n\nX Freeze (@XFreeze)\n\nGrok Voice Think Fast 2.0 just beat GPT Realtime across both text and voice on VulcanBench\n\nAcross 200 held-out questions, Grok achieved an insane 99% accuracy in text while also delivering stronger performance when the same questions were spoken\n\nAnd the voice result is what makes this especially impressive\n\nGrok preserves almost all of that performance when moving from typed questions to spoken ones, while still completing the full response dramatically faster\n\nSo Grok is not just getting better at voice\n\nIt’s becoming a seriously powerful realtime reasoning model that can listen, think and respond incredibly fast\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2090128785421242822#m",
-      "link": "https://nitter.net/elonmusk/status/2090132472210358351#m",
-      "date": "Wed, 19 Aug 2026 17:43:08 GMT"
     }
   ]
 }
