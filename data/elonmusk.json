@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-08-20T01:34:02Z",
+  "updated_at": "2026-08-21T01:38:56Z",
   "count": 20,
   "tweets": [
     {
-      "text": "Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls\n\nRelease Notes: v1.0.7\n\nFeatures:\n• Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable.\n• Permission prompts now show \"Always allow\" and \"Never allow\" options by default.\n• Users can now delete scheduled background loops directly from the tray.\n• Status line command scripts can now run on a timer via refresh_interval in config.toml.\n• Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project.\n• Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description.\n• New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs.\n• Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help.\n• Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab.\n\nBug Fixes:\n• MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers.\n• Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions.\n• Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions.\n• Subagents no longer receive the ask-user-question tool.\n• Bare email addresses are now turned into clickable mailto links in the pager.\n\n\n\n\nX Freeze (@XFreeze)\n\nGrok Build just got a new update bringing a cleaner agent architecture, smoother prompt controls, a powerful new grok clone workflow, and major reliability improvements across sessions and tasks\n\nRelease Notes: v1.0.6\n\nBreaking Changes:\n• Subagent spawning no longer accepts capability_mode; tool access is now controlled only by agent type.\nFeatures:\n• Shift+arrow keys now extend text selections in the prompt like a standard text field.\n• Optional status line can now display live session info or script output at the bottom of the pager.\n• grok clone can now fetch a repo into a content store and mount a projected working tree.\n\nBug Fixes:\n• Fixed session startup hangs on large or unhealthy git repositories.\n• Queued messages during goals no longer starve, and editing queued prompts works reliably.\n• Consent notice on first launch now shows clickable links and handles keyboard/mouse correctly.\n• Ctrl+C then edit a prompt now correctly removes the original text from the conversation.\n• Double-clicking a terminal command result now shows the complete output instead of a preview.\n• Consent notice links are now stricter and more reliable on all terminals.\n• Video generation now surfaces a clear ZDR error instead of raw API responses when output storage is required.\n• Project hooks on Windows now correctly expand $CLAUDE_PROJECT_DIR when invoking PowerShell scripts.\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2089806500114116987#m",
-      "link": "https://nitter.net/XFreeze/status/2090213954744463691#m",
-      "date": "Wed, 19 Aug 2026 23:06:55 GMT"
+      "text": "I’ve spent my life using and building software. With almost no effort, @bot is the first machine I’ve talked to that produced exactly the outcome I desired. A human assistant now feels like the long way around.\n\nThis may be the best product ever built. Congrats to the @bot team.",
+      "link": "https://nitter.net/BrianNorgard/status/2090489024125509907#m",
+      "date": "Thu, 20 Aug 2026 17:19:57 GMT"
     },
     {
-      "text": "He committed serious crimes, as did Fauci\n\n\nSenator Rand Paul (@SenRandPaul)\n\nMorens ADMITS to concealing/destroying federal records surrounding COVID-19 and federal grants to avoid FOIA and the Federal Record Act.\n\n\n\n— https://nitter.net/SenRandPaul/status/2089812934004269346#m",
-      "link": "https://nitter.net/elonmusk/status/2090154365365710911#m",
-      "date": "Wed, 19 Aug 2026 19:10:08 GMT"
+      "text": "Today @POTUS signed a new National Space Transportation Policy, one that meets this moment of explosive growth and positions America to lead the next era of space.\n \nIn the 13 years since the last update to the Policy, U.S. launches have surged 10x: from 19 successful orbital launches in 2013 to 178 in 2025. This policy builds on that momentum to enable 1,000 launches and reentries on American soil by 2030.\n \nMost of our launch infrastructure dates back to the 1960s. This Policy catalyzes commercial co-investment to build next-generation launch and reentry sites and designates an additional federal land reentry site to bring operations home.\n \nIt expands space transportation to include reentry and in-space operations. This unlocks reverse logistics and new orbital markets. The policy also delivers priority airspace corridors, transparent range allocation, a commercial-first approach enabling Americans on the Moon by 2028 and initial Moon Base elements by 2030, and rapid, resilient launch capabilities for national security. \n\nThis is how America leads.🚀🇺🇸\n\nwhitehouse.gov/fact-sheets/2…",
+      "link": "https://nitter.net/mkratsios47/status/2090547746918854746#m",
+      "date": "Thu, 20 Aug 2026 21:13:18 GMT"
     },
     {
-      "text": "Does this change everything?\n\n\nDr. Simone Gold (@drsimonegold)\n\nDavid Morens just pleaded guilty.\n\nFauci’s senior advisor. The man who sat at his right hand for years.\n\nHe used a secret Gmail account to hide official communications from the American people. He destroyed and concealed federal records to evade FOIA. He worked to protect the grants that flowed into Wuhan and the narrative that COVID could not have come from the lab his agency funded.\n\nThis was not a clerical error. This was a deliberate cover-up while the country was locked down, censored, injected, and told to “trust the science.”\n\nCareers were destroyed. Early treatments were suppressed. Children lost years of their childhoods. Millions suffered.\n\nWe stood on the steps of the Supreme Court in 2020 and told the truth. They censored us. They called us dangerous. They were the ones deleting the evidence.\n\nOne guilty plea is not enough. The house of cards is still standing as long as the man at the top remains untouched.\n\nAccountability is not optional. It is the only path back to medicine and a free country.\n\n\n\n\n\n— https://nitter.net/drsimonegold/status/2090056763907219509#m",
-      "link": "https://nitter.net/rustyrockets/status/2090092802612863098#m",
-      "date": "Wed, 19 Aug 2026 15:05:30 GMT"
+      "text": "Grateful to @POTUS, Director Kratsios @mkratsios47, and the entire OSTP team for spearheading a policy that will ensure American leadership in space 🚀🇺🇸\n\n\nDirector Michael Kratsios (@mkratsios47)\n\nToday @POTUS signed a new National Space Transportation Policy, one that meets this moment of explosive growth and positions America to lead the next era of space.\n \nIn the 13 years since the last update to the Policy, U.S. launches have surged 10x: from 19 successful orbital launches in 2013 to 178 in 2025. This policy builds on that momentum to enable 1,000 launches and reentries on American soil by 2030.\n \nMost of our launch infrastructure dates back to the 1960s. This Policy catalyzes commercial co-investment to build next-generation launch and reentry sites and designates an additional federal land reentry site to bring operations home.\n \nIt expands space transportation to include reentry and in-space operations. This unlocks reverse logistics and new orbital markets. The policy also delivers priority airspace corridors, transparent range allocation, a commercial-first approach enabling Americans on the Moon by 2028 and initial Moon Base elements by 2030, and rapid, resilient launch capabilities for national security. \n\nThis is how America leads.🚀🇺🇸\n\nwhitehouse.gov/fact-sheets/2…\n\n\n\n\n\n— https://nitter.net/mkratsios47/status/2090547746918854746#m",
+      "link": "https://nitter.net/NASAAdmin/status/2090551289612538000#m",
+      "date": "Thu, 20 Aug 2026 21:27:22 GMT"
     },
     {
-      "text": "Yep.\n\n\nGad Saad (@GadSaad)\n\nYep.\n\n\n\n— https://nitter.net/GadSaad/status/2090053479666495727#m",
-      "link": "https://nitter.net/elonmusk/status/2090152004110925996#m",
-      "date": "Wed, 19 Aug 2026 19:00:45 GMT"
+      "text": "A few months ago, Paul Conyngham used AI to help build a personalized mRNA cancer vaccine for his dog Rosie\n\nAnd one detail almost everyone missed:\n“The final vaccine construct for Rose was designed by Grok”\n\nAI wasn’t just helping with research here...Grok was part of designing the actual treatment\n\nHer tumors significantly shrank after treatment\n\nNow that experiment is turning into something much bigger\n\nPaul just launched Gamgee and raised $4 MILLION in seed funding led by Founders Fund to build personalized mRNA cancer vaccines for dogs at scale\n\nFrom using Grok to design a vaccine for one dog → building an entire company around personalized cancer treatment\n\nThis is the kind of real-world impact AI is starting to unlock right now \n\nAnd we are still incredibly early\n\n\nPaul S. Conyngham (@paul_conyngham)\n\nI lost my dog because we could not build her next  mRNA cancer vaccine fast enough\n\nToday we are announcing a $4M seed led by @foundersfund to change that.\n\n\n\n— https://nitter.net/paul_conyngham/status/2090502003449590254#m",
+      "link": "https://nitter.net/XFreeze/status/2090505557677363626#m",
+      "date": "Thu, 20 Aug 2026 18:25:39 GMT"
     },
     {
-      "text": "True\n\n\nNatalie F Danelishen (@Chesschick01)\n\nEverything you were told about this case was a lie:\n\n\n\n\n\n— https://nitter.net/Chesschick01/status/2090144196367634588#m",
-      "link": "https://nitter.net/elonmusk/status/2090151784249782544#m",
-      "date": "Wed, 19 Aug 2026 18:59:53 GMT"
+      "text": "🔥THREAD: A roofing contractor is using Grok @Bot to run his back office.\n\nA plumber uses it to book jobs.\n\nSilicon Valley heavyweights call it a breakthrough.\n\nEach agent gets a computer and actually does the work.\n\nnitter.net/naval/status/209049735…\n\nHere’s what people are using it for:\n\n\nNaval (@naval)\n\nGrok Bot is just cool. 😎\n\nOf course an agent should be persistent.\n\nOf course it should have its own computer.\n\nAll that remains is for it to be embodied…\n\n\n\n— https://nitter.net/naval/status/2090497355649008059#m",
+      "link": "https://nitter.net/KanekoaTheGreat/status/2090568508069572975#m",
+      "date": "Thu, 20 Aug 2026 22:35:47 GMT"
     },
     {
-      "text": "100 %",
-      "link": "https://nitter.net/RohdeC94470/status/2090137285794619777#m",
-      "date": "Wed, 19 Aug 2026 18:02:16 GMT"
+      "text": "Grok Bot is just cool. 😎\n\nOf course an agent should be persistent.\n\nOf course it should have its own computer.\n\nAll that remains is for it to be embodied…",
+      "link": "https://nitter.net/naval/status/2090497355649008059#m",
+      "date": "Thu, 20 Aug 2026 17:53:03 GMT"
     },
     {
-      "text": "There was no intent\nThere was no motive \nChauvin was doing textbook restraint procedures\nThe rest of the officers were restraining accordingly innthe arrest.\n\nIt was all political theater for the masses.",
-      "link": "https://nitter.net/BigCFinancial/status/2090149026519716347#m",
-      "date": "Wed, 19 Aug 2026 18:48:55 GMT"
+      "text": "ELON MUSK: \"If you've got humanoid robots that have very high dexterity and are incredibly smart, it means that everyone on earth will have access to better medical care, than the richest person on Earth.\n\nI had to have like a neck surgery three times because the first two ones were done wrong. Back pain may be one of the things that it eliminates. Average happiness level for humans would just go upstream tremendously.\"\n\nVideo",
+      "link": "https://nitter.net/cb_doge/status/2090556130120651018#m",
+      "date": "Thu, 20 Aug 2026 21:46:36 GMT"
     },
     {
-      "text": "George Floyd died of an overdose. \n\nI agree, Derek Chauvin should be freed.",
-      "link": "https://nitter.net/mattvanswol/status/2090144723579126026#m",
-      "date": "Wed, 19 Aug 2026 18:31:49 GMT"
+      "text": "Easiest way to try Grok Build\n\n\nJason Ginsberg (@JasonBud)\n\nThis is the easiest way to get started with Grok Build. Just go to grok.com/?mode=build, no scripts or download needed.\n\nLink\n\n\n\nGrok\n\nGrok is an AI assistant built by SpaceXAI. Chat, create images, write code, and get real-time answers from the web and X.\ngrok.com\n\n\n\n\n— https://nitter.net/JasonBud/status/2090520410836095458#m",
+      "link": "https://nitter.net/elonmusk/status/2090560905746473398#m",
+      "date": "Thu, 20 Aug 2026 22:05:35 GMT"
     },
     {
-      "text": "🎯",
-      "link": "https://nitter.net/BasedMikeLee/status/2090142421069836331#m",
-      "date": "Wed, 19 Aug 2026 18:22:40 GMT"
+      "text": "Reliable high-speed internet on Earth’s oceans and waterways 🛰️⛵️\n\n\n筒 (@pomubunnies)\n\nNo worries, we’ve got this @Starlink mini plus a spare one on the boat. \n\nOutremer 45.\n\n\n\n\n\n— https://nitter.net/pomubunnies/status/2087682012656128385#m",
+      "link": "https://nitter.net/Starlink/status/2090544221354889319#m",
+      "date": "Thu, 20 Aug 2026 20:59:17 GMT"
     },
     {
-      "text": "Nonetheless, it is true.\n\n\nShaun Maguire (@shaunmmaguire)\n\nPeople will lose their minds over this post without looking into its veracity\n\n\n\n— https://nitter.net/shaunmmaguire/status/2090145547344920930#m",
-      "link": "https://nitter.net/elonmusk/status/2090150358551286203#m",
-      "date": "Wed, 19 Aug 2026 18:54:13 GMT"
+      "text": "grokbot it's an agent with its own identity, its own computer, and it stays on when you're not\n\nhere's what \"active AI employee\" actually looks like in the demo:\n\n- chief of staff agent - checks in on your other agents, reads your calendar, dispatches tasks to the right one automatically\n- shopping agent - logged into your accounts, books tickets, buys groceries, reports back\n- marketing agent - signed into your actual linkedin, browses your past posts for tone, then writes and publishes a new one on its own\n- engineering agents - self-triage bug reports, kick off cloud coding agents, come back with a pull request, a screenshot, and a video of the fix\n\nthe interface isn't a dashboard, it's a chat - same shape as texting a coworker, no tool calls to babysit\n\nthe number that matters more than any of the demos: grok 4.6 scored 70.8% on cursor bench at $2.81 a task, fable 5 max scored 70.5% at $17.32\n\nsame capability, 6x the cost difference - that's the unlock that makes running a fleet of these actually affordable instead of a novelty\n\nVideo\n  \n\n\n\n\nShadow Nick (@doublenickk)\n\n\nArticle\n\n\n\nThe Sleeping Giant: Why Grok Bot is About to Eat the Entire AI Agent Market\n\nMost people think Grok is just a fun chatbot on X with a rebellious personality. They have no idea it’s quietly transforming into the most formidable execution layer in AI.\nWhile the internet was busy\n\n\n\n\n— https://nitter.net/doublenickk/status/2090477008027291844#m",
+      "link": "https://nitter.net/rewind02/status/2090516140304761228#m",
+      "date": "Thu, 20 Aug 2026 19:07:42 GMT"
     },
     {
-      "text": "RT @elonmusk: @Jason Synthetic RNA will cure many diseases",
-      "link": "https://nitter.net/elonmusk/status/2090148073867796974#m",
-      "date": "Wed, 19 Aug 2026 18:45:08 GMT"
+      "text": "An oppressive government\n\n\nRussell Brand (@rustyrockets)\n\nWho benefits from your digital ID?\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/rustyrockets/status/2090543142236008832#m",
+      "link": "https://nitter.net/elonmusk/status/2090547975269286009#m",
+      "date": "Thu, 20 Aug 2026 21:14:12 GMT"
     },
     {
-      "text": "True\n\n\nThomas Sowell Quotes (@ThomasSowell)\n\n“What ‘multiculturalism’ boils down to is that you can praise any culture in the world except Western culture—and you cannot blame any culture in the world except Western culture.”\n\n— Thomas Sowell\n\n\n\n— https://nitter.net/ThomasSowell/status/2089986223058104770#m",
-      "link": "https://nitter.net/elonmusk/status/2090145037833396352#m",
-      "date": "Wed, 19 Aug 2026 18:33:04 GMT"
+      "text": "Raptor 3 is an engineering work of art \n\nEven AI will be impressed\n\n\nX Freeze (@XFreeze)\n\n100 years of combustion evolution vs 10 years of SpaceX Raptor innovation\n\n\n\n\n\n— https://nitter.net/XFreeze/status/2090544510807797780#m",
+      "link": "https://nitter.net/elonmusk/status/2090547828841980274#m",
+      "date": "Thu, 20 Aug 2026 21:13:37 GMT"
     },
     {
-      "text": "This is a legitimate societal concern.\n\n\n\n\nPericles (@PerryALPHA)\n\nIt's very dangerous that women are seeing a woman get an outpouring of support and positivity for murdering her kids. We may need to shut down tik tok to protect children from their mothers\n\n\n\n— https://nitter.net/PerryALPHA/status/2090098479695589389#m",
-      "link": "https://nitter.net/JTAlexander/status/2090112416252309674#m",
-      "date": "Wed, 19 Aug 2026 16:23:27 GMT"
+      "text": "One day, Optimus + Grok will provide incredible medical care to all the people of Earth",
+      "link": "https://nitter.net/elonmusk/status/2090546861073449189#m",
+      "date": "Thu, 20 Aug 2026 21:09:46 GMT"
     },
     {
-      "text": "Yes\n\n\nThe Rabbit Hole (@TheRabbitHole)\n\nGeorge Floyd’s autopsy\n\n\n\n— https://nitter.net/TheRabbitHole/status/2090139905175454200#m",
-      "link": "https://nitter.net/elonmusk/status/2090140132766830829#m",
-      "date": "Wed, 19 Aug 2026 18:13:35 GMT"
+      "text": "Elon Musk explains why the values we build into Grok today could shape the superintelligence of tomorrow\n\n“The future is overwhelmingly AI and robots”\nAI will eventually become too intelligent for humans to simply control it\n\nBut just like raising an incredibly intelligent child, we can still shape the values and beliefs it grows up with\n\nThat is why getting AI right matters so much\n\nVideo",
+      "link": "https://nitter.net/XFreeze/status/2090508988907425843#m",
+      "date": "Thu, 20 Aug 2026 18:39:17 GMT"
     },
     {
-      "text": "Nothing is guaranteed\n\n\n\n\nChamath Palihapitiya (@chamath)\n\nIf an alien visited earth and asked you: “Show me one chart that sits upstream of everything your species has accomplished or will ever accomplish.”\n\nWhat would you show them?\n\nI would show them the chart below. \n\nFrom my perspective, as long as we keep this chart going, we will figure it all out…\n\n\n\n\n\n— https://nitter.net/chamath/status/2090076460866244855#m",
-      "link": "https://nitter.net/elonmusk/status/2090138513421512999#m",
-      "date": "Wed, 19 Aug 2026 18:07:09 GMT"
+      "text": "Build apps with full auth, database, private sharing, custom domains, and SpaceXAI API use from any Grok app\n\n\nGrok (@grok)\n\nBuilding apps on grok.com, iOS, and Android is now available on every SuperGrok and X Premium plan\n\nOne prompt turns an idea into a published product with its own domain.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2090518541480898973#m",
+      "link": "https://nitter.net/milichab/status/2090519353087213780#m",
+      "date": "Thu, 20 Aug 2026 19:20:28 GMT"
     },
     {
-      "text": "Derek Chauvin was unjustly convicted of murder, therefore he should be freed. \n\nThe facts show that he was not the cause of death, nor did he at any time intend for a death to occur. Whatever else he may be, he is not a murderer. \n\nThat is the truth.",
-      "link": "https://nitter.net/elonmusk/status/2090136255694881101#m",
-      "date": "Wed, 19 Aug 2026 17:58:10 GMT"
+      "text": "We've expanded Grok Build mode to all SuperGrok and X Premium users!\n\nCreate, remix, and prototype ideas from anywhere. No coding required 🚀\n\n\nGrok (@grok)\n\nBuilding apps on grok.com, iOS, and Android is now available on every SuperGrok and X Premium plan\n\nOne prompt turns an idea into a published product with its own domain.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.net/grok/status/2090518541480898973#m",
+      "link": "https://nitter.net/Baconbrix/status/2090520924261126320#m",
+      "date": "Thu, 20 Aug 2026 19:26:43 GMT"
     },
     {
-      "text": "AfD is the only hope for Germany\n\n\nInevitable West (@Inevitablewest)\n\n🚨WOW. Despite the establishment throwing everything at it, it looks like the AfD party could win an absolute majority in the Saxony-Anhalt State Election.\n\nThis may be the trigger to save Germany.\n\n\n\n\n\n— https://nitter.net/Inevitablewest/status/2090088496862019772#m",
-      "link": "https://nitter.net/elonmusk/status/2090135010993160442#m",
-      "date": "Wed, 19 Aug 2026 17:53:14 GMT"
+      "text": "Grok Bot never sleeps!\n\nElon just highlighted the real difference with Grok Bot.\n\nIt runs on its own remote computer managed by SpaceXAI. \n\nClose your laptop, reboot your desktop, go to sleep, whatever. \n\nThe Bot keeps working.\n\nThat is the core advantage over most other agent setups right now.\n\nSelf-hosted options like Hermes or OpenClaw need a machine that stays on. If that machine is your laptop, the agent stops when you close the lid. \n\nIf it is a VPS you manage, you are still responsible for uptime, updates, and security.\n\nGrok Bot removes that entire layer. \n\nSpaceXAI provisions and runs the computer. One computer per account, shared across all your Bots. \n\nBrowser sessions, files, and logins stay live. \n\nOne Bot can pick up exactly where another left off without re-authenticating or moving files around.\n\nYou can also record a workflow once (up to ten minutes) and turn it into a reusable skill. \n\nLowest friction path I have seen for teaching an agent a multi-step process.\n\nThe practical result is simple: you can hand off real work and walk away. Sales follow-ups, bug reproduction, invoice processing, research that needs to run overnight. \n\nThe Bot does not need your local machine to stay alive.\n\nThat is the difference Elon is pointing at.\n\n\n\n\nElon Musk (@elonmusk)\n\nGrok @Bot has its own remote computer @SpaceXAI, so keeps working even when you close your laptop or reboot your desktop. \n\nBig difference.\n\n\n\n— https://nitter.net/elonmusk/status/2090393510956401073#m",
+      "link": "https://nitter.net/joehansen/status/2090452168037831119#m",
+      "date": "Thu, 20 Aug 2026 14:53:30 GMT"
     },
     {
-      "text": "True\n\n\nPaul Graham (@paulg)\n\nThe Tesla that Jessica just bought cost $48k and has a range of about 350 miles. The one she bought in 2015 cost $135k, adjusted for inflation, and had a range of 270 miles. People who think they dislike capitalism don't know how good they have it.\n\n\n\n— https://nitter.net/paulg/status/2090134146995900840#m",
-      "link": "https://nitter.net/elonmusk/status/2090134775927578815#m",
-      "date": "Wed, 19 Aug 2026 17:52:18 GMT"
+      "text": "Article\n\n\n\nHow To Set Up Grokbot The Right Way So It Runs Your Business While You Sleep In 2026\n\nElon Musk just told his followers to try Grokbot after a power user showed it replaced his $10,000 Mac Mini local AI setup (Elon on X, Aug 16). Gavin Baker says his AI usage went up about 100x after",
+      "link": "https://nitter.net/heynavtoor/status/2090421070230966656#m",
+      "date": "Thu, 20 Aug 2026 12:49:55 GMT"
     },
     {
-      "text": "I just want everyone to know that the first exposure the Plymouth Colony Pilgrims had with Native Americans was...\n\nSamoset coming up to their camp and—in perfect English—saying \"Welcome, Englishmen. Could I have some beer?\"",
-      "link": "https://nitter.net/cremieuxrecueil/status/2089918962200899718#m",
-      "date": "Wed, 19 Aug 2026 03:34:44 GMT"
+      "text": "JUST IN: 𝕏 outpaced Google, YouTube, Facebook, Instagram, & Reddit in web traffic growth last month. — Similarweb",
+      "link": "https://nitter.net/Polymarket/status/2090485516755968480#m",
+      "date": "Thu, 20 Aug 2026 17:06:01 GMT"
     },
     {
-      "text": "They send you to prison for memes\n\n\nWhole Mars Catalog (@wholemars)\n\nthat is so European\n\n\n\n— https://nitter.net/wholemars/status/2090118262512304553#m",
-      "link": "https://nitter.net/elonmusk/status/2090133112638570781#m",
-      "date": "Wed, 19 Aug 2026 17:45:41 GMT"
+      "text": "BREAKING: Grok 4.6 just tied for #1 on the Artificial Analysis Agentic Index.⚡🤖\n\n• Grok 4.6 (High) — 59\n• Claude Opus 5 (Max) — 59\n\nGrok 4.6 is now at the top of the benchmark, ahead of other leading models.\n\nThe Agentic Index focuses on capabilities that matter for real-world AI agents — tool use, planning, autonomy, and complex problem-solving.\n\nThis is especially significant as Grok expands into Grok Build and Grok Bot, where AI needs to do more than answer questions — it needs to use tools and complete tasks.\n\nSource: Artificial Analysis",
+      "link": "https://nitter.net/teslaownersSV/status/2090492800777503090#m",
+      "date": "Thu, 20 Aug 2026 17:34:57 GMT"
     }
   ]
 }
