@@ -1,8 +1,23 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-09-05T10:18:42Z",
+  "updated_at": "2026-09-07T03:54:22Z",
   "count": 18,
   "tweets": [
+    {
+      "text": "Slight delay finalizing our V7 web+mobile update that was initally launching today.\n\nMore details in quote below.\n\n\nTyler Corsair (@tylercorsair)\n\nA bit of an update for transparency, but @teslascope 's massive V7 update is expected to be delayed by about two weeks.\n\nMy wife was in the hospital for about a week recovering from surgery (specifics will be kept private), and now I find myself in the ER unable to walk.\n\n\n\n\n\n\n\n— http://nitter.jaydenha.uk/tylercorsair/status/2096794757330829315#m",
+      "link": "http://nitter.jaydenha.uk/teslascope/status/2096796133951766892#m",
+      "date": "Mon, 07 Sep 2026 03:02:09 GMT"
+    },
+    {
+      "text": "I’ve seen some comments about how the Cybercab can only support DC charging, which is only partially correct. The vehicle still charges via AC when wirelessly charging.\n\nAnother misconception continues to propagate that wireless charging for EVs is pointless or not viable.\n\nThat is patently false. Wireless charging already achieved speeds close to those of the Wall Charger many years ago, and Tesla’s acquisition of Wiferion was solely to acquire its technology and engineering team to advance its capabilities further.\n\nWith the same NEMA 14-50 outlet that powers the Wall Charger, you can expect 8-10kW and a fully charged Cybercab (0 -> 100%) in six hours, or 10 -> 80% (optimal battery) in four hours or less.\n\nWhen Cybercab is eventually sold to customers, you can expect zero barriers to ownership: wireless charging at home and NACS fast charging when out and about.",
+      "link": "http://nitter.jaydenha.uk/tylercorsair/status/2096664656035401741#m",
+      "date": "Sun, 06 Sep 2026 18:19:42 GMT"
+    },
+    {
+      "text": "Test driving this Model Y L and it’s on FSD v14.3.9 👀",
+      "link": "http://nitter.jaydenha.uk/Brand0n/status/2096356099977068973#m",
+      "date": "Sat, 05 Sep 2026 21:53:37 GMT"
+    },
     {
       "text": "A new Full Self-Driving build for AI4-equipped vehicles (initially in eligible regions) is expected to be released shortly, featuring new passive safety features.\n\n\nTesla AI (@Tesla_AI)\n\nFSD Supervised v14.3.9 starting to roll out shortly\n\nThis release includes a new active safety feature set: FSD Supervised can now activate on your behalf when an imminent collision is detected and Automatic Emergency Braking (AEB) may not be enough. \n\nIt may also engage if we detect you’re heavily distracted or have accidentally disengaged FSD\n\n\n\n— http://nitter.jaydenha.uk/Tesla_AI/status/2095767350070890688#m",
       "link": "http://nitter.jaydenha.uk/teslascope/status/2095772948766609740#m",
@@ -77,21 +92,6 @@
       "text": "The following feature is included: FSD (Supervised) \n\nteslascope.com/software/2026…",
       "link": "http://nitter.jaydenha.uk/teslascope/status/2094902888539525403#m",
       "date": "Tue, 01 Sep 2026 21:39:04 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.26.6.5 is now rolling out to ~8,580 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.8 for eligible AI4 vehicles and V14.1 for eligible HW3 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.26.6.5 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.26.6.5 (FSD V14.1/V14.3.8) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.26.6.5.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2092422465150427288#m",
-      "link": "http://nitter.jaydenha.uk/teslascope/status/2094888264029134959#m",
-      "date": "Tue, 01 Sep 2026 20:40:57 GMT"
-    },
-    {
-      "text": "The Summer Update with FSD v14.1 Lite is rolling out to more vehicles. \n\nGetting it now on our 2019 Model 3.\n\n\n\n\n\n\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.26.6.5 is now rolling out to ~13,530 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.8 for eligible AI4 vehicles and V14.1 for eligible HW3 vehicles.\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2094271472063648171#m",
-      "link": "http://nitter.jaydenha.uk/DriveTeslaca/status/2094280014435160212#m",
-      "date": "Mon, 31 Aug 2026 04:23:59 GMT"
-    },
-    {
-      "text": "2026.26.6.5 software update rolling out to more vehicles @teslascope",
-      "link": "http://nitter.jaydenha.uk/RealTeslaNorth/status/2094289337319882856#m",
-      "date": "Mon, 31 Aug 2026 05:01:02 GMT"
     }
   ]
 }
