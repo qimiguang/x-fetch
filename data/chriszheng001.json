@@ -1,8 +1,13 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-09-08T23:18:54Z",
+  "updated_at": "2026-09-09T04:03:06Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
+      "link": "http://nitter.jaydenha.uk/hilbertspaess/status/2097476196791709843#m",
+      "date": "Wed, 09 Sep 2026 00:04:29 GMT"
+    },
     {
       "text": "有趣的发现，我之前没看到过。\n\n\nOz Tesla Guy 🇦🇺 (@OzTeslaGuy)\n\nI was just watching @herbertong’s lates video with @thejefflutz talking about the Cybercab rollout. Jeff mentioned how Cybercab seems to have started anticipating. A number of us in Aus have started noticing this as well. My videos below shows a number of example that demonstrates FSD anticipating traffic light sequences (even one of it anticipating too early but catching itself). I’m interested to know if FSD users in the US have started to notice this too? @herbertong @thejefflutz @DirtyTesLa @AIDRIVR @wholemars @SawyerMerritt\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/OzTeslaGuy/status/2097104509294333981#m",
       "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2097267536652108202#m",
@@ -97,11 +102,6 @@
       "text": "续航会完全崩溃。空气动力学优先是特斯拉所有产品的最高优原则，包括 Cybertruck 和 CyberCab，如果是这个造型，需要的电池和对应的售价都会高得多。\n\n\nTrent Tullis (@TrentTullis)\n\nHere’s what the Model Y L should have looked like.\n\n\n\n\n\n— http://nitter.jaydenha.uk/TrentTullis/status/2076678154241106370#m",
       "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2090718543595872298#m",
       "date": "Fri, 21 Aug 2026 08:31:59 GMT"
-    },
-    {
-      "text": "前两天有个岚图追光 S 360 度隧道穿越，其实最后是成功了的。当然在挑战过程中有出现过失败操作，但最终验证了整车的能力是可以支持这样的极限驾驶操作的。\n\n我看 X 上很多人只发了失败的视频，成功视频没人发了，这么着不好，还是应该实事求是，把真相传递出来。\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2089668827772756379#m",
-      "date": "Tue, 18 Aug 2026 11:00:47 GMT"
     }
   ]
 }
