@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-09-11T03:58:04Z",
+  "updated_at": "2026-09-11T20:45:39Z",
   "count": 20,
   "tweets": [
     {
-      "text": "Grok @Bot summary of SpaceX CFO talk\n\n\nDogeDesigner (@cb_doge)\n\nGrok Bot Summary of SpaceX CFO Bret Johnsen at Goldman Sachs Communacopia today.\n\nVertical integration\nVertical integration is the company’s core operating model, not a side strategy.\n- Rockets: own metal → engines → avionics → software\n- Starlink: own launch, satellites, and the end customer\n- AI: build facilities and power themselves, run their own models, sell to consumer and enterprise, and soon orbital compute\n\nStarship and launch\nStarship is the foundation for every other business.\n- Flight 13: big learning flight. Delivered demo V3 payloads, relit a Raptor, and got a soft, precise second-stage splashdown. Recovery team towed the stage back so engineers could study the heat shield.\n- Those learnings feed straight into Flight 14 and beyond.\n- Flight 14 (later this month): first revenue-generating Starship flight, flying production V3 Starlink satellites.\n- Later this year: aim to recover both first and second stages.\n\nOrbital compute\nMost of the AI industry agrees orbital compute is the future. Almost everyone else thinks it’s many years away. SpaceX disagrees because they control the stack.\n- Target: first orbital compute satellites next year\n- Scale: big compute in space into 2028\n- Hardware approach: same V3 bus as Starlink, swap the payload, add larger solar arrays\n\nWhy orbital can beat terrestrial on cost\nThe crossover is about Starship reusability.\n- Falcon 9: first-stage reuse since Dec 2015; 500+ booster reflights\n- Starship: first stage already recovered/reflown; second-stage recovery progressing\n- Goal: reflight of both stages as soon as next year, which drops deployment cost sharply\n\nTerrestrial compute is getting more expensive (power, cooling, buildings, real estate). Orbital rides the opposite curve: cheaper rockets + better/cheaper satellites + scale. Johnsen said cost parity could come as soon as next year.\n\nTerrestrial compute and the $100B ARR goal\n- End of this year: on track for ~$100B ARR (annualizing the December number)\n- New update: another hosting deal closed earlier this month → about $1.1B/month starting Dec 1 → roughly +$13B ARR\n- Capacity: end this year well over 2 GW; next year 5–10 GW deployed\n- Confidence comes from line of sight to power, facilities, and permitting, plus being NVIDIA-exclusive for allocation\n- They stand compute up fast for themselves and for industry partners, which strengthens the NVIDIA relationship\n\nHow they monetize compute\nMost hosting deals are short: ~90 days with a 90-day out (~6-month commits), including the newest deal.\nWhy keep them short?\n- High conviction in their own products (Grok, Grok Bot, Cursor team after closing that deal)\n- Don’t want to lock forever capacity they may need internally\n- Internal bar: don’t let internal monetization fall below external hosting\n\nEarnings framing for next year: roughly $30–$50 per watt monetization range; they said they’re at the high end. Hosting customers appear to monetize even higher, which is why demand stays strong.\n\nPayback is under one year on new compute capex, so residual GPU value and financing options look attractive. “Not all CapEx is the same” — GPUs with <1-year payback are different from a launch tower built for decades.\n\nAI products and M&A\nHistorically SpaceX was almost all organic growth. This year they did M&A because the AI product cycle rewards speed to frontier.\n- Closed Cursor deal weeks ago; product cycles already accelerating (called out Grok Bot)\n- Grok 4.6 improved on 4.5; 4.7 coming soon\n- Pitch: best infrastructure + competitive model + lower token cost = best position for customers\n- Market mood shift: months ago people bought the infra story but doubted the products; ~90 days later that skepticism is fading\n\nStarlink broadband\nStarted as “better than nothing” (~2020–21). Now enterprise-grade with strong uptime/SLAs.\n- Resiliency pitch: boards will ask why Starlink wasn’t in the network if you go down\n- Mobility: aircraft backlog is large and production is ramping; cruise ships, yachts, trains too\n- Awareness, especially outside the US, is still a growth unlock\n- Longer-term: physical AI (robots, cars, aircraft) will need always-on connectivity terrestrial networks can’t fully cover\n\nMobile / direct-to-cell\nNot a distraction. Same V3 bus, different payload.\n- Fly direct-to-device satellites through next year\n- Target service turn-on: first half of 2028\n- V1 today (e.g. T-Mobile / T-SAT): text / light voice, great for emergencies and dead zones\n- Next gen: full 5G-quality from space\n- US: mid-band spectrum from EchoStar, FCC path for space + terrestrial\n- Go-to-market: flexible — own terrestrial build, or partner with carriers\n- International: same regulator-by-regulator playbook as broadband (Starlink now in 170+ countries)\n\nNear-term priorities:\n1. Starship (enables everything else)\n2. Terrestrial compute (funds growth and teaches them how to do orbital)\n\nBottom line in one line\nOwn the full stack, make Starship reusable at scale, use terrestrial AI compute as a cash engine now, and use the same satellite bus + Starship cadence to win broadband, mobile, and orbital AI.\n\n\n\n\n\n— http://nitter.jaydenha.uk/cb_doge/status/2098159970948903091#m",
-      "link": "http://nitter.jaydenha.uk/elonmusk/status/2098217236771295567#m",
-      "date": "Fri, 11 Sep 2026 01:09:06 GMT"
+      "text": "All systems are looking good, and weather is 70% favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-153 mission from California → spacex.com/launches/ussf153",
+      "link": "https://nitter.kareem.one/SpaceX/status/2098061579480600871#m",
+      "date": "Thu, 10 Sep 2026 14:50:35 GMT"
     },
     {
-      "text": "New pod with @SawyerMerritt diving into the Tesla Cybercab: What we loved, what can improve, our FSD experiences, and what's next for @robotaxi.\n\nWatch the full conversation here on X or listen to The Kevin O'Connor Show on your favorite podcast app.\n\nVideo",
-      "link": "http://nitter.jaydenha.uk/KevinOConnor/status/2098148756902355336#m",
-      "date": "Thu, 10 Sep 2026 20:37:00 GMT"
+      "text": "Insanity.\n\nThis needs more attention.\n\n\nPolymarket (@Polymarket)\n\nJUST IN: Report reveals at least 62,199 people were arrested in Britain for “speech-related offenses” between 2021 & 2025.\n\n\n\n— https://nitter.kareem.one/Polymarket/status/2098459855358972096#m",
+      "link": "https://nitter.kareem.one/rustyrockets/status/2098466774282805575#m",
+      "date": "Fri, 11 Sep 2026 17:40:41 GMT"
     },
     {
-      "text": "Next week, the SpaceXAI team will build a company from the ground and livestream it.\n\n“We'll use Grok Bot for every part of the build - from ideation and product development to real engineering work and deployment.”",
-      "link": "http://nitter.jaydenha.uk/SawyerMerritt/status/2098169457914847277#m",
-      "date": "Thu, 10 Sep 2026 21:59:15 GMT"
+      "text": "Technology is the most important advantage in war\n\n\nJohn Carmack (@ID_AA_Carmack)\n\nI recently went through a translation of Musashi’s Book of Five Rings.\n\nThe introduction chronicled the evolution of swordsmanship and martial arts in general from pragmatic battlefield necessities to sports, historical curiosities, and hobbies. It was interesting to hear how in the post-WW2 occupation when martial arts were banned, Judo was represented as equivalent to western wrestling, and Kendo later to western fencing.\n\nThe poignant undercurrent for me is that I can see many programming skills following that path.\n\nThere are probably dozens of people reading this that remember hand assembling opcodes to hex and still have some magic numbers burned into their memory, but even the small group of people still programming in assembly today (hey, @FFmpeg !) don’t work at that primitive level now.\n\nAI is making many other programming skills much less critical. We aren’t there yet, but carefully writing code completely by hand is moving from a -jitsu to a -do. Code-do? Codo?\n\nThat’s ok! The retro computing scene is delightful, full of people building and exercising old skills for the love of it.\n\nBut don’t be the out of touch Kung Fu master, heir to lifetimes of tradition, that gets mauled by an amateur MMA fighter.\n\nMusashi would probably have been pretty enthusiastic about assault rifles.\n\n\n\n— https://nitter.kareem.one/ID_AA_Carmack/status/2098443262214230095#m",
+      "link": "https://nitter.kareem.one/elonmusk/status/2098460032014639334#m",
+      "date": "Fri, 11 Sep 2026 17:13:53 GMT"
     },
     {
-      "text": "The @SpaceXAI team just gave me 50 free Grok @bot codes to give out which will give each person either $200 in on-demand usage or an Ultra plan.\n\nSo the first 50 people in my replies that agree Cybercab should have a steering wheel will win.\n\nGo.",
-      "link": "http://nitter.jaydenha.uk/farzyness/status/2098149586183270842#m",
-      "date": "Thu, 10 Sep 2026 20:40:17 GMT"
+      "text": "Elon is a builder \nElon is a giver \nElon is a gift \nElon is a Hero\n\n\nBrivael Le Pogam (@brivael)\n\nIl a prouvé qu’on pouvait envoyer des fusées sans Gosplan. Construire des voitures sans la bénédiction de Detroit. Relier un village, un front ou un hôpital depuis l’orbite, sans demander l’autorisation d’un ministère. Il a racheté la place publique et arraché le monopole de ceux qui décidaient qui avait le droit de parler.\n\n\n\n— https://nitter.kareem.one/brivael/status/2098327035277959482#m",
+      "link": "https://nitter.kareem.one/TheCaptainEli/status/2098359515162837359#m",
+      "date": "Fri, 11 Sep 2026 10:34:28 GMT"
     },
     {
-      "text": "RT @barisakis: Privileged to be a major investor in @boringcompany Series D and to have helped scale the team for 5 years.\n\nVegas Loop prov…",
-      "link": "http://nitter.jaydenha.uk/elonmusk/status/2098115472713769082#m",
-      "date": "Thu, 10 Sep 2026 18:24:44 GMT"
+      "text": "True, solar energy over time will round up to 100% of energy harnessed (obviously)\n\n\nMax (@MdeZegher)\n\nOn Labor Day, the charging peak load was 116 cars plugged in at once, at 11.4 MW. \n \nAll electrical loads will eventually transition to solar + storage. The giant fusion reactor in the sky is free.\n\n\n\n— https://nitter.kareem.one/MdeZegher/status/2098443492351676505#m",
+      "link": "https://nitter.kareem.one/elonmusk/status/2098457990407880886#m",
+      "date": "Fri, 11 Sep 2026 17:05:47 GMT"
     },
     {
-      "text": "⚫   Can you dig it?\nYes, yes, you can solve soul-deadening traffic by going 3D.\n\nToday: Boring raised a heavily oversubscribed $3B at a $23B valuation, and closed a new 150km overseas project. \n\nBelow, how it started… the four largest TBM incumbents were founded in the 1800’s.\n\n\n\n\n\n\nSteve Jurvetson (@FutureJurvetson)\n\nReinventing Boring.\n\nI have been fascinated my the latent potential for a 10-100x improvement in neglected and formerly unattractive industrial businesses that lacked a new entrant for decades (e.g., aerospace, automotive & construction).\n\nI be looking for more in the Future :)\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.jaydenha.uk/FutureJurvetson/status/1074094212709212160#m",
-      "link": "http://nitter.jaydenha.uk/FutureJurvetson/status/2098067052359749703#m",
-      "date": "Thu, 10 Sep 2026 15:12:20 GMT"
+      "text": "Wow, this is crazy\n\n\nzerohedge (@zerohedge)\n\nMore Than 62,000 Arrested For Speech-Related Offenses In Britain, Report Finds zerohedge.com/political/more…\n\nLink\n\n\n\nMore Than 62,000 Arrested For Speech-Related Offenses In Britain, Report Finds\n\n...roughly 34 arrests per day.\nzerohedge.com\n\n\n\n\n— https://nitter.kareem.one/zerohedge/status/2098377294091780500#m",
+      "link": "https://nitter.kareem.one/elonmusk/status/2098457680482308526#m",
+      "date": "Fri, 11 Sep 2026 17:04:33 GMT"
     },
     {
-      "text": "Last day in Texas & Starbase @SpaceX. The vibe here is so contagious. So much being build. The next few years are gonna be insane & we’re alive to witness it all 🚀\n\nNext stop Anaheim BlizzCon 💯 @AnnacakeLive @CosyDs92285 #blizzcon",
-      "link": "http://nitter.jaydenha.uk/rob2628/status/2098088965773336641#m",
-      "date": "Thu, 10 Sep 2026 16:39:24 GMT"
+      "text": "I just sat in a car with nothing in front of me.\nNo steering wheel. No pedals. No mirrors.\nSpotless. Drove better than any human.\nHouston, you’re next.\nThank you @Tesla @elonmusk @robotaxi\n\nVideo",
+      "link": "https://nitter.kareem.one/Matthewtcone/status/2098223218708344874#m",
+      "date": "Fri, 11 Sep 2026 01:32:53 GMT"
     },
     {
-      "text": "Here’s to every era, every evil, and every one of you. 🔥\n\nFrom our inner demons to yours, Happy 30th Anniversary.\n\nVideo",
-      "link": "http://nitter.jaydenha.uk/Diablo/status/2097746977568026629#m",
-      "date": "Wed, 09 Sep 2026 18:00:28 GMT"
+      "text": "Steve Davis @boringcompany \n\n\"If you want to build thousands of miles, which we do, and the cost for tunneling is high — it's impossible. If we're in the billions per mile… it's just not even worth speaking about. But if we're like three, four, five million a mile, you can literally build these like epic projects.\"\n\nBillions per mile = don't bother.\n$3–5 million a mile = you can actually build cities.\n\nThat's why Series D at ~$23B matters.\n\nVideo",
+      "link": "https://nitter.kareem.one/teslaownersSV/status/2098281019023700325#m",
+      "date": "Fri, 11 Sep 2026 05:22:33 GMT"
     },
     {
-      "text": "Tesla self-driving is awesome\n\n\nWill Chamberlain (@willchamberlain)\n\nI bought a Tesla in July and have basically retired from driving. \n\nIf you can afford to you should too. It’s the most dangerous thing you do every day and Tesla’s robots are better at it.\n\n\n\n\n\n— http://nitter.jaydenha.uk/willchamberlain/status/2098051199345832037#m",
-      "link": "http://nitter.jaydenha.uk/elonmusk/status/2098052817391092113#m",
-      "date": "Thu, 10 Sep 2026 14:15:46 GMT"
+      "text": "Semi is coming to Europe\n\n– Up to 550km of range at 40T (fully loaded)\n– 1 kWh/km energy consumption\n– Megacharger at up to 800 kW recovers ~60% of range in 30 minutes\n– ePTO up to 25kW\n– 40T gross combination weight, 9,100kg curb weight\n\ntesla.com/de_de/semi",
+      "link": "https://nitter.kareem.one/teslaeurope/status/2098429681607307452#m",
+      "date": "Fri, 11 Sep 2026 15:13:17 GMT"
     },
     {
-      "text": "The Tesla Cybercab’s rear trunk is huge. It fit our two full-size suitcases and two bags with plenty of room to spare and is very easy to load and unload. \n\nIt has 20.2 cu ft of storage, which is just shy of a Model 3 (21 cu ft), but is waaay easier to fit larger items since it’s a hatchback, so it actually feels bigger.\n\nVideo",
-      "link": "http://nitter.jaydenha.uk/niccruzpatane/status/2097675510180368665#m",
-      "date": "Wed, 09 Sep 2026 13:16:29 GMT"
+      "text": "BBC: “There is so much hate on your platform”\n\nElon: “What hate?”\n\nBBC: “There’s just a lot of hate”\n\nElon: “What kind of hate?”\n\nBBC: “Well...I see a lot of hate”\n\nElon: “Can you give me an example?”\n\nBBC: “There’s definitely hate”\n\nElon: “So your evidence is basically that you personally feel like there is hate?”\n\nBBC: “ohhh....but there’s a lot of it”\n\nElon: “How much?”\n\nBBC: “A lot”\n\nElon: “Compared to what?”\n\nBBC: “Well...before”\n\nElon: “Before what?”\n\nBBC: “Before there was this much hate”\n\nElon: “Do you have data?”\n\nBBC: “I have concerns”\n\nElon: “Do you have examples?”\n\nBBC: “I have observations”\n\nElon: “Do you have numbers?”\n\nBBC: “People are worried”\n\nElon: “Which people?”\n\nBBC: “People”\n\nElon: “So basically...you arrived with a headline and forgot to bring the evidence?” \n\nBasically the entire BBC interview 😂\n\nElon absolutely slaughters BBC reporter in live interview\n\n\nX Freeze (@XFreeze)\n\nthat random guy: “There’s way too much hate on this platform”\n\nHis interests:\n• Hating Elon\n• Liking people who hate Elon\n• Reposting people who hate Elon\n• Getting angry when Elon breathes\n\nBrother, you are the algorithm 😂\n\n\n\n— https://nitter.kareem.one/XFreeze/status/2098303227578261512#m",
+      "link": "https://nitter.kareem.one/XFreeze/status/2098385527808668040#m",
+      "date": "Fri, 11 Sep 2026 12:17:50 GMT"
     },
     {
-      "text": "Looking back, Full Self-Driving has faced the same relentless fear tactics.\n\nIt feels little different from the AI panic being stoked today—often by nearly the same voices. The lives being saved, however, is enormous.\n\nFor years we have held this conviction, quietly improving the products. Not for fortune or fame, but so the people we love can arrive home safely.",
-      "link": "http://nitter.jaydenha.uk/yunta_tsai/status/2098046851585036788#m",
-      "date": "Thu, 10 Sep 2026 13:52:03 GMT"
+      "text": "Grok Bot is already helping Neuralink patient Bradford G. Smith get real work done\n\nBrad has ALS, is nonverbal and has extremely limited voluntary movement\n\nWith Neuralink, he can type and control his computer using his thoughts\n\nThen Grok Bot takes it even further:\n\n• Watches YouTube links\n• Understands the content\n• Drafts 𝕏 and Facebook posts in Brad’s own voice\n• Waits for his approval\n• Publishes to 𝕏\n• Retries when something fails\n• Keeps recurring posts running automatically\n\nBrad still makes the decisions\n\nNeuralink turns intention into input.\nGrok Bot turns that input into action\n\nThis combination is insanely powerful\n\nAI + Neuralink is already showing what it looks like when technology gives people more independence and the ability to get things done again\n\n\nBradford G Smith (Brad) (@ALScyborg)\n\nI use Grok Bot.\n\nNeuralink patient 3. ALS. Full quad. Nonverbal. I type with intention, not hands. Grok Bot is how a lot of that intention leaves the house.\n\nPaste a YouTube link and it watches enough to know who is in it, drafts two longer promo posts — X and Facebook — in my voice. No hashtags. X gets verified @ tags later in the body, never leading. Facebook names people in plain text. It shows both drafts and waits. I say yes. It posts X as @ALScyborg from a signed-in session. Facebook goes on my Mac clipboard when that path is blocked. I still approve every public post. Judgment stays mine.\n\nIt also owns the Tuesday Holy War day-count. Days since Utah last beat BYU. Trash talk. Tags. Sometimes an image. Auto-post at 5:21pm Phoenix time. If X is down or suspended, it tells me and pauses. No silent failures.\n\nThis is not “AI wrote a cute caption.” This is an assistant that drafts, waits, posts, retries Unsent drafts when the Post button hangs, and keeps a standing ritual alive while I am busy living.\n\nThe bottleneck used to be hands. Now it is judgment — and I still own that. If you are waiting for permission to let software carry weight, the weight is already moving.\n\n\n\n— https://nitter.kareem.one/ALScyborg/status/2098136982153023724#m",
+      "link": "https://nitter.kareem.one/XFreeze/status/2098139702771732697#m",
+      "date": "Thu, 10 Sep 2026 20:01:01 GMT"
     },
     {
-      "text": "Fact check: true\n\n\nAdam Townsend (@adamscrabble)\n\nTesla is by far the best car on the market. FSD will change your life\n\n\n\n— http://nitter.jaydenha.uk/adamscrabble/status/2097799877283442734#m",
-      "link": "http://nitter.jaydenha.uk/willchamberlain/status/2097816145017340054#m",
-      "date": "Wed, 09 Sep 2026 22:35:19 GMT"
+      "text": "Falcon 9 launches USSF-153 to orbit from pad 4E in California",
+      "link": "https://nitter.kareem.one/SpaceX/status/2098154822868320479#m",
+      "date": "Thu, 10 Sep 2026 21:01:06 GMT"
     },
     {
-      "text": "True 😂\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nIf you want to solve AI alignment issues, train a model to take you from home to the office and back with no pedals or steering. You will solve it really quickly.\n\n\n\n— http://nitter.jaydenha.uk/yunta_tsai/status/2097712995682181242#m",
-      "link": "http://nitter.jaydenha.uk/elonmusk/status/2098043646037950756#m",
-      "date": "Thu, 10 Sep 2026 13:39:19 GMT"
+      "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship\n\nVideo",
+      "link": "https://nitter.kareem.one/SpaceX/status/2098077243050193346#m",
+      "date": "Thu, 10 Sep 2026 15:52:49 GMT"
     },
     {
-      "text": "Starlink has significantly transformed the world. Millions of people who previously had no even hope of ever accessing the internet are now connected. Starlink is one of the greatest achievements for all of humanity, made possible by Elon Musk and SpaceX. Thank you!\n\n“Starlink has done more than any NGO to lift people out of poverty by connecting them with a means of education and a market for their goods & services via the Internet.”\n\nElon Musk\n\n\nElon Musk (@elonmusk)\n\nWith an Internet connection, you can learn anything and sell your products to a global market, which enables prosperity\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2097688004081119494#m",
-      "link": "http://nitter.jaydenha.uk/EvaFox/status/2098012534011740165#m",
-      "date": "Thu, 10 Sep 2026 11:35:41 GMT"
+      "text": "Giving Grok Bot a Phone\n\n00:19 Installing Dialbot\n00:54 Bland voice setup\n02:39 Why use a calling agent?\n03:20 Live demo call\n04:50 Reviewing the transcript and cost\n05:38 Chaining bots\n\n@Bot can do anything you can - this is one way to make calls\n\nVideo",
+      "link": "https://nitter.kareem.one/mattyp/status/2098155792327381294#m",
+      "date": "Thu, 10 Sep 2026 21:04:57 GMT"
     },
     {
-      "text": "Grok @Bot\n\n\nGrok Bot (@bot)\n\nSome recent quality-of-life improvements to Grok Bot.\n\nYou can ask your Bot to draft messages inline for you to approve before sending.\n\n\n\n\n\n— http://nitter.jaydenha.uk/bot/status/2097759948189106686#m",
-      "link": "http://nitter.jaydenha.uk/elonmusk/status/2098038952284586282#m",
-      "date": "Thu, 10 Sep 2026 13:20:40 GMT"
+      "text": "Watch live as SpaceX CFO @BretWJ speaks at the Goldman Sachs Communacopia and Technology Conference → ir.spacex.com/events/default…",
+      "link": "https://nitter.kareem.one/SpaceX/status/2098130338413183215#m",
+      "date": "Thu, 10 Sep 2026 19:23:48 GMT"
     },
     {
-      "text": "Here is what Starships mass-to-orbit will be doing on the same timescale as these missions, under some pretty conservative assumptions. SpaceX own plans are even more aggressive.\n\nI fear the European plans are not nearly ambitious enough. We need to go further. \n\nRead my analysis: planetocracy.org/p/mass-valu…\n\n\n\n\nThe Europeans (@TheEuropeansHQ)\n\nMacron, at 🇫🇷 Paris Space Summit, just put dates on Europe’s space ambition:\n\n🚀 2028: 🇪🇺 Nyx cargo capsule docking with the ISS\n🌕 2031: 🇪🇺 Argonaut lunar lander on the Moon\n👨‍🚀 2036: 🇪🇺 European crewed capsule launching from Kourou\n\nThe goal would be to build Europe’s own end-to-end human spaceflight capability.\n\nExtremely ambitious. As it should be.\n\n\n\n\n\n— http://nitter.jaydenha.uk/TheEuropeansHQ/status/2098005868188926338#m",
-      "link": "http://nitter.jaydenha.uk/peterrhague/status/2098033814698111453#m",
-      "date": "Thu, 10 Sep 2026 13:00:15 GMT"
+      "text": "SpaceX CFO speaks at GS Tech Comf\n\n\nGoldman Sachs (@GoldmanSachs)\n\nWATCH: @SpaceX CFO Bret Johnsen speaks at the Goldman Sachs Communacopia + Technology Conference: nitter.kareem.one/i/broadcasts/1qxoNYEga…\n\nLink\n\n\n\nGoldman Sachs\n\nWATCH: @SpaceX CFO Bret Johnsen speaks at the Goldman Sachs Communacopia + Technology Conference.\nhttps://nitter.kareem.one/i/broadcasts/1qxoNYEgaeEJv\n\n\n\n\n— https://nitter.kareem.one/GoldmanSachs/status/2098130490070835265#m",
+      "link": "https://nitter.kareem.one/elonmusk/status/2098331769892130941#m",
+      "date": "Fri, 11 Sep 2026 08:44:13 GMT"
     },
     {
-      "text": "We are living in a fake world and Elon is turning on the light.",
-      "link": "http://nitter.jaydenha.uk/brivael/status/2097959730723344727#m",
-      "date": "Thu, 10 Sep 2026 08:05:52 GMT"
+      "text": "Most efficient production EV ever\n\nThat efficiency is what will make Cybercab one of the lowest cost-per-mile modes of transport\n\n\nNic Cruz Patane (@niccruzpatane)\n\nThe @Tesla Cybercab has a wider front track than the rear. The teardrop shape is how Tesla achieved a drag coefficient under 0.2.\n\nIt's the most efficient production EV ever certified, at 165 Wh/mi, and the first Tesla that's front-wheel drive.\n\nSeeing it in person is incredible.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/niccruzpatane/status/2097819496509485065#m",
+      "link": "https://nitter.kareem.one/robotaxi/status/2098245744952332779#m",
+      "date": "Fri, 11 Sep 2026 03:02:23 GMT"
     },
     {
-      "text": "Grok filed an irs form for me to keep me qualified for some refund of penalties if a lawsuit is settled this year…. Idk I didn’t understand but grok found the form, told me how to fill it out and efile it in about ten minutes. Would have taken half a dozen calls with my tax prep and accountant to sort out.",
-      "link": "http://nitter.jaydenha.uk/LOVtheCOV/status/2097928969370710467#m",
-      "date": "Thu, 10 Sep 2026 06:03:38 GMT"
+      "text": "Um…why?\n\n\nPolymarket (@Polymarket)\n\nJUST IN: Denver sues to block armed ICE agents from serving immigration warrants at polling locations.\n\n\n\n— https://nitter.kareem.one/Polymarket/status/2098025660765594097#m",
+      "link": "https://nitter.kareem.one/spencerpratt/status/2098141674606149662#m",
+      "date": "Thu, 10 Sep 2026 20:08:51 GMT"
     },
     {
-      "text": "Something is happening in the Swedish election.\n\nWith less than 1 week to go, the right-wing block is catching up.\n\nJust months ago, the left was leading with a huge margin.\n\nNow the Socialists have collapsed in the polls.\n\nIt's very close between the left and the right now.\n\nI will keep you updated.",
-      "link": "http://nitter.jaydenha.uk/PeterSweden7/status/2097788511935963573#m",
-      "date": "Wed, 09 Sep 2026 20:45:30 GMT"
+      "text": "More than twice as long as they clapped for Stalin in Gulag Archipelago!\n\n\nVariety (@Variety)\n\nThe Gaza documentary “NAZA” earned a massive 24.5-minute #VeniceFilmFestival ovation as the crowd cheered and waved Palestinian flags.\n\nThis marks the longest-ever standing ovation at Venice, beating the 22-minute ovation for “The Voice of Hind Rajab” last year, and perhaps the longest at any film festival, period.\n\nThe new documentary was shot at night on the rooftops of Tel Aviv and shows “in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza,” per an official synopsis. Abraham and Szor interviewed 24 Israeli military intelligence officers and soldiers — all of whom spoke on the condition of anonymity — who were involved in the surveillance or remote killing of Palestinian civilians in Gaza. Their appearance and voices were digitally altered to disguise their identities.\n\nvariety.com/2026/film/festiv…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/Variety/status/2098100091613831627#m",
+      "link": "https://nitter.kareem.one/elonmusk/status/2098310008370872652#m",
+      "date": "Fri, 11 Sep 2026 07:17:45 GMT"
     },
     {
-      "text": "Last week, Tesla held an event in Austin introducing the two-seat, purpose-built Cybercab to its Robotaxi fleet, and then the following evening commercialized its first rides. Tesla disclosed that, in just six weeks, the Robotaxi fleet increased its unsupervised driving miles 2.6x, from the 380,000 reported during Tesla’s second-quarter earnings call to one million miles.\n\nOn its site, Tesla posted a “Robotaxi interest form” aimed at commercial fleet buyers, asking respondents to flag interest in purchasing a Cybercab fleet. As ARK outlined in Big Ideas 2026, fleet owners are an important component of the robotaxi value chain.\n\nThe Cybercab is central to scaling Tesla’s robotaxi service at competitive prices and, in ARK’s view, to expanding autonomous ride-hail into a multi-trillion-dollar opportunity. At scale, we project that robotaxis could be priced as low as $0.25 per mile—approximately one-tenth the cost of human-driven ride-hail, as shown below, and roughly one-third the cost of personal car ownership.\n\n@TashaARK details more in this week's newsletter ⬇️\n\n\n\n\nARK Invest (@ARKInvest)\n\n\nArticle\n\n\n\nTesla Begins To Recruit Cybercab Fleet Buyers, & More\n\nThis week&apos;s newsletter covers Tesla&apos;s recruitment of Cybercab buyers, OpenAI&apos;s GPT-6 Astra, and SpaceX&apos;s acquisition of APR Energy.\n \n1. Tesla Begins To Recruit Cybercab Fleet Buyers\nBy: Tasha Keeney,\n\n\n\n\n— http://nitter.jaydenha.uk/ARKInvest/status/2097395187869778264#m",
-      "link": "http://nitter.jaydenha.uk/ARKInvest/status/2098035528046133403#m",
-      "date": "Thu, 10 Sep 2026 13:07:04 GMT"
+      "text": "This will be cool\n\n\ntetsuo (@tetsuoai)\n\nSpaceXAI will livestream a three-person team attempting to build an entire company from scratch with Grok Bot, September 15–17.\n\nmattyp, poteto and roshan_s will start with an idea and work through the business plan, product decisions and engineering, with viewers following the process live.\n\nThe event, Grok Bot Galaxy, also includes live demos and hands-on sessions with the Grok Bot team, covering engineering, product, sales, marketing, customer support and use cases for founders.\n\nYou can join online or attend sessions in San Francisco. Registration is required for both. 👇\n\n\n\n\n\n— https://nitter.kareem.one/tetsuoai/status/2098233797745725882#m",
+      "link": "https://nitter.kareem.one/elonmusk/status/2098304166854635528#m",
+      "date": "Fri, 11 Sep 2026 06:54:32 GMT"
     }
   ]
 }
