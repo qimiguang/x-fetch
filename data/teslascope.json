@@ -1,8 +1,18 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-09-13T23:02:08Z",
+  "updated_at": "2026-09-14T23:46:13Z",
   "count": 20,
   "tweets": [
+    {
+      "text": "Tesla software update 2026.32.3 is now rolling out to ~2,970 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.32.3 on Model Y AWD LR (2026) in Seine-Saint-Denis, France. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.32.3 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.32.3.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2097751437098787247#m",
+      "link": "http://nitter.jaydenha.uk/teslascope/status/2099356225800479147#m",
+      "date": "Mon, 14 Sep 2026 04:35:03 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.27.6 is now rolling out to ~5,720 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.9 for eligible AI4 vehicles and V14.2 for eligible HW3 vehicles.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.27.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.27.6 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.27.6.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2097453172604211234#m",
+      "link": "http://nitter.jaydenha.uk/teslascope/status/2099318725451083927#m",
+      "date": "Mon, 14 Sep 2026 02:06:02 GMT"
+    },
     {
       "text": "Wes (@wmorrill3) has been sharing recent Cybertruck advancements and posting more daily.\n\nToday’s update: The Cybertruck can now charge at a 500kW peak rate, with reduced charging time and other quality-of-ownership improvements.\n\nTesla's cutting edge vehicle continues to improve\n\n\nWes (@wmorrill3)\n\nIn-house 4680 cells got better, several times actually. And the firmware controls improved as well - both  enabled faster Supercharging. Hitting 500kW peak and more importantly shrinking the 10% to 80% charge times by several minutes.\n\nNot to mention every efficiency improvement I've mentioned also effectively increased charging speed when measured as what matters on a road trip: miles recovered per minute\n\n\n\n\n\n— http://nitter.jaydenha.uk/wmorrill3/status/2099166215050555592#m",
       "link": "http://nitter.jaydenha.uk/teslascope/status/2099266412779089968#m",
@@ -92,16 +102,6 @@
       "text": "Full Self-Driving V14.2 Lite is now rolling out for the first time to HW3 vehicles (in eligible regions) via 2026.27.6!\n\nThis software update also includes V14.3.9 for AI4 vehicles.\n\n\nTesla Raj (@tesla_raj)\n\nFSD 14.2 Lite coming in!!\n\n\n\n\n\n— http://nitter.jaydenha.uk/tesla_raj/status/2097469601152176145#m",
       "link": "http://nitter.jaydenha.uk/teslascope/status/2097469852449681845#m",
       "date": "Tue, 08 Sep 2026 23:39:16 GMT"
-    },
-    {
-      "text": "2026.27.6 now rolling out to Cybertruck! Includes ACE and FSD 14.3.9\n\n@vehiclescope @teslascope",
-      "link": "http://nitter.jaydenha.uk/caseysfloyd/status/2097454308560384074#m",
-      "date": "Tue, 08 Sep 2026 22:37:30 GMT"
-    },
-    {
-      "text": "Full Self-Driving v14.3.9 and the new Automatic Collision Evasion feature are now rolling out for the first time to AI4-equipped vehicles via 2026.27.6!\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.27.6 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.27.6 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.27.6.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2097453172604211234#m",
-      "link": "http://nitter.jaydenha.uk/teslascope/status/2097456399173460051#m",
-      "date": "Tue, 08 Sep 2026 22:45:49 GMT"
     }
   ]
 }
