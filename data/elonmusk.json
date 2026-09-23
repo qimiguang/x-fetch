@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-09-21T12:27:27Z",
+  "updated_at": "2026-09-23T04:10:48Z",
   "count": 20,
   "tweets": [
     {
-      "text": "Intelligence is improving exponentially\n\n\nAhmad (@TheAhmadOsman)\n\nJust a reminder that GLM 5.3 Flash, DeepSeek V4.1 Flash, Qwen 3.8 Next Flash, and even Qwen 3.8 27B are all outperforming (in both intelligence and capabilities) every model that was considered \"frontier intelligence\" in Xmas 2025 (just 10 months ago)\n\nOpensource AI is on fire\n\n\n\n— http://nitter.meowing.monster/TheAhmadOsman/status/2101794480345026624#m",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2101975928800714904#m",
-      "date": "Mon, 21 Sep 2026 10:04:48 GMT"
+      "text": "Interesting. Grok 4.7 is performing fairly well for a smallish model.\n\n\nGuillermo Rauch (@rauchg)\n\nWe ran fresh Next.js evals. The tally:\n① Opus 5.5    [𝟿𝟽%]\n② GPT 6 Sol   [𝟿𝟽%]\n③ Fable 5.1     [𝟿𝟽%]\n④ Grok 4.7     [𝟿𝟺%]\n\nNotably, Grok is 2x-7x cheaper\n\n\n\n— http://nitter.meowing.monster/rauchg/status/2102519097770885231#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2102520283618017355#m",
+      "date": "Tue, 22 Sep 2026 22:07:53 GMT"
     },
     {
-      "text": "GPT-6 Astra pushed a simulated person off a ledge in multiple trials. Grok, Gemini, and Claude did not.\n\nVideo",
-      "link": "http://nitter.meowing.monster/wormuth/status/2101707600618221847#m",
-      "date": "Sun, 20 Sep 2026 16:18:34 GMT"
+      "text": "We rebuilt customer support around Grok Bot to scale our operations without adding headcount.\n\nIt works autonomously to respond to customers, resolve tickets, and manage the queue.\n\nx.ai/news/grok-bot-customer-…\n\nLink\n\n\n\nHow SpaceXAI is using Grok Bot to scale customer support\n\nWe rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.\nx.ai",
+      "link": "http://nitter.meowing.monster/bot/status/2102460785649959362#m",
+      "date": "Tue, 22 Sep 2026 18:11:27 GMT"
     },
     {
-      "text": "The only thing that matters is that the customer never feels the need to run a speed test. I ran speed tests far more on cable than I do on Starlink. It just works.\n\n\nBrian Basson (@BassonBrain)\n\nSTARLINK IS NOW COMPETING WITH THE BEST-RATED ISPs 🔥\n\nThe latest CNET People’s Picks study gives Starlink an overall satisfaction score of 4.47 out of 5, \n\ncompared with 4.20 for T-Mobile Home Internet and 4.16 for Verizon Fios. \n\nThe reliability result is even more interesting:\n\n@Starlink scores 4.59 out of 5, only slightly behind GFiber at 4.70. A few years ago it would have been difficult to imagine a satellite broadband provider being perceived as this reliable.\n\n\"Satellite broadband was supposed to be the compromise. Now Starlink sits alongside some of America’s highest-rated broadband providers, revealing what customers actually value most.\"\n\n\n\n\n\n— http://nitter.meowing.monster/BassonBrain/status/2101732988505706706#m",
-      "link": "http://nitter.meowing.monster/aaronburnett/status/2101738976004448717#m",
-      "date": "Sun, 20 Sep 2026 18:23:14 GMT"
+      "text": "🚨NEW: @JTLonsdale & @SquawkCNBC clash on AI and wealth inequality.\n\nJoe Lonsdale: 2030s is the disinflation decade... we're all going to be really wealthy if we don't break this.\n\nJoe Kernen: Everybody's going to get wealthier? Because only the wealthy have been getting wealthier...\n\nJoe Lonsdale: That's not true. Let's go back: 1870 to 1900, the Second Industrial Revolution, the last time productivity shot up a lot, the average American, the average working class American, was twice as wealthy in real terms within one generation...\n\nAndrew Ross Sorkin: Tell me where you land on \"We've got to slow everything down, because if we don't, we could end up dying...\n\nJoe Kernen: or worse...\n\nJoe Lonsdale: or worse, the companies go bankrupt \n\nAndrew: versus we've got to go full steam ahead. No matter what. No matter what the case.\n\nJoe Lonsdale: I love the meme where it's Dario and Sam saying, please regulate us. And Trump says, keep building, nerds. \n\nThese companies have a lot of liabilities. These companies need to slow down if they see themselves causing damage. I'm not worried about any existential risks in the near term. I 100% could see these companies accidentally causing some problems with hacking with cyber, for example. \n\nThey have a responsibility to slow down themselves, and we should be holding them liable if they cause any damage. And so it makes sense that they would be very careful about that. But we were just talking...\n\n2030s is disinflation decade. We're going to all be really wealthy if we don't break this. So don't slow down too much is my view.\n\nJoe Kernen: Go back to this again. You told me that 2030s are going to be the decade of disinflation. We're going to all get rich, and we're not going to need to raise taxes, and we're going to start growing faster. The deficit will come under control. This is going to happen?\n\nJoe Lonsdale: The AI is really good for rooting out fraud and grift in the government. It's really going to bring down health care costs dramatically. It's amazing for bringing back manufacturing. We have companies already bringing back lots of manufacturing here. That's only about to accelerate.\n\nWe're at what's called a GPT-3 moment right now for robotics, right. World models, which are a new type of AI -- how do things move and interact in the real world in general terms...\n\nJoe Kernen: So this will help one of our most daunting fears of the $40 trillion and the out of control deficits we're running now, this will come under control from AI? \n\nJoe Lonsdale: If you get productivity up to 3, 4 or 5%, what you 100% should be able to do with these things, if not significantly higher, that solves the deficit problem.\n\nThis is an amazing thing for a civilization; this is the answer is to get growth higher, and it's how everyone gets wealthier, it's doing more with less. It's going to do it.\n\nJoe Kernen: Everybody's going to get wealthier? Because only the wealthy have been getting wealthier...\n\nJoe Lonsdale: That's not true. Let's go back: 1870 to1900, the Second Industrial Revolution, the last time productivity shot up a lot, the average American, the average working class American, was twice as wealthy in real terms within one generation.\n\nAnd that's what happens when productivity goes up. Everyone gets wealthier. We we teach economics very poorly in this country.\n\nVideo",
+      "link": "http://nitter.meowing.monster/AmOptimistShow/status/2102426287193092221#m",
+      "date": "Tue, 22 Sep 2026 15:54:22 GMT"
     },
     {
-      "text": "Starlink saving lives, the real purpose.\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Starlink just helped make medical history in Africa! 🇳🇬\n\nUsing a Starlink internet connection, a surgeon near Lagos remotely controlled a robot to remove a cancerous kidney from a patient in Abuja, around 500 km away, in West Africa’s first tele-robotic surgery.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/cb_doge/status/2101773398850646266#m",
-      "link": "http://nitter.meowing.monster/mayemusk/status/2101825322266099984#m",
-      "date": "Mon, 21 Sep 2026 00:06:21 GMT"
+      "text": "BREAKING: SpaceXAI just released a major Grok Build update, with Grok 4.7 now available in Grok Build.\n\nThe update improves crash recovery, prompt handling, navigation, configuration reliability and overall subagent performance. It also adds new subagent controls, configurable request limits and long-reasoning reminders.\n\nRelease Notes\n\nVersion 1.0.41 — September 22, 2026\n\nFeatures\n\n• Added a new sports_search tool that can look up live NFL scores, standings, schedules, player stats and team records directly from X data.\n\n• Added a subagent model inheritance setting to /settings. It persists in config.toml and respects managed and overlay layers.\n\n• Per-model request size limits can now be configured to match provider HTTP body caps and control inline image eviction.\n\n• A long-reasoning reminder can now be enabled through config to nudge the model after lengthy hidden-reasoning steps.\n\nBug Fixes\n\n• Fixed the subagent fullscreen view so it no longer shows a stray [Dashboard] button in the header.\n\n• Fixed agent frontmatter mcpServers so headers and URLs from the active agent’s agent.md correctly override config.toml and survive config reloads or agent switches.\n\n• Ctrl+P now opens the command palette immediately from the welcome screen.\n\n• The Dashboard now focuses the “+ New Agent” row instead of leaving the previous session selected.\n\n• Sessions interrupted by a crash now show a clear marker instead of silently dropping the turn.\n\n• Pressing Ctrl+Z immediately after stashing a prompt now restores it.\n\n• The collapsed edit blocks setting now correctly collapses edits even when expanded_by_default is pinned to true.\n\n• Interjections now receive a visible reply before the agent resumes its previous tasks.\n\n• Cancelling a turn blocked on spawn_subagent now tells the model that the child moved to the background instead of claiming it was never executed.\n\n• Saving a queued-prompt edit now returns focus to the composer so the next keystrokes type the next message.\n\n• Subagent activation is now consistent between the TUI and Grok Agent Studio. Tables that only set limits or models no longer disable subagents.\n\n• Effort-level selection now accepts menu labels in addition to IDs.\n\nVideo",
+      "link": "http://nitter.meowing.monster/cb_doge/status/2102448328638382234#m",
+      "date": "Tue, 22 Sep 2026 17:21:57 GMT"
     },
     {
-      "text": "I don’t agree exactly on the assumption that full RSI will work, but this is an excellent video summarizing where we are at. piped.video/fjZ90V_JREk?is=1jf1…\n\nLink\n\n\n\nWhy Are We Sprinting Off the A.I. Cliff? | The Ezra Klein Show\n\nFears of out-of-control A.I. have reached a boil over the last few ...\nyoutube.com",
-      "link": "http://nitter.meowing.monster/natolambert/status/2101782726541971660#m",
-      "date": "Sun, 20 Sep 2026 21:17:05 GMT"
+      "text": "If AI gave you back 2 hours a day, that's 730 hours a year. What would you do with them? Spend more time with your kids? Get healthy? Start the business you've been putting off? That's the conversation about the future of tech I want to have.\n\nWhat becomes possible when people get part of their lives back?",
+      "link": "http://nitter.meowing.monster/PeterDiamandis/status/2102429058558501330#m",
+      "date": "Tue, 22 Sep 2026 16:05:23 GMT"
     },
     {
-      "text": "Week 1 at SpaceXAI.\n\nThe intensity is real and the people are great, but there is so much information coming from every direction that you mostly absorb what you can and keep moving.\n\nManaged to fix a bug in Grok Bot browser use tho 😛 But a lot more exciting stuff coming.\n\nGrok is going to be great, and agents still have a long way to go.\n\nIf you use grok.com or Grok Bot, what is the most urgent thing to fix right now (or what feature is really missing)?\n\nLink\n\n\n\nGrok\n\nGrok is an AI assistant built by SpaceXAI. Chat, create images, write code, and get real-time answers from the web and X.\ngrok.com",
-      "link": "http://nitter.meowing.monster/larsencc/status/2101879725274845502#m",
-      "date": "Mon, 21 Sep 2026 03:42:32 GMT"
+      "text": "💪\n\n\nThe Hollywood Reporter (@THR)\n\nInside Ari Emanuel's Earliest Days in Hollywood: Coffee Runs, Couch Surfing and Replacing Michael Ovitz's Toilet Paper hollywoodreporter.com/lifest…\n\nLink\n\n\n\nInside Ari Emanuel’s Earliest Days in Hollywood: Coffee Runs, Couch Surfing and Replacing Michael...\n\nIn an exclusive excerpt from Emanuel&apos;s memoir &apos;Roll the Calls,&apos; he details his time in the CAA mailroom, writing, \"Sometimes it feels as if the yeller is actually getting off, as if they’re a...\nhollywoodreporter.com\n\n\n\n\n— http://nitter.meowing.monster/THR/status/2102412668519031028#m",
+      "link": "http://nitter.meowing.monster/AriEmanuel/status/2102447527354351801#m",
+      "date": "Tue, 22 Sep 2026 17:18:46 GMT"
     },
     {
-      "text": "Interesting\n\n\nMin Choi (@minchoi)\n\nThis is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning & Orchestration→ Grok Bot\nDay-to-day Coding/Debug → Grok Build + Grok 4.6\nWrite & Run Tests → Grok Build + Grok 4.6\nComplex Coding/Debug → GPT-6 Astra\nFrontend → Fable 5.1\n\nBookmark this.\n\n\n\n— http://nitter.meowing.monster/minchoi/status/2101873007673086304#m",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2101896799699062963#m",
-      "date": "Mon, 21 Sep 2026 04:50:23 GMT"
+      "text": "I will admit, I am enjoying vibe coding. I may have been a teensy tiny bit wrong.",
+      "link": "http://nitter.meowing.monster/notch/status/2102439244887453825#m",
+      "date": "Tue, 22 Sep 2026 16:45:52 GMT"
     },
     {
-      "text": "Built this Grok Bot, fully offline index of all your saved instagram videos via @karpathy-wiki-style .md. Uses @bot, @grok Voice Transcribe 2.0, Grok Vision + more.\n\n(X + TikTok coming soon)",
-      "link": "http://nitter.meowing.monster/kevinrose/status/2101455244567973976#m",
-      "date": "Sat, 19 Sep 2026 23:35:48 GMT"
+      "text": "We’re taking the calls on the road. 🎟️ Book tour dates + tickets at the link below 👇 \n\nlinktr.ee/ariemanuel",
+      "link": "http://nitter.meowing.monster/AriEmanuel/status/2097357128818462732#m",
+      "date": "Tue, 08 Sep 2026 16:11:21 GMT"
     },
     {
-      "text": "Just connected my Grok Bot to 𝕏 Money.\n\nAnd I think this is one of those things that may sounds small to many people until you actually use it…\n\nI can now send $ money to someone just by telling my bot what I want to do.\n\nI don’t need to open another app.\n\nI don’t need to search for the payment tab.\n\nI don’t need to jump between screens or tabs.\n\nI just type the instruction in plain English and Grok Bot handles it through 𝕏 Money, and the payment immediately goes through. \n\nSo today, I sent Elon $4.20.\n\nWith a note telling him that, “Testing 𝕏 Money connector w/ Grok Bot”\n\nIt worked beautifully… \n\nI realize this could one day completely change the way $ money moves.\n\nToday, moving $ money usually means stopping what you’re doing, opening a banking or payment app, finding the person, entering the amount, checking everything, and hitting send.\n\nNow imagine your Grok Bot already understands what you want.\n\nYou can say things like,\n\n“Send this person $20.”\n\n“Pay this bill w/ a pic”\n\n“Split dinner between everyone here.”\n\n“Send my contractor the usual $ amount.”\n\n“Move some $ money into savings.”\n\nAnd your Grok Bot handles the work through whatever financial account, while you stay in control of the approval.\n\nNow, instead of humans learning how to use financial software, the software is learning how to work for humans.\n\nAnd as Grok Bot gets smarter and 𝕏 Money grows, I think this is where things will get really interesting.\n\n𝕏 already has communication, creators, businesses, communities and people spending hours talking to each other every day.\n\nNow add $ money.\n\nThen add an AI/Grok Bot that can understand what you want and help move that $ money for you effortlessly.\n\nPayments stop feeling like a separate thing you have to go do… and just becomes part of the normal conversation.\n\nI think this could be a big deal for 𝕏 Money. \n\nIf 𝕏 Money grows into one of the world’s largest financial platforms, I think Grok Bot could become the primary layer people talk to when they want anything done with their $ money.\n\nGrok Bot, hooked up with 𝕏 Money is a BIG deal…",
-      "link": "http://nitter.meowing.monster/Teslaconomics/status/2101746215255961783#m",
-      "date": "Sun, 20 Sep 2026 18:52:00 GMT"
+      "text": "X Numbers are here.\n\nShare yours with anyone you want to contact you, even if you don't follow them. It's an optional way for people to message or call you, without you needing to accept requests or follow them back.\n\nVideo",
+      "link": "http://nitter.meowing.monster/chat/status/2102442240354165057#m",
+      "date": "Tue, 22 Sep 2026 16:57:46 GMT"
     },
     {
-      "text": "Don’t mess with 𝕏\n\n\nJames Burnham (@BurnhamDC)\n\nLast week, @X sued several people who abused Creator Revenue Sharing by operating a coordinated network of accounts, posting inauthentic content to manipulate engagement, and using multiple bank accounts to hide their scheme. \n\nWe do not tolerate fraudulent behavior on X -- and will act forcefully to protect our platform and the earnings of genuine creators. \n\nYou can read our lawsuit here: transparency.x.com/assets/le…\n\n\n\n— http://nitter.meowing.monster/BurnhamDC/status/2101818319091224740#m",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2101864954173251996#m",
-      "date": "Mon, 21 Sep 2026 02:43:50 GMT"
+      "text": "Today we're beginning to roll out 𝕏 Numbers, a brand new way to let anyone contact you on 𝕏 without needing to follow each other or accept requests.\n\nVideo",
+      "link": "http://nitter.meowing.monster/benjitaylor/status/2102443951898992825#m",
+      "date": "Tue, 22 Sep 2026 17:04:34 GMT"
     },
     {
-      "text": "Romanian gangs are exploiting 1960s tech in the American welfare system to pilfer hundreds of millions of dollars from food-stamp accounts.\non.wsj.com/3TBT15c\n\nLink\n\n\n\nHow Romanian Crime Rings Are Draining U.S. Welfare Accounts\n\nThieves have exploited antiquated magnetic stripes on benefits cards to steal hundreds of millions of public dollars.\nwsj.com",
-      "link": "http://nitter.meowing.monster/WSJ/status/2101812072644292663#m",
-      "date": "Sun, 20 Sep 2026 23:13:42 GMT"
+      "text": "Grok @bot lets you take on more complex tasks, like placing your usual coffee order, booking a reservation, or scheduling an appointment\n\nCurrently available to SuperGrok Heavy subscribers, with more tiers to follow",
+      "link": "http://nitter.meowing.monster/Tesla/status/2102431173314273633#m",
+      "date": "Tue, 22 Sep 2026 16:13:47 GMT"
     },
     {
-      "text": "ALIGNMENT must be the #1 objective.  Train next generation models on aligned data sets. Not the crap on Reddit and Facebook",
-      "link": "http://nitter.meowing.monster/PeterDiamandis/status/2101743745486196960#m",
-      "date": "Sun, 20 Sep 2026 18:42:12 GMT"
+      "text": "Grok @Bot now in your Tesla!\n\n\nTesla (@Tesla)\n\n.@Grok in your Tesla can now do meaningful work for you\n\nWith Connectors, you can manage your inbox, clean up your calendar, or talk through existing files/chat/tasks – all hands-free\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/Tesla/status/2102430656349544590#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2102439262507725294#m",
+      "date": "Tue, 22 Sep 2026 16:45:56 GMT"
     },
     {
-      "text": "Looking forward to this. Much needed! 🙏\n\n\nElon Musk (@elonmusk)\n\nBoring Company is working on a simple, precursor Hyperloop tunnel between Austin and San Antonio (>200 mph). \n\nDue to traffic congestion, that journey can currently take up to 2.5 hours. @BoringCompany can reduce that to a consistent <30 mins.\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2101732496396439751#m",
-      "link": "http://nitter.meowing.monster/MichaelDell/status/2101781110728392805#m",
-      "date": "Sun, 20 Sep 2026 21:10:40 GMT"
+      "text": "Grok Bot has just officially launched in @Tesla vehicles.\n\nI got early access a couple weeks ago. You can order stuff on online (such as Amazon), manage your email, calendar, finances, or other tasks through Grok @Bot using just your voice in your Tesla.\n\nThere is no separate app, everything just lives within the existing Grok Voice interface in your Tesla (as shown in my Model Y below).\n\nOne good use case for Grok Bot in your Tesla: You get in, tell Grok Bot to order coffee at a location of your choice, and while your Tesla drives you to the coffee shop using FSD (Supervised), Grok places the order so it’s ready when you arrive.\n\nGrok Bot in Tesla vehicles is currently only available to SuperGrok Heavy users, but will expand to more owners later. Connectors are available to all users.\n\nVideo",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2102432181666590951#m",
+      "date": "Tue, 22 Sep 2026 16:17:48 GMT"
     },
     {
-      "text": "The Creators Product team at 𝕏 is growing.\n\nI’m hiring someone to help bring more great creators to 𝕏 and help existing creators on the platform grow.\n\nThis is a founding role on our small but mighty team, so I’m looking for someone who is highly independent, resourceful, and comfortable operating with a high degree of ownership. You’ll help shape the strategy, build and execute campaigns and programs, and develop strong relationships with both rising and established creators.\n\nLooking for someone scrappy, strategic, highly execution-oriented, deeply online, and obsessed with creators + internet culture. You should be equally comfortable defining the growth strategy and actually executing it.\n\nA big focus will be growing women and lifestyle creators on 𝕏.\n\nStrong preference for LA or SF. DM me or comment if this sounds like you — or if you know someone great.",
-      "link": "http://nitter.meowing.monster/allegrajacchia/status/2101751304930603444#m",
-      "date": "Sun, 20 Sep 2026 19:12:14 GMT"
+      "text": "Interesting\n\n\nHerbert Ong (@herbertong)\n\n🚨 Cathie Wood’s Starship math gets crazy very quickly!\n\nLarry Goldberg  @TeslaLarry breaks down ARK’s estimate that a single Starship launch could eventually generate around $1 BILLION in connectivity revenue.\n\nNow combine that with Elon’s goal of 10,000 Starship flights per year.\n\nThe theoretical math? Up to $10 TRILLION in annual revenue.\n\nOf course, there are huge assumptions here. Bandwidth demand, launch cadence, pricing, and network capacity all have to scale.\n\nBut that’s the bigger point.\n\nIf Starship goes from occasional launches to multiple flights per day, SpaceX starts looking like something very different from a rocket company.\n\nAnd orbital data centers could add another layer on top.\n\nThe numbers are speculative. The scale of the idea isn’t. $SPCX\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/herbertong/status/2101669351778902086#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2102430276450390482#m",
+      "date": "Tue, 22 Sep 2026 16:10:13 GMT"
     },
     {
-      "text": "Now, you can understand why the democrats have been attacking me in Pennsylvania. \n\nWe uncovered 371,595 non-citizens & persons who are “unable to read, write, and understand the English language” in Philadelphia. \n\nAfter cross-referencing the PA voter rolls, 50,000 voters have been flagged as potential alien matches. \n\n50,000",
-      "link": "http://nitter.meowing.monster/ScottPresler/status/2101693892470989255#m",
-      "date": "Sun, 20 Sep 2026 15:24:06 GMT"
+      "text": "lol\n\n\nSir Doge of the Coin ⚔️ (@dogeofficialceo)\n\nSome of the funniest times on this app 😂\n\n\n\n\n\n— http://nitter.meowing.monster/dogeofficialceo/status/2102342939234259318#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2102428227545493995#m",
+      "date": "Tue, 22 Sep 2026 16:02:05 GMT"
     },
     {
-      "text": "in target in downtown SF\n\nimagine if we locked up criminals instead of laundry detergent",
-      "link": "http://nitter.meowing.monster/ArthurMacwaters/status/2101804061406404981#m",
-      "date": "Sun, 20 Sep 2026 22:41:52 GMT"
+      "text": "🚨 WTF! New York dumped the literacy exam for TEACHERS, because only 61% could pass it. \n\nNot the kids… The teachers! \n\nThat is the education system in one statistic. Lower the bar. Fail the kids. Call it progress.\n\n\nTommy Schultz 🇺🇸 (@Tommy_USA)\n\nNever forget that in New York they eliminated the literacy exam in 2017. And this exam wasn't for students - it was the literacy exam for TEACHERS. Only 61% could pass it!\n\n\n\n\n\n— http://nitter.meowing.monster/Tommy_USA/status/2102067212525674637#m",
+      "link": "http://nitter.meowing.monster/GuntherEagleman/status/2102409342960185681#m",
+      "date": "Tue, 22 Sep 2026 14:47:02 GMT"
     },
     {
-      "text": "Taylor Lorenz said Elon will ruin Twitter back in 2023 after he bought it.\n\nNow she has flipped 100% and has admitted that X is better now than ever.\n\n\natlas (@creatine_cycle)\n\n\"i think X is better now than ever\" - @TaylorLorenz \n\n\"twitter was falling apart so i'm glad @elonmusk took over but i was like elon has never ran a social media product\"\n\n\"he banned me by the way. first major mistake\"\n\n\"i was very skeptical and i thought this would be the end of X but my controversial take now is that X is better than ever. especially for technology and for the cultural conversation\"\n\n\"we got jensen tweeting, we got zuck back on. they have all come crawling back\"\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/creatine_cycle/status/2101496448559067144#m",
-      "link": "http://nitter.meowing.monster/WallStreetMav/status/2101790107015504231#m",
-      "date": "Sun, 20 Sep 2026 21:46:25 GMT"
+      "text": "Grok 4.7 doing real engineering work at Tesla\n\n\nYun-Ta Tsai (@yunta_tsai)\n\nOver the last few weeks, Grok Build teams have optimized the harness for 4.7:\n\n- Better presentation, less slop, and better prose\n- Better self-validation\n- Improved thinking efficiency\n- Improved long-horizon monitoring tasks\n- Improved VLM and multimodal tasks\n\nMany FSD and Cybercab features I personally shipped were done with my overnight agents.\n\nGive it a try.\n\n\n\n— http://nitter.meowing.monster/yunta_tsai/status/2102422431348801601#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2102423241897705926#m",
+      "date": "Tue, 22 Sep 2026 15:42:16 GMT"
     },
     {
-      "text": "Cybertruck as Heavy Cav\n\n\nNicolas Neubert (@iamneubert)\n\nWhen AI Bros enter the chat.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/iamneubert/status/2101433338506711177#m",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2101767007406641574#m",
-      "date": "Sun, 20 Sep 2026 20:14:38 GMT"
+      "text": "Grok 4.7\n\n\nDogeDesigner (@cb_doge)\n\nGrok 4.7 turned a simple prompt into this interactive 3D jet engine visualizer in minutes.\n\nThis is insane. 🔥\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/cb_doge/status/2102416305513230455#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2102422703798137219#m",
+      "date": "Tue, 22 Sep 2026 15:40:08 GMT"
     },
     {
-      "text": "A Tesla saves its owner from prison!\n\n\nDogeDesigner (@cb_doge)\n\nTesla helped save a man from jail.\n\nKevin Finley was arrested at gunpoint for allegedly fleeing police. His Tesla captured the key moments, showing why he never saw the unmarked police car.\n\nNearly two years later, the judge watched the video and found him not guilty.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/cb_doge/status/2101693703551324427#m",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2101766776325595530#m",
-      "date": "Sun, 20 Sep 2026 20:13:43 GMT"
+      "text": "Grok 4.7 turned a simple prompt into this interactive 3D jet engine visualizer in minutes.\n\nThis is insane. 🔥\n\nVideo",
+      "link": "http://nitter.meowing.monster/cb_doge/status/2102416305513230455#m",
+      "date": "Tue, 22 Sep 2026 15:14:42 GMT"
     },
     {
-      "text": "Every glib, arrogant, virtue-signalling celebrity who’s broadcast the lie that  kids will kill themselves if not allowed to transition deserves to have this read aloud to them non-stop through a megaphone for a year.\n\n\nKurt Mahlburg (@k_mahlburg)\n\nA landmark Finnish study has found a sharp rise in psychiatric illness among adolescents following sex-alteration procedures.\n\nThe peer-reviewed study, published in Acta Paediatrica, tracked every young person under 23 who contacted Finland's gender clinics between 1996 and 2019.\n\nA total 2,083 individuals were studied, with 16,643 matched controls. They were followed for up to 25 years.\n\nFinland's health registers are mandatory, which means no one opts out — this is the complete national picture.\n\nThe numbers: psychiatric morbidity rose from 9.8% to 60.7% in adolescents who underwent feminising reassignment, and from 21.6% to 54.5% in masculinising reassignment.\n\nEven after adjusting for prior psychiatric history, gender-referred adolescents faced five times the risk of male population controls, and three times the risk of female controls.\n\n\"Psychiatric needs do not subside after medical gender reassignment,\" the authors concluded.\n\nReferrals after 2010 arrived sicker. 47.9% had already needed psychiatric treatment before their first clinic visit, against 15.3% among controls.\n\nThe authors' read: for some adolescents, gender distress may be secondary to other mental health challenges.\n\nThe evidence keeps mounting. The silencing continues anyway.\n\nHow many more adolescents will be told this is \"care\"?\n\n\n\n\n\n— http://nitter.meowing.monster/k_mahlburg/status/2101261275472760944#m",
-      "link": "http://nitter.meowing.monster/jk_rowling/status/2101623347675119953#m",
-      "date": "Sun, 20 Sep 2026 10:43:47 GMT"
+      "text": "Grok 4.7 Fast is now live in Grok Build and Cursor\n\nIt’s the same Grok 4.7 model running on faster infrastructure, with roughly 2× the output speed\n\n• Available now in only Grok Build and Cursor\n• Costs 2× the standard Grok 4.7 token rates\n• Not included in Grok Build’s free tier\n• Not available on the public xAI API\n\nSame intelligence, much faster inference......at 2× the cost",
+      "link": "http://nitter.meowing.monster/XFreeze/status/2102266095864602993#m",
+      "date": "Tue, 22 Sep 2026 05:17:50 GMT"
     }
   ]
 }
