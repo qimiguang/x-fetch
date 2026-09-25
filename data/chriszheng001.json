@@ -1,107 +1,107 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-09-17T04:20:36Z",
+  "updated_at": "2026-09-25T04:20:12Z",
   "count": 20,
   "tweets": [
     {
-      "text": "很多计划买 YL 的现在都选择观望了。\n\n\nJacksonS (@shrmodelx)\n\n属实，问题规模挺大的\n\n\n\n— http://nitter.jaydenha.uk/shrmodelx/status/2098580861398438244#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2098660064487715005#m",
+      "text": "🎯\n\n\nWhole Mars Catalog (@wholemars)\n\nWelcome to the United States Xi Jinping, please approve FSD in China\n\n\n\n— http://shitter.thepixora.com/wholemars/status/2103209684446609714#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2103257691686592848#m",
+      "date": "Thu, 24 Sep 2026 22:58:04 GMT"
+    },
+    {
+      "text": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.\n\n[Original text (with links): deeplearning.ai/the-batch/is… ]\n\nLink\n\n\n\nMeta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude\n\nThe Batch News & Insights: The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks.\ndeeplearning.ai",
+      "link": "http://shitter.thepixora.com/AndrewYNg/status/2102140576498065758#m",
+      "date": "Mon, 21 Sep 2026 20:59:03 GMT"
+    },
+    {
+      "text": "绷不住了。\n\n\nsignüll (@signulll)\n\ntrump: “first of all, i want to welcome everyone to the first supreme intelligence summit. we used to call it artificial intelligence. terrible name. artificial means fake. why would we want fake intelligence? we want supreme intelligence.”\n\nsam altman: “mr. president, under your leadership, openai has made tremendous progress toward supreme intelligence.”\n\ntrump: “tremendous.”\n\ndario amodei: “anthropic believes supreme intelligence must be developed safely, responsibly, & in accordance with..”\n\ntrump: “see, he said it. supreme intelligence. very smart guy.”\n\ndario: “yes sir.”\n\ndemis hassabis: “google deepmind has spent decades working toward general intelligence, but we now recognize that the technically correct term is supreme intelligence.”\n\ntrump: “google finally learned something.”\n\nsundar pichai: “absolutely, mr. president. gemini is becoming more capable every day thanks to america’s leadership in supreme intelligence.”\n\ntrump: gemini. “beautiful name. two people. double intelligence.”\n\nsundar: “yes. exactly.”\n\nelon musk: “i’ve actually been calling it supreme intelligence privately for years.”\n\nsam: “no you haven’t.”\n\nelon: “you wouldn’t know because you stole a charity.”\n\nmark zuckerberg: “mr president, meta is committed to making supreme intelligence available to everyone for free.”\n\ntrump: “mark, you look much stronger now.”\n\nzuck: “thank you.”\n\ntrump: “something happened.”\n\nzuck: “jiu-jitsu.”\n\ntrump: “supreme jiu-jitsu.”\n\nsatya nadella: “mr president, microsoft is proud to provide the infrastructure powering the supreme intelligence revolution.”\n\nreporter: “mr. president, what exactly is supreme intelligence?”\n\ntrump: “it’s even better intelligence, very high IQ like my uncle who went to MIT.”\n\n\n\n— http://shitter.thepixora.com/signulll/status/2101716368248725603#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2102392821676421122#m",
+      "date": "Tue, 22 Sep 2026 13:41:23 GMT"
+    },
+    {
+      "text": "搜狐产经这个编辑一看就是不是跑机器人的，邵说的这个模式相当于点名那家明星机器人公司了，但它不是宇树，因为宇树内部对那家模式的立场，和邵的朋友圈一样反感。这么移花接木瞎解读有点喜感了。\n\n\nRay (@ray4tesla)\n\nA Chinese industry insider exposes alleged accounting irregularities involving Unitree, one of China’s high-profile robotics companies: \n\n“On the evening of September 10, a post went viral on social media and sparked a heated discussion in the robotics startup community.\n\nThe person who posted it was Shao Tianlan, a Tsinghua University graduate and the founder of MechMind. MechMind is a robotics company that was just listed on the Hong Kong Stock Exchange on September 1. Its business focuses on the “eyes and brains” of robots, as well as hand-eye coordination—specifically, industrial 3D cameras and AI software.\n\nJust nine days after the IPO, Shao Tianlan couldn’t resist exposing some of the problems he claims exist in the robotics industry, including alleged hype and fraud.\n\nHis main argument can be summarized as follows:\n\nSome robotics companies, in order to successfully go public and make money, are trying every possible way to manufacture fake revenue.\n\nEven more troubling, he argues, is that this kind of fabrication could create a vicious cycle: if a company falsified its numbers this year, it may have to falsify even larger numbers next year. As Shao put it, this could push companies into a downward spiral of “continuous fabrication and financial bloodletting,” ultimately harming investors.\n\nIn the comments section, Shao directly named Yunshengtongyong (银河通用 / Galaxy General).\n\nAccording to the data cited in the post, most of Galaxy General’s robots are purchased from Yushu Technology (Unitree Robotics). In 2025 alone, Galaxy General reportedly generated more than RMB 18 million in sales for Yushu Technology, making it one of Yushu’s major customers.”\n\n(Source cited in the original: Sohu Finance.)\n\n\n\n\n\n— http://shitter.thepixora.com/ray4tesla/status/2100821784173883659#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2100945150125941012#m",
+      "date": "Fri, 18 Sep 2026 13:48:52 GMT"
+    },
+    {
+      "text": "很多计划买 YL 的现在都选择观望了。\n\n\nJacksonS (@shrmodelx)\n\n属实，问题规模挺大的\n\n\n\n— http://shitter.thepixora.com/shrmodelx/status/2098580861398438244#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2098660064487715005#m",
       "date": "Sat, 12 Sep 2026 06:28:45 GMT"
     },
     {
       "text": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
-      "link": "http://nitter.jaydenha.uk/hilbertspaess/status/2097476196791709843#m",
+      "link": "http://shitter.thepixora.com/hilbertspaess/status/2097476196791709843#m",
       "date": "Wed, 09 Sep 2026 00:04:29 GMT"
     },
     {
-      "text": "有趣的发现，我之前没看到过。\n\n\nOz Tesla Guy 🇦🇺 (@OzTeslaGuy)\n\nI was just watching @herbertong’s lates video with @thejefflutz talking about the Cybercab rollout. Jeff mentioned how Cybercab seems to have started anticipating. A number of us in Aus have started noticing this as well. My videos below shows a number of example that demonstrates FSD anticipating traffic light sequences (even one of it anticipating too early but catching itself). I’m interested to know if FSD users in the US have started to notice this too? @herbertong @thejefflutz @DirtyTesLa @AIDRIVR @wholemars @SawyerMerritt\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/OzTeslaGuy/status/2097104509294333981#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2097267536652108202#m",
+      "text": "有趣的发现，我之前没看到过。\n\n\nOz Tesla Guy 🇦🇺 (@OzTeslaGuy)\n\nI was just watching @herbertong’s lates video with @thejefflutz talking about the Cybercab rollout. Jeff mentioned how Cybercab seems to have started anticipating. A number of us in Aus have started noticing this as well. My videos below shows a number of example that demonstrates FSD anticipating traffic light sequences (even one of it anticipating too early but catching itself). I’m interested to know if FSD users in the US have started to notice this too? @herbertong @thejefflutz @DirtyTesLa @AIDRIVR @wholemars @SawyerMerritt\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/OzTeslaGuy/status/2097104509294333981#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2097267536652108202#m",
       "date": "Tue, 08 Sep 2026 10:15:20 GMT"
     },
     {
-      "text": "作为中国为数不多的 Model 3 + FSD v13.2.9 用户，我知道 CyberCab 是一个定义得极好的 Robotaxi 产品，但也确实好奇还有没有下一代全新换代的 Model 3/Y。\n\n\nDave Lee (@davelee)\n\nTime for Tesla to take everything they learned from making the Cybercab and launch a new generation of AI-driven vehicles for people to buy.\n\nThe Cybercab marks a new line in the sand.  Everything before the Cybercab was primarily human-driven and designed to be so (ie., performance, handling, acceleration, etc).  But Cybercab and post-Cybercab vehicles are designed from ground-up to be driven by AI and for the passenger it's about comfort, calm/peace, entertainment, convenience, etc.\n\nFurther, the unboxed approach, RIM plastic outer shell, brake-by-wire, next iterations of drive train, thermal management, electronics, etc... all can be leveraged for a cheaper, more efficient and reliable next-gen consumer vehicles.\n\nThink Cybercab but a 4-5 passenger model you can buy.  And a 6-7 passenger model you can buy.  Etc.\n\nWould love to see Tesla explore the following:\nSmall sedan\nSmall CUV\nMid-size sedan\nMid-size SUV\nLarge SUV\n\n\n\n— http://nitter.jaydenha.uk/davelee/status/2096328151731245105#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2096412082027770168#m",
+      "text": "作为中国为数不多的 Model 3 + FSD v13.2.9 用户，我知道 CyberCab 是一个定义得极好的 Robotaxi 产品，但也确实好奇还有没有下一代全新换代的 Model 3/Y。\n\n\nDave Lee (@davelee)\n\nTime for Tesla to take everything they learned from making the Cybercab and launch a new generation of AI-driven vehicles for people to buy.\n\nThe Cybercab marks a new line in the sand.  Everything before the Cybercab was primarily human-driven and designed to be so (ie., performance, handling, acceleration, etc).  But Cybercab and post-Cybercab vehicles are designed from ground-up to be driven by AI and for the passenger it's about comfort, calm/peace, entertainment, convenience, etc.\n\nFurther, the unboxed approach, RIM plastic outer shell, brake-by-wire, next iterations of drive train, thermal management, electronics, etc... all can be leveraged for a cheaper, more efficient and reliable next-gen consumer vehicles.\n\nThink Cybercab but a 4-5 passenger model you can buy.  And a 6-7 passenger model you can buy.  Etc.\n\nWould love to see Tesla explore the following:\nSmall sedan\nSmall CUV\nMid-size sedan\nMid-size SUV\nLarge SUV\n\n\n\n— http://shitter.thepixora.com/davelee/status/2096328151731245105#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2096412082027770168#m",
       "date": "Sun, 06 Sep 2026 01:36:04 GMT"
     },
     {
-      "text": "Exactly. 昨天我也这么说了，结果评论区来了一堆左脑袋是水右脑袋是面，一动脑就满脑袋浆糊的家伙。\n\n\nDrive Tesla 🇨🇦 (@DriveTeslaca)\n\nDo you think Tesla should paywall what could be a life-saving safety feature? \n\nI don’t see why it can be made available to all cars. From the description FSD only takes over for maybe a couple of minutes. \n\nIf anything this might entice people to subscribe to FSD after they see how well it can handle potentially dangerous situations @elonmusk @aelluswamy @yunta_tsai @pduan\n\n\n\n— http://nitter.jaydenha.uk/DriveTeslaca/status/2095951212659318964#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2096055086837285036#m",
+      "text": "Exactly. 昨天我也这么说了，结果评论区来了一堆左脑袋是水右脑袋是面，一动脑就满脑袋浆糊的家伙。\n\n\nDrive Tesla 🇨🇦 (@DriveTeslaca)\n\nDo you think Tesla should paywall what could be a life-saving safety feature? \n\nI don’t see why it can be made available to all cars. From the description FSD only takes over for maybe a couple of minutes. \n\nIf anything this might entice people to subscribe to FSD after they see how well it can handle potentially dangerous situations @elonmusk @aelluswamy @yunta_tsai @pduan\n\n\n\n— http://shitter.thepixora.com/DriveTeslaca/status/2095951212659318964#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2096055086837285036#m",
       "date": "Sat, 05 Sep 2026 01:57:30 GMT"
     },
     {
       "text": "注意，现在 Tesla 已经决定做了。关于这个问题，Elon 在 16 年正式回应过：如果因为害怕负面新闻或出于法律责任的商业算计而推迟发布先进技术，这在道义上是不可接受的。",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2095799321883242649#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2095799321883242649#m",
       "date": "Fri, 04 Sep 2026 09:01:11 GMT"
     },
     {
-      "text": "lol🤣\n\n\nEarl of FrunkPuppy (@28delayslater)\n\nDespite how bad the Cybercab event was, the Model Y reveal remains the worst\n\n\n\n— http://nitter.jaydenha.uk/28delayslater/status/2095744016189096339#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2095796646064079069#m",
+      "text": "lol🤣\n\n\nEarl of FrunkPuppy (@28delayslater)\n\nDespite how bad the Cybercab event was, the Model Y reveal remains the worst\n\n\n\n— http://shitter.thepixora.com/28delayslater/status/2095744016189096339#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2095796646064079069#m",
       "date": "Fri, 04 Sep 2026 08:50:33 GMT"
     },
     {
-      "text": "我有一个慷特斯拉之慨的想法：应该把自动启动 FSD 全系标配，不管你订不订 FSD，没关系，当你发生危险的时候，FSD 会自动启动来救你。@elonmusk\n\n\nTesla AI (@Tesla_AI)\n\nFSD Supervised v14.3.9 starting to roll out shortly\n\nThis release includes a new active safety feature set: FSD Supervised can now activate on your behalf when an imminent collision is detected and Automatic Emergency Braking (AEB) may not be enough. \n\nIt may also engage if we detect you’re heavily distracted or have accidentally disengaged FSD\n\n\n\n— http://nitter.jaydenha.uk/Tesla_AI/status/2095767350070890688#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2095786423760859413#m",
+      "text": "我有一个慷特斯拉之慨的想法：应该把自动启动 FSD 全系标配，不管你订不订 FSD，没关系，当你发生危险的时候，FSD 会自动启动来救你。@elonmusk\n\n\nTesla AI (@Tesla_AI)\n\nFSD Supervised v14.3.9 starting to roll out shortly\n\nThis release includes a new active safety feature set: FSD Supervised can now activate on your behalf when an imminent collision is detected and Automatic Emergency Braking (AEB) may not be enough. \n\nIt may also engage if we detect you’re heavily distracted or have accidentally disengaged FSD\n\n\n\n— http://shitter.thepixora.com/Tesla_AI/status/2095767350070890688#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2095786423760859413#m",
       "date": "Fri, 04 Sep 2026 08:09:55 GMT"
     },
     {
       "text": "改朝换代。",
-      "link": "http://nitter.jaydenha.uk/usakes_zhang/status/2095521250768740620#m",
+      "link": "http://shitter.thepixora.com/usakes_zhang/status/2095521250768740620#m",
       "date": "Thu, 03 Sep 2026 14:36:13 GMT"
     },
     {
-      "text": "哦？interesting.\n\n\nShunyu Yao (@ShunyuYao14)\n\nThat’s one small step for model, one giant leap for RSI :)\n\n\n\n— http://nitter.jaydenha.uk/ShunyuYao14/status/2095199393112818047#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2095428539994804729#m",
+      "text": "哦？interesting.\n\n\nShunyu Yao (@ShunyuYao14)\n\nThat’s one small step for model, one giant leap for RSI :)\n\n\n\n— http://shitter.thepixora.com/ShunyuYao14/status/2095199393112818047#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2095428539994804729#m",
       "date": "Thu, 03 Sep 2026 08:27:49 GMT"
     },
     {
-      "text": "能否亲自介入和中国监管部门的对话？\n\n\nElon Musk (@elonmusk)\n\nI’ve done this many times\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2095381887233774007#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2095404809633640869#m",
+      "text": "能否亲自介入和中国监管部门的对话？\n\n\nElon Musk (@elonmusk)\n\nI’ve done this many times\n\n\n\n— http://shitter.thepixora.com/elonmusk/status/2095381887233774007#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2095404809633640869#m",
       "date": "Thu, 03 Sep 2026 06:53:32 GMT"
     },
     {
-      "text": "Damn 又挂了！🤦‍♂️Aryan 不错，及时同步失败的 Case.\n\n\nAryan Butala (@butala_aryan)\n\nUPDATE: FSD v14.3.8 still attempts to drive off the 6th floor of my parking garage. 😅\n\nInterior camera is in thread, along with original critical disengagement from v14.3.7. It appears to perform the same maneuver.\n\nSame conditions, same time of day, same destination in the navigation (HEB). Also, no I didn't make contact, it was close though.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/butala_aryan/status/2094858440069759480#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2094936848149704882#m",
+      "text": "Damn 又挂了！🤦‍♂️Aryan 不错，及时同步失败的 Case.\n\n\nAryan Butala (@butala_aryan)\n\nUPDATE: FSD v14.3.8 still attempts to drive off the 6th floor of my parking garage. 😅\n\nInterior camera is in thread, along with original critical disengagement from v14.3.7. It appears to perform the same maneuver.\n\nSame conditions, same time of day, same destination in the navigation (HEB). Also, no I didn't make contact, it was close though.\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/butala_aryan/status/2094858440069759480#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2094936848149704882#m",
       "date": "Tue, 01 Sep 2026 23:54:01 GMT"
     },
     {
-      "text": "一周时间，特斯拉解决了。\n\n\nAryan Butala (@butala_aryan)\n\nGood news!\n\nFSD v14.3.8 does not critically fail my parking garage from the quoted post!\n\nI tried 3 times. First 2 times it backed out with much room to spare. Third time I forced it into the spot, and it backed out in time. \n\nThe situation is a little different because there was a car parked here (last time it was empty). It is around the same time of day as the quoted post. I will look for when this spot is empty and retry, but as of right now its looking good, @Tesla_AI 👍\n\nAll tests below:\n\nTest #1 (all FSD) ✅\n\nVideo\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/butala_aryan/status/2094521886038249721#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2094621579745566814#m",
+      "text": "一周时间，特斯拉解决了。\n\n\nAryan Butala (@butala_aryan)\n\nGood news!\n\nFSD v14.3.8 does not critically fail my parking garage from the quoted post!\n\nI tried 3 times. First 2 times it backed out with much room to spare. Third time I forced it into the spot, and it backed out in time. \n\nThe situation is a little different because there was a car parked here (last time it was empty). It is around the same time of day as the quoted post. I will look for when this spot is empty and retry, but as of right now its looking good, @Tesla_AI 👍\n\nAll tests below:\n\nTest #1 (all FSD) ✅\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/butala_aryan/status/2094521886038249721#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2094621579745566814#m",
       "date": "Tue, 01 Sep 2026 03:01:15 GMT"
     },
     {
       "text": "关于 FSD 在中国的进度，一个正面消息是员工内测规模已经扩大至全体员工。但需要其实去年达沃斯论坛和今年股东大会，Elon 都说了有希望在今年 2 月或 3 月获批，之后 Elon 和特斯拉 CFO Vaibhav 在两次财报会上都说会在 Q3 具体是 8 月推送。今天是 9 月了，显然推送的限制不在 FSD 本土化进度。",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2094618260327317963#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2094618260327317963#m",
       "date": "Tue, 01 Sep 2026 02:48:04 GMT"
     },
     {
-      "text": "对我来说，如果特斯拉突然官宣未经验证就成功将 Robotaxi 推广至某个新城市，要比在已运营的这些城市投放 200 台 CyberCab 更让人印象深刻。因为那是对泛化能力和信心的证明。\n\n\nYoda (@teslayoda)\n\nKey insight from .@aelluswamy on Tesla’s Q2 2026 earnings call:\n\n“Expanding to new cities, it has been relatively less effort on our front... the time to launch to a new city will continue to trend towards zero”\n\nFSD is proving more generalizable across cities than previously expected, requiring relatively little additional effort to launch in each new city.\n\nThat makes scaling much easier.\n\n\n\n— http://nitter.jaydenha.uk/teslayoda/status/2094154514513445060#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2094587770987811191#m",
+      "text": "对我来说，如果特斯拉突然官宣未经验证就成功将 Robotaxi 推广至某个新城市，要比在已运营的这些城市投放 200 台 CyberCab 更让人印象深刻。因为那是对泛化能力和信心的证明。\n\n\nYoda (@teslayoda)\n\nKey insight from .@aelluswamy on Tesla’s Q2 2026 earnings call:\n\n“Expanding to new cities, it has been relatively less effort on our front... the time to launch to a new city will continue to trend towards zero”\n\nFSD is proving more generalizable across cities than previously expected, requiring relatively little additional effort to launch in each new city.\n\nThat makes scaling much easier.\n\n\n\n— http://shitter.thepixora.com/teslayoda/status/2094154514513445060#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2094587770987811191#m",
       "date": "Tue, 01 Sep 2026 00:46:54 GMT"
     },
     {
-      "text": "L5 需要 AGI，需要 AI5 也许 AI6 平台，需要大约 5 年的时间，不需要 LiDAR。我和他的看法非常接近。\n\n\nPeter Welinder (@npew)\n\nWon’t need lidar.\n\n\n\n— http://nitter.jaydenha.uk/npew/status/2093801889754468450#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2093890997537386701#m",
+      "text": "L5 需要 AGI，需要 AI5 也许 AI6 平台，需要大约 5 年的时间，不需要 LiDAR。我和他的看法非常接近。\n\n\nPeter Welinder (@npew)\n\nWon’t need lidar.\n\n\n\n— http://shitter.thepixora.com/npew/status/2093801889754468450#m",
+      "link": "http://shitter.thepixora.com/ChrisZheng001/status/2093890997537386701#m",
       "date": "Sun, 30 Aug 2026 02:38:11 GMT"
-    },
-    {
-      "text": "Exactly.\n\n\nThe Mind Scourge (@TheMindScourge)\n\nIncreasingly US industrial strategy is just “let Musk handle it”\n\nWhich makes sense. He has genuine convening power. People organize towards his interests. The system *wants* him to succeed \n\nIt’s a lot for any one person \n\nBut the future is basically China + the Semi-Autonomous Quasi-Sovereign Musk Zaibatsu\n\n\n\n— http://nitter.jaydenha.uk/TheMindScourge/status/2093790238963540257#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2093855832739905565#m",
-      "date": "Sun, 30 Aug 2026 00:18:27 GMT"
-    },
-    {
-      "text": "关于哨兵模式的问题解决起来并不复杂，只需要把 Model 3/Y 的电子电气架构升级到最新一代，和 Cybertruck 一致即可。现款车是十年前定义的架构了。\n\n\nSherwin M 🇵🇭 🇺🇸 (@sherwinmdev)\n\ni usually lose 7% each 24 hour period when we're in Vegas. Parked with sentry mode on. not even cabin temp protection. my Rivian only loses 1-2% per 24 period with gear guard gary\n\n\n\n— http://nitter.jaydenha.uk/sherwinmdev/status/2093522726493507837#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2093554575626125762#m",
-      "date": "Sat, 29 Aug 2026 04:21:21 GMT"
-    },
-    {
-      "text": "如果有人有印象，Lars 说过 Model  S/X 停产的原因之一是 2009 年定义的车身已经无法适应十几年后不断更新的碰撞测试标准，Model 3 平台已满十年，所以我十分好奇，在高优先级的 CyberCab 之后，特斯拉会如何处理 Model 3/Y，还会有平台换代吗？",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2093555277513564460#m",
-      "date": "Sat, 29 Aug 2026 04:24:09 GMT"
-    },
-    {
-      "text": "除了中国！🫠\n\n\nTesla (@Tesla)\n\nSummer Release is using Grok Think Fast 2.0\n\n\n\n— http://nitter.jaydenha.uk/Tesla/status/2092460375132586350#m",
-      "link": "http://nitter.jaydenha.uk/ChrisZheng001/status/2092485410295607793#m",
-      "date": "Wed, 26 Aug 2026 05:32:52 GMT"
     }
   ]
 }
