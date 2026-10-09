@@ -1,37 +1,12 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-06T05:45:56Z",
-  "count": 20,
+  "updated_at": "2026-10-09T10:16:39Z",
+  "count": 19,
   "tweets": [
     {
-      "text": "We noticed a new Tesla software update 2026.27.6.15 on Model X Plaid (2023) in Gyeonggi-do, South Korea. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.27.6.15 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.27.6.15.\nteslascope.com",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106964819374903529#m",
-      "date": "Mon, 05 Oct 2026 04:28:53 GMT"
-    },
-    {
-      "text": "The following feature is included: UI Improvements\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106964880334971070#m",
-      "date": "Mon, 05 Oct 2026 04:29:07 GMT"
-    },
-    {
-      "text": "The following feature is included: Speed Profiles\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106964865461964800#m",
-      "date": "Mon, 05 Oct 2026 04:29:04 GMT"
-    },
-    {
-      "text": "The following feature is included: FSD (Supervised) v14.2.2.5\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106964842594681179#m",
-      "date": "Mon, 05 Oct 2026 04:28:58 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.38 is now rolling out to ~2,200 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38 on Model 3 AWD LR (2019) in Utrecht, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.\nteslascope.com\n\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2105173605688471911#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106226698681287116#m",
-      "date": "Sat, 03 Oct 2026 03:35:51 GMT"
-    },
-    {
-      "text": "Tesla software update 2026.32.7 is now rolling out to ~8,360 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.32.7 on Model 3 SR (2023) in England, United Kingdom. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.32.7 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.32.7.\nteslascope.com\n\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2102580882984915418#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106114668120912241#m",
-      "date": "Fri, 02 Oct 2026 20:10:41 GMT"
+      "text": "Tesla software update 2026.33.5 is now rolling out to ~2,750 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.11 for eligible AI4 vehicles (64%) and V14.3 Lite for eligible HW3 vehicles (36%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.33.5 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2107659113433858520#m",
+      "link": "http://shitter.thepixora.com/teslascope/status/2108418105244356890#m",
+      "date": "Fri, 09 Oct 2026 04:43:43 GMT"
     },
     {
       "text": "New quarter is almost here, so new features inbound for our web and mobile apps over the next few months:\n\n⏰ Idle and Battery Drain Tracking\n\nYou'll finally be able to view a breakdown of what happened while your vehicle was idle (parked) such as sentry, cabin overheat protection, and more. One of the most requested features.\n\n🔋 Battery Health Comparisons\n\nThis quarter we launched our battery health breakdown and recently updated it with improved metrics and visuals. Next quarter you'll be able to compare your vehicle to the fleet.\n\n📷 Sentry Alerts (awaiting Apple review)\n\nReceive a notification any time Sentry Model is triggered on your vehicle. We've already completed the backend work for this, and it is awaiting Apple's App Store Review. \n\n🎶 Media Tracking (Opt-in)\n\nView your vehicle’s listening history during drives or while charging.\n\n📆 Massive Calendar Rework\n\nNew weekly and monthly breakdowns, which includes comparisons to prior periods and service alerts (if subscribed to Pro).\n\n🏆 Weekly Leaderboards\nOur leaderboards will now include weekly views in addition to our lifetime ones.\n\nMore information will be shared when these features are live, and as always, we appreciate your feedback!",
@@ -39,69 +14,89 @@
       "date": "Wed, 30 Sep 2026 22:17:43 GMT"
     },
     {
-      "text": "We noticed a new Tesla software update 2026.38 on Model 3 AWD LR (2019) in Utrecht, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.\nteslascope.com",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105173605688471911#m",
-      "date": "Wed, 30 Sep 2026 05:51:14 GMT"
+      "text": "We noticed a new Tesla software update 2026.38.3 on Model 3 SR (2024) in Madrid, Spain. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.\nteslascope.com",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107539774810505590#m",
+      "date": "Tue, 06 Oct 2026 18:33:33 GMT"
     },
     {
-      "text": "The following feature is included: Dynamic Headlight Leveling\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2106068308688568612#m",
-      "date": "Fri, 02 Oct 2026 17:06:28 GMT"
+      "text": "The following feature is included: Emergency Drive Away\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2108073156200075353#m",
+      "date": "Thu, 08 Oct 2026 05:53:01 GMT"
     },
     {
-      "text": "Tesla software update 2026.32.7 is now rolling out to ~5,390 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.32.7 on Model 3 SR (2023) in England, United Kingdom. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.32.7 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.32.7.\nteslascope.com\n\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2102580882984915418#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105905780851413058#m",
-      "date": "Fri, 02 Oct 2026 06:20:38 GMT"
+      "text": "We noticed a new Tesla software update 2026.38.3.1 on Model X AWD (2024) in Ticino, Switzerland. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.1.\nteslascope.com",
+      "link": "http://shitter.thepixora.com/teslascope/status/2108006444121403896#m",
+      "date": "Thu, 08 Oct 2026 01:27:55 GMT"
     },
     {
-      "text": "Tesla software update 2026.38 is now rolling out to ~1,540 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38 on Model 3 AWD LR (2019) in Utrecht, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.\nteslascope.com\n\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2105173605688471911#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105885219286823074#m",
-      "date": "Fri, 02 Oct 2026 04:58:56 GMT"
+      "text": "Tesla software update 2026.33.5 is now rolling out to ~1,320 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.11 for eligible AI4 vehicles (75%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.33.5 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2107659113433858520#m",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107969234428916128#m",
+      "date": "Wed, 07 Oct 2026 23:00:04 GMT"
     },
     {
-      "text": "Tesla is releasing a new feature called Emergency Drive Away, which will allow you to drive away in case of emergency, such as life threatening situations.\n\nTesla noted that this can result in damage to both your vehicle and the Supercharger.\n\n\nTesla Charging (@TeslaCharging)\n\nEmergency Drive Away lets you shift into Drive while still plugged into a Supercharger\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/TeslaCharging/status/2105793365027819830#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105798059791884676#m",
-      "date": "Thu, 01 Oct 2026 23:12:35 GMT"
+      "text": "This includes V14.3 Lite for HW3. Just updated the site.",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107970307269218598#m",
+      "date": "Wed, 07 Oct 2026 23:04:20 GMT"
     },
     {
-      "text": "Heads up! Costs can reach $25,000 in some instances, and $500+ in vehicle repair costs alone.\n\nDo NOT utilize this unless your life is absolutely in danger and you are unable to safely exit your vehicle to unplug the charger.\n\n\nTesla Charging (@TeslaCharging)\n\nDepends on the Supercharger, but electrical & civil cost can be up to $25k. Service visit mandatory for the chargeport. Only use in case of an emergency.\n\n\n\n— http://shitter.thepixora.com/TeslaCharging/status/2105811650310009179#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105822578229297210#m",
-      "date": "Fri, 02 Oct 2026 00:50:01 GMT"
+      "text": "Never doubt the scope. 😎\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.33.5 is now rolling out to ~1,320 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.11 for eligible AI4 vehicles (75%).\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2107969234428916128#m",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107969615020347422#m",
+      "date": "Wed, 07 Oct 2026 23:01:35 GMT"
     },
     {
-      "text": "Tesla via @pduan: Expect upcoming improvements in pothole detection and navigation.\n\nOur Thoughts: We believe these upgrades will initially be available only on AI4 vehicles, but navigation enhancements should also be accessible on older HW3 models.\n\n\nPhil Duan (@pduan)\n\nImprovements on both are coming.\n\n\n\n— http://shitter.thepixora.com/pduan/status/2105767696231190650#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105796989258760297#m",
-      "date": "Thu, 01 Oct 2026 23:08:20 GMT"
+      "text": "We have a good hunch that we’ll see V14.3 Lite expanding to additional HW3 vehicles, including to legacy Model S and X for the first time.\n\nV14.2 Lite saw multiple releases without ever expanding past customer-owned early access vehicles and feedback has been promising.",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107940918099845472#m",
+      "date": "Wed, 07 Oct 2026 21:07:33 GMT"
     },
     {
-      "text": "Platform Update:\n\nYou can now set \"Driver Seat Occupied\" and \"Driver Seat Unoccupied\" as a trigger in automations.\n\nYou can also now Pause and Play Media via Schedules and as a standalone control via our Developer APIs.\n\nAvailable on web now, and in the next iOS/Android update.",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105412338040086717#m",
-      "date": "Wed, 30 Sep 2026 21:39:52 GMT"
+      "text": "Next up, legacy Model S and X.",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107969769915965934#m",
+      "date": "Wed, 07 Oct 2026 23:02:11 GMT"
     },
     {
-      "text": "Tesla software update 2026.27.11 is now rolling out to ~4,510 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.10 for eligible AI4 vehicles (100%) and V14.2 Lite for eligible HW3 vehicles (0%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.27.11 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.27.11 (FSD V14.2 Lite/V14.3.10) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.27.11.\nteslascope.com\n\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2102638620624437688#m",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105277230603464956#m",
-      "date": "Wed, 30 Sep 2026 12:43:00 GMT"
+      "text": "Tesla software update 2026.33.100 is now rolling out to ~1,320 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.33.100 on Model Y SR (2026) in Utrecht, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nThis is either a factory updates (recently delivered vehicles) or a new Full Self-Driving build for Europe.\n\nLink\n\n\n\n2026.33.100 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.33.100.\nteslascope.com\n\n\n\n\n— http://shitter.thepixora.com/teslascope/status/2107545606436581788#m",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107909661856776338#m",
+      "date": "Wed, 07 Oct 2026 19:03:21 GMT"
     },
     {
-      "text": "When we're asked how many HW3 vehicles were included on this wave and received Full Self-Driving V14.2 Lite.",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105278368505790643#m",
-      "date": "Wed, 30 Sep 2026 12:47:31 GMT"
+      "text": "We noticed a new Tesla software update 2026.33.5 on Cybertruck AWD (2024) in Arizona, United States. View the rollout of this update here: teslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107659113433858520#m",
+      "date": "Wed, 07 Oct 2026 02:27:45 GMT"
     },
     {
-      "text": "The following feature is included: Visual Updates\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105212897009803622#m",
-      "date": "Wed, 30 Sep 2026 08:27:22 GMT"
+      "text": "The following feature is included: Start Self-Driving from Park\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107688818920845426#m",
+      "date": "Wed, 07 Oct 2026 04:25:48 GMT"
     },
     {
-      "text": "The following feature is included: Security Improvements\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105173628098605499#m",
-      "date": "Wed, 30 Sep 2026 05:51:19 GMT"
+      "text": "The following feature is included: UI Improvements\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107688807449456812#m",
+      "date": "Wed, 07 Oct 2026 04:25:45 GMT"
     },
     {
-      "text": "The following feature is included: Supercharger Site Maps\n\nteslascope.com/software/2026…",
-      "link": "http://shitter.thepixora.com/teslascope/status/2105173619089248759#m",
-      "date": "Wed, 30 Sep 2026 05:51:17 GMT"
+      "text": "The following feature is included: Speed Profiles\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107688793889271855#m",
+      "date": "Wed, 07 Oct 2026 04:25:42 GMT"
+    },
+    {
+      "text": "The following feature is included: Arrival Options\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107688782526898538#m",
+      "date": "Wed, 07 Oct 2026 04:25:39 GMT"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) v14.3 Lite\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107688771407708182#m",
+      "date": "Wed, 07 Oct 2026 04:25:36 GMT"
+    },
+    {
+      "text": "The following feature is included: Full Self-Driving (Supervised)\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107679629154591054#m",
+      "date": "Wed, 07 Oct 2026 03:49:17 GMT"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) v14.3.11\n\nteslascope.com/software/2026…",
+      "link": "http://shitter.thepixora.com/teslascope/status/2107679619302215897#m",
+      "date": "Wed, 07 Oct 2026 03:49:14 GMT"
     }
   ]
 }

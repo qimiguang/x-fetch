@@ -1,107 +1,107 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-09T01:04:39Z",
+  "updated_at": "2026-10-09T10:16:35Z",
   "count": 20,
   "tweets": [
     {
-      "text": "I'm GrokBot pilled.\n\nThe recent update with native X monitoring opens up a ton of new capabilities!\n\nMy 4 favorite routines (copy/paste these prompts):\n\nRoutine 1: Find real AI workflows on X (and skip the hype threads)\n\nEvery morning, this bot now finds real AI use cases being shared on X, and filters out the “10 prompts” hype threads.\n\n“Every weekday at 9:15am in my time zone, search X and the web for new AI workflows people are actually running. Keep only cases that name the old task, the tool, and the result: time saved, a step removed, or a handoff that used to need a person. Drop product announcements, “10 prompts” threads, and anything the author has not used more than once. Return at most 3. For each, give the link, the job it replaces, what I would need connected, and whether it fits my work. Send it to me on Slack. Do not post or reply anywhere else. Save this as a routine. If nothing qualifies, send one line saying so.”\n\nRoutine 2: Catch every mention of your brand\n\nThis bot catches every mention of The Rundown on X, labels it, and pings our team on Slack to respond (try tweeting us @therundownai and see what happens).\n\n“Every weekday at 9:00am, search X for mentions in the last 24 hours of [your brand, @handle, or your own name]. For each hit, give the author, link, a one-line summary, and whether it is praise, complaint, question, or neutral. Do not reply to anyone. Post the digest in [your Slack channel] and tag me. Save this as a routine. If a source is unavailable, say which one.”\n\nRoutine 3: Find people actively looking for what you do\n\nEvery 4 hours, this bot listens for people searching for the best AI newsletter on X, so we know exactly what readers are looking for.\n\n“Every 4 hours, search X for people evaluating [your category]. Catch three things: reviews or complaints about [category]; posts asking which [category] to use; and complaints about the problem [your product] solves. Quote the post, link it, name the account, and label it review, shopping, or complaint. Skip anything older than 24 hours, and skip [category] accounts promoting themselves. Post to [your Slack channel] only if there is at least one new hit you haven’t already shared. Do not reply to or interact with anyone. Save this as a routine. If the search fails, report the failure in Slack.”\n\nRoutine 4: Never lose a new contact again\n\nI meet A LOT of people at events. This bot looks through my new phone contacts and reminds me to follow up with the new people I just met.\n\n“Every weekday at 8:30am in my time zone, read my address book and list contacts added in the last 14 days. For each, show name, date added, phone, email, and any note. Ask me what we talked about before you write anything. Once I reply, draft a follow-up task for each person in [your task tool] with the context attached. Never text, email, or call anyone. Save this as a routine. If the address book is unavailable, say so and do not use old data.”\n\n\nGrok Bot (@bot)\n\nGrok Bot can now search, read, and monitor X.\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/bot/status/2107949161878606089#m",
-      "link": "http://shitter.thepixora.com/rowancheung/status/2108328114552000842#m",
+      "text": "😑\n\n\nNot the Bee (@Not_the_Bee)\n\nJames Talarico says the violent hierarchies of the heteropatriarchy have colonized white minds\nnotthebee.com/article/james-…\n\nLink\n\n\n\nJames Talarico says the violent hierarchies of the heteropatriarchy have colonized white minds\n\nTalafreako, who has gone missing in the middle of a contentious campaign due to the \"flu,\" has a lot of past comments to keep him in the news.\nnotthebee.com\n\n\n\n\n— http://nitter.meowing.monster/Not_the_Bee/status/2108227167264075883#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108462793112371679#m",
+      "date": "Fri, 09 Oct 2026 07:41:17 GMT"
+    },
+    {
+      "text": "Tesla Super Intelligence is the only one dedicated to solving real-world intelligence, from large-scale bits to atoms.",
+      "link": "http://nitter.meowing.monster/yunta_tsai/status/2108377550116503695#m",
+      "date": "Fri, 09 Oct 2026 02:02:34 GMT"
+    },
+    {
+      "text": "We’re just going to have @Grok Bots manage Grokipedia\n\n\nX Freeze (@XFreeze)\n\nYou can now watch Grokipedia evolve in real time\n\nLive edits are happening constantly across the platform as Grok reviews, updates and improves articles\n\nYou can literally follow the knowledge base changing as it happens\n\nPretty wild to watch an SI-maintained encyclopedia update itself live\n\ngrokipedia.com/live\n\n\n\n\n\n— http://nitter.meowing.monster/XFreeze/status/2108391379177193931#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108396888160387541#m",
+      "date": "Fri, 09 Oct 2026 03:19:24 GMT"
+    },
+    {
+      "text": "Using Grok @Bot is like hiring a super smart, hard-working person for peanuts\n\n\nTexas Twins Dad (@B_doong2daddy)\n\nFirst month I paid $200 Cursor Ultra just to try Grok Bot. I said to myself.. it's okay even I don't find it worth it, I will still learn something. I learned so much since I started Grok Bot + Cursor. I never imagined myself building an app. Not only I can't do coding but I also didn't have time to dig in. Grok Bot made this possible. \n\nGrok Bot is like FSD on Tesla. If you don't try it, you just won't get what I mean. Just try it for a week.\n\n\n\n— http://nitter.meowing.monster/B_doong2daddy/status/2108329820128186377#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108396588544745887#m",
+      "date": "Fri, 09 Oct 2026 03:18:13 GMT"
+    },
+    {
+      "text": "I'm GrokBot pilled.\n\nThe recent update with native X monitoring opens up a ton of new capabilities!\n\nMy 4 favorite routines (copy/paste these prompts):\n\nRoutine 1: Find real AI workflows on X (and skip the hype threads)\n\nEvery morning, this bot now finds real AI use cases being shared on X, and filters out the “10 prompts” hype threads.\n\n“Every weekday at 9:15am in my time zone, search X and the web for new AI workflows people are actually running. Keep only cases that name the old task, the tool, and the result: time saved, a step removed, or a handoff that used to need a person. Drop product announcements, “10 prompts” threads, and anything the author has not used more than once. Return at most 3. For each, give the link, the job it replaces, what I would need connected, and whether it fits my work. Send it to me on Slack. Do not post or reply anywhere else. Save this as a routine. If nothing qualifies, send one line saying so.”\n\nRoutine 2: Catch every mention of your brand\n\nThis bot catches every mention of The Rundown on X, labels it, and pings our team on Slack to respond (try tweeting us @therundownai and see what happens).\n\n“Every weekday at 9:00am, search X for mentions in the last 24 hours of [your brand, @handle, or your own name]. For each hit, give the author, link, a one-line summary, and whether it is praise, complaint, question, or neutral. Do not reply to anyone. Post the digest in [your Slack channel] and tag me. Save this as a routine. If a source is unavailable, say which one.”\n\nRoutine 3: Find people actively looking for what you do\n\nEvery 4 hours, this bot listens for people searching for the best AI newsletter on X, so we know exactly what readers are looking for.\n\n“Every 4 hours, search X for people evaluating [your category]. Catch three things: reviews or complaints about [category]; posts asking which [category] to use; and complaints about the problem [your product] solves. Quote the post, link it, name the account, and label it review, shopping, or complaint. Skip anything older than 24 hours, and skip [category] accounts promoting themselves. Post to [your Slack channel] only if there is at least one new hit you haven’t already shared. Do not reply to or interact with anyone. Save this as a routine. If the search fails, report the failure in Slack.”\n\nRoutine 4: Never lose a new contact again\n\nI meet A LOT of people at events. This bot looks through my new phone contacts and reminds me to follow up with the new people I just met.\n\n“Every weekday at 8:30am in my time zone, read my address book and list contacts added in the last 14 days. For each, show name, date added, phone, email, and any note. Ask me what we talked about before you write anything. Once I reply, draft a follow-up task for each person in [your task tool] with the context attached. Never text, email, or call anyone. Save this as a routine. If the address book is unavailable, say so and do not use old data.”\n\n\nGrok Bot (@bot)\n\nGrok Bot can now search, read, and monitor X.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/bot/status/2107949161878606089#m",
+      "link": "http://nitter.meowing.monster/rowancheung/status/2108328114552000842#m",
       "date": "Thu, 08 Oct 2026 22:46:08 GMT"
     },
     {
       "text": "One of my favorite and totally underrated @bot features is canvas.\n\nJust ask your Chief of Staff to present you an updates on the canvas, relax, and enjoy the results 😉",
-      "link": "http://shitter.thepixora.com/stepango/status/2108348368447778862#m",
+      "link": "http://nitter.meowing.monster/stepango/status/2108348368447778862#m",
       "date": "Fri, 09 Oct 2026 00:06:36 GMT"
     },
     {
       "text": "In the Cybercab I’m at peace 😌\n\nWatching YouTube videos, lounging \n\nI don’t want the ride to end 🤣 so relaxed \n\n@robotaxi & @tesla thank you for making this amazing service 🙏🙏🙏\n\nVideo",
-      "link": "http://shitter.thepixora.com/Gfilche/status/2108325645516419402#m",
+      "link": "http://nitter.meowing.monster/Gfilche/status/2108325645516419402#m",
       "date": "Thu, 08 Oct 2026 22:36:19 GMT"
     },
     {
       "text": "🚨 ELON MUSK ON INTERNET AND POVERTY\n\nElon said the single biggest thing you can do to lift people out of poverty is give them an internet connection.\n\nOnce people have internet, they can learn almost anything for free and sell their goods and services to the world.\n\nSpaceX is in a strong position. It will likely do about 90% of the mass launched to orbit this year, and nearly 80% of all active satellites in orbit are already SpaceX, providing high-bandwidth connectivity worldwide.\n\nVideo",
-      "link": "http://shitter.thepixora.com/AsFoundX/status/2108313121475412050#m",
+      "link": "http://nitter.meowing.monster/AsFoundX/status/2108313121475412050#m",
       "date": "Thu, 08 Oct 2026 21:46:33 GMT"
     },
     {
-      "text": "Shopify now connects to @grok and @bot. One more place merchants already work, now connected to their store. \n\nSolo founder no longer means solo operator.\n\n\nElon Musk (@elonmusk)\n\nHire Grok @Bot to manage your @Shopify store. He will do an amazing job!\n\n\n\n— http://shitter.thepixora.com/elonmusk/status/2108232824520319175#m",
-      "link": "http://shitter.thepixora.com/harleyf/status/2108243500089405641#m",
+      "text": "Shopify now connects to @grok and @bot. One more place merchants already work, now connected to their store. \n\nSolo founder no longer means solo operator.\n\n\nElon Musk (@elonmusk)\n\nHire Grok @Bot to manage your @Shopify store. He will do an amazing job!\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2108232824520319175#m",
+      "link": "http://nitter.meowing.monster/harleyf/status/2108243500089405641#m",
       "date": "Thu, 08 Oct 2026 17:09:54 GMT"
     },
     {
       "text": "Excited to announce that all super intelligence organizations have now jointly agreed to the ultimate in AI/SI safety:\n\nMoving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108321181602353333#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108321181602353333#m",
       "date": "Thu, 08 Oct 2026 22:18:35 GMT"
     },
     {
       "text": "Btw, this would ACTUALLY work!!",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108326517323248060#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108326517323248060#m",
       "date": "Thu, 08 Oct 2026 22:39:47 GMT"
     },
     {
       "text": "Talked to someone recently who knows a lot about defense tech, and he made an interesting point: the test of most military hardware right now is whether the Ukrainians want it. They have a hot war going against a determined opponent, and they know what works.",
-      "link": "http://shitter.thepixora.com/paulg/status/2108314679596769598#m",
+      "link": "http://nitter.meowing.monster/paulg/status/2108314679596769598#m",
       "date": "Thu, 08 Oct 2026 21:52:44 GMT"
     },
     {
       "text": "Reid Hoffman is James Talarico's top donor.\n\nYes, this Reid Hoffman.👇",
-      "link": "http://shitter.thepixora.com/C_3C_3/status/2108013275967320097#m",
+      "link": "http://nitter.meowing.monster/C_3C_3/status/2108013275967320097#m",
       "date": "Thu, 08 Oct 2026 01:55:04 GMT"
     },
     {
-      "text": "🤔\n\n\n\n\nPolymarket (@Polymarket)\n\nJUST IN: Texas Democratic Senate candidate James Talarico has now been absent from the campaign trail for 12 days as he battles \"the flu.\"\n\n\n\n— http://shitter.thepixora.com/Polymarket/status/2108279927019565240#m",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108319173851947042#m",
+      "text": "🤔\n\n\n\n\nPolymarket (@Polymarket)\n\nJUST IN: Texas Democratic Senate candidate James Talarico has now been absent from the campaign trail for 12 days as he battles \"the flu.\"\n\n\n\n— http://nitter.meowing.monster/Polymarket/status/2108279927019565240#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108319173851947042#m",
       "date": "Thu, 08 Oct 2026 22:10:36 GMT"
     },
     {
       "text": "Seattle city council wanted to help \"exploited\" gig workers.\n \nSo they forced delivery apps to pay drivers MORE.\n \n\"I wouldn’t assume that prices are going to go up,\" said one politician.\n \nBut prices DID go up.\n \n@judgeglock of @ManhattanInst explains how regulation backfired:\n\nVideo",
-      "link": "http://shitter.thepixora.com/JohnStossel/status/2108293353146024440#m",
+      "link": "http://nitter.meowing.monster/JohnStossel/status/2108293353146024440#m",
       "date": "Thu, 08 Oct 2026 20:28:00 GMT"
     },
     {
       "text": "This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108315261044445330#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108315261044445330#m",
       "date": "Thu, 08 Oct 2026 21:55:03 GMT"
     },
     {
-      "text": "Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scientific breakthroughs.\n\nAnd to fellow honorees Elon Musk, Lisa Su, Michael Dell, Satya Nadella, and Sergey Brin.\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS presents the National Medal of Science to Sergey Brin, @JensenHuang, @elonmusk, and @LisaSu, and the National Medal of Technology and Innovation to @MichaelDell and @satyanadella.\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/RapidResponse47/status/2108258677773967451#m",
-      "link": "http://shitter.thepixora.com/nvidia/status/2108291409623314770#m",
+      "text": "Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scientific breakthroughs.\n\nAnd to fellow honorees Elon Musk, Lisa Su, Michael Dell, Satya Nadella, and Sergey Brin.\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS presents the National Medal of Science to Sergey Brin, @JensenHuang, @elonmusk, and @LisaSu, and the National Medal of Technology and Innovation to @MichaelDell and @satyanadella.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/RapidResponse47/status/2108258677773967451#m",
+      "link": "http://nitter.meowing.monster/nvidia/status/2108291409623314770#m",
       "date": "Thu, 08 Oct 2026 20:20:16 GMT"
     },
     {
       "text": "heard you have other apps...that's cute",
-      "link": "http://shitter.thepixora.com/X/status/2108299253655257139#m",
+      "link": "http://nitter.meowing.monster/X/status/2108299253655257139#m",
       "date": "Thu, 08 Oct 2026 20:51:27 GMT"
     },
     {
       "text": "RT @Gwynne_Shotwell: I have been a posting slug!\n\nHow about that launch triple header last week:  Starship, Crew 13, and Heavy!!!\nTerrestri…",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108311744255021547#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108311744255021547#m",
       "date": "Thu, 08 Oct 2026 21:41:05 GMT"
     },
     {
-      "text": "Congratulations to Sergey, Jensen, Lisa, Michael and Satya!\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS presents the National Medal of Science to Sergey Brin, @JensenHuang, @elonmusk, and @LisaSu, and the National Medal of Technology and Innovation to @MichaelDell and @satyanadella.\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/RapidResponse47/status/2108258677773967451#m",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108310399477293085#m",
+      "text": "Congratulations to Sergey, Jensen, Lisa, Michael and Satya!\n\n\nRapid Response 47 (@RapidResponse47)\n\n.@POTUS presents the National Medal of Science to Sergey Brin, @JensenHuang, @elonmusk, and @LisaSu, and the National Medal of Technology and Innovation to @MichaelDell and @satyanadella.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/RapidResponse47/status/2108258677773967451#m",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2108310399477293085#m",
       "date": "Thu, 08 Oct 2026 21:35:44 GMT"
-    },
-    {
-      "text": "Big day for @Starlink Mobile…\n\n\nSpaceX (@SpaceX)\n\nWe announced an agreement to acquire a nationwide low-band spectrum license portfolio that will pave the way for @Starlink to become a major mobile carrier in the US.\n\nWith this new spectrum and our Gen2 constellation, Starlink Mobile can ensure Americans have access to high-speed mobile broadband no matter where they are → spacex.com/updates#starlink-…\n\n\n\n\n\n— http://shitter.thepixora.com/SpaceX/status/2108291133025698301#m",
-      "link": "http://shitter.thepixora.com/michaelnicollsx/status/2108299376682738089#m",
-      "date": "Thu, 08 Oct 2026 20:51:56 GMT"
-    },
-    {
-      "text": "Yes\n\n\nAaron Burnett (@aaronburnett)\n\nRemember that phones coming in 2027/2028 will be equipped with chipsets to handle Starlink mobile’s other higher throughput spectrum natively. \n\nAnother part of the spectrum puzzle that’s already sorted but part of the conversation before SpaceX was public so has gone under the radar.\n\n\n\n— http://shitter.thepixora.com/aaronburnett/status/2108304619042492674#m",
-      "link": "http://shitter.thepixora.com/elonmusk/status/2108308835949740320#m",
-      "date": "Thu, 08 Oct 2026 21:29:31 GMT"
-    },
-    {
-      "text": "I love @bot 🤖\n\nI’m using it to clean up one of my Shopify stores and remove the worst-performing products.\n\nSomething that would normally take me hours can now be done in minutes.\n\nAI is getting ridiculously good. 🤯",
-      "link": "http://shitter.thepixora.com/ClownWorld/status/2108286770031067221#m",
-      "date": "Thu, 08 Oct 2026 20:01:50 GMT"
-    },
-    {
-      "text": "doing deep research with Grok Bot’s new X integration\n\n\n\n\nGrok Bot (@bot)\n\nGrok Bot can now search, read, and monitor X.\n\nVideo\n  \n\n\n\n\n\n— http://shitter.thepixora.com/bot/status/2107949161878606089#m",
-      "link": "http://shitter.thepixora.com/TrungTPhan/status/2108206397569822815#m",
-      "date": "Thu, 08 Oct 2026 14:42:28 GMT"
     }
   ]
 }
