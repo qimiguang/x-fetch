@@ -43,6 +43,8 @@ NITTER_INSTANCES = [
 
 COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
 MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
+TRANSLATE_PER_RUN = 100   # 每次运行最多新翻译的推文数（存量回填限速，避免超时）
+TRANSLATE_MAX_CHARS = 4000  # gtx 单次请求文本上限
 HEADERS_COMMON = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
@@ -363,6 +365,65 @@ def fetch_via_nitter(username):
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
+# ── 翻译（中文译文） ─────────────────────────────────────────────────────
+
+def translate_to_zh(text):
+    """用 Google 翻译公开端点（无需 key）把推文翻成中文。失败返回 None，下次运行重试。"""
+    text = text.strip()
+    if not text:
+        return None
+    # 长推文按行切成不超过上限的片段，分别翻译后拼接
+    chunks, cur = [], ""
+    for line in text.split("\n"):
+        if len(cur) + len(line) + 1 > TRANSLATE_MAX_CHARS:
+            if cur:
+                chunks.append(cur)
+            cur = line[:TRANSLATE_MAX_CHARS]
+        else:
+            cur = (cur + "\n" + line) if cur else line
+    if cur:
+        chunks.append(cur)
+
+    parts = []
+    for chunk in chunks:
+        url = (
+            "https://translate.googleapis.com/translate_a/single"
+            "?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" + urllib.parse.quote(chunk)
+        )
+        data = None
+        for attempt in range(3):
+            data = fetch_json(url, timeout=15)
+            if data and data.get("0"):
+                break
+            time.sleep(1.5 * (attempt + 1))
+        if not data or not data.get("0"):
+            return None
+        try:
+            parts.append("".join(seg[0] for seg in data["0"] if seg and seg[0]))
+        except (TypeError, KeyError, IndexError):
+            return None
+    return "\n".join(parts)
+
+
+def fill_translations(tweets, budget):
+    """为缺失 text_zh 的推文补翻译，最多消耗 budget 条。返回实际翻译条数。
+    列表已按时间倒序，优先翻译最新的推文。"""
+    done = 0
+    for t in tweets:
+        if done >= budget:
+            break
+        if t.get("text_zh"):
+            continue
+        zh = translate_to_zh(t.get("text", ""))
+        if zh:
+            t["text_zh"] = zh
+            done += 1
+            time.sleep(0.2)  # 温和限速，降低被限流概率
+        else:
+            print(f"    translate failed (will retry next run): {t.get('date', '')[:20]}")
+    return done
+
+
 def parse_date_flex(s):
     """兼容 RFC 2822（GMT）与 ISO 8601 两种日期格式。"""
     from email.utils import parsedate_to_datetime
@@ -456,8 +517,10 @@ def main():
     for username in usernames:
         print(f"\n{'='*40}\nFetching @{username}...")
         tweets = fetch_tweets(username)
+        translated = 0
         if tweets:
             merged_tweets = merge_with_existing(username, tweets)
+            translated = fill_translations(merged_tweets, TRANSLATE_PER_RUN)
             output = {
                 "username": username,
                 "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -467,7 +530,7 @@ def main():
             path = f"data/{username.lower()}.json"
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
-            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}) -> {path}")
+            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}) -> {path}")
             summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
