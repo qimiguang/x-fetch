@@ -1,0 +1,23 @@
+# 防止 GitHub 在仓库 60 天无提交后自动禁用 scheduled workflow。
+# 借助 gautamkrishnar/keepalive-workflow：仅在仓库接近不活跃阈值（默认 50 天无提交）时
+# 才创建一次空提交来"保活"，正常运行期间不会产生任何多余提交。
+
+name: Keepalive
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'   # 每周一 03:00 UTC 检查一次
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Keepalive
+        uses: gautamkrishnar/keepalive-workflow@v2

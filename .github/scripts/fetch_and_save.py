@@ -41,7 +41,8 @@ NITTER_INSTANCES = [
     "https://nitter.kavin.rocks",
 ]
 
-COUNT = 20
+COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
+MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
 HEADERS_COMMON = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
@@ -362,6 +363,59 @@ def fetch_via_nitter(username):
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
+def parse_date_flex(s):
+    """兼容 RFC 2822（GMT）与 ISO 8601 两种日期格式。"""
+    from email.utils import parsedate_to_datetime
+    try:
+        return parsedate_to_datetime(s).astimezone(timezone.utc)
+    except Exception:
+        pass
+    for fmt in ("%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%d %H:%M:%S"):
+        try:
+            return datetime.strptime(s, fmt).replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+    return None
+
+
+def tweet_key(t):
+    """推文去重键：优先用 link 中的推文 ID（统一 nitter/x.com 域名），
+    其次 tweet_id，最后退化为归一化文本前缀。"""
+    m = re.search(r"/status/(\d+)", t.get("link", ""))
+    if m:
+        return "id:" + m.group(1)
+    if t.get("tweet_id"):
+        return "id:" + str(t["tweet_id"])
+    return "txt:" + re.sub(r"\s+", " ", t.get("text", ""))[:80]
+
+
+def merge_with_existing(username, tweets):
+    """与 data/{username}.json 中的历史数据合并，去重后按时间倒序截取前 MAX_TWEETS 条。
+    这样即使单次抓取只返回 20 条，每 3 小时累积也能存满 200 条，且短暂漏跑不丢推文。"""
+    path = f"data/{username.lower()}.json"
+    existing = []
+    if os.path.exists(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                existing = json.load(f).get("tweets", [])
+        except (json.JSONDecodeError, OSError):
+            existing = []
+
+    merged = {}
+    for t in existing + tweets:
+        key = tweet_key(t)
+        if key and key not in merged:
+            merged[key] = t
+
+    epoch = datetime.min.replace(tzinfo=timezone.utc)
+    result = sorted(
+        merged.values(),
+        key=lambda t: parse_date_flex(t.get("date", "")) or epoch,
+        reverse=True,
+    )
+    return result[:MAX_TWEETS]
+
+
 def fetch_tweets(username):
     # 方法1: Syndication API（最稳定，对高流量账号也有效）
     tweets = fetch_via_syndication(username)
@@ -403,17 +457,18 @@ def main():
         print(f"\n{'='*40}\nFetching @{username}...")
         tweets = fetch_tweets(username)
         if tweets:
+            merged_tweets = merge_with_existing(username, tweets)
             output = {
                 "username": username,
                 "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                "count": len(tweets),
-                "tweets": tweets,
+                "count": len(merged_tweets),
+                "tweets": merged_tweets,
             }
             path = f"data/{username.lower()}.json"
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
-            print(f"  Saved {len(tweets)} tweets -> {path}")
-            summary[username] = len(tweets)
+            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}) -> {path}")
+            summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
             summary[username] = 0
