@@ -1,22 +1,37 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-18T15:39:07Z",
-  "count": 20,
+  "updated_at": "2026-10-20T03:13:07Z",
+  "count": 23,
   "tweets": [
+    {
+      "text": "We noticed a new Tesla software update 2026.32.200 on a Tesla vehicle (20XX). View the rollout of this update here: teslascope.com/software/2026…\n\nThis is either a factory updates (recently delivered vehicles) or a new Full Self-Driving build for Europe.\n\nLink\n\n\n\n2026.32.200 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.32.200.\nteslascope.com",
+      "link": "http://nitter.meowing.monster/teslascope/status/2112372769388175692#m",
+      "date": "Tue, 20 Oct 2026 02:38:08 GMT"
+    },
+    {
+      "text": "Dan reached out to us requesting for charging schedule support so his Grok @bot could prepare for a roadtrip.\n\nWithin two hours, we added support for setting up charging schedules and preconditioning.\n\nIf we're missing a specific feature, just ask!\n\nteslascope.com/developers/do…\n\nLink\n\n\n\nDeveloper Documentation - Teslascope\n\nVehicleScope developer APIs and reference documentation.\nteslascope.com\n\n\n\nDan Burkland (@DBurkland)\n\nHuge thanks to Tyler at @teslascope! Yesterday I asked for charge schedule support in the Teslascope API, and it was live almost immediately. Today my Grok @Bot used it to build a road trip prep skill. I tell it when I'm leaving, and it sets the Plaid to 100%, adds a one-time charge schedule that finishes right at departure, then puts everything back to normal afterward. Tested it live and it worked perfectly.\n\n\n\n\n\n— http://nitter.meowing.monster/DBurkland/status/2112017140710883535#m",
+      "link": "http://nitter.meowing.monster/teslascope/status/2112019492507463946#m",
+      "date": "Mon, 19 Oct 2026 03:14:21 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.38.5.1 is now rolling out to ~12,100 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (52%) and V14.3 Lite for eligible HW3 vehicles (48%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "link": "http://nitter.meowing.monster/teslascope/status/2111939164539072603#m",
+      "date": "Sun, 18 Oct 2026 21:55:09 GMT"
+    },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~15,620 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (46%) and V14.3 Lite for eligible HW3 vehicles (54%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2111679957764104653#m",
       "date": "Sun, 18 Oct 2026 04:45:09 GMT"
     },
     {
-      "text": "Tesla software update 2026.38.5.1 is now rolling out to ~9,570 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (44%) and V14.3 Lite for eligible HW3 vehicles (56%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
-      "link": "http://nitter.meowing.monster/teslascope/status/2111600697774936487#m",
-      "date": "Sat, 17 Oct 2026 23:30:12 GMT"
-    },
-    {
       "text": "We were included in this wave! And notified by our app before the Tesla app.\n\nAlso starring @Speenuh.",
       "link": "http://nitter.meowing.monster/teslascope/status/2111602298229334019#m",
       "date": "Sat, 17 Oct 2026 23:36:34 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.38.5.1 is now rolling out to ~9,570 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (44%) and V14.3 Lite for eligible HW3 vehicles (56%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "link": "http://nitter.meowing.monster/teslascope/status/2111600697774936487#m",
+      "date": "Sat, 17 Oct 2026 23:30:12 GMT"
     },
     {
       "text": "A rare opinion piece:\n\nWe have seen a ton of discourse regarding the new @Tesla Roadster as well as other opinion pieces that we believe are misguided. There has also been a lot of misinformation.\n\nIt is human to equate how specific features or products can fit into our own lives. However, when we do this, it is easy to discard the use cases and experiences of others.\n\nThe majority of comments revolve around the Thrust and Rocket tiers and their relevant features. These tiers are expected to be exorbitantly expensive, in the range of many supercars and hypercars. At those price ranges, these vehicles are rarely daily drivers and exist almost solely for driving on a track or specialized roads.\n\nThere is an expectation of this class of vehicle that special considerations are to be expected, including maintenance and often monthly costs. What doesn't make sense to you, may make complete sense to track drivers. We've seen countless comments about the downforce suction being \"pointless\", while the fully electric McMurtry has proven the technology as an industry changing (and scientific) breakthrough.\n\nLastly, the newly unveiled and redesigned Roadster was not delayed due to the addition of the thrusters. Elon had publicly stated that the vehicle would possess thrusters almost eight years ago, going as far as confirming across multiple posts that the vehicle would be able to hover.\n\nThis sentiment has been baked into the Roadster's plans since early on in its inception; not a secondary concept stapled on after the fact.\n\nAt the end of the day, we appreciate the design considerations of @woodhaus2 and the many benefits it brings. The prior iteration was loved by many, but we feel the redesign is uniquely Tesla.\n\nAs always, we would love your thoughts.",
@@ -54,19 +69,14 @@
       "date": "Fri, 16 Oct 2026 01:15:47 GMT"
     },
     {
-      "text": "WHAT.",
-      "link": "http://nitter.meowing.monster/teslascope/status/2110900507921518896#m",
-      "date": "Fri, 16 Oct 2026 01:07:54 GMT"
-    },
-    {
       "text": "R to @teslascope: Image",
       "link": "http://nitter.meowing.monster/teslascope/status/2110900585528689068#m",
       "date": "Fri, 16 Oct 2026 01:08:12 GMT"
     },
     {
-      "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
-      "link": "http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
-      "date": "Fri, 16 Oct 2026 00:10:10 GMT"
+      "text": "WHAT.",
+      "link": "http://nitter.meowing.monster/teslascope/status/2110900507921518896#m",
+      "date": "Fri, 16 Oct 2026 01:07:54 GMT"
     },
     {
       "text": "This is the largest rollout of 2026.38.5.1 to date!",
@@ -77,6 +87,11 @@
       "text": "HUGE rollout of FSD v14.3 lite/FSD v14.3.12. Check your apps!\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
       "link": "http://nitter.meowing.monster/BLKMDL3/status/2110886094074212798#m",
       "date": "Fri, 16 Oct 2026 00:10:37 GMT"
+    },
+    {
+      "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "link": "http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
+      "date": "Fri, 16 Oct 2026 00:10:10 GMT"
     },
     {
       "text": "We added Sentry alerts to our iOS (pending Apple’s approval) and available to all vehicle subscribed to Pro.\n\nDriver detection as an Automation trigger has also been added to web, iOS, and Android.\n\nHere’s some alerts from a drive into Los Angeles earlier for my own vehicle.",
