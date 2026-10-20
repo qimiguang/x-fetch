@@ -1,7 +1,7 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-10-20T03:35:03Z",
-  "count": 17,
+  "updated_at": "2026-10-20T12:42:57Z",
+  "count": 130,
   "tweets": [
     {
       "text": "FSD saved me AGAIN from a maniac. This was the second crash it helped me avoid this year.\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\nRaines (@raines1220)\n\nFSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2067801983306866712#m",
@@ -104,6 +104,784 @@
       "link": "http://nitter.meowing.monster/elonmusk/status/2067377176287318326#m",
       "date": "Wed, 17 Jun 2026 22:41:43 GMT",
       "text_zh": "即将发布的 FSD 将记住您的停车偏好，以便汽车前往您家、办公室、学校下车处等的正确位置。\n\n到目前为止，目的地停车是人们使用 FSD 进行干预的最大原因。关键的安全干预措施极为罕见。"
+    },
+    {
+      "text": "I think there’s something very subtle happening in FSD v14. According to Elon, this version allows the car to see the world with far less compression loss. In other words, it perceives everything with higher fidelity, richer detail, and more texture. This means it can now see",
+      "link": "https://x.com/raines1220/status/1985577692406624308",
+      "date": "Tue Nov 04 05:19:46 +0000 2025",
+      "tweet_id": "1985577692406624308",
+      "text_zh": "我认为 FSD v14 中发生了一些非常微妙的事情。根据埃隆的说法，这个版本可以让汽车以少得多的压缩损失看到世界。换句话说，它感知一切的保真度更高、细节更丰富、质感更强。这意味着它现在可以看到"
+    },
+    {
+      "text": "I’ve noticed a ton of weird behavior in FSD v14.1.4 that is robotic, jerky, awkward, and 100% not human-like. And I’d like to call out a huge regression in alignment.\n\nFor example, after a left turn, it could suddenly pull itself to the rightmost lane  in a very jerky and robotic",
+      "link": "https://x.com/raines1220/status/1983021241649791070",
+      "date": "Tue Oct 28 04:01:21 +0000 2025",
+      "tweet_id": "1983021241649791070",
+      "text_zh": "我注意到 FSD v14.1.4 中有大量奇怪的行为，这些行为是机械的、生涩的、笨拙的，而且 100% 不像人类。我想指出一个巨大的一致性倒退。\n\n例如，左转后，它可能会突然以一种非常急躁和机械的方式将自己拉到最右边的车道"
+    },
+    {
+      "text": "After more seat time with v14.1.4, I start to believe that it finally shows the potential of driving safer than an average human driver who is NOT DISTRACTED. And trust me, this is phenomenal. \n\nHuman drivers are bad drivers, but 99% of the faults are caused by distracted",
+      "link": "https://x.com/raines1220/status/1982837497785651357",
+      "date": "Mon Oct 27 15:51:13 +0000 2025",
+      "tweet_id": "1982837497785651357",
+      "text_zh": "在使用 v14.1.4 获得更多座位时间后，我开始相信它最终显示出比不分心的普通人类驾驶员更安全驾驶的潜力。相信我，这是惊人的。 \n\n人类驾驶员是不好的驾驶员，但 99% 的故障都是由于分心造成的"
+    },
+    {
+      "text": "My first impression of v14.1.4 (Mad Max): no hesitation, no brake stabbing. It drives confidently and turns smoother (with less G-force). It also parks decisively and chose the best spot for me. So far, I guess my localized parameters are just different from others.",
+      "link": "https://x.com/raines1220/status/1982826061479186864",
+      "date": "Mon Oct 27 15:05:46 +0000 2025",
+      "tweet_id": "1982826061479186864",
+      "text_zh": "我对v14.1.4（疯狂麦克斯）的第一印象：没有犹豫，没有刹车刺伤。它驾驶起来更加自信，转向更加平稳（重力更小）。它也果断停车，为我选择了最好的位置。到目前为止，我想我的本地化参数只是与其他人不同。"
+    },
+    {
+      "text": "I really like Ashok’s talk in ICCV 2025. It is vague enough to prevent any copycat from reproducing the work, but it is specific enough to help me confirm that most of my early theory and guesses on FSD’s training are correct. https://t.co/5aSCn1JGVf",
+      "link": "https://x.com/raines1220/status/1981402532862972387",
+      "date": "Thu Oct 23 16:49:11 +0000 2025",
+      "tweet_id": "1981402532862972387",
+      "text_zh": "我非常喜欢 Ashok 在 ICCV 2025 上的演讲。它足够模糊，足以防止任何模仿者复制该工作，但它足够具体，可以帮助我确认我早期对 FSD 训练的大部分理论和猜测是正确的。 https://t.co/5aSCn1JGVf"
+    },
+    {
+      "text": "One year later, FSD v14 is proving my theory right: with greater intelligence, it enables earlier crash prevention. In future versions, you won’t be able to measure how safe AI is by how often you intervene, because every time you’re about to act to prevent a crash, FSD will",
+      "link": "https://x.com/raines1220/status/1980647287014469935",
+      "date": "Tue Oct 21 14:48:06 +0000 2025",
+      "tweet_id": "1980647287014469935",
+      "text_zh": "一年后，FSD v14 证明了我的理论是正确的：凭借更高的智能，它可以更早地预防碰撞。在未来的版本中，你将无法通过干预的频率来衡量 AI 的安全程度，因为每次你要采取行动防止碰撞时，FSD 都会"
+    },
+    {
+      "text": "@wholemars Elon isn’t the expert engineer who wrote the most self-driving code, nor is he the scientist who published the most research on autonomous driving. But when the world’s most renowned engineers and scientists insist that LiDAR is the only path forward—so much so that it becomes",
+      "link": "https://x.com/raines1220/status/1979986776358814177",
+      "date": "Sun Oct 19 19:03:28 +0000 2025",
+      "tweet_id": "1979986776358814177",
+      "text_zh": "@wholemars Elon 并不是编写最多自动驾驶代码的专家工程师，也不是发表最多自动驾驶研究的科学家。但是，当世界上最著名的工程师和科学家坚持认为激光雷达是唯一的前进道路时，以至于它变得"
+    },
+    {
+      "text": "Here’s a brutal fact: all early-access users of FSD v14 can no longer meaningfully contribute to safety validation. \n\nAfter all that testing, the best they can show is that v14 might park in a handicap spot, hesitate, brake too hard, or make other small mistakes — none of which",
+      "link": "https://x.com/raines1220/status/1978510054165754157",
+      "date": "Wed Oct 15 17:15:30 +0000 2025",
+      "tweet_id": "1978510054165754157",
+      "text_zh": "这是一个残酷的事实：FSD v14 的所有早期访问用户都无法再为安全验证做出有意义的贡献。 \n\n经过所有这些测试，他们能展示的最好结果是 v14 可能会停在一个障碍点、犹豫、刹车太猛或犯其他小错误 - 这些都不是"
+    },
+    {
+      "text": "This is an example that FSD drives safer than a human, but both the human driver and Dan do NOT have good enough driving skills to realize that.\n\nThe car on the left is trying to change lanes dangerously. FSD anticipates that, and slams the brake very early, but the human driver",
+      "link": "https://x.com/raines1220/status/1976682991217684644",
+      "date": "Fri Oct 10 16:15:24 +0000 2025",
+      "tweet_id": "1976682991217684644",
+      "text_zh": "这是一个 FSD 驾驶比人类更安全的例子，但人类驾驶员和 Dan 都没有足够好的驾驶技能来认识到这一点。\n\n左边的车正试图危险地变道。 FSD 预见到了这一点，并很早就踩下了刹车，但人类驾驶员"
+    },
+    {
+      "text": "Watch @Tesla Full Self-Driving v14.1 repeatedly slam on the brakes in the middle of a busy road for no reason.\n\nRoad users did not sign up to be test subjects for @ElonMusk’s dangerous and defective software. https://t.co/EM0NQifztl",
+      "link": "https://x.com/RealDanODowd/status/1976670082387579381",
+      "date": "Fri Oct 10 15:24:07 +0000 2025",
+      "tweet_id": "1976670082387579381",
+      "text_zh": "观看 @Tesla Full Self-Driving v14.1 在繁忙道路中间无缘无故反复踩刹车。\n\n道路使用者没有报名成为 @ElonMusk 危险且有缺陷的软件的测试对象。 https://t.co/EM0NQifztl"
+    },
+    {
+      "text": "Tesla no longer relies on our data for training because our reactions are too late to be safe. Reinforcement learning is supposed to surpass our capabilities.",
+      "link": "https://x.com/raines1220/status/1975943162364625050",
+      "date": "Wed Oct 08 15:15:35 +0000 2025",
+      "tweet_id": "1975943162364625050",
+      "text_zh": "特斯拉不再依赖我们的数据进行训练，因为我们的反应太晚了，不安全。强化学习应该超越我们的能力。"
+    },
+    {
+      "text": "It reacts very early to things. Before I can see them.",
+      "link": "https://x.com/wholemars/status/1975776206151950463",
+      "date": "Wed Oct 08 04:12:10 +0000 2025",
+      "tweet_id": "1975776206151950463",
+      "text_zh": "它对事物的反应很早。在我能看到他们之前。"
+    },
+    {
+      "text": "FSD v14 preliminary takeaways:\n1. you no longer need to look at roads if there is nothing special (e.g., construction cones). \n2. It reads signs and understands it, and use it for navigating through a parking garage.\n3. FSD no longer needs your intervention data for training. and",
+      "link": "https://x.com/raines1220/status/1975577538106630286",
+      "date": "Tue Oct 07 15:02:44 +0000 2025",
+      "tweet_id": "1975577538106630286",
+      "text_zh": "FSD v14 初步要点：\n1. 如果没有什么特别的（例如建筑锥体），您不再需要查看道路。 \n2. 它可以读取并理解标志，并用它来导航通过停车场。\n3. FSD 不再需要您的干预数据进行训练。和"
+    },
+    {
+      "text": "FSD v13 surprises me every day. https://t.co/8SEwXqG137",
+      "link": "https://x.com/raines1220/status/1969857052194300313",
+      "date": "Sun Sep 21 20:11:34 +0000 2025",
+      "tweet_id": "1969857052194300313",
+      "text_zh": "FSD v13 每天都给我带来惊喜。 https://t.co/8SEwXqG137"
+    },
+    {
+      "text": "\"The driver has confirmed that he didn't press the accelerator. His foot was hovering over the pedal and FSD began moving on its own, as you can see in the video.\"\n\nWhen FSD is about to make a dangerous move, any reasonable human being would hover their foot on the brake, rather",
+      "link": "https://x.com/raines1220/status/1969456798361936082",
+      "date": "Sat Sep 20 17:41:06 +0000 2025",
+      "tweet_id": "1969456798361936082",
+      "text_zh": "“驾驶员已确认他没有踩油门。他的脚悬停在踏板上，FSD 开始自行移动，正如您在视频中看到的那样。”\n\n当FSD即将做出危险举动时，任何有理智的人都会将脚悬停在刹车上，而不是"
+    },
+    {
+      "text": "@AIDRIVR I thought we were past these baseless claims of pressing the accelerator. The driver has confirmed that he didn't press the accelerator. His foot was hovering over the pedal and FSD began moving on its own, as you can see in video.\n\nAnything to say about the first half of video",
+      "link": "https://x.com/RealDanODowd/status/1968811422177173519",
+      "date": "Thu Sep 18 22:56:36 +0000 2025",
+      "tweet_id": "1968811422177173519",
+      "text_zh": "@AIDRIVR 我认为我们已经摆脱了这些毫无根据的踩油门的说法。司机确认他没有踩油门。他的脚悬停在踏板上，FSD 开始自行移动，正如您在视频中看到的那样。\n\n关于视频前半部分有什么想说的吗"
+    },
+    {
+      "text": "@wholemars @elonmusk @IAmGlennonX @Tslachan The model has one goal: predict how a perfect human would drive. So the car must use whatever input the perfect human uses for prediction. Anything else would be noise that leads to overfitting.\n\nOne day FSD would be safer than humans but mostly because it does not DUI, it does",
+      "link": "https://x.com/raines1220/status/1960476996712194542",
+      "date": "Tue Aug 26 22:58:34 +0000 2025",
+      "tweet_id": "1960476996712194542",
+      "text_zh": "@wholemars @elonmusk @IAmGlennonX @Tslachan 该模型有一个目标：预测完美的人类将如何驾驶。因此，汽车必须使用人类用于预测的任何输入。其他任何东西都会是导致过度拟合的噪音。\n\n有一天，FSD 会比人类更安全，但主要是因为它不会酒后驾车，它确实"
+    },
+    {
+      "text": "Elon always explains this without a concrete example, and that’s why most people still don’t really get the point, and fail to understand why disagreement would reduce safety. Let me provide one simple real-world example:\n\nAt night, LiDAR usually will have difficulty “seeing” a",
+      "link": "https://x.com/raines1220/status/1960225064827187424",
+      "date": "Tue Aug 26 06:17:29 +0000 2025",
+      "tweet_id": "1960225064827187424",
+      "text_zh": "埃隆总是在没有具体例子的情况下解释这一点，这就是为什么大多数人仍然没有真正理解这一点，并且无法理解为什么分歧会降低安全性。让我提供一个简单的现实例子：\n\n在夜间，激光雷达通常很难“看到”目标"
+    },
+    {
+      "text": "I’m not sure this makes sense. Granted Elon is much smarter than me but here’s my 2 cents: \n\nI don’t think sensor fusion is impossible, it just makes the system a lot more complicated. I can see an object, touch it, smell it, and my brain can fuse that all together naturally. I https://t.co/MoTjT4MugV",
+      "link": "https://x.com/wholemars/status/1959858264600117547",
+      "date": "Mon Aug 25 05:59:57 +0000 2025",
+      "tweet_id": "1959858264600117547",
+      "text_zh": "我不确定这是否有意义。诚然，埃隆比我聪明得多，但我的两点意见是： \n\n我不认为传感器融合是不可能的，它只会让系统变得更加复杂。我可以看到一个物体，触摸它，闻到它，我的大脑可以自然地将它们融合在一起。我 https://t.co/MoTjT4MugV"
+    },
+    {
+      "text": "我最近感知很迟钝，一点都没理解很多人卖出的逻辑。我苦思冥想，是因为(1)预测股价几天后会大跌吗？还是(2)预测几个月后股价相比今天也不会大涨？还是因为(3)预期一年后Robotaxi不会给特斯拉带来巨额利润？又或是在(4)预期五年后Optimus不会进一步带来下一波成长？",
+      "link": "https://x.com/raines1220/status/1940037996310618623",
+      "date": "Tue Jul 01 13:21:17 +0000 2025",
+      "tweet_id": "1940037996310618623",
+      "text_zh": "我最近感知很迟钝，一点都没理解很多人卖出的逻辑。我苦思冥想，是因为(1)预测股价几天后会大跌吗？还是(2)预测几个月后股价相比今天也不会大涨？还是因为(3)预期一年后Robotaxi不会给特斯拉带来巨额利润？又或是在(4)预期五年后Optimus不会进一步带来下一波成长？"
+    },
+    {
+      "text": "Like I said, it’s very, very close, but not ready to scale yet. Assume they have 35 cars, each operating 18 hours per day at an average speed of 15 mph. That’s 270 x 35 = 9,450 miles per day. It took them 2 days, which is around 20,000 miles, to see the first critical",
+      "link": "https://x.com/raines1220/status/1937742606789759078",
+      "date": "Wed Jun 25 05:20:13 +0000 2025",
+      "tweet_id": "1937742606789759078",
+      "text_zh": "就像我说的，它非常非常接近，但尚未准备好扩展。假设他们有 35 辆汽车，每辆汽车每天运行 18 小时，平均速度为 15 英里/小时。即每天 270 x 35 = 9,450 英里。他们花了两天时间，也就是行驶了大约 20,000 英里，才看到第一个危急时刻。"
+    },
+    {
+      "text": "First intervention I’ve seen with Robotaxi. (Deleted the original post since I had accidentally screen captured at 2x speed) Safety monitor hits the “stop in lane” button as a UPS truck tries to back into a spot where the Robotaxi was trying to go. Watching it at 1x speed again https://t.co/NGHWE30IAL",
+      "link": "https://x.com/edgecase411/status/1937655601624154411",
+      "date": "Tue Jun 24 23:34:29 +0000 2025",
+      "tweet_id": "1937655601624154411",
+      "text_zh": "我在 Robotaxi 上看到的第一次干预。 （因为我不小心以 2 倍速截屏，所以删除了原来的帖子）当一辆 UPS 卡车试图返回 Robotaxi 试图前往的地点时，安全监视器按下了“停在车道上”按钮。再次以 1 倍速观看 https://t.co/NGHWE30IAL"
+    },
+    {
+      "text": "Robotaxi can reverse park precisely, pull over for emergency vehicles, etc. Overall, it seems slightly safer and much more capable than what we currently have. However, I don’t think it’s ready to scale yet, in my opinion. But it’s very, very close. It still has some problems",
+      "link": "https://x.com/raines1220/status/1937075161296994346",
+      "date": "Mon Jun 23 09:08:02 +0000 2025",
+      "tweet_id": "1937075161296994346",
+      "text_zh": "Robotaxi可以精确倒车停车、紧急车辆靠边停车等。总体而言，它似乎比我们目前拥有的更安全，功能也更强大。然而，我认为它还没有准备好扩展。但它非常非常接近。它仍然存在一些问题"
+    },
+    {
+      "text": "I finally passed my PhD defense and am officially joining @stably_ai to build the best AI agent for software testing. https://t.co/JfgzRXbRd2",
+      "link": "https://x.com/raines1220/status/1925596089165427011",
+      "date": "Thu May 22 16:54:18 +0000 2025",
+      "tweet_id": "1925596089165427011",
+      "text_zh": "我终于通过了博士答辩，并正式加入@stable_ai，构建用于软件测试的最佳人工智能代理。 https://t.co/JfgzRXbRd2"
+    },
+    {
+      "text": "I think the update about FSD v13.2.9 says more about what is happening in Austin than what’s happening everywhere else. If I were struggling with any issue in Austin, I wouldn’t distract my team with anything else🤣",
+      "link": "https://x.com/raines1220/status/1922082045771088352",
+      "date": "Tue May 13 00:10:44 +0000 2025",
+      "tweet_id": "1922082045771088352",
+      "text_zh": "我认为 FSD v13.2.9 的更新更多地说明了奥斯汀正在发生的事情，而不是其他地方正在发生的事情。如果我在奥斯汀遇到任何问题，我不会用其他任何事情来分散我的团队的注意力🤣"
+    },
+    {
+      "text": "Tesla Robotaxis will not have a human driver seat inside the car. However, they will initially have remote operators, but these operators will not—and cannot, due to network latency and availability—contribute to improving safety. They are there solely to enhance availability.",
+      "link": "https://x.com/raines1220/status/1915056939429421528",
+      "date": "Wed Apr 23 14:55:29 +0000 2025",
+      "tweet_id": "1915056939429421528",
+      "text_zh": "特斯拉机器人出租车车内不会配备人类驾驶员座椅。然而，他们最初将拥有远程操作员，但由于网络延迟和可用性，这些操作员不会也不能为提高安全性做出贡献。它们的存在只是为了提高可用性。"
+    },
+    {
+      "text": "@raines1220 Yes, as long as the human driver is there to take over when needed to.",
+      "link": "https://x.com/James95113983/status/1915053387454071042",
+      "date": "Wed Apr 23 14:41:22 +0000 2025",
+      "tweet_id": "1915053387454071042",
+      "text_zh": "@raines1220 是的，只要人类司机在需要时接管即可。"
+    },
+    {
+      "text": "I disagree that Tesla is the same as Waymo.\n\n1. Localized HD maps are different from localized parameters. The former creates strict dependencies when expanding to a new city—it either works or it doesn’t. The latter is a “nice-to-have” feature: it works 100% if you have it, and",
+      "link": "https://x.com/raines1220/status/1915050487612637651",
+      "date": "Wed Apr 23 14:29:50 +0000 2025",
+      "tweet_id": "1915050487612637651",
+      "text_zh": "我不同意 Tesla 与 Waymo 相同的说法。\n\n1. 本地化高精地图与本地化参数不同。前者在扩展到新城市时会产生严格的依赖性——要么有效，要么无效。后者是一个“锦上添花”的功能：如果你拥有它，它就可以 100% 工作，而且"
+    },
+    {
+      "text": "Anyway, I got the explanation I need from this earnings call, which is why we don't have an FSD update. Basically, they are burning down the big list of problems in Austin and ignoring everywhere else. Fair enough.",
+      "link": "https://x.com/raines1220/status/1914898123874308403",
+      "date": "Wed Apr 23 04:24:24 +0000 2025",
+      "tweet_id": "1914898123874308403",
+      "text_zh": "无论如何，我从这次财报电话会议中得到了我需要的解释，这就是我们没有 FSD 更新的原因。基本上，他们正在烧毁奥斯汀的一大堆问题，而忽略其他地方。很公平。"
+    },
+    {
+      "text": "Yes. FSD will have localized parameters. But that does not mean it is geofenced. It means more models will be downloaded to your car, and your car will switch brains when you are in different areas. You will still be able to drive across North America and enjoy the best",
+      "link": "https://x.com/raines1220/status/1914885144025977322",
+      "date": "Wed Apr 23 03:32:49 +0000 2025",
+      "tweet_id": "1914885144025977322",
+      "text_zh": "是的。 FSD 将具有本地化参数。但这并不意味着它是地理围栏的。这意味着更多的模型将被下载到你的车上，当你在不同的区域时，你的车会切换大脑。您仍然可以驾车穿越北美并享受最好的体验"
+    },
+    {
+      "text": "🤖FSD vs Human🤪 https://t.co/ZG8fTWKylq",
+      "link": "https://x.com/raines1220/status/1907809530257236094",
+      "date": "Thu Apr 03 14:56:52 +0000 2025",
+      "tweet_id": "1907809530257236094",
+      "text_zh": "🤖FSD 与人类🤪 https://t.co/ZG8fTWKylq"
+    },
+    {
+      "text": "Reporting a consistent critical issue in China’s v13.2.6: on narrow roads, FSD frequently tries to turn toward the oncoming car. Please fix this. @teslasi https://t.co/aQWOupOmbo",
+      "link": "https://x.com/raines1220/status/1906533053633048949",
+      "date": "Mon Mar 31 02:24:36 +0000 2025",
+      "tweet_id": "1906533053633048949",
+      "text_zh": "报告中国版 v13.2.6 中一贯存在的严重问题：在狭窄的道路上，FSD 频繁尝试转向迎面驶来的车辆。请解决这个问题。 @teslasi https://t.co/aQWOupOmbo"
+    },
+    {
+      "text": "无论是端到端技术路线，还是占用网络。无论是算力优势，还是数据优势。想来想去，最终我发现一个惊人的事实。特斯拉最大的护城河，其实是“纯视觉”——这是唯一正确的方向。而在这条方向上，我找不到任何值得关注的同行者。",
+      "link": "https://x.com/raines1220/status/1905616103369326950",
+      "date": "Fri Mar 28 13:40:58 +0000 2025",
+      "tweet_id": "1905616103369326950",
+      "text_zh": "无论是端到端技术路线，还是占用网络。无论是算力优势，还是数据优势。想来想去，最终我发现一个惊人的事实。特斯拉最大的护城河，其实是“纯视觉”——这是唯一正确的方向。而在这条方向上，我找不到任何值得关注的同行者。"
+    },
+    {
+      "text": "Few people know that LiDAR cannot detect very dark materials with rough surfaces due to their low reflectivity.\n\nFor example, a dark tire on the road or a large rock covered by dark cloth—both easily detectable by a camera—cannot be detected by LiDAR.",
+      "link": "https://x.com/raines1220/status/1905468967583437144",
+      "date": "Fri Mar 28 03:56:18 +0000 2025",
+      "tweet_id": "1905468967583437144",
+      "text_zh": "很少有人知道，由于反射率低，激光雷达无法检测表面粗糙的非常暗的材料。\n\n例如，道路上的深色轮胎或被深色布覆盖的大岩石（两者都很容易被相机检测到）却无法被激光雷达检测到。"
+    },
+    {
+      "text": "Labeling LiDAR data is extremely time-consuming and costly. You can’t imagine—a few meaningless dots there actually represent a car, and yet many people believe this is ideal for self-driving. https://t.co/z8PtNCviOB",
+      "link": "https://x.com/raines1220/status/1905088627924689388",
+      "date": "Thu Mar 27 02:44:58 +0000 2025",
+      "tweet_id": "1905088627924689388",
+      "text_zh": "标记 LiDAR 数据极其耗时且成本高昂。你无法想象——那里的几个无意义的点实际上代表着一辆汽车，但许多人认为这是自动驾驶的理想选择。 https://t.co/z8PtNCviOB"
+    },
+    {
+      "text": "FSD: Bro, it’s very clear! can’t you see? https://t.co/9f2EUKLUqZ",
+      "link": "https://x.com/raines1220/status/1904844533868773669",
+      "date": "Wed Mar 26 10:35:01 +0000 2025",
+      "tweet_id": "1904844533868773669",
+      "text_zh": "FSD：兄弟，说得很清楚了！你看不到吗？ https://t.co/9f2EUKLUqZ"
+    },
+    {
+      "text": "I hope this is open to the public. I want to fly to Austin, take a ride in a Robotaxi, and then fly back.",
+      "link": "https://x.com/raines1220/status/1904773379871170899",
+      "date": "Wed Mar 26 05:52:17 +0000 2025",
+      "tweet_id": "1904773379871170899",
+      "text_zh": "我希望这对公众开放。我想飞往奥斯汀，乘坐 Robotaxi，然后飞回来。"
+    },
+    {
+      "text": "The future is autonomous &amp; it starts in Austin, this June\n\nThanks to Austin City &amp; Texas DOT for hosting &amp; supporting our efforts to unlock safe &amp; low-cost premium point-to-point electric transport https://t.co/4kcMAZuwl0",
+      "link": "https://x.com/Tesla/status/1904677503702045043",
+      "date": "Tue Mar 25 23:31:18 +0000 2025",
+      "tweet_id": "1904677503702045043",
+      "text_zh": "未来是自动驾驶的，今年六月从奥斯汀开始\n\n感谢奥斯汀市和德克萨斯州交通部主办和支持我们为实现安全、低成本的优质点对点电力运输所做的努力 https://t.co/4kcMAZuwl0"
+    },
+    {
+      "text": "FSD @ China - Mission Impossible https://t.co/JE0tWxOg12",
+      "link": "https://x.com/raines1220/status/1904488533659721832",
+      "date": "Tue Mar 25 11:00:24 +0000 2025",
+      "tweet_id": "1904488533659721832",
+      "text_zh": "FSD @ 中国 - 不可能的任务 https://t.co/JE0tWxOg12"
+    },
+    {
+      "text": "If you train your neural nets to rely on LiDAR, they will never learn to follow tire tracks like FSD does https://t.co/zGxV0dBpkM",
+      "link": "https://x.com/raines1220/status/1902941119790375074",
+      "date": "Fri Mar 21 04:31:32 +0000 2025",
+      "tweet_id": "1902941119790375074",
+      "text_zh": "如果你训练你的神经网络依赖 LiDAR，它们永远不会像 FSD 那样学会跟踪轮胎痕迹 https://t.co/zGxV0dBpkM"
+    },
+    {
+      "text": "@AIDRIVR @MarkRober 0:20 “…against other fancy cars that use more advanced technology.”\n\nThis is an obvious paid ad. \n\nThe underlying fact is: other automakers add some thousand-dollar LiDARs to the front end and try to deceive customers into believing that these thousand-dollar devices are more",
+      "link": "https://x.com/raines1220/status/1900974021250085112",
+      "date": "Sat Mar 15 18:14:59 +0000 2025",
+      "tweet_id": "1900974021250085112",
+      "text_zh": "@AIDRIVR @MarkRober 0:20 “……与其他使用更先进技术的豪华汽车相比。”\n\n这是一个明显的付费广告。 \n\n根本事实是：其他汽车制造商在前端添加了一些千元的激光雷达，并试图欺骗客户，让他们相信这些千元的设备更有价值。"
+    },
+    {
+      "text": "future https://t.co/2FscFYMF7D",
+      "link": "https://x.com/raines1220/status/1900284360479088658",
+      "date": "Thu Mar 13 20:34:31 +0000 2025",
+      "tweet_id": "1900284360479088658",
+      "text_zh": "未来 https://t.co/2FscFYMF7D"
+    },
+    {
+      "text": "Camera sees farther than LiDAR :) https://t.co/lf9Eehj51c",
+      "link": "https://x.com/raines1220/status/1898888979488915932",
+      "date": "Mon Mar 10 00:09:47 +0000 2025",
+      "tweet_id": "1898888979488915932",
+      "text_zh": "相机比激光雷达看得更远:) https://t.co/lf9Eehj51c"
+    },
+    {
+      "text": "Tesla FSD vs Huawei ADS\n🇺🇸#1 vs 🇨🇳#1 https://t.co/5IS0Kzx94g",
+      "link": "https://x.com/raines1220/status/1898858506188468439",
+      "date": "Sun Mar 09 22:08:41 +0000 2025",
+      "tweet_id": "1898858506188468439",
+      "text_zh": "特斯拉 FSD 与华为 ADS\n🇺🇸#1 与 🇨🇳#1 https://t.co/5IS0Kzx94g"
+    },
+    {
+      "text": "Xiaomi vs Tesla https://t.co/oCVgZM8kkN",
+      "link": "https://x.com/raines1220/status/1898011171682144413",
+      "date": "Fri Mar 07 14:01:41 +0000 2025",
+      "tweet_id": "1898011171682144413",
+      "text_zh": "小米 vs 特斯拉 https://t.co/oCVgZM8kkN"
+    },
+    {
+      "text": "“Only a real man can handle FSD.” https://t.co/Mlb4dTB3dr",
+      "link": "https://x.com/raines1220/status/1897897526776275437",
+      "date": "Fri Mar 07 06:30:06 +0000 2025",
+      "tweet_id": "1897897526776275437",
+      "text_zh": "“只有真正的男人才能应对 FSD。” https://t.co/Mlb4dTB3dr"
+    },
+    {
+      "text": "I just experienced the best UPL of my life. In heavy, high-speed traffic (similar to Chuck's turn), there was literally no chance to turn safely unless FSD floored it. And yes, FSD 13.2.8 floored it. For the first time in my life, I witnessed FSD flooring it to execute a safe",
+      "link": "https://x.com/raines1220/status/1896402747601088597",
+      "date": "Mon Mar 03 03:30:23 +0000 2025",
+      "tweet_id": "1896402747601088597",
+      "text_zh": "我刚刚经历了我一生中最好的 UPL。在交通拥堵、高速行驶的情况下（类似于查克的转弯），除非 FSD 阻止，否则几乎没有机会安全转弯。是的，FSD 13.2.8 解决了这个问题。我有生以来第一次亲眼目睹 FSD 将其踩在地板上以执行安全操作"
+    },
+    {
+      "text": "我对FSD在国内的未来非常看好。真正难的是基础能力，但这些heavy-lifting都在Cortex做了，现在在国内，包括各种小电驴博弈、人车博弈、窄路会车、鬼探头避让等情况都完美处理了。",
+      "link": "https://x.com/raines1220/status/1895885623652757713",
+      "date": "Sat Mar 01 17:15:31 +0000 2025",
+      "tweet_id": "1895885623652757713",
+      "text_zh": "我对FSD在国内的未来非常看好。真正难的是基础能力，但这些heavy-lifting都在Cortex做了，现在在国内，包括各种小电驴博弈、人车博弈、窄路会车、鬼探头避让等情况都完美处理了。"
+    },
+    {
+      "text": "Sentiment shift: From FSD v12.5.X to FSD v13.X\n\nSince FSD v13, more and more people have been feeling positive and confident about it. The sentiment is definitely changing, but how? Who is driving this improved positivity? Is it people who were previously neutral, or those who https://t.co/4mHbyiwzJs",
+      "link": "https://x.com/raines1220/status/1886971767949873170",
+      "date": "Wed Feb 05 02:55:02 +0000 2025",
+      "tweet_id": "1886971767949873170",
+      "text_zh": "情绪转变：从 FSD v12.5.X 到 FSD v13.X\n\n自 FSD v13 以来，越来越多的人对此感到积极和自信。情绪确实在改变，但如何改变呢？谁在推动积极性的提高？是以前保持中立的人，还是那些https://t.co/4mHbyiwzJs"
+    },
+    {
+      "text": "@wholemars Ashok: Technically, we can do it.\n\nElon: Business-wise, it is not worth it.",
+      "link": "https://x.com/raines1220/status/1884743973677195548",
+      "date": "Wed Jan 29 23:22:34 +0000 2025",
+      "tweet_id": "1884743973677195548",
+      "text_zh": "@wholemars Ashok：从技术上讲，我们可以做到。\n\nElon：从商业角度来看，这是不值得的。"
+    },
+    {
+      "text": "A human driver turned left from a straight-only lane and ran a red light for left turns at approximately 40 mph. However, FSD v13 reacted extremely early, engaging 100% braking and saving me, my friend, and the red light runner themselves, of course.\n\nThe most important thing is",
+      "link": "https://x.com/raines1220/status/1876358660873720119",
+      "date": "Mon Jan 06 20:02:20 +0000 2025",
+      "tweet_id": "1876358660873720119",
+      "text_zh": "一名人类驾驶员从直行车道左转，并以大约 40 英里/小时的速度闯红灯左转。然而，FSD v13 反应非常早，100% 制动，当然拯救了我、我的朋友，还有闯红灯的人。\n\n最重要的是"
+    },
+    {
+      "text": "OMFG! v13.2.2! For the first time ever, it sees the sign and changes lanes early. This is a spot that FSD has never solved perfectly before.\n\nFSD v12.3.X would end up in the wrong lane, then just go straight like it doesn’t give a fuck.\n\nFSD v12.5.1.X would end up in the wrong https://t.co/kU15OFPi2m",
+      "link": "https://x.com/raines1220/status/1876344408519667951",
+      "date": "Mon Jan 06 19:05:42 +0000 2025",
+      "tweet_id": "1876344408519667951",
+      "text_zh": "天啊！ v13.2.2！它有史以来第一次看到标志并提前变道。这是FSD之前从未完美解决过的一个问题。\n\nFSD v12.3.X最终会走错车道，然后就直接走，就像它不在乎一样。\n\nFSD v12.5.1.X 最终会出现错误的 https://t.co/kU15OFPi2m"
+    },
+    {
+      "text": "I predict that by the end of Q1 2025 (before Q2), AI3 FSD will outperform the current capabilities of AI4 FSD.",
+      "link": "https://x.com/raines1220/status/1874029242109091925",
+      "date": "Tue Dec 31 09:46:03 +0000 2024",
+      "tweet_id": "1874029242109091925",
+      "text_zh": "我预测到 2025 年第一季度末（第二季度之前），AI3 FSD 将超越 AI4 FSD 当前的能力。"
+    },
+    {
+      "text": "FSD 12.6 rolling out on HW3 with end to end on highway, speed profiles on city streets, and redesigned controller\n\nseems like this might be 13-mini? 👀 https://t.co/NqQKSOWYfl",
+      "link": "https://x.com/AIDRIVR/status/1873941669114241059",
+      "date": "Tue Dec 31 03:58:04 +0000 2024",
+      "tweet_id": "1873941669114241059",
+      "text_zh": "FSD 12.6 在 HW3 上推出，包括高速公路端到端、城市街道速度曲线以及重新设计的控制器\n\n看起来这可能是 13-mini 吗？ 👀 https://t.co/NqQKSOWYfl"
+    },
+    {
+      "text": "FSD v13 drives as if there’s a Neuralink chip in the head of the driver ahead of me. Whenever they even \"think\" about slowing down, I’m already slowing down. The relative distance between us almost remains static. My only concern is whether the driver behind me is competent",
+      "link": "https://x.com/raines1220/status/1871626175400808839",
+      "date": "Tue Dec 24 18:37:08 +0000 2024",
+      "tweet_id": "1871626175400808839",
+      "text_zh": "FSD v13 驾驶时就好像我前面的驾驶员头上有一个 Neuralink 芯片。每当他们“想到”放慢速度时，我就已经放慢速度了。我们之间的相对距离几乎保持不变。我唯一关心的是我后面的司机是否称职"
+    },
+    {
+      "text": "FSD 13.2.1 First Impression\n\nThe first impression with FSD v13.2.1 feels incredibly smooth—like sliding down a slide with butter on my butt. I guess this is the #1 magic, resulting from a combination of all the improvements.\n\nFor example, faster photon-to-control time helps it",
+      "link": "https://x.com/raines1220/status/1868699608005685348",
+      "date": "Mon Dec 16 16:47:59 +0000 2024",
+      "tweet_id": "1868699608005685348",
+      "text_zh": "FSD 13.2.1 第一印象\n\nFSD v13.2.1 给人的第一印象是非常顺畅——就像屁股沾着黄油从滑梯上滑下来一样。我想这是第一大魔法，是所有改进结合在一起的结果。\n\n例如，更快的光子控制时间有助于它"
+    },
+    {
+      "text": "👀 https://t.co/4r4Y3En55i",
+      "link": "https://x.com/raines1220/status/1868538849388892623",
+      "date": "Mon Dec 16 06:09:12 +0000 2024",
+      "tweet_id": "1868538849388892623",
+      "text_zh": "👀 https://t.co/4r4Y3En55i"
+    },
+    {
+      "text": "🥺Guys, I need a job! :)\nWill be on the job market in ~May 2025 with a Ph.D. from Purdue in Computer Science. Looking for Security Research/Engineering roles at tech companies.\nAppreciate any reposts to help spread the word! 🙏\nDMs open!",
+      "link": "https://x.com/raines1220/status/1867672944413225350",
+      "date": "Fri Dec 13 20:48:24 +0000 2024",
+      "tweet_id": "1867672944413225350",
+      "text_zh": "🥺伙计们，我需要一份工作！ :)\n将于 2025 年 5 月左右进入就业市场，获得博士学位。来自普渡大学计算机科学专业。寻找科技公司的安全研究/工程职位。\n感谢任何有助于传播信息的转发！ 🙏\nDM 开放！"
+    },
+    {
+      "text": "Very boring lately. FSD 12.5.6.4 keeps giving me zero-intervention drives every day. Nothing to do except watch the stock mooning. Unfortunately, when things are too obviously good, no analysis is needed.",
+      "link": "https://x.com/raines1220/status/1866876446553112698",
+      "date": "Wed Dec 11 16:03:24 +0000 2024",
+      "tweet_id": "1866876446553112698",
+      "text_zh": "最近很无聊。 FSD 12.5.6.4 每天都给我带来零干预驾驶。除了看股票上涨之外，无事可做。不幸的是，当事情太过明显时，就不需要分析了。"
+    },
+    {
+      "text": "FSD is ~93x better at avoiding accidents on HW3 in the past 8 months, according to the community tracker. I found a way, using the community tracker together with some techniques to attempt to filter out noise, to estimate FSD's safety improvement on HW3. The data suggest that https://t.co/F85gGm3V9r",
+      "link": "https://x.com/raines1220/status/1862655247014834642",
+      "date": "Sat Nov 30 00:29:52 +0000 2024",
+      "tweet_id": "1862655247014834642",
+      "text_zh": "根据社区跟踪器的数据，过去 8 个月，FSD 在避免 HW3 事故方面的表现提高了约 93 倍。我找到了一种方法，结合使用社区跟踪器和一些技术来尝试过滤噪音，来估计 FSD 在 HW3 上的安全改进。数据表明 https://t.co/F85gGm3V9r"
+    },
+    {
+      "text": "According to the community tracker, FSD 12.5.4.2 has \"city miles to critical disengagement\" of 68, which seems like 0 improvement from FSD v11. This has become one of the most quoted \"statistical\" reasons for TSLQ to short the stock or feel bearish.\n\nIt’s unbelievable to me that https://t.co/9sBDtrmUzz",
+      "link": "https://x.com/raines1220/status/1861902955831542188",
+      "date": "Wed Nov 27 22:40:31 +0000 2024",
+      "tweet_id": "1861902955831542188",
+      "text_zh": "根据社区跟踪器的数据，FSD 12.5.4.2 的“关键脱离城市英里数”为 68，与 FSD v11 相比似乎有 0 改进。这已成为 TSLQ 做空股票或感到看跌的最常引用的“统计”原因之一。\n\n我难以置信 https://t.co/9sBDtrmUzz"
+    },
+    {
+      "text": "I analyzed all \"perfect drive\" videos from @wholemars's YouTube channel. I searched for titles with \"raw\" and \"zero intervention,\" finding 71 videos from Oct 2023 to Nov 2024. I charted the monthly best perfect drives, showing FSD improving at least 10x for Omar.\n\nTo clarify, https://t.co/KQoFrOuBvy",
+      "link": "https://x.com/raines1220/status/1859438577064542522",
+      "date": "Thu Nov 21 03:27:58 +0000 2024",
+      "tweet_id": "1859438577064542522",
+      "text_zh": "我分析了 @wholemars 的 YouTube 频道中的所有“完美驾驶”视频。我搜索了带有“原始”和“零干预”的标题，找到了从 2023 年 10 月到 2024 年 11 月的 71 个视频。我绘制了每月最佳完美驾驶图表，显示奥马尔的 FSD 至少提高了 10 倍。\n\n为了澄清，https://t.co/KQoFrOuBvy"
+    },
+    {
+      "text": "@netflix It is kind of arrogant to ignore all the complaints and pretend nothing happened.",
+      "link": "https://x.com/raines1220/status/1857634017224351945",
+      "date": "Sat Nov 16 03:57:17 +0000 2024",
+      "tweet_id": "1857634017224351945",
+      "text_zh": "@netflix 无视所有投诉并假装什么都没发生，这有点傲慢。"
+    },
+    {
+      "text": "Okay, I’m qualified. What is the next payout date again? I wonder how many shares of TSLA I can buy with it🥲 https://t.co/Pz2a6wvtvC",
+      "link": "https://x.com/raines1220/status/1857467716451397718",
+      "date": "Fri Nov 15 16:56:28 +0000 2024",
+      "tweet_id": "1857467716451397718",
+      "text_zh": "好吧，我有资格。下一次付款日期是哪一天？我想知道我可以用它购买多少 TSLA 股票🥲 https://t.co/Pz2a6wvtvC"
+    },
+    {
+      "text": "FSD 12.5.6.3 is truly at a god-level already. I challenge you not to disagree with me after you finish watching this video. This is like porn to FSD enthusiasts.\n\nBTW, follow @JustATeslaGuy because he tests FSD in the most difficult driving scenarios I have ever found in North https://t.co/ELPCN1GqiL",
+      "link": "https://x.com/raines1220/status/1857105391504531753",
+      "date": "Thu Nov 14 16:56:43 +0000 2024",
+      "tweet_id": "1857105391504531753",
+      "text_zh": "FSD 12.5.6.3已经是真正的神级了。我挑战你在看完这个视频后不要不同意我的观点。对于 FSD 爱好者来说，这就像色情片一样。\n\n顺便说一句，请关注@JustATeslaGuy，因为他在我在北方发现的最困难的驾驶场景中测试了 FSD https://t.co/ELPCN1GqiL"
+    },
+    {
+      "text": "https://t.co/1XpaX48QWg\nPeople complain about Tesla FSD not choosing the correct lane, but Waymo could nearly run into a construction site, block two-way traffic, make an illegal drop-off in a bike lane, and then get stuck.\n\nFew people realize that the issue with HD maps isn’t",
+      "link": "https://x.com/raines1220/status/1857079117117596107",
+      "date": "Thu Nov 14 15:12:19 +0000 2024",
+      "tweet_id": "1857079117117596107",
+      "text_zh": "https://t.co/1XpaX48QWg\n人们抱怨特斯拉 FSD 没有选择正确的车道，但 Waymo 几乎可能会撞上建筑工地，阻塞双向交通，在自行车道上非法下车，然后陷入困境。\n\n很少有人意识到高清地图的问题并不是"
+    },
+    {
+      "text": "Sentiment on FSD v12.5.6.3: 75% positive\n\nPros:\n- 47% praise smoother driving\n- 30% highlight improved highway performance\n- 26% note better lane changing\n- 19% love enhanced speed control\n- 17% appreciate confident maneuvers\n\nCons:\n- 9% report braking issues\n- 9% miss fine-tuned https://t.co/h1Dtqjsaiz",
+      "link": "https://x.com/raines1220/status/1856580187418198485",
+      "date": "Wed Nov 13 06:09:44 +0000 2024",
+      "tweet_id": "1856580187418198485",
+      "text_zh": "FSD v12.5.6.3 的情绪：75% 积极\n\n优点：\n- 47% 的人称赞驾驶更顺畅\n- 30% 强调高速公路性能的改善\n- 26% 的人注意到变道效果更好\n- 19% 喜欢增强速度控制\n- 17% 的人欣赏自信的动作\n\n缺点：\n- 9% 的人报告制动问题\n- 9% 错过微调 https://t.co/h1Dtqjsaiz"
+    },
+    {
+      "text": "Why FSD can be 100x better without you even noticing it. If you count how frequently you intervene, you won’t notice much during the early stages of FSD evolution. https://t.co/YLIkCTn7nB",
+      "link": "https://x.com/raines1220/status/1856363566128828924",
+      "date": "Tue Nov 12 15:48:58 +0000 2024",
+      "tweet_id": "1856363566128828924",
+      "text_zh": "为什么 FSD 可以在您没有注意到的情况下提高 100 倍。如果你计算一下你干预的频率，你就会发现在 FSD 演化的早期阶段你不会注意到太多。 https://t.co/YLIkCTn7nB"
+    },
+    {
+      "text": "Just tried some city driving. 12.5.6.3 is perfect! I hope everyone has it!",
+      "link": "https://x.com/raines1220/status/1856118724824027527",
+      "date": "Mon Nov 11 23:36:03 +0000 2024",
+      "tweet_id": "1856118724824027527",
+      "text_zh": "刚刚尝试了一些城市驾驶。 12.5.6.3 完美！我希望每个人都拥有它！"
+    },
+    {
+      "text": "I started researching Tesla in December of last year and began investing in Tesla in late January of this year. When I felt relatively confident in my expertise on the topic, I started sharing my analysis in April.\n\nI began with fewer than 50 robot followers, and now I have over https://t.co/8YZ3CEeGwo",
+      "link": "https://x.com/raines1220/status/1855981404758126681",
+      "date": "Mon Nov 11 14:30:24 +0000 2024",
+      "tweet_id": "1855981404758126681",
+      "text_zh": "我从去年12月开始研究特斯拉，今年1月下旬开始投资特斯拉。当我对自己在该主题上的专业知识感到相对有信心时，我在四月份开始分享我的分析。\n\n我一开始只有不到 50 个机器人追随者，现在我已经超过了 https://t.co/8YZ3CEeGwo"
+    },
+    {
+      "text": "CyberCab on “public” roads.\n https://t.co/7J4ifFbEl1",
+      "link": "https://x.com/raines1220/status/1855829588271645143",
+      "date": "Mon Nov 11 04:27:08 +0000 2024",
+      "tweet_id": "1855829588271645143",
+      "text_zh": "“公共”道路上的 Cyber​​Cab。\n https://t.co/7J4ifFbEl1"
+    },
+    {
+      "text": "Currently, the gap between HW4 and HW3 is not large enough. There should be at least a 5x difference. Otherwise, it indicates that HW4 is not fully optimized. In other words, I expect to see a much larger gap in FSD v13.\n\nFSD 12.5.4 (HW4) still needs approximately 50-100x",
+      "link": "https://x.com/raines1220/status/1855655373123854797",
+      "date": "Sun Nov 10 16:54:52 +0000 2024",
+      "tweet_id": "1855655373123854797",
+      "text_zh": "目前HW4和HW3的差距还不够大。应该至少有 5 倍的差异。否则说明HW4没有完全优化。换句话说，我预计 FSD v13 中的差距会更大。\n\nFSD 12.5.4 (HW4) 仍需要大约 50-100x"
+    },
+    {
+      "text": "Lots of people think I hate LiDAR because it is expensive and therefore not scalable. I partially agree, but that’s not the main reason I hate LiDAR so much.\n\nThe main reason is that I strongly believe that anyone who relies heavily on LiDAR is not serious about using AI.\n\nThe",
+      "link": "https://x.com/raines1220/status/1854716461064876135",
+      "date": "Fri Nov 08 02:43:57 +0000 2024",
+      "tweet_id": "1854716461064876135",
+      "text_zh": "很多人认为我讨厌激光雷达，因为它价格昂贵，因此不可扩展。我部分同意，但这并不是我如此讨厌激光雷达的主要原因。\n\n主要原因是我坚信任何严重依赖激光雷达的人都没有认真使用人工智能。\n\n这"
+    },
+    {
+      "text": "The second I saw those four LiDARs, I knew they were no serious rivals. It’s not about “not needed”, it’s that if you have it, you’re doomed.",
+      "link": "https://x.com/raines1220/status/1854708812650876986",
+      "date": "Fri Nov 08 02:13:34 +0000 2024",
+      "tweet_id": "1854708812650876986",
+      "text_zh": "当我看到这四个激光雷达时，我就知道它们不是真正的竞争对手。这不是“不需要”，而是如果你拥有它，你就注定了。"
+    },
+    {
+      "text": "I analyzed 1.7k posts from @RealDanODowd over the past year and found 118 instances of “necessary interventions” (situations that would immediately lead to a crash without intervention). The improvement in FSD is evident even by observing how often he reports accident-like https://t.co/TeGH0WOeWc",
+      "link": "https://x.com/raines1220/status/1852505544185073746",
+      "date": "Sat Nov 02 00:18:34 +0000 2024",
+      "tweet_id": "1852505544185073746",
+      "text_zh": "我分析了过去一年来自 @RealDanODowd 的 1,700 条帖子，发现了 118 个“必要干预”的实例（如果不干预就会立即导致崩溃的情况）。即使观察他报告类似事故的频率，FSD 的改善也是显而易见的 https://t.co/TeGH0WOeWc"
+    },
+    {
+      "text": "I have a crazy idea. Omar has been testing FSD for three years. There are hundreds of videos. What if I automatically analyze every single one, record the miles, interventions, and events, build a database, and visualize the trend over time?",
+      "link": "https://x.com/raines1220/status/1852183648629395575",
+      "date": "Fri Nov 01 02:59:28 +0000 2024",
+      "tweet_id": "1852183648629395575",
+      "text_zh": "我有一个疯狂的想法。 Omar 已经测试 FSD 三年了。有数百个视频。如果我自动分析每一项，记录里程、干预措施和事件，构建数据库并可视化随时间变化的趋势，结果会怎样？"
+    },
+    {
+      "text": "Reading signs is not a feature to add; it’s something that will hopefully emerge. The fact that v13 has a longer context window makes this much more likely. \n\nPreviously, if it saw a sign in the training dataset showing a “right-turn only lane” ahead, it would “forget” this",
+      "link": "https://x.com/raines1220/status/1852007424447643834",
+      "date": "Thu Oct 31 15:19:13 +0000 2024",
+      "tweet_id": "1852007424447643834",
+      "text_zh": "阅读标志不是一个需要添加的功能；这是有希望出现的事情。 v13 具有更长的上下文窗口这一事实使得这种情况更有可能发生。 \n\n以前，如果它在训练数据集中看到一个标志显示前方有“右转专用车道”，它会“忘记”这一点"
+    },
+    {
+      "text": "Wait, I think Tesla AI accidentally leaked some valuable information without noticing it themselves. Give me a minute, I’ll post another great analysis.",
+      "link": "https://x.com/raines1220/status/1851945793399222307",
+      "date": "Thu Oct 31 11:14:19 +0000 2024",
+      "tweet_id": "1851945793399222307",
+      "text_zh": "等等，我认为 Tesla AI 无意中泄露了一些有价值的信息，而自己却没有注意到。请给我一点时间，我将发布另一篇精彩的分析。"
+    },
+    {
+      "text": "Every update in FSD v13 has one goal: to be feature-complete for robotaxi.",
+      "link": "https://x.com/raines1220/status/1851929128640909789",
+      "date": "Thu Oct 31 10:08:06 +0000 2024",
+      "tweet_id": "1851929128640909789",
+      "text_zh": "FSD v13 中的每一次更新都有一个目标：完善 Robotaxi 的功能。"
+    },
+    {
+      "text": "LiDAR losers, FSD v13 is no longer vision-only—it takes audio inputs now!",
+      "link": "https://x.com/raines1220/status/1851924833296150919",
+      "date": "Thu Oct 31 09:51:02 +0000 2024",
+      "tweet_id": "1851924833296150919",
+      "text_zh": "LiDAR 失败者，FSD v13 不再仅支持视觉 - 现在需要音频输入！"
+    },
+    {
+      "text": "In Russia, you can pay $5,000 to a hacker to get a cracked FSD v12, and it works just fine. https://t.co/BjDkSfqNjO",
+      "link": "https://x.com/raines1220/status/1851776945630875801",
+      "date": "Thu Oct 31 00:03:22 +0000 2024",
+      "tweet_id": "1851776945630875801",
+      "text_zh": "在俄罗斯，你可以向黑客支付 5,000 美元来获得破解的 FSD v12，而且效果很好。 https://t.co/BjDkSfqNjO"
+    },
+    {
+      "text": "Tesla FSD Progress Analysis: Decoding the 2x Monthly Improvement Pattern\n\nThe most important thing for this analysis to be possible is what @aelluswamy said during the Q3 earnings call (copied from @themotleyfool transcript): \n\n1.“Miles between critical interventions, like you",
+      "link": "https://x.com/raines1220/status/1850902055726027164",
+      "date": "Mon Oct 28 14:06:52 +0000 2024",
+      "tweet_id": "1850902055726027164",
+      "text_zh": "Tesla FSD 进度分析：解码每月 2 倍的改进模式\n\n对于这一分析来说，最重要的是@aelluswamy 在第三季度财报电话会议上所说的内容（摘自@themotleyfool 文字记录）： \n\n1.“关键干预措施之间相隔数英里，就像你一样"
+    },
+    {
+      "text": "I’m about to post something very, very, very, very, very exciting. \n\nProbably the best analysis I’ve ever posted, and likely the one every bull and bear wonders about every single day.\n\nWhat is the FSD miles-per-intervention number that Elon Musk sees internally?\n\nRepost and",
+      "link": "https://x.com/raines1220/status/1850892695968919795",
+      "date": "Mon Oct 28 13:29:41 +0000 2024",
+      "tweet_id": "1850892695968919795",
+      "text_zh": "我要发布一些非常非常非常令人兴奋的内容。 \n\n这可能是我发布过的最好的分析，也可能是每个牛市和熊市每天都想知道的分析。\n\nElon Musk 内部认为的 FSD 每次干预里程数是多少？\n\n重新发布并"
+    },
+    {
+      "text": "My guess: v13 is basically the previously internally tested 12.6. It has reverse and fleet communication. It will be able to back out of a narrow, one-way blocked road and tell other cars to detour. The reason they made it v13 is that they think this version is finally",
+      "link": "https://x.com/raines1220/status/1847003726726549639",
+      "date": "Thu Oct 17 19:56:18 +0000 2024",
+      "tweet_id": "1847003726726549639",
+      "text_zh": "我的猜测：v13 基本上就是之前内部测试的 12.6。它具有反向和车队通信功能。它将能够从狭窄、单向封锁的道路上倒车，并告诉其他车辆绕道。他们制作 v13 的原因是他们认为这个版本终于"
+    },
+    {
+      "text": "Every time I give a friend a 1-on-1 demo drive and walk them through FSD, they end up buying a Tesla—without exception. The product is just so good and i just need to overwhelm them with facts. I’ve got two more friends lined up, and I’m confident I’ll close two more sales by",
+      "link": "https://x.com/raines1220/status/1846783545517257120",
+      "date": "Thu Oct 17 05:21:23 +0000 2024",
+      "tweet_id": "1846783545517257120",
+      "text_zh": "每次我给朋友进行一对一的演示驾驶并引导他们了解 FSD 时，他们最终都会购买特斯拉——无一例外。该产品非常好，我只需要用事实来压倒他们。我还有两个朋友在排队，我相信我会在 2019 年之前完成另外两笔销售"
+    },
+    {
+      "text": "I’ve gathered enough information to conclude that if, by the end of 2025, FSD isn’t good enough to be unsupervised due to technical issues (not reasons like politics, etc.), I will delete my account and sell all my shares. This post is to show how confident I am, just like when I",
+      "link": "https://x.com/raines1220/status/1846341461966512399",
+      "date": "Wed Oct 16 00:04:42 +0000 2024",
+      "tweet_id": "1846341461966512399",
+      "text_zh": "我已经收集了足够的信息，得出的结论是，如果到 2025 年底，FSD 由于技术问题（而不是政治等原因）而不够好，无法不受监管，我将删除我的帐户并出售我的所有股票。这篇文章是为了展示我有多么自信，就像我以前一样"
+    },
+    {
+      "text": "HW3 and HW4 are similar, with no fundamental differences, and their computing power remains within the same order of magnitude. If we assume that the universe has established a fixed minimum computing requirement for operating robotaxi software, it is unlikely that this threshold",
+      "link": "https://x.com/raines1220/status/1846305186265878673",
+      "date": "Tue Oct 15 21:40:33 +0000 2024",
+      "tweet_id": "1846305186265878673",
+      "text_zh": "HW3和HW4类似，没有根本区别，计算能力保持在同一数量级内。如果我们假设宇宙已经为运行 Robotaxi 软件建立了一个固定的最低计算要求，那么这个阈值不太可能"
+    },
+    {
+      "text": "I spent my weekend in LA after 10/10. I just returned the Model Y that I rented and am about to take my flight back tomorrow morning. I took an Uber back to the hotel. It’s been a long time since I took an Uber, and I immediately noticed that the Uber driver drove far less",
+      "link": "https://x.com/raines1220/status/1845701747706356166",
+      "date": "Mon Oct 14 05:42:42 +0000 2024",
+      "tweet_id": "1845701747706356166",
+      "text_zh": "10月10日后我在洛杉矶度过了周末。我刚刚归还了租用的 Model Y，准备明天早上乘飞机返回。我打了一辆Uber回酒店。我已经很久没有乘坐 Uber 了，我立刻注意到 Uber 司机开车的次数少了很多"
+    },
+    {
+      "text": "FSD v13 will go unsupervised, not in the first release, but in later iterations. While unsupervised approval might only happen in Texas and California during 2025, a similar experience will be rolled out globally, including in China and Europe.",
+      "link": "https://x.com/raines1220/status/1845197140353814575",
+      "date": "Sat Oct 12 20:17:35 +0000 2024",
+      "tweet_id": "1845197140353814575",
+      "text_zh": "FSD v13 将实现无监督，不是在第一个版本中，而是在以后的迭代中。虽然无监督审批可能只会在 2025 年在德克萨斯州和加利福尼亚州发生，但类似的经历将在全球范围内推广，包括在中国和欧洲。"
+    },
+    {
+      "text": "Now that I know CyberCab was running FSD v13 during the 10/10 event, I can confirm that FSD v13 is incredibly smooth—it doesn’t even feel human-like (I’ve never seen anyone drive that smoothly). At first, I thought it was because CyberCab was special, but credit should also go to",
+      "link": "https://x.com/raines1220/status/1845193573769392345",
+      "date": "Sat Oct 12 20:03:24 +0000 2024",
+      "tweet_id": "1845193573769392345",
+      "text_zh": "现在我知道 Cyber​​Cab 在 10/10 活动期间运行了 FSD v13，我可以确认 FSD v13 非常流畅——它甚至感觉不像人类（我从未见过有人驾驶得如此流畅）。一开始我以为是因为Cyber​​Cab很特别，但功劳也应该归于"
+    },
+    {
+      "text": "In my opinion, this demonstration of imitating others from a third-person point of view is worth a $1T valuation because it shows how Optimus can learn from YouTube videos and scale with unlimited training data. https://t.co/jsIz1DV1jI",
+      "link": "https://x.com/raines1220/status/1844591996377198921",
+      "date": "Fri Oct 11 04:12:57 +0000 2024",
+      "tweet_id": "1844591996377198921",
+      "text_zh": "在我看来，这种从第三人称视角模仿他人的演示值得 1T 美元估值，因为它展示了 Optimus 如何从 YouTube 视频中学习并通过无限的训练数据进行扩展。 https://t.co/jsIz1DV1jI"
+    },
+    {
+      "text": "I feel the same shaking when the CyberCab brakes, so I’m pretty sure the CyberCab demo drive is done by FSD rather than remote control. https://t.co/DUGHH45NrR",
+      "link": "https://x.com/raines1220/status/1844590124560191866",
+      "date": "Fri Oct 11 04:05:31 +0000 2024",
+      "tweet_id": "1844590124560191866",
+      "text_zh": "当 Cyber​​Cab 刹车时我也感受到了同样的震动，所以我很确定 Cyber​​Cab 演示驱动器是通过 FSD 而不是远程控制来完成的。 https://t.co/DUGHH45NrR"
+    },
+    {
+      "text": "Tomorrow, I’ll arrive at LAX and rent a car. The thought of having to drive an ICE car makes me very upset, so I have no choice but to rent a Tesla. Later, the idea of driving by myself makes me want to cry, so I have no choice but to rent a 2024 Model Y with FSD. Then, thinking",
+      "link": "https://x.com/raines1220/status/1844155749682774513",
+      "date": "Wed Oct 09 23:19:28 +0000 2024",
+      "tweet_id": "1844155749682774513",
+      "text_zh": "明天，我将到达洛杉矶国际机场并租车。一想到必须开ICE汽车就让我很不安，所以我别无选择，只能租一辆特斯拉。后来，一想到要自己开车，我就想哭，所以我只好租了一辆带FSD的2024款Model Y。然后，思考"
+    },
+    {
+      "text": "I am now 100% sure 10/10 is not just about showing a few slides. This will be in the history books.\n\nI will use FSD to drive 3 hours to catch a plane tomorrow morning, then take a 5-hour flight, pick up the Tesla I rented, and drive 1 hour to the event. \n\nHopefully, the event",
+      "link": "https://x.com/raines1220/status/1843974975964782669",
+      "date": "Wed Oct 09 11:21:08 +0000 2024",
+      "tweet_id": "1843974975964782669",
+      "text_zh": "我现在 100% 确定 10/10 不仅仅是展示几张幻灯片。这将载入史册。\n\n明天早上我会使用 FSD 开车 3 小时赶飞机，然后乘坐 5 小时的航班，拿起我租的特斯拉，再开车 1 小时前往活动现场。 \n\n希望此次活动"
+    },
+    {
+      "text": "To predict when FSD will achieve full autonomy, it’s crucial to delve deeply and understand the root causes of each intervention. Only by identifying why FSD fails can we make accurate forecasts.\n\nI believe FSD interventions have four main root causes:\n\n1. AI Hallucination: A",
+      "link": "https://x.com/raines1220/status/1840738746964078614",
+      "date": "Mon Sep 30 13:01:31 +0000 2024",
+      "tweet_id": "1840738746964078614",
+      "text_zh": "为了预测 FSD 何时实现完全自主，深入研究并了解每次干预的根本原因至关重要。只有找出FSD失败的原因，我们才能做出准确的预测。\n\n我认为 FSD 干预有四个主要原因：\n\n1.AI幻觉：A"
+    },
+    {
+      "text": "@raines1220 what are you seeing brotha?",
+      "link": "https://x.com/smdcapital/status/1840586510736769412",
+      "date": "Mon Sep 30 02:56:35 +0000 2024",
+      "tweet_id": "1840586510736769412",
+      "text_zh": "@raines1220 你看到了什么肉汤？"
+    },
+    {
+      "text": "we will be very very very rich soon",
+      "link": "https://x.com/raines1220/status/1840569953046380743",
+      "date": "Mon Sep 30 01:50:47 +0000 2024",
+      "tweet_id": "1840569953046380743",
+      "text_zh": "我们很快就会变得非常非常富有"
+    },
+    {
+      "text": "THANK YOU! LETS F*CKING GOOOOOOOOOOOOOOOOOOOOO!! https://t.co/nJsr2ZXQyE",
+      "link": "https://x.com/raines1220/status/1840020971215888549",
+      "date": "Sat Sep 28 13:29:20 +0000 2024",
+      "tweet_id": "1840020971215888549",
+      "text_zh": "谢谢你！让我们他妈的去吧哦哦哦哦哦哦哦哦！！ https://t.co/nJsr2ZXQyE"
+    },
+    {
+      "text": "@DirtyTesLa @wholemars Do people actually believe this? Obviously, it’s a joke. I just DMed you, and nothing happened.",
+      "link": "https://x.com/raines1220/status/1840019925059961284",
+      "date": "Sat Sep 28 13:25:10 +0000 2024",
+      "tweet_id": "1840019925059961284",
+      "text_zh": "@DirtyTesLa @wholemars 人们真的相信这一点吗？显然，这是一个笑话。我刚刚给你发了私信，什么也没发生。"
+    },
+    {
+      "text": "I'm tired of hearing bears like... (ugh, I'll skip the name-calling part) keep saying Waymo has more than 10k miles per disengagement and comparing it to FSD. These people have zero clue about the numbers and don't know what they're talking about. Let me explain why: Waymo https://t.co/SSbCpHqkNp",
+      "link": "https://x.com/raines1220/status/1839686199847313452",
+      "date": "Fri Sep 27 15:19:04 +0000 2024",
+      "tweet_id": "1839686199847313452",
+      "text_zh": "我厌倦了听到熊这样的声音……（呃，我将跳过谩骂部分）一直说 Waymo 每次脱离接触的里程超过 10,000 英里，并将其与 FSD 进行比较。这些人对数字的了解为零，也不知道他们在说什么。让我解释一下原因：Waymo https://t.co/SSbCpHqkNp"
+    },
+    {
+      "text": "It's not even raining, so why am I still tapping the A.S.S. when the car is just a few feet away? Could I just walk? Sure. But here’s my highly technical, super-professional reason: because I can😈 https://t.co/esL3LLS2XS",
+      "link": "https://x.com/raines1220/status/1839048073470697943",
+      "date": "Wed Sep 25 21:03:23 +0000 2024",
+      "tweet_id": "1839048073470697943"
+    },
+    {
+      "text": "Thanks to powerful models like o1-mini, I can perform extremely complex analyses beyond just sentiment analysis. Here's what I did:\n\n1. I gathered 344 posts on X related to FSD 12.5.4.\n2. For each post, I asked GPT-4o to extract \"pros/cons\" if it was an actual user review.\n3. For https://t.co/NwNgyR6n9Z",
+      "link": "https://x.com/raines1220/status/1838820880543060238",
+      "date": "Wed Sep 25 06:00:36 +0000 2024",
+      "tweet_id": "1838820880543060238"
+    },
+    {
+      "text": "FSD 12.5.1.1, 12.5.1.3, and 12.5.2 all panic here due to several tight turns and fear of crossing the yellow lines. This has been a consistent disengagement location for me for a long time. However, for the first time, FSD 12.5.4 nailed it with comfort and confidence. https://t.co/gZdOzCGai1",
+      "link": "https://x.com/raines1220/status/1838750630376001995",
+      "date": "Wed Sep 25 01:21:27 +0000 2024",
+      "tweet_id": "1838750630376001995"
+    },
+    {
+      "text": "This is the first time in my life using Summon, and also my first time using Actually Smart Summon. That’s how much trust I have in it. https://t.co/PH1puWIHgW",
+      "link": "https://x.com/raines1220/status/1838743269112430647",
+      "date": "Wed Sep 25 00:52:12 +0000 2024",
+      "tweet_id": "1838743269112430647"
+    },
+    {
+      "text": "I just tried FSD 12.5.4, as well as ASS, and now I understand why no one has anything negative to say… 🤯 This feels like at least a 5x-10x improvement over FSD 12.5.2 for me, and it feels 3x-5x better than the initial FSD 12.5. I’m going to stay loyal to this version for a long",
+      "link": "https://x.com/raines1220/status/1838725181298069980",
+      "date": "Tue Sep 24 23:40:19 +0000 2024",
+      "tweet_id": "1838725181298069980"
+    },
+    {
+      "text": "I’m currently gathering reviews for FSD 12.5.4. Out of 205 posts mentioning this version, only 75 (36.6%) have actually used it. Among those, 55 are positive (73.3%), 20 are neutral or mixed, and none are purely negative. So far, no one who has used FSD 12.5.4 has expressed a https://t.co/2CHYzE3dxf",
+      "link": "https://x.com/raines1220/status/1838672939992125515",
+      "date": "Tue Sep 24 20:12:44 +0000 2024",
+      "tweet_id": "1838672939992125515"
+    },
+    {
+      "text": "I am 99.99% confident that the production CyberCab will not have LiDAR, unless someone holds a gun to Elon’s head and forces him to add it.\n\nI never bet on vision sensors just because Elon said so. I always did it based on my own reasoning, and it just so happens that Elon thinks",
+      "link": "https://x.com/raines1220/status/1834999273496138105",
+      "date": "Sat Sep 14 16:54:54 +0000 2024",
+      "tweet_id": "1834999273496138105"
+    },
+    {
+      "text": "My FSD 12.5.2 just had a superhuman moment, but unfortunately, the dashcam didn’t catch the footage. I’ll try my best to describe what happened.\n\nI was driving in a campus area, and tons of students were rushing to classes. FSD yielded to a lot of students at a stop sign but was",
+      "link": "https://x.com/raines1220/status/1832192966980456699",
+      "date": "Fri Sep 06 23:03:38 +0000 2024",
+      "tweet_id": "1832192966980456699"
+    },
+    {
+      "text": "Elon arguably fulfilled all his promises.\n\n1. v12.5.1.3 is ~14x better overall and ~4x safer than v12.3.6\n\n2. This month, FSD 12.5.X already got ~1.4x better overall and ~2x safer https://t.co/ip93swwg1K",
+      "link": "https://x.com/raines1220/status/1825370233713918259",
+      "date": "Mon Aug 19 03:12:32 +0000 2024",
+      "tweet_id": "1825370233713918259"
+    },
+    {
+      "text": "I was exhausted after the gym and didn’t notice the cat at all. If it weren’t for FSD v12.5.1.3, I might have had my first roadkill this year. But FSD saved the day, and now I feel really proud. https://t.co/AZl81T9JPx",
+      "link": "https://x.com/raines1220/status/1824660931843903495",
+      "date": "Sat Aug 17 04:14:01 +0000 2024",
+      "tweet_id": "1824660931843903495"
+    },
+    {
+      "text": "@ArtemR I doubt that this is actually FSD driving because, currently, it seems that FSD would show a red wheel error and stop itself in this heavy fog. However, let's assume it is FSD driving and, for some reason, it feels confident. Then, I'm interested in discussing this.\n\nFirst of",
+      "link": "https://x.com/raines1220/status/1792154603368124636",
+      "date": "Sun May 19 11:25:28 +0000 2024",
+      "tweet_id": "1792154603368124636"
+    },
+    {
+      "text": "I've tried FSD v12.3.6 for three days. 99.9% of my drive is handled by FSD. When I usually walk 100 meters to the mail room to pick up my package, I use FSD. When I want to change to a different parking spot, I use FSD to drive out and then use autopark to find a new spot. I try https://t.co/h5solMfsUS",
+      "link": "https://x.com/raines1220/status/1789866806741455002",
+      "date": "Mon May 13 03:54:35 +0000 2024",
+      "tweet_id": "1789866806741455002"
+    },
+    {
+      "text": "@TheSonOfWalkley DON'T tell those bears, but I have some secrets for bulls. \n\n\"亲爱的特斯拉车主\n感谢您对特斯拉的长期支持!我们很高兴地通知您，我们即将推出一项重要的测试活动，旨在为早期购买全自动驾驶软件(FSD)的车主提供特别体验。\n您受邀参加我们的 FSD",
+      "link": "https://x.com/raines1220/status/1784931442813723018",
+      "date": "Mon Apr 29 13:03:13 +0000 2024",
+      "tweet_id": "1784931442813723018"
     }
   ]
 }
