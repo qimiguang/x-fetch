@@ -496,8 +496,8 @@ def fetch_via_jina_proxy(username):
         f"?count={COUNT}&showReplies=false"
     )
     headers = {
-        "X-Return-Format": "text",
-        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "X-Return-Format": "html",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     }
     content = fetch("https://r.jina.ai/" + target, headers=headers, timeout=45)
     if not content:
@@ -513,17 +513,7 @@ def fetch_via_jina_proxy(username):
             pass
         return None
 
-    # 1) 响应本身是 JSON
-    tweets = _try_parse(content, "direct")
-    if tweets:
-        return tweets
-    # 2) markdown 包装：截取第一个 { 起的 JSON
-    idx = content.find("{")
-    if idx > 0:
-        tweets = _try_parse(content[idx:], "stripped")
-        if tweets:
-            return tweets
-    # 3) __NEXT_DATA__ HTML
+    # 1) __NEXT_DATA__ 结构化 JSON（html 模式：含推文 ID/精确时间/链接，最佳）
     match = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
     if match:
         try:
@@ -533,6 +523,16 @@ def fetch_via_jina_proxy(username):
                 return tweets
         except (json.JSONDecodeError, KeyError):
             pass
+    # 2) 响应本身是 JSON
+    tweets = _try_parse(content, "direct")
+    if tweets:
+        return tweets
+    # 3) markdown/text 包装：截取第一个 { 起的 JSON
+    idx = content.find("{")
+    if idx > 0:
+        tweets = _try_parse(content[idx:], "stripped")
+        if tweets:
+            return tweets
     print("    Jina proxy returned no usable data")
     print(f"    [debug] len={len(content)} head={content[:300]!r}")
     return None
