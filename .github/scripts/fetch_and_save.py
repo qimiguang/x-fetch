@@ -516,13 +516,20 @@ def fetch_via_jina_proxy(username):
     # 1) __NEXT_DATA__ 结构化 JSON（html 模式：含推文 ID/精确时间/链接，最佳）
     match = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
     if match:
+        raw = match.group(1)
+        print(f"    [debug2] next_data raw len={len(raw)} head={raw[:180]!r}")
         try:
-            tweets = _parse_next_data(json.loads(match.group(1)), username)
+            tweets = _parse_next_data(json.loads(raw), username)
             if tweets:
                 print(f"    Got {len(tweets)} tweets via Jina proxy (NEXT_DATA)")
                 return tweets
-        except (json.JSONDecodeError, KeyError):
-            pass
+            print("    [debug2] NEXT_DATA parsed but 0 tweets")
+        except json.JSONDecodeError as e:
+            print(f"    [debug2] NEXT_DATA json error: {e}")
+        except KeyError as e:
+            print(f"    [debug2] NEXT_DATA missing key: {e}")
+    else:
+        print("    [debug2] NEXT_DATA regex not matched")
     # 2) 响应本身是 JSON
     tweets = _try_parse(content, "direct")
     if tweets:
