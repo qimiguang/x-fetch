@@ -1,8 +1,56 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-20T04:26:53Z",
-  "count": 19,
+  "updated_at": "2026-10-20T06:55:23Z",
+  "count": 28,
   "tweets": [
+    {
+      "text": "49 countries have broken EV-sales records this year",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112435693469512004#m",
+      "date": "Tue, 20 Oct 2026 06:48:11 GMT",
+      "text_zh": "今年有 49 个国家打破了电动汽车销售记录"
+    },
+    {
+      "text": "Grok Bot is running Try Omarchy inside its own computer. So you can develop plugins and applications with it. Pretty sweet!\n\n\nTom Ballard (@tcballard)\n\nI now have a @Bot with its own Omarchy machine. That’s fricken cool 😅\n\nHere it is switching themes, tiling windows and opening my markets widget. Fairly ordinary desktop stuff, until you remember who’s driving.\n\nIt means I can start delegating visual QA for my plugins. Have it open panels, try different themes, check layouts and show me what actually happens on screen.\n\nStill some tweaks needed for cloud setups like this (help a fella out @poteto) but having another pair of eyes and a separate machine to test on is a pretty exciting step.\n\nI gave my bot a Linux desktop. Naturally, I’m putting it to work.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/tcballard/status/2112396640225054989#m",
+      "link": "http://nitter.meowing.monster/dhh/status/2112422267829334176#m",
+      "date": "Tue, 20 Oct 2026 05:54:50 GMT",
+      "text_zh": "Grok Bot 在自己的计算机内运行 Try Omarchy。因此您可以用它开发插件和应用程序。相当甜蜜！\n\n\n汤姆·巴拉德 (@tcballard)\n\n我现在有一个带有自己的 Omarchy 机器的 @Bot。太酷了😅\n\n这里是切换主题、平铺窗口和打开我的市场小部件。相当普通的桌面东西，直到你记得谁在开车。\n\n这意味着我可以开始为我的插件委托视觉质量检查。让它打开面板，尝试不同的主题，检查布局并向我展示屏幕上实际发生的情况。\n\n像这样的云设置仍然需要一些调整（帮助一个家伙@poteto），但是拥有另一双眼睛和一台单独的机器来测试是一个非常令人兴奋的步骤。\n\n我给我的机器人一个 Linux 桌面。当然，我会把它付诸实践。\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/tcballard/status/2112396640225054989#m"
+    },
+    {
+      "text": "The same problem a Ferrari or a Lamborghini solves\n\n\nRaven (@ravenunreal)\n\nBefore praising the flying Tesla, ask yourself what problem it actually solves.\n\n\n\n— http://nitter.meowing.monster/ravenunreal/status/2111161573934813412#m",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112419901948527008#m",
+      "date": "Tue, 20 Oct 2026 05:45:26 GMT",
+      "text_zh": "法拉利或兰博基尼解决了同样的问题\n\n\n乌鸦（@ravenunreal）\n\n在称赞会飞的特斯拉之前，先问问自己它实际上解决了什么问题。\n\n\n\n— http://nitter.meowing.monster/ravenunreal/status/2111161573934813412#m"
+    },
+    {
+      "text": "From January - August this year, the U.S. used vehicle market was down 1.1%, but Tesla registrations were up 10.4% according to S&P Global Mobility",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112410668578288102#m",
+      "date": "Tue, 20 Oct 2026 05:08:44 GMT",
+      "text_zh": "标准普尔全球移动公司的数据显示，今年 1 月至 8 月，美国二手车市场下降 1.1%，但特斯拉注册量增长 10.4%"
+    },
+    {
+      "text": "You can now reorder your Tesla favorites\n\n\nKevin (@tesliusonx)\n\nI discovered something in my Tesla today!\n\nFor obvious reasons, I can’t reveal my mine… but I just wanted to let all you lovely Tesla owners know that you can now organize the order of your Favorite destinations!\n\nSimply, tap and hold one of your favorite places. Then, move and drag using the 3-bar icon.\n\nThank you @Tesla for this feature\n\n\n\n— http://nitter.meowing.monster/tesliusonx/status/2112381797887807615#m",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112406748829298785#m",
+      "date": "Tue, 20 Oct 2026 04:53:10 GMT",
+      "text_zh": "您现在可以重新订购您最爱的特斯拉\n\n\n凯文（@tesliusonx）\n\n今天我在我的特斯拉里发现了一些东西！\n\n出于显而易见的原因，我不能透露我的……但我只是想让所有可爱的特斯拉车主知道，您现在可以组织您最喜欢的目的地的顺序！\n\n只需点击并按住您最喜欢的地方之一。然后，使用三栏图标移动和拖动。\n\n感谢@Tesla 提供此功能\n\n\n\n— http://nitter.meowing.monster/tesliusonx/status/2112381797887807615#m"
+    },
+    {
+      "text": "\"This car really sucks. [...]  it could stick upside down. You might say, like, how often do you want to stick upside down in a car? Maybe not that often. \n\nBut it actually has this benefit on the track or just driving, where the downforce on the car means you can corner incredibly well. You can corner so well  it looks like you're breaking physics, because the car sticks to the ground so hard. So acceleration and cornering, it's going to crush every track record that has ever existed\"\n\n— @elonmusk, Tesla CEO, on the Roadster",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112403024773538233#m",
+      "date": "Tue, 20 Oct 2026 04:38:22 GMT",
+      "text_zh": "“这辆车真的很糟糕。[...]它可能会倒立。你可能会说，你想多久倒立在车里？也许不会那么频繁。 \n\n但它实际上在赛道上或只是在驾驶时具有这种优势，汽车上的下压力意味着您可以非常好地过弯。你的转弯能力如此之好，看起来就像你打破了物理原理，因为汽车粘在地面上的力道太大了。所以加速和转弯，它将打破所有曾经存在的记录”\n\n——@elonmusk，特斯拉首席执行官，谈 Roadster"
+    },
+    {
+      "text": "Tesla Roadster interior",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112402419661611217#m",
+      "date": "Tue, 20 Oct 2026 04:35:58 GMT",
+      "text_zh": "特斯拉跑车内饰"
+    },
+    {
+      "text": "Self-driving cars are on the brink of becoming commonplace. Next up are the highway’s biggest, loudest and most intimidating vehicles: driverless trucks. on.wsj.com/4i2FPi0\n\nLink\n\n\n\nThe Most Polite Trucker in America Is a Driverless 18-Wheeler\n\nThey’re on the interstate in Texas and can do almost everything a human truck driver does, except honk.\nwsj.com",
+      "link": "http://nitter.meowing.monster/WSJ/status/2112394488207258047#m",
+      "date": "Tue, 20 Oct 2026 04:04:27 GMT",
+      "text_zh": "自动驾驶汽车即将变得司空见惯。接下来是高速公路上最大、最吵闹、最令人生畏的车辆：无人驾驶卡车。 on.wsj.com/4i2FPi0\n\n链接\n\n\n\n美国最有礼貌的卡车司机是一辆无人驾驶 18 轮卡车\n\n它们在德克萨斯州的州际公路上，几乎可以做人类卡车司机所做的所有事情，除了按喇叭。\n华尔街日报"
+    },
     {
       "text": "Image",
       "link": "http://nitter.meowing.monster/wholemars/status/2112391539406364719#m",
@@ -98,6 +146,12 @@
       "link": "http://nitter.meowing.monster/wholemars/status/2112340122285084968#m",
       "date": "Tue, 20 Oct 2026 00:28:25 GMT",
       "text_zh": "今天这不是一大笔钱。您认为 18 年后，在 AGI 和 ASI 之后，它的价值是多少？\n\n\n索菲亚露 (@sophiadew)\n\n当然，价值 150 美元的 spacex 股票并不是很多钱。但所有权很重要！如果我们希望下一代积极进步，让他们参与美国创新是最好的方法\n\n\n\n— http://nitter.meowing.monster/sophiadew/status/2112310294357967240#m"
+    },
+    {
+      "text": "The ramp was bigger than it looked",
+      "link": "http://nitter.meowing.monster/artsytartsi/status/2112335022900568277#m",
+      "date": "Tue, 20 Oct 2026 00:08:09 GMT",
+      "text_zh": "坡道比看上去要大"
     },
     {
       "text": "Dear @elonmusk We don’t need flying cars, bruh! We need bigger cars, bruh! We are stacked in here like sardines, bruh! 😅🫶 #TeslaRoadster #Tesla\n\nVideo",
