@@ -1,8 +1,56 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-20T07:23:54Z",
-  "count": 28,
+  "updated_at": "2026-10-20T11:40:14Z",
+  "count": 37,
   "tweets": [
+    {
+      "text": "Another day in Sweden 🇸🇪  without autonomous technology.",
+      "link": "http://nitter.meowing.monster/AlexanderKr/status/2112474549983785139#m",
+      "date": "Tue, 20 Oct 2026 09:22:35 GMT",
+      "text_zh": "瑞典🇸🇪又是没有自主技术的一天。"
+    },
+    {
+      "text": "Just finished three short trips with Tesla Self-Driving 14.3.13. Not much time with the new build, but here are my initial impressions. \n\n1. It reversed out of my driveway much more quickly than previous versions.\n\n2. You can definitely feel the personality evolving more with each minor point release in the 14.3 series. This one felt like another major evolutionary step, but still a little bit awkward.\n\n3. In Mad Max mode, the car was driving so aggressively that it was sometimes uncomfortable going over dips or bumps in the road. Aggressive is great, but you want to be cautious where appropriate so the user can actually leave it in that aggressive mode\n\n4. It parked perfectly 3/3 times for each destination\n\n5. It did a better job at parking within the lines than the previous build.\n\n6. There was a car that was stopped in one lane when the light turned green, even intruding on the lane to its right a bit. The car just went around it without skipping a beat, even though it was a tight space, and did it very quickly like a human. \n\n7. Very smooth slowdowns approaching a red light or entering a turn lane.\n\n8. It seems to have this new personality trait where it will accelerate and decelerate on a different curve... I can't quite explain it yet\n\nWill test more in daytime traffic and let you know how it performs.",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112473103918104673#m",
+      "date": "Tue, 20 Oct 2026 09:16:50 GMT",
+      "text_zh": "刚刚使用 Tesla 自动驾驶 14.3.13 完成了 3 次短途旅行。花在新版本上的时间不多，但这是我的初步印象。 \n\n1. 它从我的车道上倒车的速度比以前的版本快得多。\n\n2.随着14.3系列中每个小点的发布，你绝对可以感受到个性的进一步发展。这感觉像是又一个重大的进化步骤，但仍然有点尴尬。\n\n3. 在“疯狂麦克斯”模式下，汽车行驶得非常激进，以至于有时在道路上的陡坡或颠簸处行驶时会感到不舒服。积极性很好，但您需要在适当的情况下保持谨慎，以便用户实际上可以将其保留在积极性模式中\n\n4. 每个目的地完美停车3/3次\n\n5. 与之前的版本相比，它在停车方面做得更好。\n\n6.有一辆车绿灯时停在一条车道上，甚至稍微侵入了右边的车道。尽管空间狭小，汽车却毫不犹豫地绕着它转了一圈，而且速度很快，就像人类一样。 \n\n7. 接近红灯或进入转弯车道时非常平稳地减速。\n\n8.它似乎有这种新的性格特征，它会在不同的曲线上加速和减速......我还不能完全解释它\n\n将在白天交通中进行更多测试，并让您了解其表现如何。"
+    },
+    {
+      "text": "some times small version number bumps can deceptively hide major improvements",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112456279310610883#m",
+      "date": "Tue, 20 Oct 2026 08:09:59 GMT",
+      "text_zh": "有时，小的版本号变化可能会掩盖重大改进"
+    },
+    {
+      "text": "Happy SpaceX earnings day to those who celebrate $SPCX",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112455627855532464#m",
+      "date": "Tue, 20 Oct 2026 08:07:23 GMT",
+      "text_zh": "祝那些庆祝 $SPCX 的人们 SpaceX 盈利日快乐"
+    },
+    {
+      "text": "the Tesla AI team sends a new FSD build at 1 AM California time \n\nwhat changes are they making? the release notes are identical, except for the new version number\n\nin the old days I would stay up and test it right away. Record some videos and post it. Now I'm old and lame. It's hard to tell the difference between one zero intervention drive and the other. \n\nShould I stay up until the sun rises and take it for a drive? Or is that just a waste of time at this point? Wen FSD 15?",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112455575367811347#m",
+      "date": "Tue, 20 Oct 2026 08:07:11 GMT",
+      "text_zh": "Tesla AI 团队于加州时间凌晨 1 点发送了新的 FSD 版本 \n\n他们正在做出哪些改变？除了新版本号之外，发行说明相同\n\n在过去，我会熬夜立即进行测试。录制一些视频并发布。现在我又老又瘸了。很难区分一种零干预驱动力和另一种零干预驱动力之间的区别。 \n\n我应该熬夜直到太阳升起然后开车出去吗？或者现在这只是浪费时间？文FSD 15？"
+    },
+    {
+      "text": "No change in release notes\n\n\nWhole Mars FSD Database (@fsd_database)\n\nWe noticed a new Tesla FSD version 14.3.13 in the release notes for software update 2026.38.5.10 on a Diamond Black 2025 Tesla Model 3 in New York, United States. Read the release notes here: fsddb.com/release-notes/2026…\n\n\n\n— http://nitter.meowing.monster/fsd_database/status/2112451981860364625#m",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112454846452539680#m",
+      "date": "Tue, 20 Oct 2026 08:04:17 GMT",
+      "text_zh": "发行说明没有变化\n\n\n整个火星 FSD 数据库 (@fsd_database)\n\n我们在美国纽约的 Diamond Black 2025 Tesla Model 3 的软件更新 2026.38.5.10 的发行说明中注意到新的 Tesla FSD 版本 14.3.13。请阅读此处的发行说明：fsddb.com/release-notes/2026...\n\n\n\n— http://nitter.meowing.monster/fsd_database/status/2112451981860364625#m"
+    },
+    {
+      "text": "Tesla Self-Driving 14.3.13 is rolling out now!",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112452267052093673#m",
+      "date": "Tue, 20 Oct 2026 07:54:02 GMT",
+      "text_zh": "Tesla 自动驾驶 14.3.13 现已推出！"
+    },
+    {
+      "text": "Volkswagen said in a NHTSA recall notice that it will be software limiting all ID.4 to 80% due to battery fire risk unless owners opt out by October 21st. \n\nVolkswagen is still determining the root cause of the issue and developinga. fix. \n\nwholemars.com/volkswagen-id4…\n\nLink\n\n\n\nVolkswagen will remotely cap ID.4 charging at 80% due to fire risk unless owners opt out today\n\nUS ID.4 owners must opt-out by October 21 or have charging remotely limited to 80% around October 27, 2026.\nwholemars.com",
+      "link": "http://nitter.meowing.monster/wholemars/status/2112452099418308741#m",
+      "date": "Tue, 20 Oct 2026 07:53:22 GMT",
+      "text_zh": "大众汽车在 NHTSA 召回通知中表示，由于电池起火风险，除非车主在 10 月 21 日之前选择退出，否则它将通过软件将所有 ID.4 的电量限制为 80%。 \n\n大众汽车仍在确定问题的根本原因并进行开发。使固定。 \n\nWholemars.com/volkswagen-id4…\n\n链接\n\n\n\n由于火灾风险，大众汽车将远程限制 ID.4 充电 80%，除非车主今天选择退出\n\n美国 ID.4 车主必须在 10 月 21 日之前选择退出，或者在 2026 年 10 月 27 日左右将远程充电限制在 80%。\nWholemars.com"
+    },
     {
       "text": "49 countries have broken EV-sales records this year",
       "link": "http://nitter.meowing.monster/wholemars/status/2112435693469512004#m",
@@ -164,6 +212,12 @@
       "link": "http://nitter.meowing.monster/PhilipJohnston/status/2112323554608079145#m",
       "date": "Mon, 19 Oct 2026 23:22:35 GMT",
       "text_zh": "当前@YCombinator 批次中我最喜欢的公司是@DreamscaleLabs (YC F26) 团队。四名大学辍学生埃里克 (Eric)、克里斯 (Chris)、凯文 (Kevin) 和安托万 (Antoine) 从事机器人云推理工作。目前，这几乎都是在边缘完成的，但随着类人机器人和其他机器人的崛起，几年后这将是一个巨大的市场，并且会想要运行比边缘更强大的实时推理。组队去吧！ 🤓👌\n\n@eternaI_entropy、@KDog112358、@pentestduck、@AntoineNeedGPUs"
+    },
+    {
+      "text": "My first Grok Bot project is a success! 😇\n\nIt helped me automate an account you can follow that simply updates a Stephenson Indicator™️ chart daily. Wish this had been a thing 6 years ago…\n\n\nStephenson Indicator (@StephensonIndTM)\n\nToday’s Stephenson Indicator™️ was $956.40.\n$TSLA closed today (Oct 19) at $368.06, a 61.5% discount to Stephenson Indicator™️.\n\n\n\n\n\n— http://nitter.meowing.monster/StephensonIndTM/status/2112312264631935200#m",
+      "link": "http://nitter.meowing.monster/ICannot_Enough/status/2112319249335062660#m",
+      "date": "Mon, 19 Oct 2026 23:05:28 GMT",
+      "text_zh": "我的第一个 Grok Bot 项目取得了成功！ 😇\n\n它帮助我自动化了一个您可以关注的帐户，每天只需更新 Stephenson Indicator™️ 图表即可。希望这是六年前的事……\n\n\n史蒂芬森指标 (@StephensonIndTM)\n\n今天的史蒂芬森指标™️ 为 956.40 美元。\n$TSLA 今天（10 月 19 日）收盘价为 368.06 美元，较 Stephenson Indicator™️ 折让 61.5%。\n\n\n\n\n\n— http://nitter.meowing.monster/StephensonIndTM/status/2112312264631935200#m"
     },
     {
       "text": "It was a great honor to work on Trump Accounts. Consider joining @ndstudio to work on much more just like it\n\n\nFarzad 🇺🇸 🇮🇷 (@farzyness)\n\nElon Musk says he'll be giving shares of his companies directly to the public - most likely through the Trump Account mechanism.\n\nUniversal Basic Capital has arrived, folks.\n\nWe are officially in the future.\n\n\n\n— http://nitter.meowing.monster/farzyness/status/2111991772620435653#m",
