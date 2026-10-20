@@ -1,8 +1,64 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-20T14:13:10Z",
-  "count": 44,
+  "updated_at": "2026-10-20T19:05:08Z",
+  "count": 52,
   "tweets": [
+    {
+      "text": "RT @ALScyborg: 🚇 New Future Link! The latest from @boringcompany 👇 📦 A Tesla-powered tunnel truck that carries a standard 20-ft shipping co…",
+      "link": "https://x.com/teslaownersSV/status/2112614026014605804",
+      "date": "Tue Oct 20 18:36:48 +0000 2026",
+      "tweet_id": "2112614026014605804",
+      "text_zh": "RT @ALScyborg：🚇 新的未来链接！来自 @boringcompany 的最新消息👇📦 一辆由 Tesla 驱动的隧道卡车，运载标准 20 英尺运输公司……"
+    },
+    {
+      "text": "🚇 New Future Link! The latest from @boringcompany 👇 📦 A Tesla-powered tunnel truck that carries a standard 20-ft shipping container 🎰 The Vegas Loop is heading to 28 stations by year end 🎸 Two Prufrock machines are digging Nashville's Music City Loop at once ♿ Prufrock-5 is https://t.co/wuBx69nDxF",
+      "link": "https://x.com/ALScyborg/status/2112591644797342038",
+      "date": "Tue Oct 20 17:07:52 +0000 2026",
+      "tweet_id": "2112591644797342038",
+      "text_zh": "🚇 新的未来链接！来自 @boringcompany 的最新消息 👇 📦 一辆特斯拉驱动的隧道卡车，运载标准 20 英尺集装箱 🎰 维加斯环路将于年底前往 28 个车站 🎸 两台 Prufrock 机器正在同时挖掘纳什维尔的音乐城环线 ♿ Prufrock-5 是 https://t.co/wuBx69nDxF"
+    },
+    {
+      "text": "X is changing how the For You timeline ranks content.\n\nA new SI ranking model predicts how long users will spend on a post, while a new retrieval model prioritizes posts people read from start to finish.\n\nThe focus is shifting toward sustained attention as X’s daily active user https://t.co/gXEOyOEVG5",
+      "link": "https://x.com/teslaownersSV/status/2112591491449373128",
+      "date": "Tue Oct 20 17:07:16 +0000 2026",
+      "tweet_id": "2112591491449373128",
+      "text_zh": "X 正在改变 For You 时间线对内容进行排名的方式。\n\n新的 SI 排名模型可以预测用户将在帖子上花费多长时间，而新的检索模型可以优先考虑人们从头到尾阅读的帖子。\n\n焦点正在转向作为 X 的每日活跃用户的持续关注 https://t.co/gXEOyOEVG5"
+    },
+    {
+      "text": "Grok Bot 0.71.2 is a major upgrade.\n\nUsers can now upload files up to 250 MB, videos up to 1 GB, and up to 20 files at once without compression or splitting.\n\nIt also adds smarter notifications and pre-filled forms for faster workflows. https://t.co/vhIn304KW0",
+      "link": "https://x.com/teslaownersSV/status/2112588443251556417",
+      "date": "Tue Oct 20 16:55:09 +0000 2026",
+      "tweet_id": "2112588443251556417",
+      "text_zh": "Grok Bot 0.71.2 是一次重大升级。\n\n用户现在可以上传最大 250 MB 的文件、最大 1 GB 的视频以及最多 20 个文件，无需压缩或拆分。\n\n它还添加了更智能的通知和预填写的表单，以加快工作流程。 https://t.co/vhIn304KW0"
+    },
+    {
+      "text": "https://t.co/DtmScuxOOl",
+      "link": "https://x.com/teslaownersSV/status/2112583135917420696",
+      "date": "Tue Oct 20 16:34:04 +0000 2026",
+      "tweet_id": "2112583135917420696",
+      "text_zh": "https://t.co/DtmScuxOOl"
+    },
+    {
+      "text": "RT @teslaownersSV: AI built for the whole family 👨‍👩‍👧‍👦\n\nThat’s @Nori_FamilyAI\n\nShared calendars 🗓️, tasks ✅, meals 🍕, and routines — all…",
+      "link": "https://x.com/teslaownersSV/status/2112582484994953487",
+      "date": "Tue Oct 20 16:31:28 +0000 2026",
+      "tweet_id": "2112582484994953487",
+      "text_zh": "RT @teslaownersSV：为全家人打造的人工智能👨‍👩‍👧‍👦\n\n那是@Nori_FamilyAI\n\n共享日历🗓️、任务✅、膳食🍕和例行公事——全部……"
+    },
+    {
+      "text": "Elon Musk’s simulation theory explains everything about him. \n\n“Any simulations that are boring will be truncated.\" \n\nThen: \"Should I really be making spaceships to go to the moon and Mars? That doesn't seem real.\" https://t.co/0tUBiUYXkP",
+      "link": "https://x.com/teslaownersSV/status/2112581505822466415",
+      "date": "Tue Oct 20 16:27:35 +0000 2026",
+      "tweet_id": "2112581505822466415",
+      "text_zh": "埃隆·马斯克的模拟理论解释了关于他的一切。 \n\n“任何无聊的模拟都会被截断。” \n\n然后：“我真的应该制造宇宙飞船去月球和火星吗？这看起来不太真实。” https://t.co/0tUBiUYXkP"
+    },
+    {
+      "text": "Walter Isaacson asked Elon Musk about the chainsaw era. \n\nHis answer: \"Let's not put a spade down in the backyard. You never know what you're going to find.\" \n\nHe says he should have gone back to AI sooner. https://t.co/jXGQqNyEXh",
+      "link": "https://x.com/teslaownersSV/status/2112570038486192267",
+      "date": "Tue Oct 20 15:42:01 +0000 2026",
+      "tweet_id": "2112570038486192267",
+      "text_zh": "沃尔特·艾萨克森向埃隆·马斯克询问了电锯时代的情况。 \n\n他的回答是：“我们不要在后院放铁锹。你永远不知道会发现什么。” \n\n他说他应该早点回到人工智能领域。 https://t.co/jXGQqNyEXh"
+    },
     {
       "text": "“We enter production in 2028. Actually, for real.” \n– Elon Musk\n\nThe Tesla Roadster is the cherry on top 🍒🍨 https://t.co/nAy5hOfiHU",
       "link": "https://x.com/teslaownersSV/status/2112546670647116058",
