@@ -6,87 +6,104 @@
     {
       "text": "FSD saved me AGAIN from a maniac. This was the second crash it helped me avoid this year.\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\nRaines (@raines1220)\n\nFSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2067801983306866712#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2111663771597021404#m",
-      "date": "Sun, 18 Oct 2026 03:40:50 GMT"
+      "date": "Sun, 18 Oct 2026 03:40:50 GMT",
+      "text_zh": "FSD 再次从疯子手中救了我。这是它今年帮助我避免的第二次事故。\n\n视频\n  \n\n\n\n视频\n  \n\n\n\n\n雷恩斯（@raines1220）\n\nFSD v14.3.4 刚刚把我们从疯子手中救了出来。相机没有真实地反映情况。我不相信任何人都能比 FSD 做得更好。这是超人的驾驶技术。\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2067801983306866712#m"
     },
     {
       "text": "I couldn’t see anything because of the sun’s glare.\n\nVideo",
       "link": "http://nitter.meowing.monster/raines1220/status/2097038948937916610#m",
-      "date": "Mon, 07 Sep 2026 19:07:01 GMT"
+      "date": "Mon, 07 Sep 2026 19:07:01 GMT",
+      "text_zh": "由于阳光刺眼，我什么也看不见。\n\n视频"
     },
     {
       "text": "AI is real.\n\nBut the LLM-token economy still looks like a bubble.\n\nThe money flow is simple:\n\nEnterprise → LLM → GPU → Memory\n\nInvestors are moving upstream in search of certainty.\n\nNo one knows which AI app will win, so they buy the LLM labs. No one knows whether OpenAI, Anthropic, Google, Meta, or xAI will win, so they buy NVIDIA. No one knows how durable GPU demand is, so they buy memory.\n\nEvery layer looks safer than the one below it. But that certainty is an illusion. The entire chain is still funded by the layer closest to real ROI.\n\nEnterprises pay for tokens because they are trying to prove LLM adoption works. But so far, LLM productivity gains have not clearly translated into revenue growth. Consumers are not obviously buying more. Expenses are not obviously falling either.\n\nMost AI-related layoffs look more like companies using LLMs to rationalize previous overhiring. The layoffs truly driven by “AI efficiency” often create backlash, operational problems, or quality issues. When hallucination is still unsolved, critical work still needs human supervision.\n\nSo the economics are awkward: no obvious revenue lift, no obvious expense reduction, and a new token bill on top.\n\nMeanwhile, customers are not receiving much of the surplus. They are not getting better products at lower prices. They are getting higher prices, worse content, and weaker job security.\n\nPersonally, I hate this most when I see gaming consoles getting more expensive, PCs getting more expensive, Macs getting more expensive, and the internet filling up with lower-quality AI slop.\n\nIf consumers do not spend more, the companies selling to them cannot justify ever-growing LLM expenses. And enterprises do not need to abandon LLMs for the chain to break. They only need to slow the growth of LLM spending.",
       "link": "http://nitter.meowing.monster/raines1220/status/2073191786915549204#m",
-      "date": "Fri, 03 Jul 2026 23:46:54 GMT"
+      "date": "Fri, 03 Jul 2026 23:46:54 GMT",
+      "text_zh": "人工智能是真实的。\n\n但LLM代币经济看起来仍然像一个泡沫。\n\n资金流向很简单：\n\n企业 → 法学硕士 → GPU → 内存\n\n投资者正在向上游寻求确定性。\n\n没有人知道哪一个人工智能应用程序会获胜，所以他们买下了法学硕士实验室。没有人知道 OpenAI、Anthropic、Google、Meta 或 xAI 是否会获胜，因此他们购买了 NVIDIA。没有人知道 GPU 需求有多持久，所以他们购买内存。\n\n每一层看起来都比下面一层更安全。但这种确定性只是一种幻觉。整个链仍然由最接近真实投资回报率的层提供资金。\n\n企业支付代币是因为他们试图证明 LLM 的采用是有效的。但到目前为止，LLM 生产率的提高尚未明显转化为收入增长。消费者显然并没有购买更多。费用也没有明显下降。\n\n大多数与人工智能相关的裁员看起来更像是公司利用法学硕士来合理化之前的过度招聘。真正由“人工智能效率”驱动的裁员往往会产生反弹、运营问题或质量问题。当幻觉仍未解决时，关键工作仍然需要人类监督。\n\n因此，经济状况很尴尬：没有明显的收入提升，没有明显的费用减少，而且还有新的代币账单。\n\n与此同时，客户并没有收到太多盈余。他们没有以更低的价格获得更好的产品。他们的价格更高，内容更差，工作保障也更弱。\n\n就我个人而言，当我看到游戏机变得越来越贵、PC 越来越贵、Mac 越来越贵、互联网上充斥着低质量的 AI 垃圾时，我最讨厌这种情况。\n\n如果消费者不增加支出，向他们销售产品的公司就无法证明不断增加的法学硕士费用是合理的。企业不需要因为链条断裂而放弃法学硕士。他们只需要减缓法学硕士支出的增长。"
     },
     {
       "text": "1.  Hidden\n2. Unauthorized \n3. Against the user’s interests\n\nThe “experiment” from Anthropic coincidentally checks every box of my malware test.\n\n\nThariq (@trq212)\n\nHi, this is an experiment we launched in March that was meant to prevent account abuse from unauthorized resellers and protect against distillation. \n\nThe team has landed stronger mitigations since then and we’ve actually been meaning to take this down for a while. We merged the PR and this should be fully rolled back in tomorrow’s release.\n\n\n\n— http://nitter.meowing.monster/trq212/status/2072079729331777817#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2072423755800871177#m",
-      "date": "Wed, 01 Jul 2026 20:55:01 GMT"
+      "date": "Wed, 01 Jul 2026 20:55:01 GMT",
+      "text_zh": "1. 隐藏\n2. 未经授权 \n3、损害用户利益\n\nAnthropic 的“实验”巧合地检查了我的恶意软件测试的每个框。\n\n\n塔里克 (@trq212)\n\n您好，这是我们在三月份启动的一项实验，旨在防止未经授权的经销商滥用帐户并防止蒸馏。 \n\n从那时起，该团队已经采取了更强有力的缓解措施，实际上我们已经打算将其取消一段时间了。我们合并了 PR，这应该会在明天的版本中完全回滚。\n\n\n\n— http://nitter.meowing.monster/trq212/status/2072079729331777817#m"
     },
     {
       "text": "Supreme stupidity.\n\n\nGordon Johnson (@GordonJohnson19)\n\nHey @aelluswamy are you stating, below, FSD (supervised) was indeed engaged right before the fatal accident occurred - i.e., the driver was “supervising” the FSD that was activated? And, if yes, does this mean the system failed? Any help is GREATLY appreciated? $TSLA\n\n\n\n— http://nitter.meowing.monster/GordonJohnson19/status/2069360882568560836#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2069471168021799382#m",
-      "date": "Tue, 23 Jun 2026 17:22:30 GMT"
+      "date": "Tue, 23 Jun 2026 17:22:30 GMT",
+      "text_zh": "至高无上的愚蠢。\n\n\n戈登·约翰逊（@GordonJohnson19）\n\n嘿@aelluswamy，你是不是在下面说，FSD（受监督）确实在致命事故发生之前就已启动 - 即驾驶员正在“监督”已激活的 FSD？如果是，这是否意味着系统出现故障？非常感谢任何帮助？ $特斯拉\n\n\n\n— http://nitter.meowing.monster/GordonJohnson19/status/2069360882568560836#m"
     },
     {
       "text": "Vibe coding is no longer an AI skill. Your agent team must autonomously identify opportunities, assemble a team, file issues in your repo, draft PR/MRs, review them, merge them, test them, and deploy them.\n\nIf your workflow still requires human involvement, then you have a skill problem, and you can do better.",
       "link": "http://nitter.meowing.monster/raines1220/status/2069348341109145919#m",
-      "date": "Tue, 23 Jun 2026 09:14:25 GMT"
+      "date": "Tue, 23 Jun 2026 09:14:25 GMT",
+      "text_zh": "Vibe 编码不再是一项人工智能技能。您的代理团队必须自主识别机会、组建团队、在存储库中归档问题、起草 PR/MR、审核它们、合并它们、测试它们并部署它们。\n\n如果您的工作流程仍然需要人工参与，那么您就遇到了技能问题，并且您可以做得更好。"
     },
     {
       "text": "I actually think SpaceX has a fair price now (~$2T), based on simple math using publicly known information that everyone already has access to.\n\nAnd since I also did some secret research (lol), my take on the win rate of certain core projects might be different from the market’s take. As a result, personally, I think it is actually very undervalued and a good deal now.",
       "link": "http://nitter.meowing.monster/raines1220/status/2069189625235869878#m",
-      "date": "Mon, 22 Jun 2026 22:43:44 GMT"
+      "date": "Mon, 22 Jun 2026 22:43:44 GMT",
+      "text_zh": "事实上，我认为 SpaceX 现在有一个合理的价格（~2T 美元），这是基于使用每个人都已经可以获得的公开信息进行的简单数学计算。\n\n而且由于我也做了一些秘密研究（笑），所以我对某些核心项目的胜率的看法可能与市场的看法不同。因此，我个人认为它实际上被严重低估，而且现在很划算。"
     },
     {
       "text": "Yes, Tesla is deploying Robotaxi very slowly for some reason. However, Tesla is constantly producing new Cybercabs, and those are filling parking lots at a stable rate. Recently, new Cybercabs reportedly no longer have steering wheels, according to @tesla2moon.\n\nIf the large-scale deployment timeline is unclear to Elon, then why doesn’t he pause or slow down Cybercab production, or at least add steering wheels to them?\n\nIn fact, if you think about Robotaxi long term, the scaling rate will probably be bottlenecked by the manufacturing rate for years. So I suggest that, in the early stages, we look at the production rate of Cybercabs, especially those without steering wheels, to estimate the actual “scale” of Robotaxi, instead of only looking at those running on the road. This might reduce short-term noise.",
       "link": "http://nitter.meowing.monster/raines1220/status/2069110868223435010#m",
-      "date": "Mon, 22 Jun 2026 17:30:47 GMT"
+      "date": "Mon, 22 Jun 2026 17:30:47 GMT",
+      "text_zh": "是的，出于某种原因，特斯拉部署 Robotaxi 的速度非常缓慢。然而，特斯拉正在不断生产新的网络出租车，并且这些出租车正在以稳定的速度填满停车场。据 @tesla2moon 报道，最近，据报道，新的 Cyber​​cab 不再配备方向盘。\n\n如果 Elon 不清楚大规模部署的时间表，那么他为什么不暂停或放慢 Cyber​​cab 的生产，或者至少为其添加方向盘呢？\n\n事实上，如果你从长远考虑 Robotaxi，那么规模化速度可能会在多年内受到制造速度的瓶颈。所以我建议，在早期阶段，我们看一下Cyber​​cabs的生产率，尤其是那些没有方向盘的，来估计Robotaxi的实际“规模”，而不是只看路上跑的。这可能会减少短期噪音。"
     },
     {
       "text": "Raines (@raines1220)\n\nEven if we give them every possible benefit of the doubt and assume FSD was active, why didn’t the driver disengage or intervene? The car was clearly speeding, and that was an obvious warning sign that it was time to disengage. Was the driver asleep with his foot on the accelerator?\n\nIf the driver were trying to make up a story, claiming the brakes failed would’ve been a better lie. Saying “self-driving was active” sounds more like an attempt to avoid responsibility.\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2068740808262746615#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2068741057920274637#m",
-      "date": "Sun, 21 Jun 2026 17:01:18 GMT"
+      "date": "Sun, 21 Jun 2026 17:01:18 GMT",
+      "text_zh": "雷恩斯（@raines1220）\n\n即使我们给予他们一切可能的怀疑并假设 FSD 处于活动状态，为什么驾驶员不脱离或干预？汽车明显超速，这是一个明显的警告信号，表明是时候脱离了。司机是不是脚踩油门睡着了？\n\n如果司机想编造故事，声称刹车失灵会是更好的谎言。说“自动驾驶很活跃”听起来更像是试图逃避责任。\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2068740808262746615#m"
     },
     {
       "text": "Even if we give them every possible benefit of the doubt and assume FSD was active, why didn’t the driver disengage or intervene? The car was clearly speeding, and that was an obvious warning sign that it was time to disengage. Was the driver asleep with his foot on the accelerator?\n\nIf the driver were trying to make up a story, claiming the brakes failed would’ve been a better lie. Saying “self-driving was active” sounds more like an attempt to avoid responsibility.\n\n\nCreole Louisiana 🇺🇸 (@bAnthonYsr)\n\n🚨🤦🏽‍♂️ One of Elon Musk's Teslas was driven on autopilot and crashed into a home yesterday in Katy, Texas, killing an older woman‼️😳\n\nReports are that the driver survived and was not drunk‼️🤔\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/bAnthonYsr/status/2068721109910835543#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2068740808262746615#m",
-      "date": "Sun, 21 Jun 2026 17:00:18 GMT"
+      "date": "Sun, 21 Jun 2026 17:00:18 GMT",
+      "text_zh": "即使我们给予他们一切可能的怀疑并假设 FSD 处于活动状态，为什么驾驶员不脱离或干预？汽车明显超速，这是一个明显的警告信号，表明是时候脱离了。司机是不是脚踩油门睡着了？\n\n如果司机想编造故事，声称刹车失灵会是更好的谎言。说“自动驾驶很活跃”听起来更像是试图逃避责任。\n\n\n路易斯安那克里奥尔语🇺🇸 (@bAnthonYsr)\n\n🚨🤦🏽‍♂️ 昨天，埃隆·马斯克（Elon Musk）的一辆特斯拉在自动驾驶模式下撞入德克萨斯州凯蒂的一所房屋，导致一名年长妇女身亡‼️😳\n\n据报道，司机幸存且没有醉酒‼️🤔\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/bAnthonYsr/status/2068721109910835543#m"
     },
     {
       "text": "I think there will be many Tesla owners who drive distracted, get into a serious crash, get scared, and then lie to the police by saying the car was self-driving because they think it might make them less liable, even if legally it wouldn’t.\n\nI’m not saying this is what happened here, but this has happened in the past, and I do see why some people would have that motivation.\n\n\nABC News (@ABC)\n\nA driver in a Tesla vehicle that was allegedly in self-driving mode crashed into a Texas house Friday night, killing a woman who was inside the home, investigators said. abcnews.link/qbwtFc0\n\n\n\n\n\n— http://nitter.meowing.monster/ABC/status/2068417451046441338#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2068570145933631506#m",
-      "date": "Sun, 21 Jun 2026 05:42:09 GMT"
+      "date": "Sun, 21 Jun 2026 05:42:09 GMT",
+      "text_zh": "我认为会有很多特斯拉车主在驾驶时分心，发生严重车祸，感到害怕，然后向警方撒谎，说这辆车是自动驾驶的，因为他们认为这可能会减轻他们的责任，即使从法律上来说这不会。\n\n我并不是说这就是这里发生的事情，但这在过去发生过，我确实明白为什么有些人会有这种动机。\n\n\n美国广播公司新闻 (@ABC)\n\n调查人员称，周五晚上，一名据称处于自动驾驶模式的特斯拉汽车司机撞上了德克萨斯州的一所房屋，导致屋内一名妇女死亡。 abcnews.link/qbwtFc0\n\n\n\n\n\n— http://nitter.meowing.monster/ABC/status/2068417451046441338#m"
     },
     {
       "text": "This is another similar scenario. The first part is almost identical, but the second half is far more dangerous than mine.\n\nWhen an event is unfolding in real time, there are multiple plausible futures with similar probabilities. FSD cannot assume the best-case outcome. In this video, the other driver actually accelerated into the lane and created an extremely dangerous situation.\n\nWhat’s interesting is that FSD made almost the same magnitude of evasive maneuver in his video as it did in mine. That suggests FSD was not overreacting in my case. It was choosing a “Game theory Optimal”-style strategy: instead of betting on what the reckless human driver would do next, it positioned itself to preserve safety across multiple possible outcomes.\n\nThis is the kind of strategy humans often fail to appreciate, because humans judge the event after seeing how it ended.\n\n\nC. L. Max Nikias (@MaxNikias_)\n\nMy Cybertruck, on full FSD, in downtown Los Angeles, suddenly swerved to the left and narrowly avoided a collision with the white Audi car changing lanes very fast. If I were the driver, I wouldn’t have been able to prevent the accident.  Views from three different cameras of the CT. \n@elonmusk @teslasi @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/MaxNikias_/status/2068342345477894420#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2068565561030668313#m",
-      "date": "Sun, 21 Jun 2026 05:23:56 GMT"
+      "date": "Sun, 21 Jun 2026 05:23:56 GMT",
+      "text_zh": "这是另一个类似的场景。前半部分几乎相同，但后半部分比我的危险得多。\n\n当事件实时展开时，存在多个具有相似概率的合理未来。 FSD 无法假设最好情况的结果。在这段视频中，另一名司机实际上加速进入车道并造成了极其危险的情况。\n\n有趣的是，FSD 在他的视频中做出的规避动作几乎与我在我的视频中相同。这表明 FSD 在我的案例中并没有反应过度。它选择了一种“博弈论最优”式的策略：它不是押注鲁莽的人类驾驶员下一步会做什么，而是将自己定位为在多种可能的结果中保持安全。\n\n这是人类常常无法理解的策略，因为人类在看到事件的结局后才会做出判断。\n\n\nC.L.马克斯·尼基亚斯 (@MaxNikias_)\n\n在洛杉矶市中心，我的全 FSD 赛博卡车突然向左转向，险些与那辆快速变道的白色奥迪车相撞。如果我是司机，我就无法阻止这场事故。  CT 的三个不同摄像机的视图。 \n@elonmusk @teslasi @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\n视频\n  \n\n\n\n视频\n  \n\n\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/MaxNikias_/status/2068342345477894420#m"
     },
     {
       "text": "My Cybertruck, on full FSD, in downtown Los Angeles, suddenly swerved to the left and narrowly avoided a collision with the white Audi car changing lanes very fast. If I were the driver, I wouldn’t have been able to prevent the accident.  Views from three different cameras of the CT. \n@elonmusk @teslasi @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\nVideo\n  \n\n\n\nVideo\n  \n\n\n\nVideo",
       "link": "http://nitter.meowing.monster/MaxNikias_/status/2068342345477894420#m",
-      "date": "Sat, 20 Jun 2026 14:36:57 GMT"
+      "date": "Sat, 20 Jun 2026 14:36:57 GMT",
+      "text_zh": "在洛杉矶市中心，我的全 FSD 赛博卡车突然向左转向，险些与那辆快速变道的白色奥迪车相撞。如果我是司机，我就无法阻止这场事故。  CT 的三个不同摄像机的视图。 \n@elonmusk @teslasi @Tesla \n@MarioNawfal @dallasteslaclub \n#FSD #Cybertruck #Tesla #Robotaxi\n\n视频\n  \n\n\n\n视频\n  \n\n\n\n视频"
     },
     {
       "text": "B-pillar view as requested\n\nVideo",
       "link": "http://nitter.meowing.monster/raines1220/status/2067875336348688640#m",
-      "date": "Fri, 19 Jun 2026 07:41:14 GMT"
+      "date": "Fri, 19 Jun 2026 07:41:14 GMT",
+      "text_zh": "B柱视图按要求\n\n视频"
     },
     {
       "text": "FSD v14.3.4 just saved us from a maniac. The camera does not do the situation justice. I don’t believe any human could have done better than FSD here. This was superhuman driving skill.\n\nVideo",
       "link": "http://nitter.meowing.monster/raines1220/status/2067801983306866712#m",
-      "date": "Fri, 19 Jun 2026 02:49:45 GMT"
+      "date": "Fri, 19 Jun 2026 02:49:45 GMT",
+      "text_zh": "FSD v14.3.4 刚刚把我们从疯子手中救了出来。相机没有真实地反映情况。我不相信任何人都能比 FSD 做得更好。这是超人的驾驶技术。\n\n视频"
     },
     {
       "text": "I gave it more thought, and I think I found all the answers. I have to say SpaceX’s story is much harder to comprehend compared with Tesla’s.\n\nThe short answer is that 1) inference is trending toward becoming the majority of future compute expense. One day, training in space might also make economic sense. 2) Sending AI chips to space does not make compute cheaper in absolute terms, but during a severe shortage, it can make adding new compute less expensive relative to ground-based alternatives. And 3) to make the AI story complete, Terafab must succeed in solving the production capacity issue around memory and packaging. Hopefully, faster iteration is the key to addressing that challenge, but the risk remains.\n\n\nRaines (@raines1220)\n\nPlease correct me if I’m wrong, but here are my thoughts about AI satellite from SPCX:\n\n1. Training/inference: They are kilometers away from each other. Due to physics limitations, the latency and bandwidth between satellites will make them better suited for inference only, not training.\n\n2. Energy saving: Energy cost for data centers is usually less than 10%. The majority of data center cost today is still depreciation of AI chips. Therefore, even if you consider energy cost as zero, I still have trouble seeing significant cost efficiency when comparing on-ground data centers with in-space ones.\n\n3. Production capacity: If AI chip manufacturing speed is the scaling bottleneck, then launching AI satellites does not unblock scaling, since the satellites still need to wait for the chips. Otherwise, the plan to have 10,000 Starship launches per year becomes the bottleneck, and at this speed, it still does not significantly outpace the expected compute scaling speed on the ground within five years.\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2066538753670402167#m",
       "link": "http://nitter.meowing.monster/raines1220/status/2067475428508660019#m",
-      "date": "Thu, 18 Jun 2026 05:12:08 GMT"
+      "date": "Thu, 18 Jun 2026 05:12:08 GMT",
+      "text_zh": "我思考了更多，我想我找到了所有的答案。不得不说，与特斯拉相比，SpaceX 的故事更难理解。\n\n简而言之，1）推理正趋于成为未来计算支出的主要部分。有一天，太空训练也可能具有经济意义。 2）将人工智能芯片发送到太空并不会使计算绝对便宜，但在严重短缺的情况下，它可以使添加新计算相对于地面替代方案更便宜。 3) 为了使人工智能故事更加完整，Terafab 必须成功解决内存和封装方面的产能问题。希望更快的迭代是解决这一挑战的关键，但风险仍然存在。\n\n\n雷恩斯（@raines1220）\n\n如果我错了，请纠正我，但以下是我对 SPCX 人工智能卫星的看法：\n\n1. 训练/推理：它们彼此相距数公里。由于物理限制，卫星之间的延迟和带宽将使它们更适合仅进行推理，而不是训练。\n\n2、节能：数据中心的能源成本通常低于10%。如今数据中心成本的大部分仍然是人工智能芯片的折旧。因此，即使您认为能源成本为零，在将地面数据中心与太空数据中心进行比较时，我仍然很难看到显着的成本效率。\n\n3.产能：如果说AI芯片的制造速度是扩容的瓶颈，那么发射AI卫星并不能畅通扩容，因为卫星还需要等待芯片。否则，每年发射 10,000 次星舰的计划将成为瓶颈，而按照这个速度，它仍然不会明显超过五年内地面预期的计算扩展速度。\n\n\n\n— http://nitter.meowing.monster/raines1220/status/2066538753670402167#m"
     },
     {
       "text": "Upcoming releases of FSD will remember your parking preferences, so that the car goes to the right location at your home, office, school drop off, etc.\n\nDestination parking is by far the biggest reason people now intervene with FSD. Critical safety interventions are extremely rare.",
       "link": "http://nitter.meowing.monster/elonmusk/status/2067377176287318326#m",
-      "date": "Wed, 17 Jun 2026 22:41:43 GMT"
+      "date": "Wed, 17 Jun 2026 22:41:43 GMT",
+      "text_zh": "即将发布的 FSD 将记住您的停车偏好，以便汽车前往您家、办公室、学校下车处等的正确位置。\n\n到目前为止，目的地停车是人们使用 FSD 进行干预的最大原因。关键的安全干预措施极为罕见。"
     }
   ]
 }
