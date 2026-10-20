@@ -534,7 +534,10 @@ def fetch_via_jina_proxy(username):
         if tweets:
             return tweets
     print("    Jina proxy returned no usable data")
-    print(f"    [debug] len={len(content)} head={content[:300]!r}")
+    print(
+        f"    [debug] len={len(content)} has_next_data={'__NEXT_DATA__' in content} "
+        f"has_entries={'entries' in content} head={content[:200]!r}"
+    )
     return None
 
 
