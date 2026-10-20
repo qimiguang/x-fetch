@@ -148,15 +148,32 @@ def _parse_syndication_data(data, username):
     return tweets
 
 
+def _walk_tweet_nodes(node, out):
+    """递归遍历 JSON 树，收集所有形似推文的对象（有数字 id + 文本）。"""
+    if isinstance(node, dict):
+        tid = node.get("id_str") or node.get("id")
+        text = node.get("full_text") or node.get("text")
+        if (
+            tid is not None
+            and isinstance(text, str)
+            and text.strip()
+            and str(tid).isdigit()
+            and ("created_at" in node or "favorite_count" in node)
+        ):
+            out.append(node)
+        for v in node.values():
+            _walk_tweet_nodes(v, out)
+    elif isinstance(node, list):
+        for v in node:
+            _walk_tweet_nodes(v, out)
+
+
 def _parse_next_data(data, username):
-    """解析 __NEXT_DATA__ 中的推文数据。"""
+    """解析 __NEXT_DATA__ 中的推文数据：先试已知路径，失败则递归全树搜索。"""
     tweets = []
     try:
-        # 深度搜索 tweets 数组
-        props = data.get("props", {})
-        page_props = props.get("pageProps", {})
-        timeline = page_props.get("timeline", {})
-        entries = timeline.get("entries", [])
+        # 已知路径: props.pageProps.timeline.entries
+        entries = data.get("props", {}).get("pageProps", {}).get("timeline", {}).get("entries", [])
         for entry in entries:
             tweet = entry.get("tweet", {})
             text = tweet.get("full_text") or tweet.get("text", "")
@@ -171,6 +188,33 @@ def _parse_next_data(data, username):
                 })
     except (KeyError, TypeError, AttributeError):
         pass
+    if tweets:
+        return tweets
+
+    # 兜底: 递归搜索整棵树（syndication 页面结构可能嵌套在 contextProvider 下）
+    nodes = []
+    try:
+        _walk_tweet_nodes(data, nodes)
+    except (TypeError, AttributeError):
+        pass
+    seen = set()
+    for tweet in nodes:
+        text = tweet.get("full_text") or tweet.get("text", "")
+        tid = str(tweet.get("id_str") or tweet.get("id"))
+        if tid in seen or not text.strip():
+            continue
+        seen.add(tid)
+        screen = ""
+        user = tweet.get("user")
+        if isinstance(user, dict):
+            screen = user.get("screen_name") or ""
+        handle = screen or username
+        tweets.append({
+            "text": text,
+            "link": f"https://x.com/{handle}/status/{tid}",
+            "date": tweet.get("created_at", ""),
+            "tweet_id": tid,
+        })
     return tweets
 
 
