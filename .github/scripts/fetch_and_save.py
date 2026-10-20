@@ -392,14 +392,18 @@ def translate_to_zh(text):
         )
         data = None
         for attempt in range(3):
-            data = fetch_json(url, timeout=15)
-            if data and data.get("0"):
+            try:
+                data = fetch_json(url, timeout=15)
+            except Exception:
+                data = None
+            # gtx 成功响应是数组：[[["译文","原文",...],...],...]
+            if isinstance(data, list) and data and data[0]:
                 break
             time.sleep(1.5 * (attempt + 1))
-        if not data or not data.get("0"):
+        if not (isinstance(data, list) and data and data[0]):
             return None
         try:
-            parts.append("".join(seg[0] for seg in data["0"] if seg and seg[0]))
+            parts.append("".join(seg[0] for seg in data[0] if seg and seg[0]))
         except (TypeError, KeyError, IndexError):
             return None
     return "\n".join(parts)
@@ -414,7 +418,11 @@ def fill_translations(tweets, budget):
             break
         if t.get("text_zh"):
             continue
-        zh = translate_to_zh(t.get("text", ""))
+        try:
+            zh = translate_to_zh(t.get("text", ""))
+        except Exception as e:
+            print(f"    translate error: {type(e).__name__}: {e}")
+            zh = None
         if zh:
             t["text_zh"] = zh
             done += 1
