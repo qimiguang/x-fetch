@@ -485,6 +485,58 @@ def merge_with_existing(username, tweets):
     return result[:MAX_TWEETS]
 
 
+# ── Method 4: Jina Reader 代理（绕过 GitHub runner IP 限流）───────────────────
+
+def fetch_via_jina_proxy(username):
+    """通过 r.jina.ai 中转访问 Syndication API：出口 IP 为 Jina 机房，
+    可绕过 Twitter 对 GitHub runner IP 段的 429 限流。仅在直连全部失败时兜底。"""
+    print("  [Method 4] Syndication via r.jina.ai proxy...")
+    target = (
+        f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
+        f"?count={COUNT}&showReplies=false"
+    )
+    headers = {
+        "X-Return-Format": "text",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+    }
+    content = fetch("https://r.jina.ai/" + target, headers=headers, timeout=45)
+    if not content:
+        return None
+
+    def _try_parse(raw, tag):
+        try:
+            tweets = _parse_syndication_data(json.loads(raw), username)
+            if tweets:
+                print(f"    Got {len(tweets)} tweets via Jina proxy ({tag})")
+                return tweets
+        except json.JSONDecodeError:
+            pass
+        return None
+
+    # 1) 响应本身是 JSON
+    tweets = _try_parse(content, "direct")
+    if tweets:
+        return tweets
+    # 2) markdown 包装：截取第一个 { 起的 JSON
+    idx = content.find("{")
+    if idx > 0:
+        tweets = _try_parse(content[idx:], "stripped")
+        if tweets:
+            return tweets
+    # 3) __NEXT_DATA__ HTML
+    match = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
+    if match:
+        try:
+            tweets = _parse_next_data(json.loads(match.group(1)), username)
+            if tweets:
+                print(f"    Got {len(tweets)} tweets via Jina proxy (NEXT_DATA)")
+                return tweets
+        except (json.JSONDecodeError, KeyError):
+            pass
+    print("    Jina proxy returned no usable data")
+    return None
+
+
 def fetch_tweets(username):
     # 方法1: Syndication API（最稳定，对高流量账号也有效）
     tweets = fetch_via_syndication(username)
@@ -498,6 +550,11 @@ def fetch_tweets(username):
 
     # 方法3: Nitter RSS
     tweets = fetch_via_nitter(username)
+    if tweets:
+        return tweets
+
+    # 方法4: Jina 代理中转 Syndication（绕过 GitHub IP 限流的兜底）
+    tweets = fetch_via_jina_proxy(username)
     if tweets:
         return tweets
 
