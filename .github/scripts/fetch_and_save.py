@@ -534,6 +534,7 @@ def fetch_via_jina_proxy(username):
         except (json.JSONDecodeError, KeyError):
             pass
     print("    Jina proxy returned no usable data")
+    print(f"    [debug] len={len(content)} head={content[:300]!r}")
     return None
 
 
