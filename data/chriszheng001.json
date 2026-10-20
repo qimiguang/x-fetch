@@ -1,6 +1,6 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-10-20T12:41:18Z",
+  "updated_at": "2026-10-20T14:13:22Z",
   "count": 125,
   "tweets": [
     {
@@ -839,19 +839,22 @@
       "text": "AMD Ryzen with Model Y Performance runs on the Chinese video site iQiyi, super smooth! https://t.co/GwTbObNmBq",
       "link": "https://x.com/ChrisZheng001/status/1464098767372652546",
       "date": "Fri Nov 26 05:08:42 +0000 2021",
-      "tweet_id": "1464098767372652546"
+      "tweet_id": "1464098767372652546",
+      "text_zh": "AMD Ryzen with Model Y Performance 在中国视频网站爱奇艺上运行，超级流畅！ https://t.co/GwTbObNmBq"
     },
     {
       "text": "The Model Y produced by Giga Shanghai is equipped with a 16V lithium battery, which replaces the traditional 12V lead-acid battery, just like Model S Plaid!",
       "link": "https://x.com/ChrisZheng001/status/1464076429847457800",
       "date": "Fri Nov 26 03:39:56 +0000 2021",
-      "tweet_id": "1464076429847457800"
+      "tweet_id": "1464076429847457800",
+      "text_zh": "Giga上海生产的Model Y配备了16V锂电池，取代了传统的12V铅酸电池，就像Model S格子一样！"
     },
     {
       "text": "Tesla Giga Shanghai's latest layout, interesting. https://t.co/F3f77TuX0t",
       "link": "https://x.com/ChrisZheng001/status/1459900235774238727",
       "date": "Sun Nov 14 15:05:14 +0000 2021",
-      "tweet_id": "1459900235774238727"
+      "tweet_id": "1459900235774238727",
+      "text_zh": "Tesla Giga 上海最新布局，有趣。 https://t.co/F3f77TuX0t"
     }
   ]
 }

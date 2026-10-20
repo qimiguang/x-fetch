@@ -1,6 +1,6 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-20T12:37:14Z",
+  "updated_at": "2026-10-20T14:12:09Z",
   "count": 139,
   "tweets": [
     {
@@ -917,25 +917,29 @@
       "text": "https://t.co/Gw6xaw1u0N",
       "link": "https://x.com/elonmusk/status/1503287788652871680",
       "date": "Mon Mar 14 08:31:53 +0000 2022",
-      "tweet_id": "1503287788652871680"
+      "tweet_id": "1503287788652871680",
+      "text_zh": "https://t.co/Gw6xaw1u0N"
     },
     {
       "text": "Starlinks with “lasers” deployed to orbit https://t.co/Y1eg9gl7sJ",
       "link": "https://x.com/elonmusk/status/1479236333516165121",
       "date": "Thu Jan 06 23:39:59 +0000 2022",
-      "tweet_id": "1479236333516165121"
+      "tweet_id": "1479236333516165121",
+      "text_zh": "部署在轨道上的“激光器”的星链 https://t.co/Y1eg9gl7sJ"
     },
     {
       "text": "The coronavirus panic is dumb",
       "link": "https://x.com/elonmusk/status/1236029449042198528",
       "date": "Fri Mar 06 20:42:39 +0000 2020",
-      "tweet_id": "1236029449042198528"
+      "tweet_id": "1236029449042198528",
+      "text_zh": "对冠状病毒的恐慌是愚蠢的"
     },
     {
       "text": "Had to been done ur welcome https://t.co/7jT0f9lqIS",
       "link": "https://x.com/elonmusk/status/1053390822991790083",
       "date": "Fri Oct 19 21:01:57 +0000 2018",
-      "tweet_id": "1053390822991790083"
+      "tweet_id": "1053390822991790083",
+      "text_zh": "必须完成，欢迎 https://t.co/7jT0f9lqIS"
     }
   ]
 }

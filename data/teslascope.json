@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-20T12:38:55Z",
+  "updated_at": "2026-10-20T14:12:58Z",
   "count": 162,
   "tweets": [
     {
@@ -845,235 +845,274 @@
       "text": "We're pleased to share that Full Self-Driving (Beta) v12.1.2 is now going out to *some* customers and includes vehicles with HW4 for the first time.",
       "link": "https://x.com/teslascope/status/1749174815817429434",
       "date": "Sun Jan 21 20:59:08 +0000 2024",
-      "tweet_id": "1749174815817429434"
+      "tweet_id": "1749174815817429434",
+      "text_zh": "我们很高兴与大家分享，全自动驾驶（测试版）v12.1.2 现已向“部分”客户推出，并且首次包含配备 HW4 的车辆。"
     },
     {
       "text": "We noticed a new Tesla software update 2023.44.30.12 on a Model 3 SR (2023) in Nevada, United States. View the rollout of this update here: https://t.co/bOyPg335th",
       "link": "https://x.com/teslascope/status/1749170831983587373",
       "date": "Sun Jan 21 20:43:19 +0000 2024",
-      "tweet_id": "1749170831983587373"
+      "tweet_id": "1749170831983587373",
+      "text_zh": "我们注意到美国内华达州的 Model 3 SR (2023) 上有新的特斯拉软件更新 2023.44.30.12。在此处查看此更新的推出：https://t.co/bOyPg335th"
     },
     {
       "text": "Full Self-Driving (Beta) v12.1.1 is now rolling out to Tesla employees for the first time.",
       "link": "https://x.com/teslascope/status/1745904802004127902",
       "date": "Fri Jan 12 20:25:16 +0000 2024",
-      "tweet_id": "1745904802004127902"
+      "tweet_id": "1745904802004127902",
+      "text_zh": "全自动驾驶（测试版）v12.1.1 现已首次向 Tesla 员工推出。"
     },
     {
       "text": "We weren’t permitted to share this earlier, but now can due to the wider rollout to employees.\n\nWhile all previously published information, this is the first screenshot of the Full Self-Driving (Beta) V12.1 update from the Tesla mobile app. https://t.co/yKRbgv9am8",
       "link": "https://x.com/teslascope/status/1740164557010821181",
       "date": "Thu Dec 28 00:15:35 +0000 2023",
-      "tweet_id": "1740164557010821181"
+      "tweet_id": "1740164557010821181",
+      "text_zh": "早些时候我们不被允许分享这一点，但现在由于更广泛地向员工推出，所以可以分享。\n\n尽管之前发布了所有信息，但这是 Tesla 移动应用程序的全自动驾驶（Beta）V12.1 更新的第一个屏幕截图。 https://t.co/yKRbgv9am8"
     },
     {
       "text": "We can confirm that Full Self-Driving (Beta) V12.1 has now rolled out to Wave1, which including 15,000+ personally-owned @Tesla employee vehicles.\n\nIt’s happening. 🎉",
       "link": "https://x.com/teslascope/status/1740119464870555830",
       "date": "Wed Dec 27 21:16:24 +0000 2023",
-      "tweet_id": "1740119464870555830"
+      "tweet_id": "1740119464870555830",
+      "text_zh": "我们可以确认全自动驾驶（测试版）V12.1 现已推出到 Wave1，其中包括 15,000 多辆 @Tesla 员工个人拥有的车辆。\n\n它正在发生。 🎉"
     },
     {
       "text": "As it stands, Full Self-Driving V12 is still in beta, which we confidentially communicated back in November despite criticism and newsletters stating otherwise.\n\nThis is expected to change next year as Tesla aims for SAE Level 3-4 certification, but we'll share more on that soon.",
       "link": "https://x.com/teslascope/status/1738772717615427895",
       "date": "Sun Dec 24 04:04:55 +0000 2023",
-      "tweet_id": "1738772717615427895"
+      "tweet_id": "1738772717615427895",
+      "text_zh": "目前，完全自动驾驶 V12 仍处于测试阶段，尽管批评和时事通讯另有说明，我们还是在 11 月份秘密传达了这一信息。\n\n随着特斯拉的目标是获得 SAE 3-4 级认证，这种情况预计会在明年发生变化，但我们很快就会分享更多相关信息。"
     },
     {
       "text": "We can confirm that Full Self-Driving V12.1 first went out to employees two days ago via 2023.44.30.10.\n\nThe initial exclusive group has now expanded by 30x and initial reviews have been positive.",
       "link": "https://x.com/teslascope/status/1738763540327260610",
       "date": "Sun Dec 24 03:28:27 +0000 2023",
-      "tweet_id": "1738763540327260610"
+      "tweet_id": "1738763540327260610",
+      "text_zh": "我们可以确认，全自动驾驶V12.1已于两天前通过2023.44.30.10首次向员工发布。\n\n最初的专属群体现已扩大了 30 倍，初步评价也很积极。"
     },
     {
       "text": "Hey @elonmusk,\n\nHundreds of thousands of @Tesla vehicle owners are eager and interested in paid upgrades from Intel Atom to the new Ryzen infotainment computer. This upgrade would breathe new life into existing vehicles and improve feature parity.\n\nJust to put that out there. 👍",
       "link": "https://x.com/teslascope/status/1735836866384126010",
       "date": "Sat Dec 16 01:38:53 +0000 2023",
-      "tweet_id": "1735836866384126010"
+      "tweet_id": "1735836866384126010",
+      "text_zh": "嘿@elonmusk，\n\n数十万 @Tesla 车主渴望并有兴趣从 Intel Atom 付费升级到新款 Ryzen 信息娱乐计算机。此次升级将为现有车辆注入新的活力并提高功能的一致性。\n\n只是为了把它放在那里。 👍"
     },
     {
       "text": "There’s your “more coming”. 😉\n\nThe High Fidelity Park Assist is just a tease at what’s coming soon from the Tesla autonomy team.\n\nEverything you thought was possible with visualizations changes next year.",
       "link": "https://x.com/teslascope/status/1732982270531920232",
       "date": "Fri Dec 08 04:35:45 +0000 2023",
-      "tweet_id": "1732982270531920232"
+      "tweet_id": "1732982270531920232",
+      "text_zh": "这是你的“更多即将到来”。 😉\n\n高保真停车辅助系统只是特斯拉自动驾驶团队即将推出的产品的一个调侃。\n\n你认为通过可视化可以实现的一切明年都会发生变化。"
     },
     {
       "text": "The 2023 Holiday Update rolls out next week  \n \nHere’s what’s coming...\n\nCustom Lock Sounds\nReplace the horn lock sound of your vehicle with another sound—like a screaming goat 🐐\n\nLAN Party on Wheels\nPlay your favorite games on the rear touchscreen 🎮\n\nRear Screen Bluetooth https://t.co/Xl2Q6YgS2b",
       "link": "https://x.com/Tesla/status/1732980835740242194",
       "date": "Fri Dec 08 04:30:03 +0000 2023",
-      "tweet_id": "1732980835740242194"
+      "tweet_id": "1732980835740242194",
+      "text_zh": "2023 年假期更新将于下周推出  \n \n接下来会发生什么...\n\n自定义锁定声音\n将车辆的喇叭锁声音替换为另一种声音，例如尖叫的山羊🐐\n\n车轮上的局域网派对\n在后部触摸屏上玩您最喜欢的游戏🎮\n\n后屏蓝牙 https://t.co/Xl2Q6YgS2b"
     },
     {
       "text": "Here are the release notes for the @Tesla holiday update, now that they've been published!\n\nThe update includes (so far)\n– Apple Podcasts\n– Tesla Arcade Updates\n– Automatic 911 Calls\n– Speed Cameras On Your Route\n\n(continued below) https://t.co/rBQod7vtmx",
       "link": "https://x.com/teslascope/status/1732586062634266689",
       "date": "Thu Dec 07 02:21:21 +0000 2023",
-      "tweet_id": "1732586062634266689"
+      "tweet_id": "1732586062634266689",
+      "text_zh": "以下是@Tesla 假期更新的发行说明，现已发布！\n\n更新内容包括（到目前为止）\n– 苹果播客\n– Tesla Arcade 更新\n– 自动拨打 911\n– 您路线上的测速摄像头\n\n（下续）https://t.co/rBQod7vtmx"
     },
     {
       "text": "We’re applying a self-embargo on any release notes retaining to the holiday update for the next 24 hours, in order to keep employees safe and comply with requests from Tesla. ✅\n\nWorry not, there’s a chance we’ll see the massive holiday update go out to customers shortly! 🎄⏰",
       "link": "https://x.com/teslascope/status/1732289071232458769",
       "date": "Wed Dec 06 06:41:13 +0000 2023",
-      "tweet_id": "1732289071232458769"
+      "tweet_id": "1732289071232458769",
+      "text_zh": "我们将对未来 24 小时内保留假期更新的任何发行说明实施自我禁运，以确保员工安全并遵守 Tesla 的要求。 ✅\n\n不用担心，我们有可能很快就会向客户推出大型假期更新！ 🎄⏰"
     },
     {
       "text": "Tesla has just pushed the holiday update to employees within the last hour! 🎄\n\nWe’ve been made aware that this update includes a strict non-disclosure reminder, so we’ve chosen to withhold sharing details for the moment.\n\nOne employee we spoke to was very excited though. ❄️",
       "link": "https://x.com/teslascope/status/1732284753712415141",
       "date": "Wed Dec 06 06:24:04 +0000 2023",
-      "tweet_id": "1732284753712415141"
+      "tweet_id": "1732284753712415141",
+      "text_zh": "特斯拉刚刚在最后一个小时内向员工推送了假期更新！ 🎄\n\n我们已获悉此更新包含严格的保密提醒，因此我们选择暂时不透露详细信息。\n\n不过，我们采访的一位员工非常兴奋。 ❄️"
     },
     {
       "text": "Elon has confirmed that Full Self-Driving (Beta) v12 has now begun rolling out to employees. 🎉",
       "link": "https://x.com/teslascope/status/1728139969158607114",
       "date": "Fri Nov 24 19:54:10 +0000 2023",
-      "tweet_id": "1728139969158607114"
+      "tweet_id": "1728139969158607114",
+      "text_zh": "Elon 确认全自动驾驶（测试版）v12 现已开始向员工推出。 🎉"
     },
     {
       "text": "Beautiful. Elegant. Ambient RGB Lighting.\n\nNow on the redesigned @Tesla Model 3 and coming soon to all models before the end of 2024. https://t.co/o5O52INjNG",
       "link": "https://x.com/teslascope/status/1697424182341153048",
       "date": "Fri Sep 01 01:40:36 +0000 2023",
-      "tweet_id": "1697424182341153048"
+      "tweet_id": "1697424182341153048",
+      "text_zh": "美丽的。优雅的。环境 RGB 照明。\n\n现在，重新设计的 @Tesla Model 3 将于 2024 年底前推出所有车型。https://t.co/o5O52INjNG"
     },
     {
       "text": "A first glimpse of the Spotify redesign included in @Tesla software updates 2023.26 and later. 🎶\n\nShared with permission from @LehtinenTico. https://t.co/xBN0RQoTtf",
       "link": "https://x.com/teslascope/status/1681520822715031552",
       "date": "Wed Jul 19 04:26:19 +0000 2023",
-      "tweet_id": "1681520822715031552"
+      "tweet_id": "1681520822715031552",
+      "text_zh": "首次了解 Spotify 重新设计，包含在 @Tesla 软件更新 2023.26 及更高版本中。 🎶\n\n经@LehtinenTico 许可共享。 https://t.co/xBN0RQoTtf"
     },
     {
       "text": "The latest version of @Tesla’s Full Self-Driving (Beta) v11.4.5 is now rolling out to employees and special groups.\n\nThe software version is 2023.7.25. https://t.co/nbPDf1sHc3",
       "link": "https://x.com/teslascope/status/1677618232889593857",
       "date": "Sat Jul 08 09:58:50 +0000 2023",
-      "tweet_id": "1677618232889593857"
+      "tweet_id": "1677618232889593857",
+      "text_zh": "@Tesla 的全自动驾驶（测试版）v11.4.5 的最新版本现已向员工和特殊群体推出。\n\n软件版本为2023年7月25日。 https://t.co/nbPDf1sHc3"
     },
     {
       "text": "A new @Tesla production software update, 2023.26, has been detected on our vehicle platform. This is a massive new update.\n\nhttps://t.co/XlKvB4NCj9\n\nIt includes a trove of new features:\n\nCharge On Solar\nCharge your Tesla with solar energy if you have a Powerwall. You can choose https://t.co/53a2JmLNES",
       "link": "https://x.com/teslascope/status/1675081144822558721",
       "date": "Sat Jul 01 09:57:21 +0000 2023",
-      "tweet_id": "1675081144822558721"
+      "tweet_id": "1675081144822558721",
+      "text_zh": "我们的车辆平台上检测到了新的 @Tesla 生产软件更新 2023.26。这是一个巨大的新更新。\n\nhttps://t.co/XlKvB4NCj9\n\n它包含大量新功能：\n\n太阳能充电\n如果您有 Powerwall，则可以使用太阳能为 Tesla 充电。您可以选择https://t.co/53a2JmLNES"
     },
     {
       "text": "We're excited to present an informational thread about the upcoming Tesla Highland (Model 3 Redesign)! 📌\n\nHighland represents Tesla's continued innovation and ingenuity over the last sixteen years, with the most significant refresh of an existing model. Buckle up!",
       "link": "https://x.com/teslascope/status/1671956434878345218",
       "date": "Thu Jun 22 19:00:52 +0000 2023",
-      "tweet_id": "1671956434878345218"
+      "tweet_id": "1671956434878345218",
+      "text_zh": "我们很高兴推出有关即将推出的 Tesla Highland（Model 3 重新设计）的信息主题！ 📌\n\nHighland 代表了特斯拉在过去十六年中持续的创新和独创性，对现有车型进行了最重大的更新。系好安全带！"
     },
     {
       "text": "The newest @Tesla Full Self-Driving (Beta) update v11.4.2 is now going out to employees across North America! https://t.co/CoJsQujXiT",
       "link": "https://x.com/teslascope/status/1662128733850062848",
       "date": "Fri May 26 16:09:05 +0000 2023",
-      "tweet_id": "1662128733850062848"
+      "tweet_id": "1662128733850062848",
+      "text_zh": "最新的 @Tesla 全自动驾驶（测试版）更新 v11.4.2 现已向北美各地的员工发布！ https://t.co/CoJsQujXiT"
     },
     {
       "text": "Full Self-Driving (Beta) is now available for all eligible @Tesla vehicles in North America. 🎉\n\nWe’ve seen hundreds of vehicles receiving the latest update (2023.12.10) in under an hour after subscribing.\n\nWe welcome all new testers; enjoy experiencing City Streets &amp; stay safe!",
       "link": "https://x.com/teslascope/status/1661104305666162688",
       "date": "Tue May 23 20:18:22 +0000 2023",
-      "tweet_id": "1661104305666162688"
+      "tweet_id": "1661104305666162688",
+      "text_zh": "完全自动驾驶（测试版）现已适用于北美所有符合条件的 @Tesla 车辆。 🎉\n\n我们发现数百辆车辆在订阅后不到一个小时内就收到了最新更新 (2023.12.10)。\n\n我们欢迎所有新测试人员；享受体验城市街道并注意安全！"
     },
     {
       "text": "We're receiving some responses that this could be a new version of Full Self-Driving (Beta), currently released to only vehicles on production builds. \n\nOnly vehicles within the United States (on our platform) and presently on non-FSD builds have received this software update.",
       "link": "https://x.com/teslascope/status/1660851771177041921",
       "date": "Tue May 23 03:34:54 +0000 2023",
-      "tweet_id": "1660851771177041921"
+      "tweet_id": "1660851771177041921",
+      "text_zh": "我们收到一些回复，称这可能是全自动驾驶（测试版）的新版本，目前仅发布到量产车辆。 \n\n只有美国境内（在我们的平台上）且目前采用非 FSD 版本的车辆已收到此软件更新。"
     },
     {
       "text": "Exclusive: A new unreleased @Tesla software update (2023.12) is now going out to employee vehicles, including a trove of interface-oriented improvements.\n\n- Text Size Adjustments\n- Controls Search\n- Points of Interest\n- Phone Call Controls\n- and more (included in the next tweets) https://t.co/yOWtXxGG5d",
       "link": "https://x.com/teslascope/status/1645369132068794368",
       "date": "Mon Apr 10 10:12:25 +0000 2023",
-      "tweet_id": "1645369132068794368"
+      "tweet_id": "1645369132068794368",
+      "text_zh": "独家：新的未发布的 @Tesla 软件更新 (2023.12) 现已发布到员工车辆，其中包括大量面向界面的改进。\n\n- 文字大小调整\n- 控制搜索\n- 兴趣点\n- 电话控制\n- 以及更多（包含在下一条推文中）https://t.co/yOWtXxGG5d"
     },
     {
       "text": "We'll discuss it more, but yes, that is a wireless induction charger. It is paramount for robotaxi and non-touch charging (the car leaves and returns independently while you are asleep).\n\nIt is entirely configurable via the mobile app.\nIt only supports newer vehicle iterations. https://t.co/fuufFwZcdd",
       "link": "https://x.com/teslascope/status/1631069412605435906",
       "date": "Wed Mar 01 23:10:26 +0000 2023",
-      "tweet_id": "1631069412605435906"
+      "tweet_id": "1631069412605435906",
+      "text_zh": "我们将进一步讨论它，但是，是的，那是无线感应充电器。这对于机器人出租车和非接触式充电（汽车在您睡觉时独立离开和返回）至关重要。\n\n它完全可以通过移动应用程序进行配置。\n它仅支持较新的车辆迭代。 https://t.co/fuufFwZcdd"
     },
     {
       "text": "Introducing: The first confirmed glimpse of the new cameras found in a newly delivered Tesla Model X with HW4 onboard. https://t.co/nW6wH3BjvA",
       "link": "https://x.com/teslascope/status/1627587255085985794",
       "date": "Mon Feb 20 08:33:35 +0000 2023",
-      "tweet_id": "1627587255085985794"
+      "tweet_id": "1627587255085985794",
+      "text_zh": "简介：首次确认在新交付的搭载 HW4 的特斯拉 Model X 中发现了新摄像头。 https://t.co/nW6wH3BjvA"
     },
     {
       "text": "A new build of Full Self-Driving V11 (presumed to be V11.3) has now gone out to employees as of one hour ago.\n\nNo further information is available at this time, however, we expect further validation is required before we see this, or a subsequent build, make its way to everyone.",
       "link": "https://x.com/teslascope/status/1625224128080023553",
       "date": "Mon Feb 13 20:03:21 +0000 2023",
-      "tweet_id": "1625224128080023553"
+      "tweet_id": "1625224128080023553",
+      "text_zh": "全新的全自动驾驶 V11（推测为 V11.3）现已在一小时前向员工发出。\n\n目前还没有进一步的信息，但是，我们预计在我们看到这个或后续版本向所有人发布之前需要进一步验证。"
     },
     {
       "text": "Introducing: the first appearance of Tesla's Full Self-Driving (Beta) in the United Kingdom, running on an internal build of single-stack.\n\nFor over a year now, Tesla has been testing their upcoming suite of autonomy features with the help of dozens of primarily secret employees. https://t.co/vNDzrCgfh4",
       "link": "https://x.com/teslascope/status/1604929635837284352",
       "date": "Mon Dec 19 20:00:17 +0000 2022",
-      "tweet_id": "1604929635837284352"
+      "tweet_id": "1604929635837284352",
+      "text_zh": "介绍：特斯拉全自动驾驶（测试版）首次在英国亮相，运行在单堆栈的内部构建上。\n\n一年多来，特斯拉一直在数十名秘密员工的帮助下测试即将推出的一系列自主功能。 https://t.co/vNDzrCgfh4"
     },
     {
       "text": "🎁 Tesla Holiday update? Here’s a first glimpse.\n\n- Apple Music\n- Improved music player you can move around and customize.\n- MyQ garage support.\n- Remote light show scheduling and remote emissions mode (requires mobile update)\n- New games.\n- and much more we can’t share yet. 😇",
       "link": "https://x.com/teslascope/status/1600287282124435457",
       "date": "Wed Dec 07 00:33:14 +0000 2022",
-      "tweet_id": "1600287282124435457"
+      "tweet_id": "1600287282124435457",
+      "text_zh": "🎁 特斯拉假期更新？这是第一眼。\n\n- 苹果音乐\n- 改进的音乐播放器，您可以移动和自定义。\n- MyQ 车库支持。\n- 远程灯光秀调度和远程发射模式（需要手机更新）\n- 新游戏。\n- 还有更多我们还无法分享的内容。 😇"
     },
     {
       "text": "Here's your first glimpse of Full Self-Driving Beta V11's release notes!\n\nThis CONFIRMS that single stack is now activated and now using the updated Occupancy Network first mentioned at AI Day 2!\n\nCredit: @husseinhamdan_ https://t.co/vY8RVTP78K",
       "link": "https://x.com/teslascope/status/1591471834989404161",
       "date": "Sat Nov 12 16:43:48 +0000 2022",
-      "tweet_id": "1591471834989404161"
+      "tweet_id": "1591471834989404161",
+      "text_zh": "这是您第一次看到全自动驾驶 Beta V11 的发行说明！\n\n这确认单堆栈现已激活，并且现在使用在 AI 第 2 天首次提到的更新的占用网络！\n\n图片来源：@husseinhamdan_ https://t.co/vY8RVTP78K"
     },
     {
       "text": "We're a bit perplexed by Elon's statement regarding the removal of the Mobile Connector cable with new vehicles.\n\nWhile our own data is, by far, not as detailed as Tesla's, it shows a different story. 📊\n\n61% of sessions were with the mobile connector.\n32% used the wall charger. https://t.co/PoN91RYzsz",
       "link": "https://x.com/teslascope/status/1515470559852650496",
       "date": "Sat Apr 16 23:21:52 +0000 2022",
-      "tweet_id": "1515470559852650496"
+      "tweet_id": "1515470559852650496",
+      "text_zh": "我们对埃隆关于取消新车移动连接器电缆的声明感到有点困惑。\n\n虽然我们自己的数据到目前为止还没有特斯拉那么详细，但它却展示了一个不同的故事。 📊\n\n61% 的会话是通过移动连接器进行的。\n32% 使用壁式充电器。 https://t.co/PoN91RYzsz"
     },
     {
       "text": "Elon has just announced that the Full Self-Driving Beta will be made available to all Tesla vehicles in the United States with FSD purchased by this year.",
       "link": "https://x.com/teslascope/status/1512257911849840640",
       "date": "Fri Apr 08 02:35:57 +0000 2022",
-      "tweet_id": "1512257911849840640"
+      "tweet_id": "1512257911849840640",
+      "text_zh": "Elon 刚刚宣布，今年之前在美国购买的所有配备 FSD 的特斯拉汽车都将可以使用全自动驾驶 Beta 版。"
     },
     {
       "text": "What other company besides @Tesla? https://t.co/2sdzTtAWmZ",
       "link": "https://x.com/teslascope/status/1512254030415761414",
       "date": "Fri Apr 08 02:20:31 +0000 2022",
-      "tweet_id": "1512254030415761414"
+      "tweet_id": "1512254030415761414",
+      "text_zh": "除了@Tesla 还有什么公司？ https://t.co/2sdzTtAWmZ"
     },
     {
       "text": "The rumor is out!\n\nTesla has been working on their own \"App Store\" since around May 2021 and will launch before deliveries of the Cybertruck.\n\nThis is what we expected to be shared during the earnings call, although @elonmusk did share this would be the year of \"software\".",
       "link": "https://x.com/teslascope/status/1490101255850520578",
       "date": "Sat Feb 05 23:13:18 +0000 2022",
-      "tweet_id": "1490101255850520578"
+      "tweet_id": "1490101255850520578",
+      "text_zh": "谣言已出！\n\n特斯拉自 2021 年 5 月左右以来一直在开发自己的“App Store”，并将在 Cyber​​truck 交付之前推出。\n\n这是我们期望在财报电话会议上分享的内容，尽管 @elonmusk 确实分享了今年将是“软件”的一年。"
     },
     {
       "text": "The first Model 3 and Y vehicles with MCU3 (Infotainment Computer with AMD Ryzen) are now being produced and delivered in North America! https://t.co/BHbpyKr78D",
       "link": "https://x.com/teslascope/status/1475951869608411136",
       "date": "Tue Dec 28 22:08:42 +0000 2021",
-      "tweet_id": "1475951869608411136"
+      "tweet_id": "1475951869608411136",
+      "text_zh": "首批配备 MCU3（采用 AMD Ryzen 的信息娱乐计算机）的 Model 3 和 Y 车辆现已在北美生产和交付！ https://t.co/BHbpyKr78D"
     },
     {
       "text": "A first glimpse of the UI relating to the live-streaming of the Dashcam on the @Tesla mobile app. https://t.co/TH1wqKpe0V",
       "link": "https://x.com/teslascope/status/1448531752868200458",
       "date": "Thu Oct 14 06:10:56 +0000 2021",
-      "tweet_id": "1448531752868200458"
+      "tweet_id": "1448531752868200458",
+      "text_zh": "第一次看到与 @Tesla 移动应用程序上的行车记录仪直播相关的 UI。 https://t.co/TH1wqKpe0V"
     },
     {
       "text": "Here are some of the release notes for the upcoming Tesla software update 2021.24.\n\n– Disney+\n– Car Wash Mode\n– Mirror Auto Dim\n– Dashcam Improvements\n– Range Display\n– Remain Connected to Wifi in Drive (Good for hotspots)\n– New Language Support\n\nCredit: https://t.co/eXC5hTne0N https://t.co/YLB9p295nX",
       "link": "https://x.com/teslascope/status/1420612015173734400",
       "date": "Thu Jul 29 05:07:52 +0000 2021",
-      "tweet_id": "1420612015173734400"
+      "tweet_id": "1420612015173734400",
+      "text_zh": "以下是即将推出的 Tesla 软件更新 2021.24 的一些发行说明。\n\n– 迪士尼+\n– 洗车模式\n– 镜子自动调暗\n– 行车记录仪改进\n– 范围显示\n– 在云端硬盘中保持与 Wifi 的连接（适用于热点）\n– 新语言支持\n\n信用：https://t.co/eXC5hTne0N https://t.co/YLB9p295nX"
     },
     {
       "text": "A first glimpse of the upcoming V11 software update for Tesla vehicles. https://t.co/sHHwxUyFMV",
       "link": "https://x.com/teslascope/status/1373883186283831297",
       "date": "Mon Mar 22 06:24:11 +0000 2021",
-      "tweet_id": "1373883186283831297"
+      "tweet_id": "1373883186283831297",
+      "text_zh": "抢先了解即将推出的 Tesla 车辆 V11 软件更新。 https://t.co/sHHwxUyFMV"
     },
     {
       "text": "The new refreshed Tesla Model S has been spotted in public, including the Yoke steering wheel.\n\nCredit: https://t.co/uwHt15tIhH https://t.co/Fln7CEqQav",
       "link": "https://x.com/teslascope/status/1373372429133697027",
       "date": "Sat Mar 20 20:34:37 +0000 2021",
-      "tweet_id": "1373372429133697027"
+      "tweet_id": "1373372429133697027",
+      "text_zh": "全新改款的特斯拉 Model S 已在公众面前亮相，其中包括 Yoke 方向盘。\n\n信用：https://t.co/uwHt15tIhH https://t.co/Fln7CEqQav"
     },
     {
       "text": "💡 We are speculating that an expansion of the Full Self-Driving Beta (#FSDBeta) to more/all Early Access Program participants is imminent.\n\nWe have personally confirmed a dozen individuals have been newly invited into the program in the last two weeks; with dozens more expected.",
       "link": "https://x.com/teslascope/status/1353030987089756160",
       "date": "Sat Jan 23 17:25:00 +0000 2021",
-      "tweet_id": "1353030987089756160"
+      "tweet_id": "1353030987089756160",
+      "text_zh": "💡 我们推测，全自动驾驶测试版 (#FSDBeta) 即将扩展到更多/所有早期访问计划参与者。\n\n我们亲自确认了过去两周内新邀请了十几个人加入该计划；预计还有数十个。"
     }
   ]
 }
