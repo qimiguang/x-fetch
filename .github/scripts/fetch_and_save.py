@@ -542,6 +542,19 @@ def main():
             summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
+            # 抓取失败（如被限流）也让存量推文继续补翻译，逐轮消化
+            path = f"data/{username.lower()}.json"
+            if os.path.exists(path):
+                try:
+                    with open(path, encoding="utf-8") as f:
+                        existing_data = json.load(f)
+                    n = fill_translations(existing_data.get("tweets", []), TRANSLATE_PER_RUN)
+                    if n:
+                        with open(path, "w", encoding="utf-8") as f:
+                            json.dump(existing_data, f, ensure_ascii=False, indent=2)
+                        print(f"  Backfilled {n} translations -> {path}")
+                except (json.JSONDecodeError, OSError) as e:
+                    print(f"  Backfill skipped: {e}")
             summary[username] = 0
 
     with open("data/_summary.json", "w") as f:
