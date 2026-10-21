@@ -139,6 +139,16 @@ def probe_syndication():
     d = json.loads(m.group(1))
     pp = d.get("props", {}).get("pageProps", {})
     print("[probe] pageProps keys:", list(pp.keys()))
+    tl = pp.get("timeline", {})
+    if isinstance(tl, dict):
+        print("[probe] timeline keys:", list(tl.keys()))
+        entries = tl.get("entries", [])
+        print(f"[probe] entries x{len(entries)}")
+        if entries:
+            print("[probe] entry[0]:", json.dumps(entries[0], ensure_ascii=False)[:900])
+        for k in ("bottom_cursor", "bottomCursor", "next_cursor"):
+            if k in tl:
+                print(f"[probe] {k} =", str(tl[k])[:120])
     s = json.dumps(d)
     for kw in ["cursor", "Cursor"]:
         positions = [i for i in range(len(s)) if s.startswith(kw, i)]
