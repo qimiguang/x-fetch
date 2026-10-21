@@ -127,7 +127,10 @@ def probe_syndication():
     )
     content = fetch_direct(url)
     if not content:
-        print("[probe] syndication direct failed")
+        print("[probe] syndication direct failed, trying jina...")
+        content = fetch_jina(url)
+    if not content:
+        print("[probe] syndication unreachable")
         return
     m = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
     if not m:
