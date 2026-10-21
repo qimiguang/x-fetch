@@ -50,27 +50,47 @@ def is_timeline(content):
     return bool(content) and "timeline-item" in content and "Making sure you" not in content
 
 
-def fetch_any(target, timeout=45):
-    """多路尝试：runner 直连 → Jina 等渲染（过 Anubis）→ Jina + xcancel 实例。"""
-    content = fetch_direct(target)
-    if is_timeline(content):
-        return content
-    print("    direct failed/blocked, trying Jina with wait-for-selector...")
-    content = fetch_jina(target, extra_headers={
-        "X-Wait-For-Selector": ".timeline-item",
-        "X-Timeout": "30",
-    })
-    if is_timeline(content):
-        return content
-    alt = target.replace("https://nitter.cz", "https://xcancel.com")
-    print(f"    trying xcancel via Jina: {alt}")
-    content = fetch_jina(alt, extra_headers={
-        "X-Wait-For-Selector": ".timeline-item",
-        "X-Timeout": "30",
-    })
-    if is_timeline(content):
-        return content
+def fetch_any(target_path, timeout=45):
+    """遍历 nitter 实例 × 通路（直连 / Jina），返回第一份可用的时间线 HTML。"""
+    instances = [i for i in INSTANCES if i not in BLOCKED_INSTANCES]
+    for inst in instances:
+        url = f"https://{inst}{target_path}"
+        # 1) runner 直连
+        content = fetch_direct(url)
+        if is_timeline(content):
+            WORKING_INSTANCE.append(inst)
+            print(f"    OK via direct {inst}")
+            return content
+        # 2) Jina 渲染兜底（等待选择器出现，顺便等 Anubis 挑战自动过）
+        content = fetch_jina(url, extra_headers={
+            "X-Wait-For-Selector": ".timeline-item",
+            "X-Timeout": "30",
+        })
+        if is_timeline(content):
+            WORKING_INSTANCE.append(inst)
+            print(f"    OK via jina {inst}")
+            return content
+    # 首个实例成功后，后续页面只用它（省时间、降低限流风险）
+    for inst in dict.fromkeys(WORKING_INSTANCE):
+        url = f"https://{inst}{target_path}"
+        for fn in (fetch_direct, lambda u: fetch_jina(u, extra_headers={"X-Wait-For-Selector": ".timeline-item", "X-Timeout": "30"})):
+            content = fn(url)
+            if is_timeline(content):
+                return content
     return None
+
+
+WORKING_INSTANCE = []
+# 实例池：顺序尝试；被拉黑/不可用的在 BLOCKED_INSTANCES 标记
+INSTANCES = [
+    "nitter.cz",
+    "xcancel.com",
+    "nitter.tiekoetter.com",
+    "lightbrd.com",
+    "nitter.space",
+    "nitter.poast.org",
+]
+BLOCKED_INSTANCES = set()
 
 
 def parse_page(page_html):
@@ -105,7 +125,7 @@ def main():
     for page in range(1, MAX_PAGES + 1):
         target = f"https://nitter.cz/{USER}" + (f"/page/{page}" if page > 1 else "")
         print(f"[page {page}] {target}")
-        content = fetch_any(target)
+        content = fetch_any(f"/{USER}" + (f"/page/{page}" if page > 1 else ""))
         if not content:
             print("    fetch failed, stop")
             break
