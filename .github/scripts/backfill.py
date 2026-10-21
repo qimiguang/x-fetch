@@ -19,14 +19,35 @@ MAX_PAGES = int(sys.argv[3]) if len(sys.argv) > 3 else 60
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 
-def fetch(url, timeout=60):
-    req = Request(url, headers={"User-Agent": UA, "X-Return-Format": "html"})
-    for i in range(3):
+def fetch_any(target, timeout=45):
+    """优先 runner 直连 nitter.cz；被拦（429/403/挑战页）时走 r.jina.ai 兜底。"""
+    content = fetch_direct(target)
+    if content and "Making sure you" not in content and "timeline-item" in content:
+        return content
+    print("    direct failed/blocked, trying Jina proxy...")
+    return fetch_jina(target)
+
+
+def fetch_direct(url, timeout=45):
+    req = Request(url, headers={"User-Agent": UA})
+    for i in range(2):
         try:
             with urlopen(req, timeout=timeout) as r:
                 return r.read().decode("utf-8", "replace")
         except Exception as e:
-            print(f"    retry {i + 1}: {type(e).__name__}: {e}")
+            print(f"    direct retry {i + 1}: {type(e).__name__}: {e}")
+            time.sleep(5)
+    return None
+
+
+def fetch_jina(url, timeout=60):
+    req = Request("https://r.jina.ai/" + url, headers={"User-Agent": UA, "X-Return-Format": "html"})
+    for i in range(2):
+        try:
+            with urlopen(req, timeout=timeout) as r:
+                return r.read().decode("utf-8", "replace")
+        except Exception as e:
+            print(f"    jina retry {i + 1}: {type(e).__name__}: {e}")
             time.sleep(4)
     return None
 
@@ -63,7 +84,7 @@ def main():
     for page in range(1, MAX_PAGES + 1):
         target = f"https://nitter.cz/{USER}" + (f"/page/{page}" if page > 1 else "")
         print(f"[page {page}] {target}")
-        content = fetch("https://r.jina.ai/" + target)
+        content = fetch_any(target)
         if not content:
             print("    fetch failed, stop")
             break
@@ -83,7 +104,7 @@ def main():
         if dates and min(dates) < cutoff.strftime("%Y-%m-%d"):
             print(f"    reached cutoff ({min(dates)}), stop")
             break
-        time.sleep(3)
+        time.sleep(5)
 
     keep = {k: v for k, v in all_items.items() if v["date"] >= cutoff.strftime("%Y-%m-%d")}
     print(f"[merge] fetched {len(all_items)} total, {len(keep)} within {DAYS} days")
