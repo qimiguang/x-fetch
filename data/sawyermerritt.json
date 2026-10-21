@@ -1,8 +1,110 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-21T02:15:20Z",
-  "count": 128,
+  "updated_at": "2026-10-21T03:42:53Z",
+  "count": 145,
   "tweets": [
+    {
+      "text": "SpaceX said it expects Q4 2026 Capex spend to be between $35 billion–$40 billion, which would be equal to Tesla’s total Capex spend over the past 4 years combined.\n\nMassive buildout of compute capacity underway, and the payback period is <12 months! SpaceX will nearly double their compute capacity in Q4 alone to upwards of 3 GW.",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112730279395627075#m",
+      "date": "Wed, 21 Oct 2026 02:18:45 GMT",
+      "text_zh": "SpaceX 表示，预计 2026 年第四季度的资本支出将在 350 亿至 400 亿美元之间，相当于特斯拉过去 4 年资本支出总额的总和。\n\n计算能力的大规模建设正在进行中，投资回收期不到 12 个月！仅在第四季度，SpaceX 的计算能力就几乎翻倍，达到 3 GW 以上。"
+    },
+    {
+      "text": "Here are all the most important highlights from @SpaceX's Q3 2026 earnings report and earnings call:\n\n• Total revenue: $14.58B, up 161% YoY from $5.58B and up 87% QoQ from $7.81B.\n\n• Adjusted EBITDA: $8.81B, up 306% YoY from $2.17B and up 149% QoQ from $3.54B.\n\n• Total Capex: $19.59B, up 185% YoY from $6.88B and 7% QoQ from $18.37B, primarily driven by SI infrastructure investments.\n\n• Q4 Capex guidance: SpaceX expects capital expenditures of $35B–$40B in Q4 2026 as it accelerates SI compute deployment.\n\n• Net income: $4.40B, compared to a $1.05B loss a year earlier.\n\n• Income from operations: $2.79B, compared to a $273M loss YoY and a $143M loss in Q2.\n\n• Q1 2027 revenue guidance: $33B–$37B in total revenue during Q1 2027.\n\n• Annualized revenue target: SpaceX remains on track for $100B in annualized revenue by the end of 2026, based on December's revenue run rate.\n\n• Elon's 2027 revenue projection: SpaceX could reach $500B–$1T in annual recurring revenue by the end of 2027\n\n• Backlog: Reached $63B as of September 30, including $17.5B in deferred revenue. ~$42B is expected to be recognized within the next 12 months.\n\n• Space revenue: $1.77B, up 6% YoY\n\n• Connectivity revenue: $5.25B, up 69% YoY and 22% QoQ; Consumer revenue was $3.12B (+57% YoY) and Enterprise & Government revenue was $2.13B (+91% YoY).\n\n• Connectivity operating income: $2.37B, up 99% YoY from $1.19B and 43% QoQ from $1.66B.\n\n• Starlink subscribers: 13.6M, up 89% YoY; consumer ARPU increased to $69/month from $66 in Q2.\n\n• Super Intelligence (SI) revenue: $7.56B, up 830% YoY and 195% QoQ\n\n• SI operating income: Positive $431M, compared to a $1.72B loss YoY and a $1.26B loss in Q2.\n\n• SI Adjusted EBITDA: Positive $4.95B, compared to a $428M loss a year earlier and $1.15B in Q2.\n\n• SI Capex: $16.44B, up 245% YoY from $4.76B and 4% QoQ from $15.83B, representing ~84% of total quarterly Capex spend.\n\n• Cloud Services Agreements: Signed additional agreements during Q3, with SI solutions and infrastructure revenue growing 192% QoQ excluding Cursor.\n\n• SI compute economics: Newly deployed compute capacity is generating payback periods of less than 12 months at current pricing, which is slightly above the previously discussed $30–$50 per watt range.\n\n• Cursor revenue: Contributed $608M in revenue between August 14 and September 30.\n\n• Grok Bot: Reached 800,000 paid weekly users in early October, more than doubling over the prior month.\n\n• Grok Bot enterprise rollout expected in a few weeks.\n\n• Cash, cash equivalents & marketable securities: Approximately $90B at quarter-end\n\n• Operating cash flow: Generated $13.1B during the first nine months of 2026, up 218% from $4.12B during the same period in 2025.\n\n• Starship Flight 15: Targeted for November 2026, with SpaceX planning to attempt a tower catch of Starship's upper stage.\n\n• National Security launches: Secured 18 additional National Security Space Launch missions.\n\n• Starlink aviation: More than 3,800 aircraft were equipped with Starlink as of September 30.\n\n• Starlink aviation contracts: ~12,000 aircraft are now under contract for Starlink service, representing nearly a quarter of the available commercial aircraft market.\n\n• Starlink Mobile users: Surpassed 22M monthly users at the end of Q3, up 37% QoQ.\n\n• Starlink Mobile U.S. launch: SpaceX plans to integrate its spectrum acquisitions and begin activating the expanded service in early 2028, with the gaol of becoming a major U.S. mobile carrier.\n\n• SI compute: Expanded nameplate compute capacity to 1.7 GW, up from 1.4 GW in Q2 and 0.6 GW a year earlier.\n\n• October compute target: SpaceX expects to reach nearly 2 GW of nameplate compute capacity by the end of October 2026.\n\n• Year-end compute target: SpaceX expects 2.5–3 GW of nameplate compute capacity by the end of 2026.\n\n• 2027 compute target: Elon expects to add at least 10 GW of incremental compute capacity in 2027, potentially bringing the total to 13 GW or more. Elon said there is a small possibility of exceeding 20+ GW of active SI compute by the end of 2027.\n\n• GPU deployments: SpaceX is bringing approximately 200,000–220,000 NVIDIA GB300 GPUs online monthly, with plans to maintain or accelerate that pace.\n\n• Nvidia Vera Rubin deployment: SpaceX expects its 2027 compute expansion to rely primarily on NVIDIA's next-generation Vera Rubin architecture.\n\n• SpaceX plans to bring a training cluster with 440,000 Vera Rubin computers online by the end of Q2 2027.\n\n• Targeting May or June 2027 for the first functional test chips from the Austin research fab.\n\n• Terafab mass production: SpaceX is targeting Q3–Q4 2028 for potential volume chip production at its Gibbons Creek facility",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112723915638231090#m",
+      "date": "Wed, 21 Oct 2026 01:53:28 GMT",
+      "text_zh": "以下是 @SpaceX 2026 年第三季度收益报告和收益电话会议的所有最重要亮点：\n\n• 总收入：$14.58B，较 $5.58B 同比增长 161%，较 $7.81B 环比增长 87%。\n\n• 调整后 EBITDA：$8.81B，较 $2.17B 同比增长 306%，较 $3.54B 环比增长 149%。\n\n• 总资本支出：$19.59B，较 $6.88B 同比增长 185%，较 $18.37B 环比增长 7%，主要由 SI 基础设施投资推动。\n\n• 第四季度资本支出指引：SpaceX 预计 2026 年第四季度的资本支出为 $35B-$40B，因为它加速了 SI 计算部署。\n\n• 净收入：$4.40B，而去年同期亏损$1.05B。\n\n• 运营收入：$2.79B，相比之下，同比亏损 2.73 亿美元，第二季度亏损 1.43 亿美元。\n\n• 2027 年第一季度收入指导：2027 年第一季度总收入为 $33B–$37B。\n\n• 年化收入目标：根据 12 月的收入运行率，到 2026 年底，SpaceX 仍有望实现年化收入 100B 美元。\n\n• Elon 的 2027 年收入预测：到 2027 年底，SpaceX 的年度经常性收入可能达到 $500B–$1T\n\n• 积压订单：截至 9 月 30 日已达到 $63B，其中包括 $17.5B 递延收入。 ~$42B 预计将在未来 12 个月内得到认可。\n\n• 空间收入：$1.77B，同比增长 6%\n\n• 连接收入：$5.25B，同比增长 69%，环比增长 22%；消费者收入为 $3.12B（同比增长 57%），企业和政府收入为 $2.13B（同比增长 91%）。\n\n• 连接运营收入：$2.37B，比 $1.19B 同比增长 99%，比上一季度比 $1.66B 增长 43%。\n\n• Starlink 用户：1,360 万，同比增长 89%；消费者 ARPU 从第二季度的 66 美元增加到每月 69 美元。\n\n• 超级智能（SI）收入：$7.56B，同比增长 830%，环比增长 195%\n\n• SI 营业收入：正 4.31 亿美元，而同比亏损 1.72B 美元，第二季度亏损 1.26B 美元。\n\n• SI 调整后 EBITDA：正 $4.95B，而去年同期亏损 $428M，第二季度亏损 $1.15B。\n\n• SI 资本支出：$16.44B，较 $4.76B 同比增长 245%，较 $15.83B 环比增长 4%，约占季度资本支出总额的 84%。\n\n• 云服务协议：第三季度签署了额外协议，SI 解决方案和基础设施收入环比增长 192%（不包括 Cursor）。\n\n• SI 计算经济性：按当前定价，新部署的计算容量的投资回收期不到 12 个月，略高于之前讨论的每瓦 30 至 50 美元范围。\n\n• Cursor 收入：8 月 14 日至 9 月 30 日期间贡献了 6.08 亿美元的收入。\n\n• Grok Bot：10 月初达到 800,000 名每周付费用户，比上个月增加了一倍多。\n\n• Grok Bot 预计将在几周内推出企业版。\n\n• 现金、现金等价物和有价证券：季度末约为 $90B\n\n• 运营现金流：2026 年前 9 个月产生 $13.1B，比 2025 年同期的 $4.12B 增长 218%。\n\n• Starship Flight 15：计划于 2026 年 11 月进行，SpaceX 计划尝试用塔式捕获 Starship 的上级。\n\n• 国家安全发射：完成 18 次额外的国家安全太空发射任务。\n\n• 星链航空：截至 9 月 30 日，已有 3,800 多架飞机配备了星链。\n\n• Starlink 航空合同：目前约有 12,000 架飞机签订了 Starlink 服务合同，占可用商用飞机市场的近四分之一。\n\n• Starlink Mobile 用户：第三季度末月用户数突破 2200 万，环比增长 37%。\n\n• Starlink Mobile 在美国推出：SpaceX 计划整合其频谱收购，并于 2028 年初开始启动扩展服务，目标是成为美国主要移动运营商。\n\n• SI 计算：将铭牌计算容量扩大至 1.7 GW，高于第二季度的 1.4 GW 和一年前的 0.6 GW。\n\n• 10 月计算目标：SpaceX 预计到 2026 年 10 月底达到近 2 GW 的铭牌计算容量。\n\n• 年终计算目标：SpaceX 预计到 2026 年底，铭牌计算容量将达到 2.5–3 GW。\n• 2027 年计算目标：Elon 预计在 2027 年增加至少 10 GW 的增量计算容量，可能使总数达到 13 GW 或更多。 Elon 表示，到 2027 年底，活跃 SI 计算量超过 20 GW 的可能性很小。\n\n• GPU 部署：SpaceX 每月在线提供约 200,000-220,000 个 NVIDIA GB300 GPU，并计划保持或加快这一速度。\n\n• Nvidia Vera Rubin 部署：SpaceX 预计其 2027 年的计算扩展将主要依赖 NVIDIA 的下一代 Vera Rubin 架构。\n\n• SpaceX 计划在 2027 年第二季度末将包含 440,000 台 Vera Rubin 计算机的训练集群上线。\n\n• 目标是在 2027 年 5 月或 6 月从奥斯汀研究工厂生产第一批功能测试芯片。\n\n• Terafab 量产：SpaceX 的目标是 2028 年第三季度至第四季度在其 Gibbons Creek 工厂实现潜在的芯片量产"
+    },
+    {
+      "text": "Source: communityimpact.com/pflugerv…\n\nLink\n\n\n\nHutto explores using Tesla Cybertrucks for police, city departments\n\nHutto City Council directed city staff to look into the costs of having three Cybertrucks in the city&apos;s police and vehicle fleet.\ncommunityimpact.com",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112707744746655784#m",
+      "date": "Wed, 21 Oct 2026 00:49:13 GMT",
+      "text_zh": "资料来源：communityimpact.com/pflugerv…\n\n链接\n\n\n\nHutto 探索将 Tesla Cybertrucks 用于警察和城市部门\n\n赫托市议会指示市工作人员调查在该市警察和车队中拥有三辆赛博卡车的成本。\nCommunityimpact.com"
+    },
+    {
+      "text": "Hutto, Texas City Council has directed staff to compare costs for a three-vehicle test of @Tesla Cybertrucks for the Hutto Police Department, after Council member Jerrel Reynolds bought one in April and found its fuel and maintenance costs to be low.\n\nThe Las Vegas Police Department has 10 Cybertrucks in its fleet (pictured below), Reynolds said, and he suggested the city reach out to that department for more information.\n\n“I think this is the future,\" Mayor Mike Snyder said.\n\nEach Police Cybertruck is expected to save the Las Vegas PD $9,500 a year in fuel and maintenance costs alone. It's the #1 most American-made police truck.\n\nVideo",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112707741735166278#m",
+      "date": "Wed, 21 Oct 2026 00:49:12 GMT",
+      "text_zh": "得克萨斯州 Hutto 市议会已指示工作人员比较 Hutto 警察局对 @Tesla Cyber​​trucks 进行三辆车测试的成本，此前议会成员 Jerrel Reynolds 在 4 月份购买了一辆 @Tesla Cyber​​trucks，发现其燃料和维护成本较低。\n\n雷诺兹说，拉斯维加斯警察局的车队中有 10 辆网络卡车（如下图所示），他建议该市联系该部门以获取更多信息。\n\n“我认为这就是未来，”市长迈克·斯奈德说。\n\n每辆警用 Cyber​​truck 预计每年将为拉斯维加斯警察局节省 9,500 美元的燃油和维护成本。这是排名第一的最美国制造的警车。\n\n视频"
+    },
+    {
+      "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
+      "link": "http://nitter.meowing.monster/elonmusk/status/2112666467712073815#m",
+      "date": "Tue, 20 Oct 2026 22:05:12 GMT",
+      "text_zh": "尽管这听起来很疯狂，但 SpaceX 在 2028 年收入达到 1T 美元不再是不可能的事"
+    },
+    {
+      "text": "In my opinion, SpaceX’s Q3 earnings call was the best earnings call from any of Elon's companies to date.\n\nNot only was the video format fantastic, but the call itself was very substantive with a lot of great info and insight. SpaceX has one heck of an executive team.",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112659792053629342#m",
+      "date": "Tue, 20 Oct 2026 21:38:40 GMT",
+      "text_zh": "在我看来，SpaceX 第三季度的财报电话会议是埃隆旗下公司迄今为止最好的财报电话会议。\n\n不仅视频格式很棒，而且通话本身也非常实质性，提供了很多重要的信息和见解。 SpaceX 拥有一支强大的管理团队。"
+    },
+    {
+      "text": "Here are my thoughts on @SpaceX's Q3 earnings call: I don't have enough stock.",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112658759239508253#m",
+      "date": "Tue, 20 Oct 2026 21:34:34 GMT",
+      "text_zh": "以下是我对 @SpaceX 第三季度财报电话会议的看法：我没有足够的股票。"
+    },
+    {
+      "text": "Elon: \"It's not impossible that we will have a 6-month payback period for compute next year.\"\n\nThe payback period is currently <12 months.",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112658555094634519#m",
+      "date": "Tue, 20 Oct 2026 21:33:45 GMT",
+      "text_zh": "Elon：“明年我们的计算投资回收期并非不可能为 6 个月。”\n\n目前投资回收期<12 个月。"
+    },
+    {
+      "text": "Elon Musk today on a potential merger between SpaceX and Tesla:\n\n\"Both Tesla and SpaceX have formed special committees at the request of shareholders. Because I'm a conflicted party I can't be in on these discussions. I don't think we should assume that a merger is a certainty. Do I think it would be a good idea? Yes. But at the end of the day, shareholders have to be supportive of this. The special committees have not reached an agreement on any transaction, and it doesn't mean they will, but there is a lot of be gained from cooperating on SI, chip design, robots, mass or orbit, connectivity. I think it would be a good idea.\"\n\nVideo",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112656640180904002#m",
+      "date": "Tue, 20 Oct 2026 21:26:08 GMT",
+      "text_zh": "埃隆·马斯克 (Elon Musk) 今天谈及 SpaceX 和特斯拉之间的潜在合并：\n\n“特斯拉和SpaceX都应股东的要求成立了特别委员会。因为我是一个利益冲突方，所以我不能参与这些讨论。我认为我们不应该假设合并是必然的。我认为这是一个好主意吗？是的。但归根结底，股东必须支持这一点。特别委员会尚未就任何交易达成一致，这并不意味着他们会达成一致，但在SI上合作有很多收获，芯片设计、机器人、质量或轨道、连接性，我认为这将是一个好主意。”\n\n视频"
+    },
+    {
+      "text": "Elon Musk says SpaceX wants to make it ls first test chip in May/June of 2027 at the Research Chip Fab facility at Giga Texas, and is aiming to reach volume production at the much larger Terafab around Q3 2028, the main Terafab location in Texas.\n\nVideo",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112653972334928089#m",
+      "date": "Tue, 20 Oct 2026 21:15:32 GMT",
+      "text_zh": "埃隆·马斯克 (Elon Musk) 表示，SpaceX 希望于 2027 年 5 月/6 月在德克萨斯州 Giga 的研究芯片 Fab 工厂生产首款测试芯片，并计划于 2028 年第三季度左右在规模大得多的 Terafab（德克萨斯州主要 Terafab 工厂）实现量产。\n\n视频"
+    },
+    {
+      "text": "SpaceX CFO @BretWJ: \"We now see total company revenues in the range of $33 billion to $37 billion in Q1 2027.\"",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112652552080949733#m",
+      "date": "Tue, 20 Oct 2026 21:09:54 GMT",
+      "text_zh": "SpaceX 首席财务官@BretWJ：“我们现在预计 2027 年第一季度公司总收入将在 330 亿美元至 370 亿美元之间。”"
+    },
+    {
+      "text": "ARR = Annual recurring revenue",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112650110425600285#m",
+      "date": "Tue, 20 Oct 2026 21:00:12 GMT",
+      "text_zh": "ARR = 年度经常性收入"
+    },
+    {
+      "text": "SpaceX has announced that Grok @Bot now has 800,000 paid weekly users as of earlier this month, more than doubling from the previous month.",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112649901196894438#m",
+      "date": "Tue, 20 Oct 2026 20:59:22 GMT",
+      "text_zh": "SpaceX 宣布，截至本月初，Grok @Bot 现已拥有 80 万每周付费用户，比上个月增加了一倍多。"
+    },
+    {
+      "text": "Holy shit, Elon just said @SpaceX could exit 2027 with an ARR of somewhere between $500 billion to $1 trillion.\n\n😱\n\nVideo",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112649325914497453#m",
+      "date": "Tue, 20 Oct 2026 20:57:05 GMT",
+      "text_zh": "天哪，Elon 刚刚表示 @SpaceX 可能会在 2027 年以 5000 亿至 1 万亿美元之间的 ARR 退出。\n\n😱\n\n视频"
+    },
+    {
+      "text": "Cool, @Gwynne_Shotwell says Starlink is now contracted with 12,000 aircraft, about a quarter of all aircraft.\n\n\"To keep pace with demand, we've quadrupled aviation production since the start of the year, and we expect to double by the end of the year.\"",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112649220461387858#m",
+      "date": "Tue, 20 Oct 2026 20:56:39 GMT",
+      "text_zh": "很酷，@Gwynne_Shotwell 表示 Starlink 现在与 12,000 架飞机签订了合同，约占所有飞机的四分之一。\n\n“为了跟上需求的步伐，自今年年初以来，我们的航空产量已增加了四倍，预计到年底将增加一倍。”"
+    },
+    {
+      "text": "Elon Musk on Grok Bot: \"We're seeing the fastest growth of a product that I've ever seen in my life. I've never seen anything growth this fast. The usage of Grok Bot per user actually has been growing over time. They are using it more per week, not less. Enterprise Grok Bot will be in wide deployment in a few weeks. I think Grok Bot will use most of SI compute.\"\n\nVideo",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112648148036317249#m",
+      "date": "Tue, 20 Oct 2026 20:52:24 GMT",
+      "text_zh": "Elon Musk 谈到 Grok Bot：“我们看到了我一生中见过的最快的产品增长。我从未见过任何增长如此之快的产品。每个用户的 Grok Bot 使用量实际上一直在随着时间的推移而增长。他们每周使用它的次数更多，而不是更少。企业 Grok Bot 将在几周内广泛部署。我认为 Grok Bot 将使用大部分 SI 计算。”\n\n视频"
+    },
+    {
+      "text": "Elon: \"I've been personally spending a lot of time in Memphis, often 4 days a week. We're tracking to bring 200,000 Nvidia GB200s online per month for the remainder of the year, and continuing that pace next year.\n\nI'm fairly confident to bring online an incremental 10 GW of compute by the end of 2027. We're also going to aim to bring online an incremental 20GW of power & cooling next year.\"",
+      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112647057014211028#m",
+      "date": "Tue, 20 Oct 2026 20:48:04 GMT",
+      "text_zh": "Elon：“我个人在孟菲斯度过了很多时间，通常每周 4 天。我们计划在今年剩余时间内每月为 200,000 台 Nvidia GB200 提供在线服务，并在明年继续保持这一速度。\n\n我相当有信心在 2027 年底之前增加 10 GW 的计算容量。我们还计划明年增加 20 GW 的电力和冷却容量。”"
+    },
     {
       "text": "Video call\n\n\nSpaceX (@SpaceX)\n\nWatch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → nitter.meowing.monster/i/broadcasts/1PKqrNbLZ…\n\nLink\n\n\n\nSpaceX\n\nQ3 2026 Financial and Operational Results\nhttp://nitter.meowing.monster/i/broadcasts/1PKqrNbLZbPGb\n\n\n\n\n— http://nitter.meowing.monster/SpaceX/status/2112559638579499258#m",
       "link": "http://nitter.meowing.monster/elonmusk/status/2112583304738210216#m",
