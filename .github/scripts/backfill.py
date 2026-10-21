@@ -119,7 +119,35 @@ def parse_page(page_html):
     return items
 
 
+def probe_syndication():
+    """诊断：runner 直连 syndication，看 NEXT_DATA 里有无 cursor、时间覆盖范围。"""
+    url = (
+        f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{USER}"
+        "?count=200&showReplies=false"
+    )
+    content = fetch_direct(url)
+    if not content:
+        print("[probe] syndication direct failed")
+        return
+    m = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
+    if not m:
+        print(f"[probe] no NEXT_DATA, len={len(content)} head={content[:150]!r}")
+        return
+    d = json.loads(m.group(1))
+    pp = d.get("props", {}).get("pageProps", {})
+    print("[probe] pageProps keys:", list(pp.keys()))
+    s = json.dumps(d)
+    for kw in ["cursor", "Cursor"]:
+        positions = [i for i in range(len(s)) if s.startswith(kw, i)]
+        if positions:
+            print(f"[probe] '{kw}' x{len(positions)}, first ctx: ...{s[max(0, positions[0] - 30):positions[0] + 90]}...")
+    dates = re.findall(r'"created_at":"([^"]+)"', s)
+    if dates:
+        print(f"[probe] created_at x{len(dates)}: newest={dates[0][:24]} oldest={dates[-1][:24]}")
+
+
 def main():
+    probe_syndication()
     cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS)
     all_items = {}
     for page in range(1, MAX_PAGES + 1):
