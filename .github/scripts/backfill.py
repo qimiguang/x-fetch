@@ -67,7 +67,11 @@ def main():
         if not content:
             print("    fetch failed, stop")
             break
+        if page == 1:
+            print(f"    [debug] len={len(content)} head={content[:400]!r}")
         items = parse_page(content)
+        if not items and page == 1:
+            print(f"    [debug] has timeline-item={'timeline-item' in content} has tweet-link={'tweet-link' in content}")
         new = [i for i in items if i["tweet_id"] not in all_items]
         print(f"    parsed {len(items)} items, {len(new)} new")
         for it in items:
