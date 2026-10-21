@@ -19,15 +19,6 @@ MAX_PAGES = int(sys.argv[3]) if len(sys.argv) > 3 else 60
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 
-def fetch_any(target, timeout=45):
-    """优先 runner 直连 nitter.cz；被拦（429/403/挑战页）时走 r.jina.ai 兜底。"""
-    content = fetch_direct(target)
-    if content and "Making sure you" not in content and "timeline-item" in content:
-        return content
-    print("    direct failed/blocked, trying Jina proxy...")
-    return fetch_jina(target)
-
-
 def fetch_direct(url, timeout=45):
     req = Request(url, headers={"User-Agent": UA})
     for i in range(2):
@@ -40,8 +31,11 @@ def fetch_direct(url, timeout=45):
     return None
 
 
-def fetch_jina(url, timeout=60):
-    req = Request("https://r.jina.ai/" + url, headers={"User-Agent": UA, "X-Return-Format": "html"})
+def fetch_jina(url, timeout=60, extra_headers=None):
+    headers = {"User-Agent": UA, "X-Return-Format": "html"}
+    if extra_headers:
+        headers.update(extra_headers)
+    req = Request("https://r.jina.ai/" + url, headers=headers)
     for i in range(2):
         try:
             with urlopen(req, timeout=timeout) as r:
@@ -49,6 +43,33 @@ def fetch_jina(url, timeout=60):
         except Exception as e:
             print(f"    jina retry {i + 1}: {type(e).__name__}: {e}")
             time.sleep(4)
+    return None
+
+
+def is_timeline(content):
+    return bool(content) and "timeline-item" in content and "Making sure you" not in content
+
+
+def fetch_any(target, timeout=45):
+    """多路尝试：runner 直连 → Jina 等渲染（过 Anubis）→ Jina + xcancel 实例。"""
+    content = fetch_direct(target)
+    if is_timeline(content):
+        return content
+    print("    direct failed/blocked, trying Jina with wait-for-selector...")
+    content = fetch_jina(target, extra_headers={
+        "X-Wait-For-Selector": ".timeline-item",
+        "X-Timeout": "30",
+    })
+    if is_timeline(content):
+        return content
+    alt = target.replace("https://nitter.cz", "https://xcancel.com")
+    print(f"    trying xcancel via Jina: {alt}")
+    content = fetch_jina(alt, extra_headers={
+        "X-Wait-For-Selector": ".timeline-item",
+        "X-Timeout": "30",
+    })
+    if is_timeline(content):
+        return content
     return None
 
 
