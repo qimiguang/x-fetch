@@ -43,7 +43,8 @@ NITTER_INSTANCES = [
 
 COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
 MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
-KEEP_DAYS = 31    # 只保留近 31 天的推文，更早的从数据文件中剔除
+KEEP_DAYS = 31    # 默认只保留近 31 天的推文，更早的从数据文件中剔除
+KEEP_DAYS_OVERRIDES = {"chriszheng001": 366}  # 个别用户保留更久（按用户名小写）
 TRANSLATE_PER_RUN = 100   # 每次运行最多新翻译的推文数（存量回填限速，避免超时）
 TRANSLATE_MAX_CHARS = 4000  # gtx 单次请求文本上限
 HEADERS_COMMON = {
@@ -527,8 +528,9 @@ def merge_with_existing(username, tweets):
         key=lambda t: parse_date_flex(t.get("date", "")) or epoch,
         reverse=True,
     )
-    # 保留期过滤：只留近 KEEP_DAYS 天（解析不出时间的推文保留，避免误删）
-    cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
+    # 保留期过滤：只留近 KEEP_DAYS 天（用户可覆写；解析不出时间的推文保留，避免误删）
+    keep_days = KEEP_DAYS_OVERRIDES.get(username.lower(), KEEP_DAYS)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=keep_days)
     result = [
         t for t in result
         if (parse_date_flex(t.get("date", "")) or cutoff) >= cutoff

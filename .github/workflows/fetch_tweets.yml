@@ -16,6 +16,10 @@ on:
         description: '用户名列表，逗号分隔，例如: elonmusk,sama,naval'
         required: false
         default: ''
+      backfill:
+        description: '深度回填用户（Jina+nitter 翻页），留空则正常采集'
+        required: false
+        default: ''
 
 jobs:
   fetch:
@@ -37,9 +41,14 @@ jobs:
       - name: Fetch tweets
         env:
           INPUT_USERNAMES: ${{ github.event.inputs.usernames }}
+          INPUT_BACKFILL: ${{ github.event.inputs.backfill }}
         run: |
           mkdir -p data
-          python .github/scripts/fetch_and_save.py
+          if [ -n "$INPUT_BACKFILL" ]; then
+            python .github/scripts/backfill.py "$INPUT_BACKFILL" 365 60
+          else
+            python .github/scripts/fetch_and_save.py
+          fi
 
       - name: Commit results
         run: |
