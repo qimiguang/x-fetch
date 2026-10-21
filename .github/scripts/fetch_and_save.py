@@ -16,7 +16,7 @@ import urllib.request
 import urllib.error
 import urllib.parse
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 # ── Twitter Guest API ──────────────────────────────────────────────────────────
 # Twitter 网页客户端使用的公开 bearer token（非个人密钥）
@@ -43,6 +43,7 @@ NITTER_INSTANCES = [
 
 COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
 MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
+KEEP_DAYS = 31    # 只保留近 31 天的推文，更早的从数据文件中剔除
 TRANSLATE_PER_RUN = 100   # 每次运行最多新翻译的推文数（存量回填限速，避免超时）
 TRANSLATE_MAX_CHARS = 4000  # gtx 单次请求文本上限
 HEADERS_COMMON = {
@@ -526,6 +527,12 @@ def merge_with_existing(username, tweets):
         key=lambda t: parse_date_flex(t.get("date", "")) or epoch,
         reverse=True,
     )
+    # 保留期过滤：只留近 KEEP_DAYS 天（解析不出时间的推文保留，避免误删）
+    cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
+    result = [
+        t for t in result
+        if (parse_date_flex(t.get("date", "")) or cutoff) >= cutoff
+    ]
     return result[:MAX_TWEETS]
 
 
