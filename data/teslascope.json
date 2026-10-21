@@ -1,8 +1,15 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-21T04:05:16Z",
-  "count": 23,
+  "updated_at": "2026-10-21T06:05:23Z",
+  "count": 24,
   "tweets": [
+    {
+      "text": "As a precautionary measure, our web service and developer APIs are temporarily unavailable in order to protect account and vehicle data from critical security vulnerabilities in the wild.\n\nVehicle activity is not impacted, and the web service will be restored as soon as possible. https://t.co/g324KOsd9O",
+      "link": "https://x.com/teslascope/status/2112774988239720959",
+      "date": "Wed Oct 21 05:16:25 +0000 2026",
+      "tweet_id": "2112774988239720959",
+      "text_zh": "作为预防措施，我们的网络服务和开发者 API 暂时不可用，以保护帐户和车辆数据免受严重安全漏洞的影响。\n\n车辆活动不受影响，网络服务将尽快恢复。 https://t.co/g324KOsd9O"
+    },
     {
       "text": "We noticed a new Tesla software update 2026.32.200 on a Tesla vehicle (20XX). View the rollout of this update here: teslascope.com/software/2026…\n\nThis is either a factory updates (recently delivered vehicles) or a new Full Self-Driving build for Europe.\n\nLink\n\n\n\n2026.32.200 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.32.200.\nteslascope.com",
       "link": "http://nitter.meowing.monster/teslascope/status/2112372769388175692#m",
