@@ -270,6 +270,9 @@ def _parse_next_data(data, username):
         if media:
             item["media"] = media
         tweets.append(item)
+    media_dbg = sum(1 for t in tweets if t.get("media"))
+    if tweets or media_dbg:
+        print(f"    [dbg] parsed={len(tweets)} with_media_extracted={media_dbg}")
     return tweets
 
 
@@ -601,10 +604,20 @@ def merge_with_existing(username, tweets):
             existing = []
 
     merged = {}
-    for t in existing + tweets:
+    # 本次抓取的记录优先（可能携带 media 等新字段），历史记录兑底
+    for t in tweets + existing:
         key = tweet_key(t)
         if key and key not in merged:
             merged[key] = t
+
+    # 回填：本次抓取记录缺失、但历史里已有的字段（如翻译 text_zh）
+    existing_map = {tweet_key(t): t for t in existing if tweet_key(t)}
+    for key, t in merged.items():
+        old = existing_map.get(key)
+        if old and old is not t:
+            for f, v in old.items():
+                if v and not t.get(f):
+                    t[f] = v
 
     epoch = datetime.min.replace(tzinfo=timezone.utc)
     result = sorted(
