@@ -1,13 +1,14 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-22T02:12:13Z",
+  "updated_at": "2026-10-22T02:39:13Z",
   "count": 25,
   "tweets": [
     {
       "text": "We're pleased to share that our web services have been restored, including our mobile, developer APIs, and AI MCP server.\n\nWe can thankfully confirm that vehicle activity was not disrupted at any time.\n\nThank you for your patience; this was a rough time for developers globally.",
       "link": "https://x.com/teslascope/status/2112963280478314609",
       "date": "Wed Oct 21 17:44:37 +0000 2026",
-      "tweet_id": "2112963280478314609"
+      "tweet_id": "2112963280478314609",
+      "text_zh": "我们很高兴地告诉大家，我们的网络服务已经恢复，包括我们的移动、开发者 API 和 AI MCP 服务器。\n\n值得庆幸的是，我们可以确认车辆活动在任何时候都没有受到干扰。\n\n感谢您的耐心等待；对于全球开发者来说，这是一段艰难的时期。"
     },
     {
       "text": "As a precautionary measure, our web service and developer APIs are temporarily unavailable in order to protect account and vehicle data from critical security vulnerabilities in the wild.\n\nVehicle activity is not impacted, and the web service will be restored as soon as possible. https://t.co/g324KOsd9O",
