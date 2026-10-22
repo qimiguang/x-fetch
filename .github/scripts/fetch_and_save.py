@@ -437,7 +437,7 @@ def translate_to_zh(text):
             "?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" + urllib.parse.quote(chunk)
         )
         data = None
-        for attempt in range(3):
+        for attempt in range(2):
             try:
                 data = fetch_json(url, timeout=15)
             except Exception:
@@ -445,14 +445,45 @@ def translate_to_zh(text):
             # gtx 成功响应是数组：[[["译文","原文",...],...],...]
             if isinstance(data, list) and data and data[0]:
                 break
-            time.sleep(1.5 * (attempt + 1))
-        if not (isinstance(data, list) and data and data[0]):
+            time.sleep(1)
+        if isinstance(data, list) and data and data[0]:
+            try:
+                parts.append("".join(seg[0] for seg in data[0] if seg and seg[0]))
+                continue
+            except (TypeError, KeyError, IndexError):
+                pass
+        # gtx 被限流时（返回 Sorry 页），走 clients5 备用端点
+        zh = translate_via_clients5(chunk)
+        if zh is None:
             return None
-        try:
-            parts.append("".join(seg[0] for seg in data[0] if seg and seg[0]))
-        except (TypeError, KeyError, IndexError):
-            return None
+        parts.append(zh)
     return "\n".join(parts)
+
+
+def translate_via_clients5(text):
+    """备用翻译通道：Chrome 词典扩展公开端点。成功返回译文，失败返回 None。
+    响应格式：[["译文","源语言"], ...]"""
+    url = (
+        "https://clients5.google.com/translate_a/t"
+        "?client=dict-chrome-ex&sl=auto&tl=zh-CN&q=" + urllib.parse.quote(text)
+    )
+    for attempt in range(3):
+        try:
+            data = fetch_json(url, timeout=15)
+        except Exception:
+            data = None
+        if isinstance(data, list) and data:
+            try:
+                # 响应：[["译文","源语言"]] 或多段 [["译文1","en"],["译文2","en"]]
+                if isinstance(data[0], list):
+                    return "".join(s[0] for s in data if isinstance(s, list) and s and isinstance(s[0], str))
+                if isinstance(data[0], str):  # 扁平形式：["译文","en"]
+                    return "".join(s for s in data if isinstance(s, str))
+                return None
+            except (TypeError, KeyError, IndexError):
+                return None
+        time.sleep(1.5 * (attempt + 1))
+    return None
 
 
 def fill_translations(tweets, budget):
