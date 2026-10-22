@@ -606,9 +606,14 @@ def fetch_via_jina_proxy(username):
         raw = match.group(1)
         print(f"    [debug2] next_data raw len={len(raw)} head={raw[:180]!r}")
         try:
-            tweets = _parse_next_data(json.loads(raw), username)
+            nd = json.loads(raw)
+            m_lt = re.search(r'"latest_tweet_id":"?(\d+)', raw)
+            if m_lt:
+                print(f"    [debug3] latest_tweet_id in payload: {m_lt.group(1)}")
+            tweets = _parse_next_data(nd, username)
             if tweets:
-                print(f"    Got {len(tweets)} tweets via Jina proxy (NEXT_DATA)")
+                newest = max((t.get("date", "") for t in tweets), default="-")
+                print(f"    Got {len(tweets)} tweets via Jina proxy (NEXT_DATA), newest fetched: {newest}")
                 return tweets
             print("    [debug2] NEXT_DATA parsed but 0 tweets")
         except json.JSONDecodeError as e:
