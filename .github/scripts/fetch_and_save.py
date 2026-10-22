@@ -575,12 +575,15 @@ def fetch_via_jina_proxy(username):
     """通过 r.jina.ai 中转访问 Syndication API：出口 IP 为 Jina 机房，
     可绕过 Twitter 对 GitHub runner IP 段的 429 限流。仅在直连全部失败时兜底。"""
     print("  [Method 4] Syndication via r.jina.ai proxy...")
+    # Jina 会按 URL 缓存响应，导致拿到旧快照：加时间戳参数破缓存，并显式禁缓存
+    bust = int(time.time())
     target = (
         f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
-        f"?count={COUNT}&showReplies=false"
+        f"?count={COUNT}&showReplies=false&_cb={bust}"
     )
     headers = {
         "X-Return-Format": "html",
+        "X-No-Cache": "true",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     }
     content = fetch("https://r.jina.ai/" + target, headers=headers, timeout=45)
