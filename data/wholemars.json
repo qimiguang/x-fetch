@@ -1,8 +1,108 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-21T21:31:48Z",
-  "count": 68,
+  "updated_at": "2026-10-22T02:24:04Z",
+  "count": 88,
   "tweets": [
+    {
+      "text": "It’s raining like crazy in LA and Tesla Self-Driving 14.3.13 is driving so smoothly and perfectly. Bravo @TeslaSI",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113074010502443231#m",
+      "date": "Thu, 22 Oct 2026 01:04:37 GMT"
+    },
+    {
+      "text": "This just hit the latest Robotaxi app update. \n\nThey’re sandbagging",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113072657596031371#m",
+      "date": "Thu, 22 Oct 2026 00:59:15 GMT"
+    },
+    {
+      "text": "this is the new normal\n\n\nThe Hacker News (@TheHackersNews)\n\n🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - thehackernews.com/2026/10/cr…\n\nLink\n\n\n\nCritical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases\n\nGitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113067301432160583#m",
+      "date": "Thu, 22 Oct 2026 00:37:58 GMT"
+    },
+    {
+      "text": "Tesla scaling autonomous driving and people are losing it over video vs audio calls 😂\n\n\nmr fundman (@mrfundman)\n\nBoomer mama crashing out big time rn 🤣\n\nVideo\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/mrfundman/status/2113039075703726472#m",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113058965806551102#m",
+      "date": "Thu, 22 Oct 2026 00:04:50 GMT"
+    },
+    {
+      "text": "Tesla will be doing video calls for the next earnings call\n\n\nElon Musk (@elonmusk)\n\nIt will be next time\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113045023210230128#m",
+      "date": "Wed, 21 Oct 2026 23:09:26 GMT"
+    },
+    {
+      "text": "BIG NEWS: SpaceX has given me approval to fly their locations and bring updates to their locations without TFRs! Thank you Brian, James, and SpaceX Security for helping set up this program. It really means a lot to me. You guys rock!  \n\nSPACEX: For my first flight I went to the Starlink / Starmind Campus in Bastrop, Texas. There is a ton of work taking place. Here is a list of the build sites currently underway.  \n\n- Solar Ingots and Wafers Facility: This is for upstream silicon production for ingots and wafers that feed solar cell manufacturing. SpaceX is well into the groundworks as they clear and level a massive plot next to the Solar Cell Factory. They will both eventually be connected.  \n\n- Solar Cells Factory: This is a ~1.1–1.5 million sq ft multi-floor structure currently under construction south of the main Starlink plant. It is designed for high-volume solar cell output with a target ~10 GW/year. Much of the outer walls, windows, and roof is installed.  \n\n- Starlink Factory: This is the OG building that has undergone multiple expansions. It houses high-volume Starlink kit production, printed circuit boards, and semiconductor packaging.  \n\n- Warehouse and AI Satellite Development Facility: It is described in conceptual layouts for storage, AI satellite R&D, and related operations. This building has gone up super fast. It started months after the Solar Cells Factory and is now well beyond it.  \n\n- Starmind / AI Satellite Production Factory: This area is still grass with a small section near the highway now be cleared and leveled. It will be the large-scale Starmind satellite manufacturing building.  \n\nIf you have any questions, leave them in the comments. Subscriber Photo-thread and Support links in the thread.\n\nThanks for watching!\n\nVideo",
+      "link": "http://nitter.jaydenha.uk/SERobinsonJr/status/2113043312428843306#m",
+      "date": "Wed, 21 Oct 2026 23:02:38 GMT"
+    },
+    {
+      "text": "How bad is this Gitlab issue? About as bad as it gets. \n\nAnyone on the internet can take over an exposed, self-hosted GitLab server without logging in, on any version from the last 12 years.\n\nShodan is showing ~60K exposed servers online, which is a lot, but there are are far more internally for anyone with a foothold already.\n\n\nThe Hacker News (@TheHackersNews)\n\n🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - thehackernews.com/2026/10/cr…\n\nLink\n\n\n\nCritical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases\n\nGitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
+      "link": "http://nitter.jaydenha.uk/DanielMiessler/status/2113037507524755745#m",
+      "date": "Wed, 21 Oct 2026 22:39:34 GMT"
+    },
+    {
+      "text": "If humanity can survive the next 24 months, we're going to have the most secure software ever.\n\n\nJohn Althouse (@4A4133)\n\nSorry everyone... We're announcing a 0-Day vuln in QUIC that allows anyone to remotely turn off a server running these libraries. I swear we didn't plan this. \n\nfoxio.io/blog/header-accordi…\n\nLink\n\n\n\nHeader Accordions: QPACK amplification attacks against HTTP/3 servers - FoxIO | Cyber Innovation\n\nWe solve the world’s toughest cyber challenges—creating breakthrough technology and embedding it into the systems that run everything.\nfoxio.io\n\n\n\n\n— http://nitter.jaydenha.uk/4A4133/status/2113008219891109996#m",
+      "link": "http://nitter.jaydenha.uk/wedtm/status/2113037010114146497#m",
+      "date": "Wed, 21 Oct 2026 22:37:36 GMT"
+    },
+    {
+      "text": "\"As FSD scales, we will disclose more financial metrics\"\n\n— Tesla CFO $TSLA",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113034238761324827#m",
+      "date": "Wed, 21 Oct 2026 22:26:35 GMT"
+    },
+    {
+      "text": "\"I think Tesla will do half of all passenger miles in any country where its allowed to operate freely\"\n\n— @elonmusk",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113033431475224819#m",
+      "date": "Wed, 21 Oct 2026 22:23:22 GMT"
+    },
+    {
+      "text": "\"Terafabs will cost 10s of billions of dollars, up to 2028. It will probably be north of $100 billion long term\"\n\n— @elonmusk",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031928010232215#m",
+      "date": "Wed, 21 Oct 2026 22:17:24 GMT"
+    },
+    {
+      "text": "By Q1 or Q2 of 2027, the primary scaling bottleneck for Robotaxi will be regulatory, not technical\"\n\n— @aelluswamy",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031680638472585#m",
+      "date": "Wed, 21 Oct 2026 22:16:25 GMT"
+    },
+    {
+      "text": "\"We will move Robotaxi to 24/7 operation, and start operating on high speed roads\"\n\n— @aelluswamy $TSLA",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031491496345961#m",
+      "date": "Wed, 21 Oct 2026 22:15:40 GMT"
+    },
+    {
+      "text": "\"Pretty soon Robotaxi will shut down at 2 AM\"\n\n— @aelluswamy",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031266388078999#m",
+      "date": "Wed, 21 Oct 2026 22:14:46 GMT"
+    },
+    {
+      "text": "\"Cybercab has 50% less parts, so that's 50% less things that can go wrong\"\n\n— @larsmoravy",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113030541297811631#m",
+      "date": "Wed, 21 Oct 2026 22:11:53 GMT"
+    },
+    {
+      "text": "\"Autonomy will be a significant part of our revenue and profitability in 2027\"\n\n— Tesla CFO\n\n\"It will probably start to move the needle in Q2, and then be a significant driver by Q4\"\n\n— @elonmusk",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113030261101490521#m",
+      "date": "Wed, 21 Oct 2026 22:10:47 GMT"
+    },
+    {
+      "text": "Damn, they don’t even stop scaling during an earnings call\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 8 new 2026 Model Ys with the Texas DMV — now 462 Model Ys in its 811-vehicle TX fleet. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2113029724851310837#m",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113030029290684461#m",
+      "date": "Wed, 21 Oct 2026 22:09:51 GMT"
+    },
+    {
+      "text": "\"When customers come into the Tesla showroom, they're asking 'Can I have an FSD test ride?'. They're not asking for 3, Y or Cybertruck. They're asking to try FSD\"\n\n— Tesla CFO $TSLA",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113029306880589880#m",
+      "date": "Wed, 21 Oct 2026 22:06:59 GMT"
+    },
+    {
+      "text": "Tesla Management team disagrees with the thesis that unsupervised driving will be accessible and commoditized by competitors.",
+      "link": "http://nitter.jaydenha.uk/TSLAFanMtl/status/2113029166631104967#m",
+      "date": "Wed, 21 Oct 2026 22:06:26 GMT"
+    },
+    {
+      "text": "\"As we release unsupervised FSD to the customer fleet... I don't think anyone can match it for several years\"\n\n— @aelluswamy $TSLA",
+      "link": "http://nitter.jaydenha.uk/wholemars/status/2113029141805277373#m",
+      "date": "Wed, 21 Oct 2026 22:06:20 GMT"
+    },
     {
       "text": "Definitely take it to San Francisco, long distance self-driving road trips are so nice. \n\nAlso, Tesla has a pet cover for the back seat in their shop if you want it\n\n\nDavid (@dayonefoundry)\n\nNew car is already ruined!\n\nAlso FSD is actually insane. The quality of life improvement especially in stop and go LA traffic is amazing. I might actually try FSD all the way from LA to SF\n\nYes driving a Tesla is now my entire personality\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/dayonefoundry/status/2112725247057338378#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112766962946433477#m",
