@@ -139,12 +139,16 @@ def _parse_syndication_data(data, username):
             tweet_id = tweet.get("id_str") or tweet.get("id", "")
             created_at = tweet.get("created_at", "")
             if text and tweet_id:
-                tweets.append({
+                item = {
                     "text": text,
                     "link": f"https://x.com/{username}/status/{tweet_id}",
                     "date": created_at,
                     "tweet_id": str(tweet_id),
-                })
+                }
+                media = _extract_media(tweet)
+                if media:
+                    item["media"] = media
+                tweets.append(item)
     except (KeyError, TypeError, AttributeError):
         pass
     return tweets
@@ -170,6 +174,36 @@ def _walk_tweet_nodes(node, out):
             _walk_tweet_nodes(v, out)
 
 
+def _extract_media(tweet):
+    """从推文 entities 中提取媒体：photo 返回可展示 URL，video/gif 返回 mp4 变体 + 封面。"""
+    out = []
+    ent_list = []
+    for key in ("entities", "extended_entities"):
+        ent = tweet.get(key)
+        if isinstance(ent, dict):
+            ent_list.append(ent)
+    for ent in ent_list:
+        for m in ent.get("media") or []:
+            if not isinstance(m, dict):
+                continue
+            mtype = m.get("type")
+            base = m.get("media_url_https") or m.get("media_url") or ""
+            if mtype == "photo" and base:
+                out.append({
+                    "type": "photo",
+                    "url": base + "?format=jpg&name=medium",
+                    "full": base + "?format=jpg&name=large",
+                })
+            elif mtype in ("video", "animated_gif"):
+                variants = (m.get("video_info") or {}).get("variants") or []
+                mp4s = [v for v in variants if isinstance(v, dict) and v.get("content_type") == "video/mp4"]
+                item = {"type": mtype, "url": "", "thumb": base}
+                if mp4s:
+                    item["url"] = max(mp4s, key=lambda v: v.get("bitrate", 0)).get("url", "")
+                out.append(item)
+    return out
+
+
 def _parse_next_data(data, username):
     """解析 __NEXT_DATA__ 中的推文数据：先试已知路径，失败则递归全树搜索。"""
     tweets = []
@@ -182,12 +216,16 @@ def _parse_next_data(data, username):
             tweet_id = tweet.get("id_str") or tweet.get("id", "")
             created_at = tweet.get("created_at", "")
             if text and tweet_id:
-                tweets.append({
+                item = {
                     "text": text,
                     "link": f"https://x.com/{username}/status/{tweet_id}",
                     "date": created_at,
                     "tweet_id": str(tweet_id),
-                })
+                }
+                media = _extract_media(tweet)
+                if media:
+                    item["media"] = media
+                tweets.append(item)
     except (KeyError, TypeError, AttributeError):
         pass
     if tweets:
@@ -211,12 +249,16 @@ def _parse_next_data(data, username):
         if isinstance(user, dict):
             screen = user.get("screen_name") or ""
         handle = screen or username
-        tweets.append({
+        item = {
             "text": text,
             "link": f"https://x.com/{handle}/status/{tid}",
             "date": tweet.get("created_at", ""),
             "tweet_id": tid,
-        })
+        }
+        media = _extract_media(tweet)
+        if media:
+            item["media"] = media
+        tweets.append(item)
     return tweets
 
 
