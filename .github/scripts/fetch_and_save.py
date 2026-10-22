@@ -208,15 +208,6 @@ def _parse_next_data(data, username):
     """解析 __NEXT_DATA__ 中的推文数据：先试已知路径，失败则递归全树搜索。"""
     tweets = []
     try:
-        # 诊断: 统计已知路径下 tweet 节点是否携带 entities
-        _dbg = data.get("props", {}).get("pageProps", {}).get("timeline", {}).get("entries", [])
-        for _e in _dbg[:3]:
-            _t = _e.get("tweet") or (_e.get("content", {}) or {}).get("tweet", {})
-            if _t:
-                print(f"    [dbg] entry keys={sorted(_e.keys())[:8]} tweet_has_ent={'entities' in _t} keys={sorted(_t.keys())[:20]}")
-    except Exception:
-        pass
-    try:
         # 已知路径: props.pageProps.timeline.entries
         entries = data.get("props", {}).get("pageProps", {}).get("timeline", {}).get("entries", [])
         for entry in entries:
@@ -246,8 +237,6 @@ def _parse_next_data(data, username):
         _walk_tweet_nodes(data, nodes)
     except (TypeError, AttributeError):
         pass
-    _with_ent = sum(1 for n in nodes if n.get("entities") or n.get("extended_entities"))
-    print(f"    [dbg] walker nodes={len(nodes)} with_entities={_with_ent}")
     seen = set()
     for tweet in nodes:
         text = tweet.get("full_text") or tweet.get("text", "")
@@ -270,9 +259,6 @@ def _parse_next_data(data, username):
         if media:
             item["media"] = media
         tweets.append(item)
-    media_dbg = sum(1 for t in tweets if t.get("media"))
-    if tweets or media_dbg:
-        print(f"    [dbg] parsed={len(tweets)} with_media_extracted={media_dbg}")
     return tweets
 
 
