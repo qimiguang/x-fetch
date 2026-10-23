@@ -45,6 +45,9 @@ COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截�
 MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
 KEEP_DAYS = 31    # 默认只保留近 31 天的推文，更早的从数据文件中剔除
 KEEP_DAYS_OVERRIDES = {"chriszheng001": 366}  # 个别用户保留更久（按用户名小写）
+# 个别用户开启 showReplies：Twitter 对高流量账号的 profile 缓存极强，
+# showReplies=false 快照长期不更新；带回复的缓存键不同，通常能拿到更新的时间线
+SHOW_REPLIES_OVERRIDES = {"elonmusk": True}
 TRANSLATE_PER_RUN = 100   # 每次运行最多新翻译的推文数（存量回填限速，避免超时）
 TRANSLATE_MAX_CHARS = 4000  # gtx 单次请求文本上限
 HEADERS_COMMON = {
@@ -80,12 +83,13 @@ def strip_html(text):
 # ── Method 1: Twitter Syndication API ─────────────────────────────────────────
 # 这是 Twitter 官方 embed timeline 使用的 API，无需认证，对高流量账号也有效
 
-def fetch_via_syndication(username):
+def fetch_via_syndication(username, show_replies=False):
     """通过 syndication.twitter.com 获取用户时间线（无需认证）。"""
     print(f"  [Method 1] Twitter Syndication API...")
+    sr = "true" if show_replies else "false"
     url = (
         f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
-        f"?count={COUNT}&showReplies=false"
+        f"?count={COUNT}&showReplies={sr}"
     )
     headers = {
         **HEADERS_COMMON,
@@ -623,15 +627,16 @@ def merge_with_existing(username, tweets):
 
 # ── Method 4: Jina Reader 代理（绕过 GitHub runner IP 限流）───────────────────
 
-def fetch_via_jina_proxy(username):
+def fetch_via_jina_proxy(username, show_replies=False):
     """通过 r.jina.ai 中转访问 Syndication API：出口 IP 为 Jina 机房，
     可绕过 Twitter 对 GitHub runner IP 段的 429 限流。仅在直连全部失败时兜底。"""
     print("  [Method 4] Syndication via r.jina.ai proxy...")
     # Jina 会按 URL 缓存响应，导致拿到旧快照：加时间戳参数破缓存，并显式禁缓存
     bust = int(time.time())
+    sr = "true" if show_replies else "false"
     target = (
         f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
-        f"?count={COUNT}&showReplies=false&_cb={bust}"
+        f"?count={COUNT}&showReplies={sr}&_cb={bust}"
     )
     headers = {
         "X-Return-Format": "html",
@@ -693,8 +698,9 @@ def fetch_via_jina_proxy(username):
 
 
 def fetch_tweets(username):
+    show_replies = SHOW_REPLIES_OVERRIDES.get(username.lower(), False)
     # 方法1: Syndication API（最稳定，对高流量账号也有效）
-    tweets = fetch_via_syndication(username)
+    tweets = fetch_via_syndication(username, show_replies)
     if tweets:
         return tweets
 
@@ -709,14 +715,14 @@ def fetch_tweets(username):
         return tweets
 
     # 方法4: Jina 代理中转 Syndication（绕过 GitHub IP 限流的兜底）
-    tweets = fetch_via_jina_proxy(username)
+    tweets = fetch_via_jina_proxy(username, show_replies)
     if tweets:
         return tweets
 
     # 最后重试 Syndication（等待后再试一次）
     print("  Retrying Syndication after 5s...")
     time.sleep(5)
-    tweets = fetch_via_syndication(username)
+    tweets = fetch_via_syndication(username, show_replies)
     return tweets
 
 
