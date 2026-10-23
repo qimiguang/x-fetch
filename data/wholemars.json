@@ -1,8 +1,27 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-22T21:23:25Z",
-  "count": 88,
+  "updated_at": "2026-10-23T02:07:58Z",
+  "count": 89,
   "tweets": [
+    {
+      "text": "Gali was in town yesterday, so we self-drove to the Tesla Diner in the rain (4K version) https://t.co/r1VOR6mm4S",
+      "link": "https://x.com/wholemars/status/2113441881946304721",
+      "date": "Fri Oct 23 01:26:25 +0000 2026",
+      "tweet_id": "2113441881946304721",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113434091370766336/vid/avc1/3840x2160/f3G0jp3qXIc80yNx.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113434091370766336/img/fCvxUuYnQKq-xBOe.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113434091370766336/vid/avc1/3840x2160/f3G0jp3qXIc80yNx.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113434091370766336/img/fCvxUuYnQKq-xBOe.jpg"
+        }
+      ],
+      "text_zh": "昨天加利在城里，所以我们自驾去雨中的特斯拉餐厅（4K版）https://t.co/r1VOR6mm4S"
+    },
     {
       "text": "It’s raining like crazy in LA and Tesla Self-Driving 14.3.13 is driving so smoothly and perfectly. Bravo @TeslaSI",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113074010502443231#m",
