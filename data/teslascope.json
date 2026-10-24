@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-24T20:31:32Z",
+  "updated_at": "2026-10-24T23:01:23Z",
   "count": 65,
   "tweets": [
     {
@@ -142,9 +142,9 @@
       "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.10 现在将在过去五分钟内向另外约 1,100 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (80%) 的全自动驾驶 V14.3.13 和适用于符合条件的 HW3 车辆 (20%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的特斯拉软件更新 2026.38.5.10。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.10 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026.38.5.10。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2112451988898087239#m"
     },
     {
-      "text": "We're pleased to share that our web services have been restored, including our mobile, developer APIs, and AI MCP server.\n\nWe can thankfully confirm that vehicle activity was not disrupted at any time.\n\nThank you for your patience; this was a rough time for developers globally.\n\n\nTeslascope (@teslascope)\n\nAs a precautionary measure, our web service and developer APIs are temporarily unavailable in order to protect account and vehicle data from critical security vulnerabilities in the wild.\n\nVehicle activity is not impacted, and the web service will be restored as soon as possible.\n\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2112774988239720959#m",
-      "link": "http://nitter.meowing.monster/teslascope/status/2112963280478314609#m",
-      "date": "Wed, 21 Oct 2026 17:44:37 GMT",
+      "text": "We're pleased to share that our web services have been restored, including our mobile, developer APIs, and AI MCP server.\n\nWe can thankfully confirm that vehicle activity was not disrupted at any time.\n\nThank you for your patience; this was a rough time for developers globally.",
+      "link": "https://x.com/teslascope/status/2112963280478314609",
+      "date": "Wed Oct 21 17:44:37 +0000 2026",
       "tweet_id": "2112963280478314609",
       "text_zh": "我们很高兴地告诉大家，我们的网络服务已经恢复，包括我们的移动、开发者 API 和 AI MCP 服务器。\n\n值得庆幸的是，我们可以确认车辆活动在任何时候都没有受到干扰。\n\n感谢您的耐心等待；对于全球开发者来说，这是一段艰难的时期。"
     },
