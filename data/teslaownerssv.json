@@ -1,48 +1,264 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-24T10:38:40Z",
+  "updated_at": "2026-10-24T15:40:52Z",
   "count": 200,
   "tweets": [
     {
-      "text": ".@elonmusk on Tesla making its own chips:\n\n\"I do think we'll get this done.\"\n\n\"I don't want to be complacent or entitled or anything, but I think probably we'll figure out how to make chips better than anyone, honestly. I'd be disappointed if we didn't.\"\n\nCars. Rockets. Now chips. Do you think he does it?\n\n@theXtakeover\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113869884274958697#m",
-      "date": "Sat, 24 Oct 2026 05:47:08 GMT",
+      "text": "BREAKING: Tesla’s registered Robotaxi fleet in Texas has nearly tripled since September 1. \n\n• Tesla: 314 → 927 vehicles (+195%)\n• Waymo: +471 vehicles (+64%)\n• Tesla is adding an average of 11.8 Robotaxis per day.\n• 420 of Tesla’s registered vehicles are already Cybercabs. https://t.co/Fe2jwllgj1",
+      "link": "https://x.com/teslaownersSV/status/2114011108063555933",
+      "date": "Sat Oct 24 15:08:19 +0000 2026",
+      "tweet_id": "2114011108063555933",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=large"
+        }
+      ],
+      "text_zh": "突发新闻：自 9 月 1 日以来，特斯拉在德克萨斯州注册的 Robotaxi 车队数量几乎增加了两倍。 \n\n• 特斯拉：314 → 927 辆（+195%）\n• Waymo：+471 辆车（+64%）\n• Tesla 平均每天增加 11.8 辆 Robotaxis。\n• Tesla 注册的车辆中有 420 辆已经是 Cyber​​cab。 https://t.co/Fe2jwllgj1"
+    },
+    {
+      "text": "Tesla Evergreen in San Jose is the only place in the whole Bay Area where you can get your Tesla full-body protected 🛡️⚡\n\nIn-house, loaner included, XPEL with a 10-year warranty.\n\n📲 Only bookable in the Tesla app. Would you do it?\n\n#Tesla #PPF #Cybertruck https://t.co/U3BeupSIUv",
+      "link": "https://x.com/teslaownersSV/status/2114009415816757617",
+      "date": "Sat Oct 24 15:01:35 +0000 2026",
+      "tweet_id": "2114009415816757617",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2114009313509253120/pu/vid/avc1/720x1280/u9rtv8ZUrFRqjaG_.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2114009313509253120/pu/img/cCJBUK6VOj8bNC8C.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2114009313509253120/pu/vid/avc1/720x1280/u9rtv8ZUrFRqjaG_.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2114009313509253120/pu/img/cCJBUK6VOj8bNC8C.jpg"
+        }
+      ],
+      "text_zh": "圣何塞的 Tesla Evergreen 是整个湾区唯一可以让您的 Tesla 得到全身保护的地方🛡️⚡\n\n内部（包括借用）XPEL 具有 10 年保修期。\n\n📲 只能在 Tesla 应用程序中预订。你会做吗？\n\n#特斯拉 #PPF #Cyber​​truck https://t.co/U3BeupSIUv"
+    },
+    {
+      "text": "Starlink is becoming a competitive advantage for United Airlines.\n\nUnited now has Starlink on 640+ aircraft, adding roughly three more each day.\n\nCEO Scott Kirby says some passengers are choosing United specifically for its fast in-flight Wi-Fi.\n\nStarlink enables streaming and https://t.co/iI2ThSILdN",
+      "link": "https://x.com/teslaownersSV/status/2114008790786019726",
+      "date": "Sat Oct 24 14:59:06 +0000 2026",
+      "tweet_id": "2114008790786019726",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2114008778115108864/vid/avc1/848x480/9uc744a21IcAGFBn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114008778115108864/img/E5O2vUKDLIusIh30.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2114008778115108864/vid/avc1/848x480/9uc744a21IcAGFBn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114008778115108864/img/E5O2vUKDLIusIh30.jpg"
+        }
+      ],
+      "text_zh": "星链正在成为联合航空的竞争优势。\n\n美联航目前在 640 多架飞机上安装了 Starlink，并且每天大约增加三架。\n\n首席执行官斯科特·柯比 (Scott Kirby) 表示，一些乘客选择美联航是因为其快速的机上 Wi-Fi。\n\nStarlink 支持流媒体和 https://t.co/iI2ThSILdN"
+    },
+    {
+      "text": "I support Elon Musk",
+      "link": "https://x.com/teslaownersSV/status/2114008057747526022",
+      "date": "Sat Oct 24 14:56:11 +0000 2026",
+      "tweet_id": "2114008057747526022",
+      "text_zh": "我支持埃隆·马斯克"
+    },
+    {
+      "text": "JUST IN: Tecate, Mexico just switched on Starlink for its police and firefighters.\n\nOnly 30 to 40% of the municipality's roughly 3,000 km² has cell coverage. Now crews in the backcountry can call for backup and ambulances with zero bars.\n\n9 kits: 6 for police and traffic, 3 for https://t.co/LKVyPqKEVZ",
+      "link": "https://x.com/teslaownersSV/status/2114006253903269954",
+      "date": "Sat Oct 24 14:49:01 +0000 2026",
+      "tweet_id": "2114006253903269954",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVZ1e-UbIAA0_Pe.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVZ1e-UbIAA0_Pe.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVZ1e-UbIAA0_Pe.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVZ1e-UbIAA0_Pe.jpg?format=jpg&name=large"
+        }
+      ],
+      "text_zh": "刚刚：墨西哥特卡特刚刚为其警察和消防员开启了星链。\n\n该市约 3,000 平方公里的面积中，只有 30% 至 40% 拥有手机覆盖。现在，偏远地区的工作人员可以用零杆呼叫支援和救护车。\n\n9 个套件：6 个用于警察和交通，3 个用于 https://t.co/LKVyPqKEVZ"
+    },
+    {
+      "text": "Tesla Now Does Full-Body PPF In-House: Here's How to Book It\n\nTesla Evergreen in San Jose is the only place in the whole Bay Area where you can get your Tesla full-body PPF'd, and it's all done in-house. 🛡️\nHere's everything you need to know, plus how to book it in the Tesla app. https://t.co/8mhmP69EBw",
+      "link": "https://x.com/teslaownersSV/status/2113979823873724721",
+      "date": "Sat Oct 24 13:04:00 +0000 2026",
+      "tweet_id": "2113979823873724721",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113862325115715584/vid/avc1/3840x2160/sMFuyak5C14oGAhn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113862325115715584/img/CyAg6oBCLt8pUkDP.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113862325115715584/vid/avc1/3840x2160/sMFuyak5C14oGAhn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113862325115715584/img/CyAg6oBCLt8pUkDP.jpg"
+        }
+      ],
+      "text_zh": "特斯拉现在在内部提供全身 PPF：预订方法如下\n\n圣何塞的 Tesla Evergreen 是整个湾区唯一一个可以为您提供 Tesla 全身 PPF 的地方，而且这一切都是在内部完成的。 🛡️\n以下是您需要了解的所有信息，以及如何在 Tesla 应用程序中预订。 https://t.co/8mhmP69EBw"
+    },
+    {
+      "text": "Legacy media is losing the race.\n\nA White House correspondent, a political commentator and an 𝕏 Takeover organizer sat down live at Giga Texas to talk about how news really breaks now: on 𝕏, in real time, from the people who are there. @theXtakeover \n\n@MacyGunnell https://t.co/ye3qMUwWil",
+      "link": "https://x.com/teslaownersSV/status/2113978822848614481",
+      "date": "Sat Oct 24 13:00:01 +0000 2026",
+      "tweet_id": "2113978822848614481",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113858928538963969/vid/avc1/1920x1080/0q0s_u9JM_r6R17y.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113858928538963969/img/_kYyJJT4iwjoNMJ0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113858928538963969/vid/avc1/1920x1080/0q0s_u9JM_r6R17y.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113858928538963969/img/_kYyJJT4iwjoNMJ0.jpg"
+        }
+      ],
+      "text_zh": "传统媒体正在输掉这场比赛。\n\n一位白宫记者、一位政治评论员和一位 𝕏 接管组织者在 Giga Texas 现场坐下来谈论现在的新闻是如何真正发生的：在 𝕏 上，实时地从那里的人们那里传来。 @theXtakeover \n\n@MacyGunnell https://t.co/ye3qMUwWil"
+    },
+    {
+      "text": "RT @teslaownersSV: Grok 4.7 ranks #1 on Ivo-micro1 ContractBench, a new test of how well AI reviews real contracts like an in-house attorne…",
+      "link": "https://x.com/teslaownersSV/status/2113870374115172664",
+      "date": "Sat Oct 24 05:49:05 +0000 2026",
+      "tweet_id": "2113870374115172664",
+      "text_zh": "RT @teslaownersSV：Grok 4.7 在 Ivo-micro1 ContractBench 上排名第一，这是一项关于人工智能像内部律师一样审查真实合同的新测试……"
+    },
+    {
+      "text": ".@elonmusk on Tesla making its own chips:\n\n\"I do think we'll get this done.\"\n\n\"I don't want to be complacent or entitled or anything, but I think probably we'll figure out how to make chips better than anyone, honestly. I'd be disappointed if we didn't.\"\n\nCars. Rockets. Now https://t.co/1GiXWvtPtQ",
+      "link": "https://x.com/teslaownersSV/status/2113869884274958697",
+      "date": "Sat Oct 24 05:47:08 +0000 2026",
+      "tweet_id": "2113869884274958697",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113869842591932416/vid/avc1/1920x1080/fIOHkFjKTLTrYFeC.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113869842591932416/img/cteZAs4StQk0YOLQ.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113869842591932416/vid/avc1/1920x1080/fIOHkFjKTLTrYFeC.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113869842591932416/img/cteZAs4StQk0YOLQ.jpg"
+        }
+      ],
       "text_zh": ".@elonmusk 谈论特斯拉制造自己的芯片：\n\n“我确实认为我们会完成这件事。”\n\n“我不想自满或自以为是，但说实话，我认为我们可能会想出如何比任何人制造更好的芯片。如果我们不这样做，我会感到失望。”\n\n汽车。火箭队。现在筹码。你认为他会这么做吗？\n\n@theXtakeover\n\n视频"
     },
     {
       "text": "Love having Grok bot in my chats. The work never stops.",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113869631232561250#m",
-      "date": "Sat, 24 Oct 2026 05:46:08 GMT",
+      "link": "https://x.com/teslaownersSV/status/2113869631232561250",
+      "date": "Sat Oct 24 05:46:08 +0000 2026",
+      "tweet_id": "2113869631232561250",
       "text_zh": "喜欢在我的聊天中使用 Grok 机器人。工作永远不会停止。"
     },
     {
-      "text": "After half a billion views on TikTok, Instagram, and Facebook, people call me the Roadster guy. 🫡\n\nAbsolutely wild. Even the Pokémon store noticed my videos. 🤣🤣",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113858414942343310#m",
-      "date": "Sat, 24 Oct 2026 05:01:34 GMT",
+      "text": "After half a billion views on TikTok, Instagram, and Facebook, people call me the Roadster guy. 🫡\n\nAbsolutely wild. Even the Pokémon store noticed my videos. 🤣🤣 https://t.co/YWjfyyaxfU",
+      "link": "https://x.com/teslaownersSV/status/2113858414942343310",
+      "date": "Sat Oct 24 05:01:34 +0000 2026",
+      "tweet_id": "2113858414942343310",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXvBruacAEl_zd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVXvBruacAEl_zd.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXvBrsbAAAA8Kd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVXvBrsbAAAA8Kd.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXvBrnaYAAdCoa.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVXvBrnaYAAdCoa.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXvBruacAEl_zd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVXvBruacAEl_zd.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXvBrsbAAAA8Kd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVXvBrsbAAAA8Kd.jpg?format=jpg&name=large"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXvBrnaYAAdCoa.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVXvBrnaYAAdCoa.jpg?format=jpg&name=large"
+        }
+      ],
       "text_zh": "在 TikTok、Instagram 和 Facebook 上的浏览​​量达到 5 亿次后，人们称我为“Roadster”。 🫡\n\n绝对狂野。就连神奇宝贝商店也注意到了我的视频。 🤣🤣"
     },
     {
-      "text": "It’s funny watching keyboard warriors crash out on people who are actually building.\n\nThey’ll scream about how it’s impossible, how the timeline is a lie, how the whole thing is a scam… then the thing ships, it works, and they just vanish. No apology. No update. \n\nNo “I was wrong.” Just gone.\n\nBuilders keep building.\n\nCritics keep disappearing.\nThe internet is full of ghosts who once had a lot to say.",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113855426475504026#m",
-      "date": "Sat, 24 Oct 2026 04:49:41 GMT",
+      "text": "RT @teslaownersSV: Elon Musk's message before Election Day was simple: go vote.\n\n\"This is it. This is the last chance. Go out and vote. Vot…",
+      "link": "https://x.com/teslaownersSV/status/2113856491304435927",
+      "date": "Sat Oct 24 04:53:55 +0000 2026",
+      "tweet_id": "2113856491304435927",
+      "text_zh": "RT @teslaownersSV：埃隆·马斯克在选举日之前的信息很简单：去投票。\n\n“就是这样了。这是最后的机会了。出去投票吧。投票……"
+    },
+    {
+      "text": "It’s funny watching keyboard warriors crash out on people who are actually building.\n\nThey’ll scream about how it’s impossible, how the timeline is a lie, how the whole thing is a scam… then the thing ships, it works, and they just vanish. No apology. No update. \n\nNo “I was",
+      "link": "https://x.com/teslaownersSV/status/2113855426475504026",
+      "date": "Sat Oct 24 04:49:41 +0000 2026",
+      "tweet_id": "2113855426475504026",
       "text_zh": "看着键盘侠撞向真正正在建造的人是很有趣的。\n\n他们会尖叫着这是多么不可能，时间线是谎言，整个事情是一个骗局……然后事情就发生了，它起作用了，然后他们就消失了。没有道歉。没有更新。 \n\n不，“我错了。”刚刚走了。\n\n建设者继续建设。\n\n批评者不断消失。\n互联网上充满了曾经有很多话要说的幽灵。"
     },
     {
-      "text": "Cybercab's Chief Engineer stood on a downtown street corner for five hours watching hundreds of people get into Cybercabs, then left with a list of everything to improve.\n\nTesla Cybercab Chief Engineer Eric Earley @EricETesla at X Takeover 2026, Giga Texas.\n\n@theXtakeover\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113854351488016896#m",
-      "date": "Sat, 24 Oct 2026 04:45:25 GMT",
+      "text": "Cybercab's Chief Engineer stood on a downtown street corner for five hours watching hundreds of people get into Cybercabs, then left with a list of everything to improve.\n\nTesla Cybercab Chief Engineer Eric Earley @EricETesla at X Takeover 2026, Giga Texas.\n\n@theXtakeover https://t.co/KVF6eVOSwI",
+      "link": "https://x.com/teslaownersSV/status/2113854351488016896",
+      "date": "Sat Oct 24 04:45:25 +0000 2026",
+      "tweet_id": "2113854351488016896",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113854320852803585/vid/avc1/1080x1920/RW4nNxfSkLUfUhqY.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854320852803585/img/Xw10dDaG6jT85t6E.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113854320852803585/vid/avc1/1080x1920/RW4nNxfSkLUfUhqY.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854320852803585/img/Xw10dDaG6jT85t6E.jpg"
+        }
+      ],
       "text_zh": "Cyber​​cab 的首席工程师在市中心的街角站了五个小时，看着数百人进入 Cyber​​cab，然后留下了一份需要改进的清单。\n\nTesla Cyber​​cab 首席工程师 Eric Earley @EricETesla 在 X Takeover 2026，Giga Texas。\n\n@theXtakeover\n\n视频"
     },
     {
-      "text": "Elon Musk on the Tesla and SpaceX merger question, closing Tesla's Q3 earnings call:\n\n\"With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday.\n\nTap dancing through a minefield there. And yeah, that's it.\n\nIn conclusion, we're super excited about our autonomy and robotics roadmap. There's a lot of incredibly awesome stuff coming.\nAnd I'd like to once again thank the Tesla team for their strong execution, and all of our supporters for joining us on this journey.\"\n\nHe laid it out on SpaceX's call the day before: special committees at both companies are studying it, and there are no terms yet.\n\n@elonmusk\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113854147502002502#m",
-      "date": "Sat, 24 Oct 2026 04:44:36 GMT",
+      "text": "RT @teslaownersSV: President Trump on @elonmusk , plain and simple:\n\"He's a very brilliant person or Starlink wouldn't exist. But Elon will…",
+      "link": "https://x.com/teslaownersSV/status/2113854350191886559",
+      "date": "Sat Oct 24 04:45:25 +0000 2026",
+      "tweet_id": "2113854350191886559",
+      "text_zh": "RT @teslaownersSV：特朗普总统在 @elonmusk 上，简单明了：\n“他是一个非常聪明的人，否则星链就不会存在。但埃隆会……"
+    },
+    {
+      "text": "Elon Musk on the Tesla and SpaceX merger question, closing Tesla's Q3 earnings call:\n\n\"With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday.\n\nTap dancing through a minefield there. And yeah, that's it.\n\nIn conclusion, we're super https://t.co/z7WoZ8WAwn",
+      "link": "https://x.com/teslaownersSV/status/2113854147502002502",
+      "date": "Sat Oct 24 04:44:36 +0000 2026",
+      "tweet_id": "2113854147502002502",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113854124093820928/vid/avc1/1920x1080/-sQc2gFdZTONuJPE.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854124093820928/img/EjdmOk0CMVXU71xz.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2113854124093820928/vid/avc1/1920x1080/-sQc2gFdZTONuJPE.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854124093820928/img/EjdmOk0CMVXU71xz.jpg"
+        }
+      ],
       "text_zh": "埃隆·马斯克 (Elon Musk) 在特斯拉第三季度财报电话会议结束时谈到了特斯拉和 SpaceX 的合并问题：\n\n“关于与 SpaceX 的潜在合并，我想我昨天已经说了该说的一切。\n\n踢踏舞穿过那里的雷区。是的，就是这样。\n\n总之，我们对我们的自主和机器人路线图感到非常兴奋。有很多令人难以置信的很棒的东西即将到来。\n我想再次感谢特斯拉团队的强大执行力，以及我们所有的支持者加入我们的这段旅程。”\n\n他在前一天的 SpaceX 电话会议上阐述了这一点：两家公司的特别委员会正在研究它，目前还没有任何条款。\n\n@埃隆马斯克\n\n视频"
     },
     {
-      "text": "News Young Americans have almost stopped getting married.\n\nIn 1960, 59% of Americans aged 18 to 29 were married. In 2024, just 16% were.\nMarried couples are still where most first births happen (62% of first births in 2022 to 2024 were to married women). \n\nFewer marriages in the prime family-forming years means fewer families, and fewer kids.\nWhy it matters: population collapse does not start in the maternity ward. It starts years earlier, when families never form.",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113840397554487303#m",
-      "date": "Sat, 24 Oct 2026 03:49:58 GMT",
+      "text": "News Young Americans have almost stopped getting married.\n\nIn 1960, 59% of Americans aged 18 to 29 were married. In 2024, just 16% were.\nMarried couples are still where most first births happen (62% of first births in 2022 to 2024 were to married women). \n\nFewer marriages in the https://t.co/8CoorctEFh",
+      "link": "https://x.com/teslaownersSV/status/2113840397554487303",
+      "date": "Sat Oct 24 03:49:58 +0000 2026",
       "tweet_id": "2113840397554487303",
       "media": [
         {
@@ -59,9 +275,9 @@
       "text_zh": "新闻美国年轻人几乎不再结婚了。\n\n1960年，18岁至29岁的美国人中有59%已婚。到 2024 年，这一比例仅为 16%。\n已婚夫妇仍然是大多数第一胎出生的地方（2022 年至 2024 年，62% 的第一胎是已婚女性）。 \n\nhttps://t.co/8CoorctEFh 的婚姻较少"
     },
     {
-      "text": "Elon Musk on Grok Bot:\n\n\"Grok @Bot is an incredible life & business manager. Can help you with almost anything! Like having a genius employee.\" - @elonmusk\n\nIt now runs Calendar, Reminders and Contacts right on your phone, and keeps your logins and cards in a secure vault.",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113833613171228784#m",
-      "date": "Sat, 24 Oct 2026 03:23:01 GMT",
+      "text": "Elon Musk on Grok Bot:\n\n\"Grok @Bot is an incredible life &amp; business manager. Can help you with almost anything! Like having a genius employee.\" - @elonmusk\n\nIt now runs Calendar, Reminders and Contacts right on your phone, and keeps your logins and cards in a secure vault. https://t.co/Sp4GDEVcLu",
+      "link": "https://x.com/teslaownersSV/status/2113833613171228784",
+      "date": "Sat Oct 24 03:23:01 +0000 2026",
       "tweet_id": "2113833613171228784",
       "media": [
         {
@@ -78,9 +294,9 @@
       "text_zh": "埃隆·马斯克 (Elon Musk) 谈 Grok Bot：\n\n“Grok @Bot 是一位令人难以置信的生活和业务经理。几乎可以为您提供任何帮助！就像拥有一位天才员工一样。” - @elonmusk\n\n现在，它可以直接在您的手机上运行日历、提醒和联系人，并将您的登录信息和卡片保存在安全的保管库中。 https://t.co/Sp4GDEVcLu"
     },
     {
-      "text": "Me parking in 2028\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113811026877853819#m",
-      "date": "Sat, 24 Oct 2026 01:53:16 GMT",
+      "text": "Me parking in 2028 https://t.co/qVkuADPylQ",
+      "link": "https://x.com/teslaownersSV/status/2113811026877853819",
+      "date": "Sat Oct 24 01:53:16 +0000 2026",
       "tweet_id": "2113811026877853819",
       "media": [
         {
@@ -95,6 +311,13 @@
         }
       ],
       "text_zh": "2028 年我停车 https://t.co/qVkuADPylQ"
+    },
+    {
+      "text": "I support Elon Musk",
+      "link": "https://x.com/Rothmus/status/2113804524284506563",
+      "date": "Sat Oct 24 01:27:25 +0000 2026",
+      "tweet_id": "2113804524284506563",
+      "text_zh": "我支持埃隆·马斯克"
     },
     {
       "text": "Elon Musk on why California and New York make voter fraud impossible to prove.\n\n\"California and New York have made it illegal to show your photo ID when voting. Thus, effectively, they've made it impossible to prove fraud. Impossible. They've essentially legalized fraudulent voting in California and New York and many other parts of the country.\"\n\nVideo",
@@ -123,9 +346,9 @@
       "text_zh": "RT @NeuraPod：Nick Wray，世界上第 8 个植入 Neuralink 的人，因 ALS 去世。\n\n当我认识他的时候，他..."
     },
     {
-      "text": "President Trump on @elonmusk , plain and simple:\n\"He's a very brilliant person or Starlink wouldn't exist. But Elon will never do anything wrong. I know him very well. He's a fair person.\"\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113797964540027124#m",
-      "date": "Sat, 24 Oct 2026 01:01:21 GMT",
+      "text": "President Trump on @elonmusk , plain and simple:\n\"He's a very brilliant person or Starlink wouldn't exist. But Elon will never do anything wrong. I know him very well. He's a fair person.\" https://t.co/n6zWwCHpVA",
+      "link": "https://x.com/teslaownersSV/status/2113797964540027124",
+      "date": "Sat Oct 24 01:01:21 +0000 2026",
       "tweet_id": "2113797964540027124",
       "media": [
         {
@@ -180,9 +403,9 @@
       "text_zh": "@elonmusk 表示，他“经常每周四天、夜以继日地”在孟菲斯，让 Grok 背后的超级计算集群上线。\n它表明。 SpaceX SI 在第三季度末的计算量为 1.7 GW，高于一年前的 0.6 GW，SI 收入达到 $7.6B，同比增长 830%。\nElon 在第三季度电话会议上：https://t.co/9Om7nlzqDJ"
     },
     {
-      "text": "Elon Musk's message before Election Day was simple: go vote.\n\n\"This is it. This is the last chance. Go out and vote. Vote like your life depends on it. Vote like your future depends on it, because it does.\"\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113784175098732686#m",
-      "date": "Sat, 24 Oct 2026 00:06:34 GMT",
+      "text": "Elon Musk's message before Election Day was simple: go vote.\n\n\"This is it. This is the last chance. Go out and vote. Vote like your life depends on it. Vote like your future depends on it, because it does.\" https://t.co/gQ9qQhpSID",
+      "link": "https://x.com/teslaownersSV/status/2113784175098732686",
+      "date": "Sat Oct 24 00:06:34 +0000 2026",
       "tweet_id": "2113784175098732686",
       "media": [
         {
@@ -356,9 +579,9 @@
       "text_zh": "Grok Bot 正在变成我的一切应用程序。\n\n我曾经在电子邮件、日历、购物网站、银行业务、票据和六种其他事物之间来回切换。 \n\n现在我只需给我的机器人发短信，它就会在自己的计算机上完成其余的工作：\n\n• 阅读我的电子邮件和日历，然后预订或重新安排需要移动的内容\n\n• 订购商品、处理退货并跟踪包裹，直至退款\n\n• 构建和更新净资产、账单或我跟踪的任何内容的实时页面\n\n• 提醒我、归档并跟进，确保万无一失\n\n• 了解我喜欢如何完成，并在下次执行例行程序\n\n我不再打开五个不同的应用程序或填写表格。这完全是浪费时间。\n\n我只需用纯文本描述我想要的内容，Grok Bot 即可完成工作。感觉就像拥有一个有能力的人，他已经可以访问所有内容并且永远不会离线。\n\nGrok Bot 是我本月最好的员工，我喜欢使用它。\n\n尝试 Grok @bot"
     },
     {
-      "text": "Grok 4.7 ranks #1 on Ivo-micro1 ContractBench, a new test of how well AI reviews real contracts like an in-house attorney\n\n• Grok 4.7 scores 58.3%, ahead of Opus 5.5 at 58.1% and Kimi K3 at 57.1%; GPT-6 Astra is last of seven at 45.6%\n• Grok finished 99.5% of its runs, while Opus 5.5 only finished 80.8% (it kept running out of output budget)\n• Why it matters: 350 real contract tasks, graded against rubrics written by the attorneys who reviewed the same contracts. Grok had the best judgment and actually got the job done",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113665483933352363#m",
-      "date": "Fri, 23 Oct 2026 16:14:56 GMT",
+      "text": "Grok 4.7 ranks #1 on Ivo-micro1 ContractBench, a new test of how well AI reviews real contracts like an in-house attorney\n\n• Grok 4.7 scores 58.3%, ahead of Opus 5.5 at 58.1% and Kimi K3 at 57.1%; GPT-6 Astra is last of seven at 45.6%\n• Grok finished 99.5% of its runs, while https://t.co/ZL5R1KtVY1",
+      "link": "https://x.com/teslaownersSV/status/2113665483933352363",
+      "date": "Fri Oct 23 16:14:56 +0000 2026",
       "tweet_id": "2113665483933352363",
       "media": [
         {
@@ -2167,81 +2390,6 @@
       "date": "Mon Oct 19 14:16:32 +0000 2026",
       "tweet_id": "2112186139541209359",
       "text_zh": "RT @Smokehbear：如果您喜欢这次接管，请关注这位传奇人物@kgee。这是负责大部分后端规划的人！普拉…"
-    },
-    {
-      "text": "The @insta360 X6 captures every moment.. at every angle.\n\nDriving through mountain roads, trekking trailings, and reaching summits.. capture it all on one camera – 8k 360° 50fps HDR.\n\nLove road trips? X6 is a must-have for your next adventure!\n\nOrder yours: https://t.co/cU67p7EwTv",
-      "link": "https://x.com/teslaownersSV/status/2112182986288378149",
-      "date": "Mon Oct 19 14:04:01 +0000 2026",
-      "tweet_id": "2112182986288378149",
-      "text_zh": "@insta360 X6 从各个角度捕捉每一个瞬间。\n\n开车穿过山路、徒步小径、登上顶峰……用一台相机捕捉这一切 – 8k 360° 50fps HDR。\n\n喜欢公路旅行吗？ X6 是您下一次冒险的必备品！\n\n订购您的：https://t.co/cU67p7EwTv"
-    },
-    {
-      "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
-      "link": "https://x.com/elonmusk/status/2112089556615123114",
-      "date": "Mon Oct 19 07:52:45 +0000 2026",
-      "tweet_id": "2112089556615123114",
-      "text_zh": "明年，我将把我的 SpaceX 股票之一送给美国的每个孩子。\n\n这将是众多中的第一个。"
-    },
-    {
-      "text": "RT @Teslalightshows: Viva @Tesla Light Shows LAS VEGAS 🤩\n\nThank you to everyone who took part and to @EVject, @teslaownersSV, @play_tediddl…",
-      "link": "https://x.com/teslaownersSV/status/2111996542735597941",
-      "date": "Mon Oct 19 01:43:09 +0000 2026",
-      "tweet_id": "2111996542735597941",
-      "text_zh": "RT @Teslalightshows：Viva @Tesla Light Show 拉斯维加斯 🤩\n\n感谢所有参与的人以及@EVject、@teslaownersSV、@play_tediddl…"
-    },
-    {
-      "text": "Viva @Tesla Light Shows LAS VEGAS 🤩\n\nThank you to everyone who took part and to @EVject, @teslaownersSV, @play_tediddle, @enhauto &amp; @Man_Cave_Mike for their support in this and the whole XLightShows Tour 2026 🔥🔥🔥\n\n♦️♣️ Turn it UP UP UP ❤️♠️ https://t.co/lBhOJ8eW0n",
-      "link": "https://x.com/Teslalightshows/status/2111996192896782543",
-      "date": "Mon Oct 19 01:41:46 +0000 2026",
-      "tweet_id": "2111996192896782543",
-      "text_zh": "Viva @Tesla 拉斯维加斯灯光秀 🤩\n\n感谢所有参加的人以及 @EVject、@teslaownersSV、@play_tediddle、@enhauto 和 @Man_Cave_Mike 对本次以及整个 XLightShows 巡演 2026 的支持 🔥🔥🔥\n\n️♣️把它向上向上❤️♠️ https://t.co/lBhOJ8eW0n"
-    },
-    {
-      "text": "RT @JoshWest247: Awesome Tesla Club Leadership blazing the way for the Tesla Community! \n\nProud to call these dudes my friends! \n\nMake sure…",
-      "link": "https://x.com/teslaownersSV/status/2111972225352176052",
-      "date": "Mon Oct 19 00:06:31 +0000 2026",
-      "tweet_id": "2111972225352176052",
-      "text_zh": "RT @JoshWest247：非常棒的特斯拉俱乐部领导层为特斯拉社区开辟了道路！ \n\n很自豪地称这些家伙为我的朋友！ \n\n确保..."
-    },
-    {
-      "text": "RT @ResilientRye: Grateful to count @teslaownersSV as a friend. No matter what he’s dealing with personally, he goes out of his way to supp…",
-      "link": "https://x.com/teslaownersSV/status/2111972119718560022",
-      "date": "Mon Oct 19 00:06:06 +0000 2026",
-      "tweet_id": "2111972119718560022",
-      "text_zh": "RT @ResilientRye：很高兴将@teslaownersSV 视为朋友。无论他个人遇到什么事情，他都会不遗余力地支持……"
-    },
-    {
-      "text": "Grateful to count @teslaownersSV as a friend. No matter what he’s dealing with personally, he goes out of his way to support our community. His work ethic and accomplishments are inspiring, and no matter how high he climbs, he stays humble. Thanks for all you do for us and have https://t.co/auKhwzEMNo",
-      "link": "https://x.com/ResilientRye/status/2111969425570275528",
-      "date": "Sun Oct 18 23:55:24 +0000 2026",
-      "tweet_id": "2111969425570275528",
-      "text_zh": "很高兴能将@teslaownersSV 视为朋友。无论他个人正在处理什么，他都会竭尽全力支持我们的社区。他的职业道德和成就令人鼓舞，无论他爬得多高，他都保持谦虚。感谢您为我们所做的一切 https://t.co/auKhwzEMNo"
-    },
-    {
-      "text": "Awesome Tesla Club Leadership blazing the way for the Tesla Community! \n\nProud to call these dudes my friends! \n\nMake sure you are following \n@teslaownersSV @MattHolm3 @AustinTeslaClub https://t.co/CRdvgLM7gA",
-      "link": "https://x.com/JoshWest247/status/2111959797184569820",
-      "date": "Sun Oct 18 23:17:08 +0000 2026",
-      "tweet_id": "2111959797184569820",
-      "text_zh": "令人敬畏的特斯拉俱乐部领导层为特斯拉社区开辟了道路！ \n\n很自豪地称这些家伙为我的朋友！ \n\n确保您正在关注 \n@teslaownersSV @MattHolm3 @AustinTeslaClub https://t.co/CRdvgLM7gA"
-    },
-    {
-      "text": "If you enjoyed the takeover, give this legend @kgee a follow. This was the man who handled much of the backend planning! Pleasure to see you and call ya brother Kelvin! Phamily. 🧡 https://t.co/xod7n16eYZ",
-      "link": "https://x.com/Smokehbear/status/2111902887584411961",
-      "date": "Sun Oct 18 19:31:00 +0000 2026",
-      "tweet_id": "2111902887584411961",
-      "text_zh": "如果您喜欢这次接管，请关注这位传奇人物@kgee。这是负责大部分后端规划的人！很高兴见到你并称呼你为开尔文兄弟！家族。 🧡 https://t.co/xod7n16eYZ"
-    },
-    {
-      "text": ".@elonmusk on where the new Roadster came from:\n\n\"We looked for inspiration about flying, and we thought we would lean into the most badass stuff out there. SR-71, cars that transform. And that led us to the new Roadster.\"\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2111234550097437177#m",
-      "date": "Fri, 16 Oct 2026 23:15:16 GMT",
-      "text_zh": ".@elonmusk 关于新款 Roadster 的来源：\n\n“我们寻找有关飞行的灵感，我们认为我们应该采用最酷的东西。SR-71，可以变形的汽车。这引导我们开发了新款 Roadster。”\n\n视频"
-    },
-    {
-      "text": "‼️ THE STACK SPECIAL: TESLA'S FLYING ROADSTER IS FINALLY HERE\n\n@elonmusk's new Tesla Roadster flies. But how does it work, and could this change the future of driving?\n\nJohn (@Teslaownerssv) witnessed the unveiling firsthand in Texas and joins Jeff (@SJVTESLA) for a special livestream of The Stack to unpack one of Tesla's most extraordinary reveals yet.\n\n02:26 - John's firsthand reaction\n04:05 - First reactions to the flying Roadster\n06:04 - The new design and SpaceX connection\n10:20 - What the Tesla launch event was really like\n13:12 - Watching the Roadster fly and flip live\n16:44 - The Roadster's 3 versions \n20:00 - Performance, range and what comes next\n22:16 - Tesla's ultimate driving machine\n\nVideo\n  \n\n\n\n\nNewsForce (@Newsforce)\n\nTHE STACK: ROBOTAXIS, BRAIN CHIPS & THE FUTURE OF AI\n\nIs @Tesla pulling away from the competition? Can @SpaceX keep breaking launch records? And is @Neuralink bringing science fiction to life?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) dive into @elonmusk's latest breakthroughs, the Robotaxi race, @grok's AI ambitions, and @Apple's reported partnership with @LGUS. \n\nHow far can this tech revolution go?\n\n0:11 - Tesla's massive Q3 numbers \n4:39 - Tesla Robotaxi vs. Waymo \n8:02 - SpaceX's rocket launch blitz \n11:06 - Neuralink's brain-computer breakthrough \n14:00 - X, Grok, and the AI race \n18:00 - Is Apple falling behind? \n19:17 - Apple's smart home partnership with LG \n20:32 - What's next in tech?\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/Newsforce/status/2110120899269771434#m",
-      "link": "https://nitter.kareem.one/Newsforce/status/2111229048873464086#m",
-      "date": "Fri, 16 Oct 2026 22:53:24 GMT",
-      "text_zh": "️ 堆栈特辑：特斯拉的飞行跑车终于来了\n\n@elonmusk 的新款 Tesla Roadster 飞起来了。但它是如何工作的，这会改变驾驶的未来吗？\n\n约翰 (@Teslaownerssv) 在德克萨斯州亲眼目睹了揭幕仪式，并与杰夫 (@SJVTESLA) 一起参加了 The Stack 的特别直播，揭开了特斯拉迄今为止最非凡的揭幕仪式之一。\n\n02:26 - 约翰的第一手反应\n04:05 - 对飞行跑车的第一反应\n06:04 - 新设计与 SpaceX 的联系\n10:20 - 特斯拉发布会的真实情况\n13:12 - 现场观看 Roadster 飞行和翻转\n16:44 - Roadster 的 3 个版本 \n20:00 - 性能、范围和下一步\n22:16 - 特斯拉的终极驾驶机器\n\n视频\n  \n\n\n\n\n新闻力量（@Newsforce）\n\n堆栈：机器人出租车、脑芯片和人工智能的未来\n\n@Tesla 是否正在退出竞争？ @SpaceX 能否继续打破发射记录？ @Neuralink 是否将科幻小说变为现实？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 深入探讨 @elonmusk 的最新突破、Robotaxi 竞赛、@grok 的 AI 雄心以及 @Apple 与 @LGUS 的合作关系。 \n\n这场科技革命能走多远？\n\n0:11 - 特斯拉第三季度的巨大数据 \n4:39 - 特斯拉 Robotaxi 与 Waymo \n8:02 - SpaceX 的火箭发射闪电战 \n11:06 - Neuralink 的脑机突破 \n14:00 - X、Grok 和 AI 竞赛 \n18:00 - 苹果落后了吗？ \n19:17 - Apple 与 LG 的智能家居合作伙伴关系 \n20:32 - 科技领域的下一步是什么？\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/Newsforce/status/2110120899269771434#m"
     }
   ]
 }
