@@ -54,6 +54,6 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add data/
+          git add -A data/ media/
           git diff --staged --quiet || git commit -m "chore: update tweets $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
