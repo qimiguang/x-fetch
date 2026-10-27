@@ -10,11 +10,13 @@ GitHub Actions 运行脚本。
 
 import os
 import json
+import glob
 import time
 import re
 import urllib.request
 import urllib.error
 import urllib.parse
+import socket
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
@@ -42,6 +44,7 @@ NITTER_INSTANCES = [
 ]
 
 COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
+MEDIA_DIR = "media"  # 媒体本地托管目录（供页面从 raw.githubusercontent 加载）
 MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
 KEEP_DAYS = 31    # 默认只保留近 31 天的推文，更早的从数据文件中剔除
 KEEP_DAYS_OVERRIDES = {"chriszheng001": 366}  # 个别用户保留更久（按用户名小写）
@@ -726,6 +729,69 @@ def fetch_tweets(username):
     return tweets
 
 
+def download_media(tweets):
+    """把推文媒体下载到仓库 media/ 目录：国内网络无法直连 twimg，
+    页面从 raw.githubusercontent.com（与数据文件同源，已验证可达）加载图片。"""
+    os.makedirs(MEDIA_DIR, exist_ok=True)
+    n = 0
+    for t in tweets:
+        tid = t.get("tweet_id") or "x"
+        for i, m in enumerate(t.get("media") or []):
+            fname = f"{tid}_{i}.jpg"
+            if m.get("local") == fname and os.path.exists(os.path.join(MEDIA_DIR, fname)):
+                continue
+            url = None
+            if m.get("type") == "photo":
+                base = (m.get("url") or "").split("?")[0]
+                url = (base + "?format=jpg&name=small") if base else None
+            else:
+                url = m.get("thumb")
+            if not url:
+                continue
+            if _dl(url, os.path.join(MEDIA_DIR, fname)):
+                m["local"] = fname
+                n += 1
+    return n
+
+
+def cleanup_media():
+    """删除 data/*.json 中已不被任何推文引用的媒体文件（旧推被 31 天清理后）"""
+    referenced = set()
+    for f in glob.glob("data/*.json"):
+        if f.endswith("_summary.json"):
+            continue
+        try:
+            with open(f, encoding="utf-8") as fh:
+                for t in json.load(fh).get("tweets", []):
+                    for m in t.get("media") or []:
+                        if m.get("local"):
+                            referenced.add(m["local"])
+        except (json.JSONDecodeError, OSError):
+            pass
+    removed = 0
+    if os.path.isdir(MEDIA_DIR):
+        for fn in os.listdir(MEDIA_DIR):
+            if fn not in referenced:
+                os.remove(os.path.join(MEDIA_DIR, fn))
+                removed += 1
+    return removed
+
+
+def _dl(url, dest):
+    """下载二进制文件；内容过小视为错误页。"""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = r.read()
+        if len(data) < 1000:
+            return False
+        with open(dest, "wb") as f:
+            f.write(data)
+        return True
+    except (urllib.error.URLError, OSError, socket.timeout):
+        return False
+
+
 def main():
     env_usernames = os.environ.get("INPUT_USERNAMES", "").strip()
     if env_usernames:
@@ -747,6 +813,7 @@ def main():
         if tweets:
             merged_tweets = merge_with_existing(username, tweets)
             translated = fill_translations(merged_tweets, TRANSLATE_PER_RUN)
+            n_media = download_media(merged_tweets)
             output = {
                 "username": username,
                 "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -756,7 +823,7 @@ def main():
             path = f"data/{username.lower()}.json"
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
-            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}) -> {path}")
+            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, media downloaded {n_media}) -> {path}")
             summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
@@ -780,6 +847,10 @@ def main():
             "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "users": summary,
         }, f, ensure_ascii=False, indent=2)
+
+    removed = cleanup_media()
+    if removed:
+        print(f"Cleaned {removed} orphan media files")
 
     print(f"\n{'='*40}\nResult: {summary}")
     failed = [u for u, c in summary.items() if c == 0]
