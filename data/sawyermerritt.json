@@ -1,8 +1,122 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-26T20:23:36Z",
-  "count": 124,
+  "updated_at": "2026-10-27T00:18:49Z",
+  "count": 143,
   "tweets": [
+    {
+      "text": "Lars on the Cybercab production line in new interview:\n\n\"We actually don’t run the line every day because the line can run so fast it’s currently outpacing our robotaxi deployments, so it’s a bit of a race right now to see who can go faster.”\n\n\n\n\nMunro Live (@live_munro)\n\nThe full video is now live on @YouTube!\n\nA big thank you to @larsmoravy, @EricETesla, and the rest of the Tesla team for taking the time to walk us through the Cybercab and share the engineering, design, and technology behind it.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/live_munro/status/2114739987271073944#m",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114774891002273935#m",
+      "date": "Mon, 26 Oct 2026 17:43:19 GMT",
+      "text_zh": "Lars 在新采访中谈及 Cybercab 生产线：\n\n“实际上，我们并不是每天都运行这条线路，因为这条线路运行速度非常快，目前已经超过了我们机器人出租车的部署速度，所以现在就像一场竞赛，看看谁能跑得更快。”\n\n\n\n\n蒙罗现场 (@live_munro)\n\n完整视频现已在@YouTube 上直播！\n\n非常感谢 @larsmoravy、@EricETesla 和特斯拉团队的其他成员花时间带我们了解 Cyber​​cab 并分享其背后的工程、设计和技术。\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/live_munro/status/2114739987271073944#m"
+    },
+    {
+      "text": "Will take 2 or 3 years",
+      "link": "https://nitter.kareem.one/elonmusk/status/2114774224015663608#m",
+      "date": "Mon, 26 Oct 2026 17:40:40 GMT",
+      "text_zh": "需要2年或3年的时间"
+    },
+    {
+      "text": "Verizon's CEO said today that SpaceX will need at least 4-6 years and $300B-$500B to fully build out its @Starlink Mobile U.S. carrier network:\n\n\"Their service just can't compete with a terrestrial network. In suburban and urban areas, where 98% of our revenues are, we're somewhere between 100x–1,000x more efficient than they are. We know exactly what they're going to do. We know who they're talking to on towers. There's no magic wand. There's no secret sauce. There's no shortcut.\n\nThey're going to look at 65,000–80,000 macro sites. They're going to need backhaul, RAN, and a tremendous amount of spectrum. It's going to take a minimum of four to six years to fully build that out. It's going to cost hundreds and hundreds of billions of dollars, I assume somewhere between $300 billion and $500 billion.\n\nThen they need to build retail, customer service, back office systems, et cetera. All of that gets them basically the same network and same capabilities and same cost structure as what we have today. Then sometime over the next four to six years, they have the possibility of becoming the sixth, not the fourth, the sixth competitor in the market.\n\nYou can be sure over these next three to five years or six years, we are not going to be standing still. Four to five years from now, we will be two to three generations better than where we are today. We will have high-speed broadband gig-plus coverage across the country with our millimeter wave. We are ahead of most people and already experimenting with what 6G applications will look like.\"\n\n(via Verizon's Q3 earnings call earlier this morning)",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114764647052308783#m",
+      "date": "Mon, 26 Oct 2026 17:02:36 GMT",
+      "text_zh": "Verizon 首席执行官今天表示，SpaceX 将需要至少 4-6 年时间和 300B-500B 美元才能全面建设其 @Starlink Mobile 美国运营商网络：\n\n“他们的服务无法与地面网络竞争。在我们 98% 的收入所在的郊区和城市地区，我们的效率比他们高 100 倍到 1,000 倍。我们确切地知道他们要做什么。我们知道他们在塔上与谁交谈。没有魔杖。没有秘密武器。没有捷径。\n\n他们将查看 65,000–80,000 个宏站点。他们将需要回程、RAN 和大量频谱。完全建立起来至少需要四到六年的时间。这将花费数百亿美元，我假设在 3000 亿到 5000 亿美元之间。\n\n然后他们需要构建零售、客户服务、后台系统等。所有这些使他们拥有与我们今天基本相同的网络、相同的功能和相同的成本结构。然后在未来四到六年的某个时候，他们有可能成为市场上的第六个，而不是第四个，第六个竞争对手。\n\n你可以肯定，在接下来的三到五年或六年里，我们不会停滞不前。四到五年后，我们将比今天进步两到三代人。我们将通过毫米波在全国范围内实现高速宽带千兆以上覆盖。我们领先于大多数人，并且已经开始试验 6G 应用的样子。”\n\n（来自 Verizon 今天早上早些时候的第三季度财报电话会议）"
+    },
+    {
+      "text": "I said 20GWs next year is extremely unlikely, just not 0%, whereas the probability was 0% even a few months ago. \n\nProbability of 20GW is currently rising with time.",
+      "link": "https://nitter.kareem.one/elonmusk/status/2114755803437564327#m",
+      "date": "Mon, 26 Oct 2026 16:27:28 GMT",
+      "text_zh": "我说明年20GW的可能性极小，只是不是0%，而几个月前可能性还是0%。 \n\n目前20GW的概率正在随着时间的推移而上升。"
+    },
+    {
+      "text": "Updated @Tesla Robotaxi geofence sizes (in square miles):\n\n• Austin: 272\n• Houston: 254 (916% increase today)\n• Dallas: 81\n• Miami: 31\n• Orlando: 26\n• Tampa: 24\n\nAll these areas are fully autonomous/unsupervised robotaxis only.",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114749519204094410#m",
+      "date": "Mon, 26 Oct 2026 16:02:30 GMT",
+      "text_zh": "更新了 @Tesla Robotaxi 地理围栏尺寸（以平方英里为单位）：\n\n•奥斯汀：272\n• 休斯顿：254（今天增加 916%）\n•达拉斯：81\n• 迈阿密：31\n•奥兰多：26\n• 坦帕：24\n\n所有这些区域都是完全自主/无人监管的机器人轴。"
+    },
+    {
+      "text": "Filing: sec.gov/Archives/edgar/data/…",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114742920586653927#m",
+      "date": "Mon, 26 Oct 2026 15:36:16 GMT",
+      "text_zh": "归档：sec.gov/Archives/edgar/data/..."
+    },
+    {
+      "text": "Anthropic has officially revealed in its IPO filing today that the company expects to spend up to $120.5 billion on @SpaceX SI compute through 2029.\n\n• Monthly payments up to $3.1B, or $37.2B annually.\n• SpaceX is expected to deliver all contracted computing capacity by Dec 2026.\n• Anthropic (and SpaceX) can terminate the agreements with 90 days' notice after the initial contract periods end in early 2027.\n\nHere's the exact wording directly from the filing: \"Between May and October 2026, we entered into and amended several agreements with SpaceXAI to access compute powered by Nvidia GPUs. Under the SpaceXAI arrangements, we agreed to spend an aggregate of up to $120.5 billion over terms extending into 2029, consisting of approximately $3.1 billion in the aggregate per month once all capacity has been delivered, which we expect in December 2026, with different fees during capacity ramping periods. Following initial non-cancelable periods ending in January 2027 and March 2027 under the respective agreements, each agreement may be cancelled by either party upon 90 days’ advance written notice.\"",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114742917814165983#m",
+      "date": "Mon, 26 Oct 2026 15:36:16 GMT",
+      "text_zh": "Anthropic 在今天的 IPO 文件中正式透露，该公司预计到 2029 年将在 @SpaceX SI 计算上花费高达 1,205 亿美元。\n\n• 每月付款高达$3.1B，或每年$37.2B。\n• SpaceX 预计将在 2026 年 12 月之前交付所有合同计算能力。\n• Anthropic（和 SpaceX）可以在初始合同期于 2027 年初结束后提前 90 天通知终止协议。\n\n以下是直接来自文件的确切措辞：“2026 年 5 月至 10 月期间，我们与 SpaceXAI 签订并修订了几项协议，以访问由 Nvidia GPU 提供支持的计算。根据 SpaceXAI 的安排，我们同意在延长至 2029 年的期限内总共支出高达 1205 亿美元，其中包括一旦所有产能交付后每月总计约 31 亿美元，我们预计在 2026 年 12 月交付，在产能提升期间收取不同的费用根据各自协议于 2027 年 1 月和 2027 年 3 月结束的初始不可取消期之后，任何一方均可在提前 90 天发出书面通知后取消每份协议。”"
+    },
+    {
+      "text": "Raptor 4 will be 300 tons of thrust at sea level and hopefully about the same mass",
+      "link": "https://nitter.kareem.one/elonmusk/status/2114718275238277610#m",
+      "date": "Mon, 26 Oct 2026 13:58:21 GMT",
+      "text_zh": "Raptor 4 在海平面的推力将达到 300 吨，希望质量也差不多"
+    },
+    {
+      "text": "Tesla has just officially expanded its robotaxi geofence in Houston, Texas.\n\nIt's now MUCH larger and is shaped like a Starship rocket lol.\n\n\n\n\nRobotaxi (@robotaxi)\n\nHouston, we have liftoff \n\nBigger service area now live\n\n\n\n\n\n— https://nitter.kareem.one/robotaxi/status/2114713219411660978#m",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114713786720608407#m",
+      "date": "Mon, 26 Oct 2026 13:40:30 GMT",
+      "text_zh": "特斯拉刚刚正式扩大了其位于德克萨斯州休斯顿的机器人出租车地理围栏。\n\n它现在更大了，形状像星舰火箭哈哈。\n\n\n\n\n机器人出租车 (@robotaxi)\n\n休斯顿，我们起飞了 \n\n更大的服务区现已上线\n\n\n\n\n\n— https://nitter.kareem.one/robotaxi/status/2114713219411660978#m"
+    },
+    {
+      "text": "Car rental marketplace Turo is introducing the first verified @Tesla FSD (Supervised) rental experience for travelers in the U.S.\n\nStarting on October 28, Turo guests will be able to search, discover, and book Tesla vehicles with FSD (Supervised) activated, using direct API integration to verify FSD status.\n\nEligible Turo “hosts” who rent out their cars on the platform will also receive a free one-month trial of FSD. Turo said it is working with Tesla to directly access the automaker’s API to verify which cars have FSD enabled.\n\nCEO of Turo. \"Our own research shows that 55% of Americans are interested in driverless technology for travel, growing to 71% for Gen Z.\"",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114710002317353429#m",
+      "date": "Mon, 26 Oct 2026 13:25:28 GMT",
+      "text_zh": "汽车租赁市场 Turo 正在为美国旅行者推出首个经过验证的@Tesla FSD（监督）租赁体验。\n\n从 10 月 28 日开始，Turo 客人将能够搜索、发现和预订激活了 FSD（受监管）的 Tesla 车辆，使用直接 API 集成来验证 FSD 状态。\n\n在该平台上出租汽车的符合资格的 Turo“主人”还将获得为期一个月的 FSD 免费试用。 Turo 表示，它正在与特斯拉合作，直接访问该汽车制造商的 API，以验证哪些汽车启用了 FSD。\n\n图罗首席执行官。 “我们自己的研究表明，55% 的美国人对无人驾驶出行技术感兴趣，Z 世代的这一比例增长到 71%。”"
+    },
+    {
+      "text": "easyJet has just announced that it will be installing SpaceX's @Starlink on its fleet.\n\nInstallations will start in first half of 2027 across the airline’s modern A320, A320neo and A321neo fleet, with the rollout expected to be completed by early 2028.\n\n\"easyJet’s investment in onboard connectivity is a key step in further enhancing the experience for 100 million passengers who already choose to fly with the airline each year.\"\n\neasyJet CEO Kenton Jarvis:\n“Innovation is in easyJet’s DNA and partnering with SpaceX to bring Starlink’s high-speed internet connectivity onboard for the first time will not only further enhance the experience we provide millions of customers, but means we are offering more of the options both business and leisure travellers want when they choose who they fly with. Giving customers the opportunity to get online in the air will mean even greater choice and convenience when you fly with easyJet.\"",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114704574644629903#m",
+      "date": "Mon, 26 Oct 2026 13:03:54 GMT",
+      "text_zh": "easyJet 刚刚宣布将在其机队上安装 SpaceX 的 @Starlink。\n\n该航空公司的现代化 A320、A320neo 和 A321neo 机队将于 2027 年上半年开始安装，预计将于 2028 年初完成安装。\n\n“易捷航空对机上连接的投资是进一步提升每年选择乘坐该航空公司航班的 1 亿乘客体验的关键一步。”\n\n易捷航空首席执行官肯顿·贾维斯：\n“创新是易捷航空的基因，与 SpaceX 合作首次将 Starlink 的高速互联网连接带入机上，不仅将进一步增强我们为数百万客户提供的体验，而且意味着我们为商务和休闲旅客选择搭乘航班时提供更多选择。让客户有机会在空中上网将意味着乘坐易捷航空飞行时有更多选择和便利。”"
+    },
+    {
+      "text": "Filing: s21.q4cdn.com/184289198/file…",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114702319355056301#m",
+      "date": "Mon, 26 Oct 2026 12:54:56 GMT",
+      "text_zh": "备案：s21.q4cdn.com/184289198/file..."
+    },
+    {
+      "text": "SpaceX has officially announced that they have secured $40 billion in the largest GPU financing ever.\n\nThe company entered into a $40B master finance lease for GPUs and related equipment with an entity managed by Apollo Global Management. This lease will deliver the next generation of NVIDIA Vera Rubin chips for SpaceX's terrestrial compute buildout and is an important step in our plan to build a Super Intelligence future. It represents the largest committed GPU financing ever.\n\nSpaceX CFO Bret Johnsen:\n\"SpaceX aims to deploy the largest compute infrastructure in the world. As demand for compute continues to accelerate, we're seeing less than one year payback periods on our SI infrastructure investments. This lease diversifies our funding sources and addresses a notable portion of the funding required to deliver on our growth plans as we aim to get additional compute online at record speeds to power Grok for enterprises and consumers, as well as serve existing and future cloud services customers.\"\n\nTransaction Details:\nThe financing has been committed to by a number of financing parties led by Apollo and Goldman Sachs, who served as sole structuring agent. Entry into the lease remains subject to certain specified closing conditions and is expected to close prior to year-end 2026, with lease schedules expected to commence upon delivery of GPUs and related equipment in the first half of 2027.",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114702316397858864#m",
+      "date": "Mon, 26 Oct 2026 12:54:56 GMT",
+      "text_zh": "SpaceX 正式宣布获得 400 亿美元有史以来最大的 GPU 融资。\n\n该公司与 Apollo Global Management 管理的实体签订了 40B 美元的 GPU 及相关设备主融资租赁协议。此次租赁将为 SpaceX 的地面计算建设提供下一代 NVIDIA Vera Rubin 芯片，是我们构建超级智能未来计划的重要一步。这是迄今为止最大的 GPU 承诺融资。\n\nSpaceX 首席财务官布雷特·约翰森：\n“SpaceX 的目标是部署世界上最大的计算基础设施。随着对计算的需求持续加速，我们的 SI 基础设施投资回收期不到一年。这次租赁使我们的资金来源多样化，并解决了实现我们的增长计划所需的大部分资金，因为我们的目标是以创纪录的速度在线获取更多计算，为企业和消费者提供动力，为 Grok 提供动力，并为现有和未来的云服务客户提供服务。”\n\n交易详情：\n此次融资由阿波罗和高盛牵头的多家融资方承诺，高盛担任独家结构代理。签订租赁合同仍需满足某些特定的成交条件，预计将于 2026 年底前完成，租赁时间表预计将于 2027 年上半年交付 GPU 及相关设备后开始。"
+    },
+    {
+      "text": "Tesla FSD Supervised (now named Tesla Assisted Driving in Europe) has officially been approved in Latvia, marking the 10th European country.\n\nCountries in Europe that have approved it so far:\n• Belgium\n• Netherlands\n• Denmark\n• Lithuania\n• Estonia\n• Slovenia\n• Czechia\n• Croatia\n• Slovakia\n• Latvia\n\n\n\n\nTesla Europe, Middle East & Africa (@teslaeurope)\n\nNow approved in Latvia 🇱🇻\n\nRollout begins soon\n\n\n\n\n\n— https://nitter.kareem.one/teslaeurope/status/2114667445223149619#m",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114700495130354030#m",
+      "date": "Mon, 26 Oct 2026 12:47:41 GMT",
+      "text_zh": "Tesla FSD Supervised（现在欧洲称为特斯拉辅助驾驶）已在拉脱维亚正式获得批准，这是第 10 个欧洲国家。\n\n迄今为止已批准的欧洲国家：\n• 比利时\n• 荷兰\n• 丹麦\n• 立陶宛\n• 爱沙尼亚\n• 斯洛文尼亚\n• 捷克\n• 克罗地亚\n• 斯洛伐克\n• 拉脱维亚\n\n\n\n\n特斯拉欧洲、中东和非洲 (@teslaeurope)\n\n现已在拉脱维亚获得批准🇱🇻\n\n即将开始推出\n\n\n\n\n\n— https://nitter.kareem.one/teslaeurope/status/2114667445223149619#m"
+    },
+    {
+      "text": "A Storm of Cybercabs\n\n\nSawyer Merritt (@SawyerMerritt)\n\nWow, look at all these Tesla Cybercabs and Model Y Robotaxis heading back to base. This is the largest number of Tesla robotaxis ever seen together on public roads.\n\nTesla is nearing 1,000 robotaxis registered in Texas to date.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2114586009706938716#m",
+      "link": "https://nitter.kareem.one/aelluswamy/status/2114615001164157088#m",
+      "date": "Mon, 26 Oct 2026 07:07:58 GMT",
+      "text_zh": "网络出租车风暴\n\n\n索耶·梅里特（@SawyerMerritt）\n\n哇，看看所有这些特斯拉 Cybercabs 和 Model Y Robotaxis 返回基地。这是公共道路上出现的特斯拉机器人出租车数量最多的一次。\n\n迄今为止，特斯拉在德克萨斯州注册的机器人出租车已接近 1,000 辆。\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2114586009706938716#m"
+    },
+    {
+      "text": "Wow, look at all these Tesla Cybercabs and Model Y Robotaxis heading back to base. This is the largest number of Tesla robotaxis ever seen together on public roads.\n\nTesla is nearing 1,000 robotaxis registered in Texas to date.\n\nVideo",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114586009706938716#m",
+      "date": "Mon, 26 Oct 2026 05:12:46 GMT",
+      "text_zh": "哇，看看所有这些特斯拉 Cyber​​cabs 和 Model Y Robotaxis 返回基地。这是公共道路上出现的特斯拉机器人出租车数量最多的一次。\n\n迄今为止，特斯拉在德克萨斯州注册的机器人出租车已接近 1,000 辆。\n\n视频"
+    },
+    {
+      "text": "Canaccord Genuity analyst George Gianarikas says those who viewed @Tesla’s Q3 earnings call negatively are “flatly wrong.”\n\n\"The tea-leaf readers whispering about a 'subdued' tone on the call are flatly wrong, in our opinion. This was one of the most unapologetically bullish Tesla calls in many a moon.\n\nThink about it, on the call management said that:\n• EVs have their highest backlog in 4 years, with Musk adding that \"...we are producing and delivering as many cars as we can...\".\n• FSD attach rates surged to over 75% of new vehicle deliveries in North America (nearly a 20% QoQ increase), with active subscriptions reaching 1.74 million. Whoa.\n• High-volume manufacturing of Optimus is officially underway in Fremont, yielding the company’s first production-grade humanoid robots built on a standard assembly line.\n• Energy storage demand is \"very strong\" with Musk adding \"We're actually almost sold out of all Megapacks for 2027, and we're ramping production as quickly as possible to meet demand. We also expect gross margins on that to increase meaningfully.\"\n• Not to mention recent launches of the Cybercab, Tesla Semi, and Roadster (with the latter unlikely to be needle-moving).\n\nCall us biased, but between that conference call commentary and shiny new product drops, Tesla appears to be dripping with growth potential. Count us in.\"\n\nGeorge reiterated a $442 price target for $TSLA.",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114570347102044553#m",
+      "date": "Mon, 26 Oct 2026 04:10:32 GMT",
+      "text_zh": "Canaccord Genuity 分析师 George Gianarikas 表示，那些对特斯拉第三季度财报电话会议持负面看法的人“完全错误”。\n\n“在我们看来，那些小声谈论这次电话会议语气‘温和’的读者完全是错误的。这是多年来特斯拉最毫无歉意的看涨电话之一。\n\n想一想，在通话管理中是这样说的：\n• 电动汽车的积压量达到了 4 年来最高水平，马斯克补充道，“……我们正在尽可能多地生产和交付汽车……”。\n• FSD 附加率飙升至北美新车交付量的 75% 以上（环比增长近 20%），活跃订阅量达到 174 万辆。哇哦。\n• Optimus 的大批量生产已在弗里蒙特正式开始，生产出该公司首款基于标准装配线的生产级人形机器人。\n• 能源存储需求“非常强劲”，马斯克补充道，“实际上，我们 2027 年的所有 Megapack 几乎都卖完了，我们正在尽快提高产量以满足需求。我们还预计毛利率将大幅增加。”\n• 更不用说最近推出的 Cybercab、Tesla Semi 和 Roadster（后者不太可能引起轰动）。\n\n说我们有偏见，但在电话会议评论和闪亮的新产品发布之间，特斯拉似乎充满了增长潜力。算我们一个吧。”\n\n乔治重申 TSLA 的目标价为 442 美元。"
+    },
+    {
+      "text": "55 new Tesla Semi trucks spotted in Nevada.\n\nProduction seems to be going well!\n\n\n\n\n\n\nZanegler (@HinrichsZane)\n\nPrepare for the new wave of Tesla semis. \n@danWpriestley @tesla_semi\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/HinrichsZane/status/2114545643956138099#m",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114550411709542526#m",
+      "date": "Mon, 26 Oct 2026 02:51:19 GMT",
+      "text_zh": "在内华达州发现了 55 辆新型 Tesla Semi 卡车。\n\n生产似乎进展顺利！\n\n\n\n\n\n\n扎尼格勒（@HinrichsZane）\n\n为新一波特斯拉半挂车做好准备。 \n@danWpriestley @tesla_semi\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/HinrichsZane/status/2114545643956138099#m"
+    },
+    {
+      "text": "Source: instagram.com/p/De7hL9eEjHh/\n\nLink\n\n\n\nBeau Boeckmann (@beauboeckmann) • Instagram photos and videos\n\ninstagram.com",
+      "link": "https://nitter.kareem.one/SawyerMerritt/status/2114512227193536767#m",
+      "date": "Mon, 26 Oct 2026 00:19:35 GMT",
+      "text_zh": "来源：instagram.com/p/De7hL9eEjHh/\n\n链接\n\n\n\nBeau Boeckmann (@beauboeckmann) · Instagram 照片和视频\n\nInstagram.com"
+    },
     {
       "text": "New Starlink in flight Wi-Fi review:\n\n\"I was flying over the Sierra Nevada mountain range recently when I had a tech experience that left me enthralled. It also shows why I believe @elonmusk is the greatest technologist working today. Simply stated, I was blown away.\n\nInstead of playing a downloaded movie, I logged in to Netflix and couldn’t believe the quality of the streaming. So, I did what any broadband speed freak would do. I grabbed my Ookla app and tested the download speeds.\n\nIt came back at a blazing 408 megabits a second. That’s roughly 30% faster than the median speeds for U.S. households, the vast majority of which have hardwired connections.\n\nI bring up this example because I believe it speaks volumes about how Musk just keeps on transforming the world around us.\"\n\nIn fall 2027, Southwest Airlines expects to complete a fleetwide rollout of Starlink, becoming the first major airline to do so.",
       "link": "http://nitter.meowing.monster/SawyerMerritt/status/2114376221551157748#m",
