@@ -1,8 +1,266 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-27T15:14:46Z",
+  "updated_at": "2026-10-27T22:00:01Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "A raw walkaround of the new Tesla Roadster. Filmed in person at the Petersen Automotive Museum. https://t.co/121jwLxchF",
+      "link": "https://x.com/teslaownersSV/status/2115186883818815987",
+      "date": "Tue Oct 27 21:00:26 +0000 2026",
+      "tweet_id": "2115186883818815987",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2115186852462288896/pu/vid/avc1/720x1280/sOATNKvzmCLoB6aX.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2115186852462288896/pu/img/CQ2EZLRshdqMiYDu.jpg",
+          "local": "2115186883818815987_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2115186852462288896/pu/vid/avc1/720x1280/sOATNKvzmCLoB6aX.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2115186852462288896/pu/img/CQ2EZLRshdqMiYDu.jpg",
+          "local": "2115186883818815987_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新款特斯拉 Roadster 的原始预览。在彼得森汽车博物馆亲自拍摄。 https://t.co/121jwLxchF"
+    },
+    {
+      "text": "Tesla can now build 110 GWh of Megapacks a year.\n\nInstalled Megapack capacity, per Tesla's Q3 2026 Update:\nTexas: 50 GWh (Megafactory Texas just started production)\nCalifornia: 40 GWh\nShanghai: 20 GWh\n\nTesla deployed 50.2 GWh of storage over the last four quarters. The factories https://t.co/mIs9PjIQow",
+      "link": "https://x.com/teslaownersSV/status/2115169742784999740",
+      "date": "Tue Oct 27 19:52:19 +0000 2026",
+      "tweet_id": "2115169742784999740",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVqXq9oa8AEim8r.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVqXq9oa8AEim8r.jpg?format=jpg&name=large",
+          "local": "2115169742784999740_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVqXq9oa8AEim8r.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVqXq9oa8AEim8r.jpg?format=jpg&name=large",
+          "local": "2115169742784999740_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉现在每年可以生产 110 GWh 的 Megapack。\n\n根据特斯拉 2026 年第三季度更新，已安装的 Megapack 容量：\n德克萨斯州：50 GWh（德克萨斯州巨型工厂刚刚开始生产）\n加利福尼亚州：40 GWh\n上海：20吉瓦时\n\nTesla 在过去四个季度部署了 50.2 GWh 的存储。工厂 https://t.co/mIs9PjIQow"
+    },
+    {
+      "text": "RT @teslaownersSV: When you make the dopest Cybertruck display in the world at @thextakeover the Cybertruck district. Thanks to all who par…",
+      "link": "https://x.com/teslaownersSV/status/2115169572412407870",
+      "date": "Tue Oct 27 19:51:38 +0000 2026",
+      "tweet_id": "2115169572412407870",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：当你在 Cyber​​truck 区 @thextakeover 制作世界上最精彩的 Cyber​​truck 展示时。感谢所有..."
+    },
+    {
+      "text": "RT @maticrobots: Quiet just got 20% quieter\n\nIntroducing Matic Serene\n\nWe’ve reimagined our vacuum stack from the ground up to make Matic q…",
+      "link": "https://x.com/teslaownersSV/status/2115157857989706038",
+      "date": "Tue Oct 27 19:05:05 +0000 2026",
+      "tweet_id": "2115157857989706038",
+      "ctx_done": 1,
+      "text_zh": "RT @maticrobots：安静了 20%\n\nMatic Serene 简介\n\n我们从头开始重新设计了真空堆栈，使 Matic q..."
+    },
+    {
+      "text": "Quiet just got 20% quieter\n\nIntroducing Matic Serene\n\nWe’ve reimagined our vacuum stack from the ground up to make Matic quieter than ever https://t.co/zhhA5A1FsX",
+      "link": "https://x.com/maticrobots/status/2115157556251558074",
+      "date": "Tue Oct 27 19:03:53 +0000 2026",
+      "tweet_id": "2115157556251558074",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115157506062430208/vid/avc1/1920x1080/hhhwABEKFKp0BcaG.mp4",
+          "thumb": "https://pbs.twimg.com/media/HVqMi48aIAAaQpm.jpg",
+          "local": "2115157556251558074_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115157506062430208/vid/avc1/1920x1080/hhhwABEKFKp0BcaG.mp4",
+          "thumb": "https://pbs.twimg.com/media/HVqMi48aIAAaQpm.jpg",
+          "local": "2115157556251558074_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "安静程度降低了 20%\n\nMatic Serene 简介\n\n我们从头开始重新设计了真空堆栈，使 Matic 比以往更安静 https://t.co/zhhA5A1FsX"
+    },
+    {
+      "text": "544 Cybercabs just passed the Model Y in Tesla's Texas Robotaxi fleet\n\nCybercab 544. Model Y 507. Total 1,051 registered in Texas.\n\n\"I don't think there's any company in the world that can match our scale with autonomous vehicles as we continue to ramp... Come into Austin and https://t.co/yTiZq3qGDA",
+      "link": "https://x.com/teslaownersSV/status/2115156513643995568",
+      "date": "Tue Oct 27 18:59:45 +0000 2026",
+      "tweet_id": "2115156513643995568",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115156424854749184/vid/avc1/1920x1080/PDIfYwuMpOZzSNDN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115156424854749184/img/1eZb7Nr0NQ5Nub5W.jpg",
+          "local": "2115156513643995568_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115156424854749184/vid/avc1/1920x1080/PDIfYwuMpOZzSNDN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115156424854749184/img/1eZb7Nr0NQ5Nub5W.jpg",
+          "local": "2115156513643995568_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉德克萨斯州机器人出租车车队中的 544 辆 Cybercabs 刚刚超越 Model Y\n\nCybercab 544。Y 型 507。德克萨斯州总共注册了 1,051 辆。\n\n“随着我们不断发展，我认为世界上没有任何公司可以与我们的自动驾驶汽车规模相匹配......来到奥斯汀，https://t.co/yTiZq3qGDA"
+    },
+    {
+      "text": "When you make the dopest Cybertruck display in the world at @thextakeover the Cybertruck district. Thanks to all who participated \n\n@elonmusk @tesla @cybertruck @tesla_na https://t.co/e7DPXpXGaS",
+      "link": "https://x.com/teslaownersSV/status/2115151966536114335",
+      "date": "Tue Oct 27 18:41:41 +0000 2026",
+      "tweet_id": "2115151966536114335",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115151847283736576/vid/avc1/2160x3840/a2cgoRV6rsiJdUYf.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115151847283736576/img/n7FZ6OWsBX44iYA0.jpg",
+          "local": "2115151966536114335_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115151847283736576/vid/avc1/2160x3840/a2cgoRV6rsiJdUYf.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115151847283736576/img/n7FZ6OWsBX44iYA0.jpg",
+          "local": "2115151966536114335_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "当您在@thextakeover Cyber​​truck 区制作世界上最精彩的 Cyber​​truck 展示时。感谢所有参与的人 \n\n@elonmusk @tesla @cybertruck @tesla_na https://t.co/e7DPXpXGaS"
+    },
+    {
+      "text": "The Cybercab just passed the Model Y in Tesla's Texas Robotaxi fleet.\nCybercab: 544 Model Y: 507 Total: 1,051\n81 Cybercabs added since Oct 25. The car with no steering wheel and no pedals is now the majority of the fleet. https://t.co/rdS9fjdgc4",
+      "link": "https://x.com/teslaownersSV/status/2115146820636782654",
+      "date": "Tue Oct 27 18:21:14 +0000 2026",
+      "tweet_id": "2115146820636782654",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVqC0ubawAAQuR-.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVqC0ubawAAQuR-.jpg?format=jpg&name=large",
+          "local": "2115146820636782654_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVqC0ubawAAQuR-.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVqC0ubawAAQuR-.jpg?format=jpg&name=large",
+          "local": "2115146820636782654_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Cyber​​cab 刚刚超过了特斯拉德克萨斯州 Robotaxi 车队中的 Model Y。\nCybercab：544Y 型：507 总计：1,051\n自 10 月 25 日以来，新增了 81 辆网约车。现在，没有方向盘、没有踏板的汽车占了车队的大多数。 https://t.co/rdS9fjdgc4"
+    },
+    {
+      "text": "United Airlines CEO Scott Kirby on Starlink:\n\"We're only gonna do like 65% of our fleet... and once we put it on the first aircraft... I'm talking to people like, I'm switching to flying a regional flight because it's got Starlink.\"\n\"Then we put the pedal to the metal and SpaceX https://t.co/sO7gU0ZpHi",
+      "link": "https://x.com/teslaownersSV/status/2115112646618095721",
+      "date": "Tue Oct 27 16:05:26 +0000 2026",
+      "tweet_id": "2115112646618095721",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115112619950718976/vid/avc1/1920x1080/1ZcZVZWFBa0afb5h.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115112619950718976/img/y6uGw9ECLj0f-9IJ.jpg",
+          "local": "2115112646618095721_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115112619950718976/vid/avc1/1920x1080/1ZcZVZWFBa0afb5h.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115112619950718976/img/y6uGw9ECLj0f-9IJ.jpg",
+          "local": "2115112646618095721_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "联合航空首席执行官斯科特·柯比 (Scott Kirby) 在星链上表示：\n“我们只会为我们机队的 65% 做准备……一旦我们把它安装在第一架飞机上……我会和人们说，我将改飞支线航班，因为它有星链。”\n“然后我们猛踩油门，SpaceX https://t.co/sO7gU0ZpHi"
+    },
+    {
+      "text": "United Airlines CEO Scott Kirby on Delta skipping Starlink:\n\"It was a mistake.\"\n\"I think it's the biggest competitive advantage... we are gonna have a few years of being the only airline that has it at scale.\" https://t.co/qUxRIM7Pz2",
+      "link": "https://x.com/teslaownersSV/status/2115112493584675280",
+      "date": "Tue Oct 27 16:04:50 +0000 2026",
+      "tweet_id": "2115112493584675280",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115112466753671168/vid/avc1/1920x1080/OVEQggpJLJN9CXfC.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115112466753671168/img/lDq6jERq7aJcoKJ8.jpg",
+          "local": "2115112493584675280_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115112466753671168/vid/avc1/1920x1080/OVEQggpJLJN9CXfC.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115112466753671168/img/lDq6jERq7aJcoKJ8.jpg",
+          "local": "2115112493584675280_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "联合航空首席执行官斯科特·柯比谈达美航空跳过星链：\n“这是一个错误。”\n“我认为这是最大的竞争优势......我们将在几年内成为唯一一家拥有规模化优势的航空公司。” https://t.co/qUxRIM7Pz2"
+    },
+    {
+      "text": "Anthropic’s IPO filing reveals up to $120.5B in compute commitments to SpaceXAI through 2029.\n\n•⁠  ⁠The deal provides access to NVIDIA GPUs in SpaceX data centers.\n•⁠  ⁠Payments could reach $3.1B per month once full capacity comes online in December 2026.\n•⁠  ⁠The https://t.co/QQ9sc8kWfz",
+      "link": "https://x.com/teslaownersSV/status/2115103963410530717",
+      "date": "Tue Oct 27 15:30:56 +0000 2026",
+      "tweet_id": "2115103963410530717",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVpb1GTaUAAMhUm.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVpb1GTaUAAMhUm.jpg?format=jpg&name=large",
+          "local": "2115103963410530717_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVpb1GTaUAAMhUm.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVpb1GTaUAAMhUm.jpg?format=jpg&name=large",
+          "local": "2115103963410530717_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Anthropic 的 IPO 文件显示，到 2029 年，对 SpaceXAI 的计算承诺高达 120.5B 美元。\n\n•⁠ ⁠该交易允许使用 SpaceX 数据中心的 NVIDIA GPU。\n•⁠ ⁠一旦 2026 年 12 月满负荷上线，每月付款额可能达到 3.1B 美元。\n•⁠ ⁠https://t.co/QQ9sc8kWfz"
+    },
+    {
+      "text": "Tesla says FSD Supervised vehicles now travel 6M miles between major collisions.\n\n•⁠  ⁠That’s roughly 9× the U.S. average of 660K miles.\n•⁠  ⁠Tesla’s data also shows 7× fewer minor collisions.\n•⁠  ⁠Off-highway incidents are reportedly 6× lower.\n•⁠  ⁠The comparison https://t.co/jFV8YqtMyI",
+      "link": "https://x.com/teslaownersSV/status/2115102473128128600",
+      "date": "Tue Oct 27 15:25:00 +0000 2026",
+      "tweet_id": "2115102473128128600",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVpaeUqboAAHTVp.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVpaeUqboAAHTVp.jpg?format=jpg&name=large",
+          "local": "2115102473128128600_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVpaeUqboAAHTVp.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVpaeUqboAAHTVp.jpg?format=jpg&name=large",
+          "local": "2115102473128128600_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉表示，FSD 监管的车辆现在在重大碰撞之间行驶了 600 万英里。\n\n•⁠ ⁠这大约是美国平均 66 万英里的 9 倍。\n•⁠ ⁠特斯拉的数据还显示，轻微碰撞事故减少了 7 倍。\n据报道，非公路事故减少了六倍。\n•⁠ ⁠比较 https://t.co/jFV8YqtMyI"
+    },
+    {
+      "text": "United Airlines will make Los Angeles its first hub with Starlink on 100% of flights, sometime in the first half of 2027.\n\nCEO Scott Kirby on Cheeky Pint, out today:\n\n48% of United flights have Starlink now, and it hits 50% within a week.\nAbout 3 more planes get Starlink every https://t.co/kNdCB3mxjq",
+      "link": "https://x.com/teslaownersSV/status/2115101037275283771",
+      "date": "Tue Oct 27 15:19:18 +0000 2026",
+      "tweet_id": "2115101037275283771",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVpZKyTaMAAzb2c.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVpZKyTaMAAzb2c.jpg?format=jpg&name=large",
+          "local": "2115101037275283771_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVpZKyTaMAAzb2c.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVpZKyTaMAAzb2c.jpg?format=jpg&name=large",
+          "local": "2115101037275283771_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "美国联合航空 (United Airlines) 将于 2027 年上半年的某个时间，将洛杉矶打造成为 100% 航班均采用星链技术的首个枢纽。\n\n首席执行官 Scott Kirby 在 Cheeky Pint 上今天发布：\n\n目前，48% 的美联航航班配备了星链网络，一周内这一数字将达到 50%。\n每隔大约 3 架飞机获得星链 https://t.co/kNdCB3mxjq"
+    },
     {
       "text": "We need these @ElonMusk \n\nCan we make them happen? \n\nSome @Grok and @Bot merch ideas! https://t.co/3ZSM6xaJAZ",
       "link": "https://x.com/teslaownersSV/status/2115091467106693150",
@@ -1315,7 +1573,8 @@
           "local": "2114549572467106119_1.jpg"
         }
       ],
-      "text_zh": "小𝕏的两句智慧之言 https://t.co/qfWlfXLRcJ"
+      "text_zh": "小𝕏的两句智慧之言 https://t.co/qfWlfXLRcJ",
+      "ctx_done": 1
     },
     {
       "text": "Do you support @elonmusk ? https://t.co/z9ck9MIfn8",
@@ -1336,14 +1595,16 @@
           "local": "2114549119188615185_1.jpg"
         }
       ],
-      "text_zh": "你支持@elonmusk吗？ https://t.co/z9ck9MIfn8"
+      "text_zh": "你支持@elonmusk吗？ https://t.co/z9ck9MIfn8",
+      "ctx_done": 1
     },
     {
       "text": "RT @Teslalightshows: The XLightShows HALLOWEEN SPECIAL @Tesla Light Show in all it's SPOOKTACULAR GLORY 🎃👻💀\n\nThank you to EVERYONE who came…",
       "link": "https://x.com/teslaownersSV/status/2114548991262339309",
       "date": "Mon Oct 26 02:45:40 +0000 2026",
       "tweet_id": "2114548991262339309",
-      "text_zh": "RT @Teslalightshows：XLightShows 万圣节特别@Tesla Light Show 充满了恐怖的荣耀🎃👻💀\n\n感谢大家的到来……"
+      "text_zh": "RT @Teslalightshows：XLightShows 万圣节特别@Tesla Light Show 充满了恐怖的荣耀🎃👻💀\n\n感谢大家的到来……",
+      "ctx_done": 1
     },
     {
       "text": "RT @TheCaptainEli: We Support Elon Musk.\nDay #600\n\nFrom France https://t.co/cY7tewZRWw",
@@ -1364,7 +1625,8 @@
           "local": "2114547782367527332_1.jpg"
         }
       ],
-      "text_zh": "RT @TheCaptainEli：我们支持埃隆·马斯克。\n第 600 天\n\n来自法国 https://t.co/cY7tewZRWw"
+      "text_zh": "RT @TheCaptainEli：我们支持埃隆·马斯克。\n第 600 天\n\n来自法国 https://t.co/cY7tewZRWw",
+      "ctx_done": 1
     },
     {
       "text": "Elon Musk on how close Starship is to flying like an airliner\n\"Starship is 2 to 3 years away from hourly flights\" @elonmusk\nThe Super Heavy booster for Flight 15 just finished its full-duration 33-engine static fire\nVideo: @SpaceX https://t.co/gkXEPXQtef",
@@ -1385,35 +1647,88 @@
           "local": "2114537669212717537_1.jpg"
         }
       ],
-      "text_zh": "埃隆·马斯克谈星际飞船离像客机一样飞行有多近\n“Starship 距离每小时飞行还有 2 到 3 年的时间”@elonmusk\n15 号航班的超重型助推器刚刚完成了 33 引擎的全程静态点火\n视频：@SpaceX https://t.co/gkXEPXQtef"
+      "text_zh": "埃隆·马斯克谈星际飞船离像客机一样飞行有多近\n“Starship 距离每小时飞行还有 2 到 3 年的时间”@elonmusk\n15 号航班的超重型助推器刚刚完成了 33 引擎的全程静态点火\n视频：@SpaceX https://t.co/gkXEPXQtef",
+      "ctx_done": 1
     },
     {
       "text": "RT @RetiredYoungNW: Please lift up John and Evelyn.  Prayer is powerful.",
       "link": "https://x.com/teslaownersSV/status/2114536612063526922",
       "date": "Mon Oct 26 01:56:29 +0000 2026",
       "tweet_id": "2114536612063526922",
-      "text_zh": "RT @RetiredYoungNW：请举起约翰和伊芙琳。  祈祷是有力量的。"
+      "text_zh": "RT @RetiredYoungNW：请举起约翰和伊芙琳。  祈祷是有力量的。",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "local": "2114536612063526922q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "RT @Captn_Hype: John: sending positive energy for your wife &amp; family. All best wishes from Germany…. ❤️❤️❤️❤️❤️❤️",
       "link": "https://x.com/teslaownersSV/status/2114536597169590284",
       "date": "Mon Oct 26 01:56:25 +0000 2026",
       "tweet_id": "2114536597169590284",
-      "text_zh": "RT @Captn_Hype：约翰：为你的妻子和家人传递正能量。来自德国的所有最美好的祝愿…… ❤️❤️❤️❤️❤️❤️"
+      "text_zh": "RT @Captn_Hype：约翰：为你的妻子和家人传递正能量。来自德国的所有最美好的祝愿…… ❤️❤️❤️❤️❤️❤️",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "local": "2114536597169590284q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "RT @JoNationLive: I have been praying for Evelyn and her family. If you pray, please lift them up to God for mercy and healing for Evelyn.…",
       "link": "https://x.com/teslaownersSV/status/2114536530425618535",
       "date": "Mon Oct 26 01:56:09 +0000 2026",
       "tweet_id": "2114536530425618535",
-      "text_zh": "RT @JoNationLive：我一直在为伊芙琳和她的家人祈祷。如果你祈祷，请把他们举到上帝面前，祈求上帝怜悯并医治伊芙琳……"
+      "text_zh": "RT @JoNationLive：我一直在为伊芙琳和她的家人祈祷。如果你祈祷，请把他们举到上帝面前，祈求上帝怜悯并医治伊芙琳……",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "local": "2114536530425618535q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "RT @Smokehbear: Thoughts with your family. Strength to fight 🫂\nLove from my family to yours.",
       "link": "https://x.com/teslaownersSV/status/2114536476029731163",
       "date": "Mon Oct 26 01:55:56 +0000 2026",
       "tweet_id": "2114536476029731163",
-      "text_zh": "RT @Smokehbear：与你的家人一起思考。战斗力🫂\n我的家人对你的爱。"
+      "text_zh": "RT @Smokehbear：与你的家人一起思考。战斗力🫂\n我的家人对你的爱。",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
+            "local": "2114536476029731163q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "#NewProfilePic https://t.co/nFouQhU8G8",
@@ -1434,14 +1749,16 @@
           "local": "2114535947794870615_1.jpg"
         }
       ],
-      "text_zh": "#NewProfilePic https://t.co/nFouQhU8G8"
+      "text_zh": "#NewProfilePic https://t.co/nFouQhU8G8",
+      "ctx_done": 1
     },
     {
       "text": "RT @teslaownersSV: When the @thextakeover comes to giga Texas this is the impact. It’s absolutely insane to see the @tesla community come.…",
       "link": "https://x.com/teslaownersSV/status/2114530633846550998",
       "date": "Mon Oct 26 01:32:43 +0000 2026",
       "tweet_id": "2114530633846550998",
-      "text_zh": "RT @teslaownersSV：当@thextakeover 来到千兆德克萨斯州时，这就是影响。看到@tesla 社区的到来真是太疯狂了……"
+      "text_zh": "RT @teslaownersSV：当@thextakeover 来到千兆德克萨斯州时，这就是影响。看到@tesla 社区的到来真是太疯狂了……",
+      "ctx_done": 1
     },
     {
       "text": "When the @thextakeover comes to giga Texas this is the impact. It’s absolutely insane to see the @tesla community come. https://t.co/X60zIXmUsw",
@@ -1462,7 +1779,8 @@
           "local": "2114527090385314096_1.jpg"
         }
       ],
-      "text_zh": "当 @thextakeover 来到德克萨斯州时，这就是影响。看到@tesla 社区的到来真是太疯狂了。 https://t.co/X60zIXmUsw"
+      "text_zh": "当 @thextakeover 来到德克萨斯州时，这就是影响。看到@tesla 社区的到来真是太疯狂了。 https://t.co/X60zIXmUsw",
+      "ctx_done": 1
     },
     {
       "text": "Elon Musk, Seattle, January 16, 2015:\n\"In the long term, it will be like rebuilding the Internet, in space.\"\nHe also said people \"stuck with Time Warner or Comcast\" would finally get another option.\nBack then it was a slide and a promise. Today airlines are putting it on their https://t.co/Wh5sVrB5a6",
@@ -1483,7 +1801,12 @@
           "local": "2114517225818538143_1.jpg"
         }
       ],
-      "text_zh": "埃隆·马斯克，西雅图，2015 年 1 月 16 日：\n“从长远来看，这就像在太空中重建互联网一样。”\n他还表示，“坚持使用时代华纳或康卡斯特”的人们最终将获得另一种选择。\n那时，这只是一张幻灯片和一个承诺。今天，航空公司将其放在他们的 https://t.co/Wh5sVrB5a6 上"
+      "text_zh": "埃隆·马斯克，西雅图，2015 年 1 月 16 日：\n“从长远来看，这就像在太空中重建互联网一样。”\n他还表示，“坚持使用时代华纳或康卡斯特”的人们最终将获得另一种选择。\n那时，这只是一张幻灯片和一个承诺。今天，航空公司将其放在他们的 https://t.co/Wh5sVrB5a6 上",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "A cunning move by Aer Lingus 😉"
+      },
+      "ctx_done": 1
     },
     {
       "text": "In 2016, Tesla made a bet nobody else would make: put self-driving hardware in every car first, and let software catch up.\nThat is why a car you already own can get smarter overnight with an update.\nTen years later, Cybercabs are picking up riders at the U.S. Grand Prix in https://t.co/QUZTGvUYe4",
@@ -1504,14 +1827,16 @@
           "local": "2114516988571898149_1.jpg"
         }
       ],
-      "text_zh": "2016 年，特斯拉下了一个别人不敢下的赌注：首先在每辆汽车中配备自动驾驶硬件，然后让软件迎头赶上。\n这就是为什么您已经拥有的汽车可以通过更新一夜之间变得更加智能。\n十年后，Cyber​​cabs 在美国大奖赛上搭载乘客 https://t.co/QUZTGvUYe4"
+      "text_zh": "2016 年，特斯拉下了一个别人不敢下的赌注：首先在每辆汽车中配备自动驾驶硬件，然后让软件迎头赶上。\n这就是为什么您已经拥有的汽车可以通过更新一夜之间变得更加智能。\n十年后，Cyber​​cabs 在美国大奖赛上搭载乘客 https://t.co/QUZTGvUYe4",
+      "ctx_done": 1
     },
     {
       "text": "RT @Amy787: FINAL CALL! One hour to GO. Join in now - or forever miss out.\n\nTHE STATS: In just TWO DAYS -\nThe Tesla Shareholder Letter in s…",
       "link": "https://x.com/teslaownersSV/status/2114516733944017157",
       "date": "Mon Oct 26 00:37:29 +0000 2026",
       "tweet_id": "2114516733944017157",
-      "text_zh": "RT @Amy787：最后的决定！距离出发还有一小时。立即加入 - 否则将永远错过。\n\n统计数据：在短短两天内 -\n特斯拉股东信..."
+      "text_zh": "RT @Amy787：最后的决定！距离出发还有一小时。立即加入 - 否则将永远错过。\n\n统计数据：在短短两天内 -\n特斯拉股东信...",
+      "ctx_done": 1
     },
     {
       "text": "This is who runs this account https://t.co/Xs1QqQSHPs",
@@ -1532,7 +1857,20 @@
           "local": "2114516126633730471_1.jpg"
         }
       ],
-      "text_zh": "这是运行此帐户的人 https://t.co/Xs1QqQSHPs"
+      "text_zh": "这是运行此帐户的人 https://t.co/Xs1QqQSHPs",
+      "quoted": {
+        "user": "Chesschick01",
+        "text": "This is who runs this account",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVhB5etXAAAquCa.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVhB5etXAAAquCa.jpg?name=orig",
+            "local": "2114516126633730471q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "FINAL CALL! One hour to GO. Join in now - or forever miss out.\n\nTHE STATS: In just TWO DAYS -\nThe Tesla Shareholder Letter in support of a $TSLA/ $SPCX merger represents:\n\n♦️25.7 Million Shares\n♦️9.6 Billion Dollars (almost 10x Ark)\n♦️Over 9500 Signers\n\nWHICH IS BETTER - Telling https://t.co/8NdGnuzSba",
@@ -1577,7 +1915,8 @@
           "local": "2114509073785688380_5.jpg"
         }
       ],
-      "text_zh": "最后决定！距离出发还有一小时。立即加入 - 否则将永远错过。\n\n统计数据：在短短两天内 -\n支持 $TSLA/$SPCX 合并的特斯拉股东信函表示：\n\n️2570万股\n️96亿美元（几乎是方舟的10倍）\n️超过9500名签名者\n\n哪个更好 - 告诉 https://t.co/8NdGnuzSba"
+      "text_zh": "最后决定！距离出发还有一小时。立即加入 - 否则将永远错过。\n\n统计数据：在短短两天内 -\n支持 $TSLA/$SPCX 合并的特斯拉股东信函表示：\n\n️2570万股\n️96亿美元（几乎是方舟的10倍）\n️超过9500名签名者\n\n哪个更好 - 告诉 https://t.co/8NdGnuzSba",
+      "ctx_done": 1
     },
     {
       "text": "A Robotaxi from COTA (F1 race track) back to downtown Austin costs about $76/$78 ($4 per mile) right now vs over $112 (~$6 per mile) for Uber. https://t.co/HS3EswMawI",
@@ -3149,237 +3488,6 @@
       "date": "Sat Oct 24 04:49:41 +0000 2026",
       "tweet_id": "2113855426475504026",
       "text_zh": "看着键盘侠撞向真正正在建造的人是很有趣的。\n\n他们会尖叫着这是多么不可能，时间线是谎言，整个事情是一个骗局……然后事情就发生了，它起作用了，然后他们就消失了。没有道歉。没有更新。 \n\n不，“我错了。”刚刚走了。\n\n建设者继续建设。\n\n批评者不断消失。\n互联网上充满了曾经有很多话要说的幽灵。"
-    },
-    {
-      "text": "Cybercab's Chief Engineer stood on a downtown street corner for five hours watching hundreds of people get into Cybercabs, then left with a list of everything to improve.\n\nTesla Cybercab Chief Engineer Eric Earley @EricETesla at X Takeover 2026, Giga Texas.\n\n@theXtakeover https://t.co/KVF6eVOSwI",
-      "link": "https://x.com/teslaownersSV/status/2113854351488016896",
-      "date": "Sat Oct 24 04:45:25 +0000 2026",
-      "tweet_id": "2113854351488016896",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113854320852803585/vid/avc1/1080x1920/RW4nNxfSkLUfUhqY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854320852803585/img/Xw10dDaG6jT85t6E.jpg",
-          "local": "2113854351488016896_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113854320852803585/vid/avc1/1080x1920/RW4nNxfSkLUfUhqY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854320852803585/img/Xw10dDaG6jT85t6E.jpg",
-          "local": "2113854351488016896_1.jpg"
-        }
-      ],
-      "text_zh": "Cyber​​cab 的首席工程师在市中心的街角站了五个小时，看着数百人进入 Cyber​​cab，然后留下了一份需要改进的清单。\n\nTesla Cyber​​cab 首席工程师 Eric Earley @EricETesla 在 X Takeover 2026，Giga Texas。\n\n@theXtakeover\n\n视频"
-    },
-    {
-      "text": "RT @teslaownersSV: President Trump on @elonmusk , plain and simple:\n\"He's a very brilliant person or Starlink wouldn't exist. But Elon will…",
-      "link": "https://x.com/teslaownersSV/status/2113854350191886559",
-      "date": "Sat Oct 24 04:45:25 +0000 2026",
-      "tweet_id": "2113854350191886559",
-      "text_zh": "RT @teslaownersSV：特朗普总统在 @elonmusk 上，简单明了：\n“他是一个非常聪明的人，否则星链就不会存在。但埃隆会……"
-    },
-    {
-      "text": "Elon Musk on the Tesla and SpaceX merger question, closing Tesla's Q3 earnings call:\n\n\"With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday.\n\nTap dancing through a minefield there. And yeah, that's it.\n\nIn conclusion, we're super https://t.co/z7WoZ8WAwn",
-      "link": "https://x.com/teslaownersSV/status/2113854147502002502",
-      "date": "Sat Oct 24 04:44:36 +0000 2026",
-      "tweet_id": "2113854147502002502",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113854124093820928/vid/avc1/1920x1080/-sQc2gFdZTONuJPE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854124093820928/img/EjdmOk0CMVXU71xz.jpg",
-          "local": "2113854147502002502_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113854124093820928/vid/avc1/1920x1080/-sQc2gFdZTONuJPE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113854124093820928/img/EjdmOk0CMVXU71xz.jpg",
-          "local": "2113854147502002502_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克 (Elon Musk) 在特斯拉第三季度财报电话会议结束时谈到了特斯拉和 SpaceX 的合并问题：\n\n“关于与 SpaceX 的潜在合并，我想我昨天已经说了该说的一切。\n\n踢踏舞穿过那里的雷区。是的，就是这样。\n\n总之，我们对我们的自主和机器人路线图感到非常兴奋。有很多令人难以置信的很棒的东西即将到来。\n我想再次感谢特斯拉团队的强大执行力，以及我们所有的支持者加入我们的这段旅程。”\n\n他在前一天的 SpaceX 电话会议上阐述了这一点：两家公司的特别委员会正在研究它，目前还没有任何条款。\n\n@埃隆马斯克\n\n视频"
-    },
-    {
-      "text": "News Young Americans have almost stopped getting married.\n\nIn 1960, 59% of Americans aged 18 to 29 were married. In 2024, just 16% were.\nMarried couples are still where most first births happen (62% of first births in 2022 to 2024 were to married women). \n\nFewer marriages in the https://t.co/8CoorctEFh",
-      "link": "https://x.com/teslaownersSV/status/2113840397554487303",
-      "date": "Sat Oct 24 03:49:58 +0000 2026",
-      "tweet_id": "2113840397554487303",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVXeo5ya0AE2q38.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVXeo5ya0AE2q38.jpg?format=jpg&name=large",
-          "local": "2113840397554487303_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVXeo5ya0AE2q38.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVXeo5ya0AE2q38.jpg?format=jpg&name=large",
-          "local": "2113840397554487303_1.jpg"
-        }
-      ],
-      "text_zh": "新闻美国年轻人几乎不再结婚了。\n\n1960年，18岁至29岁的美国人中有59%已婚。到 2024 年，这一比例仅为 16%。\n已婚夫妇仍然是大多数第一胎出生的地方（2022 年至 2024 年，62% 的第一胎是已婚女性）。 \n\nhttps://t.co/8CoorctEFh 的婚姻较少"
-    },
-    {
-      "text": "Elon Musk on Grok Bot:\n\n\"Grok @Bot is an incredible life &amp; business manager. Can help you with almost anything! Like having a genius employee.\" - @elonmusk\n\nIt now runs Calendar, Reminders and Contacts right on your phone, and keeps your logins and cards in a secure vault. https://t.co/Sp4GDEVcLu",
-      "link": "https://x.com/teslaownersSV/status/2113833613171228784",
-      "date": "Sat Oct 24 03:23:01 +0000 2026",
-      "tweet_id": "2113833613171228784",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVXYd_3bgAAWvKt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVXYd_3bgAAWvKt.jpg?format=jpg&name=large",
-          "local": "2113833613171228784_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVXYd_3bgAAWvKt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVXYd_3bgAAWvKt.jpg?format=jpg&name=large",
-          "local": "2113833613171228784_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈 Grok Bot：\n\n“Grok @Bot 是一位令人难以置信的生活和业务经理。几乎可以为您提供任何帮助！就像拥有一位天才员工一样。” - @elonmusk\n\n现在，它可以直接在您的手机上运行日历、提醒和联系人，并将您的登录信息和卡片保存在安全的保管库中。 https://t.co/Sp4GDEVcLu"
-    },
-    {
-      "text": "Me parking in 2028 https://t.co/qVkuADPylQ",
-      "link": "https://x.com/teslaownersSV/status/2113811026877853819",
-      "date": "Sat Oct 24 01:53:16 +0000 2026",
-      "tweet_id": "2113811026877853819",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113811015469268993/vid/avc1/720x1560/jn4n5NY7AOdoCbom.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113811015469268993/img/3LRX-lXqIwUUHWLO.jpg",
-          "local": "2113811026877853819_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113811015469268993/vid/avc1/720x1560/jn4n5NY7AOdoCbom.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113811015469268993/img/3LRX-lXqIwUUHWLO.jpg",
-          "local": "2113811026877853819_1.jpg"
-        }
-      ],
-      "text_zh": "2028 年我停车 https://t.co/qVkuADPylQ"
-    },
-    {
-      "text": "I support Elon Musk",
-      "link": "https://x.com/Rothmus/status/2113804524284506563",
-      "date": "Sat Oct 24 01:27:25 +0000 2026",
-      "tweet_id": "2113804524284506563",
-      "text_zh": "我支持埃隆·马斯克"
-    },
-    {
-      "text": "Elon Musk on why California and New York make voter fraud impossible to prove.\n\n\"California and New York have made it illegal to show your photo ID when voting. Thus, effectively, they've made it impossible to prove fraud. Impossible. They've essentially legalized fraudulent voting in California and New York and many other parts of the country.\"\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113799777083343041#m",
-      "date": "Sat, 24 Oct 2026 01:08:34 GMT",
-      "tweet_id": "2113799777083343041",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113799744741081088/vid/avc1/1280x720/uY9uZcqD3C8bqM9X.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113799744741081088/img/oPtd2jcd3Ec_gI21.jpg",
-          "local": "2113799777083343041_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113799744741081088/vid/avc1/1280x720/uY9uZcqD3C8bqM9X.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113799744741081088/img/oPtd2jcd3Ec_gI21.jpg",
-          "local": "2113799777083343041_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克（Elon Musk）解释了为什么加州和纽约无法证明选民欺诈。\n\n“加利福尼亚州和纽约州规定投票时出示带照片的身份证件是非法的。因此，实际上，他们使证明欺诈行为变得不可能。不可能。他们基本上已经将欺诈行为合法化了 https://t.co/BTi2243rsh"
-    },
-    {
-      "text": "RT @NeuraPod: Nick Wray, the 8th person in the world with a Neuralink implant has passed away due to ALS.\n\nFor the time I knew him, he carr…",
-      "link": "https://x.com/teslaownersSV/status/2113798158396641670",
-      "date": "Sat Oct 24 01:02:08 +0000 2026",
-      "tweet_id": "2113798158396641670",
-      "text_zh": "RT @NeuraPod：Nick Wray，世界上第 8 个植入 Neuralink 的人，因 ALS 去世。\n\n当我认识他的时候，他..."
-    },
-    {
-      "text": "President Trump on @elonmusk , plain and simple:\n\"He's a very brilliant person or Starlink wouldn't exist. But Elon will never do anything wrong. I know him very well. He's a fair person.\" https://t.co/n6zWwCHpVA",
-      "link": "https://x.com/teslaownersSV/status/2113797964540027124",
-      "date": "Sat Oct 24 01:01:21 +0000 2026",
-      "tweet_id": "2113797964540027124",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113797936195031040/vid/avc1/1920x1080/2UPkZQE1KDQMT9mR.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113797936195031040/img/-GWaODIdy1nNBJPe.jpg",
-          "local": "2113797964540027124_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113797936195031040/vid/avc1/1920x1080/2UPkZQE1KDQMT9mR.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113797936195031040/img/-GWaODIdy1nNBJPe.jpg",
-          "local": "2113797964540027124_1.jpg"
-        }
-      ],
-      "text_zh": "特朗普总统在 @elonmusk 上简单明了：\n“他是一个非常聪明的人，否则星链就不会存在。但埃隆永远不会做任何错事。我很了解他。他是一个公平的人。” https://t.co/n6zWwCHpVA"
-    },
-    {
-      "text": "Nick Wray, the 8th person in the world with a Neuralink implant has passed away due to ALS.\n\nFor the time I knew him, he carried an optimistic energy that helped pick others up.\n\nOne of his go-to sayings was: \"Be good, do good. 😎\"\n\nIn support of his family and friends, we can all choose to live by that message every day.\n\nMore information can be found in the link in Audrey's post:\n\n\n\n\nAudrey Crews (@NeuraNova9)\n\nSaddened to learn about the passing of Nicholas \"Nick\" Wray. Here is his funeral information for anyone who is interested: everloved.com/life-of/nichol…\n\n\n\n— https://nitter.kareem.one/NeuraNova9/status/2113790039352041536#m",
-      "link": "https://nitter.kareem.one/NeuraPod/status/2113793718360969371#m",
-      "date": "Sat, 24 Oct 2026 00:44:29 GMT",
-      "tweet_id": "2113793718360969371",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVW0Lvsa8AAfoxy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVW0Lvsa8AAfoxy.jpg?format=jpg&name=large",
-          "local": "2113793718360969371_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVW0Lvsa8AAfoxy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVW0Lvsa8AAfoxy.jpg?format=jpg&name=large",
-          "local": "2113793718360969371_1.jpg"
-        }
-      ],
-      "text_zh": "尼克·雷 (Nick Wray) 是世界上第八位接受 Neuralink 植入的人，他因 ALS 去世。\n\n在我认识他的时候，他身上充满了乐观的能量，可以帮助别人振作起来。\n\n他的口头禅之一是：“做好人，做好事。😎”\n\n为了支持他的家人和朋友，我们可以 https://t.co/AW9aEIzHuz"
-    },
-    {
-      "text": ".@elonmusk says he's in Memphis \"often four days a week, night and day\" getting the supercompute clusters behind Grok online.\nIt shows. SpaceX SI ended Q3 with 1.7 GW of compute, up from 0.6 GW a year ago, and SI revenue hit $7.6B, up 830% year over year.\nAnd Elon on the Q3 call: \"We're also planning to have the most powerful training cluster online by the end of Q2.\"\nMeanwhile Grok Bot keeps shipping. In the last 10 days it got 3x faster on computer tasks, learned to use your phone's apps, and can now save your logins. Grok Voice 3.0 resolves 70% of Starlink support calls on its own.\n\nVideo",
-      "link": "https://nitter.kareem.one/teslaownersSV/status/2113789847290933394#m",
-      "date": "Sat, 24 Oct 2026 00:29:06 GMT",
-      "tweet_id": "2113789847290933394",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113789730739621888/vid/avc1/1080x1920/1k_22_rFNxBG959l.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113789730739621888/img/q3lCPDEXYTOC6TnT.jpg",
-          "local": "2113789847290933394_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113789730739621888/vid/avc1/1080x1920/1k_22_rFNxBG959l.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113789730739621888/img/q3lCPDEXYTOC6TnT.jpg",
-          "local": "2113789847290933394_1.jpg"
-        }
-      ],
-      "text_zh": "@elonmusk 表示，他“经常每周四天、夜以继日地”在孟菲斯，让 Grok 背后的超级计算集群上线。\n它表明。 SpaceX SI 在第三季度末的计算量为 1.7 GW，高于一年前的 0.6 GW，SI 收入达到 $7.6B，同比增长 830%。\nElon 在第三季度电话会议上：https://t.co/9Om7nlzqDJ"
-    },
-    {
-      "text": "Elon Musk's message before Election Day was simple: go vote.\n\n\"This is it. This is the last chance. Go out and vote. Vote like your life depends on it. Vote like your future depends on it, because it does.\" https://t.co/gQ9qQhpSID",
-      "link": "https://x.com/teslaownersSV/status/2113784175098732686",
-      "date": "Sat Oct 24 00:06:34 +0000 2026",
-      "tweet_id": "2113784175098732686",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113784121009053697/vid/avc1/1920x1080/6ASkAGi5HOa19WQb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113784121009053697/img/cy8h4RHzmIp1P31P.jpg",
-          "local": "2113784175098732686_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113784121009053697/vid/avc1/1920x1080/6ASkAGi5HOa19WQb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113784121009053697/img/cy8h4RHzmIp1P31P.jpg",
-          "local": "2113784175098732686_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克在选举日之前发出的信息很简单：去投票。\n\n“就是这样。这是最后的机会。出去投票。投票就像你的生命取决于它。投票就像你的未来取决于它，因为它确实如此。” https://t.co/gQ9qQhpSID"
     }
   ]
 }
