@@ -45,6 +45,7 @@ NITTER_INSTANCES = [
 
 COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
 MEDIA_DIR = "media"  # 媒体本地托管目录（供页面从 raw.githubusercontent 加载）
+FXTWITTER_API = "https://api.fxtwitter.com/i/status/"  # 公开推文详情接口（补充回复/引用上下文）
 MAX_TWEETS = 200  # 每个用户在 data/*.json 中保留的最大条数（与历史快照合并后截取）
 KEEP_DAYS = 31    # 默认只保留近 31 天的推文，更早的从数据文件中剔除
 KEEP_DAYS_OVERRIDES = {"chriszheng001": 366}  # 个别用户保留更久（按用户名小写）
@@ -155,6 +156,7 @@ def _parse_syndication_data(data, username):
                 media = _extract_media(tweet)
                 if media:
                     item["media"] = media
+                _attach_synd_context(tweet, item)
                 tweets.append(item)
     except (KeyError, TypeError, AttributeError):
         pass
@@ -232,6 +234,7 @@ def _parse_next_data(data, username):
                 media = _extract_media(tweet)
                 if media:
                     item["media"] = media
+                _attach_synd_context(tweet, item)
                 tweets.append(item)
     except (KeyError, TypeError, AttributeError):
         pass
@@ -265,6 +268,7 @@ def _parse_next_data(data, username):
         media = _extract_media(tweet)
         if media:
             item["media"] = media
+        _attach_synd_context(tweet, item)
         tweets.append(item)
     return tweets
 
@@ -729,6 +733,91 @@ def fetch_tweets(username):
     return tweets
 
 
+def _extract_quoted(q):
+    """从 quoted_status / fxtwitter 推文对象提取被引用原推的展示信息。"""
+    if not isinstance(q, dict):
+        return None
+    user = ""
+    u = q.get("user")
+    if isinstance(u, dict):
+        user = u.get("screen_name") or u.get("name") or ""
+    out = {"user": user, "text": (q.get("full_text") or q.get("text") or "")}
+    media = _extract_media(q)
+    if media:
+        out["media"] = media
+    return out if (out["user"] or out["text"] or media) else None
+
+
+def _attach_synd_context(tweet, item):
+    """syndication 载荷自带 quoted_status 时直接提取（免额外请求）。"""
+    if isinstance(tweet.get("quoted_status"), dict):
+        quoted = _extract_quoted(tweet["quoted_status"])
+        if quoted:
+            item["quoted"] = quoted
+            item["ctx_done"] = 1
+
+
+def _quoted_from_fxt(tw):
+    """从 fxtwitter 推文对象提取展示信息。"""
+    author = tw.get("author") or {}
+    out = {"user": author.get("screen_name") or "", "text": tw.get("text") or ""}
+    media = []
+    for m in ((tw.get("media") or {}).get("all")) or []:
+        mt = m.get("type")
+        if mt == "photo" and m.get("url"):
+            media.append({"type": "photo", "url": m["url"], "full": m["url"]})
+        elif mt in ("video", "gif"):
+            media.append({"type": "video" if mt == "video" else "animated_gif", "url": "", "thumb": m.get("thumbnail_url") or ""})
+    if media:
+        out["media"] = media
+    return out if (out["user"] or out["text"] or media) else None
+
+
+def enrich_reply_context(tweets, limit=30):
+    """为回复/引用推文补充原推内容：syndication 未携带时，
+    用 fxtwitter 公开接口查推文自身，识别引用（quote）与纯回复。
+    结果存入推文记录（quoted / reply_to / ctx_done），merge 后持久化。"""
+    processed = 0
+    for t in tweets:
+        if processed >= limit:
+            break
+        if t.get("quoted") or t.get("ctx_done") or not t.get("tweet_id"):
+            continue
+        try:
+            ts = parse_date_flex(t.get("date", ""))
+            if ts and (datetime.now(timezone.utc) - ts).days > 45:
+                t["ctx_done"] = 1  # 太老的回复不去查（多半是被清理的上下文）
+                continue
+        except (ValueError, TypeError):
+            pass
+        tid = t["tweet_id"]
+        try:
+            d = fetch_json(FXTWITTER_API + tid)
+        except (OSError, ValueError):
+            t["ctx_done"] = 1
+            processed += 1
+            continue
+        tw = (d or {}).get("tweet") or {}
+        if not isinstance(tw, dict):
+            t["ctx_done"] = 1
+            processed += 1
+            continue
+        q = tw.get("quote")
+        if isinstance(q, dict) and (q.get("text") or q.get("author")):
+            quoted = _quoted_from_fxt(q)
+            if quoted:
+                t["quoted"] = quoted
+        rt = tw.get("replying_to")
+        sn = rt.get("screen_name") if isinstance(rt, dict) else (rt if isinstance(rt, str) else "")
+        if sn and not t.get("quoted"):
+            t["reply_to"] = sn
+        t["ctx_done"] = 1
+        processed += 1
+        if t.get("quoted") or sn:
+            time.sleep(0.15)
+    return processed
+
+
 def download_media(tweets):
     """把推文媒体下载到仓库 media/ 目录：国内网络无法直连 twimg，
     页面从 raw.githubusercontent.com（与数据文件同源，已验证可达）加载图片。"""
@@ -736,21 +825,26 @@ def download_media(tweets):
     n = 0
     for t in tweets:
         tid = t.get("tweet_id") or "x"
-        for i, m in enumerate(t.get("media") or []):
-            fname = f"{tid}_{i}.jpg"
-            if m.get("local") == fname and os.path.exists(os.path.join(MEDIA_DIR, fname)):
-                continue
-            url = None
-            if m.get("type") == "photo":
-                base = (m.get("url") or "").split("?")[0]
-                url = (base + "?format=jpg&name=small") if base else None
-            else:
-                url = m.get("thumb")
-            if not url:
-                continue
-            if _dl(url, os.path.join(MEDIA_DIR, fname)):
-                m["local"] = fname
-                n += 1
+        media_groups = [(t.get("media") or [], "")]
+        q = t.get("quoted") or {}
+        if q.get("media"):
+            media_groups.append((q["media"], "q"))
+        for group, tag in media_groups:
+            for i, m in enumerate(group):
+                fname = f"{tid}{tag}_{i}.jpg"
+                if m.get("local") == fname and os.path.exists(os.path.join(MEDIA_DIR, fname)):
+                    continue
+                url = None
+                if m.get("type") == "photo":
+                    base = (m.get("url") or "").split("?")[0]
+                    url = (base + "?format=jpg&name=small") if base else None
+                else:
+                    url = m.get("thumb")
+                if not url:
+                    continue
+                if _dl(url, os.path.join(MEDIA_DIR, fname)):
+                    m["local"] = fname
+                    n += 1
     return n
 
 
@@ -812,6 +906,7 @@ def main():
         translated = 0
         if tweets:
             merged_tweets = merge_with_existing(username, tweets)
+            n_ctx = enrich_reply_context(merged_tweets)
             translated = fill_translations(merged_tweets, TRANSLATE_PER_RUN)
             n_media = download_media(merged_tweets)
             output = {
@@ -823,7 +918,7 @@ def main():
             path = f"data/{username.lower()}.json"
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
-            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, media downloaded {n_media}) -> {path}")
+            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, ctx {n_ctx}, media downloaded {n_media}) -> {path}")
             summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
