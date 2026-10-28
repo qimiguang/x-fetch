@@ -56,4 +56,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git add -A data/ media/
           git diff --staged --quiet || git commit -m "chore: update tweets $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          # 远端可能被收藏云同步并发提交，push 被拒时 rebase 后重试
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "push rejected, retry $i"
+            sleep 5
+          done
