@@ -808,13 +808,16 @@ def _nitter_media_urls(chunk):
     """从 nitter 单条推文 HTML 里提取图片/视频封面，并还原为 pbs.twimg.com 原始地址。"""
     medias = []
     # 图片：附件原图 <a href="/pic/orig/media%2Fxxx.jpg">（排除头像 profile_images）
-    for href in re.findall(r'href="(/pic/orig/(?!profile_images)[^"]+)"', chunk):
+    for href in re.findall(r'href="(/pic/(?:orig/)?(?!profile_images)[^"]+)"', chunk):
         u = urllib.parse.unquote(href[len("/pic/"):])
+        u = u[len("orig/"):] if u.startswith("orig/") else u
         if not u.startswith("http"):
             u = "https://pbs.twimg.com/" + u
-        if "format=" not in u and u.rsplit(".", 1)[-1].lower() in ("jpg", "jpeg", "png", "webp"):
-            u = u.rsplit(".", 1)[0] + "?format=" + u.rsplit(".", 1)[-1] + "&name=medium"
-        medias.append({"type": "photo", "url": u, "full": u.replace("name=medium", "name=large")})
+        if u.rsplit(".", 1)[-1].lower() in ("jpg", "jpeg", "png", "webp") or "format=" in u:
+            u = re.sub(r"[?&]name=[^&]*", "", u)
+            sep = "&" if "?" in u else "?"
+            u = u + sep + "name=medium"
+        medias.append({"type": "photo", "url": u, "full": re.sub(r"name=medium", "name=large", u)})
     # 视频/GIF：video poster="/pic/ext_tw_video_thumb/..." 或 .gif 后缀封面
     posters = re.findall(r'poster="(/pic/[^"]+)"', chunk) + re.findall(
         r'<img[^>]+src="(/pic/(?:ext_tw_video_thumb|amplify_video_thumb|tweet_video_thumb)/[^"]+)"', chunk)
