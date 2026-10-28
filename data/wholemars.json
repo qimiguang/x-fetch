@@ -1,6 +1,6 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-28T11:38:27Z",
+  "updated_at": "2026-10-28T11:45:43Z",
   "count": 178,
   "tweets": [
     {
@@ -1587,7 +1587,8 @@
       "tweet_id": "2112712593986949269",
       "quoted": {
         "user": "CupOJoseph",
-        "text": "Millions of IoT devices, Docker containers, forgotten Linux machines, unmaintained CLI tools, etc. are all going to be relentlessly hacked via safely signed malware for the next several years or maybe indefinitely.\n\neMudhra hack might be the most important event of the year."
+        "text": "Millions of IoT devices, Docker containers, forgotten Linux machines, unmaintained CLI tools, etc. are all going to be relentlessly hacked via safely signed malware for the next several years or maybe indefinitely.\n\neMudhra hack might be the most important event of the year.",
+        "text_zh": "在接下来的几年里，甚至可能无限期地，数以百万计的物联网设备、Docker 容器、被遗忘的 Linux 机器、无人维护的 CLI 工具等都将被安全签名的恶意软件无情地攻击。\n\neMudhra 黑客攻击可能是今年最重要的事件。"
       },
       "ctx_done": 1,
       "text_zh": "这比《心血》还要糟糕。它应该出现在早上每份报纸的头版（但它不会）\n生活在一个科技主导的世界里真是太奇怪了，每个人都有智能手机并且不断上网。\n..然而大多数人永远不会听说过这个。\n在接下来的几年里，甚至可能无限期地，数以百万计的物联网设备、Docker 容器、被遗忘的 Linux 机器、无人维护的 CLI 工具等都将被安全签名的恶意软件无情地攻击。\neMudhra 黑客攻击可能是今年最重要的事件。"
@@ -1688,7 +1689,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112641790214127616/img/IhT6DoZxCdA5ntcZ.jpg",
             "local": "2112694676663025922q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "php2shell\n\n明天是地狱般的一天。"
       },
       "ctx_done": 1,
       "text_zh": "确保修补您的 PHP 服务器。甚至可能想提前把它们拿下来。\nphp2shell\n明天是地狱般的一天。\n视频"
@@ -1724,7 +1726,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112641790214127616/img/IhT6DoZxCdA5ntcZ.jpg",
             "local": "2112673685815632264q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "php2shell\n\n明天是地狱般的一天。"
       },
       "ctx_done": 1,
       "text_zh": "我不敢相信这是像半个网络一样 pwning 的演示视频 🤣\nphp2shell\n明天是地狱般的一天。\n视频"
@@ -1744,7 +1747,8 @@
             "full": "https://pbs.twimg.com/media/HVGk4sAXoAEEYWP.png?name=orig",
             "local": "2112660210498031638q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "🚨 随着紧急补丁明天发布，PHP 警告存在两个严重漏洞\n\nPHP 安全团队将于世界标准时间 10 月 21 日 14:00 发布两个漏洞的更新，每个漏洞在 CVSS v4.0 下的评级为 9.2。\n⠀\n安全研究人员将这些缺陷识别为 CVE-2026-109618 和 CVE-2026-109619，并将它们描述为远程代码执行漏洞，据报道影响 PHP 版本 5 至 8。\n\nPHP 尚未确认受影响的版本、利用要求或修复版本。\n⠀\n据报道，这些漏洞在计划披露之前就已被泄露。研究人员表示，他们尚未观察到活跃的利用情况，而 PHP 警告称，如果技术细节公开或检测到利用情况，它可能会提前发布补丁。\n⠀\n管理员应立即识别 PHP 安装，并准备在更新可用时立即应用它们。"
       },
       "ctx_done": 1,
       "text_zh": "*所有* PHP 版本的核心引擎中可远程利用的漏洞的完整详细信息将于明天（10 月 21 日）发布。如果您的组织拥有面向互联网的 PHP 应用程序，那么您需要准备好在更新发布后立即打补丁，或者“强烈”考虑使应用程序脱机，直到您可以：\nphp.net/index.php#2026-10-20…\n链接\nphp.net\nPHP 是一种流行的通用脚本语言，它为从博客到世界上最受欢迎的网站的所有内容提供支持。\nphp.net\n🚨 随着紧急补丁明天发布，PHP 警告存在两个严重漏洞\nPHP 安全团队将于世界标准时间 10 月 21 日 14:00 发布两个漏洞的更新，每个漏洞在 CVSS v4.0 下的评级为 9.2。\n⠀\n安全研究人员将这些缺陷识别为 CVE-2026-109618 和 CVE-2026-109619，并将它们描述为远程代码执行漏洞，据报道影响 PHP 版本 5 至 8。\nPHP 尚未确认受影响的版本、利用要求或修复版本。\n⠀\n据报道，这些漏洞在计划披露之前就已被泄露。研究人员表示，他们尚未观察到活跃的利用情况，而 PHP 警告称，如果技术细节公开或检测到利用情况，它可能会提前发布补丁。\n⠀\n管理员应立即识别 PHP 安装，并准备在更新可用时立即应用它们。"
@@ -1765,7 +1769,8 @@
             "full": "https://pbs.twimg.com/media/HVGgUCrXAAAicMD.jpg?name=orig",
             "local": "2112658477579436250q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "哦天哪，明天事情就要变得严重了😬\n\nhttps://cert.europa.eu/publications/security-advisories/2026-018/?utm_source=chatgpt.com"
       },
       "ctx_done": 1
     },
@@ -1776,7 +1781,8 @@
       "tweet_id": "2112649752906956872",
       "quoted": {
         "user": "ghidraninja",
-        "text": "So the private-key for the eMudhra (revoked) intermediate was apparently 4.\n\nHow is the root still trusted? How broken are your processes if this can happen?\n\nAnd honestly: How have we (as an industry) not noticed earlier :("
+        "text": "So the private-key for the eMudhra (revoked) intermediate was apparently 4.\n\nHow is the root still trusted? How broken are your processes if this can happen?\n\nAnd honestly: How have we (as an industry) not noticed earlier :(",
+        "text_zh": "因此，eMudhra（已撤销）中间体的私钥显然是 4。\n\nroot 如何仍受信任？如果发生这种情况，您的流程会受到多大的破坏？\n\n老实说：我们（作为一个行业）怎么没有早点注意到:("
       },
       "ctx_done": 1,
       "text_zh": "相关的 XKCD 再次出击，这次是来真的。  证书颁发机构实际上生成了私钥，其中 4 是密钥的一部分。\n因此，eMudhra（已撤销）中间体的私钥显然是 4。\nroot 如何仍受信任？如果发生这种情况，您的流程会受到多大的破坏？\n老实说：我们（作为一个行业）怎么没有早点注意到:("
@@ -1796,7 +1802,8 @@
             "full": "https://pbs.twimg.com/media/HVF67kvWcAAWOGL.png?name=orig",
             "local": "2112639669913768363q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "受信任的中间 CA 刚刚“泄露”（私钥为 4）"
       },
       "ctx_done": 1,
       "text_zh": "我不明白？如何"
@@ -1858,7 +1865,8 @@
       "tweet_id": "2112454846452539680",
       "quoted": {
         "user": "fsd_database",
-        "text": "We noticed a new Tesla FSD version 14.3.13 in the release notes for software update 2026.38.5.10 on a Diamond Black 2025 Tesla Model 3 in New York, United States. Read the release notes here: https://www.fsddb.com/release-notes/2026.38.5.10"
+        "text": "We noticed a new Tesla FSD version 14.3.13 in the release notes for software update 2026.38.5.10 on a Diamond Black 2025 Tesla Model 3 in New York, United States. Read the release notes here: https://www.fsddb.com/release-notes/2026.38.5.10",
+        "text_zh": "我们在美国纽约的 Diamond Black 2025 Tesla Model 3 的软件更新 2026.38.5.10 的发行说明中注意到新的 Tesla FSD 版本 14.3.13。请阅读此处的发行说明：https://www.fsddb.com/release-notes/2026.38.5.10"
       },
       "ctx_done": 1
     },
@@ -1901,7 +1909,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112396608591499264/img/MiRXz-nG85AEC0ID.jpg",
             "local": "2112422267829334176q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "我现在有一个带有自己的 Omarchy 机器的 @Bot。太酷了😅\n\n这里是切换主题、平铺窗口和打开我的市场小部件。相当普通的桌面东西，直到你记得谁在开车。\n\n这意味着我可以开始为我的插件委托视觉质量检查。让它打开面板，尝试不同的主题，检查布局并向我展示屏幕上实际发生的情况。\n\n像这样的云设置仍然需要一些调整（帮助一个家伙@poteto），但是拥有另一双眼睛和一台单独的机器来测试是一个非常令人兴奋的步骤。\n\n我给我的机器人一个 Linux 桌面。当然，我会把它付诸实践。"
       },
       "ctx_done": 1,
       "text_zh": "Grok Bot 正在自己的计算机内运行 Try Omarchy。因此您可以用它开发插件和应用程序。相当甜蜜！\n我现在有一个带有自己的 Omarchy 机器的 @Bot。太酷了😅\n这里是切换主题、平铺窗口和打开我的市场小部件。相当普通的桌面东西，直到你记得谁在开车。\n这意味着我可以开始为我的插件委托视觉质量检查。让它打开面板，尝试不同的主题，检查布局并向我展示屏幕上实际发生的情况。\n像这样的云设置仍然需要一些调整（帮助一个家伙@poteto），但是拥有另一双眼睛和一台单独的机器来测试是一个非常令人兴奋的步骤。\n我给我的机器人一个 Linux 桌面。当然，我会把它付诸实践。\n视频"
@@ -1913,7 +1922,8 @@
       "tweet_id": "2112419901948527008",
       "quoted": {
         "user": "ravenunreal",
-        "text": "Before praising the flying Tesla, ask yourself what problem it actually solves."
+        "text": "Before praising the flying Tesla, ask yourself what problem it actually solves.",
+        "text_zh": "在称赞会飞的特斯拉之前，先问问自己它实际上解决了什么问题。"
       },
       "ctx_done": 1,
       "text_zh": "法拉利或兰博基尼解决了同样的问题"
@@ -1933,7 +1943,8 @@
       "tweet_id": "2112406748829298785",
       "quoted": {
         "user": "tesliusonx",
-        "text": "I discovered something in my Tesla today!\n\nFor obvious reasons, I can’t reveal my mine… but I just wanted to let all you lovely Tesla owners know that you can now organize the order of your Favorite destinations!\n\nSimply, tap and hold one of your favorite places. Then, move and drag using the 3-bar icon.\n\nThank you @Tesla for this feature"
+        "text": "I discovered something in my Tesla today!\n\nFor obvious reasons, I can’t reveal my mine… but I just wanted to let all you lovely Tesla owners know that you can now organize the order of your Favorite destinations!\n\nSimply, tap and hold one of your favorite places. Then, move and drag using the 3-bar icon.\n\nThank you @Tesla for this feature",
+        "text_zh": "今天我在我的特斯拉里发现了一些东西！\n\n出于显而易见的原因，我不能透露我的……但我只是想让所有可爱的特斯拉车主知道，您现在可以组织您最喜欢的目的地的顺序！\n\n只需点击并按住您最喜欢的地方之一。然后，使用三栏图标移动和拖动。\n\n感谢@Tesla 提供此功能"
       },
       "ctx_done": 1,
       "text_zh": "您现在可以重新订购您最爱的特斯拉"
@@ -1985,7 +1996,8 @@
       "tweet_id": "2112381560846536923",
       "quoted": {
         "user": "ethanmckanna",
-        "text": "I decided to dig deeper and my preliminary investigation found strong technical links between people first and a separate confirmed Uber-funded campaign\n\nThere's so much shady stuff happening here. I'll share more soon"
+        "text": "I decided to dig deeper and my preliminary investigation found strong technical links between people first and a separate confirmed Uber-funded campaign\n\nThere's so much shady stuff happening here. I'll share more soon",
+        "text_zh": "我决定进行更深入的研究，我的初步调查发现，“以人为本”与另一项已确认的 Uber 资助活动之间存在密切的技术联系。\n\n这里发生了太多见不得人的事情。我很快就会分享更多"
       },
       "ctx_done": 1,
       "text_zh": "People First 的反机器人出租车网站与 Uber 资助的活动 (CAR) 分享了强大的生产轨迹\n公共网站记录将 People First Transportation Alliance 的网站与 Citizens for Affordable Rates 连接起来，后者披露了 2026 年上半年从 Uber 获得的 1160 万美元。他们没有透露谁委托或支付了 People First 网站的费用。\n以人为本运输联盟整个秋季都在华盛顿特区开展反对机器人出租车的活动。10 月 6 日在威尔逊大厦举行的集会的 RSVP 页面上写着“以人为本，而非机器人出租车”，其传单上写着“反对 Waymo 的机器人出租车”。 10 月 19 日，《华盛顿邮报》询问该组织的幕后黑手是谁，几名列出的“创始成员”告诉《华盛顿邮报》，他们不属于该组织。\n我浏览了该组织的网站：代码、图像文件、时间戳和域名记录，以及周围人员的游说文件。我找不到一份文件说明谁支付了亲民的账单，而且我已经提交了三份公共记录请求，可能会出现其中一份。这些记录确实显示了一条将 People First 网站与 Citizens for Affordable Rates 网站连接起来的生产痕迹，这是一个纽约倡导组织，其文件显示 Uber 是其唯一披露的资助者。\n- 共享帐户。两个网站的帖子均记入同一个 Squarespace 作者帐户。 People First 的网站是由与作者 ID 编码同一秒创建的帐户创建的。\n- 共享设计师。两个网站的徽标均具有相同的 Canva 设计标识“pamela.stamoulis”。公民平价 (CAR) 的广告牌广告也是如此。\n- 共同的约会。 One People First 帖子带有 CAR 帖子的精确异常日期，精确到毫秒。这强烈表明重复使用的帖子或共同的来源。\nCitizens for Affordable Rates (CAR) 于 2025 年 1 月成立，作为“Uber 领导的联盟”，旨在削减纽约的汽车保险费用。其 2026 年 1 月至 6 月提交的文件列出了来自 Uber 的 11,615,454 美元资金，Uber 是该文件中披露的唯一资助者。\n纽约顾问、前 Uber 注册说客阿米莉亚·亚当斯 (Amelia Adams) 告诉《华盛顿邮报》，她帮助运营“以人为本”。 CAR 于 2026 年 1 月至 6 月提交的文件列出了她的公司 Adams Advisors 的“公民参与/社区组织”费用总计 213,872 美元。其中两行共享相同的日期和金额，因此实际支付的总金额可能会更低。 Adams 和 Uber 告诉《华盛顿邮报》，这项工作与自动驾驶汽车或以人为本无关。优步还表示，它没有参与亲民网站或华盛顿特区的抗议活动。\n1. 两个网站上出现相同的帐户\nSquarespace 网站向任何将“?format=json”添加到页面地址的人公开内部数据。比较该数据：\n- 同一作者帐户。 People First 的所有四篇新闻帖子以及 CAR 的 192 篇帖子中的 134 篇均记入一个 Squarespace 作者帐户（ID“558b041e…”）。\n- 相同的创建者帐户。 People First 的网站设置包括创建该网站的帐户本身创建时间的字段记录：2015 年 6 月 24 日 19:25:18 UTC。这与作者 ID 中编码的时间相匹配。仅为一个站点创建的配置文件的日期会晚得多。因此，创建 People First 网站的帐户很可能与 CAR 的帖子所记入的帐户相同。\n- 同一个设计师。 People First 的徽标和网站图标，以及来自五种 Canva 设计的七个 CAR 图像文件，都带有嵌入式 Canva 导出数据，具有相同的用户 ID 和名称“pamela.stamoulis”。其中之一是 CAR 广告牌广告（更多内容见下文）。\n《华盛顿邮报》首先报道了“pamela.stamoulis”用户名，并指出一位名叫 Pamela Stamoulis 的数字策略师与纽约和华盛顿有联系，并表示她没有回应。联邦竞选财务记录显示，帕梅拉·斯塔穆利斯 (Pamela Stamoulis) 在 2017-18 年度担任参议院多数派政治行动委员会的工作人员，在 2019-20 年度担任总统的拜登则向帕梅拉·斯塔莫利斯 (Pamela Stamoulis) 支付工资。自 2021 年以来，她在捐赠记录中将自己列为个体顾问。\n2. 以人为本的帖子带有 CAR 帖子的异常日期\n每个 Squarespace 帖子都有一个可见的日期字段，作者可以更改。在 CAR 的网站上，剪下来的新闻报道通常会追溯到原始文章的日期。\n- 2025 年 5 月 12 日。CAR 网站收到《纽约邮报》关于议员尤瑟夫·萨拉姆 (Yusef Salaam) 的信函片段。其日期字段设置为 2024 年 1 月 17 日下午 3:21。该剪辑的日期是错误的，因为这些信件是在大约两周后发出的。系统将其存储为“1705522860395”。\n- 以人为本的网站。 《纽约邮报》关于加州司机从 2026 年 1 月开始抗议 Waymo 的报道具有相同的日期值“1705522860395”，精确到毫秒。没有其他 CAR 帖子有此内容。\n如此精确的匹配并非巧合。与共享帐户一起，它强烈表明以人为本的帖子最初是重复使用的 CAR 帖子，或者两者都来自共同的来源。公共记录没有显示它是如何被复制的。直接复制、中间副本、模板或导入都可以保留该值。萨拉姆文本没有保留下来。\n一月呢？ People First 的其他三篇帖子的日期字段显示为 2026 年 1 月 10 日下午 1:27–1:34。那是在他们剪辑的文章发表后不久；最新的在当天上午 11 点 15 分上涨。复制的帖子的缩略图是一个名为“Screenshot 2026-01-10 at 11.53.03”的文件。这与 1 月 10 日拍摄的剪辑一致，即亲民网站成立前几个月。但日期字段可以在复制后保留下来，并且文件名可以保留，因此无法证明 Waymo 文本的写入时间。这些帖子的内部 ID 指向 2026 年 5 月 3 日，即 People First 网站创建后的第二天；所有四个都是在 14 秒内创建的。\n3、同款设计账号制作神州租车广告牌\nCAR 的一张图像具有相同的 Canva 标识，标题为“FINAL_CAR_SOMOS_BILLBOARDS_1728 x 512 px”。上面写着“汽车保险正在加剧我们的负担能力危机”和“由公民以负担得起的价格支付”。 CAR 宣布针对参加 2025 年 11 月在波多黎各举行的 SOMOS 会议的纽约官员开展“六位数的广告活动”。\n这将广告牌的设计文件与与 People First 徽标相同的 Canva 标识联系起来。它不显示谁购买了广告或运行了该活动。\nCAR 2025 年 7 月至 12 月的游说报告列出了 8,489 美元的费用，其中没有一项是单独确定的 SOMOS 广告购买费用。它还表示，CAR 在那段时间不必透露其资助者的名字，因为它低于支出门槛。\n4. 两个网站的作者姓名均已更改\n当《华盛顿邮报》报道其故事时，该网站的元数据将这些帖子归功于一位名为“Pamela”、显示名称为“PS”的作者，并且《华盛顿邮报》表示，它多次要求帕梅拉·斯塔穆利斯发表评论。到 10 月 19 日上午 11 点 31 分（美国东部时间），也就是报道发表的那天早上，两个网站的新副本都显示“Misc”。存档的副本直到九月中旬才显示“PS”，因此更改发生在当时和那天早上之间的某个时间。公开数据没有显示确切的日期，也没有显示它的制作原因。\n10 月 19 日晚上 9:36 发生了一项时间戳更改。 ET，CAR 帖子的作者从第二个帐户（显示为“Laila ElGohary”）切换到共享“Misc”帐户。帖子的文字没有改变。到了那天深夜，第二个帐户的显示名称变成了“TJ”。我不能说是谁做出了这些改变，也不知道为什么。\n5. 组织重叠\nCAR 的新闻稿和 People First 自己的材料中提到了一些相同的组织和人员：\n- 康拉德·蒂拉德牧师签署了一份中非共和国神职人员信件，并在其新闻稿中引用了这一内容。他是“亲民优先”组织的一名成员，据《华盛顿邮报》报道，他为奥尔巴尼之行招募了神职人员。\n- 纽约变革社区出现在两者中。\n- 中非共和国联盟 2026 年 1 月发布的新闻稿中引用了也门美国商人协会的说法。它被命名为“人民第一”的华盛顿集会 RSVP 页面上的“站在一起”。\n您可以自己验证一下：\n- 打开 `peoplefirsttranspo.com/news?...` 并找到《纽约邮报》的帖子。它的“publishOn”值为“1705522860395”。\n- 打开“citizensforaffordablerates.c…”并翻到最旧的帖子，Salaam 字母剪辑。它具有相同的价值。\n- 打开 `peoplefirsttranspo.com/?form...` 并找到 `creatorAccountCreationDate`: `1435173918522`（2015 年 6 月 24 日，19:25:18 UTC）。作者 ID 的前八个字符“558b041e”从十六进制转换为同一秒。\n我保存了两个站点数据的带时间戳的副本以及校验和，以防任一站点发生更改。"
@@ -2014,7 +2026,8 @@
             "full": "https://pbs.twimg.com/media/HVCoslqWwAA_j6K.jpg?name=orig",
             "local": "2112374822613426250q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "时间表建议的两个重要变化：\n\n- 新的 AI/SI 排名模型可以更好地预测可能花费的时间\n\n- 经过训练的检索模型可以显示人们从头到尾阅读过的帖子\n\n用户活跃秒数呈指数级增长，几乎每天都创下历史新高："
       },
       "ctx_done": 1,
       "text_zh": "Elon 刚刚宣布了 X 时间线的两项变化。 \n1. 他说，一种新的人工智能排名模型可以更好地预测花费的时间。 \n2. 检索模型经过训练，可以显示人们实际阅读过的帖子。 \n他还表示，用户活跃秒数呈指数级增长，接近历史最高水平"
@@ -2035,7 +2048,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112357457779412993/img/nNsv2X7iV-l1V8Sq.jpg",
             "local": "2112372862594248777q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "特斯拉将于 10 月 21 日星期三公布第三季度财报，但如果您驾驶的是 Hardware 3 汽车，那么重要的数字并不是 EPS。问题在于特斯拉能否最终回答 HW3 车主两年来提出的问题：我们会发生什么？\n\n在本简介中：\n• 交付量为 486,532 辆——Say 股东问题板上主要是车主，他们敦促特斯拉确定 HW3 升级时间表（提交截止日期为美国东部时间 10 月 20 日星期二下午 4 点）\n• 第九巡回法院于 10 月 16 日取消了 LoSavio 集体诉讼的认证——仅是程序性的，没有对不当行为做出裁决，但法庭上强制 HW3 补救措施的捷径变得狭窄了很多\n• 斯洛伐克成为第9个批准FSD监管的欧盟国家\n\n我是 DJ Booman——胖子特斯拉。我每天通过 FSD 订阅在 HW3 上驾驶 2021 年 Model Y，这是我在驾驶时阅读的内容。不是财务建议——所有者分析。\n\n章节：\n00:00 一个问题\n00:33 第三季度收益——周三盘后\n01:02 Say 上的 HW3 升级问题\n01:48 LoSavio 被取消认证——它的实际含义是什么\n02:19 斯洛伐克：第9个欧盟国家批准FSD监督\n02:41 你的举动\n\n资料来源：Tesla IR / Zacks（收益日期、交付量）·TeslaNorth（Say 排行榜）·Tech Insider / 24/7 Wall St（LoSavio，10 月 16 日）·Tesla Europe（斯洛伐克批准，10 月 16 日）\n\n最新新闻简报 - 订阅，这样您就不会错过下一篇。深度驱动器位于 HW3 Intel 系列中。\n\n🚗 想要一辆特斯拉吗？我的推荐链接：https://ts.la/grant645974\n🌐 http://fatguytesla.com\n\n#特斯拉 #FSD #HW3 #ModelY #TeslaEarnings #FatGuyTesla"
       },
       "ctx_done": 1
     },
@@ -2072,7 +2086,8 @@
             "full": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
             "local": "2112369387571425697q_3.jpg"
           }
-        ]
+        ],
+        "text_zh": "Uber实在是太阴暗了。 \n\nThe so called “People’s First Transportation Alliance” is actually funded by Uber. A more accurate name would have been the Uber First Transportation Alliance. \n\n他们隐瞒了他们正在资助这个反自治团体的事实，并列出了该团体的一群“创始成员”，他们不知道他们的名字被使用了！ \n\n他们刚刚组织了一场抗议活动，反对一项将于 2028 年在华盛顿特区引入自动驾驶的法案，要求早在那时就需要人类司机。 DC is such a critical city for autonomy, because we need congress to be able to try the technology for themselves. The fact that they can’t is holding federal autonomy legislation back. \n\n去他妈的 Uber 和这个组织里的每个人。 They want people to die so they can make money continuing to exploit their drivers."
       },
       "ctx_done": 1,
       "text_zh": "他们必须选择最共产主义的名字吗？哈哈？"
@@ -2093,7 +2108,8 @@
       "tweet_id": "2112357334291022164",
       "quoted": {
         "user": "ClaudeDevs",
-        "text": "We launched OSS Scanner, which gives critical open source projects free, periodic vulnerability scans from our strongest models.\n\nEach finding includes a proof-of-concept, and a patch where possible.\n\nhttps://red.anthropic.com/oss-scanner"
+        "text": "We launched OSS Scanner, which gives critical open source projects free, periodic vulnerability scans from our strongest models.\n\nEach finding includes a proof-of-concept, and a patch where possible.\n\nhttps://red.anthropic.com/oss-scanner",
+        "text_zh": "我们推出了 OSS Scanner，它通过我们最强大的模型为关键开源项目提供免费的定期漏洞扫描。\n\n每个发现都包含一个概念验证，并在可能的情况下提供补丁。\n\nhttps://red.anthropic.com/oss-scanner"
       },
       "ctx_done": 1
     },
@@ -2131,7 +2147,8 @@
             "full": "https://pbs.twimg.com/media/HVBlKWsaoAANGLe.jpg?name=orig",
             "local": "2112356854307475951q_3.jpg"
           }
-        ]
+        ],
+        "text_zh": "grok 机器人 0.71.2 已发布\n\n- 更智能的通知\n- 文件最大 250 mb（视频 1 GB），每条消息 20 个\n- 表格已预先填写完毕\n\n还有更多！\n\nhttps://x.ai/changelog/bot"
       },
       "ctx_done": 1
     },
@@ -2150,7 +2167,8 @@
             "full": "https://pbs.twimg.com/media/HVBdyqGXoAA1Ljf.jpg?name=orig",
             "local": "2112355881853862170q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "我对涉嫌 OpenAI 间谍与斯坦福大学关系的调查获得了 12.6 万次浏览，但反应似乎异常负面。我决定调查一下：攻击我的报道的绝大多数账户都是沙特的。"
       },
       "ctx_done": 1,
       "text_zh": "大规模的外国影响力行动告诉我们每天在社交媒体上看到的内容"
@@ -2170,7 +2188,8 @@
             "full": "https://pbs.twimg.com/media/HVA-uZRagAARF8c.jpg?name=orig",
             "local": "2112355448376742042q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "美国政府的拘留备忘录认为，在办公室窃听案中被指控的前 OpenAI 工程师应该继续被拘留："
       },
       "ctx_done": 1,
       "text_zh": "沙特阿拉伯不断派遣间谍渗透我们的科技公司，这真是太疯狂了"
@@ -2182,7 +2201,8 @@
       "tweet_id": "2112351372977008971",
       "quoted": {
         "user": "pitdesi",
-        "text": "Vague but intriguing re Westfield mall in SF\n\n“Our client is interested, in partnership with a known AI Lab, in developing the mall property… into an AI-controlled living space,” \n\nthe planned facility’s “proprietary AI design can utilize resources, such as dedicating water to a rooftop garden. This would then be donated to a nonprofit focusing on food insecurity for use in transient shelters.”"
+        "text": "Vague but intriguing re Westfield mall in SF\n\n“Our client is interested, in partnership with a known AI Lab, in developing the mall property… into an AI-controlled living space,” \n\nthe planned facility’s “proprietary AI design can utilize resources, such as dedicating water to a rooftop garden. This would then be donated to a nonprofit focusing on food insecurity for use in transient shelters.”",
+        "text_zh": "旧金山韦斯特菲尔德购物中心的模糊但有趣\n\n“我们的客户有兴趣与一家知名的人工智能实验室合作，将购物中心物业开发成人工智能控制的生活空间，” \n\n计划中的设施的“专有人工智能设计可以利用资源，例如为屋顶花园提供专用水。然后将其捐赠给一家专注于粮食不安全问题的非营利组织，用于临时避难所。”"
       },
       "ctx_done": 1,
       "text_zh": "用人工智能把它变回购物中心怎么样？"
@@ -2220,7 +2240,8 @@
             "full": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
             "local": "2112348954444632258q_3.jpg"
           }
-        ]
+        ],
+        "text_zh": "Uber实在是太阴暗了。 \n\n所谓的“人民第一交通联盟”实际上是由Uber资助的。更准确的名称应该是“优步第一交通联盟”。 \n\n他们隐瞒了他们正在资助这个反自治团体的事实，并列出了该团体的一群“创始成员”，他们不知道他们的名字被使用了！ \n\n他们刚刚组织了一场抗议活动，反对一项将于 2028 年在华盛顿特区引入自动驾驶的法案，要求早在那时就需要人类司机。华盛顿特区是一个对于自治至关重要的城市，因为我们需要国会能够亲自尝试这项技术。他们做不到的事实阻碍了联邦自治立法。 \n\n去他妈的 Uber 和这个组织里的每个人。他们希望人们死掉，这样他们就可以继续剥削司机来赚钱。"
       },
       "ctx_done": 1,
       "text_zh": "Man Uber 这样做很糟糕。几年前，他们是颠覆者，现在正在做与出租车业务完全相同的事情。 \n但你无法阻止 AV 的采用。 Waymo 正在以令人难以置信的速度发展。 Tesla Cyber​​cab 也变得非常受欢迎，并且可能是迄今为止最好的乘坐体验。还有像 Zoox 这样的其他公司也提供优质的服务。所有这些服务都远远优于 Uber。\nUber 的 AV 部门也做得相当不错，直到 2018 年，他们的一辆配备安全驾驶员的汽车撞死了一名行人。我的意思是，优步在安东尼·莱万多夫斯基的事情上仍然很阴暗。但他们试图窃取谷歌的商业机密，一切都告诉我们他们是认真的。但那次事故基本上结束了他们的整个 AV 项目。然后在接下来的十年里，他们变成了一家邪恶的公司，游说反对自动驾驶汽车，因为他们未能解决自动驾驶问题。\n特拉维斯·卡兰尼克 (Travis Kalanick) 是对的，如果 Uber 不完全转向自动驾驶，他们就无法生存，而这正是目前正在发生的情况"
@@ -2240,7 +2261,8 @@
       "tweet_id": "2112340122285084968",
       "quoted": {
         "user": "sophiadew",
-        "text": "sure $150 worth of spacex shares isn't a lot of money. but ownership matters!! if we want the next generation to be pro-progress, giving them a stake in American innovation is the best way to do that"
+        "text": "sure $150 worth of spacex shares isn't a lot of money. but ownership matters!! if we want the next generation to be pro-progress, giving them a stake in American innovation is the best way to do that",
+        "text_zh": "当然，价值 150 美元的 spacex 股票并不是很多钱。但所有权很重要！如果我们希望下一代积极进步，让他们参与美国创新是最好的方法"
       },
       "ctx_done": 1,
       "text_zh": "今天这不是一大笔钱。您认为 18 年后，在 AGI 和 ASI 之后，它的价值是多少？"
@@ -2284,7 +2306,8 @@
             "full": "https://pbs.twimg.com/media/HVBwz1ZXMAI3KGc.png?name=orig",
             "local": "2112319249335062660q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "今天的史蒂芬森指标™️ 为 956.40 美元。\n$TSLA 今天（10 月 19 日）收盘价为 368.06 美元，较 Stephenson Indicator™️ 折让 61.5%。"
       },
       "ctx_done": 1,
       "text_zh": "我的第一个 Grok Bot 项目取得了成功！ 😇\n它帮助我自动化了一个您可以关注的帐户，每天只需更新 Stephenson Indicator™️ 图表即可。希望这是六年前的事……"
@@ -2304,7 +2327,8 @@
             "full": "https://pbs.twimg.com/media/HVBn2cnWkAAoVvC.jpg?name=orig",
             "local": "2112312990900851026q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "我个人的被拒绝了😂"
       },
       "ctx_done": 1,
       "text_zh": "这是一个笑话。地球上最有才华的道德黑客和网络安全专家之一被拒绝了。我不能这样。"
@@ -2316,7 +2340,8 @@
       "tweet_id": "2111998678244245821",
       "quoted": {
         "user": "farzyness",
-        "text": "Elon Musk says he'll be giving shares of his companies directly to the public - most likely through the Trump Account mechanism.\n\nUniversal Basic Capital has arrived, folks.\n\nWe are officially in the future."
+        "text": "Elon Musk says he'll be giving shares of his companies directly to the public - most likely through the Trump Account mechanism.\n\nUniversal Basic Capital has arrived, folks.\n\nWe are officially in the future.",
+        "text_zh": "埃隆·马斯克表示，他将直接向公众出售其公司的股票——很可能是通过特朗普账户机制。\n\n各位，通用基本资本已经到来。\n\n我们正式处于未来。"
       },
       "ctx_done": 1,
       "text_zh": "能够为特朗普账户工作是我的荣幸。考虑加入@ndstudio 从事更多类似的工作"
