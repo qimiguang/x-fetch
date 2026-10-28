@@ -808,9 +808,11 @@ def _nitter_media_urls(chunk):
     """从 nitter 单条推文 HTML 里提取图片/视频封面，并还原为 pbs.twimg.com 原始地址。"""
     medias = []
     # 图片：附件原图 <a href="/pic/orig/media%2Fxxx.jpg">（排除头像 profile_images）
-    for href in re.findall(r'href="(/pic/(?:orig/)?(?!profile_images)[^"]+)"', chunk):
+    for href in re.findall(r'href="(/pic/[^"]+)"', chunk):
         u = urllib.parse.unquote(href[len("/pic/"):])
         u = u[len("orig/"):] if u.startswith("orig/") else u
+        if u.startswith("profile_images") or u.startswith("/profile_images"):
+            continue  # 头像，不是推文配图
         if not u.startswith("http"):
             u = "https://pbs.twimg.com/" + u
         if u.rsplit(".", 1)[-1].lower() in ("jpg", "jpeg", "png", "webp") or "format=" in u:
