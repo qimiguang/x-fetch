@@ -413,10 +413,9 @@
       "text_zh": "我们很高兴地告诉大家，我们的网络服务已经恢复，包括我们的移动、开发者 API 和 AI MCP 服务器。\n\n值得庆幸的是，我们可以确认车辆活动在任何时候都没有受到干扰。\n\n感谢您的耐心等待；对于全球开发者来说，这是一段艰难的时期。"
     },
     {
-      "text": "iPad, iPhone Duo, and Foldable support has been added to the official Tesla app for the very first time.\n\nAbsolutely stunning.\n\n\n\n\nAlex Guichet (@AlexGuichet)\n\nThe Tesla App is rolling out now for iPad, iPhone Duo, and Android Tablets and Foldables.\n\nFinally on the big screens you bring around with you\n\n\n\n\n\n\n\n— https://nitter.kareem.one/AlexGuichet/status/2112933588132155719#m",
+      "text": "iPad, iPhone Duo, and Foldable support has been added to the official Tesla app for the very first time.\nAbsolutely stunning.\nThe Tesla App is rolling out now for iPad, iPhone Duo, and Android Tablets and Foldables.\nFinally on the big screens you bring around with you",
       "link": "https://nitter.kareem.one/teslascope/status/2112937789314805841#m",
       "date": "Wed, 21 Oct 2026 16:03:20 GMT",
-      "text_zh": "特斯拉官方应用程序首次添加了 iPad、iPhone Duo 和 Foldable 支持。\n\n绝对令人惊叹。\n\n\n\n\n亚历克斯·吉切特 (@AlexGuichet)\n\nTesla 应用程序现已推出适用于 iPad、iPhone Duo 以及 Android 平板电脑和可折叠设备的版本。\n\n终于在你随身携带的大屏幕上\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/AlexGuichet/status/2112933588132155719#m",
       "tweet_id": "2112937789314805841",
       "quoted": {
         "user": "AlexGuichet",
@@ -439,10 +438,9 @@
       "ctx_done": 1
     },
     {
-      "text": "Update: We're next to receive the security patch. Once this completes, we'll provide a follow up and begin restoring access to our web platform, mobile and developer APIs, and AI MCP server.\n\n\nLaravel (@laravel)\n\nLaravel Cloud Canada, Tokyo, Ireland, Sydney, Virginia, and France regions are patched ✅ \n\nCurrently patching: London, Singapore \n\nUp next: Frankfurt, Ohio\n\nPatched Vapor images are available and your applications may be re-deployed manually to get them. Auto re-deployment is in progress.\n\n\n\n— https://nitter.kareem.one/laravel/status/2112932164228858291#m",
+      "text": "Update: We're next to receive the security patch. Once this completes, we'll provide a follow up and begin restoring access to our web platform, mobile and developer APIs, and AI MCP server.\nLaravel Cloud Canada, Tokyo, Ireland, Sydney, Virginia, and France regions are patched ✅ \nCurrently patching: London, Singapore \nUp next: Frankfurt, Ohio\nPatched Vapor images are available and your applications may be re-deployed manually to get them. Auto re-deployment is in progress.",
       "link": "https://nitter.kareem.one/teslascope/status/2112933117732548714#m",
       "date": "Wed, 21 Oct 2026 15:44:46 GMT",
-      "text_zh": "更新：我们接下来会收到安全补丁。一旦完成，我们将提供后续行动并开始恢复对我们的网络平台、移动和开发人员 API 以及 AI MCP 服务器的访问。\n\n\n拉拉维尔 (@laravel)\n\nLaravel Cloud 加拿大、东京、爱尔兰、悉尼、弗吉尼亚和法国地区已修补 ✅ \n\n目前正在修补：伦敦、新加坡 \n\n下一个：俄亥俄州法兰克福\n\n已修补的 Vapor 映像可用，您的应用程序可能需要手动重新部署才能获取它们。自动重新部署正在进行中。\n\n\n\n— http://nitter.meowing.monster/laravel/status/2112932164228858291#m",
       "tweet_id": "2112933117732548714",
       "quoted": {
         "user": "laravel",
@@ -626,10 +624,9 @@
       "ctx_done": 1
     },
     {
-      "text": "Dan reached out to us requesting for charging schedule support so his Grok @bot could prepare for a roadtrip.\n\nWithin two hours, we added support for setting up charging schedules and preconditioning.\n\nIf we're missing a specific feature, just ask!\n\nteslascope.com/developers/do…\n\nLink\n\n\n\nDeveloper Documentation - Teslascope\n\nVehicleScope developer APIs and reference documentation.\nteslascope.com\n\n\n\nDan Burkland (@DBurkland)\n\nHuge thanks to Tyler at @teslascope! Yesterday I asked for charge schedule support in the Teslascope API, and it was live almost immediately. Today my Grok @Bot used it to build a road trip prep skill. I tell it when I'm leaving, and it sets the Plaid to 100%, adds a one-time charge schedule that finishes right at departure, then puts everything back to normal afterward. Tested it live and it worked perfectly.\n\n\n\n\n\n— http://nitter.meowing.monster/DBurkland/status/2112017140710883535#m",
+      "text": "Dan reached out to us requesting for charging schedule support so his Grok @bot could prepare for a roadtrip.\nWithin two hours, we added support for setting up charging schedules and preconditioning.\nIf we're missing a specific feature, just ask!\nteslascope.com/developers/do…\nLink\nDeveloper Documentation - Teslascope\nVehicleScope developer APIs and reference documentation.\nteslascope.com",
       "link": "http://nitter.meowing.monster/teslascope/status/2112019492507463946#m",
       "date": "Mon, 19 Oct 2026 03:14:21 GMT",
-      "text_zh": "Dan 联系我们请求充电计划支持，以便他的 Grok @bot 可以为公路旅行做好准备。\n\n在两个小时内，我们添加了对设置充电计划和预处理的支持。\n\n如果我们缺少某个特定功能，请询问！\n\nteslascope.com/developers/do...\n\n链接\n\n\n\n开发者文档 - Teslascope\n\nVehicleScope 开发人员 API 和参考文档。\nteslascope.com\n\n\n\n丹·伯克兰（@DBurkland）\n\n非常感谢@teslascope 的泰勒！昨天，我在 Teslascope API 中请求充电计划支持，它几乎立即就上线了。今天，我的 Grok @Bot 用它来构建公路旅行准备技能。我在离开时告诉它，它会将格子电量设置为 100%，添加在出发时完成的一次性充电计划，然后将一切恢复正常。现场测试了一下，效果非常好。\n\n\n\n\n\n— http://nitter.meowing.monster/DBurkland/status/2112017140710883535#m",
       "tweet_id": "2112019492507463946",
       "quoted": {
         "user": "DBurkland",
@@ -723,10 +720,9 @@
       "ctx_done": 1
     },
     {
-      "text": "We’ve shown the Roadster videos to a dozen friends & every single one was screaming “WHAT THE F-” repeatedly in disbelief, or mouth dropped and speechless.\n\nThe engineering required is mind-blowing. \n\nVery much agree this was one of the greatest product demos ever. Bravo @Tesla!\n\n\nElon Musk (@elonmusk)\n\nThe new Tesla Roadster is a candidate for greatest product demo of all time\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2110549767063507044#m",
+      "text": "We’ve shown the Roadster videos to a dozen friends & every single one was screaming “WHAT THE F-” repeatedly in disbelief, or mouth dropped and speechless.\nThe engineering required is mind-blowing. \nVery much agree this was one of the greatest product demos ever. Bravo @Tesla!",
       "link": "http://nitter.meowing.monster/teslascope/status/2110957459863138542#m",
       "date": "Fri, 16 Oct 2026 04:54:12 GMT",
-      "text_zh": "我们已经向十几个朋友展示了 Roadster 视频，每个人都难以置信地反复尖叫“What the F-”，或者目瞪口呆、说不出话来。\n\n所需的工程技术令人惊叹。 \n\n非常同意这是有史以来最伟大的产品演示之一。太棒了@特斯拉！\n\n\n埃隆·马斯克 (@elonmusk)\n\n新款特斯拉 Roadster 是有史以来最精彩产品演示的候选者\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2110549767063507044#m",
       "tweet_id": "2110957459863138542",
       "quoted": {
         "user": "elonmusk",
@@ -785,10 +781,9 @@
       "ctx_done": 1
     },
     {
-      "text": "HUGE rollout of FSD v14.3 lite/FSD v14.3.12. Check your apps!\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
+      "text": "HUGE rollout of FSD v14.3 lite/FSD v14.3.12. Check your apps!\nTesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).",
       "link": "http://nitter.meowing.monster/BLKMDL3/status/2110886094074212798#m",
       "date": "Fri, 16 Oct 2026 00:10:37 GMT",
-      "text_zh": "FSD v14.3 lite/FSD v14.3.12 的大规模推出。检查您的应用程序！\n\n\nTeslascope（@teslascope）\n\n根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
       "tweet_id": "2110886094074212798",
       "quoted": {
         "user": "teslascope",
@@ -826,10 +821,9 @@
       "ctx_done": 1
     },
     {
-      "text": "Roadster Reveal is today!\n\n\nAdam Kasprzak (@UIbyAdam)\n\nToday will be legendary.\n\n\n\n— http://nitter.meowing.monster/UIbyAdam/status/2110759370267279791#m",
+      "text": "Roadster Reveal is today!",
       "link": "http://nitter.meowing.monster/teslascope/status/2110806750932926591#m",
       "date": "Thu, 15 Oct 2026 18:55:20 GMT",
-      "text_zh": "敞篷跑车揭晓就在今天！\n\n\n亚当·卡斯普扎克 (@UIbyAdam)\n\n今天将是传奇。\n\n\n\n— http://nitter.meowing.monster/UIbyAdam/status/2110759370267279791#m",
       "tweet_id": "2110806750932926591",
       "quoted": {
         "user": "UIbyAdam",

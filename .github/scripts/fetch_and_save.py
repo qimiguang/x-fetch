@@ -997,6 +997,37 @@ def _quoted_from_fxt(tw):
     return out if (out["user"] or out["text"] or media) else None
 
 
+def strip_quoted_dup(tweets):
+    """nitter RSS 会把被引用推文的作者/正文/署名链接内联进正文，
+    与 enrich 出的 quoted 上下文重复展示。清洗正文并让译文重译。"""
+    n = 0
+    for t in tweets:
+        q = t.get("quoted") or {}
+        qt, qu = q.get("text") or "", q.get("user") or ""
+        text = t.get("text") or ""
+        if not qt or qt not in text:
+            continue
+        # 先整串移除内联引用（quoted.text 可能含换行，逐行匹配不到）
+        cleaned = text.replace(qt, "")
+        keep = []
+        for ln in cleaned.split("\n"):
+            s = ln.strip()
+            if s.startswith("—") and re.search(r"https?://\S+/status/\d+", s):
+                continue  # nitter 引用署名行
+            if qu and re.fullmatch(r".*\(@" + re.escape(qu) + r"\)", s):
+                continue  # 被引用作者行（如 "DHH (@dhh)"）
+            if ln.strip():
+                keep.append(ln)
+        cleaned = re.sub(r"\n{3,}", "\n\n", "\n".join(keep)).strip()
+        if cleaned and cleaned != text:
+            t["text"] = cleaned
+            t.pop("text_zh", None)  # 旧译文基于脏文本，删除后由 fill_translations 重译
+            n += 1
+        elif not cleaned:
+            t["text"] = text  # 清洗后为空（纯引用推）则保留原文，仅去署名行
+    return n
+
+
 def enrich_reply_context(tweets, limit=30):
     """为回复/引用推文补充原推内容：syndication 未携带时，
     用 fxtwitter 公开接口查推文自身，识别引用（quote）与纯回复。
@@ -1136,6 +1167,7 @@ def main():
         if tweets:
             merged_tweets = merge_with_existing(username, tweets)
             n_ctx = enrich_reply_context(merged_tweets)
+            n_strip = strip_quoted_dup(merged_tweets)
             translated = fill_translations(merged_tweets, TRANSLATE_PER_RUN)
             n_media = download_media(merged_tweets)
             output = {
@@ -1147,7 +1179,7 @@ def main():
             path = f"data/{username.lower()}.json"
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
-            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, ctx {n_ctx}, media downloaded {n_media}) -> {path}")
+            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, ctx {n_ctx}, dedup {n_strip}, media downloaded {n_media}) -> {path}")
             summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
@@ -1160,13 +1192,14 @@ def main():
                     existing_tweets = existing_data.get("tweets", [])
                     n = fill_translations(existing_tweets, TRANSLATE_PER_RUN)
                     n_ctx = enrich_reply_context(existing_tweets)
+                    n_strip = strip_quoted_dup(existing_tweets)
                     n_media = download_media(existing_tweets)
-                    if n or n_ctx or n_media:
+                    if n or n_ctx or n_media or n_strip:
                         existing_data["updated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
                         existing_data["count"] = len(existing_tweets)
                         with open(path, "w", encoding="utf-8") as f:
                             json.dump(existing_data, f, ensure_ascii=False, indent=2)
-                        print(f"  Backfilled {n} translations, ctx {n_ctx}, media {n_media} -> {path}")
+                        print(f"  Backfilled {n} translations, ctx {n_ctx}, dedup {n_strip}, media {n_media} -> {path}")
                 except (json.JSONDecodeError, OSError) as e:
                     print(f"  Backfill skipped: {e}")
             summary[username] = 0
