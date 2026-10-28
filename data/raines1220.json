@@ -1,6 +1,6 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-10-28T06:01:50Z",
+  "updated_at": "2026-10-28T06:23:11Z",
   "count": 1,
   "tweets": [
     {
@@ -20,7 +20,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "FSD 再次从疯子手中救了我。这是它今年帮助我避免的第二次事故。\n视频\n视频\n视频"
     }
   ]
 }

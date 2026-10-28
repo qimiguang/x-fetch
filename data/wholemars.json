@@ -1,6 +1,6 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-28T06:02:13Z",
+  "updated_at": "2026-10-28T06:24:35Z",
   "count": 170,
   "tweets": [
     {
@@ -20,7 +20,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "浪费时间。让信用消亡吧。无论如何，如果该法案在国会获得通过，特朗普将否决该法案。 \n如果你想加速电气化，就通过国家自动驾驶框架。\n超过 160 名众议院民主党议员支持恢复联邦电动汽车信贷的立法。\n以下是该法案提案的内容：\n• 将购买新电动汽车的电动汽车积分翻倍，从 7,500 美元增至 15,000 美元。\n• 将已用电动汽车积分翻倍，从 4,000 美元增至 8,000 美元。\n• 新电动汽车税收抵免的收入门槛较低：\n - 已婚联合报税：225,000 美元（原为 300,000 美元）\n - 户主：169,000 美元（原为 225,000 美元）\n - 单一申报者：112,500 美元（原为 150,000 美元）\n• 该法案将使所有这些税收优惠措施永久化。\n该立法于 10 月 22 日提出，并已提交众议院委员会。它尚未成为法律，也不能保证它会成为法律。"
     },
     {
       "text": "90% of the size of Waymo’s fleet in Texas…\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 1 new 2026 Cybercab with the Texas DMV — now 573 Cybercabs in its 1,080-vehicle TX fleet, with 110 registered in the last 24 hours. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2115270003826257978#m",
@@ -43,7 +44,8 @@
         "user": "clemissima",
         "text": "i’m deleting @Uber and moving to @Waymo absolutely \n\ntoday, my uber driver told me he has four children living in a garage, and that of the $30 i paid for the ride, he was only getting $7.\n\nit’s the 5th time an uber driver has confronted me about tipping him in cash. this time, he pointed to my diamond earrings and trench coat as evidence that i could obviously afford to pay him more. \n\nit’s an astonishing masterclass in incentive design! make the worker desperate enough to go outside their boundaries, make the customer guilty enough to give in, and the company gets off scot-free.\n\nthese are deeply uncomfortable situations for customers to be put in. i empathize with the drivers, but being put on the spot and made to feel personally responsible for someone else’s livelihood is a difficult position to be in."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Uber 对司机所做的事情太可怕了\n我绝对会删除@Uber并转向@Waymo \n今天，我的 Uber 司机告诉我，他有四个孩子住在车库里，而我支付的 30 美元乘车费用中，他只得到了 7 美元。\n这是优步司机第五次与我对质，要求给他现金小费。这次，他指着我的钻石耳环和风衣作为证据，证明我显然有能力付给他更多的钱。 \n这是激励设计方面令人惊叹的大师班！让员工不顾一切地超越自己的界限，让顾客有罪地屈服，而公司却可以逍遥法外。\n对于顾客来说，这些都是非常不舒服的情况。我对司机表示同情，但被置于现场并让他们感到个人对别人的生计负责是一个困难的处境。"
     },
     {
       "text": "Sf ballot be like “Would you like to increase the San Francisco sales tax to 10% so we can contribute another 980 million dollars to making BART more comfortable for the homeless to sleep in?”",
@@ -118,7 +120,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "F1 世界冠军尝试 Cybercab\n视频"
     },
     {
       "text": "Picked up my Tesla model Y today. This car is amazing. Most game changing piece of tech I've bought since the first iPhone came out \n\nAlso, this reco by @ClayTravis is so strong it almost cancels out the fact that he once recommended \"Gladiator 2\" as a \"good movie\"",
@@ -161,7 +164,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "非常酷\n混合现实中的完整马里奥 64！以 90FPS 原生运行真实 3D（无立体垃圾），并且也在我的办公桌上运行！ 😋 \n同样，Opus 5.5 + PICO CLI 组合使其变得非常简单。\n以 90 FPS 的 3D 方式播放老歌真是太幸福了。\n免责声明：我拥有《马里奥 64》的原始实体副本。该项目与任天堂或 PICO 无关。\n视频"
     },
     {
       "text": "$5,000 off. Free Supercharging always sounds great then you use $50 worth a year 😂\nThe one exception is David Moss, he really got his moneys worth on that free supercharging year.\nIf Tesla offered you $5,000 off your next vehicle or free Supercharging for life, which would you choose?\nI think free Supercharging for life would be an awesome perk to have whenever you need it.",
@@ -172,7 +176,8 @@
         "user": "LamarMK",
         "text": "If Tesla offered you $5,000 off your next vehicle or free Supercharging for life, which would you choose?\n\nI think free Supercharging for life would be an awesome perk to have whenever you need it."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "立减 5,000 美元。免费超级充电听起来总是很棒，那么你一年就用了 50 美元😂\n唯一的例外是大卫·莫斯（David Moss），他在免费超级充电的那一年确实物有所值。\n如果 Tesla 为您提供购买下一辆车 5,000 美元折扣或终身免费超级充电服务，您会选择哪一个？\n我认为终身免费超级充电将是一个很棒的福利，只要您需要它。"
     },
     {
       "text": "The iPhone Duo was under-hyped.\n\nAll the hate is none-sense.\n\nOne of the best pieces of hardware in human history. Software will catch up.\n\nI’m reviewing film cuts on a train— immersive, fully mobile. \n\nGood call coupling Ternus entry with this.",
@@ -199,7 +204,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "当埃隆第一次说他想建造卫星送入太空以拯救偏远地区的生命时，我不明白他的意思。他看到了未来……\n当@Starlink 成为哥伦比亚农村地区一位母亲和她的孩子的生命线时。\n24 岁的卡琳娜 (Karina) 在失去孩子后面临着高风险怀孕。从她偏远的社区骑马到镇上可能需要两天的时间。\n一位来访的医生带来了便携式星链终端和超声波机。通过星链，数百公里外的专家现场观看了扫描结果，指导检查并确定是否需要立即转院。\n卡琳娜及时赶到了医院。她的孩子安全出生，她没有出现任何并发症。\nStarlink 将专业医疗指导带入远离城市的家庭，并帮助一位母亲获得紧急护理。\n这就是星链如此重要的原因。当生命受到威胁时，它将人们联系起来提供帮助。\n这种救生技术应该在世界各地都可用。\n视频"
     },
     {
       "text": "With Powershare, your new Tesla can function like a portable battery\nIn the US, it can also power your home with Powerwall 3\nVideo",
@@ -218,7 +224,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "借助 Powershare，您的新 Tesla 可以像便携式电池一样工作\n在美国，它还可以通过 Powerwall 3 为您的家庭供电\n视频"
     },
     {
       "text": "Photo resharing is live.\n\nSee a photo you want to share? Long press it and tap Post photo. The original author gets credit, and you both earn from Original Content Rewards.",
@@ -245,7 +252,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Waymo 圣地亚哥服务区域现在扩大了一倍！"
     },
     {
       "text": "Wow. The original Matic was already super quiet (so quiet you can run it while you sleep), so I can’t imagine what an even quieter version would feel like.\nQuiet just got 20% quieter\nIntroducing Matic Serene\nWe’ve reimagined our vacuum stack from the ground up to make Matic quieter than ever\nVideo",
@@ -264,7 +272,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "哇。最初的 Matic 已经非常安静（安静到你可以在睡觉时运行它），所以我无法想象更安静的版本会是什么样的感觉。\n安静程度降低了 20%\nMatic Serene 简介\n我们从头开始重新设计了真空堆栈，使 Matic 比以往更安静\n视频"
     },
     {
       "text": "Early days, but we're beginning to hire Bots onto our team.\nOur sales operations team built Shared Bots that help reps move deals faster.\nAccount Intel Bot updates the CRM after calls. Quote Bot prepares proposals and order forms. Deal Bot reviews non-standard terms and routes exceptions for approval.",
@@ -283,7 +292,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "虽然还处于早期阶段，但我们已经开始雇佣机器人加入我们的团队。\n我们的销售运营团队构建了共享机器人，帮助代表更快地推动交易。\n帐户 Intel Bot 在通话后更新 CRM。 Quote Bot 准备提案和订单。 Deal Bot 会审查非标准条款并路由例外情况以供批准。"
     },
     {
       "text": "A Storm of Cybercabs\nWow, look at all these Tesla Cybercabs and Model Y Robotaxis heading back to base. This is the largest number of Tesla robotaxis ever seen together on public roads.\nTesla is nearing 1,000 robotaxis registered in Texas to date.\nVideo",
@@ -302,7 +312,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "网络出租车风暴\n哇，看看所有这些 Tesla Cybercabs 和 Model Y Robotaxis 返回基地。这是公共道路上出现的特斯拉机器人出租车数量最多的一次。\n迄今为止，特斯拉在德克萨斯州注册的机器人出租车已接近 1,000 辆。\n视频"
     },
     {
       "text": "not the best use case to highlight to the press",
@@ -321,7 +332,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "不是向媒体强调的最佳用例"
     },
     {
       "text": "good analysis\nCanaccord Genuity analyst George Gianarikas says those who viewed @Tesla’s Q3 earnings call negatively are “flatly wrong.”\n\"The tea-leaf readers whispering about a 'subdued' tone on the call are flatly wrong, in our opinion. This was one of the most unapologetically bullish Tesla calls in many a moon.\nThink about it, on the call management said that:\n• EVs have their highest backlog in 4 years, with Musk adding that \"...we are producing and delivering as many cars as we can...\".\n• FSD attach rates surged to over 75% of new vehicle deliveries in North America (nearly a 20% QoQ increase), with active subscriptions reaching 1.74 million. Whoa.\n• High-volume manufacturing of Optimus is officially underway in Fremont, yielding the company’s first production-grade humanoid robots built on a standard assembly line.\n• Energy storage demand is \"very strong\" with Musk adding \"We're actually almost sold out of all Megapacks for 2027, and we're ramping production as quickly as possible to meet demand. We also expect gross margins on that to increase meaningfully.\"\n• Not to mention recent launches of the Cybercab, Tesla Semi, and Roadster (with the latter unlikely to be needle-moving).\nCall us biased, but between that conference call commentary and shiny new product drops, Tesla appears to be dripping with growth potential. Count us in.\"\nGeorge reiterated a $442 price target for $TSLA.",
@@ -340,7 +352,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "很好的分析\nCanaccord Genuity 分析师 George Gianarikas 表示，那些对特斯拉第三季度财报电话会议持负面看法的人“完全错误”。\n“在我们看来，那些小声谈论这次电话会议语气‘温和’的读者完全是错误的。这是多年来特斯拉最毫无歉意的看涨电话之一。\n想一想，在通话管理中是这样说的：\n• 电动汽车的积压量达到了 4 年来最高水平，马斯克补充道，“……我们正在尽可能多地生产和交付汽车……”。\n• FSD 附加率飙升至北美新车交付量的 75% 以上（环比增长近 20%），活跃订阅量达到 174 万辆。哇哦。\n• Optimus 的大批量生产已在弗里蒙特正式开始，生产出该公司首款基于标准装配线的生产级人形机器人。\n• 能源存储需求“非常强劲”，马斯克补充道，“实际上，我们 2027 年的所有 Megapack 几乎都卖完了，我们正在尽快提高产量以满足需求。我们还预计毛利率将大幅增加。”\n• 更不用说最近推出的 Cybercab、Tesla Semi 和 Roadster（后者不太可能引起轰动）。\n说我们有偏见，但在电话会议评论和闪亮的新产品发布之间，特斯拉似乎充满了增长潜力。算我们一个吧。”\n乔治重申 TSLA 的目标价为 442 美元。"
     },
     {
       "text": "The Bitcoin was stolen within 19 hours\n\n\nhacker.house (@hackerfantastic)\n\nSomeone has created a vulnerable PHP website, loaded it with a Bitcoin wallet, and challenged the Internet to hack into it and they can keep the Bitcoin. It has a running timer to show if the PHP exploitability was over-hyped. stealmybitcoin.com/\n\n\n\n— http://nitter.meowing.monster/hackerfantastic/status/2114358107283620060#m",
@@ -377,7 +390,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "多么他妈的入口\n弗朗茨开着新款特斯拉跑车去参加彼得森的晚宴。\n喜欢二面角的门。他们打开了后部，这样每个人都可以看到 COPV。\n视频"
     },
     {
       "text": "nitter.mizuki.st/i/spaces/1lJQRWMAqXXxE\n\nLink\n\nTwitter Space\n\nClick to view Space\nhttp://nitter.meowing.monster/i/spaces/1lJQRWMAqXXxE",
@@ -468,7 +482,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Grok 现已在 Model Y Robotaxi 上使用\nGrok 刚刚登陆达拉斯@robotaxi 车队！骑行时您问 Grok 的第一件事是什么？\n向@TeslaSI 团队致敬！\n视频"
     },
     {
       "text": "Robotaxis as far as the eye can see! 🤩",
@@ -487,7 +502,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "目之所及的机器人出租车！ 🤩"
     },
     {
       "text": "Swarm",
@@ -690,7 +706,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "随着年龄的增长，我意识到我患有偏执妄想的精神分裂症亲戚比那些拒绝他的人的命中率更高。\nWTF，3000 美元的三星电视拥有始终开启的麦克风、自动内容识别、地理跟踪、网络映射，并将您的数据发送给 Samsung + 400 合作伙伴。\n兄弟在注意到荒谬的针对性广告后，对一台全新的 2025 款三星电视进行了 Root。\n固件被锁定，所以是零日漏洞。 \n获得了 root shell。\n然后发现：始终在线的语音服务、ACR、地理、完整的遥测管道和四个独立的 DRM 系统。 \n这不是错误，而是产品的问题。"
     },
     {
       "text": "I tried to make a video about the updates to the Cybercab since launch. I had to keep re-editing it before upload because Telsa kept updating Cybercab. And after the video went live, there's new info!\n\nThis is the craziest pace of updates I've seen to a Tesla product yet.",
@@ -717,7 +734,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "我们终于对“Facebook 正在通过我的手机监听我”有了解释。他们永远不会这样做（而且这实际上是不可能的）。\n事实证明，其他人都是如此——然后将其卖给广告数据经纪人。\nWTF，3000 美元的三星电视拥有始终开启的麦克风、自动内容识别、地理跟踪、网络映射，并将您的数据发送给 Samsung + 400 合作伙伴。\n兄弟在注意到荒谬的针对性广告后，对一台全新的 2025 款三星电视进行了 Root。\n固件被锁定，所以是零日漏洞。 \n获得了 root shell。\n然后发现：始终在线的语音服务、ACR、地理、完整的遥测管道和四个独立的 DRM 系统。 \n这不是错误，而是产品的问题。"
     },
     {
       "text": "this guy fucks\nVideo",
@@ -736,7 +754,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "这家伙乱搞\n视频"
     },
     {
       "text": "Our definition of crashes is so loose with autonomous vehicles. Going through a pothole is not a car crash 😂\nTesla has reported the first Cybercab crash to the National Highway Traffic Safety Administration (NHTSA).\nAccording to the report, a Cybercab was traveling at approximately 5 mph (8 km/h) when it drove into a large, water-filled pothole, causing damage to the vehicle.\nPersonally, I don't think this incident should be viewed in the same way as a typical traffic accident.\nAt the time, a safety monitor was inside the vehicle, and there were no passengers.\nWhile the vehicle sustained damage and the incident was officially reported as a crash, I believe it makes more sense to view this as an edge case encountered during autonomous driving development and testing.\nAfter all, identifying and learning from these unusual scenarios is an essential part of improving autonomous driving technology and making it safer and more reliable.",
@@ -755,7 +774,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "对于自动驾驶汽车，我们对碰撞的定义非常宽松。走过坑洼不是车祸😂\n特斯拉已向美国国家公路交通安全管理局 (NHTSA) 报告了第一起 Cybercab 事故。\n报告称，一辆 Cyber​​cab 以大约 5 英里/小时（8 公里/小时）的速度行驶，突然驶入一个充满水的大坑，导致车辆损坏。\n就我个人而言，我认为这起事件不应该像典型的交通事故一样来看待。\n当时，车内有安全监视器，且没有乘客。\n虽然车辆遭受损坏并且该事件被正式报告为碰撞，但我认为将其视为自动驾驶开发和测试期间遇到的边缘情况更有意义。\n毕竟，识别这些不寻常的场景并从中学习是改进自动驾驶技术并使其更安全、更可靠的重要组成部分。"
     },
     {
       "text": "My Tesla just drove me to Best Buy to pick up an iPhone Duo. \n\nIt was driving so smoothly and perfectly on the way there, but out or muscle memory I wanted to stop it and switch to manual to park myself… but I didn’t get a chance. \n\nBut the car just went into the parking lot, found a spot, and parked perfectly entirely on its own. Couldn’t have done it better myself. \n\nNote to self: You can just let the car park now. It usually gets it right, even in some complex multi story garages.",
@@ -829,7 +849,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "我的天啊！！新的 Roadster 即将来到彼得森！\n公众第一次有机会观看新款 @Tesla Roadster 将于周六在洛杉矶彼得森博物馆开始，并将在主大厅展出（10 月 24 日周六 - 10 月 27 日周二）！\n根据博物馆网站， \n“2026 年 10 月 14 日，特斯拉在德克萨斯州麦格雷戈推出 Roadster，创造了历史。现在，与埃隆和团队同台亮相的同一辆 Roadster 车辆将在彼得森汽车博物馆展出，为期四天。 \n这是公众第一次能够近距离体验该车辆，并了解特斯拉如何挑战设计、工程和物理的极限，交付一款精心制作的车辆，其性能水平与其他车辆不同。\n任何其他量产车。”"
     },
     {
       "text": "Try Cock @Bot",
@@ -874,7 +895,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "很高兴看到 NHTSA 如此努力地使 Cyber​​cab 等车辆的规则现代化。我想现在我们知道为什么他们把转向灯声音带回来了\nNHTSA 今天宣布，他们正在提出新规则，旨在消除美国联邦对没有方向盘或踏板的自动驾驶汽车（例如 @Tesla 的 Cybercab）的监管障碍。\n拟议的变更包括：\n• 消除不带方向盘或踏板的车辆中对手动操作转向信号控制装置的要求：“NHTSA 得出的结论是，对于安装在不带手动操作驾驶控制装置的车辆上的转向信号操作装置，当前标准中的自取消和手动操作控制要求是不必要的。”\n• 允许自动驾驶系统控制转向灯、危险警示灯和远光/近光，而无需传统的驾驶员操作开关。\n• 取消了没有手动驾驶控制装置的车辆中转向灯和远光灯的某些仪表板指示器要求。\n• 允许使用可选的青色车外灯来指示车辆何时自主运行，并对其位置、亮度和操作提出标准化要求。\n• 消除对垂直前灯布置的过时限制，为汽车制造商提供更大的设计灵活性。\n• 允许在制造商指定的电压下测试现代集成车头灯，而不是要求 12.8 伏。\nNHTSA 表示，这些变化旨在消除不必要的监管障碍、降低成本并在不影响车辆安全的情况下实现创新。"
     },
     {
       "text": "Hear me out",
@@ -909,7 +931,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Robotaxi 服务每周都变得更加有用\n特斯拉刚刚扩大了位于德克萨斯州奥斯汀的 Robotaxi 服务区域。\n新的服务区域现在包括奥斯汀 F1 赛道周围的区域，本周末将有 40 万人参加那里的比赛庆祝活动。 Tesla 的 Robotaxi 服务现在也运行至凌晨 1 点（之前是凌晨 12 点）"
     },
     {
       "text": "Tesla Robotaxi now runs until 1 AM! That’s just five hours of downtime per night. 24/7 here we come\nBreaking:\nTesla Robotaxi expands operations in Austin, TX to now 1AM \n& \nexpands Geofence to also include Circuit of the America’s racetrack where Formula 1 will be taking place this weekend",
@@ -928,7 +951,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Tesla Robotaxi 现在运行至凌晨 1 点！每晚只有五个小时的停机时间。 24/7 我们来了\n打破：\nTesla Robotaxi 将德克萨斯州奥斯汀的业务扩展至凌晨 1 点 \n& \n扩展了地理围栏，将美国赛道纳入本周末将举行一级方程式赛车的赛道"
     },
     {
       "text": "Grok @Bot is an incredible life & business manager. Can help you with almost anything!\nLike having a genius employee.\nYears from now, people will look back and say Grok Bot was the moment AI actually became useful for normal people.\nThis week, I just texted it and:\n1/ My kids woke up to new math and reading worksheets already printed\n2/ It planned and booked trips for my family\n3/ It ordered stuff for me from one text\n4/ It printed my return label for a shoe I own and set a reminder so I don't miss the deadline\n5/ It built a page that breaks down my net worth \nAnd look at what other people are getting it to do too:\n6/ Book a flight from start to finish\n7/ Build a website or an Etsy store\n8/ Reconcile crypto taxes that would cost hundreds\n9/ Book a Tesla tire rotation during school drop-off\n10/ Order itself a 3D-printed body and mail the parts home\nYou just text it like a person.\nI've been early on Tesla. \nI've been early on SpaceX.\nI'm telling you, I'm early on this too.\nThis is the greatest thing that has happened to AI.",
@@ -939,7 +963,8 @@
         "user": "Teslaconomics",
         "text": "Years from now, people will look back and say Grok Bot was the moment AI actually became useful for normal people.\n\nThis week, I just texted it and:\n\n1/ My kids woke up to new math and reading worksheets already printed\n2/ It planned and booked trips for my family\n3/ It ordered stuff for me from one text\n4/ It printed my return label for a shoe I own and set a reminder so I don't miss the deadline\n5/ It built a page that breaks down my net worth \n\nAnd look at what other people are getting it to do too:\n\n6/ Book a flight from start to finish\n7/ Build a website or an Etsy store\n8/ Reconcile crypto taxes that would cost hundreds\n9/ Book a Tesla tire rotation during school drop-off\n10/ Order itself a 3D-printed body and mail the parts home\n\nYou just text it like a person.\n\nI've been early on Tesla. \n\nI've been early on SpaceX.\n\nI'm telling you, I'm early on this too.\n\nThis is the greatest thing that has happened to AI."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Grok @Bot 是一位令人难以置信的生活和业务经理。几乎可以帮助您解决任何问题！\n就像拥有一个天才员工一样。\n多年后，人们回顾过去时会说，Grok Bot 是人工智能真正对普通人有用的时刻。\n这周，我刚刚发短信说：\n1/ 我的孩子们醒来后发现新的数学和阅读已经打印的工作表\n2/ 它为我的家人计划并预订了旅行\n3/ 它通过一条短信为我订购了东西\n4/ 它为我拥有的鞋子打印了退货标签，并设置了提醒，这样我就不会错过最后期限\n5/它建立了一个详细分析我的净资产的页面 \n看看其他人也让它做什么：\n6/ 从始至终预订航班\n7/ 建立网站或 Etsy 商店\n8/ 协调加密货币税将花费数百美元\n9/ 在放学期间预订 Tesla 轮胎轮换\n10/ 为自己订购 3D 打印车身并将零件邮寄回家\n您只需像一个人一样发短信即可。\n我很早就关注特斯拉了。 \n我很早就加入了 SpaceX。\n我告诉你，我也很早就在这方面了。\n这是人工智能发生的最伟大的事情。"
     },
     {
       "text": "The Tesla & Robotaxi iOS apps should take full advantage of the larger apps when in iPad or iPhone Duo unfolded mode\n\nJust showing the same interface smooshed in the center is lazy and not what I expect from Tesla. I’m sure they’ll finish optimizing all the screens in a future update though.",
@@ -966,7 +991,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "顺便说一句，我的 SSL 私钥"
     },
     {
       "text": "Robotaxi App iPhone Duo support out now",
@@ -977,7 +1003,8 @@
         "user": "Tesla_App_iOS",
         "text": "New Robotaxi Version Detected: 26.10.5\nChangelog is: \nTablet and iPhone Duo supportmore"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Robotaxi 应用程序 iPhone Duo 现已支持"
     },
     {
       "text": "bro is going to break the counter\nVideo",
@@ -996,7 +1023,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "兄弟要打破柜台了\n视频"
     },
     {
       "text": "you need to be mentally ill to be some sort of popular streamer or internet eceleb and it doesn’t bode well how much influence this class of people has on the future of politics",
@@ -1081,7 +1109,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "特斯拉扩展自动驾驶，人们在视频通话和音频通话中失去了它😂\n视频"
     },
     {
       "text": "Tesla will be doing video calls for the next earnings call\n\n\nElon Musk (@elonmusk)\n\nIt will be next time\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m",
@@ -1244,7 +1273,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "一定要带去旧金山，长途自驾公路旅行真好。 \n另外，如果你需要的话，特斯拉在他们的商店里有一个后座宠物套\n新车已经报废了！\nFSD实际上也很疯狂。生活质量的改善尤其是洛杉矶走走停停的交通状况令人惊叹。我实际上可能会尝试从洛杉矶到旧金山的一路 FSD\n是的，驾驶特斯拉现在已经成为我的全部个性\n视频"
     },
     {
       "text": "Today would be a great day to launch Cybercab service in Dallas",
@@ -1271,7 +1301,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "不错，新的用户界面显示附近的图钉，而不仅仅是当前选择的图钉！ Pin 还保持固定在其实际位置，而不是用户放置的位置，因此不会再出现令人困惑的变形 \n这里的体验得到了巨大的改善！"
     },
     {
       "text": "125 miles in with FSD v14.3.13, here’s my review and experiences so far with this new build:\n\nFSD v14.3.13 may seem like a minor point change, but I’m seeing a bunch of noticeable fixes and improvements over the previous v14.3.12. \n\nFirst off, highway driving is HUGELY improved.",
@@ -1298,7 +1329,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "《疯狂的麦克斯》模式现已首次在澳大利亚推出！\n等等 WTF，我们要下《MAD MAX》了吗？？？？！\n立即安装！"
     },
     {
       "text": "Tesla Self-Driving 14.3.13 just drove to Erewhon and parked in an underground parking garage entirely on its own. Well done 👏",
@@ -1331,7 +1363,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "感谢谢尔盖帮助拯救加州\n政治：谷歌联合创始人谢尔盖·布林（Sergey Brin）在过去20年里在政治上的投资是他的40倍，试图击败加州拟议的亿万富翁税\n亿万富翁财富税通过的可能性为 23%"
     },
     {
       "text": "Dear god it's inventing German from first principles\nGPT-6.1-Sol reasoning traces\ntotally legible, nothing to worry about",
@@ -1350,7 +1383,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "天哪，它从第一原理开始发明德语\nGPT-6.1-Sol 推理痕迹\n完全清晰，无需担心"
     },
     {
       "text": "Tesla Self-Driving 14.3.12 now rolling out in Australia and New Zealand",
@@ -1369,7 +1403,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Tesla 自动驾驶 14.3.12 现已在澳大利亚和新西兰推出"
     },
     {
       "text": "twice the fun",
@@ -1380,7 +1415,8 @@
         "user": "TSLAFanMtl",
         "text": "Another fun day lined up for tomorrow with $TSLA earnings."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "双倍的乐趣"
     },
     {
       "text": "It's worse than Heartbleed. it should be on the front page of every newspaper in the morning (but it wont be)\nIt's so weird living in a tech dominated world where everyone has a smartphone and is on the internet constantly..\n..yet most people will never even hear about this.\nMillions of IoT devices, Docker containers, forgotten Linux machines, unmaintained CLI tools, etc. are all going to be relentlessly hacked via safely signed malware for the next several years or maybe indefinitely.\neMudhra hack might be the most important event of the year.",
@@ -1391,7 +1427,8 @@
         "user": "CupOJoseph",
         "text": "Millions of IoT devices, Docker containers, forgotten Linux machines, unmaintained CLI tools, etc. are all going to be relentlessly hacked via safely signed malware for the next several years or maybe indefinitely.\n\neMudhra hack might be the most important event of the year."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "这比《心血》还要糟糕。它应该出现在早上每份报纸的头版（但它不会）\n生活在一个科技主导的世界里真是太奇怪了，每个人都有智能手机并且不断上网。\n..然而大多数人永远不会听说过这个。\n在接下来的几年里，甚至可能无限期地，数以百万计的物联网设备、Docker 容器、被遗忘的 Linux 机器、无人维护的 CLI 工具等都将被安全签名的恶意软件无情地攻击。\neMudhra 黑客攻击可能是今年最重要的事件。"
     },
     {
       "text": "We believe there is an 80%-90% chance that Tesla and SpaceX merge by the end of 2027 for a number of strategic AI and data-driven reasons and this is the right move for Musk. Board Committees on both Tesla and SpaceX analyzing deal merits and price. 🏆🚀🐂",
@@ -1491,7 +1528,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "确保修补您的 PHP 服务器。甚至可能想提前把它们拿下来。\nphp2shell\n明天是地狱般的一天。\n视频"
     },
     {
       "text": "conservation of intelligence\n\nVideo",
@@ -1526,7 +1564,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "我不敢相信这是像半个网络一样 pwning 的演示视频 🤣\nphp2shell\n明天是地狱般的一天。\n视频"
     },
     {
       "text": "Full details of a remotely exploitable vulnerability in the core engine of *all* PHP versions will be released tomorrow, October 21st. If your organization has internet facing PHP applications then you need to be ready to patch the minute the update is released or *strongly* consider taking the application offline until you can:\nphp.net/index.php#2026-10-20…\nLink\nwww.php.net\nPHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.\nphp.net\n🚨 PHP warns of two critical vulnerabilities as emergency patches arrive tomorrow\nThe PHP security team will release updates on October 21 at 14:00 UTC for two vulnerabilities, each rated 9.2 under CVSS v4.0.\n⠀\nSecurity researchers identified the flaws as CVE-2026-109618 and CVE-2026-109619 and described them as remote code execution vulnerabilities reportedly affecting PHP versions 5 through 8.\nPHP has not yet confirmed the affected versions, exploitation requirements or fixed releases.\n⠀\nThe vulnerabilities were reportedly leaked before their planned disclosure. Researchers said they have not observed active exploitation, while PHP warned it may release the patches early if technical details become public or exploitation is detected.\n⠀\nAdministrators should identify PHP installations now and prepare to apply the updates as soon as they become available.",
@@ -1545,7 +1584,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "*所有* PHP 版本的核心引擎中可远程利用的漏洞的完整详细信息将于明天（10 月 21 日）发布。如果您的组织拥有面向互联网的 PHP 应用程序，那么您需要准备好在更新发布后立即打补丁，或者“强烈”考虑使应用程序脱机，直到您可以：\nphp.net/index.php#2026-10-20…\n链接\nphp.net\nPHP 是一种流行的通用脚本语言，它为从博客到世界上最受欢迎的网站的所有内容提供支持。\nphp.net\n🚨 随着紧急补丁明天发布，PHP 警告存在两个严重漏洞\nPHP 安全团队将于世界标准时间 10 月 21 日 14:00 发布两个漏洞的更新，每个漏洞在 CVSS v4.0 下的评级为 9.2。\n⠀\n安全研究人员将这些缺陷识别为 CVE-2026-109618 和 CVE-2026-109619，并将它们描述为远程代码执行漏洞，据报道影响 PHP 版本 5 至 8。\nPHP 尚未确认受影响的版本、利用要求或修复版本。\n⠀\n据报道，这些漏洞在计划披露之前就已被泄露。研究人员表示，他们尚未观察到活跃的利用情况，而 PHP 警告称，如果技术细节公开或检测到利用情况，它可能会提前发布补丁。\n⠀\n管理员应立即识别 PHP 安装，并准备在更新可用时立即应用它们。"
     },
     {
       "text": "Its basically impossible to overstate how bad this is going to be..\n\n\nMarcel Pociot 🧪 (@marcelpociot)\n\nOh boy, it's about to get serious tomorrow 😬\n\ncert.europa.eu/publications/…\n\n\n\n\n\n— https://nitter.kareem.one/marcelpociot/status/2112645972258128011#m",
@@ -1576,7 +1616,8 @@
         "user": "ghidraninja",
         "text": "So the private-key for the eMudhra (revoked) intermediate was apparently 4.\n\nHow is the root still trusted? How broken are your processes if this can happen?\n\nAnd honestly: How have we (as an industry) not noticed earlier :("
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "相关的 XKCD 再次出击，这次是来真的。  证书颁发机构实际上生成了私钥，其中 4 是密钥的一部分。\n因此，eMudhra（已撤销）中间体的私钥显然是 4。\nroot 如何仍受信任？如果发生这种情况，您的流程会受到多大的破坏？\n老实说：我们（作为一个行业）怎么没有早点注意到:("
     },
     {
       "text": "I don’t understand? How",
@@ -1595,7 +1636,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "我不明白？如何"
     },
     {
       "text": "there should be an icann death penalty for ca's this incompetent",
@@ -1699,175 +1741,423 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 正在自己的计算机内运行 Try Omarchy。因此您可以用它开发插件和应用程序。相当甜蜜！\n我现在有一个带有自己的 Omarchy 机器的 @Bot。太酷了😅\n这里是切换主题、平铺窗口和打开我的市场小部件。相当普通的桌面东西，直到你记得谁在开车。\n这意味着我可以开始为我的插件委托视觉质量检查。让它打开面板，尝试不同的主题，检查布局并向我展示屏幕上实际发生的情况。\n像这样的云设置仍然需要一些调整（帮助一个家伙@poteto），但是拥有另一双眼睛和一台单独的机器来测试是一个非常令人兴奋的步骤。\n我给我的机器人一个 Linux 桌面。当然，我会把它付诸实践。\n视频"
     },
     {
-      "text": "The same problem a Ferrari or a Lamborghini solves\n\n\nRaven (@ravenunreal)\n\nBefore praising the flying Tesla, ask yourself what problem it actually solves.\n\n\n\n— http://nitter.meowing.monster/ravenunreal/status/2111161573934813412#m",
+      "text": "The same problem a Ferrari or a Lamborghini solves",
       "link": "http://nitter.meowing.monster/wholemars/status/2112419901948527008#m",
       "date": "Tue, 20 Oct 2026 05:45:26 GMT",
-      "text_zh": "法拉利或兰博基尼解决了同样的问题\n\n\n乌鸦（@ravenunreal）\n\n在称赞会飞的特斯拉之前，先问问自己它实际上解决了什么问题。\n\n\n\n— http://nitter.meowing.monster/ravenunreal/status/2111161573934813412#m"
+      "tweet_id": "2112419901948527008",
+      "quoted": {
+        "user": "ravenunreal",
+        "text": "Before praising the flying Tesla, ask yourself what problem it actually solves."
+      },
+      "ctx_done": 1,
+      "text_zh": "法拉利或兰博基尼解决了同样的问题"
     },
     {
       "text": "From January - August this year, the U.S. used vehicle market was down 1.1%, but Tesla registrations were up 10.4% according to S&P Global Mobility",
       "link": "http://nitter.meowing.monster/wholemars/status/2112410668578288102#m",
       "date": "Tue, 20 Oct 2026 05:08:44 GMT",
-      "text_zh": "标准普尔全球移动公司的数据显示，今年 1 月至 8 月，美国二手车市场下降 1.1%，但特斯拉注册量增长 10.4%"
+      "text_zh": "标准普尔全球移动公司的数据显示，今年 1 月至 8 月，美国二手车市场下降 1.1%，但特斯拉注册量增长 10.4%",
+      "tweet_id": "2112410668578288102",
+      "ctx_done": 1
     },
     {
-      "text": "You can now reorder your Tesla favorites\n\n\nKevin (@tesliusonx)\n\nI discovered something in my Tesla today!\n\nFor obvious reasons, I can’t reveal my mine… but I just wanted to let all you lovely Tesla owners know that you can now organize the order of your Favorite destinations!\n\nSimply, tap and hold one of your favorite places. Then, move and drag using the 3-bar icon.\n\nThank you @Tesla for this feature\n\n\n\n— http://nitter.meowing.monster/tesliusonx/status/2112381797887807615#m",
+      "text": "You can now reorder your Tesla favorites",
       "link": "http://nitter.meowing.monster/wholemars/status/2112406748829298785#m",
       "date": "Tue, 20 Oct 2026 04:53:10 GMT",
-      "text_zh": "您现在可以重新订购您最爱的特斯拉\n\n\n凯文（@tesliusonx）\n\n今天我在我的特斯拉里发现了一些东西！\n\n出于显而易见的原因，我不能透露我的……但我只是想让所有可爱的特斯拉车主知道，您现在可以组织您最喜欢的目的地的顺序！\n\n只需点击并按住您最喜欢的地方之一。然后，使用三栏图标移动和拖动。\n\n感谢@Tesla 提供此功能\n\n\n\n— http://nitter.meowing.monster/tesliusonx/status/2112381797887807615#m"
+      "tweet_id": "2112406748829298785",
+      "quoted": {
+        "user": "tesliusonx",
+        "text": "I discovered something in my Tesla today!\n\nFor obvious reasons, I can’t reveal my mine… but I just wanted to let all you lovely Tesla owners know that you can now organize the order of your Favorite destinations!\n\nSimply, tap and hold one of your favorite places. Then, move and drag using the 3-bar icon.\n\nThank you @Tesla for this feature"
+      },
+      "ctx_done": 1,
+      "text_zh": "您现在可以重新订购您最爱的特斯拉"
     },
     {
       "text": "\"This car really sucks. [...]  it could stick upside down. You might say, like, how often do you want to stick upside down in a car? Maybe not that often. \n\nBut it actually has this benefit on the track or just driving, where the downforce on the car means you can corner incredibly well. You can corner so well  it looks like you're breaking physics, because the car sticks to the ground so hard. So acceleration and cornering, it's going to crush every track record that has ever existed\"\n\n— @elonmusk, Tesla CEO, on the Roadster",
       "link": "http://nitter.meowing.monster/wholemars/status/2112403024773538233#m",
       "date": "Tue, 20 Oct 2026 04:38:22 GMT",
-      "text_zh": "“这辆车真的很糟糕。[...]它可能会倒立。你可能会说，你想多久倒立在车里？也许不会那么频繁。 \n\n但它实际上在赛道上或只是在驾驶时具有这种优势，汽车上的下压力意味着您可以非常好地过弯。你的转弯能力如此之好，看起来就像你打破了物理原理，因为汽车粘在地面上的力道太大了。所以加速和转弯，它将打破所有曾经存在的记录”\n\n——@elonmusk，特斯拉首席执行官，谈 Roadster"
+      "text_zh": "“这辆车真的很糟糕。[...]它可能会倒立。你可能会说，你想多久倒立在车里？也许不会那么频繁。 \n\n但它实际上在赛道上或只是在驾驶时具有这种优势，汽车上的下压力意味着您可以非常好地过弯。你的转弯能力如此之好，看起来就像你打破了物理原理，因为汽车粘在地面上的力道太大了。所以加速和转弯，它将打破所有曾经存在的记录”\n\n——@elonmusk，特斯拉首席执行官，谈 Roadster",
+      "tweet_id": "2112403024773538233",
+      "ctx_done": 1
     },
     {
       "text": "Tesla Roadster interior",
       "link": "http://nitter.meowing.monster/wholemars/status/2112402419661611217#m",
       "date": "Tue, 20 Oct 2026 04:35:58 GMT",
-      "text_zh": "特斯拉跑车内饰"
+      "text_zh": "特斯拉跑车内饰",
+      "tweet_id": "2112402419661611217",
+      "ctx_done": 1
     },
     {
       "text": "Self-driving cars are on the brink of becoming commonplace. Next up are the highway’s biggest, loudest and most intimidating vehicles: driverless trucks. on.wsj.com/4i2FPi0\n\nLink\n\n\n\nThe Most Polite Trucker in America Is a Driverless 18-Wheeler\n\nThey’re on the interstate in Texas and can do almost everything a human truck driver does, except honk.\nwsj.com",
       "link": "http://nitter.meowing.monster/WSJ/status/2112394488207258047#m",
       "date": "Tue, 20 Oct 2026 04:04:27 GMT",
-      "text_zh": "自动驾驶汽车即将变得司空见惯。接下来是高速公路上最大、最吵闹、最令人生畏的车辆：无人驾驶卡车。 on.wsj.com/4i2FPi0\n\n链接\n\n\n\n美国最有礼貌的卡车司机是一辆无人驾驶 18 轮卡车\n\n它们在德克萨斯州的州际公路上，几乎可以做人类卡车司机所做的所有事情，除了按喇叭。\n华尔街日报"
+      "text_zh": "自动驾驶汽车即将变得司空见惯。接下来是高速公路上最大、最吵闹、最令人生畏的车辆：无人驾驶卡车。 on.wsj.com/4i2FPi0\n\n链接\n\n\n\n美国最有礼貌的卡车司机是一辆无人驾驶 18 轮卡车\n\n它们在德克萨斯州的州际公路上，几乎可以做人类卡车司机所做的所有事情，除了按喇叭。\n华尔街日报",
+      "tweet_id": "2112394488207258047",
+      "ctx_done": 1
     },
     {
       "text": "Image",
       "link": "http://nitter.meowing.monster/wholemars/status/2112391539406364719#m",
       "date": "Tue, 20 Oct 2026 03:52:43 GMT",
-      "text_zh": "图像"
+      "text_zh": "图像",
+      "tweet_id": "2112391539406364719",
+      "ctx_done": 1
     },
     {
       "text": "Took my first Cybercab today in Austin. Never riding Uber again when a cyber is available.",
       "link": "http://nitter.meowing.monster/bscholl/status/2112382368560627919#m",
       "date": "Tue, 20 Oct 2026 03:16:17 GMT",
-      "text_zh": "今天在奥斯汀乘坐了我的第一辆网络出租车。当网络可用时，永远不要再乘坐优步。"
+      "text_zh": "今天在奥斯汀乘坐了我的第一辆网络出租车。当网络可用时，永远不要再乘坐优步。",
+      "tweet_id": "2112382368560627919",
+      "ctx_done": 1
     },
     {
-      "text": "People First's anti-robotaxi website shares a strong production trail with an Uber-funded campaign (CAR)\n\nPublic website records connect People First Transportation Alliance's site with Citizens for Affordable Rates, which disclosed $11.6 million from Uber in the first half of 2026. They don't identify who commissioned or paid for People First's site.\n\nPeople First Transportation Alliance has spent the fall campaigning against robotaxis in Washington, D.C. The RSVP page for its Oct 6 rally at the Wilson Building reads \"People First, Not Robotaxis,\" and its flyer reads \"Against Waymo's Robotaxis.\" On Oct 19, the Washington Post asked who is behind the group, and several listed \"founding members\" told the Post they aren't part of it.\n\nI went through the group's website: code, image files, timestamps and domain records, plus the lobbying filings of the people around it. I couldn't find a document that says who pays People First's bills, and I've filed three public records requests that might turn one up. What the records do show is a production trail linking People First's website to the website of Citizens for Affordable Rates, a New York advocacy group whose filings name Uber as its only disclosed funder.\n\n- Shared accounts. Both sites' posts are credited to the same Squarespace author account. People First's site was created by an account created at the same second that author ID encodes.\n- Shared designer. Both sites' logos carry the same named Canva design identity, \"pamela.stamoulis.\" So does a billboard ad for Citizens for Affordable Rates (CAR).\n- A shared date. One People First post carries the exact anomalous date of a CAR post, down to the millisecond. That strongly suggests a reused post or a common source.\n\nCitizens for Affordable Rates (CAR) launched in January 2025 as an \"Uber-led coalition\" to cut New York's car insurance costs. Its filing for January–June 2026 lists $11,615,454 from Uber, the only funder disclosed in that filing.\n\nAmelia Adams, a New York consultant and former registered Uber lobbyist, told the Post she helps run People First. CAR's January–June 2026 filing lists expense rows to her firm, Adams Advisors, totaling $213,872 for \"civic engagement/community organizing.\" Two of those rows share the same date and amount, so the actual total paid may be lower. Adams and Uber told the Post that this work is unrelated to autonomous vehicles or People First. Uber also said it wasn't involved in People First's website or its D.C. protest.\n\n1. The same accounts appear on both sites\n\nSquarespace sites expose internal data to anyone who adds `?format=json` to a page address. Comparing that data:\n\n- The same author account. All four of People First's news posts, and 134 of CAR's 192 posts, are credited to one Squarespace author account (ID `558b041e…`).\n- The same creator account. People First's site settings include a field recording when the account that created the site was itself created: June 24, 2015, 19:25:18 UTC. That matches, to the second, the time encoded in the author ID. A profile created just for one site would carry a much later date. So the account that created People First's site is very likely the same account credited with CAR's posts.\n- The same designer. People First's logo and favicon, and seven CAR image files from five Canva designs, carry embedded Canva export data with the same user ID and the name \"pamela.stamoulis.\" One of them is a CAR billboard ad (more below).\n\nThe Post first reported the \"pamela.stamoulis\" username, noted that a digital strategist named Pamela Stamoulis has ties to New York and Washington, and said she didn't respond. Federal campaign-finance records show a Pamela Stamoulis paid as staff by Senate Majority PAC in 2017–18 and by Biden for President in 2019–20. She lists herself as a self-employed consultant on donation records since 2021.\n\n2. A People First post carries a CAR post's anomalous date\n\nEvery Squarespace post has a visible date field the author can change. On CAR's site, clipped news stories are often backdated to the original article's date.\n\n- May 12, 2025. CAR's site gets a clip of New York Post letters about Councilman Yusef Salaam. Its date field is set to Jan 17, 2024, 3:21 p.m. That date is wrong for the clip, since the letters ran almost two weeks later. The system stores it as `1705522860395`.\n- People First's site. Its New York Post story about California drivers protesting Waymo, from January 2026, carries the same date value, `1705522860395`, down to the millisecond. No other CAR post has it.\n\nA match that precise isn't a coincidence. Together with the shared accounts, it strongly suggests the People First post started as a reused CAR post, or that both came from a common source. The public records don't show how it was copied. A direct duplicate, an intermediate copy, a template or an import could each preserve the value. None of the Salaam text remains.\n\nWhat about January? Three of People First's other posts have date fields reading Jan 10, 2026, 1:27–1:34 p.m. That's shortly after the articles they clip were published; the newest went up at 11:15 a.m. that day. The copied post's thumbnail is a file named \"Screenshot 2026-01-10 at 11.53.03.\" That's consistent with the clips being made on Jan 10, months before People First had a website. But date fields can survive copying and file names can be kept, so it doesn't prove when the Waymo text was written. The posts' internal IDs point to May 3, 2026, the day after People First's site was created; all four were created within 14 seconds of each other.\n\n3. The same design account made CAR's billboard\n\nOne of CAR's images carries the same Canva identity and is titled \"FINAL_CAR_SOMOS_BILLBOARDS_1728 x 512 px.\" It reads \"Car insurance is fueling our affordability crisis\" and \"Paid For By Citizens For Affordable Rates.\" CAR announced a \"six-figure ad campaign\" aimed at New York officials attending the SOMOS conference in Puerto Rico in November 2025.\n\nThat ties the billboard's design file to the same named Canva identity as People First's logo. It doesn't show who bought the ads or ran the campaign.\n\nCAR's lobbying report for July–December 2025 lists $8,489 in expenses, none of them a separately identified SOMOS ad buy. It also says CAR didn't have to name its funders that period because it was under the spending threshold.\n\n4. Author names changed on both sites\n\nWhen the Post reported its story, the site's metadata credited the posts to an author named \"Pamela\" with the display name \"PS,\" and the Post says it asked Pamela Stamoulis for comment several times. By 11:31 a.m. ET on Oct 19, the morning the story ran, fresh copies of both sites showed \"Misc\" instead. Archived copies show \"PS\" as late as mid-September, so the change came sometime between then and that morning. Public data doesn't show the exact day, or why it was made.\n\nThere was one timestamped change on the evening of Oct 19. At 9:36 p.m. ET, a CAR post's author was switched from a second account, displayed as \"Laila ElGohary,\" to the shared \"Misc\" account. The post's text didn't change. By late that night, that second account's display name read \"TJ.\" I can't say who made these changes or why.\n\n5. Overlapping organizations\n\nCAR's press releases and People First's own materials name some of the same organizations and people:\n\n- Rev. Conrad Tillard signed a CAR clergy letter and is quoted in its releases. He's a listed People First member and, per the Post, recruited clergy for its Albany trip.\n- New York Communities for Change appears in both.\n- The Yemeni American Merchants Association is quoted in CAR's January 2026 coalition release. It's named under \"Standing together\" on People First's D.C. rally RSVP page.\n\nYou can verify this yourself:\n- Open `peoplefirsttranspo.com/news?…` and find the New York Post post. Its `\"publishOn\"` value is `1705522860395`.\n- Open `citizensforaffordablerates.c…` and page to the oldest post, the Salaam letters clip. It has the same value.\n- Open `peoplefirsttranspo.com/?form…` and find `creatorAccountCreationDate`: `1435173918522` (June 24, 2015, 19:25:18 UTC). The first eight characters of the author ID, `558b041e`, convert from hexadecimal to the same second.\n\nI saved timestamped copies of both sites' data, with checksums, in case either site changes.\n\n\nEthan McKanna (@ethanmckanna)\n\nI decided to dig deeper and my preliminary investigation found strong technical links between people first and a separate confirmed Uber-funded campaign\n\nThere's so much shady stuff happening here. I'll share more soon\n\n\n\n— http://nitter.meowing.monster/ethanmckanna/status/2112214198914830715#m",
+      "text": "People First's anti-robotaxi website shares a strong production trail with an Uber-funded campaign (CAR)\nPublic website records connect People First Transportation Alliance's site with Citizens for Affordable Rates, which disclosed $11.6 million from Uber in the first half of 2026. They don't identify who commissioned or paid for People First's site.\nPeople First Transportation Alliance has spent the fall campaigning against robotaxis in Washington, D.C. The RSVP page for its Oct 6 rally at the Wilson Building reads \"People First, Not Robotaxis,\" and its flyer reads \"Against Waymo's Robotaxis.\" On Oct 19, the Washington Post asked who is behind the group, and several listed \"founding members\" told the Post they aren't part of it.\nI went through the group's website: code, image files, timestamps and domain records, plus the lobbying filings of the people around it. I couldn't find a document that says who pays People First's bills, and I've filed three public records requests that might turn one up. What the records do show is a production trail linking People First's website to the website of Citizens for Affordable Rates, a New York advocacy group whose filings name Uber as its only disclosed funder.\n- Shared accounts. Both sites' posts are credited to the same Squarespace author account. People First's site was created by an account created at the same second that author ID encodes.\n- Shared designer. Both sites' logos carry the same named Canva design identity, \"pamela.stamoulis.\" So does a billboard ad for Citizens for Affordable Rates (CAR).\n- A shared date. One People First post carries the exact anomalous date of a CAR post, down to the millisecond. That strongly suggests a reused post or a common source.\nCitizens for Affordable Rates (CAR) launched in January 2025 as an \"Uber-led coalition\" to cut New York's car insurance costs. Its filing for January–June 2026 lists $11,615,454 from Uber, the only funder disclosed in that filing.\nAmelia Adams, a New York consultant and former registered Uber lobbyist, told the Post she helps run People First. CAR's January–June 2026 filing lists expense rows to her firm, Adams Advisors, totaling $213,872 for \"civic engagement/community organizing.\" Two of those rows share the same date and amount, so the actual total paid may be lower. Adams and Uber told the Post that this work is unrelated to autonomous vehicles or People First. Uber also said it wasn't involved in People First's website or its D.C. protest.\n1. The same accounts appear on both sites\nSquarespace sites expose internal data to anyone who adds `?format=json` to a page address. Comparing that data:\n- The same author account. All four of People First's news posts, and 134 of CAR's 192 posts, are credited to one Squarespace author account (ID `558b041e…`).\n- The same creator account. People First's site settings include a field recording when the account that created the site was itself created: June 24, 2015, 19:25:18 UTC. That matches, to the second, the time encoded in the author ID. A profile created just for one site would carry a much later date. So the account that created People First's site is very likely the same account credited with CAR's posts.\n- The same designer. People First's logo and favicon, and seven CAR image files from five Canva designs, carry embedded Canva export data with the same user ID and the name \"pamela.stamoulis.\" One of them is a CAR billboard ad (more below).\nThe Post first reported the \"pamela.stamoulis\" username, noted that a digital strategist named Pamela Stamoulis has ties to New York and Washington, and said she didn't respond. Federal campaign-finance records show a Pamela Stamoulis paid as staff by Senate Majority PAC in 2017–18 and by Biden for President in 2019–20. She lists herself as a self-employed consultant on donation records since 2021.\n2. A People First post carries a CAR post's anomalous date\nEvery Squarespace post has a visible date field the author can change. On CAR's site, clipped news stories are often backdated to the original article's date.\n- May 12, 2025. CAR's site gets a clip of New York Post letters about Councilman Yusef Salaam. Its date field is set to Jan 17, 2024, 3:21 p.m. That date is wrong for the clip, since the letters ran almost two weeks later. The system stores it as `1705522860395`.\n- People First's site. Its New York Post story about California drivers protesting Waymo, from January 2026, carries the same date value, `1705522860395`, down to the millisecond. No other CAR post has it.\nA match that precise isn't a coincidence. Together with the shared accounts, it strongly suggests the People First post started as a reused CAR post, or that both came from a common source. The public records don't show how it was copied. A direct duplicate, an intermediate copy, a template or an import could each preserve the value. None of the Salaam text remains.\nWhat about January? Three of People First's other posts have date fields reading Jan 10, 2026, 1:27–1:34 p.m. That's shortly after the articles they clip were published; the newest went up at 11:15 a.m. that day. The copied post's thumbnail is a file named \"Screenshot 2026-01-10 at 11.53.03.\" That's consistent with the clips being made on Jan 10, months before People First had a website. But date fields can survive copying and file names can be kept, so it doesn't prove when the Waymo text was written. The posts' internal IDs point to May 3, 2026, the day after People First's site was created; all four were created within 14 seconds of each other.\n3. The same design account made CAR's billboard\nOne of CAR's images carries the same Canva identity and is titled \"FINAL_CAR_SOMOS_BILLBOARDS_1728 x 512 px.\" It reads \"Car insurance is fueling our affordability crisis\" and \"Paid For By Citizens For Affordable Rates.\" CAR announced a \"six-figure ad campaign\" aimed at New York officials attending the SOMOS conference in Puerto Rico in November 2025.\nThat ties the billboard's design file to the same named Canva identity as People First's logo. It doesn't show who bought the ads or ran the campaign.\nCAR's lobbying report for July–December 2025 lists $8,489 in expenses, none of them a separately identified SOMOS ad buy. It also says CAR didn't have to name its funders that period because it was under the spending threshold.\n4. Author names changed on both sites\nWhen the Post reported its story, the site's metadata credited the posts to an author named \"Pamela\" with the display name \"PS,\" and the Post says it asked Pamela Stamoulis for comment several times. By 11:31 a.m. ET on Oct 19, the morning the story ran, fresh copies of both sites showed \"Misc\" instead. Archived copies show \"PS\" as late as mid-September, so the change came sometime between then and that morning. Public data doesn't show the exact day, or why it was made.\nThere was one timestamped change on the evening of Oct 19. At 9:36 p.m. ET, a CAR post's author was switched from a second account, displayed as \"Laila ElGohary,\" to the shared \"Misc\" account. The post's text didn't change. By late that night, that second account's display name read \"TJ.\" I can't say who made these changes or why.\n5. Overlapping organizations\nCAR's press releases and People First's own materials name some of the same organizations and people:\n- Rev. Conrad Tillard signed a CAR clergy letter and is quoted in its releases. He's a listed People First member and, per the Post, recruited clergy for its Albany trip.\n- New York Communities for Change appears in both.\n- The Yemeni American Merchants Association is quoted in CAR's January 2026 coalition release. It's named under \"Standing together\" on People First's D.C. rally RSVP page.\nYou can verify this yourself:\n- Open `peoplefirsttranspo.com/news?…` and find the New York Post post. Its `\"publishOn\"` value is `1705522860395`.\n- Open `citizensforaffordablerates.c…` and page to the oldest post, the Salaam letters clip. It has the same value.\n- Open `peoplefirsttranspo.com/?form…` and find `creatorAccountCreationDate`: `1435173918522` (June 24, 2015, 19:25:18 UTC). The first eight characters of the author ID, `558b041e`, convert from hexadecimal to the same second.\nI saved timestamped copies of both sites' data, with checksums, in case either site changes.",
       "link": "http://nitter.meowing.monster/ethanmckanna/status/2112381560846536923#m",
       "date": "Tue, 20 Oct 2026 03:13:04 GMT",
-      "text_zh": "People First 的反机器人出租车网站与 Uber 资助的活动 (CAR) 分享了强大的生产轨迹\n\n公共网站记录将 People First Transportation Alliance 的网站与 Citizens for Affordable Rates 连接起来，后者披露了 2026 年上半年从 Uber 获得的 1160 万美元。他们没有透露谁委托或支付了 People First 网站的费用。\n\n以人为本运输联盟整个秋季都在华盛顿特区开展反对机器人出租车的活动。10 月 6 日在威尔逊大厦举行的集会的 RSVP 页面上写着“以人为本，而非机器人出租车”，其传单上写着“反对 Waymo 的机器人出租车”。 10 月 19 日，《华盛顿邮报》询问该组织的幕后黑手是谁，几名列出的“创始成员”告诉《华盛顿邮报》，他们不属于该组织。\n\n我浏览了该组织的网站：代码、图像文件、时间戳和域名记录，以及周围人员的游说文件。我找不到一份文件说明谁支付了亲民的账单，而且我已经提交了三份公共记录请求，可能会出现其中一份。这些记录确实显示了一条将 People First 网站与 Citizens for Affordable Rates 网站连接起来的生产痕迹，这是一个纽约倡导组织，其文件显示 Uber 是其唯一披露的资助者。\n\n- 共享帐户。两个网站的帖子均记入同一个 Squarespace 作者帐户。 People First 的网站是由与作者 ID 编码同一秒创建的帐户创建的。\n- 共享设计师。两个网站的徽标均具有相同的 Canva 设计标识“pamela.stamoulis”。公民平价 (CAR) 的广告牌广告也是如此。\n- 共同的约会。 One People First 帖子带有 CAR 帖子的精确异常日期，精确到毫秒。这强烈表明重复使用的帖子或共同的来源。\n\nCitizens for Affordable Rates (CAR) 于 2025 年 1 月成立，作为“Uber 领导的联盟”，旨在削减纽约的汽车保险费用。其 2026 年 1 月至 6 月提交的文件列出了来自 Uber 的 11,615,454 美元资金，Uber 是该文件中披露的唯一资助者。\n\n纽约顾问、前 Uber 注册说客阿米莉亚·亚当斯 (Amelia Adams) 告诉《华盛顿邮报》，她帮助运营“以人为本”。 CAR 于 2026 年 1 月至 6 月提交的文件列出了她的公司 Adams Advisors 的“公民参与/社区组织”费用总计 213,872 美元。其中两行共享相同的日期和金额，因此实际支付的总金额可能会更低。 Adams 和 Uber 告诉《华盛顿邮报》，这项工作与自动驾驶汽车或以人为本无关。优步还表示，它没有参与亲民网站或华盛顿特区的抗议活动。\n\n1. 两个网站上出现相同的帐户\n\nSquarespace 网站向任何将“?format=json”添加到页面地址的人公开内部数据。比较该数据：\n\n- 同一作者帐户。 People First 的所有四篇新闻帖子以及 CAR 的 192 篇帖子中的 134 篇均记入一个 Squarespace 作者帐户（ID“558b041e…”）。\n- 相同的创建者帐户。 People First 的网站设置包括创建该网站的帐户本身创建时间的字段记录：2015 年 6 月 24 日 19:25:18 UTC。这与作者 ID 中编码的时间相匹配。仅为一个站点创建的配置文件的日期会晚得多。因此，创建 People First 网站的帐户很可能与 CAR 的帖子所记入的帐户相同。\n- 同一个设计师。 People First 的徽标和网站图标，以及来自五种 Canva 设计的七个 CAR 图像文件，都带有嵌入式 Canva 导出数据，具有相同的用户 ID 和名称“pamela.stamoulis”。其中之一是 CAR 广告牌广告（更多内容见下文）。\n\n《华盛顿邮报》首先报道了“pamela.stamoulis”用户名，并指出一位名叫 Pamela Stamoulis 的数字策略师与纽约和华盛顿有联系，并表示她没有回应。联邦竞选财务记录显示，帕梅拉·斯塔穆利斯 (Pamela Stamoulis) 在 2017-18 年度担任参议院多数派政治行动委员会的工作人员，在 2019-20 年度担任总统的拜登则向帕梅拉·斯塔莫利斯 (Pamela Stamoulis) 支付工资。自 2021 年以来，她在捐赠记录中将自己列为个体顾问。\n\n2. 以人为本的帖子带有 CAR 帖子的异常日期\n每个 Squarespace 帖子都有一个可见的日期字段，作者可以更改。在 CAR 的网站上，剪下来的新闻报道通常会追溯到原始文章的日期。\n\n- 2025 年 5 月 12 日。CAR 网站收到《纽约邮报》关于议员尤瑟夫·萨拉姆 (Yusef Salaam) 的信函片段。其日期字段设置为 2024 年 1 月 17 日下午 3:21。该剪辑的日期是错误的，因为这些信件是在近两周后发出的。系统将其存储为“1705522860395”。\n- 以人为本的网站。 《纽约邮报》关于加州司机从 2026 年 1 月开始抗议 Waymo 的报道具有相同的日期值“1705522860395”，精确到毫秒。没有其他 CAR 帖子有此内容。\n\n如此精确的匹配并非巧合。与共享帐户一起，它强烈表明以人为本的帖子最初是重复使用的 CAR 帖子，或者两者都来自共同的来源。公共记录没有显示它是如何被复制的。直接复制、中间副本、模板或导入都可以保留该值。萨拉姆文本没有保留下来。\n\n一月呢？ People First 的其他三篇帖子的日期字段显示为 2026 年 1 月 10 日下午 1:27–1:34。那是在他们剪辑的文章发表后不久；最新的在当天上午 11 点 15 分上涨。复制的帖子的缩略图是一个名为“Screenshot 2026-01-10 at 11.53.03”的文件。这与 1 月 10 日拍摄的剪辑一致，即亲民网站成立前几个月。但日期字段可以在复制后保留下来，并且文件名可以保留，因此无法证明 Waymo 文本的写入时间。这些帖子的内部 ID 指向 2026 年 5 月 3 日，即 People First 网站创建后的第二天；所有四个都是在 14 秒内创建的。\n\n3、同款设计账号制作神州租车广告牌\n\nCAR 的一张图像具有相同的 Canva 标识，标题为“FINAL_CAR_SOMOS_BILLBOARDS_1728 x 512 px”。上面写着“汽车保险正在加剧我们的负担能力危机”和“由公民以负担得起的价格支付”。 CAR 宣布针对参加 2025 年 11 月在波多黎各举行的 SOMOS 会议的纽约官员开展“六位数的广告活动”。\n\n这将广告牌的设计文件与与 People First 徽标相同的 Canva 标识联系起来。它不显示谁购买了广告或运行了该活动。\n\nCAR 2025 年 7 月至 12 月的游说报告列出了 8,489 美元的费用，其中没有一项是单独确定的 SOMOS 广告购买费用。它还表示，CAR 在那段时间不必透露其资助者的名字，因为它低于支出门槛。\n\n4. 两个网站的作者姓名均已更改\n\n当《华盛顿邮报》报道其故事时，该网站的元数据将这些帖子归功于一位名为“Pamela”、显示名称为“PS”的作者，并且《华盛顿邮报》表示，它多次要求帕梅拉·斯塔穆利斯发表评论。到 10 月 19 日上午 11 点 31 分（美国东部时间），也就是报道发表的那天早上，两个网站的新副本都显示“Misc”。存档的副本直到九月中旬才显示“PS”，因此更改发生在当时和那天早上之间的某个时间。公开数据没有显示确切的日期，也没有显示它的制作原因。\n\n10 月 19 日晚上 9:36 发生了一项时间戳更改。 ET，CAR 帖子的作者从第二个帐户（显示为“Laila ElGohary”）切换到共享“Misc”帐户。帖子的文字没有改变。到了那天深夜，第二个帐户的显示名称变成了“TJ”。我不能说是谁做出了这些改变，也不知道为什么。\n\n5. 组织重叠\n\nCAR 的新闻稿和 People First 自己的材料中提到了一些相同的组织和人员：\n\n- 康拉德·蒂拉德牧师签署了一份中非共和国神职人员信件，并在其新闻稿中引用了这一内容。他是“亲民优先”组织的一名成员，据《华盛顿邮报》报道，他为奥尔巴尼之行招募了神职人员。\n- 纽约变革社区出现在两者中。\n- 中非共和国联盟 2026 年 1 月发布的新闻稿中引用了也门美国商人协会的说法。它被命名为“人民第一”的华盛顿集会 RSVP 页面上的“站在一起”。\n\n您可以自己验证一下：\n- 打开 `peoplefirsttranspo.com/news?...` 并找到《纽约邮报》的帖子。它的“publishOn”值为“1705522860395”。\n- 打开“citizensforaffordablerates.c…”并翻到最旧的帖子，Salaam 字母剪辑。它具有相同的价值。\n- 打开 `peoplefirsttranspo.com/?form...` 并找到 `creatorAccountCreationDate`: `1435173918522`（2015 年 6 月 24 日，19:25:18 UTC）。作者 ID 的前八个字符“558b041e”从十六进制转换为同一秒。\n\n我保存了两个站点数据的带时间戳的副本以及校验和，以防任一站点发生更改。\n\n\n伊森·麦卡纳 (@ethanmckanna)\n\n我决定进行更深入的挖掘，我的初步调查发现，“以人为本”与一项已确认的 Uber 资助的单独活动之间存在密切的技术联系。\n\n这里发生了太多见不得人的事情。我很快就会分享更多\n\n\n\n— http://nitter.meowing.monster/ethanmckanna/status/2112214198914830715#m"
+      "tweet_id": "2112381560846536923",
+      "quoted": {
+        "user": "ethanmckanna",
+        "text": "I decided to dig deeper and my preliminary investigation found strong technical links between people first and a separate confirmed Uber-funded campaign\n\nThere's so much shady stuff happening here. I'll share more soon"
+      },
+      "ctx_done": 1,
+      "text_zh": "People First 的反机器人出租车网站与 Uber 资助的活动 (CAR) 分享了强大的生产轨迹\n公共网站记录将 People First Transportation Alliance 的网站与 Citizens for Affordable Rates 连接起来，后者披露了 2026 年上半年从 Uber 获得的 1160 万美元。他们没有透露谁委托或支付了 People First 网站的费用。\n以人为本运输联盟整个秋季都在华盛顿特区开展反对机器人出租车的活动。10 月 6 日在威尔逊大厦举行的集会的 RSVP 页面上写着“以人为本，而非机器人出租车”，其传单上写着“反对 Waymo 的机器人出租车”。 10 月 19 日，《华盛顿邮报》询问该组织的幕后黑手是谁，几名列出的“创始成员”告诉《华盛顿邮报》，他们不属于该组织。\n我浏览了该组织的网站：代码、图像文件、时间戳和域名记录，以及周围人员的游说文件。我找不到一份文件说明谁支付了亲民的账单，而且我已经提交了三份公共记录请求，可能会出现其中一份。这些记录确实显示了一条将 People First 网站与 Citizens for Affordable Rates 网站连接起来的生产痕迹，这是一个纽约倡导组织，其文件显示 Uber 是其唯一披露的资助者。\n- 共享帐户。两个网站的帖子均记入同一个 Squarespace 作者帐户。 People First 的网站是由与作者 ID 编码同一秒创建的帐户创建的。\n- 共享设计师。两个网站的徽标均具有相同的 Canva 设计标识“pamela.stamoulis”。公民平价 (CAR) 的广告牌广告也是如此。\n- 共同的约会。 One People First 帖子带有 CAR 帖子的精确异常日期，精确到毫秒。这强烈表明重复使用的帖子或共同的来源。\nCitizens for Affordable Rates (CAR) 于 2025 年 1 月成立，作为“Uber 领导的联盟”，旨在削减纽约的汽车保险费用。其 2026 年 1 月至 6 月提交的文件列出了来自 Uber 的 11,615,454 美元资金，Uber 是该文件中披露的唯一资助者。\n纽约顾问、前 Uber 注册说客阿米莉亚·亚当斯 (Amelia Adams) 告诉《华盛顿邮报》，她帮助运营“以人为本”。 CAR 于 2026 年 1 月至 6 月提交的文件列出了她的公司 Adams Advisors 的“公民参与/社区组织”费用总计 213,872 美元。其中两行共享相同的日期和金额，因此实际支付的总金额可能会更低。 Adams 和 Uber 告诉《华盛顿邮报》，这项工作与自动驾驶汽车或以人为本无关。优步还表示，它没有参与亲民网站或华盛顿特区的抗议活动。\n1. 两个网站上出现相同的帐户\nSquarespace 网站向任何将“?format=json”添加到页面地址的人公开内部数据。比较该数据：\n- 同一作者帐户。 People First 的所有四篇新闻帖子以及 CAR 的 192 篇帖子中的 134 篇均记入一个 Squarespace 作者帐户（ID“558b041e…”）。\n- 相同的创建者帐户。 People First 的网站设置包括创建该网站的帐户本身创建时间的字段记录：2015 年 6 月 24 日 19:25:18 UTC。这与作者 ID 中编码的时间相匹配。仅为一个站点创建的配置文件的日期会晚得多。因此，创建 People First 网站的帐户很可能与 CAR 的帖子所记入的帐户相同。\n- 同一个设计师。 People First 的徽标和网站图标，以及来自五种 Canva 设计的七个 CAR 图像文件，都带有嵌入式 Canva 导出数据，具有相同的用户 ID 和名称“pamela.stamoulis”。其中之一是 CAR 广告牌广告（更多内容见下文）。\n《华盛顿邮报》首先报道了“pamela.stamoulis”用户名，并指出一位名叫 Pamela Stamoulis 的数字策略师与纽约和华盛顿有联系，并表示她没有回应。联邦竞选财务记录显示，帕梅拉·斯塔穆利斯 (Pamela Stamoulis) 在 2017-18 年度担任参议院多数派政治行动委员会的工作人员，在 2019-20 年度担任总统的拜登则向帕梅拉·斯塔莫利斯 (Pamela Stamoulis) 支付工资。自 2021 年以来，她在捐赠记录中将自己列为个体顾问。\n2. 以人为本的帖子带有 CAR 帖子的异常日期\n每个 Squarespace 帖子都有一个可见的日期字段，作者可以更改。在 CAR 的网站上，剪下来的新闻报道通常会追溯到原始文章的日期。\n- 2025 年 5 月 12 日。CAR 网站收到《纽约邮报》关于议员尤瑟夫·萨拉姆 (Yusef Salaam) 的信函片段。其日期字段设置为 2024 年 1 月 17 日下午 3:21。该剪辑的日期是错误的，因为这些信件是在大约两周后发出的。系统将其存储为“1705522860395”。\n- 以人为本的网站。 《纽约邮报》关于加州司机从 2026 年 1 月开始抗议 Waymo 的报道具有相同的日期值“1705522860395”，精确到毫秒。没有其他 CAR 帖子有此内容。\n如此精确的匹配并非巧合。与共享帐户一起，它强烈表明以人为本的帖子最初是重复使用的 CAR 帖子，或者两者都来自共同的来源。公共记录没有显示它是如何被复制的。直接复制、中间副本、模板或导入都可以保留该值。萨拉姆文本没有保留下来。\n一月呢？ People First 的其他三篇帖子的日期字段显示为 2026 年 1 月 10 日下午 1:27–1:34。那是在他们剪辑的文章发表后不久；最新的在当天上午 11 点 15 分上涨。复制的帖子的缩略图是一个名为“Screenshot 2026-01-10 at 11.53.03”的文件。这与 1 月 10 日拍摄的剪辑一致，即亲民网站成立前几个月。但日期字段可以在复制后保留下来，并且文件名可以保留，因此无法证明 Waymo 文本的写入时间。这些帖子的内部 ID 指向 2026 年 5 月 3 日，即 People First 网站创建后的第二天；所有四个都是在 14 秒内创建的。\n3、同款设计账号制作神州租车广告牌\nCAR 的一张图像具有相同的 Canva 标识，标题为“FINAL_CAR_SOMOS_BILLBOARDS_1728 x 512 px”。上面写着“汽车保险正在加剧我们的负担能力危机”和“由公民以负担得起的价格支付”。 CAR 宣布针对参加 2025 年 11 月在波多黎各举行的 SOMOS 会议的纽约官员开展“六位数的广告活动”。\n这将广告牌的设计文件与与 People First 徽标相同的 Canva 标识联系起来。它不显示谁购买了广告或运行了该活动。\nCAR 2025 年 7 月至 12 月的游说报告列出了 8,489 美元的费用，其中没有一项是单独确定的 SOMOS 广告购买费用。它还表示，CAR 在那段时间不必透露其资助者的名字，因为它低于支出门槛。\n4. 两个网站的作者姓名均已更改\n当《华盛顿邮报》报道其故事时，该网站的元数据将这些帖子归功于一位名为“Pamela”、显示名称为“PS”的作者，并且《华盛顿邮报》表示，它多次要求帕梅拉·斯塔穆利斯发表评论。到 10 月 19 日上午 11 点 31 分（美国东部时间），也就是报道发表的那天早上，两个网站的新副本都显示“Misc”。存档的副本直到九月中旬才显示“PS”，因此更改发生在当时和那天早上之间的某个时间。公开数据没有显示确切的日期，也没有显示它的制作原因。\n10 月 19 日晚上 9:36 发生了一项时间戳更改。 ET，CAR 帖子的作者从第二个帐户（显示为“Laila ElGohary”）切换到共享“Misc”帐户。帖子的文字没有改变。到了那天深夜，第二个帐户的显示名称变成了“TJ”。我不能说是谁做出了这些改变，也不知道为什么。\n5. 组织重叠\nCAR 的新闻稿和 People First 自己的材料中提到了一些相同的组织和人员：\n- 康拉德·蒂拉德牧师签署了一份中非共和国神职人员信件，并在其新闻稿中引用了这一内容。他是“亲民优先”组织的一名成员，据《华盛顿邮报》报道，他为奥尔巴尼之行招募了神职人员。\n- 纽约变革社区出现在两者中。\n- 中非共和国联盟 2026 年 1 月发布的新闻稿中引用了也门美国商人协会的说法。它被命名为“人民第一”的华盛顿集会 RSVP 页面上的“站在一起”。\n您可以自己验证一下：\n- 打开 `peoplefirsttranspo.com/news?...` 并找到《纽约邮报》的帖子。它的“publishOn”值为“1705522860395”。\n- 打开“citizensforaffordablerates.c…”并翻到最旧的帖子，Salaam 字母剪辑。它具有相同的价值。\n- 打开 `peoplefirsttranspo.com/?form...` 并找到 `creatorAccountCreationDate`: `1435173918522`（2015 年 6 月 24 日，19:25:18 UTC）。作者 ID 的前八个字符“558b041e”从十六进制转换为同一秒。\n我保存了两个站点数据的带时间戳的副本以及校验和，以防任一站点发生更改。"
     },
     {
       "text": "It doesn't make sense to go through the hassle of upgrading everyone's computers just to go from FSD (Supervised) to FSD (Supervised). When HW4 is unsupervised and HW3 is not, then the upgrade will be well worth it. \n\nTesla also wants to wait for the double RAM version of AI4 to come out and upgrade everyone to that.",
       "link": "http://nitter.meowing.monster/wholemars/status/2112377581270114347#m",
       "date": "Tue, 20 Oct 2026 02:57:16 GMT",
-      "text_zh": "仅仅为了从 FSD（受监督）升级到 FSD（受监督）而经历升级每个人计算机的麻烦是没有意义的。当 HW4 不受监督而 HW3 不受监督时，那么升级将是非常值得的。 \n\n特斯拉还想等待 AI4 双 RAM 版本的问世，为大家升级。"
+      "text_zh": "仅仅为了从 FSD（受监督）升级到 FSD（受监督）而经历升级每个人计算机的麻烦是没有意义的。当 HW4 不受监督而 HW3 不受监督时，那么升级将是非常值得的。 \n\n特斯拉还想等待 AI4 双 RAM 版本的问世，为大家升级。",
+      "tweet_id": "2112377581270114347",
+      "reply_to": "wholemars",
+      "ctx_done": 1
     },
     {
-      "text": "Elon just announced two changes to the X timeline. \n\n1. A new AI ranking model that he says predicts time spent much better. \n\n2. Retrieval model trained to surface posts people actually read all the way through. \n\nHe also says user active seconds are growing exponentially and are near all-time highs\n\n\nElon Musk (@elonmusk)\n\nTwo important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost every day:\n\n\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2112373713937084809#m",
+      "text": "Elon just announced two changes to the X timeline. \n1. A new AI ranking model that he says predicts time spent much better. \n2. Retrieval model trained to surface posts people actually read all the way through. \nHe also says user active seconds are growing exponentially and are near all-time highs",
       "link": "http://nitter.meowing.monster/wholemars/status/2112374822613426250#m",
       "date": "Tue, 20 Oct 2026 02:46:18 GMT",
-      "text_zh": "Elon 刚刚宣布了 X 时间线的两项变化。 \n\n1. 他说，一种新的人工智能排名模型可以更好地预测花费的时间。 \n\n2. 检索模型经过训练，可以显示人们实际阅读过的帖子。 \n\n他还表示，用户活跃秒数呈指数级增长，接近历史最高水平\n\n\n埃隆·马斯克 (@elonmusk)\n\n时间表建议的两个重要变化：\n\n- 新的 AI/SI 排名模型可以更好地预测可能花费的时间\n\n- 经过训练的检索模型可以显示人们从头到尾阅读过的帖子\n\n用户活跃秒数呈指数级增长，几乎每天都创下历史新高：\n\n\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2112373713937084809#m"
+      "tweet_id": "2112374822613426250",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Two important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost every day:",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVCoslqWwAA_j6K.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVCoslqWwAA_j6K.jpg?name=orig",
+            "local": "2112374822613426250q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "Elon 刚刚宣布了 X 时间线的两项变化。 \n1. 他说，一种新的人工智能排名模型可以更好地预测花费的时间。 \n2. 检索模型经过训练，可以显示人们实际阅读过的帖子。 \n他还表示，用户活跃秒数呈指数级增长，接近历史最高水平"
     },
     {
       "text": "They have answered the question so many times. \n\n1. FSD 14 Lite is shipping to Hardware 3 cars now. This brings most of the functionality of HW4 cars to HW3. \n\n2. After FSD Unsupervised comes to customer cars with AI4, they will start upgrading AI3 computers to AI4. This will be a free upgrade for people who purchased FSD, and will likely be available as a paid upgrade option for cars that didn't. \n\nCan we stop wasting questions on things we already know the answers to?\n\n\nFat Guy Tesla (@thefatguytesla)\n\nTesla reports Q3 earnings this Wednesday, October 21 — but if you drive a Hardware 3 car, the number that matters isn't EPS. It's whether Tesla finally answers the question HW3 owners have asked for two years: what happens to us?\n\nIn this Brief:\n• Deliveries came in at 486,532 — and the Say shareholder question board is dominated by owners pressing Tesla for a firm HW3 upgrade timeline (submissions close Tuesday, Oct 20 at 4 p.m. ET)\n• The Ninth Circuit decertified the LoSavio class action on Oct 16 — procedural only, no ruling on wrongdoing, but the courtroom shortcut to a forced HW3 remedy just got a lot narrower\n• Slovakia became the 9th EU country to approve FSD Supervised\n\nI'm DJ Booman — Fat Guy Tesla. I drive a 2021 Model Y on HW3 every day on the FSD subscription, and this is my read from behind the wheel. Not financial advice — owner analysis.\n\nChapters:\n00:00 The one question\n00:33 Q3 earnings — Wednesday after the bell\n01:02 The HW3 upgrade question on Say\n01:48 LoSavio decertified — what it actually means\n02:19 Slovakia: 9th EU country approves FSD Supervised\n02:41 Your move\n\nSources: Tesla IR / Zacks (earnings date, deliveries) · TeslaNorth (Say leaderboard) · Tech Insider / 24/7 Wall St (LoSavio, Oct 16) · Tesla Europe (Slovakia approval, Oct 16)\n\nNew Briefs as the news breaks — subscribe so you don't miss the next one. The deep drives live in the HW3 Intel series.\n\n🚗 Thinking about a Tesla? My referral link: ts.la/grant645974\n🌐 fatguytesla.com\n\n#Tesla #FSD #HW3 #ModelY #TeslaEarnings #FatGuyTesla\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/thefatguytesla/status/2112357858188620068#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112372862594248777#m",
       "date": "Tue, 20 Oct 2026 02:38:31 GMT",
-      "text_zh": "他们已经多次回答过这个问题了。 \n\n1. FSD 14 Lite 现已交付给 Hardware 3 车辆。这将 HW4 汽车的大部分功能带到了 HW3。 \n\n2. FSD Unsupervised 应用于搭载 AI4 的客户汽车后，他们将开始将 AI3 计算机升级到 AI4。对于购买 FSD 的人来说，这将是免费升级，对于没有购买 FSD 的汽车来说，这可能会作为付费升级选项。 \n\n我们能停止把问题浪费在我们已经知道答案的事情上吗？\n\n\n胖子特斯拉（@thefatguytesla）\n\n特斯拉将于 10 月 21 日星期三公布第三季度财报，但如果您驾驶的是 Hardware 3 汽车，那么重要的数字并不是 EPS。问题在于特斯拉能否最终回答 HW3 车主两年来提出的问题：我们会发生什么？\n\n在本简介中：\n• 交付量为 486,532 辆——Say 股东问题板上主要是车主，他们敦促特斯拉确定 HW3 升级时间表（提交截止日期为美国东部时间 10 月 20 日星期二下午 4 点）\n• 第九巡回法院于 10 月 16 日取消了 LoSavio 集体诉讼的认证——仅是程序性的，没有对不当行为做出裁决，但法庭上强制 HW3 补救措施的捷径变得狭窄了很多\n• 斯洛伐克成为第9个批准FSD监管的欧盟国家\n\n我是 DJ Booman——胖子特斯拉。我每天通过 FSD 订阅在 HW3 上驾驶 2021 年 Model Y，这是我在驾驶时阅读的内容。不是财务建议——所有者分析。\n\n章节：\n00:00 一个问题\n00:33 第三季度收益——周三盘后\n01:02 Say 上的 HW3 升级问题\n01:48 LoSavio 被取消认证——它的实际含义是什么\n02:19 斯洛伐克：第9个欧盟国家批准FSD监督\n02:41 你的举动\n\n资料来源：Tesla IR / Zacks（收益日期、交付量）·TeslaNorth（Say 排行榜）·Tech Insider / 24/7 Wall St（LoSavio，10 月 16 日）·Tesla Europe（斯洛伐克批准，10 月 16 日）\n\n最新新闻简报 - 订阅，这样您就不会错过下一篇。深度驱动器位于 HW3 Intel 系列中。\n\n🚗 想要一辆特斯拉吗？我的推荐链接：ts.la/grant645974\n🌐 fatguytesla.com\n\n#特斯拉 #FSD #HW3 #ModelY #TeslaEarnings #FatGuyTesla\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/thefatguytesla/status/2112357858188620068#m"
+      "text_zh": "他们已经多次回答过这个问题了。 \n\n1. FSD 14 Lite 现已交付给 Hardware 3 车辆。这将 HW4 汽车的大部分功能带到了 HW3。 \n\n2. FSD Unsupervised 应用于搭载 AI4 的客户汽车后，他们将开始将 AI3 计算机升级到 AI4。对于购买 FSD 的人来说，这将是免费升级，对于没有购买 FSD 的汽车来说，这可能会作为付费升级选项。 \n\n我们能停止把问题浪费在我们已经知道答案的事情上吗？\n\n\n胖子特斯拉（@thefatguytesla）\n\n特斯拉将于 10 月 21 日星期三公布第三季度财报，但如果您驾驶的是 Hardware 3 汽车，那么重要的数字并不是 EPS。问题在于特斯拉能否最终回答 HW3 车主两年来提出的问题：我们会发生什么？\n\n在本简介中：\n• 交付量为 486,532 辆——Say 股东问题板上主要是车主，他们敦促特斯拉确定 HW3 升级时间表（提交截止日期为美国东部时间 10 月 20 日星期二下午 4 点）\n• 第九巡回法院于 10 月 16 日取消了 LoSavio 集体诉讼的认证——仅是程序性的，没有对不当行为做出裁决，但法庭上强制 HW3 补救措施的捷径变得狭窄了很多\n• 斯洛伐克成为第9个批准FSD监管的欧盟国家\n\n我是 DJ Booman——胖子特斯拉。我每天通过 FSD 订阅在 HW3 上驾驶 2021 年 Model Y，这是我在驾驶时阅读的内容。不是财务建议——所有者分析。\n\n章节：\n00:00 一个问题\n00:33 第三季度收益——周三盘后\n01:02 Say 上的 HW3 升级问题\n01:48 LoSavio 被取消认证——它的实际含义是什么\n02:19 斯洛伐克：第9个欧盟国家批准FSD监督\n02:41 你的举动\n\n资料来源：Tesla IR / Zacks（收益日期、交付量）·TeslaNorth（Say 排行榜）·Tech Insider / 24/7 Wall St（LoSavio，10 月 16 日）·Tesla Europe（斯洛伐克批准，10 月 16 日）\n\n最新新闻简报 - 订阅，这样您就不会错过下一篇。深度驱动器位于 HW3 Intel 系列中。\n\n🚗 想要一辆特斯拉吗？我的推荐链接：ts.la/grant645974\n🌐 fatguytesla.com\n\n#特斯拉 #FSD #HW3 #ModelY #TeslaEarnings #FatGuyTesla\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/thefatguytesla/status/2112357858188620068#m",
+      "tweet_id": "2112372862594248777",
+      "quoted": {
+        "user": "thefatguytesla",
+        "text": "Tesla reports Q3 earnings this Wednesday, October 21 — but if you drive a Hardware 3 car, the number that matters isn't EPS. It's whether Tesla finally answers the question HW3 owners have asked for two years: what happens to us?\n\nIn this Brief:\n• Deliveries came in at 486,532 — and the Say shareholder question board is dominated by owners pressing Tesla for a firm HW3 upgrade timeline (submissions close Tuesday, Oct 20 at 4 p.m. ET)\n• The Ninth Circuit decertified the LoSavio class action on Oct 16 — procedural only, no ruling on wrongdoing, but the courtroom shortcut to a forced HW3 remedy just got a lot narrower\n• Slovakia became the 9th EU country to approve FSD Supervised\n\nI'm DJ Booman — Fat Guy Tesla. I drive a 2021 Model Y on HW3 every day on the FSD subscription, and this is my read from behind the wheel. Not financial advice — owner analysis.\n\nChapters:\n00:00 The one question\n00:33 Q3 earnings — Wednesday after the bell\n01:02 The HW3 upgrade question on Say\n01:48 LoSavio decertified — what it actually means\n02:19 Slovakia: 9th EU country approves FSD Supervised\n02:41 Your move\n\nSources: Tesla IR / Zacks (earnings date, deliveries) · TeslaNorth (Say leaderboard) · Tech Insider / 24/7 Wall St (LoSavio, Oct 16) · Tesla Europe (Slovakia approval, Oct 16)\n\nNew Briefs as the news breaks — subscribe so you don't miss the next one. The deep drives live in the HW3 Intel series.\n\n🚗 Thinking about a Tesla? My referral link: https://ts.la/grant645974\n🌐 http://fatguytesla.com\n\n#Tesla #FSD #HW3 #ModelY #TeslaEarnings #FatGuyTesla",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112357457779412993/img/nNsv2X7iV-l1V8Sq.jpg",
+            "local": "2112372862594248777q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
-      "text": "Did they have to pick the most communist name possible lol?\n\n\nWhole Mars Catalog (@wholemars)\n\nUber is so fucking shady. \n\nThe so called “People’s First Transportation Alliance” is actually funded by Uber. A more accurate name would have been the Uber First Transportation Alliance. \n\nThey are hiding the fact that they’re funding this anti-autonomy group, and listed a bunch of “founding members” of the group that had no clue their names were being used! \n\nThey just organized a protest against a bill that would bring autonomous driving to DC in 2028, demanding human drivers be required well past then. DC is such a critical city for autonomy, because we need congress to be able to try the technology for themselves. The fact that they can’t is holding federal autonomy legislation back. \n\nFuck Uber and everyone involved in this group. They want people to die so they can make money continuing to exploit their drivers.\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/wholemars/status/2112247574606569685#m",
+      "text": "Did they have to pick the most communist name possible lol?",
       "link": "http://nitter.meowing.monster/TheRideshareGuy/status/2112369387571425697#m",
       "date": "Tue, 20 Oct 2026 02:24:42 GMT",
-      "text_zh": "他们必须选择最共产主义的名字吗？哈哈？\n\n\n整个火星目录（@wholemars）\n\nUber实在是太阴暗了。 \n\n所谓的“人民第一交通联盟”实际上是由Uber资助的。更准确的名称应该是“优步第一交通联盟”。 \n\n他们隐瞒了他们正在资助这个反自治团体的事实，并列出了该团体的一群“创始成员”，他们不知道他们的名字被使用了！ \n\n他们刚刚组织了一场抗议活动，反对一项将于 2028 年在华盛顿特区引入自动驾驶的法案，要求早在那时就需要人类司机。华盛顿特区是一个对于自治至关重要的城市，因为我们需要国会能够亲自尝试这项技术。他们做不到的事实阻碍了联邦自治立法。 \n\n去他妈的 Uber 和这个组织里的每个人。他们希望人们死掉，这样他们就可以继续剥削司机来赚钱。\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/wholemars/status/2112247574606569685#m"
+      "tweet_id": "2112369387571425697",
+      "quoted": {
+        "user": "wholemars",
+        "text": "Uber is so fucking shady. \n\nThe so called “People’s First Transportation Alliance” is actually funded by Uber. A more accurate name would have been the Uber First Transportation Alliance. \n\nThey are hiding the fact that they’re funding this anti-autonomy group, and listed a bunch of “founding members” of the group that had no clue their names were being used! \n\nThey just organized a protest against a bill that would bring autonomous driving to DC in 2028, demanding human drivers be required well past then. DC is such a critical city for autonomy, because we need congress to be able to try the technology for themselves. The fact that they can’t is holding federal autonomy legislation back. \n\nFuck Uber and everyone involved in this group. They want people to die so they can make money continuing to exploit their drivers.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-X5aEAAUaoT.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-X5aEAAUaoT.jpg?name=orig",
+            "local": "2112369387571425697q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-YFbkAAtUPc.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-YFbkAAtUPc.jpg?name=orig",
+            "local": "2112369387571425697q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-X4b0AA6XWI.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-X4b0AA6XWI.jpg?name=orig",
+            "local": "2112369387571425697q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
+            "local": "2112369387571425697q_3.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "他们必须选择最共产主义的名字吗？哈哈？"
     },
     {
       "text": "Some people seemed surprised that a merger isn't up for vote in December's Tesla shareholder meeting.\n\n1. I think they will hold a special vote on this issue\n\n2. They will only have one shot at this, so choosing the right moment is very important",
       "link": "http://nitter.meowing.monster/wholemars/status/2112357739225833599#m",
       "date": "Tue, 20 Oct 2026 01:38:25 GMT",
-      "text_zh": "一些人似乎对 12 月特斯拉股东大会上没有对合并进行投票感到惊讶。\n\n1.我认为他们会就这个问题进行特别投票\n\n2. 他们只有一次机会，所以选择合适的时机非常重要"
+      "text_zh": "一些人似乎对 12 月特斯拉股东大会上没有对合并进行投票感到惊讶。\n\n1.我认为他们会就这个问题进行特别投票\n\n2. 他们只有一次机会，所以选择合适的时机非常重要",
+      "tweet_id": "2112357739225833599",
+      "ctx_done": 1
     },
     {
       "text": "This is a great public service, thank you @AnthropicAI\n\n\nClaudeDevs (@ClaudeDevs)\n\nWe launched OSS Scanner, which gives critical open source projects free, periodic vulnerability scans from our strongest models.\n\nEach finding includes a proof-of-concept, and a patch where possible.\n\nred.anthropic.com/oss-scanne…\n\nLink\n\n\n\nOSS Scanner\n\nOSS Scanner is a free, opt-in service by Anthropic that runs periodic security scans of open-source repositories with our strongest models.\nred.anthropic.com\n\n\n\n\n— http://nitter.meowing.monster/ClaudeDevs/status/2112299602510749992#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112357334291022164#m",
       "date": "Tue, 20 Oct 2026 01:36:48 GMT",
-      "text_zh": "这是一项很棒的公共服务，谢谢@AnthropicAI\n\n\n克劳德德夫斯（@ClaudeDevs）\n\n我们推出了 OSS Scanner，它通过我们最强大的模型为关键开源项目提供免费的定期漏洞扫描。\n\n每个发现都包含一个概念验证，并在可能的情况下提供补丁。\n\nred.anthropic.com/oss-scanne…\n\n链接\n\n\n\n操作系统扫描器\n\nOSS Scanner 是 Anthropic 提供的一项免费、可选择加入的服务，它使用我们最强大的模型对开源存储库进行定期安全扫描。\nred.anthropic.com\n\n\n\n\n— http://nitter.meowing.monster/ClaudeDevs/status/2112299602510749992#m"
+      "text_zh": "这是一项很棒的公共服务，谢谢@AnthropicAI\n\n\n克劳德德夫斯（@ClaudeDevs）\n\n我们推出了 OSS Scanner，它通过我们最强大的模型为关键开源项目提供免费的定期漏洞扫描。\n\n每个发现都包含一个概念验证，并在可能的情况下提供补丁。\n\nred.anthropic.com/oss-scanne…\n\n链接\n\n\n\n操作系统扫描器\n\nOSS Scanner 是 Anthropic 提供的一项免费、可选择加入的服务，它使用我们最强大的模型对开源存储库进行定期安全扫描。\nred.anthropic.com\n\n\n\n\n— http://nitter.meowing.monster/ClaudeDevs/status/2112299602510749992#m",
+      "tweet_id": "2112357334291022164",
+      "quoted": {
+        "user": "ClaudeDevs",
+        "text": "We launched OSS Scanner, which gives critical open source projects free, periodic vulnerability scans from our strongest models.\n\nEach finding includes a proof-of-concept, and a patch where possible.\n\nhttps://red.anthropic.com/oss-scanner"
+      },
+      "ctx_done": 1
     },
     {
       "text": "Really impressed by how much they've improved the product\n\n\neric zakariasson (@ericzakariasson)\n\ngrok bot 0.71.2 is out\n\n- smarter notifications\n- files up to 250 mb (1 gb for video), 20 per message\n- forms arrive pre-filled\n\nand a lot more!\n\nx.ai/changelog/bot\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/ericzakariasson/status/2112299456255381600#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112356854307475951#m",
       "date": "Tue, 20 Oct 2026 01:34:54 GMT",
-      "text_zh": "他们对产品的改进给我留下了深刻的印象\n\n\n埃里克扎卡里亚森（@ericzakariasson）\n\ngrok 机器人 0.71.2 已发布\n\n- 更智能的通知\n- 文件最大 250 mb（视频 1 GB），每条消息 20 个\n- 表格已预先填写完毕\n\n还有更多！\n\nx.ai/changelog/bot\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/ericzakariasson/status/2112299456255381600#m"
+      "text_zh": "他们对产品的改进给我留下了深刻的印象\n\n\n埃里克扎卡里亚森（@ericzakariasson）\n\ngrok 机器人 0.71.2 已发布\n\n- 更智能的通知\n- 文件最大 250 mb（视频 1 GB），每条消息 20 个\n- 表格已预先填写完毕\n\n还有更多！\n\nx.ai/changelog/bot\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/ericzakariasson/status/2112299456255381600#m",
+      "tweet_id": "2112356854307475951",
+      "quoted": {
+        "user": "ericzakariasson",
+        "text": "grok bot 0.71.2 is out\n\n- smarter notifications\n- files up to 250 mb (1 gb for video), 20 per message\n- forms arrive pre-filled\n\nand a lot more!\n\nhttps://x.ai/changelog/bot",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBlJy5agAASJ8b.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBlJy5agAASJ8b.jpg?name=orig",
+            "local": "2112356854307475951q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBlKAQbgAAMgzV.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBlKAQbgAAMgzV.jpg?name=orig",
+            "local": "2112356854307475951q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBlKLjaEAAPNWg.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBlKLjaEAAPNWg.jpg?name=orig",
+            "local": "2112356854307475951q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBlKWsaoAANGLe.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBlKWsaoAANGLe.jpg?name=orig",
+            "local": "2112356854307475951q_3.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
-      "text": "Massive foreign influence operations inform what we see on social media every day\n\n\nKevin Khadavi (@KevinKhadavi)\n\nMy investigation into the alleged OpenAI spy's Stanford ties got 126k views, but the response seemed unusually negative. I decided to look into it: the overwhelming majority of accounts attacking my reporting are Saudi.\n\n\n\n\n\n— http://nitter.meowing.monster/KevinKhadavi/status/2112291353996791991#m",
+      "text": "Massive foreign influence operations inform what we see on social media every day",
       "link": "http://nitter.meowing.monster/wholemars/status/2112355881853862170#m",
       "date": "Tue, 20 Oct 2026 01:31:02 GMT",
-      "text_zh": "大规模的外国影响力行动告诉我们每天在社交媒体上看到的内容\n\n\n凯文·卡达维 (@KevinKhadavi)\n\n我对涉嫌 OpenAI 间谍与斯坦福大学关系的调查获得了 12.6 万次浏览，但反应似乎异常负面。我决定调查一下：攻击我的报道的绝大多数账户都是沙特的。\n\n\n\n\n\n— http://nitter.meowing.monster/KevinKhadavi/status/2112291353996791991#m"
+      "tweet_id": "2112355881853862170",
+      "quoted": {
+        "user": "KevinKhadavi",
+        "text": "My investigation into the alleged OpenAI spy's Stanford ties got 126k views, but the response seemed unusually negative. I decided to look into it: the overwhelming majority of accounts attacking my reporting are Saudi.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBdyqGXoAA1Ljf.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBdyqGXoAA1Ljf.jpg?name=orig",
+            "local": "2112355881853862170q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "大规模的外国影响力行动告诉我们每天在社交媒体上看到的内容"
     },
     {
-      "text": "Pretty insane that Saudi Arabia keeps sending spies to infiltrate our tech companies\n\n\nAndrew Curran (@AndrewCurran_)\n\nFrom the US government's detention memo arguing that the former OpenAI engineer accused in the office bugging case should remain in custody:\n\n\n\n\n\n— http://nitter.meowing.monster/AndrewCurran_/status/2112257195136225394#m",
+      "text": "Pretty insane that Saudi Arabia keeps sending spies to infiltrate our tech companies",
       "link": "http://nitter.meowing.monster/wholemars/status/2112355448376742042#m",
       "date": "Tue, 20 Oct 2026 01:29:19 GMT",
-      "text_zh": "沙特阿拉伯不断派遣间谍渗透我们的科技公司，这真是太疯狂了\n\n\n安德鲁·柯兰 (@AndrewCurran_)\n\n美国政府的拘留备忘录认为，在办公室窃听案中被指控的前 OpenAI 工程师应该继续被拘留：\n\n\n\n\n\n— http://nitter.meowing.monster/AndrewCurran_/status/2112257195136225394#m"
+      "tweet_id": "2112355448376742042",
+      "quoted": {
+        "user": "AndrewCurran_",
+        "text": "From the US government's detention memo arguing that the former OpenAI engineer accused in the office bugging case should remain in custody:",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA-uZRagAARF8c.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA-uZRagAARF8c.jpg?name=orig",
+            "local": "2112355448376742042q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "沙特阿拉伯不断派遣间谍渗透我们的科技公司，这真是太疯狂了"
     },
     {
-      "text": "How about using AI to turn it back into a mall?\n\n\nSheel Mohnot (@pitdesi)\n\nVague but intriguing re Westfield mall in SF\n\n“Our client is interested, in partnership with a known AI Lab, in developing the mall property… into an AI-controlled living space,” \n\nthe planned facility’s “proprietary AI design can utilize resources, such as dedicating water to a rooftop garden. This would then be donated to a nonprofit focusing on food insecurity for use in transient shelters.”\n\n\n\n— http://nitter.meowing.monster/pitdesi/status/2112204046027431996#m",
+      "text": "How about using AI to turn it back into a mall?",
       "link": "http://nitter.meowing.monster/wholemars/status/2112351372977008971#m",
       "date": "Tue, 20 Oct 2026 01:13:07 GMT",
-      "text_zh": "用人工智能把它变回购物中心怎么样？\n\n\n谢尔·莫诺特 (@pitdesi)\n\n旧金山韦斯特菲尔德购物中心的模糊但有趣\n\n“我们的客户有兴趣与一家知名的人工智能实验室合作，将购物中心物业开发成人工智能控制的生活空间，” \n\n计划中的设施的“专有人工智能设计可以利用资源，例如为屋顶花园提供专用水。然后将其捐赠给一家专注于粮食不安全问题的非营利组织，用于临时避难所。”\n\n\n\n— http://nitter.meowing.monster/pitdesi/status/2112204046027431996#m"
+      "tweet_id": "2112351372977008971",
+      "quoted": {
+        "user": "pitdesi",
+        "text": "Vague but intriguing re Westfield mall in SF\n\n“Our client is interested, in partnership with a known AI Lab, in developing the mall property… into an AI-controlled living space,” \n\nthe planned facility’s “proprietary AI design can utilize resources, such as dedicating water to a rooftop garden. This would then be donated to a nonprofit focusing on food insecurity for use in transient shelters.”"
+      },
+      "ctx_done": 1,
+      "text_zh": "用人工智能把它变回购物中心怎么样？"
     },
     {
-      "text": "Man Uber doing this sucks. They were the disruptor a couple of years ago and now are doing the exact same thing the cab business did with them. \n\nYou can’t stop AV adoption though. Waymo is growing at an incredible pace. Tesla Cybercab is also getting very popular and is probably by far the best rider experience ever. There are others like Zoox providing a great service too. All these services are better than Uber by a long shot.\n\nUber had an AV division doing pretty good too until 2018 when one of their cars with a safety driver killed a pedestrian. I mean Uber was still very shady with the Anthony Levandowsky stuff. But them trying to steal Google’s trade secrets and everything did tell us that they were serious. But that crash basically ended their whole AV program. Then over the next 10 years they’ve become this vile company lobbying against AVs because they failed at solving self driving.\n\nTravis Kalanick was right that Uber won’t survive if they don’t pivot to self driving completely and that is exactly what is happening right now\n\n\nWhole Mars Catalog (@wholemars)\n\nUber is so fucking shady. \n\nThe so called “People’s First Transportation Alliance” is actually funded by Uber. A more accurate name would have been the Uber First Transportation Alliance. \n\nThey are hiding the fact that they’re funding this anti-autonomy group, and listed a bunch of “founding members” of the group that had no clue their names were being used! \n\nThey just organized a protest against a bill that would bring autonomous driving to DC in 2028, demanding human drivers be required well past then. DC is such a critical city for autonomy, because we need congress to be able to try the technology for themselves. The fact that they can’t is holding federal autonomy legislation back. \n\nFuck Uber and everyone involved in this group. They want people to die so they can make money continuing to exploit their drivers.\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/wholemars/status/2112247574606569685#m",
+      "text": "Man Uber doing this sucks. They were the disruptor a couple of years ago and now are doing the exact same thing the cab business did with them. \nYou can’t stop AV adoption though. Waymo is growing at an incredible pace. Tesla Cybercab is also getting very popular and is probably by far the best rider experience ever. There are others like Zoox providing a great service too. All these services are better than Uber by a long shot.\nUber had an AV division doing pretty good too until 2018 when one of their cars with a safety driver killed a pedestrian. I mean Uber was still very shady with the Anthony Levandowsky stuff. But them trying to steal Google’s trade secrets and everything did tell us that they were serious. But that crash basically ended their whole AV program. Then over the next 10 years they’ve become this vile company lobbying against AVs because they failed at solving self driving.\nTravis Kalanick was right that Uber won’t survive if they don’t pivot to self driving completely and that is exactly what is happening right now",
       "link": "http://nitter.meowing.monster/WorldlyReviewer/status/2112348954444632258#m",
       "date": "Tue, 20 Oct 2026 01:03:30 GMT",
-      "text_zh": "Man Uber 这样做很糟糕。几年前，他们是颠覆者，现在正在做与出租车业务完全相同的事情。 \n\n但你无法阻止 AV 的采用。 Waymo 正在以令人难以置信的速度发展。 Tesla Cyber​​cab 也变得非常受欢迎，并且可能是迄今为止最好的乘坐体验。还有像 Zoox 这样的其他公司也提供优质的服务。所有这些服务都远远优于 Uber。\n\nUber 的 AV 部门也做得相当不错，直到 2018 年，他们的一辆配备安全驾驶员的汽车撞死了一名行人。我的意思是，优步在安东尼·莱万多夫斯基的事情上仍然很阴暗。但他们试图窃取谷歌的商业机密，一切都告诉我们他们是认真的。但那次事故基本上结束了他们的整个 AV 项目。然后在接下来的十年里，他们变成了一家邪恶的公司，游说反对自动驾驶汽车，因为他们未能解决自动驾驶问题。\n\n特拉维斯·卡兰尼克 (Travis Kalanick) 是对的，如果 Uber 不完全转向自动驾驶，他们就无法生存，而这正是目前正在发生的情况\n\n\n整个火星目录（@wholemars）\n\nUber实在是太阴暗了。 \n\n所谓的“人民第一交通联盟”实际上是由Uber资助的。更准确的名称应该是“优步第一交通联盟”。 \n\n他们隐瞒了他们正在资助这个反自治团体的事实，并列出了该团体的一群“创始成员”，他们不知道他们的名字被使用了！ \n\n他们刚刚组织了一场抗议活动，反对一项将于 2028 年在华盛顿特区引入自动驾驶的法案，要求早在那时就需要人类司机。华盛顿特区是一个对于自治至关重要的城市，因为我们需要国会能够亲自尝试这项技术。他们做不到的事实阻碍了联邦自治立法。 \n\n去他妈的 Uber 和这个组织里的每个人。他们希望人们死掉，这样他们就可以继续剥削司机来赚钱。\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/wholemars/status/2112247574606569685#m"
+      "tweet_id": "2112348954444632258",
+      "quoted": {
+        "user": "wholemars",
+        "text": "Uber is so fucking shady. \n\nThe so called “People’s First Transportation Alliance” is actually funded by Uber. A more accurate name would have been the Uber First Transportation Alliance. \n\nThey are hiding the fact that they’re funding this anti-autonomy group, and listed a bunch of “founding members” of the group that had no clue their names were being used! \n\nThey just organized a protest against a bill that would bring autonomous driving to DC in 2028, demanding human drivers be required well past then. DC is such a critical city for autonomy, because we need congress to be able to try the technology for themselves. The fact that they can’t is holding federal autonomy legislation back. \n\nFuck Uber and everyone involved in this group. They want people to die so they can make money continuing to exploit their drivers.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-X5aEAAUaoT.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-X5aEAAUaoT.jpg?name=orig",
+            "local": "2112348954444632258q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-YFbkAAtUPc.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-YFbkAAtUPc.jpg?name=orig",
+            "local": "2112348954444632258q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-X4b0AA6XWI.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-X4b0AA6XWI.jpg?name=orig",
+            "local": "2112348954444632258q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
+            "local": "2112348954444632258q_3.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "Man Uber 这样做很糟糕。几年前，他们是颠覆者，现在正在做与出租车业务完全相同的事情。 \n但你无法阻止 AV 的采用。 Waymo 正在以令人难以置信的速度发展。 Tesla Cyber​​cab 也变得非常受欢迎，并且可能是迄今为止最好的乘坐体验。还有像 Zoox 这样的其他公司也提供优质的服务。所有这些服务都远远优于 Uber。\nUber 的 AV 部门也做得相当不错，直到 2018 年，他们的一辆配备安全驾驶员的汽车撞死了一名行人。我的意思是，优步在安东尼·莱万多夫斯基的事情上仍然很阴暗。但他们试图窃取谷歌的商业机密，一切都告诉我们他们是认真的。但那次事故基本上结束了他们的整个 AV 项目。然后在接下来的十年里，他们变成了一家邪恶的公司，游说反对自动驾驶汽车，因为他们未能解决自动驾驶问题。\n特拉维斯·卡兰尼克 (Travis Kalanick) 是对的，如果 Uber 不完全转向自动驾驶，他们就无法生存，而这正是目前正在发生的情况"
     },
     {
       "text": "Tesla via their new Annual Report that was released today: \n\n“Readied V3 Optimus for mass production” 👀",
       "link": "http://nitter.meowing.monster/niccruzpatane/status/2112345507209052373#m",
       "date": "Tue, 20 Oct 2026 00:49:49 GMT",
-      "text_zh": "特斯拉通过今天发布的新年度报告： \n\n“V3 Optimus 已做好量产准备”👀"
+      "text_zh": "特斯拉通过今天发布的新年度报告： \n\n“V3 Optimus 已做好量产准备”👀",
+      "tweet_id": "2112345507209052373",
+      "ctx_done": 1
     },
     {
-      "text": "It’s not a ton of money today. How much do you think it’ll be worth 18 years from now, post-AGI and ASI?\n\n\nsophia dew (@sophiadew)\n\nsure $150 worth of spacex shares isn't a lot of money. but ownership matters!! if we want the next generation to be pro-progress, giving them a stake in American innovation is the best way to do that\n\n\n\n— http://nitter.meowing.monster/sophiadew/status/2112310294357967240#m",
+      "text": "It’s not a ton of money today. How much do you think it’ll be worth 18 years from now, post-AGI and ASI?",
       "link": "http://nitter.meowing.monster/wholemars/status/2112340122285084968#m",
       "date": "Tue, 20 Oct 2026 00:28:25 GMT",
-      "text_zh": "今天这不是一大笔钱。您认为 18 年后，在 AGI 和 ASI 之后，它的价值是多少？\n\n\n索菲亚露 (@sophiadew)\n\n当然，价值 150 美元的 spacex 股票并不是很多钱。但所有权很重要！如果我们希望下一代积极进步，让他们参与美国创新是最好的方法\n\n\n\n— http://nitter.meowing.monster/sophiadew/status/2112310294357967240#m"
+      "tweet_id": "2112340122285084968",
+      "quoted": {
+        "user": "sophiadew",
+        "text": "sure $150 worth of spacex shares isn't a lot of money. but ownership matters!! if we want the next generation to be pro-progress, giving them a stake in American innovation is the best way to do that"
+      },
+      "ctx_done": 1,
+      "text_zh": "今天这不是一大笔钱。您认为 18 年后，在 AGI 和 ASI 之后，它的价值是多少？"
     },
     {
       "text": "The ramp was bigger than it looked",
       "link": "http://nitter.meowing.monster/artsytartsi/status/2112335022900568277#m",
       "date": "Tue, 20 Oct 2026 00:08:09 GMT",
-      "text_zh": "坡道比看上去要大"
+      "text_zh": "坡道比看上去要大",
+      "tweet_id": "2112335022900568277",
+      "ctx_done": 1
     },
     {
       "text": "Dear @elonmusk We don’t need flying cars, bruh! We need bigger cars, bruh! We are stacked in here like sardines, bruh! 😅🫶 #TeslaRoadster #Tesla\n\nVideo",
       "link": "http://nitter.meowing.monster/CranzillaX/status/2112326663723942333#m",
       "date": "Mon, 19 Oct 2026 23:34:56 GMT",
-      "text_zh": "亲爱的@elonmusk 我们不需要飞行汽车，兄弟！我们需要更大的汽车，兄弟！我们像沙丁鱼一样堆在这里，兄弟！ 😅🫶 #TeslaRoadster #特斯拉\n\n视频"
+      "text_zh": "亲爱的@elonmusk 我们不需要飞行汽车，兄弟！我们需要更大的汽车，兄弟！我们像沙丁鱼一样堆在这里，兄弟！ 😅🫶 #TeslaRoadster #特斯拉\n\n视频",
+      "tweet_id": "2112326663723942333",
+      "ctx_done": 1
     },
     {
       "text": "My favorite company in the current @YCombinator batch is the @DreamscaleLabs (YC F26) team. Four college dropouts Eric, Chris, Kevin, and Antoine working on cloud inference for robotics. This is almost all done at the edge right now, but will be a ginormous market in a few years as humanoids and other robots ramp up and will wanna run real-time inference that is far more powerful than can be done on the edge. Go team! 🤓👌\n\n@eternaI_entropy, @KDog112358, @pentestduck, @AntoineNeedGPUs",
       "link": "http://nitter.meowing.monster/PhilipJohnston/status/2112323554608079145#m",
       "date": "Mon, 19 Oct 2026 23:22:35 GMT",
-      "text_zh": "当前@YCombinator 批次中我最喜欢的公司是@DreamscaleLabs (YC F26) 团队。四名大学辍学生埃里克 (Eric)、克里斯 (Chris)、凯文 (Kevin) 和安托万 (Antoine) 从事机器人云推理工作。目前，这几乎都是在边缘完成的，但随着类人机器人和其他机器人的崛起，几年后这将是一个巨大的市场，并且会想要运行比边缘更强大的实时推理。组队去吧！ 🤓👌\n\n@eternaI_entropy、@KDog112358、@pentestduck、@AntoineNeedGPUs"
+      "text_zh": "当前@YCombinator 批次中我最喜欢的公司是@DreamscaleLabs (YC F26) 团队。四名大学辍学生埃里克 (Eric)、克里斯 (Chris)、凯文 (Kevin) 和安托万 (Antoine) 从事机器人云推理工作。目前，这几乎都是在边缘完成的，但随着类人机器人和其他机器人的崛起，几年后这将是一个巨大的市场，并且会想要运行比边缘更强大的实时推理。组队去吧！ 🤓👌\n\n@eternaI_entropy、@KDog112358、@pentestduck、@AntoineNeedGPUs",
+      "tweet_id": "2112323554608079145",
+      "ctx_done": 1
     },
     {
-      "text": "My first Grok Bot project is a success! 😇\n\nIt helped me automate an account you can follow that simply updates a Stephenson Indicator™️ chart daily. Wish this had been a thing 6 years ago…\n\n\nStephenson Indicator (@StephensonIndTM)\n\nToday’s Stephenson Indicator™️ was $956.40.\n$TSLA closed today (Oct 19) at $368.06, a 61.5% discount to Stephenson Indicator™️.\n\n\n\n\n\n— http://nitter.meowing.monster/StephensonIndTM/status/2112312264631935200#m",
+      "text": "My first Grok Bot project is a success! 😇\nIt helped me automate an account you can follow that simply updates a Stephenson Indicator™️ chart daily. Wish this had been a thing 6 years ago…",
       "link": "http://nitter.meowing.monster/ICannot_Enough/status/2112319249335062660#m",
       "date": "Mon, 19 Oct 2026 23:05:28 GMT",
-      "text_zh": "我的第一个 Grok Bot 项目取得了成功！ 😇\n\n它帮助我自动化了一个您可以关注的帐户，每天只需更新 Stephenson Indicator™️ 图表即可。希望这是六年前的事……\n\n\n史蒂芬森指标 (@StephensonIndTM)\n\n今天的史蒂芬森指标™️ 为 956.40 美元。\n$TSLA 今天（10 月 19 日）收盘价为 368.06 美元，较 Stephenson Indicator™️ 折让 61.5%。\n\n\n\n\n\n— http://nitter.meowing.monster/StephensonIndTM/status/2112312264631935200#m"
+      "tweet_id": "2112319249335062660",
+      "quoted": {
+        "user": "StephensonIndTM",
+        "text": "Today’s Stephenson Indicator™️ was $956.40.\n$TSLA closed today (Oct 19) at $368.06, a 61.5% discount to Stephenson Indicator™️.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBwz1ZXMAI3KGc.png?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBwz1ZXMAI3KGc.png?name=orig",
+            "local": "2112319249335062660q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "我的第一个 Grok Bot 项目取得了成功！ 😇\n它帮助我自动化了一个您可以关注的帐户，每天只需更新 Stephenson Indicator™️ 图表即可。希望这是六年前的事……"
     },
     {
-      "text": "This is a joke. One of the most talented ethical hackers and cybersecurity experts ON THE PLANET gets denied. I can't with this.\n\n\nJustin Elze (@HackingLZ)\n\nMy personal one got denied 😂\n\n\n\n\n\n— https://nitter.kareem.one/HackingLZ/status/2112302414108012680#m",
+      "text": "This is a joke. One of the most talented ethical hackers and cybersecurity experts ON THE PLANET gets denied. I can't with this.",
       "link": "https://nitter.kareem.one/blackroomsec/status/2112312990900851026#m",
       "date": "Mon, 19 Oct 2026 22:40:36 GMT",
-      "text_zh": "这是一个笑话。地球上最有才华的道德黑客和网络安全专家之一被拒绝了。我不能这样。\n\n\n贾斯汀·埃尔兹（@HackingLZ）\n\n我个人的被拒绝了😂\n\n\n\n\n\n— https://nitter.kareem.one/HackingLZ/status/2112302414108012680#m"
+      "tweet_id": "2112312990900851026",
+      "quoted": {
+        "user": "HackingLZ",
+        "text": "My personal one got denied 😂",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVBn2cnWkAAoVvC.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVBn2cnWkAAoVvC.jpg?name=orig",
+            "local": "2112312990900851026q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1,
+      "text_zh": "这是一个笑话。地球上最有才华的道德黑客和网络安全专家之一被拒绝了。我不能这样。"
     },
     {
-      "text": "It was a great honor to work on Trump Accounts. Consider joining @ndstudio to work on much more just like it\n\n\nFarzad 🇺🇸 🇮🇷 (@farzyness)\n\nElon Musk says he'll be giving shares of his companies directly to the public - most likely through the Trump Account mechanism.\n\nUniversal Basic Capital has arrived, folks.\n\nWe are officially in the future.\n\n\n\n— http://nitter.meowing.monster/farzyness/status/2111991772620435653#m",
+      "text": "It was a great honor to work on Trump Accounts. Consider joining @ndstudio to work on much more just like it",
       "link": "http://nitter.meowing.monster/as400495/status/2111998678244245821#m",
       "date": "Mon, 19 Oct 2026 01:51:38 GMT",
-      "text_zh": "能够为特朗普账户工作是我的荣幸。考虑加入@ndstudio 从事更多类似的工作\n\n\n法扎德🇺🇸🇮🇷（@farzyness）\n\n埃隆·马斯克表示，他将直接向公众出售其公司的股票——很可能是通过特朗普账户机制。\n\n各位，通用基本资本已经到来。\n\n我们正式处于未来。\n\n\n\n— http://nitter.meowing.monster/farzyness/status/2111991772620435653#m"
+      "tweet_id": "2111998678244245821",
+      "quoted": {
+        "user": "farzyness",
+        "text": "Elon Musk says he'll be giving shares of his companies directly to the public - most likely through the Trump Account mechanism.\n\nUniversal Basic Capital has arrived, folks.\n\nWe are officially in the future."
+      },
+      "ctx_done": 1,
+      "text_zh": "能够为特朗普账户工作是我的荣幸。考虑加入@ndstudio 从事更多类似的工作"
     }
   ]
 }

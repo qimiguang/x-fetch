@@ -1,6 +1,6 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-10-28T06:01:49Z",
+  "updated_at": "2026-10-28T06:23:04Z",
   "count": 25,
   "tweets": [
     {
@@ -26,7 +26,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "所以 Elon 并不介意推广 Starlink 和 Grok Bot，但却一直对推广特斯拉汽车或 FSD 很抵触，Why？\nSpaceX is running Grok Bot ads in Penn Station in NYC, which serves 600,000+ passengers per day.\n“Grok Bot. AI teammates that get work done.”\nVideo"
     },
     {
       "text": "[1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。\n\n\n晚点 LatePost (@latepostnews)\n\n\nArticle\n\n\n\n还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代\n\n2024 年夏天，字节跳动一支视频生成团队经历了几个月无法解释的训练故障，上百名工程师参与排查，最后发现是人为干扰。结果是字节辞退了实习生田柯宇，并在之后起诉他篡改代码、干扰模型训练并造成损失。\n\n\n\n\n— https://nitter.kareem.one/latepostnews/status/2113675462069362951#m",
@@ -57,7 +58,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "客观说澳新的皮卡市场可能没那么大，开发右舵反而增加制造复杂性。但对于北美大本营，我很好奇特斯拉接下来打算如何对待 Cybertruck。这款车远未实现其最初终结福特 F150 连续 40 年皮卡销冠的使命。实际上，这也是特斯拉第一款基于全新平台开发但并未达到商业预期的产品。\nThis is genuinely sad. First they discontinued the ModelX /S, and now the Cybertruck is officially cancelled for Australia and New Zealand.\nI’ve driven my ModelX for almost 10 years . I got it before I had any kids and now I have a family of three children. Everyone is happy with this car , it’s perfect size for us. Those falcon wing doors are not just an eye catcher, they are actually very practical and make it much easier when getting the kids in and out of their car seats. But unfortunately, you can’t get a new ModelX anymore .\nI was so looking forward to driving Cybertruck out camping and doing some off roads with my kids, and now that’s off the table too.\nI understand that Cybertruck’s sales didn’t meet expectations, ModelX production line had to shift for Optimus, but still, it’s just so disappointing. @elonmusk"
     },
     {
       "text": "根据上下文，我认为 Ashok 说的不是传统车企。传统车企也没有触及 90%，传统车企是 0。\nMy favorite quote from last nights $TSLA call underscores why shares are going higher.  \nAshok Elluswamy (head of AI) responding to a question of how close are traditional auto makers from getting autonomy right   \n“Yeah. It's easy to get to the first 90% and make a cool-looking demo. But when you get in the long tail of this problem, it's so long that people don't realize anyone with their sane mind should not attempt to solve this problem”.",
@@ -68,7 +70,8 @@
         "user": "munster_gene",
         "text": "My favorite quote from last nights $TSLA call underscores why shares are going higher.  \n\nAshok Elluswamy (head of AI) responding to a question of how close are traditional auto makers from getting autonomy right   \n\n“Yeah. It's easy to get to the first 90% and make a cool-looking demo. But when you get in the long tail of this problem, it's so long that people don't realize anyone with their sane mind should not attempt to solve this problem”."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "根据上下文，我认为 Ashok 说的不是传统车企。传统车企也没有触及 90%，传统车企是 0。\nMy favorite quote from last nights $TSLA call underscores why shares are going higher.  \nAshok Elluswamy (head of AI) responding to a question of how close are traditional auto makers from getting autonomy right   \n“Yeah. It's easy to get to the first 90% and make a cool-looking demo. But when you get in the long tail of this problem, it's so long that people don't realize anyone with their sane mind should not attempt to solve this problem”."
     },
     {
       "text": "其实很好奇 Elon 说的 2030 年的 500 万辆产能是如何拆解的，5 万辆 Semi 应该会有很稳定的需求，除此之外呢，Model 3 和 Model Y 会来一次类似 2021 年 Plaid 级别的更新？换代感觉是不可能了。",
@@ -87,7 +90,8 @@
         "user": "shrmodelx",
         "text": "我必须提出来以防很多人注意不到:\n如果特斯拉 $tsla 和SpaceX $SPCX 合并，那么新公司会成为一家军工背景企业，这会导致特斯拉在中国的业务收到极大影响，在最坏的情况下特斯拉可能被迫在放弃中国市场与拆分中国业务之间做二选一"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "这是一个很重要的问题。"
     },
     {
       "text": "话虽如此，但我其实很认同 @wholemars 。我认为全球各地有非常多的人喜欢也想要完全换代的 Model S/X，需求是广泛存在的。且开发 Roadster 平台沉淀的高性能 4680 电池、1MW 矢量扭矩双电机...许多技术在 CyberCab 甚至 Model 3/Y 平台上是无法复用的，但 S/X 可以。sigh.",
@@ -98,7 +102,8 @@
         "user": "ChrisZheng001",
         "text": "Elon 说 Roadster 是特斯拉最后一款手动驾驶的车辆、CyberCab 和 Optimus 是特斯拉未来价值的绝大部分，我认为他隐含的意思是：无意再做任何新的乘用车。因为这些项目的 ROI 很低。"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "话虽如此，但我其实很认同 @wholemars 。我认为全球各地有非常多的人喜欢也想要完全换代的 Model S/X，需求是广泛存在的。且开发 Roadster 平台沉淀的高性能 4680 电池、1MW 矢量扭矩双电机...许多技术在 CyberCab 甚至 Model 3/Y 平台上是无法复用的，但 S/X 可以。sigh."
     },
     {
       "text": "Elon 说 Roadster 是特斯拉最后一款手动驾驶的车辆、CyberCab 和 Optimus 是特斯拉未来价值的绝大部分，我认为他隐含的意思是：无意再做任何新的乘用车。因为这些项目的 ROI 很低。",
@@ -109,7 +114,8 @@
         "user": "wholemars",
         "text": "There’s a very low likelihood of this happening, but I would love for Tesla to take the Roadster platform and build a modern Model S & X with 48 volt / 800 volt / steer by wire / brake by wire / 4680 structural pack etc"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Elon 说 Roadster 是特斯拉最后一款手动驾驶的车辆、CyberCab 和 Optimus 是特斯拉未来价值的绝大部分，我认为他隐含的意思是：无意再做任何新的乘用车。因为这些项目的 ROI 很低。"
     },
     {
       "text": "一年前，Sam 发帖希望退掉 Roadster 的订单。今天他安静如鸡，大抵是退单成功了罢。😅",
@@ -140,7 +146,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "一年前，Sam 发帖希望退掉 Roadster 的订单。今天他安静如鸡，大抵是退单成功了罢。😅"
     },
     {
       "text": "看来 V14 这一代就停在 14.3 小迭代了，下一个大版本一步到位 V15。",
@@ -165,7 +172,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "看来 V14 这一代就停在 14.3 小迭代了，下一个大版本一步到位 V15。"
     },
     {
       "text": "WSJ is reporting that Anthropic CEO Dario Amodei personally called Meta's Alexandr Wang seeking more compute. Meta considered providing chips, then declined.\nInside GOOGLE, Demis Hassabis has expressed frustration about Google not allocating enough compute to long-term research. Sergey Brin sometimes overrides the company's formal compute allocation process, redirecting resources toward projects he personally considers important.\nGoogle also cut compute allocated to Noam Shazeer's team in favor of another project. Shortly afterward, he left for OpenAI.",
@@ -184,7 +192,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "据《华尔街日报》报道，Anthropic 首席执行官 Dario Amodei 亲自致电 Meta 的 Alexandr Wang，寻求更多计算能力。 Meta 曾考虑提供芯片，但后来拒绝了。\n在 GOOGLE 内部，Demis Hassabis 对 Google 没有为长期研究分配足够的计算能力表示沮丧。谢尔盖·布林有时会推翻公司正式的计算分配流程，将资源重新分配给他个人认为重要的项目。\n谷歌还削减了分配给 Noam Shazeer 团队的计算资源，转而支持另一个项目。不久之后，他前往 OpenAI。"
     },
     {
       "text": "不是吧？是「好的写作」远远不像数学那样可验证、可闭环吧？\n\n\nPaul Graham (@paulg)\n\nApparently it's mostly just because they haven't made much of an effort to train it to write well yet.\n\n\n\n— https://nitter.kareem.one/paulg/status/2108688612682522939#m",
@@ -207,7 +216,8 @@
         "user": "rezoundous",
         "text": "I think in the end, it really is gonna be Elon vs Sam"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "我认为是 Google VS SpaceX，Elon VS Page."
     },
     {
       "text": "lol",
@@ -218,7 +228,8 @@
         "user": "slfYukino",
         "text": "为什么黑Anthropic啊，他是扒了盗版书了？还是拆书做训练集了？还是拿版权歌词训练了？还是拿“AI毁灭人类”天天炒作了？还是一边喊安全一边接军方项目了？还是拿极端实验宣传Claude会敲诈人类了？还是一边蒸馏别家，一边骂别家蒸馏克了？还是拿中美叙事当理由打压中国模型了？还是炒作“AI意识”和“模型福利”了？还是安全承诺一影响赚钱就改口了？还是拿用户聊天训练模型了？还是公开分享链接暴露用户隐私了？还是超级敏感肌，肥波动不动切到4.8o？还是用安全为由反对开源，拒绝签署开源倡议了？"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "哈哈"
     },
     {
       "text": "对于任何不了解的人：这是我的 Model 3 上的 FSD 在中国的名称，特斯拉辅助驾驶。我认为在本土化不足、尚有一些场景待优化的中国和欧洲，相比 FSD，特斯拉辅助驾驶是一个更准确的产品名称——辅助司机驾驶，但司机负全部责任，需要做最终的裁决。\nTesla has just officially renamed FSD (Supervised) to “Tesla Assisted Driving” across all of Europe.\nThe change came after discussions with Germany's Transport Ministry. This should help with getting EU-wide approval. Tesla's European websites now displays the new name.",
@@ -237,7 +248,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "对于任何不了解的人：这是我的 Model 3 上的 FSD 在中国的名称，特斯拉辅助驾驶。我认为在本土化不足、尚有一些场景待优化的中国和欧洲，相比 FSD，特斯拉辅助驾驶是一个更准确的产品名称——辅助司机驾驶，但司机负全部责任，需要做最终的裁决。\nTesla has just officially renamed FSD (Supervised) to “Tesla Assisted Driving” across all of Europe.\nThe change came after discussions with Germany's Transport Ministry. This should help with getting EU-wide approval. Tesla's European websites now displays the new name."
     },
     {
       "text": "$TSLA 🇰🇷\nNEWS: Tesla Korea CEO Seo Young-deuk testified at the National Assembly audit today (Oct 8, 2026). \n- I added English subtitles to the video\n\n• ~89,000 Teslas sold in Korea through September, ~90% Model Y\n• ~45,000 of ~230,000 Korean customers can use FSD (incl. HW3)\n\n• 100M+ km driven on FSD in Korea, no significant serious accidents reported\n• US-made cars run FSD under the KORUS FTA; others are still blocked by domestic law\n\n• Tesla Korea has not formally requested any test from MOLIT (Korea currently has no law that allows for FSD)\n\nAsked if Tesla would apply for verification, he said Tesla will actively cooperate if MOLIT sets up a channel and framework.\n\nSame car, different factory, different rules..\n\nVideo",
@@ -276,7 +288,8 @@
           }
         ]
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "字面意义上的超人智能表现，即超越大多数人类旅行者的路径规划水平。\n惊人的 FSD 机动，哇！\n我在 5 条车道中间遇到红灯。\n我的 Cyber​​truck 看到一辆救护车从后面驶来……但十字路口大部分被封锁。\n因此，它右转穿过 3 条车道进入安全区，为紧急车辆留下一条畅通的车道，使其可以不间断地行驶。 \n确认安全后，我的卡车会并入并继续行驶到新道路上，自动更新我的导航以反映计划外的转弯。 \n以前有人见过 FSD 做过这样的事情吗……这不仅仅是开车时靠边停车。 \n这完全是一种“让我们为紧急情况腾出空间，让他们继续前进”的有目的的行动。 \n@特斯拉 @teslasi @yunta_tsai @aelluswamy @elonmusk\n视频\n视频\n视频"
     },
     {
       "text": "我的预期是， Tesla Robotaxi 的 scaling 速度不是不变的，而是会持续加速。测试成本在某个时刻趋近于零，即无需特定测试直接进入某个新城市。Ashok 在特斯拉财报会议上也提到了这个目标。",
@@ -287,7 +300,8 @@
         "user": "binarybits",
         "text": "It seems like Tesla is scaling a little bit faster than Waymo did in 2020-21, but it's going to take at least a couple more years for them to catch up."
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "我的预期是， Tesla Robotaxi 的 scaling 速度不是不变的，而是会持续加速。测试成本在某个时刻趋近于零，即无需特定测试直接进入某个新城市。Ashok 在特斯拉财报会议上也提到了这个目标。"
     },
     {
       "text": "很有趣。在 NFC 车型量产之前，特斯拉的蓝牙钥匙非常稳定，虽然偶有小版本会罚站，但大部分时候都很稳定，我一直很好奇蓝牙钥匙的门槛在哪。这里说的端到端的指令和 5 年研发，具体指什么。\n\n\nThomas D. (@ThomasAlxDmy)\n\nIt’s not trivial. Specially if they do like Tesla end to end sign commands with no man in the middle. Took 5years to develop and roll out the tech\n\n\n\n— https://nitter.kareem.one/ThomasAlxDmy/status/2106213441711091989#m",
@@ -322,7 +336,8 @@
         "user": "itsjackcohen",
         "text": "The term gets overused, but it’s truly wild to watch a 10x designer go to *absolute town* on a product and take it from “design’s sorta secondary” to “holy shit someone really cares” in such a short time.\n\nKnow I speak for all of us, @benjitaylor, we can feel it. 👏"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "改进确实肉眼可见。\n这个词已经被过度使用了，但是看到一位 10 倍的设计师去“绝对小镇”设计一款产品，并在如此短的时间内将其从“设计是次要的”变成“天哪，有人真正关心的”，这真的很疯狂。\n我知道我代表我们所有人，@benjitaylor，我们能感觉到。 👏"
     },
     {
       "text": "Jason Cammisa 的内容创意和信息密度都非常好。",
@@ -333,7 +348,8 @@
         "user": "Filasophical",
         "text": "In my opinion, @JasonCammisa put together the best and funniest @cybertruck review back in December 2023, hands down. \nI cannot wait to watch his review of the Roadster 2.0!!!"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "Jason Cammisa 的内容创意和信息密度都非常好。"
     },
     {
       "text": "🎯",
@@ -344,7 +360,8 @@
         "user": "wholemars",
         "text": "Welcome to the United States Xi Jinping, please approve FSD in China"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "🎯"
     },
     {
       "text": "绷不住了。\ntrump: “first of all, i want to welcome everyone to the first supreme intelligence summit. we used to call it artificial intelligence. terrible name. artificial means fake. why would we want fake intelligence? we want supreme intelligence.”\nsam altman: “mr. president, under your leadership, openai has made tremendous progress toward supreme intelligence.”\ntrump: “tremendous.”\ndario amodei: “anthropic believes supreme intelligence must be developed safely, responsibly, & in accordance with..”\ntrump: “see, he said it. supreme intelligence. very smart guy.”\ndario: “yes sir.”\ndemis hassabis: “google deepmind has spent decades working toward general intelligence, but we now recognize that the technically correct term is supreme intelligence.”\ntrump: “google finally learned something.”\nsundar pichai: “absolutely, mr. president. gemini is becoming more capable every day thanks to america’s leadership in supreme intelligence.”\ntrump: gemini. “beautiful name. two people. double intelligence.”\nsundar: “yes. exactly.”\nelon musk: “i’ve actually been calling it supreme intelligence privately for years.”\nsam: “no you haven’t.”\nelon: “you wouldn’t know because you stole a charity.”\nmark zuckerberg: “mr president, meta is committed to making supreme intelligence available to everyone for free.”\ntrump: “mark, you look much stronger now.”\nzuck: “thank you.”\ntrump: “something happened.”\nzuck: “jiu-jitsu.”\ntrump: “supreme jiu-jitsu.”\nsatya nadella: “mr president, microsoft is proud to provide the infrastructure powering the supreme intelligence revolution.”\nreporter: “mr. president, what exactly is supreme intelligence?”\ntrump: “it’s even better intelligence, very high IQ like my uncle who went to MIT.”",
@@ -355,7 +372,8 @@
         "user": "signulll",
         "text": "trump: “first of all, i want to welcome everyone to the first supreme intelligence summit. we used to call it artificial intelligence. terrible name. artificial means fake. why would we want fake intelligence? we want supreme intelligence.”\n\nsam altman: “mr. president, under your leadership, openai has made tremendous progress toward supreme intelligence.”\n\ntrump: “tremendous.”\n\ndario amodei: “anthropic believes supreme intelligence must be developed safely, responsibly, & in accordance with..”\n\ntrump: “see, he said it. supreme intelligence. very smart guy.”\n\ndario: “yes sir.”\n\ndemis hassabis: “google deepmind has spent decades working toward general intelligence, but we now recognize that the technically correct term is supreme intelligence.”\n\ntrump: “google finally learned something.”\n\nsundar pichai: “absolutely, mr. president. gemini is becoming more capable every day thanks to america’s leadership in supreme intelligence.”\n\ntrump: gemini. “beautiful name. two people. double intelligence.”\n\nsundar: “yes. exactly.”\n\nelon musk: “i’ve actually been calling it supreme intelligence privately for years.”\n\nsam: “no you haven’t.”\n\nelon: “you wouldn’t know because you stole a charity.”\n\nmark zuckerberg: “mr president, meta is committed to making supreme intelligence available to everyone for free.”\n\ntrump: “mark, you look much stronger now.”\n\nzuck: “thank you.”\n\ntrump: “something happened.”\n\nzuck: “jiu-jitsu.”\n\ntrump: “supreme jiu-jitsu.”\n\nsatya nadella: “mr president, microsoft is proud to provide the infrastructure powering the supreme intelligence revolution.”\n\nreporter: “mr. president, what exactly is supreme intelligence?”\n\ntrump: “it’s even better intelligence, very high IQ like my uncle who went to MIT.”"
       },
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "绷不住了。\n特朗普：“首先，我想欢迎大家参加第一届最高情报峰会。我们过去称之为人工智能。可怕的名字。人工意味着假。为什么我们想要假情报？我们想要最高情报。”\n萨姆·奥尔特曼：“总统先生，在您的领导下，Openai 在实现最高智能方面取得了巨大进步。”\n特朗普：“太棒了。”\n达里奥·阿莫迪：“人类相信最高智慧必须以安全、负责任的方式发展，并符合……”\n特朗普：“看，他这么说。至高无上的智慧。非常聪明的人。”\n达里奥：“是的，先生。”\ndemis hassabis：“谷歌 DeepMind 花了数十年的时间致力于通用智能，但我们现在认识到，技术上正确的术语是最高智能。”\n特朗普：“谷歌终于学到了一些东西。”\n桑达尔·皮查伊：“当然，总统先生。由于美国在最高情报领域的领导地位，双子座每天都在变得更加有能力。”\n特朗普：双子座。 “美丽的名字。两个人。双重智慧。”\n桑达尔：“是的。完全正确。”\n埃隆·马斯克：“事实上，多年来我私下里一直称其为至高智能。”\n萨姆：“不，你没有。”\n埃隆：“你不会知道，因为你偷了一个慈善机构。”\n马克·扎克伯格：“总统先生，Meta 致力于让所有人免费获得最高情报。”\n特朗普：“马克，你现在看起来坚强多了。”\n扎克：“谢谢。”\n特朗普：“出事了。”\nzuck：“柔术。”\n特朗普：“至高无上的柔术。”\n萨蒂亚·纳德拉：“总统先生，微软很自豪能够提供推动最高智能革命的基础设施。”\n记者：“总统先生，到底什么是最高情报？”\n特朗普：“智力甚至更高，智商非常高，就像我就读麻省理工学院的叔叔一样。”"
     },
     {
       "text": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.\n\n[Original text (with links): deeplearning.ai/the-batch/is… ]\n\nLink\n\n\n\nMeta’s Agent Security, The Navier-Stokes Controversy, Fraud on Claude\n\nThe Batch News & Insights: The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks.\ndeeplearning.ai",
