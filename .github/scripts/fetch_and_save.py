@@ -450,7 +450,8 @@ def parse_rss(content):
 
 def fetch_via_nitter(username):
     print(f"  [Method 3] Nitter RSS...")
-    for instance in NITTER_INSTANCES:
+    instances = _nitter_instances()
+    for instance in instances:
         print(f"    Trying {instance}")
         content = fetch(f"{instance}/{username}/rss", timeout=15)
         if content and "<rss" in content:
@@ -704,6 +705,27 @@ def fetch_via_jina_proxy(username, show_replies=False):
     return None
 
 
+def _nitter_instances():
+    """静态实例列表 + 从 status.d420.de 动态发现当前健康的实例（放前面优先试）。
+    Nitter 实例存活情况变化快，静态列表经常全军覆没。"""
+    dyn = []
+    try:
+        d = fetch_json("https://status.d420.de/api/v1/instances")
+        for inst in (d or {}).get("instances") or []:
+            host = (inst or {}).get("host") if isinstance(inst, dict) else None
+            if host:
+                url = host if host.startswith("http") else f"https://{host}"
+                if url not in dyn:
+                    dyn.append(url)
+    except (OSError, ValueError):
+        pass
+    out = list(dyn)
+    for b in NITTER_INSTANCES:
+        if b not in out:
+            out.append(b)
+    return out
+
+
 def fetch_tweets(username):
     show_replies = SHOW_REPLIES_OVERRIDES.get(username.lower(), False)
     # 方法1: Syndication API（最稳定，对高流量账号也有效）
@@ -726,10 +748,15 @@ def fetch_tweets(username):
     if tweets:
         return tweets
 
-    # 最后重试 Syndication（等待后再试一次）
-    print("  Retrying Syndication after 5s...")
-    time.sleep(5)
-    tweets = fetch_via_syndication(username, show_replies)
+    # 最后重试 Syndication（429 是间歇性的：Twitter 按出口 IP 段限流，
+    # 多退避几次常能换到未触限的窗口；全部失败才放弃本轮）
+    tweets = None
+    for wait in (15, 45, 90):
+        print(f"  Retrying Syndication after {wait}s...")
+        time.sleep(wait)
+        tweets = fetch_via_syndication(username, show_replies)
+        if tweets:
+            return tweets
     return tweets
 
 
