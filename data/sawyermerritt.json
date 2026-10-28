@@ -1,6 +1,6 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-28T10:19:07Z",
+  "updated_at": "2026-10-28T11:38:42Z",
   "count": 161,
   "tweets": [
     {
@@ -1558,7 +1558,8 @@
             "full": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
             "local": "2112303933989208564q_1.jpg"
           }
-        ]
+        ],
+        "text_zh": "ARK Invest 刚刚发布了他们新的特斯拉估值模型，预计到 2031 年 @Tesla 的估值可能达到 17.5 万亿美元，在牛市情况下将达到 20.4 万亿美元以上。\n\nARK 的 2031 年特斯拉基本情况：4,400 美元/股\n• 约 100 万个 Optimus 机器人对外销售，产生约 212B 美元的收入\n• Robotaxi 约占 Tesla 企业价值的 80%（低于 ARK 2029 年车型的约 90%）\n• 部署了约 810 万辆机器人出租车，网约车收入约 753B 美元\n• 总收入约为 $1.45T，EBITDA 约为 $902B\n• 市值约为 17.5T 美元\n• 特斯拉的人工智能基础设施支出累计从约 $7B 增长至 $225B\n\nARK 的 2031 年特斯拉牛市案例：5,000 美元/股\n• 电动汽车收入（不包括积分）：$355B\n• 机器人出租车：1000 万辆汽车和 899B 美元的网约车收入\n• 能源存储：部署 2,693 GWh，收入 193B 美元\n• Optimus：对外销售 120 万台机器人，收入达 254B 美元\n• 总收入：$1.62T\n• EBITDA：1.045T 美元，利润率为 65%，毛利率为 72%\n• 市值：$20.4T\n\nARK 的模型并未假设 SpaceX 和特斯拉合并，但他们估计 SpaceX 和特斯拉合并后可在 2031 年产生 3.8T 美元的收入，其中 SpaceX 贡献约 62%。"
       },
       "ctx_done": 1,
       "text_zh": "Ark Invest：“特斯拉将 Cyber​​cab 添加到其机器人出租车车队中。我们的研究表明，在同等利用率下，特斯拉每英里的运营成本将比 Waymo 的下一代机器人出租车低 40% 左右。”"
@@ -1584,7 +1585,8 @@
             "full": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
             "local": "2112303385081004060q_1.jpg"
           }
-        ]
+        ],
+        "text_zh": "ARK Invest 刚刚发布了他们新的特斯拉估值模型，预计到 2031 年 @Tesla 的估值可能达到 17.5 万亿美元，在牛市情况下将达到 20.4 万亿美元以上。\n\nARK 的 2031 年特斯拉基本情况：4,400 美元/股\n• 约 100 万个 Optimus 机器人对外销售，产生约 212B 美元的收入\n• Robotaxi 约占 Tesla 企业价值的 80%（低于 ARK 2029 年车型的约 90%）\n• 部署了约 810 万辆机器人出租车，网约车收入约 753B 美元\n• 总收入约为 $1.45T，EBITDA 约为 $902B\n• 市值约为 17.5T 美元\n• 特斯拉的人工智能基础设施支出累计从约 $7B 增长至 $225B\n\nARK 的 2031 年特斯拉牛市案例：5,000 美元/股\n• 电动汽车收入（不包括积分）：$355B\n• 机器人出租车：1000 万辆汽车和 899B 美元的网约车收入\n• 能源存储：部署 2,693 GWh，收入 193B 美元\n• Optimus：对外销售 120 万台机器人，收入达 254B 美元\n• 总收入：$1.62T\n• EBITDA：1.045T 美元，利润率为 65%，毛利率为 72%\n• 市值：$20.4T\n\nARK 的模型并未假设 SpaceX 和特斯拉合并，但他们估计 SpaceX 和特斯拉合并后可在 2031 年产生 3.8T 美元的收入，其中 SpaceX 贡献约 62%。"
       },
       "ctx_done": 1,
       "text_zh": "Ark Invest：“特斯拉已扩展到三个州的七个城市，并在约 7 个月内完成了超过 100 万英里的无监督无人驾驶里程，比 Waymo 的首个百万英里快了约 4 倍。特斯拉预计今年年底将通过 FSD V15 加速这一增长。特斯拉已将 FSD V15 视为扩大其机器人出租车服务的限制因素。”"
@@ -1688,7 +1690,8 @@
       "tweet_id": "2112167917928194383",
       "quoted": {
         "user": "elonmusk",
-        "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many."
+        "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
+        "text_zh": "明年，我将把我的 SpaceX 股票之一送给美国的每个孩子。\n\n这将是众多中的第一个。"
       },
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克 (Elon Musk) 将于 2027 年向约 7200 万美国儿童捐赠一股 @SpaceX 股份，目前价值 105 亿美元，大概是通过特朗普账户捐赠的。\n美国的每个孩子都将直接参与这家公司的股份，该公司的使命是人类历史上最雄心勃勃的使命：让生命变得多植物🚀"

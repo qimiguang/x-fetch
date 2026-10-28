@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-28T10:07:53Z",
+  "updated_at": "2026-10-28T11:36:58Z",
   "count": 80,
   "tweets": [
     {
@@ -743,7 +743,8 @@
       "tweet_id": "2111005522367303819",
       "quoted": {
         "user": "teslascope",
-        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1",
+        "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。在此处查看此更新的推出：https://teslascope.com/software/2026.38.5.1"
       },
       "ctx_done": 1
     },
@@ -754,7 +755,8 @@
       "tweet_id": "2110957459863138542",
       "quoted": {
         "user": "elonmusk",
-        "text": "The new Tesla Roadster is a candidate for greatest product demo of all time"
+        "text": "The new Tesla Roadster is a candidate for greatest product demo of all time",
+        "text_zh": "新款特斯拉 Roadster 是有史以来最精彩产品演示的候选者"
       },
       "ctx_done": 1,
       "text_zh": "我们已经向十几个朋友展示了 Roadster 视频，每个人都难以置信地反复尖叫“What the F-”，或者目瞪口呆、说不出话来。\n所需的工程技术令人惊叹。 \n非常同意这是有史以来最伟大的产品演示之一。太棒了@特斯拉！"
@@ -816,7 +818,8 @@
       "tweet_id": "2110886094074212798",
       "quoted": {
         "user": "teslascope",
-        "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%)."
+        "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).",
+        "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。"
       },
       "ctx_done": 1,
       "text_zh": "FSD v14.3 lite/FSD v14.3.12 的大规模推出。检查您的应用程序！\n根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。"
@@ -829,7 +832,8 @@
       "tweet_id": "2110885979871457545",
       "quoted": {
         "user": "teslascope",
-        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1",
+        "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。在此处查看此更新的推出：https://teslascope.com/software/2026.38.5.1"
       },
       "ctx_done": 1
     },
@@ -857,7 +861,8 @@
       "tweet_id": "2110806750932926591",
       "quoted": {
         "user": "UIbyAdam",
-        "text": "Today will be legendary."
+        "text": "Today will be legendary.",
+        "text_zh": "今天将是传奇。"
       },
       "ctx_done": 1,
       "text_zh": "敞篷跑车揭晓就在今天！"
@@ -870,7 +875,8 @@
       "tweet_id": "2110806713624400022",
       "quoted": {
         "user": "teslascope",
-        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1",
+        "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。在此处查看此更新的推出：https://teslascope.com/software/2026.38.5.1"
       },
       "ctx_done": 1
     },
