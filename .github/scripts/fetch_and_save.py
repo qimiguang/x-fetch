@@ -492,7 +492,9 @@ def fetch_via_nitter(username):
         if content and "<rss" in content:
             tweets = parse_rss(content)
             if tweets:
-                print(f"    OK: {instance} ({len(tweets)} tweets)")
+                n_enc = content.count("<enclosure")
+                n_media = sum(1 for t in tweets if t.get("media"))
+                print(f"    OK: {instance} ({len(tweets)} tweets, {n_enc} enclosure, {n_media} with media)")
                 return tweets
         time.sleep(0.3)
     return None
