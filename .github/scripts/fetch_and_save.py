@@ -1003,6 +1003,11 @@ def enrich_reply_context(tweets, limit=30):
     for t in tweets:
         if processed >= limit:
             break
+        if not t.get("tweet_id"):
+            # 旧 RSS 记录没有 tweet_id，从 status 链接反推
+            m = re.search(r"/status/(\d+)", t.get("link", "") or "")
+            if m:
+                t["tweet_id"] = m.group(1)
         if t.get("quoted") or t.get("ctx_done") or not t.get("tweet_id"):
             continue
         try:
