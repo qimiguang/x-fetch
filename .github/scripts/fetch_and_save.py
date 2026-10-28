@@ -13,6 +13,7 @@ import json
 import glob
 import time
 import re
+import html as html_mod
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -794,6 +795,83 @@ def fetch_via_sotwe(username):
     return None
 
 
+# ── Method 6: Jina 渲染 Nitter 网页版（RSS 被 451 拦但网页活着）──────────────
+
+NITTER_HTML_INSTANCES = (
+    "https://xcancel.com",
+    "https://nitter.tiekoetter.com",
+    "https://nitter.cz",
+)
+
+
+def _nitter_media_urls(chunk):
+    """从 nitter 单条推文 HTML 里提取图片/视频封面，并还原为 pbs.twimg.com 原始地址。"""
+    medias = []
+    # 图片：附件原图 <a href="/pic/orig/media%2Fxxx.jpg">（排除头像 profile_images）
+    for href in re.findall(r'href="(/pic/orig/(?!profile_images)[^"]+)"', chunk):
+        u = urllib.parse.unquote(href[len("/pic/"):])
+        if not u.startswith("http"):
+            u = "https://pbs.twimg.com/" + u
+        if "format=" not in u and u.rsplit(".", 1)[-1].lower() in ("jpg", "jpeg", "png", "webp"):
+            u = u.rsplit(".", 1)[0] + "?format=" + u.rsplit(".", 1)[-1] + "&name=medium"
+        medias.append({"type": "photo", "url": u, "full": u.replace("name=medium", "name=large")})
+    # 视频/GIF：video poster="/pic/ext_tw_video_thumb/..." 或 .gif 后缀封面
+    posters = re.findall(r'poster="(/pic/[^"]+)"', chunk) + re.findall(
+        r'<img[^>]+src="(/pic/(?:ext_tw_video_thumb|amplify_video_thumb|tweet_video_thumb)/[^"]+)"', chunk)
+    for p in posters:
+        u = "https://pbs.twimg.com/" + urllib.parse.unquote(p[len("/pic/"):])
+        if {"type": "video", "url": "", "thumb": u} not in medias and not any(
+                m.get("url") == u or m.get("thumb") == u for m in medias):
+            medias.append({"type": "video", "url": "", "thumb": u})
+    return medias
+
+
+def fetch_via_nitter_html(username):
+    """Jina 以无头浏览器渲染 nitter 网页版（返回完整 HTML），绕过 RSS 451 与 WAF。
+    nitter 页面结构多年稳定：timeline-item / tweet-content / tweet-date。"""
+    print("  [Method 6] Nitter HTML page via Jina render...")
+    headers = {
+        "X-Return-Format": "html",
+        "X-No-Cache": "true",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    for base in NITTER_HTML_INSTANCES:
+        target = f"{base}/{username}"
+        print(f"    Trying {target}")
+        content = fetch("https://r.jina.ai/" + target, headers=headers, timeout=60)
+        if not content:
+            continue
+        if "timeline-item" not in content:
+            print(f"    [nitter-html] no timeline-item (len={len(content)})")
+            continue
+        chunks = content.split('<div class="timeline-item')[1:]
+        out = []
+        for c in chunks:
+            c = "<div class=\"timeline-item" + c
+            m_id = re.search(r'href="/[^"]*?/status/(\d+)"', c)
+            m_txt = re.search(r'<div class="tweet-content[^>]*>(.*?)</div>', c, re.DOTALL)
+            text = html_mod.unescape(re.sub(r"<[^>]+>", "", m_txt.group(1))).strip() if m_txt else ""
+            if not m_id or (not text and not _nitter_media_urls(c)):
+                continue
+            tid = m_id.group(1)
+            try:
+                ts_ms = (int(tid) >> 22) + 1288834974657
+                date = datetime.fromtimestamp(ts_ms / 1000, tz=timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+            except (ValueError, OSError):
+                date = ""
+            item = {"text": text, "link": f"https://x.com/{username}/status/{tid}", "date": date, "tweet_id": tid}
+            medias = _nitter_media_urls(c)
+            if medias:
+                item["media"] = medias
+            out.append(item)
+        if out:
+            print(f"    OK: nitter-html {base} ({len(out)} tweets)")
+            return out
+        print(f"    [nitter-html] {base}: timeline found but 0 tweets parsed")
+    print("    FAIL nitter-html: all instances")
+    return None
+
+
 def fetch_tweets(username):
     show_replies = SHOW_REPLIES_OVERRIDES.get(username.lower(), False)
     # 方法1: Syndication API（最稳定，对高流量账号也有效）
@@ -818,6 +896,11 @@ def fetch_tweets(username):
 
     # 方法5: Sotwe 第三方查看器（Twitter 直接限流时的最后数据源）
     tweets = fetch_via_sotwe(username)
+    if tweets:
+        return tweets
+
+    # 方法6: Jina 渲染 nitter 网页版（RSS 451 后的替代通道）
+    tweets = fetch_via_nitter_html(username)
     if tweets:
         return tweets
 
