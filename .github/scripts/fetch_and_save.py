@@ -427,6 +427,23 @@ def fetch_via_guest_api(username):
 
 # ── Method 3: Nitter RSS ───────────────────────────────────────────────────────
 
+def _pbs_from_nitter_pic(url):
+    """把 nitter /pic/ 代理地址还原成 pbs.twimg.com 原始地址。"""
+    m = re.search(r"/pic/(?:orig/)?(.+)$", url)
+    if not m:
+        return None
+    u = urllib.parse.unquote(m.group(1))
+    u = u[len("orig/"):] if u.startswith("orig/") else u
+    if u.startswith("profile_images"):
+        return None
+    if not u.startswith("http"):
+        u = "https://pbs.twimg.com/" + u
+    if u.rsplit(".", 1)[-1].lower() in ("jpg", "jpeg", "png", "webp") or "format=" in u:
+        u = re.sub(r"[?&]name=[^&]*", "", u)
+        u = u + ("&" if "?" in u else "?") + "name=medium"
+    return u
+
+
 def parse_rss(content):
     try:
         root = ET.fromstring(content)
@@ -439,11 +456,28 @@ def parse_rss(content):
             title = strip_html(item.findtext("title", ""))
             for esc, ch in [("&amp;","&"),("&lt;","<"),("&gt;",">"),("&quot;",'"'),("&#39;","'")]:
                 desc, title = desc.replace(esc,ch), title.replace(esc,ch)
-            tweets.append({
+            link = item.findtext("link","").strip()
+            # nitter 域名用户打不开，重写为 x.com 规范链接，并顺带反推 tweet_id
+            m = re.search(r"/status/(\d+)", link)
+            tid = m.group(1) if m else ""
+            if tid:
+                link = re.sub(r"^https?://[^/]+/([^/]+)/status/", r"https://x.com/\1/status/", link)
+            entry = {
                 "text": desc or title,
-                "link": item.findtext("link","").strip(),
+                "link": link,
                 "date": item.findtext("pubDate","").strip(),
-            })
+            }
+            if tid:
+                entry["tweet_id"] = tid
+            # enclosure 是 nitter RSS 携带的推文配图
+            medias = []
+            for enc in item.findall("enclosure"):
+                u = _pbs_from_nitter_pic(enc.get("url", "") or "")
+                if u and (enc.get("type", "") or "").startswith("image"):
+                    medias.append({"type": "photo", "url": u, "full": re.sub(r"name=medium", "name=large", u)})
+            if medias:
+                entry["media"] = medias
+            tweets.append(entry)
         return tweets or None
     except ET.ParseError:
         return None
