@@ -1,6 +1,6 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-28T11:44:04Z",
+  "updated_at": "2026-10-28T11:50:01Z",
   "count": 200,
   "tweets": [
     {
@@ -200,7 +200,7 @@
       "text_zh": "听起来这里的每 3 条推文都是 Grok @Bot 的粉丝，但让我告诉你 - 这不仅仅是炒作 \n这就像个人代理的 iPhone 时刻 \n使用 Bot 无疑是我经历过的最有趣的事情，同时我的杠杆率在一周内扩大到 10 倍 \n想象一下，拥有一位世界级的私人秘书（由最聪明的大脑（又称模型）提供支持，最重要的是由最强大的编码专业人士提供支持）"
     },
     {
-      "text": "Unsurprisingly, you can’t get an honest assessment of Tesla’s safety, cost, operating cost, or reliability from MSM.  Tesla doesn’t pay them to say nice things.  AI chat, including Grok, will just summarize media analysis unless you probe deeper.\n\n\njimmah (@jamesdouma)\n\nTLDR 2.4x fewer accidents. If you ask Claude for a summary of Auto-OEM-advertising-supported media opinion you’re going to get a slant.  Here’s an extended perplexity session: perplexity.ai/computer/tasks…\n\nLink\n\n\n\nPerplexity Computer\n\nBuilt with Perplexity Computer. Computer works on any task: building websites, editing documents, analyzing data, and automating repetitive work.\nperplexity.ai\n\n\n\n\n— http://nitter.meowing.monster/jamesdouma/status/2115250891603472607#m",
+      "text": "Unsurprisingly, you can’t get an honest assessment of Tesla’s safety, cost, operating cost, or reliability from MSM.  Tesla doesn’t pay them to say nice things.  AI chat, including Grok, will just summarize media analysis unless you probe deeper.\n\n\njimmah (@jamesdouma)\n\nTLDR 2.4x fewer accidents. If you ask Claude for a summary of Auto-OEM-advertising-supported media opinion you’re going to get a slant.  Here’s an extended perplexity session: perplexity.ai/computer/tasks…\n\nLink\n\n\n\nPerplexity Computer\n\nBuilt with Perplexity Computer. Computer works on any task: building websites, editing documents, analyzing data, and automating repetitive work.\nperplexity.ai\n\n\n\n\n— http://nitter.jaydenha.uk/jamesdouma/status/2115250891603472607#m",
       "link": "https://x.com/jamesdouma/status/2115251710440673611#m",
       "date": "Wed, 28 Oct 2026 01:18:01 GMT",
       "tweet_id": "2115251710440673611",
@@ -266,7 +266,7 @@
       "text_zh": "我收到了很多关于如何使用 grok bot 管理我的 X 帐户的问题，所以我今天分享我的 bot tibot！他会看到你的提及并且：\n\n• 查找关于您或任何关键字的每篇帖子，无论是否已标记\n• 每天（或每小时，由您决定）给出一个简短的、排序的摘要\n• 跳过垃圾邮件和噪音\n• 翻译非英语帖子\n• 可以自动阻止巨魔和滥用行为\n• 绝不会为您发帖\n\n我仍然用手写所有的帖子和文章，但 tibot 对让我了解情况非常有帮助。\n\n今天雇用蒂博特！\n\nx.ai/bot/xZ4wRvomWqzCXnyYFr7…\n\n链接\n\n\n\n劳伦的蒂博特\n\n关注 X 上有关您的帖子或您想要跟踪的任何其他内容，并根据您的日程安排（默认情况下每天）发送简短的排序摘要，保持安静......\nx.ai"
     },
     {
-      "text": "🚨 MrBeast just nailed it\n\n“In my lifetime, is SpaceX going to own a colony on Mars? I think so. Name one thing that’s more badass than that that someone on Earth is currently doing.”\n\nThe biggest creator in the world calling out SpaceX’s Mars mission as the most epic thing happening right now.\n\nHumanity’s future is being built at Starbase.\n\nVideo",
+      "text": "🚨 MrBeast just nailed it\n\n“In my lifetime, is SpaceX going to own a colony on Mars? I think so. Name one thing that’s more badass than that that someone on Earth is currently doing.”\n\nThe biggest creator in the world calling out SpaceX’s Mars mission as the most epic thing happening right now.\n\nHumanity’s future is being built at Starbase. x.com/ElonClipsX/status/1951…\n\nVideo",
       "link": "https://x.com/AsFoundX/status/2115191063979725094#m",
       "date": "Tue, 27 Oct 2026 21:17:02 GMT",
       "tweet_id": "2115191063979725094",
@@ -2044,7 +2044,8 @@
             "full": "https://pbs.twimg.com/media/HVRbGqraAAEz_A1.jpg?name=orig",
             "local": "2113444197978255814q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "我刚给我的孩子买了 2 块 Garmin 手表，只有一条短信。\n\n“Grok Bot，为我的两个孩子订购两部 vivosmart 5，然后运到我家”\n\n它已经知道我的地址和我的卡。它找到了合适的尺寸和颜色，结账并下了订单。\n\n一分钟后，我得到了确认……我从未打开过网站。\n\n这是新的购物方式。"
       },
       "ctx_done": 1,
       "text_zh": "就是这么简单"
@@ -2064,7 +2065,8 @@
             "full": "https://pbs.twimg.com/media/HVRHn--W4AAI_uQ.jpg?name=orig",
             "local": "2113444022408937913q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "Grok Bot 现在可以使用手机上的日历、提醒、联系人和更多应用程序。\n\n现已在 iOS 和 Android 上推出。"
       },
       "ctx_done": 1,
       "text_zh": "Grok Bot 现在与您的手机应用程序集成"
@@ -2076,7 +2078,8 @@
       "tweet_id": "2113441855266554263",
       "quoted": {
         "user": "FischerKing64",
-        "text": "The playbook will go something like this: 1) win back the House and Senate, and hopefully the Presidency in 2028; (2) admit DC and Puerto Rico as states, which doesn’t need a constitutional amendment, to gain 4 new Senate seats and cement control; (3) pack the Court, which only requires a change to the Judiciary Act of 1869, not a constitutional amendment; (4) eliminate the electoral college, which is unconstitutional, but not when you have a rigged court that finds the ‘loophole’; (5) flood the country with pliant migrants, swamp the natives, and hold power indefinitely."
+        "text": "The playbook will go something like this: 1) win back the House and Senate, and hopefully the Presidency in 2028; (2) admit DC and Puerto Rico as states, which doesn’t need a constitutional amendment, to gain 4 new Senate seats and cement control; (3) pack the Court, which only requires a change to the Judiciary Act of 1869, not a constitutional amendment; (4) eliminate the electoral college, which is unconstitutional, but not when you have a rigged court that finds the ‘loophole’; (5) flood the country with pliant migrants, swamp the natives, and hold power indefinitely.",
+        "text_zh": "剧本将是这样的：1）赢回众议院和参议院，并希望在 2028 年赢得总统职位； （2）接纳华盛顿特区和波多黎各为不需要修宪的州，获得4个新的参议院席位，巩固控制权； (3) 打包最高法院，只需要修改1869年的《司法法》，而不是宪法修正案； （4）取消选举团制度，这是违宪的，但如果法庭被操纵，发现了“漏洞”，就不会这样做； （5）让顺从的移民涌入这个国家，淹没当地人，并无限期地掌权。"
       },
       "ctx_done": 1,
       "text_zh": "这实际上是他们结束美国民主的计划"
@@ -2152,7 +2155,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2090075300767924224/img/2JoTSPH5re_IdYvV.jpg",
             "local": "2113336007949238579q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科将共和党人与塔利班和基地组织进行比较"
       },
       "ctx_done": 1,
       "text_zh": "通过将詹姆斯·塔拉里科与基地组织和塔利班（大约一半的美国选民）进行比较，您可以了解很多关于詹姆斯·塔拉里科的信息 \n德克萨斯州，请不要将塔拉里科先生送到美国参议院\n视频"
@@ -2172,7 +2176,8 @@
             "full": "https://pbs.twimg.com/media/HVQJi4BWoAA8tGF.jpg?name=orig",
             "local": "2113333198134354083q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "大多数人将 Grok Bot 当作聊天机器人来使用！\n\n但它有自己的计算机，在您不在时也能继续工作！\n\n今天你可以交给它 8 件事：\n\n1. 在 X 上的任何帖子下标记 @bot\n2. 处理你的 X 条私信\n3. 连接 Coinbase、Robinhood 或 eToro\n4. 运行每日简报和提醒\n5.购买前比较价格并询问\n6. 打开 GitHub PR 并发布代码\n7. 通过 Gmail、日历和 Slack 准备会议\n8. 整理并清理收件箱\n\n它在发送、发布或购买任何东西之前都会询问。\n\n你会先交出哪一个？"
       },
       "ctx_done": 1,
       "text_zh": "真的"
@@ -2192,7 +2197,8 @@
       "tweet_id": "2113329537509449744",
       "quoted": {
         "user": "aslater",
-        "text": "Wow Grok Bot is super fucking good and so beautifully designed.\n\n10/10 Product."
+        "text": "Wow Grok Bot is super fucking good and so beautifully designed.\n\n10/10 Product.",
+        "text_zh": "Wow Grok Bot 超级棒，而且设计得非常漂亮。\n\n10/10 产品。"
       },
       "ctx_done": 1,
       "text_zh": "尝试 Grok @Bot"
@@ -2212,7 +2218,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113308519147655174/img/5aZDOkiCh7J0VDjM.jpg",
             "local": "2113323085252415883q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "事态发展：美国航空首席执行官在埃隆·马斯克和乌克兰问题上表示支持星链，称客户需要“最佳”连接\n\nLEBEAU：“……但这提出了一个问题，您是否愿意与 Starlink 开展业务？”\n\n罗伯特·伊索姆（首席执行官）：“美国航空一直是卫星 Wi-Fi 领域的领导者。我们配备卫星 Wi-Fi 的飞机数量比任何人都多。展望未来，我们的客户需要连接。他们需要连接。这就是我们要确保我们的客户拥有市场上最好的产品的原因。”\n\n勒博：“这意味着星链？”\n\nISOM：“这是星链。”"
       },
       "ctx_done": 1,
       "text_zh": "英特尔首席技术官解释了英特尔为何帮助埃隆·马斯克建造 Terafab，以及新晶圆厂除了工具之外还需要什么\nDWARKESH：“我认为讨论你们与 Elon 在 Terafab 上的合作伙伴关系会很有趣。那里发生了什么？”\nPUSHKAR RANADE（首席技术官）：“嗯，我认为埃隆公开谈论了他建立晶圆厂的愿望。”\n[马斯克片段拼接]：“我们要么建造 Terafab，要么我们没有芯片。而我们需要芯片，所以我们要建造 Terafab。”\nRANADE：“差不多是同样的想法。我认为他看到了对硅、计算和内存的需求大幅增长。我认为他得出的结论是，他自己的企业将需要大量硅。所以他认为也许他应该自己做这一切。与制造汽车等不同，这是一个如此复杂的过程。我们认为我们可以共同努力，帮助加快他建立工厂的速度。”\nDWARKESH：“但由于工具层面的瓶颈，世界上的硅净量似乎不会增加。只是，如果有人要开办一座新晶圆厂，他们就能以一种与他人代工厂合作时无法获得的方式获得有保障的供应。”\nRANADE：“实际上不仅仅是工具。我的意思是，晶圆厂确实需要大量的电力、大量的水、大量的消耗品。还有许多其他输入变量。”\nDWARKESH：“但这些可以以工具无法做到的方式进行扩展。”\nRANADE：“是的。有些比其他的多，但是是的。从某种意义上说，是的，我们需要更多的设备。但这是事实，我们还需要更多的原始晶圆厂空间、原始洁净室容量。”\n视频\n视频"
@@ -2232,7 +2239,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2091368542977380352/img/-fxAi999PRx6bGas.jpg",
             "local": "2113319277092642942q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科表示，他从心底里讨厌选民身份证，并称其为反美行为。\n\n84% 的美国人支持选民 ID……"
       },
       "ctx_done": 1,
       "text_zh": "塔拉里科讨厌德克萨斯和美国\n视频"
@@ -2253,7 +2261,8 @@
       "tweet_id": "2113316775291142572",
       "quoted": {
         "user": "realDonaldTrump",
-        "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n \n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Mayes Middleton for Attorney General\n– Don Huffines for Comptroller\n– Dawn Buckingham for Land Commissioner\n– Nathaniel Moran for U.S. Congress (TX-01)\n– Steve Toth for U.S. Congress (TX-02)\n– Keith Self for U.S. Congress (TX-03)\n– Pat Fallon for U.S. Congress (TX-04)\n– Lance Gooden for U.S. Congress (TX-05)\n– Jake Ellzey for U.S. Congress (TX-06)\n– Jessica Steinmann for U.S. Congress (TX-08)\n– Alex Mealer for U.S. Congress (TX-09)\n– Chris Gober for U.S. Congress (TX-10)\n– August Pfluger for U.S. Congress (TX-11)\n– Craig Goldman for U.S. Congress (TX-12)\n– Ronny Jackson for U.S. Congress (TX-13)\n– Randy Weber for U.S. Congress (TX-14)\n– Monica De La Cruz for U.S. Congress (TX-15)\n– Pete Sessions for U.S. Congress (TX-17)\n– Tom Sell for U.S. Congress (TX-19)\n– Mark Teixeira for U.S. Congress (TX-21)\n– Trever Nehls for U.S. Congress (TX-22)\n– Brandon Herrera for U.S. Congress (TX-23)\n– Beth Van Duyne for U.S. Congress (TX-24)\n– Roger Williams for U.S. Congress (TX-25)\n– Brandon Gill for U.S. Congress (TX-26)\n– Michael Cloud for U.S. Congress (TX-27)\n– Tano Tijerina for U.S. Congress (TX-28)\n– John Carter for U.S. Congress (TX-31)\n– Jace Yarbrough for U.S. Congress (TX-32)\n– Eric Flores for U.S. Congress (TX-34)\n– Carlos De La Cruz for U.S. Congress (TX-35)\n– Brian Babin for U.S. Congress (TX-36)\n– Jon Bonck for U.S. Congress (TX-38)\n\nThese Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP\nhttps://swampthevoteusa.com/texas/"
+        "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n \n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Mayes Middleton for Attorney General\n– Don Huffines for Comptroller\n– Dawn Buckingham for Land Commissioner\n– Nathaniel Moran for U.S. Congress (TX-01)\n– Steve Toth for U.S. Congress (TX-02)\n– Keith Self for U.S. Congress (TX-03)\n– Pat Fallon for U.S. Congress (TX-04)\n– Lance Gooden for U.S. Congress (TX-05)\n– Jake Ellzey for U.S. Congress (TX-06)\n– Jessica Steinmann for U.S. Congress (TX-08)\n– Alex Mealer for U.S. Congress (TX-09)\n– Chris Gober for U.S. Congress (TX-10)\n– August Pfluger for U.S. Congress (TX-11)\n– Craig Goldman for U.S. Congress (TX-12)\n– Ronny Jackson for U.S. Congress (TX-13)\n– Randy Weber for U.S. Congress (TX-14)\n– Monica De La Cruz for U.S. Congress (TX-15)\n– Pete Sessions for U.S. Congress (TX-17)\n– Tom Sell for U.S. Congress (TX-19)\n– Mark Teixeira for U.S. Congress (TX-21)\n– Trever Nehls for U.S. Congress (TX-22)\n– Brandon Herrera for U.S. Congress (TX-23)\n– Beth Van Duyne for U.S. Congress (TX-24)\n– Roger Williams for U.S. Congress (TX-25)\n– Brandon Gill for U.S. Congress (TX-26)\n– Michael Cloud for U.S. Congress (TX-27)\n– Tano Tijerina for U.S. Congress (TX-28)\n– John Carter for U.S. Congress (TX-31)\n– Jace Yarbrough for U.S. Congress (TX-32)\n– Eric Flores for U.S. Congress (TX-34)\n– Carlos De La Cruz for U.S. Congress (TX-35)\n– Brian Babin for U.S. Congress (TX-36)\n– Jon Bonck for U.S. Congress (TX-38)\n\nThese Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP\nhttps://swampthevoteusa.com/texas/",
+        "text_zh": "伟大的德克萨斯州人民，请出去投票：\n \n——美国参议院议员肯·帕克斯顿\n– 州长格雷格·阿博特\n– 副州长丹·帕特里克\n——司法部长梅耶斯·米德尔顿\n——主计长唐·赫芬斯 (Don Huffines)\n——土地专员道恩·白金汉 (Dawn Buckingham)\n– 美国国会的纳撒尼尔·莫兰 (TX-01)\n– 美国国会的 Steve Toth (TX-02)\n– 美国国会的 Keith Self (TX-03)\n– 美国国会议员帕特·法伦 (TX-04)\n– 美国国会的兰斯·古登 (TX-05)\n– 美国国会的 Jake Ellzey (TX-06)\n– 美国国会的杰西卡·斯坦曼 (TX-08)\n– 美国国会的 Alex Mealer (TX-09)\n– 美国国会 (TX-10) 的克里斯·戈伯 (Chris Gober)\n– 美国国会议员 August Pfluger (TX-11)\n– 美国国会的 Craig Goldman (TX-12)\n– 美国国会议员罗尼·杰克逊 (TX-13)\n– 美国国会的兰迪·韦伯 (TX-14)\n– 美国国会的 Monica De La Cruz (TX-15)\n– 美国国会皮特会议 (TX-17)\n– 美国国会议员汤姆·塞尔 (TX-19)\n– 美国国会马克·特谢拉 (TX-21)\n– 美国国会的特雷弗·尼尔斯 (TX-22)\n– 美国国会布兰登·埃雷拉 (TX-23)\n– 美国国会的 Beth Van Duyne (TX-24)\n– 美国国会的罗杰·威廉姆斯 (TX-25)\n– 美国国会布兰登·吉尔 (TX-26)\n– 美国国会的迈克尔·克劳德 (TX-27)\n– 美国国会议员 Tano Tijerina (TX-28)\n– 美国国会议员约翰·卡特 (TX-31)\n– 美国国会的 Jace Yarbrough (TX-32)\n– 美国国会的埃里克·弗洛雷斯 (TX-34)\n– 美国国会议员卡洛斯·德拉克鲁斯 (TX-35)\n– 美国国会的布莱恩·巴宾 (TX-36)\n– 美国国会的乔恩·邦克 (TX-38)\n\n这些伟大的爱国者得到了我完全和彻底的认可——他们永远不会让你失望！唐纳德·J·特朗普总统\nhttps://swampthevoteusa.com/texas/"
       },
       "ctx_done": 1
     },
@@ -2265,7 +2274,8 @@
       "tweet_id": "2113315072563163174",
       "quoted": {
         "user": "realDonaldTrump",
-        "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n \n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Mayes Middleton for Attorney General\n– Don Huffines for Comptroller\n– Dawn Buckingham for Land Commissioner\n– Nathaniel Moran for U.S. Congress (TX-01)\n– Steve Toth for U.S. Congress (TX-02)\n– Keith Self for U.S. Congress (TX-03)\n– Pat Fallon for U.S. Congress (TX-04)\n– Lance Gooden for U.S. Congress (TX-05)\n– Jake Ellzey for U.S. Congress (TX-06)\n– Jessica Steinmann for U.S. Congress (TX-08)\n– Alex Mealer for U.S. Congress (TX-09)\n– Chris Gober for U.S. Congress (TX-10)\n– August Pfluger for U.S. Congress (TX-11)\n– Craig Goldman for U.S. Congress (TX-12)\n– Ronny Jackson for U.S. Congress (TX-13)\n– Randy Weber for U.S. Congress (TX-14)\n– Monica De La Cruz for U.S. Congress (TX-15)\n– Pete Sessions for U.S. Congress (TX-17)\n– Tom Sell for U.S. Congress (TX-19)\n– Mark Teixeira for U.S. Congress (TX-21)\n– Trever Nehls for U.S. Congress (TX-22)\n– Brandon Herrera for U.S. Congress (TX-23)\n– Beth Van Duyne for U.S. Congress (TX-24)\n– Roger Williams for U.S. Congress (TX-25)\n– Brandon Gill for U.S. Congress (TX-26)\n– Michael Cloud for U.S. Congress (TX-27)\n– Tano Tijerina for U.S. Congress (TX-28)\n– John Carter for U.S. Congress (TX-31)\n– Jace Yarbrough for U.S. Congress (TX-32)\n– Eric Flores for U.S. Congress (TX-34)\n– Carlos De La Cruz for U.S. Congress (TX-35)\n– Brian Babin for U.S. Congress (TX-36)\n– Jon Bonck for U.S. Congress (TX-38)\n\nThese Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP\nhttps://swampthevoteusa.com/texas/"
+        "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n \n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Mayes Middleton for Attorney General\n– Don Huffines for Comptroller\n– Dawn Buckingham for Land Commissioner\n– Nathaniel Moran for U.S. Congress (TX-01)\n– Steve Toth for U.S. Congress (TX-02)\n– Keith Self for U.S. Congress (TX-03)\n– Pat Fallon for U.S. Congress (TX-04)\n– Lance Gooden for U.S. Congress (TX-05)\n– Jake Ellzey for U.S. Congress (TX-06)\n– Jessica Steinmann for U.S. Congress (TX-08)\n– Alex Mealer for U.S. Congress (TX-09)\n– Chris Gober for U.S. Congress (TX-10)\n– August Pfluger for U.S. Congress (TX-11)\n– Craig Goldman for U.S. Congress (TX-12)\n– Ronny Jackson for U.S. Congress (TX-13)\n– Randy Weber for U.S. Congress (TX-14)\n– Monica De La Cruz for U.S. Congress (TX-15)\n– Pete Sessions for U.S. Congress (TX-17)\n– Tom Sell for U.S. Congress (TX-19)\n– Mark Teixeira for U.S. Congress (TX-21)\n– Trever Nehls for U.S. Congress (TX-22)\n– Brandon Herrera for U.S. Congress (TX-23)\n– Beth Van Duyne for U.S. Congress (TX-24)\n– Roger Williams for U.S. Congress (TX-25)\n– Brandon Gill for U.S. Congress (TX-26)\n– Michael Cloud for U.S. Congress (TX-27)\n– Tano Tijerina for U.S. Congress (TX-28)\n– John Carter for U.S. Congress (TX-31)\n– Jace Yarbrough for U.S. Congress (TX-32)\n– Eric Flores for U.S. Congress (TX-34)\n– Carlos De La Cruz for U.S. Congress (TX-35)\n– Brian Babin for U.S. Congress (TX-36)\n– Jon Bonck for U.S. Congress (TX-38)\n\nThese Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP\nhttps://swampthevoteusa.com/texas/",
+        "text_zh": "伟大的德克萨斯州人民，请出去投票：\n \n——美国参议院议员肯·帕克斯顿\n– 州长格雷格·阿博特\n– 副州长丹·帕特里克\n——司法部长梅耶斯·米德尔顿\n——主计长唐·赫芬斯 (Don Huffines)\n——土地专员道恩·白金汉 (Dawn Buckingham)\n– 美国国会的纳撒尼尔·莫兰 (TX-01)\n– 美国国会的 Steve Toth (TX-02)\n– 美国国会的 Keith Self (TX-03)\n– 美国国会议员帕特·法伦 (TX-04)\n– 美国国会的兰斯·古登 (TX-05)\n– 美国国会的 Jake Ellzey (TX-06)\n– 美国国会的杰西卡·斯坦曼 (TX-08)\n– 美国国会的 Alex Mealer (TX-09)\n– 美国国会 (TX-10) 的克里斯·戈伯 (Chris Gober)\n– 美国国会议员 August Pfluger (TX-11)\n– 美国国会的 Craig Goldman (TX-12)\n– 美国国会议员罗尼·杰克逊 (TX-13)\n– 美国国会的兰迪·韦伯 (TX-14)\n– 美国国会的 Monica De La Cruz (TX-15)\n– 美国国会皮特会议 (TX-17)\n– 美国国会议员汤姆·塞尔 (TX-19)\n– 美国国会马克·特谢拉 (TX-21)\n– 美国国会的特雷弗·尼尔斯 (TX-22)\n– 美国国会布兰登·埃雷拉 (TX-23)\n– 美国国会的 Beth Van Duyne (TX-24)\n– 美国国会的罗杰·威廉姆斯 (TX-25)\n– 美国国会布兰登·吉尔 (TX-26)\n– 美国国会的迈克尔·克劳德 (TX-27)\n– 美国国会议员 Tano Tijerina (TX-28)\n– 美国国会议员约翰·卡特 (TX-31)\n– 美国国会的 Jace Yarbrough (TX-32)\n– 美国国会的埃里克·弗洛雷斯 (TX-34)\n– 美国国会议员卡洛斯·德拉克鲁斯 (TX-35)\n– 美国国会的布莱恩·巴宾 (TX-36)\n– 美国国会的乔恩·邦克 (TX-38)\n\n这些伟大的爱国者得到了我完全和彻底的认可——他们永远不会让你失望！唐纳德·J·特朗普总统\nhttps://swampthevoteusa.com/texas/"
       },
       "ctx_done": 1
     },
@@ -2276,7 +2286,8 @@
       "tweet_id": "2113304960326652163",
       "quoted": {
         "user": "liam_fallen",
-        "text": "Grok Bot genuinely changed my life.\n\nMy Bots are now part of pretty much everything I do, both at work and in my personal life.\n\nIt’s actually crazy how much I rely on them now."
+        "text": "Grok Bot genuinely changed my life.\n\nMy Bots are now part of pretty much everything I do, both at work and in my personal life.\n\nIt’s actually crazy how much I rely on them now.",
+        "text_zh": "Grok Bot 真正改变了我的生活。\n\n我的机器人现在几乎成为我所做的一切的一部分，无论是在工作中还是在个人生活中。\n\n我现在对他们的依赖程度实在是太疯狂了。"
       },
       "ctx_done": 1,
       "text_zh": "格洛克@Bot"
@@ -2296,7 +2307,8 @@
             "full": "https://pbs.twimg.com/media/HVOsQJPW8AABX94.png?name=orig",
             "local": "2113289921104613728q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "在领先的 Gen AI 工具中，Grok 2026 年 9 月访问其网站的新用户比例最高。"
       },
       "ctx_done": 1,
       "text_zh": "Grok 吸引的新用户比例高于所有其他主要 SI 网站\n仅 2026 年 9 月，Grok.com 的流量就有 40.91% 来自新用户……ChatGPT、Gemini、Claude 和 DeepSeek 中占比最高"
@@ -2309,7 +2321,8 @@
       "tweet_id": "2113277474595311837",
       "quoted": {
         "user": "stark0xbt",
-        "text": "https://x.com/i/article/2109986286463234048"
+        "text": "https://x.com/i/article/2109986286463234048",
+        "text_zh": "https://x.com/i/article/2109986286463234048"
       },
       "ctx_done": 1
     },
@@ -2336,7 +2349,8 @@
       "tweet_id": "2113266253188022682",
       "quoted": {
         "user": "brivael",
-        "text": "Capitalism has a win condition. Socialism does not.\n\nHere's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom.\n\nImagine a classroom of 30 kids. One day the teacher says: \"From now on, I decide what everyone eats for lunch, which games you play at recess, and who sits next to whom. It's fairer that way.\"\n\nFirst problem: the teacher doesn't know what you like. You hate carrots. Your friend is allergic to peanuts. Lucas wants to play football, Emma wants to draw. 30 kids, 30 different wishes. Nobody can know all of that, not even the smartest teacher on Earth. Hayek called this the knowledge problem. The information needed to run an economy is scattered across millions of heads, and it can't be gathered in one office.\n\nSecond problem: the kids start fighting. \"Why does he get the window seat?\" \"Why football again?\" Before, everyone just chose for themselves. Now every choice is a fight, because every choice is made for everyone.\n\nThird problem: the class can't agree on a plan, so someone says \"we need one person in charge who just decides.\" This is Hayek's key insight. Planning doesn't fail because planners are evil. A plan needs everyone to agree on the same goals, and free people never agree on everything. So the plan needs force to work.\n\nFourth problem, and it's the scariest one: who wants that job? The kind kid doesn't want it, because the kind kid doesn't want to force 29 people to eat carrots. The job attracts the one who likes giving orders and doesn't mind punishing those who disobey. Hayek wrote a whole chapter on this, called \"Why the Worst Get on Top.\" It doesn't happen by accident. It happens by selection.\n\nHere's the trap. When the person who controls your lunch also controls your job, your home, your shop and your newspaper, they control your whole life. You can't say no, because there's nowhere else to go. Controlling the economy doesn't mean controlling one part of life. It means controlling the means to every goal you have.\n\nThat's the road to serfdom. Nobody votes for a dictator. People vote for \"someone should fix this,\" then for \"give them more power to fix it,\" and one day they wake up with no one left to say no to.\n\nThe USSR, Maoist China, Cambodia, North Korea, Cuba, Venezuela. These are different countries with different cultures and languages, and the story has the same ending every time. When a script produces the same ending every time, it isn't bad luck. It's the script.\n\nNow capitalism. Back to the classroom. Instead of one teacher deciding everything, every kid can trade. You give me your carrots, I give you my apple, and we both walk away happier. Nobody needs to know what everyone wants, because prices do that job. A price is a message telling millions of strangers what's scarce and what's wanted, with no one in charge.\n\nThat's the win condition. In capitalism, you get rich by making something other people freely choose to buy, so your success depends on serving others. In a planned system, you get ahead by pleasing whoever holds power. One rewards usefulness. The other rewards obedience.\n\nAnd this isn't theory. Two centuries ago, almost every human being was extremely poor. In 1990, about 38% of humanity still lived in extreme poverty. Today it's under 10%. More than a billion people escaped it in a single generation. It happened when China, India, Vietnam and South Korea opened up to markets, trade and private enterprise. The largest reduction in poverty in human history came from letting people trade.\n\nSo why do so many people hate capitalism?\n\nBecause what they hate usually isn't capitalism.\n\nThey hate the bank that got bailed out with their taxes while they lost their house. They hate the giant company that writes the regulations so no startup can compete with it. They hate rent they can't afford because building new homes has been made nearly impossible. They hate the lobbyist who gets a subsidy while the small business owner drowns in paperwork.\n\nLook closely at each one, and you'll find a state handing out privileges. A bailout is not the market. The market would have let the bank fail. A regulation written by incumbents is not competition. It's protection from competition. None of this is capitalism. It's cronyism, which is what happens when businesses stop competing for customers and start competing for politicians.\n\nPeople see the symptom and blame the wrong cause. They say \"capitalism failed\" and ask for more state. That gives more power to the same people who created the problem, and it puts us right back on Hayek's road.\n\nThe answer to bad capitalism isn't less freedom. It's less privilege. That means fewer bailouts, fewer protected incumbents, fewer permits, and more people allowed to build, compete and trade.\n\nCapitalism has a win condition: make things people want. Socialism has an end condition: someone has to be in charge. And history keeps showing us who ends up in that chair."
+        "text": "Capitalism has a win condition. Socialism does not.\n\nHere's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom.\n\nImagine a classroom of 30 kids. One day the teacher says: \"From now on, I decide what everyone eats for lunch, which games you play at recess, and who sits next to whom. It's fairer that way.\"\n\nFirst problem: the teacher doesn't know what you like. You hate carrots. Your friend is allergic to peanuts. Lucas wants to play football, Emma wants to draw. 30 kids, 30 different wishes. Nobody can know all of that, not even the smartest teacher on Earth. Hayek called this the knowledge problem. The information needed to run an economy is scattered across millions of heads, and it can't be gathered in one office.\n\nSecond problem: the kids start fighting. \"Why does he get the window seat?\" \"Why football again?\" Before, everyone just chose for themselves. Now every choice is a fight, because every choice is made for everyone.\n\nThird problem: the class can't agree on a plan, so someone says \"we need one person in charge who just decides.\" This is Hayek's key insight. Planning doesn't fail because planners are evil. A plan needs everyone to agree on the same goals, and free people never agree on everything. So the plan needs force to work.\n\nFourth problem, and it's the scariest one: who wants that job? The kind kid doesn't want it, because the kind kid doesn't want to force 29 people to eat carrots. The job attracts the one who likes giving orders and doesn't mind punishing those who disobey. Hayek wrote a whole chapter on this, called \"Why the Worst Get on Top.\" It doesn't happen by accident. It happens by selection.\n\nHere's the trap. When the person who controls your lunch also controls your job, your home, your shop and your newspaper, they control your whole life. You can't say no, because there's nowhere else to go. Controlling the economy doesn't mean controlling one part of life. It means controlling the means to every goal you have.\n\nThat's the road to serfdom. Nobody votes for a dictator. People vote for \"someone should fix this,\" then for \"give them more power to fix it,\" and one day they wake up with no one left to say no to.\n\nThe USSR, Maoist China, Cambodia, North Korea, Cuba, Venezuela. These are different countries with different cultures and languages, and the story has the same ending every time. When a script produces the same ending every time, it isn't bad luck. It's the script.\n\nNow capitalism. Back to the classroom. Instead of one teacher deciding everything, every kid can trade. You give me your carrots, I give you my apple, and we both walk away happier. Nobody needs to know what everyone wants, because prices do that job. A price is a message telling millions of strangers what's scarce and what's wanted, with no one in charge.\n\nThat's the win condition. In capitalism, you get rich by making something other people freely choose to buy, so your success depends on serving others. In a planned system, you get ahead by pleasing whoever holds power. One rewards usefulness. The other rewards obedience.\n\nAnd this isn't theory. Two centuries ago, almost every human being was extremely poor. In 1990, about 38% of humanity still lived in extreme poverty. Today it's under 10%. More than a billion people escaped it in a single generation. It happened when China, India, Vietnam and South Korea opened up to markets, trade and private enterprise. The largest reduction in poverty in human history came from letting people trade.\n\nSo why do so many people hate capitalism?\n\nBecause what they hate usually isn't capitalism.\n\nThey hate the bank that got bailed out with their taxes while they lost their house. They hate the giant company that writes the regulations so no startup can compete with it. They hate rent they can't afford because building new homes has been made nearly impossible. They hate the lobbyist who gets a subsidy while the small business owner drowns in paperwork.\n\nLook closely at each one, and you'll find a state handing out privileges. A bailout is not the market. The market would have let the bank fail. A regulation written by incumbents is not competition. It's protection from competition. None of this is capitalism. It's cronyism, which is what happens when businesses stop competing for customers and start competing for politicians.\n\nPeople see the symptom and blame the wrong cause. They say \"capitalism failed\" and ask for more state. That gives more power to the same people who created the problem, and it puts us right back on Hayek's road.\n\nThe answer to bad capitalism isn't less freedom. It's less privilege. That means fewer bailouts, fewer protected incumbents, fewer permits, and more people allowed to build, compete and trade.\n\nCapitalism has a win condition: make things people want. Socialism has an end condition: someone has to be in charge. And history keeps showing us who ends up in that chair.",
+        "text_zh": "资本主义有一个胜利条件。 Socialism does not.\n\n原因如下，解释得很简单，一个 10 岁的孩子就能明白。它始于 1944 年奥地利经济学家弗里德里希·哈耶克 (Friedrich Hayek) 写的书《通往奴役之路》。\n\n想象一下一个有 30 个孩子的教室。有一天，老师说：“从现在开始，我决定每个人午餐吃什么，课间玩什么游戏，谁坐在谁旁边。这样更公平。”\n\n第一个问题：老师不知道你喜欢什么。 You hate carrots. Your friend is allergic to peanuts.卢卡斯想踢足球，艾玛想画画。 30个孩子，30个不同的愿望。没有人能知道所有这些，即使是地球上最聪明的老师也不能。 Hayek called this the knowledge problem.经济运行所需的信息分散在数以百万计的头脑中，并且无法集中在一个办公室中。\n\n第二个问题：孩子们开始打架。 “为什么他要坐靠窗的座位？” \"Why football again?\" Before, everyone just chose for themselves.现在每一个选择都是一场战斗，因为每一个选择都是为每个人做出的。\n\n第三个问题：全班无法就计划达成一致，所以有人说“我们需要一个负责做决定的人”。 This is Hayek's key insight.计划不会失败，因为计划者是邪恶的。计划需要每个人就相同的目标达成一致，而自由人永远不会在所有事情上都达成一致。所以这个计划需要力量才能发挥作用。\n\n第四个问题，也是最可怕的一个：谁想要这份工作？善良的孩子不想要，因为善良的孩子不想强迫29个人吃胡萝卜。这项工作吸引的是那些喜欢发号施令并且不介意惩罚不服从者的人。哈耶克就此写了整整一章，名为“为什么最糟糕的人会登上顶峰”。这并非偶然发生。 It happens by selection.\n\nHere's the trap.当控制你午餐的人也控制你的工作、你的家、你的商店和你的报纸时，他们就控制了你的整个生活。你不能拒绝，因为你无处可去。控制经济并不意味着控制生活的一部分。这意味着控制实现每个目标的手段。\n\nThat's the road to serfdom. Nobody votes for a dictator.人们投票支持“有人应该解决这个问题”，然后投票支持“给他们更多的权力来解决这个问题”，有一天他们醒来时发现没有人可以拒绝。\n\n苏联、毛主义中国、柬埔寨、朝鲜、古巴、委内瑞拉。这些是不同的国家，有着不同的文化和语言，故事每次都有相同的结局。当剧本每次都产生相同的结局时，这并不是坏运气。 It's the script.\n\nNow capitalism. Back to the classroom.每个孩子都可以进行交易，而不是由一位老师决定一切。 You give me your carrots, I give you my apple, and we both walk away happier.没有人需要知道每个人想要什么，因为价格就能做到这一点。 A price is a message telling millions of strangers what's scarce and what's wanted, with no one in charge.\n\n这就是获胜条件。在资本主义中，你通过制造其他人自由选择购买的东西来致富，所以你的成功取决于为他人服务。在一个有计划的系统中，你可以通过取悦掌权者来获得成功。 One rewards usefulness. The other rewards obedience.\n\nAnd this isn't theory.两个世纪前，几乎每个人都极度贫困。 In 1990, about 38% of humanity still lived in extreme poverty.今天这个比例还不到 10%。在一代人的时间里，就有超过十亿人逃脱了这场灾难。这发生在中国、印度、越南和韩国向市场、贸易和私营企业开放时。人类历史上最大幅度的贫困减少来自于允许人们进行贸易。\n\nSo why do so many people hate capitalism?\n\nBecause what they hate usually isn't capitalism.\n他们讨厌银行在他们失去房子的时候用税收来救助。他们讨厌制定法规的大公司，因此没有初创公司可以与之竞争。他们讨厌负担不起的租金，因为建造新房几乎是不可能的。他们讨厌游说者获得补贴，而小企业主则淹没在文书工作中。\n\n仔细观察每一个，你会发现一个国家正在授予特权。救助不是市场。市场会让银行倒闭。现任者制定的法规不是竞争。这是针对竞争的保护。这一切都不是资本主义。这是任人唯亲，当企业停止争夺客户并开始争夺政客时就会发生这种情况。\n\n人们看到症状并归咎于错误的原因。他们说“资本主义失败了”并要求更多的国家。这给了制造问题的人更多的权力，让我们又回到了哈耶克的道路上。\n\n糟糕的资本主义的答案并不是减少自由。特权就少了这意味着更少的救助，更少的受保护的在职者，更少的许可证，以及更多的人被允许建造、竞争和贸易。\n\n资本主义有一个胜利条件：制造人们想要的东西。社会主义有一个最终条件：必须有人负责。历史不断向我们展示谁最终坐在了那把椅子上。"
       },
       "ctx_done": 1,
       "text_zh": "资本主义有一个胜利条件。社会主义则不然。\n原因如下，解释得很简单，一个 10 岁的孩子就能明白。 \n它始于 1944 年奥地利经济学家弗里德里希·哈耶克 (Friedrich Hayek) 写的书《通往奴役之路》。\n视频"
@@ -2404,7 +2418,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103250118782730240/img/wlOPT2T1vdwPuBwb.jpg",
             "local": "2113081289570127971q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科呼吁为非法移民提供“一条获得公民身份的途径”。\n\n仅在拜登执政的四年内，就有 1000 万非法移民进入美国。"
       },
       "ctx_done": 1,
       "text_zh": "塔拉里科讨厌德克萨斯州\n视频"
@@ -2424,7 +2439,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112952812502151168/img/IaLVPECGC_UmccLf.jpg",
             "local": "2113078348075209056q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "每个字都是詹姆斯·塔拉里科的。\n\n27 个剪辑。 4分钟。 2019–2026。\n\n“上帝是非二元的。”\n\n“……生物性别远不止两种。事实上，有六种。”\n\n“如果你否认孩子的性别认同……这肯定是虐待行为。”\n\n“只有一个人可以决定孩子的性别认同，那就是孩子。”\n\n“我想承认我们的跨性别群体也需要堕胎护理。”\n\n“……该法案将拒绝向跨性别儿童提供性别肯定的医疗保健……所有这些意识形态都源于基督法西斯主义运动。”\n\n“我在立法机关为跨性别儿童争取的方式就是我在美国参议院争取的方式，我的立场没有改变。”\n\n“像耶稣这样的预言性声音帮助我认识到自己的白人身份。”\n\n“对我来说，取消对警察的资助总是被认为是禁止的……”\n\n“监狱就是暴力。”\n\n“摧毁这支秘密警察部队。”\n\n攻击性武器禁令？ “绝对地。”\n\n将此信息发送给 10 名德克萨斯州选民，并告诉他们今天投票。"
       },
       "ctx_done": 1,
       "text_zh": "用你自己的话来说……\n视频"
@@ -2452,7 +2468,8 @@
             "full": "https://pbs.twimg.com/media/HVLSnnxaMAAISTk.jpg?name=orig",
             "local": "2113040898644967726q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "加州还没有建造子弹头列车，因为该州要求提供 130,000 页的环境报告，提出了一些荒谬的要求，例如：\n\n• 一只一只地数大黄蜂\n• 重建木鼠棍小屋\n• 雇用专门的狗来嗅蜥蜴的粪便"
       },
       "ctx_done": 1,
       "text_zh": "一只一只地数着大黄蜂😂"
@@ -2512,7 +2529,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112970450942767104/img/Vk_SL9x6fA_md9nE.jpg",
             "local": "2113014616372764748q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "昨天审计的纽约 15 个社会成人日托中心中有 15 个没有显示任何一顿饭、活动或一小时的监督记录——只有出勤表。\n\n这些日托中心从我们的医疗补助系统中获得了数百万美元，却没有提供任何回报——这是欺诈！"
       },
       "ctx_done": 1,
       "text_zh": "INSANE 🚨 100% of New York adult daycares that were audited WERE FRAUD\n“We audited 15 of these — There's no record of a single meal, activity, single hour of supervision”\nILLEGAL KICKBACKS were also reported with these adult daycares. How the scam works is the daycares will sign people up and offer them $1,000 per month cash\nThe adult daycare can bill about $120 per day to taxpayers. So they make about $3,600 per person and give the person $1,000 of it per month back as a kickback\n所以他们口袋里有 2,600 美元。 The person with the Medicaid insurance gets $1,000\n纳税人被盲目抢劫\n视频"
@@ -2532,7 +2550,8 @@
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112992722529226752/img/3vCQwgTBFW-Svcnq.jpg",
             "local": "2113011511429902609q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "Grok Bot 现在可以构建报告、备忘录和仪表板。\n\n向 Bot 请求一个页面，然后一起编辑它或让 Bot 保持最新状态。"
       },
       "ctx_done": 1,
       "text_zh": "Grok @Bot 就像雇用了一位超级聪明且有趣的员工！\n视频"
@@ -2552,7 +2571,8 @@
             "full": "https://pbs.twimg.com/media/HVLg0bgXsAAnRtf.jpg?name=orig",
             "local": "2113011056847278486q_0.jpg"
           }
-        ]
+        ],
+        "text_zh": "特斯拉刚刚发布了第三季度财报。\n\n亮点：\n• 每股收益（非公认会计准则）：0.48 美元（预计为 0.45 美元）\n• 收入：$28.05B（预计 $28.3B）\n• 调整后 EBITDA：$3.90B\n• 活跃 FSD 订阅：174 万，较去年同期的 104 万增长 67%\n• 净利润（公认会计原则）：7.87 亿美元\n• 自由现金流：$1.53B\n• 资本支出：$4.73B\n• 现金和有价证券：$45.45B，同比增长 9%"
       },
       "ctx_done": 1,
       "text_zh": "人们购买 FSD 时会附带汽车，而不是相反"
@@ -2565,7 +2585,8 @@
       "tweet_id": "2113010364178964616",
       "quoted": {
         "user": "Scobleizer",
-        "text": "I've been GrokBot pilled.\n\nFirst of all, Grok knows me better than other bots, like Meta Muse, thanks to the 300,000 posts I've done here for 20 years. \n\nBut now that GrokBot @bot can read lists, it opens up powerful new personalized news capabilities. \n\nI've done this for about a year over on https://alignednews.com -- but last month my X API bill alone was $6,000. \n\nFor a couple of hundred a month you can do the same with lists, either you create, or ones other people have created.\n\nLast night I stuck in my \"best in AI\" list and had it write me this news page: https://docs.google.com/document/d/1PEfkIbGmvw_SIJJSDvJ-gSbBM5KwXWKVeimiMsQUW-Y/edit?usp=sharing\n\nEvery hour my bot reads that list and builds me a new news page. Now I've only put about 10 minutes of effort into this so far. So it's not the prettiest thing you ever have seen, but my bots are working on other ways to present them to me. \n\nAnd you can do the same for any topic you care about. You just need to build a list, or find one that's already built and there are millions of lists here on X on literally any topic.\n\nPut your favorite football team onto a list, along with all your favorite journalists or other fans. Then have Grok bot read them for you. \n\nAnd that's just the start. You can have it write you a script based on the news, then copy that into, say, @Gemini_Notebook and then you get a podcast, or a video. Based on what people are saying on your topic here on X.\n\nThank you so much X for making lists far more powerful than they ever were before. Makes the thousands of hours I've put into mine over 20 years so much more useful.\n\nTips? \n\nStart small. You can chew through your tokens very quickly. It's amazing how good it is with a small list, like this one, which is what created the page up above: https://x.com/i/lists/1953536336675365173?s=20 (Best AI accounts I've found out of 70,000 here on X).\n\nDon't over hit it. You only need your bot to read the list every hour. Maybe even less. If anything is really important it gets reshared into lists, so the bot doesn't need to hit it often to build you a really great set of things that are important to pay attention to.\n\nI've been begging for this capability for years. THANK YOU X!"
+        "text": "I've been GrokBot pilled.\n\nFirst of all, Grok knows me better than other bots, like Meta Muse, thanks to the 300,000 posts I've done here for 20 years. \n\nBut now that GrokBot @bot can read lists, it opens up powerful new personalized news capabilities. \n\nI've done this for about a year over on https://alignednews.com -- but last month my X API bill alone was $6,000. \n\nFor a couple of hundred a month you can do the same with lists, either you create, or ones other people have created.\n\nLast night I stuck in my \"best in AI\" list and had it write me this news page: https://docs.google.com/document/d/1PEfkIbGmvw_SIJJSDvJ-gSbBM5KwXWKVeimiMsQUW-Y/edit?usp=sharing\n\nEvery hour my bot reads that list and builds me a new news page. Now I've only put about 10 minutes of effort into this so far. So it's not the prettiest thing you ever have seen, but my bots are working on other ways to present them to me. \n\nAnd you can do the same for any topic you care about. You just need to build a list, or find one that's already built and there are millions of lists here on X on literally any topic.\n\nPut your favorite football team onto a list, along with all your favorite journalists or other fans. Then have Grok bot read them for you. \n\nAnd that's just the start. You can have it write you a script based on the news, then copy that into, say, @Gemini_Notebook and then you get a podcast, or a video. Based on what people are saying on your topic here on X.\n\nThank you so much X for making lists far more powerful than they ever were before. Makes the thousands of hours I've put into mine over 20 years so much more useful.\n\nTips? \n\nStart small. You can chew through your tokens very quickly. It's amazing how good it is with a small list, like this one, which is what created the page up above: https://x.com/i/lists/1953536336675365173?s=20 (Best AI accounts I've found out of 70,000 here on X).\n\nDon't over hit it. You only need your bot to read the list every hour. Maybe even less. If anything is really important it gets reshared into lists, so the bot doesn't need to hit it often to build you a really great set of things that are important to pay attention to.\n\nI've been begging for this capability for years. THANK YOU X!",
+        "text_zh": "我已经被 GrokBot 迷住了。\n\n首先，Grok 比 Meta Muse 等其他机器人更了解我，这要归功于我 20 年来在这里发布的 300,000 篇帖子。 \n\n但现在 GrokBot @bot 可以读取列表，它开启了强大的新个性化新闻功能。 \n\n我已经在 https://alignednews.com 上这样做了大约一年多——但上个月我的 X API 账单就达到了 6,000 美元。 \n\n每月几百个，您可以对列表执行相同的操作，无论是您创建的还是其他人创建的。\n\n昨晚，我陷入了“人工智能最佳”列表中，并让它给我写了这个新闻页面：https://docs.google.com/document/d/1PEfkIbGmvw_SIJJSDvJ-gSbBM5KwXWKVeimiMsQUW-Y/edit?usp=sharing\n\n我的机器人每小时都会读取该列表并为我构建一个新的新闻页面。到目前为止我只花了大约 10 分钟的时间。所以这不是你见过的最漂亮的东西，但我的机器人正在寻找其他方式将它们呈现给我。 \n\n您可以对您关心的任何主题执行相同的操作。您只需要建立一个列表，或者找到一个已经建立的列表，X 上有数以百万计的列表，几乎涵盖任何主题。\n\n将您最喜欢的足球队以及所有您最喜欢的记者或其他球迷列入名单。然后让 Grok 机器人为您朗读它们。 \n\n这只是开始。你可以让它根据新闻给你写一个脚本，然后将其复制到 @Gemini_Notebook 中，然后你就可以获得播客或视频。基于人们在 X 上就您的主题所说的内容。\n\n非常感谢 X 使列表比以前更加强大。让我 20 多年来投入的数千个小时变得更加有用。\n\n尖端？ \n\n从小处开始。你可以很快地咀嚼你的代币。令人惊讶的是，它对于一个小列表的效果是多么好，就像这个列表，它就是创建上面页面的内容：https://x.com/i/lists/1953536336675365173?s=20（我在 X 上从 70,000 个帐户中找到了最好的 AI 帐户）。\n\n别打得太过分了您只需要您的机器人每小时读取一次列表即可。也许更少。如果有什么事情真的很重要，它就会被重新共享到列表中，因此机器人不需要经常点击它来为您构建一组非常重要的需要注意的事情。\n\n多年来我一直在祈求这种能力。谢谢你X！"
       },
       "ctx_done": 1
     }

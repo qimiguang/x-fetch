@@ -1,8 +1,17 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-28T11:45:43Z",
-  "count": 178,
+  "updated_at": "2026-10-28T11:51:06Z",
+  "count": 180,
   "tweets": [
+    {
+      "text": "We address the limiting factor",
+      "link": "https://x.com/elonmusk/status/2115352603886494204#m",
+      "date": "Wed, 28 Oct 2026 07:58:56 GMT",
+      "tweet_id": "2115352603886494204",
+      "reply_to": "markusdd5",
+      "ctx_done": 1,
+      "text_zh": "我们解决限制因素"
+    },
     {
       "text": "2028 Presidential Primary polling",
       "link": "https://x.com/wholemars/status/2115338580205940900#m",
@@ -10,6 +19,14 @@
       "tweet_id": "2115338580205940900",
       "ctx_done": 1,
       "text_zh": "2028 年总统初选投票"
+    },
+    {
+      "text": "Every time I spin up a thread on my Mac I am amazed at how much slower it is than my linux machines.\n\nI'm so thankful I moved all my code work to Linux.",
+      "link": "https://x.com/theo/status/2115334254808932652#m",
+      "date": "Wed, 28 Oct 2026 06:46:02 GMT",
+      "tweet_id": "2115334254808932652",
+      "ctx_done": 1,
+      "text_zh": "每次我在 Mac 上启动一个线程时，我都会惊讶于它比我的 Linux 机器慢得多。\n\n我非常感激我将所有代码工作都转移到了 Linux 上。"
     },
     {
       "text": "10k Starship launches/year is just from Starbase Louisiana",
@@ -116,7 +133,7 @@
       "text_zh": "浪费时间。让信用消亡吧。无论如何，如果该法案在国会获得通过，特朗普将否决该法案。 \n如果你想加速电气化，就通过国家自动驾驶框架。"
     },
     {
-      "text": "90% of the size of Waymo’s fleet in Texas…\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 1 new 2026 Cybercab with the Texas DMV — now 573 Cybercabs in its 1,080-vehicle TX fleet, with 110 registered in the last 24 hours. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.meowing.monster/fsd_database/status/2115270003826257978#m",
+      "text": "90% of the size of Waymo’s fleet in Texas…\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 1 new 2026 Cybercab with the Texas DMV — now 573 Cybercabs in its 1,080-vehicle TX fleet, with 110 registered in the last 24 hours. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2115270003826257978#m",
       "link": "https://x.com/wholemars/status/2115275983083454494#m",
       "date": "Wed, 28 Oct 2026 02:54:28 GMT",
       "tweet_id": "2115275983083454494",
