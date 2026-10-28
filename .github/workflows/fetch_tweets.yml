@@ -56,9 +56,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git add -A data/ media/
           git diff --staged --quiet || git commit -m "chore: update tweets $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # 远端可能被收藏云同步并发提交，push 被拒时 rebase 后重试
+          # 远端可能被收藏云同步或上一轮定时任务并发提交：rebase 重放本地提交，
+          # 数据文件由本轮全量再生，冲突时一律取本地（theirs = 被重放的本地提交）
           for i in 1 2 3; do
-            git pull --rebase origin main && git push && break
-            echo "push rejected, retry $i"
+            git fetch origin main
+            if git merge-base --is-ancestor origin/main HEAD; then
+              git push && break
+            fi
+            echo "remote advanced, rebase retry $i"
+            git rebase --strategy-option=theirs origin/main && git push && break
+            git rebase --abort 2>/dev/null || true
             sleep 5
           done
