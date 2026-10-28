@@ -1,6 +1,6 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-28T04:10:26Z",
+  "updated_at": "2026-10-28T04:59:46Z",
   "count": 80,
   "tweets": [
     {
@@ -604,157 +604,266 @@
       "text": "The following feature is included: UI Improvements\n\nteslascope.com/software/2026…",
       "link": "http://nitter.meowing.monster/teslascope/status/2112460601121272080#m",
       "date": "Tue, 20 Oct 2026 08:27:09 GMT",
-      "text_zh": "包括以下功能： UI 改进\n\nteslascope.com/software/2026…"
+      "text_zh": "包括以下功能： UI 改进\n\nteslascope.com/software/2026…",
+      "tweet_id": "2112460601121272080",
+      "reply_to": "teslascope",
+      "ctx_done": 1
     },
     {
       "text": "We noticed a new Tesla software update 2026.38.5.10 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.10 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.10.\nteslascope.com",
       "link": "http://nitter.meowing.monster/teslascope/status/2112451988898087239#m",
       "date": "Tue, 20 Oct 2026 07:52:56 GMT",
-      "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的特斯拉软件更新 2026.38.5.10。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.10 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026.38.5.10。\nteslascope.com"
+      "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的特斯拉软件更新 2026.38.5.10。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.10 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026.38.5.10。\nteslascope.com",
+      "tweet_id": "2112451988898087239",
+      "ctx_done": 1
     },
     {
       "text": "We noticed a new Tesla software update 2026.32.200 on a Tesla vehicle (20XX). View the rollout of this update here: teslascope.com/software/2026…\n\nThis is either a factory updates (recently delivered vehicles) or a new Full Self-Driving build for Europe.\n\nLink\n\n\n\n2026.32.200 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.32.200.\nteslascope.com",
       "link": "http://nitter.meowing.monster/teslascope/status/2112372769388175692#m",
       "date": "Tue, 20 Oct 2026 02:38:08 GMT",
-      "text_zh": "我们注意到 Tesla 车辆 (20XX) 上有新的 Tesla 软件更新 2026.32.200。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n这要么是工厂更新（最近交付的车辆），要么是针对欧洲的新全自动驾驶版本。\n\n链接\n\n\n\n2026.32.200 Tesla 软件发布说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026 年 32 月 200 日。\nteslascope.com"
+      "text_zh": "我们注意到 Tesla 车辆 (20XX) 上有新的 Tesla 软件更新 2026.32.200。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n这要么是工厂更新（最近交付的车辆），要么是针对欧洲的新全自动驾驶版本。\n\n链接\n\n\n\n2026.32.200 Tesla 软件发布说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026 年 32 月 200 日。\nteslascope.com",
+      "tweet_id": "2112372769388175692",
+      "ctx_done": 1
     },
     {
       "text": "Dan reached out to us requesting for charging schedule support so his Grok @bot could prepare for a roadtrip.\n\nWithin two hours, we added support for setting up charging schedules and preconditioning.\n\nIf we're missing a specific feature, just ask!\n\nteslascope.com/developers/do…\n\nLink\n\n\n\nDeveloper Documentation - Teslascope\n\nVehicleScope developer APIs and reference documentation.\nteslascope.com\n\n\n\nDan Burkland (@DBurkland)\n\nHuge thanks to Tyler at @teslascope! Yesterday I asked for charge schedule support in the Teslascope API, and it was live almost immediately. Today my Grok @Bot used it to build a road trip prep skill. I tell it when I'm leaving, and it sets the Plaid to 100%, adds a one-time charge schedule that finishes right at departure, then puts everything back to normal afterward. Tested it live and it worked perfectly.\n\n\n\n\n\n— http://nitter.meowing.monster/DBurkland/status/2112017140710883535#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2112019492507463946#m",
       "date": "Mon, 19 Oct 2026 03:14:21 GMT",
-      "text_zh": "Dan 联系我们请求充电计划支持，以便他的 Grok @bot 可以为公路旅行做好准备。\n\n在两个小时内，我们添加了对设置充电计划和预处理的支持。\n\n如果我们缺少某个特定功能，请询问！\n\nteslascope.com/developers/do...\n\n链接\n\n\n\n开发者文档 - Teslascope\n\nVehicleScope 开发人员 API 和参考文档。\nteslascope.com\n\n\n\n丹·伯克兰（@DBurkland）\n\n非常感谢@teslascope 的泰勒！昨天，我在 Teslascope API 中请求充电计划支持，它几乎立即就上线了。今天，我的 Grok @Bot 用它来构建公路旅行准备技能。我在离开时告诉它，它会将格子电量设置为 100%，添加在出发时完成的一次性充电计划，然后将一切恢复正常。现场测试了一下，效果非常好。\n\n\n\n\n\n— http://nitter.meowing.monster/DBurkland/status/2112017140710883535#m"
+      "text_zh": "Dan 联系我们请求充电计划支持，以便他的 Grok @bot 可以为公路旅行做好准备。\n\n在两个小时内，我们添加了对设置充电计划和预处理的支持。\n\n如果我们缺少某个特定功能，请询问！\n\nteslascope.com/developers/do...\n\n链接\n\n\n\n开发者文档 - Teslascope\n\nVehicleScope 开发人员 API 和参考文档。\nteslascope.com\n\n\n\n丹·伯克兰（@DBurkland）\n\n非常感谢@teslascope 的泰勒！昨天，我在 Teslascope API 中请求充电计划支持，它几乎立即就上线了。今天，我的 Grok @Bot 用它来构建公路旅行准备技能。我在离开时告诉它，它会将格子电量设置为 100%，添加在出发时完成的一次性充电计划，然后将一切恢复正常。现场测试了一下，效果非常好。\n\n\n\n\n\n— http://nitter.meowing.monster/DBurkland/status/2112017140710883535#m",
+      "tweet_id": "2112019492507463946",
+      "quoted": {
+        "user": "DBurkland",
+        "text": "Huge thanks to Tyler at @teslascope! Yesterday I asked for charge schedule support in the Teslascope API, and it was live almost immediately. Today my Grok @Bot used it to build a road trip prep skill. I tell it when I'm leaving, and it sets the Plaid to 100%, adds a one-time charge schedule that finishes right at departure, then puts everything back to normal afterward. Tested it live and it worked perfectly.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HU8TgBQWwAIqbfu.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HU8TgBQWwAIqbfu.jpg?name=orig",
+            "local": "2112019492507463946q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~12,100 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (52%) and V14.3 Lite for eligible HW3 vehicles (48%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2111939164539072603#m",
       "date": "Sun, 18 Oct 2026 21:55:09 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 12,100 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (52%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (48%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 12,100 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (52%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (48%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2111939164539072603",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~15,620 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (46%) and V14.3 Lite for eligible HW3 vehicles (54%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2111679957764104653#m",
       "date": "Sun, 18 Oct 2026 04:45:09 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 15,620 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (46%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (54%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 15,620 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (46%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (54%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2111679957764104653",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "We were included in this wave! And notified by our app before the Tesla app.\n\nAlso starring @Speenuh.",
       "link": "http://nitter.meowing.monster/teslascope/status/2111602298229334019#m",
       "date": "Sat, 17 Oct 2026 23:36:34 GMT",
-      "text_zh": "我们也被卷入了这波浪潮之中！并在 Tesla 应用程序之前由我们的应用程序通知。\n\n还主演@Speenuh。"
+      "text_zh": "我们也被卷入了这波浪潮之中！并在 Tesla 应用程序之前由我们的应用程序通知。\n\n还主演@Speenuh。",
+      "tweet_id": "2111602298229334019",
+      "reply_to": "teslascope",
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~9,570 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (44%) and V14.3 Lite for eligible HW3 vehicles (56%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2111600697774936487#m",
       "date": "Sat, 17 Oct 2026 23:30:12 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 9,570 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (44%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (56%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 9,570 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (44%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (56%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2111600697774936487",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "A rare opinion piece:\n\nWe have seen a ton of discourse regarding the new @Tesla Roadster as well as other opinion pieces that we believe are misguided. There has also been a lot of misinformation.\n\nIt is human to equate how specific features or products can fit into our own lives. However, when we do this, it is easy to discard the use cases and experiences of others.\n\nThe majority of comments revolve around the Thrust and Rocket tiers and their relevant features. These tiers are expected to be exorbitantly expensive, in the range of many supercars and hypercars. At those price ranges, these vehicles are rarely daily drivers and exist almost solely for driving on a track or specialized roads.\n\nThere is an expectation of this class of vehicle that special considerations are to be expected, including maintenance and often monthly costs. What doesn't make sense to you, may make complete sense to track drivers. We've seen countless comments about the downforce suction being \"pointless\", while the fully electric McMurtry has proven the technology as an industry changing (and scientific) breakthrough.\n\nLastly, the newly unveiled and redesigned Roadster was not delayed due to the addition of the thrusters. Elon had publicly stated that the vehicle would possess thrusters almost eight years ago, going as far as confirming across multiple posts that the vehicle would be able to hover.\n\nThis sentiment has been baked into the Roadster's plans since early on in its inception; not a secondary concept stapled on after the fact.\n\nAt the end of the day, we appreciate the design considerations of @woodhaus2 and the many benefits it brings. The prior iteration was loved by many, but we feel the redesign is uniquely Tesla.\n\nAs always, we would love your thoughts.",
       "link": "http://nitter.meowing.monster/teslascope/status/2111561664634200553#m",
       "date": "Sat, 17 Oct 2026 20:55:06 GMT",
-      "text_zh": "罕见的评论：\n\n我们已经看到了大量关于新款@Tesla Roadster 的讨论，以及我们认为被误导的其他观点文章。也有很多错误信息。\n\n人们会将特定功能或产品如何融入我们自己的生活等同起来。然而，当我们这样做时，很容易丢弃其他人的用例和经验。\n\n大多数评论都围绕推力层和火箭层及其相关功能。在许多超级跑车和超级跑车的范围内，这些级别预计将非常昂贵。在这些价格范围内，这些车辆很少是日常驾驶，几乎仅用于在赛道或专用道路上行驶。\n\n人们期望此类车辆需要特殊考虑，包括维护和通常的每月费用。对您来说没有意义的事情，对于追踪司机来说可能完全有意义。我们已经看到无数关于下压力吸力“毫无意义”的评论，而全电动 McMurtry 已经证明该技术是一个改变行业（和科学）的突破。\n\n最后，新推出和重新设计的 Roadster 并没有因为增加推进器而延迟。埃隆大约八年前就曾公开表示，该飞行器将配备推进器，甚至在多个帖子中确认该飞行器将能够悬停。\n\n自 Roadster 诞生之初起，这种情绪就已融入到其计划中。不是事后钉上的次要概念。\n\n最终，我们欣赏@woodhaus2 的设计考虑以及它带来的许多好处。之前的迭代受到了很多人的喜爱，但我们认为重新设计是特斯拉独有的。\n\n一如既往，我们会喜欢您的想法。"
+      "text_zh": "罕见的评论：\n\n我们已经看到了大量关于新款@Tesla Roadster 的讨论，以及我们认为被误导的其他观点文章。也有很多错误信息。\n\n人们会将特定功能或产品如何融入我们自己的生活等同起来。然而，当我们这样做时，很容易丢弃其他人的用例和经验。\n\n大多数评论都围绕推力层和火箭层及其相关功能。在许多超级跑车和超级跑车的范围内，这些级别预计将非常昂贵。在这些价格范围内，这些车辆很少是日常驾驶，几乎仅用于在赛道或专用道路上行驶。\n\n人们期望此类车辆需要特殊考虑，包括维护和通常的每月费用。对您来说没有意义的事情，对于追踪司机来说可能完全有意义。我们已经看到无数关于下压力吸力“毫无意义”的评论，而全电动 McMurtry 已经证明该技术是一个改变行业（和科学）的突破。\n\n最后，新推出和重新设计的 Roadster 并没有因为增加推进器而延迟。埃隆大约八年前就曾公开表示，该飞行器将配备推进器，甚至在多个帖子中确认该飞行器将能够悬停。\n\n自 Roadster 诞生之初起，这种情绪就已融入到其计划中。不是事后钉上的次要概念。\n\n最终，我们欣赏@woodhaus2 的设计考虑以及它带来的许多好处。之前的迭代受到了很多人的喜爱，但我们认为重新设计是特斯拉独有的。\n\n一如既往，我们会喜欢您的想法。",
+      "tweet_id": "2111561664634200553",
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~10,120 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (62%) and V14.3 Lite for eligible HW3 vehicles (38%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2111340223896441251#m",
       "date": "Sat, 17 Oct 2026 06:15:10 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 10,120 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (62%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (38%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 10,120 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (62%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (38%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2111340223896441251",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,710 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (80%) and V14.3 Lite for eligible HW3 vehicles (20%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2111005522367303819#m",
       "date": "Fri, 16 Oct 2026 08:05:11 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,710 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (80%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (20%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,710 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (80%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (20%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2111005522367303819",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "We’ve shown the Roadster videos to a dozen friends & every single one was screaming “WHAT THE F-” repeatedly in disbelief, or mouth dropped and speechless.\n\nThe engineering required is mind-blowing. \n\nVery much agree this was one of the greatest product demos ever. Bravo @Tesla!\n\n\nElon Musk (@elonmusk)\n\nThe new Tesla Roadster is a candidate for greatest product demo of all time\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2110549767063507044#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2110957459863138542#m",
       "date": "Fri, 16 Oct 2026 04:54:12 GMT",
-      "text_zh": "我们已经向十几个朋友展示了 Roadster 视频，每个人都难以置信地反复尖叫“What the F-”，或者目瞪口呆、说不出话来。\n\n所需的工程技术令人惊叹。 \n\n非常同意这是有史以来最伟大的产品演示之一。太棒了@特斯拉！\n\n\n埃隆·马斯克 (@elonmusk)\n\n新款特斯拉 Roadster 是有史以来最精彩产品演示的候选者\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2110549767063507044#m"
+      "text_zh": "我们已经向十几个朋友展示了 Roadster 视频，每个人都难以置信地反复尖叫“What the F-”，或者目瞪口呆、说不出话来。\n\n所需的工程技术令人惊叹。 \n\n非常同意这是有史以来最伟大的产品演示之一。太棒了@特斯拉！\n\n\n埃隆·马斯克 (@elonmusk)\n\n新款特斯拉 Roadster 是有史以来最精彩产品演示的候选者\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2110549767063507044#m",
+      "tweet_id": "2110957459863138542",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "The new Tesla Roadster is a candidate for greatest product demo of all time"
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla Roadster enters production in 2028.",
       "link": "http://nitter.meowing.monster/teslascope/status/2110904026930032838#m",
       "date": "Fri, 16 Oct 2026 01:21:53 GMT",
-      "text_zh": "Tesla Roadster 将于 2028 年投入生产。"
+      "text_zh": "Tesla Roadster 将于 2028 年投入生产。",
+      "tweet_id": "2110904026930032838",
+      "ctx_done": 1
     },
     {
       "text": "The Tesla Roadster can go 0 to 60 in under 0.81 seconds.",
       "link": "http://nitter.meowing.monster/teslascope/status/2110903448720093631#m",
       "date": "Fri, 16 Oct 2026 01:19:35 GMT",
-      "text_zh": "Tesla Roadster 可以在 0.81 秒内从 0 加速到 60 英里。"
+      "text_zh": "Tesla Roadster 可以在 0.81 秒内从 0 加速到 60 英里。",
+      "tweet_id": "2110903448720093631",
+      "ctx_done": 1
     },
     {
       "text": "Flying cars are real!",
       "link": "http://nitter.meowing.monster/teslascope/status/2110902493941244216#m",
       "date": "Fri, 16 Oct 2026 01:15:47 GMT",
-      "text_zh": "飞行汽车是真的！"
+      "text_zh": "飞行汽车是真的！",
+      "tweet_id": "2110902493941244216",
+      "ctx_done": 1
     },
     {
       "text": "R to @teslascope: Image",
       "link": "http://nitter.meowing.monster/teslascope/status/2110900585528689068#m",
       "date": "Fri, 16 Oct 2026 01:08:12 GMT",
-      "text_zh": "R 至 @teslascope：图像"
+      "text_zh": "R 至 @teslascope：图像",
+      "tweet_id": "2110900585528689068",
+      "reply_to": "teslascope",
+      "ctx_done": 1
     },
     {
       "text": "WHAT.",
       "link": "http://nitter.meowing.monster/teslascope/status/2110900507921518896#m",
       "date": "Fri, 16 Oct 2026 01:07:54 GMT",
-      "text_zh": "什么。"
+      "text_zh": "什么。",
+      "tweet_id": "2110900507921518896",
+      "ctx_done": 1
     },
     {
       "text": "This is the largest rollout of 2026.38.5.1 to date!",
       "link": "http://nitter.meowing.monster/teslascope/status/2110887003848163819#m",
       "date": "Fri, 16 Oct 2026 00:14:14 GMT",
-      "text_zh": "这是 2026.38.5.1 迄今为止最大规模的部署！"
+      "text_zh": "这是 2026.38.5.1 迄今为止最大规模的部署！",
+      "tweet_id": "2110887003848163819",
+      "reply_to": "teslascope",
+      "ctx_done": 1
     },
     {
       "text": "HUGE rollout of FSD v14.3 lite/FSD v14.3.12. Check your apps!\n\n\nTeslascope (@teslascope)\n\nTesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
       "link": "http://nitter.meowing.monster/BLKMDL3/status/2110886094074212798#m",
       "date": "Fri, 16 Oct 2026 00:10:37 GMT",
-      "text_zh": "FSD v14.3 lite/FSD v14.3.12 的大规模推出。检查您的应用程序！\n\n\nTeslascope（@teslascope）\n\n根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110885979871457545#m"
+      "text_zh": "FSD v14.3 lite/FSD v14.3.12 的大规模推出。检查您的应用程序！\n\n\nTeslascope（@teslascope）\n\n根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
+      "tweet_id": "2110886094074212798",
+      "quoted": {
+        "user": "teslascope",
+        "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%)."
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~17,050 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (82%) and V14.3 Lite for eligible HW3 vehicles (18%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2110885979871457545#m",
       "date": "Fri, 16 Oct 2026 00:10:10 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 17,050 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (82%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (18%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2110885979871457545",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "We added Sentry alerts to our iOS (pending Apple’s approval) and available to all vehicle subscribed to Pro.\n\nDriver detection as an Automation trigger has also been added to web, iOS, and Android.\n\nHere’s some alerts from a drive into Los Angeles earlier for my own vehicle.",
       "link": "http://nitter.meowing.monster/teslascope/status/2110882257229713870#m",
       "date": "Thu, 15 Oct 2026 23:55:23 GMT",
-      "text_zh": "我们在 iOS 中添加了 Sentry 警报（有待 Apple 批准），并可供所有订阅 Pro 的车辆使用。\n\n驱动程序检测作为自动化触发器也已添加到 Web、iOS 和 Android 中。\n\n以下是我早些时候开车前往洛杉矶时为自己的车辆发出的一些警报。"
+      "text_zh": "我们在 iOS 中添加了 Sentry 警报（有待 Apple 批准），并可供所有订阅 Pro 的车辆使用。\n\n驱动程序检测作为自动化触发器也已添加到 Web、iOS 和 Android 中。\n\n以下是我早些时候开车前往洛杉矶时为自己的车辆发出的一些警报。",
+      "tweet_id": "2110882257229713870",
+      "ctx_done": 1
     },
     {
       "text": "These features are directly from community feedback and requests from our members.\n\nIf you have a feature request, there’s a good chance we’ll add it. ✌️",
       "link": "http://nitter.meowing.monster/teslascope/status/2110882260652360098#m",
       "date": "Thu, 15 Oct 2026 23:55:23 GMT",
-      "text_zh": "这些功能直接来自社区反馈和我们会员的请求。\n\n如果您有功能请求，我们很可能会添加它。 ✌️"
+      "text_zh": "这些功能直接来自社区反馈和我们会员的请求。\n\n如果您有功能请求，我们很可能会添加它。 ✌️",
+      "tweet_id": "2110882260652360098",
+      "reply_to": "teslascope",
+      "ctx_done": 1
     },
     {
       "text": "Roadster Reveal is today!\n\n\nAdam Kasprzak (@UIbyAdam)\n\nToday will be legendary.\n\n\n\n— http://nitter.meowing.monster/UIbyAdam/status/2110759370267279791#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2110806750932926591#m",
       "date": "Thu, 15 Oct 2026 18:55:20 GMT",
-      "text_zh": "敞篷跑车揭晓就在今天！\n\n\n亚当·卡斯普扎克 (@UIbyAdam)\n\n今天将是传奇。\n\n\n\n— http://nitter.meowing.monster/UIbyAdam/status/2110759370267279791#m"
+      "text_zh": "敞篷跑车揭晓就在今天！\n\n\n亚当·卡斯普扎克 (@UIbyAdam)\n\n今天将是传奇。\n\n\n\n— http://nitter.meowing.monster/UIbyAdam/status/2110759370267279791#m",
+      "tweet_id": "2110806750932926591",
+      "quoted": {
+        "user": "UIbyAdam",
+        "text": "Today will be legendary."
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla software update 2026.38.5.1 is now rolling out to ~6,160 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (68%) and V14.3 Lite for eligible HW3 vehicles (32%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "link": "http://nitter.meowing.monster/teslascope/status/2110806713624400022#m",
       "date": "Thu, 15 Oct 2026 18:55:12 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 6,160 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (68%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (32%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m"
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 6,160 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (68%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (32%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
+      "tweet_id": "2110806713624400022",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1"
+      },
+      "ctx_done": 1
     },
     {
       "text": "New quality-of-life feature added for all paid subscribers on our platform; charging cost calculations for home and destination charging can now be automated, similar to Supercharger sessions.\n\nOpt-in via the Charging Plans page, which has also been heavily redesigned based on community feedback.",
       "link": "http://nitter.meowing.monster/teslascope/status/2110575021475406201#m",
       "date": "Thu, 15 Oct 2026 03:34:32 GMT",
-      "text_zh": "为我们平台上的所有付费订户添加了新的生活质量功能；现在可以自动计算家庭和目的地充电的充电成本，类似于超级充电会话。\n\n通过“充电计划”页面选择加入，该页面也根据社区反馈进行了大量重新设计。"
+      "text_zh": "为我们平台上的所有付费订户添加了新的生活质量功能；现在可以自动计算家庭和目的地充电的充电成本，类似于超级充电会话。\n\n通过“充电计划”页面选择加入，该页面也根据社区反馈进行了大量重新设计。",
+      "tweet_id": "2110575021475406201",
+      "ctx_done": 1
     },
     {
       "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 (FSD V14.3 Lite/V14.3.12) Tesla Software Update - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com",
       "link": "http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
       "date": "Tue, 13 Oct 2026 21:28:13 GMT",
-      "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 (FSD V14.3 Lite/V14.3.12) Tesla 软件更新 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com"
+      "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 (FSD V14.3 Lite/V14.3.12) Tesla 软件更新 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com",
+      "tweet_id": "2110120446691549603",
+      "ctx_done": 1
     }
   ]
 }
