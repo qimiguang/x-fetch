@@ -730,7 +730,25 @@ def fetch_via_sotwe(username):
     """Sotwe 第三方推特查看器（只读镜像），Twitter 全渠道限流时的兜底数据源。
     响应结构为非公开接口，做防御式解析；日期优先由 snowflake ID 反推（最可靠）。"""
     print("  [Method 5] Sotwe viewer API...")
-    content = fetch(f"https://sotwe.com/api/3/user/{username}", timeout=20)
+    # 403 多为 WAF 拦默认请求：补齐浏览器同源头 + 多路径变体逐个尝试
+    sotwe_headers = {
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": f"https://sotwe.com/{username}",
+    }
+    content = None
+    for base in ("https://sotwe.com", "https://www.sotwe.com"):
+        for path in (f"/api/3/user/{username}", f"/api/v2/user/{username}"):
+            url = base + path
+            print(f"    Trying {url}")
+            c = fetch(url, headers={**sotwe_headers, "Referer": base + "/" + username}, timeout=20)
+            if c and c.lstrip()[:1] in ("{", "["):
+                content = c
+                break
+            if c:
+                print(f"    sotwe: non-JSON response (len={len(c)})")
+        if content:
+            break
     if not content:
         print("    FAIL sotwe: no response")
         return None
