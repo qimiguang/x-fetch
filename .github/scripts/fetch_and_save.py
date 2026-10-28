@@ -726,6 +726,56 @@ def _nitter_instances():
     return out
 
 
+def fetch_via_sotwe(username):
+    """Sotwe 第三方推特查看器（只读镜像），Twitter 全渠道限流时的兜底数据源。
+    响应结构为非公开接口，做防御式解析；日期优先由 snowflake ID 反推（最可靠）。"""
+    print("  [Method 5] Sotwe viewer API...")
+    content = fetch(f"https://sotwe.com/api/3/user/{username}", timeout=20)
+    if not content:
+        print("    FAIL sotwe: no response")
+        return None
+    try:
+        d = json.loads(content)
+    except json.JSONDecodeError:
+        print("    FAIL sotwe: not JSON")
+        return None
+    items = d.get("tweets") or []
+    out = []
+    for it in items:
+        if not isinstance(it, dict):
+            continue
+        tid = str(it.get("id") or it.get("tweet_id") or "")
+        text = it.get("full_text") or it.get("text") or ""
+        if not tid.isdigit() or not text.strip():
+            continue
+        date = it.get("created_at") or it.get("time") or ""
+        try:
+            ts_ms = (int(tid) >> 22) + 1288834974657  # snowflake -> 毫秒时间戳
+            date = datetime.fromtimestamp(ts_ms / 1000, tz=timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        except (ValueError, OSError):
+            pass
+        item = {"text": text, "link": f"https://x.com/{username}/status/{tid}", "date": date, "tweet_id": tid}
+        medias = []
+        for m in it.get("medias") or []:
+            if not isinstance(m, dict):
+                continue
+            mt = m.get("type")
+            u = m.get("url") or ""
+            if mt == "photo" and u:
+                medias.append({"type": "photo", "url": u, "full": u})
+            elif mt in ("video", "gif"):
+                medias.append({"type": "video" if mt == "video" else "animated_gif",
+                               "url": "", "thumb": m.get("thumbnail") or m.get("thumbnail_url") or ""})
+        if medias:
+            item["media"] = medias
+        out.append(item)
+    if out:
+        print(f"    OK: sotwe ({len(out)} tweets)")
+        return out
+    print("    FAIL sotwe: 0 tweets parsed")
+    return None
+
+
 def fetch_tweets(username):
     show_replies = SHOW_REPLIES_OVERRIDES.get(username.lower(), False)
     # 方法1: Syndication API（最稳定，对高流量账号也有效）
@@ -745,6 +795,11 @@ def fetch_tweets(username):
 
     # 方法4: Jina 代理中转 Syndication（绕过 GitHub IP 限流的兜底）
     tweets = fetch_via_jina_proxy(username, show_replies)
+    if tweets:
+        return tweets
+
+    # 方法5: Sotwe 第三方查看器（Twitter 直接限流时的最后数据源）
+    tweets = fetch_via_sotwe(username)
     if tweets:
         return tweets
 
