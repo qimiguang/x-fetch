@@ -1,8 +1,30 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-28T05:13:22Z",
+  "updated_at": "2026-10-28T06:01:48Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "The Tesla Semi will absolutely destroy the trucking industry. https://t.co/8bSM92vrcE",
+      "link": "https://x.com/teslaownersSV/status/2115322782674526690",
+      "date": "Wed Oct 28 06:00:26 +0000 2026",
+      "tweet_id": "2115322782674526690",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115322610766794752/vid/avc1/2160x3840/ynH-rOoSHNUjfuaj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115322610766794752/img/Kscqpmqb7IaBe0Mq.jpg",
+          "local": "2115322782674526690_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115322610766794752/vid/avc1/2160x3840/ynH-rOoSHNUjfuaj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115322610766794752/img/Kscqpmqb7IaBe0Mq.jpg",
+          "local": "2115322782674526690_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉 Semi 绝对会摧毁卡车运输业。 https://t.co/8bSM92vrcE"
+    },
     {
       "text": "Don’t wake me up 🤪\n\nIt’s been an absolute dream each step of the way. Thank you for supporting me through the thick and thin. https://t.co/k4mQseq75u",
       "link": "https://x.com/teslaownersSV/status/2115277827037855944",
@@ -4133,28 +4155,6 @@
         }
       ],
       "text_zh": "今天火星。 \n\n毅力号刚刚取出了一块新鲜的火星岩石核心，并正在直接向下观察样本管。\n\n这可能是有一天成为地球家园的火星碎片之一。 https://t.co/IFqOVkxWir",
-      "ctx_done": 1
-    },
-    {
-      "text": "BREAKING: Tesla’s registered Robotaxi fleet in Texas has nearly tripled since September 1. \n\n• Tesla: 314 → 927 vehicles (+195%)\n• Waymo: +471 vehicles (+64%)\n• Tesla is adding an average of 11.8 Robotaxis per day.\n• 420 of Tesla’s registered vehicles are already Cybercabs. https://t.co/Fe2jwllgj1",
-      "link": "https://x.com/teslaownersSV/status/2114011108063555933",
-      "date": "Sat Oct 24 15:08:19 +0000 2026",
-      "tweet_id": "2114011108063555933",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=large",
-          "local": "2114011108063555933_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVZ55jjaYAAM-Cs.jpg?format=jpg&name=large",
-          "local": "2114011108063555933_1.jpg"
-        }
-      ],
-      "text_zh": "突发新闻：自 9 月 1 日以来，特斯拉在德克萨斯州注册的 Robotaxi 车队数量几乎增加了两倍。 \n\n• 特斯拉：314 → 927 辆（+195%）\n• Waymo：+471 辆车（+64%）\n• Tesla 平均每天增加 11.8 辆 Robotaxis。\n• Tesla 注册的车辆中有 420 辆已经是 Cyber​​cab。 https://t.co/Fe2jwllgj1",
       "ctx_done": 1
     }
   ]
