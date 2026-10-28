@@ -1,6 +1,6 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-10-28T12:30:53Z",
+  "updated_at": "2026-10-28T20:13:22Z",
   "count": 26,
   "tweets": [
     {
@@ -44,7 +44,7 @@
       "text_zh": "所以 Elon 并不介意推广 Starlink 和 Grok Bot，但却一直对推广特斯拉汽车或 FSD 很抵触，Why？\nVideo"
     },
     {
-      "text": "[1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。\n\n\n晚点 LatePost (@latepostnews)\n\n\nArticle\n\n\n\n还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代\n\n2024 年夏天，字节跳动一支视频生成团队经历了几个月无法解释的训练故障，上百名工程师参与排查，最后发现是人为干扰。结果是字节辞退了实习生田柯宇，并在之后起诉他篡改代码、干扰模型训练并造成损失。\n\n\n\n\n— http://nitter.jaydenha.uk/latepostnews/status/2113675462069362951#m",
+      "text": "[1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。\n\n\n晚点 LatePost (@latepostnews)\n\n\nArticle\n\n\n\n还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代\n\n2024 年夏天，字节跳动一支视频生成团队经历了几个月无法解释的训练故障，上百名工程师参与排查，最后发现是人为干扰。结果是字节辞退了实习生田柯宇，并在之后起诉他篡改代码、干扰模型训练并造成损失。\n\n\n\n\n— https://nitter.kareem.one/latepostnews/status/2113675462069362951#m",
       "link": "https://x.com/ShoufaChen/status/2113825585634168920#m",
       "date": "Sat, 24 Oct 2026 02:51:07 GMT",
       "tweet_id": "2113825585634168920",
@@ -198,7 +198,7 @@
       "text_zh": "看来 V14 这一代就停在 14.3 小迭代了，下一个大版本一步到位 V15。"
     },
     {
-      "text": "Choblin (@choblin29)\n\nWSJ is reporting that Anthropic CEO Dario Amodei personally called Meta's Alexandr Wang seeking more compute. Meta considered providing chips, then declined.\n\nInside GOOGLE, Demis Hassabis has expressed frustration about Google not allocating enough compute to long-term research. Sergey Brin sometimes overrides the company's formal compute allocation process, redirecting resources toward projects he personally considers important.\n\nGoogle also cut compute allocated to Noam Shazeer's team in favor of another project. Shortly afterward, he left for OpenAI.\n\n\n\n\n\n— http://nitter.jaydenha.uk/choblin29/status/2108846330965598698#m",
+      "text": "Choblin (@choblin29)\n\nWSJ is reporting that Anthropic CEO Dario Amodei personally called Meta's Alexandr Wang seeking more compute. Meta considered providing chips, then declined.\n\nInside GOOGLE, Demis Hassabis has expressed frustration about Google not allocating enough compute to long-term research. Sergey Brin sometimes overrides the company's formal compute allocation process, redirecting resources toward projects he personally considers important.\n\nGoogle also cut compute allocated to Noam Shazeer's team in favor of another project. Shortly afterward, he left for OpenAI.\n\n\n\n\n\n— https://nitter.kareem.one/choblin29/status/2108846330965598698#m",
       "link": "https://x.com/ChrisZheng001/status/2109071525127372922#m",
       "date": "Sun, 11 Oct 2026 00:00:10 GMT",
       "tweet_id": "2109071525127372922",
@@ -219,7 +219,7 @@
       "text_zh": "据《华尔街日报》报道，Anthropic 首席执行官 Dario Amodei 亲自致电 Meta 的 Alexandr Wang，寻求更多计算能力。 Meta 曾考虑提供芯片，但后来拒绝了。\n在 GOOGLE 内部，Demis Hassabis 对 Google 没有为长期研究分配足够的计算能力表示沮丧。谢尔盖·布林有时会推翻公司正式的计算分配流程，将资源重新分配给他个人认为重要的项目。\n谷歌还削减了分配给 Noam Shazeer 团队的计算资源，转而支持另一个项目。不久之后，他前往 OpenAI。"
     },
     {
-      "text": "不是吧？是「好的写作」远远不像数学那样可验证、可闭环吧？\n\n\nPaul Graham (@paulg)\n\nApparently it's mostly just because they haven't made much of an effort to train it to write well yet.\n\n\n\n— http://nitter.jaydenha.uk/paulg/status/2108688612682522939#m",
+      "text": "不是吧？是「好的写作」远远不像数学那样可验证、可闭环吧？\n\n\nPaul Graham (@paulg)\n\nApparently it's mostly just because they haven't made much of an effort to train it to write well yet.\n\n\n\n— https://nitter.kareem.one/paulg/status/2108688612682522939#m",
       "link": "https://x.com/ChrisZheng001/status/2108739394777845926#m",
       "date": "Sat, 10 Oct 2026 02:00:24 GMT",
       "tweet_id": "2108739394777845926",
@@ -333,7 +333,7 @@
       "text_zh": "我的预期是， Tesla Robotaxi 的 scaling 速度不是不变的，而是会持续加速。测试成本在某个时刻趋近于零，即无需特定测试直接进入某个新城市。Ashok 在特斯拉财报会议上也提到了这个目标。"
     },
     {
-      "text": "很有趣。在 NFC 车型量产之前，特斯拉的蓝牙钥匙非常稳定，虽然偶有小版本会罚站，但大部分时候都很稳定，我一直很好奇蓝牙钥匙的门槛在哪。这里说的端到端的指令和 5 年研发，具体指什么。\n\n\nThomas D. (@ThomasAlxDmy)\n\nIt’s not trivial. Specially if they do like Tesla end to end sign commands with no man in the middle. Took 5years to develop and roll out the tech\n\n\n\n— http://nitter.jaydenha.uk/ThomasAlxDmy/status/2106213441711091989#m",
+      "text": "很有趣。在 NFC 车型量产之前，特斯拉的蓝牙钥匙非常稳定，虽然偶有小版本会罚站，但大部分时候都很稳定，我一直很好奇蓝牙钥匙的门槛在哪。这里说的端到端的指令和 5 年研发，具体指什么。\n\n\nThomas D. (@ThomasAlxDmy)\n\nIt’s not trivial. Specially if they do like Tesla end to end sign commands with no man in the middle. Took 5years to develop and roll out the tech\n\n\n\n— https://nitter.kareem.one/ThomasAlxDmy/status/2106213441711091989#m",
       "link": "https://x.com/ChrisZheng001/status/2106227866082161127#m",
       "date": "Sat, 03 Oct 2026 03:40:29 GMT",
       "tweet_id": "2106227866082161127",

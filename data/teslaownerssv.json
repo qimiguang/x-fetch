@@ -1,8 +1,515 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-28T12:30:52Z",
+  "updated_at": "2026-10-28T20:13:00Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Even Russia's president says it.\n\nSpeaking at the Russia–Africa forum in Moscow today, Vladimir Putin called Elon Musk \"a genius, truly a genius.\"\n\nHis reason: SpaceX has more than 5,000 satellites in orbit, while Russia is \"only taking the first steps.\"\n\nBuilding it is what https://t.co/op4kZCxYYU",
+      "link": "https://x.com/teslaownersSV/status/2115528603693887733",
+      "date": "Wed Oct 28 19:38:18 +0000 2026",
+      "tweet_id": "2115528603693887733",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115528548400459776/vid/avc1/1080x604/qc1UIJebqzr4CC6k.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115528548400459776/img/0kVgA_NrQiFjp7jk.jpg",
+          "local": "2115528603693887733_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115528548400459776/vid/avc1/1080x604/qc1UIJebqzr4CC6k.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115528548400459776/img/0kVgA_NrQiFjp7jk.jpg",
+          "local": "2115528603693887733_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "就连俄罗斯总统也这么说。\n\n今天在莫斯科举行的俄罗斯-非洲论坛上发表讲话时，弗拉基米尔·普京称埃隆·马斯克是“天才，真正的天才”。\n\n他的理由是：SpaceX 在轨道上拥有 5000 多颗卫星，而俄罗斯“只是迈出了第一步”。\n\n构建它就是 https://t.co/op4kZCxYYU"
+    },
+    {
+      "text": "Tesla Robotaxi's Houston service area just grew to 254 square miles, about 10x bigger.\nAll of it fully unsupervised. No one in the driver's seat.\n\n\"Regarding Robotaxi, we're seeing the... fully autonomous miles driven scale exponentially, meaning scaling very rapidly. And it https://t.co/QnoJpthwqK",
+      "link": "https://x.com/teslaownersSV/status/2115524714433261614",
+      "date": "Wed Oct 28 19:22:51 +0000 2026",
+      "tweet_id": "2115524714433261614",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115524664114216960/vid/avc1/1920x1080/YoSLlkTtxBz0CqbH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524664114216960/img/IuzDuAVh04wL5cle.jpg",
+          "local": "2115524714433261614_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115524664114216960/vid/avc1/1920x1080/YoSLlkTtxBz0CqbH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524664114216960/img/IuzDuAVh04wL5cle.jpg",
+          "local": "2115524714433261614_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Tesla Robotaxi 的休斯顿服务区域刚刚扩大到 254 平方英里，大约扩大了 10 倍。\n所有这一切都完全无人监督。驾驶座上没有人。\n\n“关于 Robotaxi，我们看到......完全自动行驶的里程呈指数级增长，这意味着规模非常迅速。它 https://t.co/QnoJpthwqK"
+    },
+    {
+      "text": "Elon Musk on why autonomy changes the math of a car.\n\n\"A typical passenger car is about 10 hours of use a week. But if it's autonomous, it could be used 100 hours a week.\"\n\nA car that drives itself can keep working while you sleep, while you're at work, while you're on vacation. https://t.co/HPJjz8GqQz",
+      "link": "https://x.com/teslaownersSV/status/2115524278984810868",
+      "date": "Wed Oct 28 19:21:07 +0000 2026",
+      "tweet_id": "2115524278984810868",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115524245635895296/vid/avc1/1920x1080/kZg1Ee5Gm6o6b4Sw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524245635895296/img/EpCbCAtoLLfSiTX0.jpg",
+          "local": "2115524278984810868_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115524245635895296/vid/avc1/1920x1080/kZg1Ee5Gm6o6b4Sw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524245635895296/img/EpCbCAtoLLfSiTX0.jpg",
+          "local": "2115524278984810868_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 阐述自动驾驶为何改变汽车的数学原理。\n\n“一辆典型的乘用车每周大约使用 10 小时。但如果它是自动驾驶的，则每周可以使用 100 小时。”\n\n自动驾驶汽车可以在您睡觉、工作或度假时继续工作。 https://t.co/HPJjz8GqQz"
+    },
+    {
+      "text": "https://t.co/J27EYTAXJm",
+      "link": "https://x.com/teslaownersSV/status/2115517501454922051",
+      "date": "Wed Oct 28 18:54:11 +0000 2026",
+      "tweet_id": "2115517501454922051",
+      "ctx_done": 1,
+      "text_zh": "https://t.co/J27EYTAXJm"
+    },
+    {
+      "text": "Check out the live market - https://t.co/9Aw1YA2JXY\n\nJoin our squad ⬇️ https://t.co/pXEGGCCdSt",
+      "link": "https://x.com/teslaownersSV/status/2115516061378290076",
+      "date": "Wed Oct 28 18:48:28 +0000 2026",
+      "tweet_id": "2115516061378290076",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvR3GZWMAE1b8V.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvR3GZWMAE1b8V.png?format=jpg&name=large",
+          "local": "2115516061378290076_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvR3GZWMAE1b8V.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvR3GZWMAE1b8V.png?format=jpg&name=large",
+          "local": "2115516061378290076_1.jpg"
+        }
+      ],
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "查看实时市场 - https://t.co/9Aw1YA2JXY\n\n加入我们的队伍⬇️ https://t.co/pXEGGCCdSt"
+    },
+    {
+      "text": "Prediction markets = global emotional thermometer.\n\nCurrent reading: People trust Elon Musk is the best CEO for Tesla 🌡️ https://t.co/BBCkLetnqX",
+      "link": "https://x.com/teslaownersSV/status/2115516058279031294",
+      "date": "Wed Oct 28 18:48:27 +0000 2026",
+      "tweet_id": "2115516058279031294",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvRJ5WWkAA-yFw.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvRJ5WWkAA-yFw.jpg?format=jpg&name=large",
+          "local": "2115516058279031294_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvRJ5WWkAA-yFw.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvRJ5WWkAA-yFw.jpg?format=jpg&name=large",
+          "local": "2115516058279031294_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "预测市场=全球情绪温度计。\n\n当前阅读：人们相信埃隆·马斯克是特斯拉最好的首席执行官🌡️ https://t.co/BBCkLetnqX"
+    },
+    {
+      "text": "RT @ALScyborg: Neuralink This Week, episode 2 🧠\n\n🕊️ Remembering Nick Wray, Neuralink participant P8. \"Be good, do good.\"\n🧹 @DeadManRolln dr…",
+      "link": "https://x.com/teslaownersSV/status/2115509109781131472",
+      "date": "Wed Oct 28 18:20:50 +0000 2026",
+      "tweet_id": "2115509109781131472",
+      "ctx_done": 1,
+      "text_zh": "RT @ALScyborg：Neuralink 本周，第 2 集🧠\n\n🕊️ 纪念 Neuralink 参与者 P8 Nick Wray。 “做好事，做好事。”\n🧹@DeadManRolln 博士…"
+    },
+    {
+      "text": ".@maticrobots keeping my floors scary clean https://t.co/eRuEOXOWmW",
+      "link": "https://x.com/teslaownersSV/status/2115506845561639212",
+      "date": "Wed Oct 28 18:11:50 +0000 2026",
+      "tweet_id": "2115506845561639212",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115506163953635328/vid/avc1/2160x3840/6zsnxghPFhrpzfzK.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115506163953635328/img/N-y9I2Zpz7Fg7VS-.jpg",
+          "local": "2115506845561639212_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115506163953635328/vid/avc1/2160x3840/6zsnxghPFhrpzfzK.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115506163953635328/img/N-y9I2Zpz7Fg7VS-.jpg",
+          "local": "2115506845561639212_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": ".@maticrobots 让我的地板保持可怕的干净 https://t.co/eRuEOXOWmW"
+    },
+    {
+      "text": "Congratulations Jess",
+      "link": "https://x.com/teslaownersSV/status/2115501321742860620",
+      "date": "Wed Oct 28 17:49:53 +0000 2026",
+      "tweet_id": "2115501321742860620",
+      "quoted": {
+        "user": "jess_X",
+        "text": "Am I dreaming? 🥹⚡️ https://t.co/xKq6BcpyJB",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_3.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_4.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_5.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_6.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
+            "local": "2115501321742860620q_7.jpg"
+          }
+        ],
+        "text_zh": "我是在做梦吗？ 🥹⚡️ https://t.co/xKq6BcpyJB"
+      },
+      "ctx_done": 1,
+      "text_zh": "恭喜杰西"
+    },
+    {
+      "text": "Am I dreaming? 🥹⚡️ https://t.co/xKq6BcpyJB",
+      "link": "https://x.com/jess_X/status/2115500320486756470",
+      "date": "Wed Oct 28 17:45:55 +0000 2026",
+      "tweet_id": "2115500320486756470",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
+          "local": "2115500320486756470_7.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我是在做梦吗？ 🥹⚡️ https://t.co/xKq6BcpyJB"
+    },
+    {
+      "text": "X Money is coming to the Tesla app.\n\nCode in Tesla app 4.62 adds X Money as a payment method for:\n\n    •Supercharging\n    •FSD (Supervised) subscriptions\n    •Tesla Shop purchases\n\nNot announced yet, but it's in the code. X Money already takes the $5,000 Roadster deposit. https://t.co/Wighs3Bxsb",
+      "link": "https://x.com/teslaownersSV/status/2115499382036697290",
+      "date": "Wed Oct 28 17:42:11 +0000 2026",
+      "tweet_id": "2115499382036697290",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=large",
+          "local": "2115499382036697290_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=large",
+          "local": "2115499382036697290_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "X Money 即将登陆 Tesla 应用程序。\n\nTesla 应用程序 4.62 中的代码添加了 X Money 作为以下付款方式：\n\n    •增压\n    •FSD（受监管）订阅\n    •特斯拉商店购买\n\n尚未公布，但已在代码中。 X Money 已经收取了 5,000 美元的 Roadster 押金。 https://t.co/Wighs3Bxsb"
+    },
+    {
+      "text": "NEWS: Grok Bot can now make phone calls for you.\n\n•⁠  ⁠Calls people or businesses, navigates menus, waits on hold, and handles transfers.\n•⁠  ⁠Provides live transcripts and summarizes the outcome.\n•⁠  ⁠Can handle tasks like canceling subscriptions or checking orders.\n\nNo https://t.co/a2xlcgeTNW",
+      "link": "https://x.com/teslaownersSV/status/2115494664195490167",
+      "date": "Wed Oct 28 17:23:26 +0000 2026",
+      "tweet_id": "2115494664195490167",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=large",
+          "local": "2115494664195490167_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=large",
+          "local": "2115494664195490167_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：Grok Bot 现在可以为您打电话。\n\n•⁠ ⁠呼叫人员或企业、浏览菜单、等待并处理转接。\n•⁠ ⁠提供实时记录并总结结果。\n•⁠ ⁠可以处理取消订阅或检查订单等任务。\n\n否 https://t.co/a2xlcgeTNW"
+    },
+    {
+      "text": "UPDATE: Starship Ship 42 has completed its static fire tests ahead of Flight 15. 🚀\n\n🔥 Full-duration static fire with all six Raptor engines\n🔥 Single-engine firing to simulate a deorbit burn\n\nSpaceX is testing both full-engine performance and a key maneuver ahead of Starship’s https://t.co/YHfF9VuwJf",
+      "link": "https://x.com/teslaownersSV/status/2115494489716621493",
+      "date": "Wed Oct 28 17:22:44 +0000 2026",
+      "tweet_id": "2115494489716621493",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115494356941688832/vid/avc1/1920x1080/CnSD-DDyWltXN9vX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115494356941688832/img/Nw5Y-vY6wyvxIZNO.jpg",
+          "local": "2115494489716621493_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115494356941688832/vid/avc1/1920x1080/CnSD-DDyWltXN9vX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115494356941688832/img/Nw5Y-vY6wyvxIZNO.jpg",
+          "local": "2115494489716621493_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "更新：Starship Ship 42 已在 15 号航班之前完成静态火灾测试。🚀\n\n🔥 所有六台 Raptor 发动机均可进行全持续静态射击\n🔥 单引擎点火模拟脱轨燃烧\n\nSpaceX 正在 Starship 发射之前测试全引擎性能和关键机动 https://t.co/YHfF9VuwJf"
+    },
+    {
+      "text": "When Elon first said he wanted to build satellites to send into space as it would save lives in remote areas, I didn’t understand what he meant. He sees the future.\n\nMaye Musk https://t.co/x9XaufmOwz",
+      "link": "https://x.com/teslaownersSV/status/2115493192581947725",
+      "date": "Wed Oct 28 17:17:35 +0000 2026",
+      "tweet_id": "2115493192581947725",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVu90SwawAA8xZU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVu90SwawAA8xZU.jpg?format=jpg&name=large",
+          "local": "2115493192581947725_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVu90SwawAA8xZU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVu90SwawAA8xZU.jpg?format=jpg&name=large",
+          "local": "2115493192581947725_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "当埃隆第一次说他想建造卫星送入太空以拯救偏远地区的生命时，我不明白他的意思。他看到了未来。\n\n梅耶·马斯克 https://t.co/x9XaufmOwz"
+    },
+    {
+      "text": "Starlink is becoming a major factor in how passengers choose their airline, according to United’s CEO. \n\nHigh-speed in-flight Wi-Fi is moving beyond a nice-to-have perk. It’s becoming a competitive advantage for airlines looking to attract passengers.\n\nAs Starlink expands across https://t.co/uJkhS4OuY1",
+      "link": "https://x.com/teslaownersSV/status/2115491812383322350",
+      "date": "Wed Oct 28 17:12:06 +0000 2026",
+      "tweet_id": "2115491812383322350",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVu8k-fbkAEp8fQ.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVu8k-fbkAEp8fQ.jpg?format=jpg&name=large",
+          "local": "2115491812383322350_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVu8k-fbkAEp8fQ.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVu8k-fbkAEp8fQ.jpg?format=jpg&name=large",
+          "local": "2115491812383322350_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "美联航首席执行官表示，星链正在成为乘客选择航空公司的一个主要因素。 \n\n机上高速 Wi-Fi 已经不再是一项可有可无的福利。对于希望吸引乘客的航空公司来说，它正在成为一种竞争优势。\n\n随着星链的扩展 https://t.co/uJkhS4OuY1"
+    },
+    {
+      "text": "This is the view from inside Starship while its Raptor engines fire\nHumans actually built this https://t.co/OhA9uokxJg",
+      "link": "https://x.com/teslaownersSV/status/2115483204316701050",
+      "date": "Wed Oct 28 16:37:54 +0000 2026",
+      "tweet_id": "2115483204316701050",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115483114625785856/vid/avc1/1080x1920/aS936J82GOe4KZF2.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115483114625785856/img/iQsRvNPZG6jUXgm7.jpg",
+          "local": "2115483204316701050_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115483114625785856/vid/avc1/1080x1920/aS936J82GOe4KZF2.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115483114625785856/img/iQsRvNPZG6jUXgm7.jpg",
+          "local": "2115483204316701050_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这是猛禽发动机点火时从星际飞船内部看到的景象\n人类实际上建造了这个 https://t.co/OhA9uokxJg"
+    },
+    {
+      "text": "Neuralink This Week, episode 2 🧠\n\n🕊️ Remembering Nick Wray, Neuralink participant P8. \"Be good, do good.\"\n🧹 @DeadManRolln drove a @maticrobots vacuum with his thoughts\n🎤 @PairedWith_P7 on the X Takeover stage with @esherifftv and @RyanTanaka\n🇬🇧 One year of Neuralink in the UK https://t.co/Ozu0SOvW7E",
+      "link": "https://x.com/ALScyborg/status/2115482419130490932",
+      "date": "Wed Oct 28 16:34:47 +0000 2026",
+      "tweet_id": "2115482419130490932",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115482280147951617/vid/avc1/1920x1080/L6WeM-PxH1uOeE3Q.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115482280147951617/img/hYpl1mYHfSSgBiav.jpg",
+          "local": "2115482419130490932_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115482280147951617/vid/avc1/1920x1080/L6WeM-PxH1uOeE3Q.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115482280147951617/img/hYpl1mYHfSSgBiav.jpg",
+          "local": "2115482419130490932_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Neuralink 本周，第 2 集 🧠\n\n🕊️ 纪念 Neuralink 参与者 P8 Nick Wray。 “做好事，做好事。”\n🧹@DeadManRolln 用他的想法驾驶着@maticrobots 真空吸尘器\n🎤 @PairedWith_P7 与 @esherifftv 和 @RyanTanaka 在 X Takeover 舞台上\n🇬🇧 Neuralink 在英国一周年 https://t.co/Ozu0SOvW7E"
+    },
+    {
+      "text": "RT @teslaownersSV: Just walked the new Tesla Semi interior. @tesla_semi \n\nCenter seat with insane visibility\nTwo 16” screens\nStand-up cabin…",
+      "link": "https://x.com/teslaownersSV/status/2115479951709552705",
+      "date": "Wed Oct 28 16:24:58 +0000 2026",
+      "tweet_id": "2115479951709552705",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：刚刚走过了新的 Tesla Semi 内饰。 @特斯拉_半 \n\n中央座位视野极佳\n两个 16 英寸屏幕\n站立式小屋…"
+    },
+    {
+      "text": "Presenting Sponsor: @sitevue\n\nTitle Sponsors: @Rebellionaire, @FirstAtlanticNi, @EvotrexNow, @xcelerateauto, @NLDS_DroneShows, @diywrapclub, @Teslalightshows, @navierboat, @Nori_FamilyAI, @RokidGlobal, @maticrobots, City Flavor\n\nOfficial News Sponsor: @Newsforce\nPassport Card",
+      "link": "https://x.com/teslaownersSV/status/2115448600184414325",
+      "date": "Wed Oct 28 14:20:24 +0000 2026",
+      "tweet_id": "2115448600184414325",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "赞助商：@sitevue\n\n冠名赞助商：@Rebellionaire、@FirstAtlanticNi、@EvotrexNow、@xcelerateauto、@NLDS_DroneShows、@diywrapclub、@Teslalightshows、@navierboat、@Nori_FamilyAI、@RokidGlobal、@maticrobots、City Flavor\n\n官方新闻赞助商：@Newsforce\n护照卡"
+    },
+    {
+      "text": "It's been 18 days since the most incredible @theXtakeover we've ever hosted ⚡️\n\nWe pour our blood, sweat, and tears into this event, but.. it truly wouldn't be possible without all our sponsors/exhibitors, food trucks, and volunteers.\n\nSimply, thank you 🖤 https://t.co/veG09HCZLG",
+      "link": "https://x.com/teslaownersSV/status/2115448597617766407",
+      "date": "Wed Oct 28 14:20:23 +0000 2026",
+      "tweet_id": "2115448597617766407",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115446793601273856/vid/avc1/2160x3840/V_AXzn_gSt0GCw8W.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115446793601273856/img/RgkE2EQ5OlWCMBMl.jpg",
+          "local": "2115448597617766407_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115446793601273856/vid/avc1/2160x3840/V_AXzn_gSt0GCw8W.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115446793601273856/img/RgkE2EQ5OlWCMBMl.jpg",
+          "local": "2115448597617766407_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "距离我们举办过的最令人难以置信的 @theXtakeover 已经过去 18 天了 ⚡️\n\n我们为这次活动倾注了心血、汗水和泪水，但是……如果没有我们所有的赞助商/参展商、美食车和志愿者，这确实是不可能的。\n\n简单地说，谢谢你🖤 https://t.co/veG09HCZLG"
+    },
+    {
+      "text": "Tesla Cybercab Fleet Growth in Texas\n\n- Sept 3: 45\n- Sept 9: 49 (+4)\n- Sept 22: 67 (+18)\n- Sept 23: 69 (+2)\n- Sept 25: 126 (+57)\n- Oct 2: 169 (+43)\n- Oct 9: 319 (+150)\n- Oct 15: 349 (+30)\n- Oct 22: 351 (+2)\n- Oct 23: 420 (+69)\n- Oct 24: 431 (+11)\n- Oct 25: 463 (+32)\n- Oct 27: 573 https://t.co/5vTA1ZUAqm",
+      "link": "https://x.com/teslaownersSV/status/2115444150699164142",
+      "date": "Wed Oct 28 14:02:43 +0000 2026",
+      "tweet_id": "2115444150699164142",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVuRPk2bkAAm8Bl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVuRPk2bkAAm8Bl.jpg?format=jpg&name=large",
+          "local": "2115444150699164142_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVuRPk2bkAAm8Bl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HVuRPk2bkAAm8Bl.jpg?format=jpg&name=large",
+          "local": "2115444150699164142_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉 Cybercab 车队在德克萨斯州的增长\n\n- 9 月 3 日：45\n- 9 月 9 日：49 (+4)\n- 9 月 22 日：67 (+18)\n- 9 月 23 日：69 (+2)\n- 9 月 25 日：126 (+57)\n- 10 月 2 日：169 (+43)\n- 10 月 9 日：319 (+150)\n- 10 月 15 日：349 (+30)\n- 10 月 22 日：351 (+2)\n- 10 月 23 日：420 (+69)\n- 10 月 24 日：431 (+11)\n- 10 月 25 日：463 (+32)\n- 10 月 27 日：573 https://t.co/5vTA1ZUAqm"
+    },
+    {
+      "text": "Just walked the new Tesla Semi interior. @tesla_semi \n\nCenter seat with insane visibility\nTwo 16” screens\nStand-up cabin\nAcoustic glass + roll-down windows\n10 cameras + attention monitoring\nDriver profiles that follow you\nQuiet, spacious, and built around the driver. Diesel day https://t.co/S21AETdHQr",
+      "link": "https://x.com/teslaownersSV/status/2115428377175724179",
+      "date": "Wed Oct 28 13:00:02 +0000 2026",
+      "tweet_id": "2115428377175724179",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115205242849783808/vid/avc1/3840x2160/GDmDAfNooiYUTpEn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115205242849783808/img/OvO9l_kAviZ4FXQ_.jpg",
+          "local": "2115428377175724179_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2115205242849783808/vid/avc1/3840x2160/GDmDAfNooiYUTpEn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115205242849783808/img/OvO9l_kAviZ4FXQ_.jpg",
+          "local": "2115428377175724179_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "刚刚走过了新的 Tesla Semi 内饰。 @特斯拉_半 \n\n中央座位视野极佳\n两个 16 英寸屏幕\n立式驾驶室\n隔音玻璃+摇摇窗\n10个摄像头+注意力监控\n跟随您的驾驶员资料\n安静、宽敞，以驾驶员为中心。柴油日 https://t.co/S21AETdHQr"
+    },
     {
       "text": "The Tesla Semi will absolutely destroy the trucking industry. https://t.co/8bSM92vrcE",
       "link": "https://x.com/teslaownersSV/status/2115322782674526690",
@@ -3812,416 +4319,6 @@
       },
       "ctx_done": 1,
       "text_zh": "自从你一年前告诉我们这个坏消息以来，我就一直为她祈祷！\n她是一个很棒而且很善良的人！\n我找不到足够的言语来赞美她！\n我们将继续祈祷并竖起大拇指（正如法国人所说）！\n我亲身体会到这一切是多么可怕和痛苦！\n我们都祝愿她（和你）一切顺利。\n保持坚强（就像你一样）并继续战斗！\n我们都和你在一起！\n你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n她始终支持我，并以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她安静地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱在家教育我们的四个孩子。\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-    },
-    {
-      "text": "@WOLF_Financial Starlink V3, which only just started launching, will have ~100 times more bandwidth than the current V2 system",
-      "link": "https://x.com/elonmusk/status/2114074592990150788",
-      "date": "Sat Oct 24 19:20:35 +0000 2026",
-      "tweet_id": "2114074592990150788",
-      "text_zh": "@WOLF_Financial Starlink V3 刚刚开始推出，其带宽将是当前 V2 系统的约 100 倍",
-      "reply_to": "WOLF_Financial",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk says the Roadster will be the last car Tesla makes that you drive yourself, so they took it way past the limits\n\n\"This will actually be, long term, the only manually driven car that Tesla makes... If you're going to have only one manually driven car, let's take it to the limits and way past the limits.\" @elonmusk\n\nOn display now at the Petersen Automotive Museum in LA through Oct 27.\n\nVideo: @Tesla\n\nVideo",
-      "link": "http://nitter.meowing.monster/teslaownersSV/status/2114067352514183593#m",
-      "date": "Sat, 24 Oct 2026 18:51:48 GMT",
-      "tweet_id": "2114067352514183593",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114067152877862912/vid/avc1/1920x1080/hoaNPv5XHOM270QA.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114067152877862912/img/SJEhTw95K78iZjGD.jpg",
-          "local": "2114067352514183593_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114067152877862912/vid/avc1/1920x1080/hoaNPv5XHOM270QA.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114067152877862912/img/SJEhTw95K78iZjGD.jpg",
-          "local": "2114067352514183593_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克 (Elon Musk) 表示，Roadster 将是特斯拉制造的最后一款让你自己驾驶的汽车，因此他们远远超出了极限\n\n“从长远来看，这实际上将是特斯拉制造的唯一一款手动驾驶汽车......如果您只想拥有一辆手动驾驶汽车，让我们将其带到 https://t.co/ECMPgC3XTO",
-      "ctx_done": 1
-    },
-    {
-      "text": "See you there @UPTeslaFremont\nVideo\nLast year was just the beginning...\nFrunk or Treat returns to Unplugged Performance Fremont on Saturday, October 24th from 4–8PM — and we’re going much bigger this year.\nBring the family. Bring the build. Bring a costume. 👻\nAnd yes… we still have a few surprises we’re not ready to announce just yet.\n📍 46701 Fremont Blvd, Fremont, CA\n🗓 Saturday, October 24th\n⏰ 4PM–8PM\nBay Area, we’ll see you there. 🦇",
-      "link": "http://nitter.meowing.monster/teslaownersSV/status/2114059299827933573#m",
-      "date": "Sat, 24 Oct 2026 18:19:49 GMT",
-      "tweet_id": "2114059299827933573",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114059238909833216/vid/avc1/2160x3840/1fYkVyYiQLcavrv2.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114059238909833216/img/J8Tc8JmI2p6dWh2C.jpg",
-          "local": "2114059299827933573_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114059238909833216/vid/avc1/2160x3840/1fYkVyYiQLcavrv2.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114059238909833216/img/J8Tc8JmI2p6dWh2C.jpg",
-          "local": "2114059299827933573_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "UPTeslaFremont",
-        "text": "Last year was just the beginning...\n\nFrunk or Treat returns to Unplugged Performance Fremont on Saturday, October 24th from 4–8PM — and we’re going much bigger this year.\n\nBring the family. Bring the build. Bring a costume. 👻\n\nAnd yes… we still have a few surprises we’re not ready to announce just yet.\n\n📍 46701 Fremont Blvd, Fremont, CA\n🗓 Saturday, October 24th\n⏰ 4PM–8PM\n\nBay Area, we’ll see you there. 🦇",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUDjkMtbcAAKB6e.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HUDjkMtbcAAKB6e.jpg?name=orig",
-            "local": "2114059299827933573q_0.jpg"
-          }
-        ],
-        "text_zh": "去年只是一个开始......\n\nFrunk or Treat 将于 10 月 24 日星期六下午 4 点至 8 点在弗里蒙特 Unplugged Performance 回归 — 今年我们的规模将更大。\n\n带上家人。带来构建。带上服装。 👻\n\n是的……我们还有一些惊喜尚未准备好宣布。\n\n📍 46701 Fremont Blvd, 弗里蒙特, CA\n🗓 10 月 24 日星期六\n⏰ 下午 4 点至晚上 8 点\n\n湾区，我们在那里见。 🦇"
-      },
-      "ctx_done": 1,
-      "text_zh": "再见@UPTeslaFremont\n视频\n去年只是一个开始......\nFrunk or Treat 将于 10 月 24 日星期六下午 4 点至 8 点在 Fremont Unplugged Performance 回归 — 今年我们的规模将更大。\n带上家人。带来构建。带上服装。 👻\n是的……我们还有一些惊喜尚未准备好宣布。\n📍 46701 Fremont Blvd, 弗里蒙特, CA\n🗓 10 月 24 日星期六\n⏰ 下午 4 点至晚上 8 点\n湾区，我们在那里见。 🦇"
-    },
-    {
-      "text": "THE BORING COMPANY HQ: Bastrop, Texas, October\n\nHere is my flyover of TBC's Bastrop headquarters and Prufrock factory. It's is where they test every machine before it ships, build and store equipment, precast tunnel segments, liner trucks, vertical cassettes and conveyor belt systems, and more. They house their Prufrock Command Center here to control all the Prufrock's soon to be around the world.\n\n- The SpaceX Pedestrian Tunnel started as Porpoise Test 6 (PT6). TBC first bored it to test (no people in the tunnel) ZPIT continuous mining, an upgraded liner truck and the \"SNAILS on RAILS\" navigation system. After the test, they turned it into a 500 ft walkway under FM1209 that connects the SpaceX site to Hyperloop Plaza, where The Boring Bodega is. People use it so they don't have to cross that busy road on foot.\n \n- Hard-rock Prufrock-MB4 being constructed for Nashville's Music City LOOP.\n\n- The Test Tunnel PT5 connects SpaceX's Starlink factory to TBC under FM1209. It was the first use of custom hexagonal segments, automated gantry steering, quick craneless retrieval, and the first version of ZPIT. It's now a test bench for liner trucks, vertical cassettes and new belt systems.\n\n- Hyperloop Test Tunnel was PT4; the first craneless, pitless retrieval of the machine. It's now a vacuum tunnel for Hyperloop vacuum pump system testing. It also connects SpaceX's Starlink factory to TBC under FM1209.\n\n- Lastly, Prufrock-5 after completing a test tunnel connecting Ring Ranch and possibly the SpaceX Starmind Factory. I videoed it right before it was loaded up and shipped to San Antonio, Texas, for the Morgan's Wonderland Tunnel.\n\nIf you have any questions, leave them in the comments. Subscriber Photo-thread and Support links in the thread.\n\nThanks for watching!\n\nVideo",
-      "link": "http://nitter.meowing.monster/SERobinsonJr/status/2114055321580605797#m",
-      "date": "Sat, 24 Oct 2026 18:04:00 GMT",
-      "text_zh": "无聊公司总部：德克萨斯州巴斯特罗普，十月\n\n这是我飞越过的 TBC 巴斯特罗普总部和普鲁弗洛克工厂。他们在这里对每台机器进行装运前测试、建造和存储设备、预制隧道管段、班轮卡车、垂直输送带和传送带系统等。他们将普鲁弗洛克指挥中心设在这里，以控制即将遍布世界各地的所有普鲁弗洛克指挥中心。\n\n- SpaceX 人行隧道最初名为 Porpoise Test 6 (PT6)。 TBC 首先对其进行钻孔以测试（隧道中无人）ZPIT 连续采矿、升级的班轮卡车和“RAILS 上的 SNAILS”导航系统。测试结束后，他们将其改造成 FM1209 下的一条 500 英尺长的走道，将 SpaceX 站点与 The Boring Bodega 所在的 Hyperloop Plaza 相连。人们使用它，这样他们就不必步行穿过那条繁忙的道路。\n \n- 为纳什维尔音乐城 LOOP 建造的硬摇滚 Prufrock-MB4。\n\n- 测试隧道 PT5 将 SpaceX 的 Starlink 工厂连接到 FM1209 下的 TBC。这是首次使用定制六边形段、自动龙门转向、快速无起重机检索以及 ZPIT 的第一个版本。它现在是班轮卡车、垂直盒式磁带和新型皮带系统的测试台。\n\n- 超级高铁测试隧道为 PT4；首次无起重机、无坑地回收机器。它现在是用于超级高铁真空泵系统测试的真空隧道。它还通过 FM1209 将 SpaceX 的 Starlink 工厂连接到 TBC。\n\n- 最后，Prufrock-5 在完成连接 Ring Ranch 和可能的 SpaceX Starmind Factory 的测试隧道后。我在它被装载并运往德克萨斯州圣安东尼奥市摩根仙境隧道之前拍摄了视频。\n\n如果您有任何疑问，请在评论中留下。订阅者照片线程和线程中的支持链接。\n\n感谢您的观看！\n\n视频",
-      "tweet_id": "2114055321580605797",
-      "ctx_done": 1
-    },
-    {
-      "text": "Behind every great journey is an even greater soul. Evelyn’s courage and kindness are admirable. May God protect her and bring her a full recovery.",
-      "link": "http://nitter.meowing.monster/Cali_XLayer/status/2114054026048512377#m",
-      "date": "Sat, 24 Oct 2026 17:58:51 GMT",
-      "tweet_id": "2114054026048512377",
-      "quoted": {
-        "user": "mayemusk",
-        "text": "Evelyn is a wonderful woman and great mother. John, you are a fortunate husband. Hoping for a recovery 💖💖💖",
-        "text_zh": "伊芙琳是一位出色的女性和伟大的母亲。约翰，你是一个幸运的丈夫。希望康复💖💖💖"
-      },
-      "ctx_done": 1,
-      "text_zh": "每一次伟大的旅程背后都有一个更伟大的灵魂。伊芙琳的勇气和善良令人钦佩。愿上帝保佑她，让她完全康复。"
-    },
-    {
-      "text": "Elon Musk\n\"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.\"\n\n\"I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.\"",
-      "link": "http://nitter.meowing.monster/teslaownersSV/status/2114051248857174479#m",
-      "date": "Sat, 24 Oct 2026 17:47:49 GMT",
-      "tweet_id": "2114051248857174479",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaeaC3a8AA8ihr.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaeaC3a8AA8ihr.jpg?format=jpg&name=large",
-          "local": "2114051248857174479_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaeaC3a8AA8ihr.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaeaC3a8AA8ihr.jpg?format=jpg&name=large",
-          "local": "2114051248857174479_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克\n“我认为建立一个反馈循环非常重要，在这个循环中你会不断思考你所做的事情以及如何做得更好。”\n\n“我认为这是最好的建议：不断思考如何才能做得更好，https://t.co/lRs2TY7ZI2",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @JEHazel75: Golden Gate Bridge backdrop at the Yacht Club meetup in San Francisco during the @DinerDash2026. What a view!\n\n@chattybird03…",
-      "link": "https://x.com/teslaownersSV/status/2114046298202796424",
-      "date": "Sat Oct 24 17:28:09 +0000 2026",
-      "tweet_id": "2114046298202796424",
-      "text_zh": "RT @JEHazel75：@DinerDash2026 期间旧金山游艇俱乐部聚会上的金门大桥背景。景色多美啊！\n\n@闲聊鸟03…",
-      "ctx_done": 1
-    },
-    {
-      "text": "Golden Gate Bridge backdrop at the Yacht Club meetup in San Francisco during the @DinerDash2026. What a view!\n\n@chattybird0306 @MrMoonBound @winespringcafe @JoshWest247 @TesLatino @TesLatina @Mediocretese @n0rminal @RayzorBEV @MrCyberdyne @cybrgalaxy @RimaSukhadia @KristenStephens @RLeeHollandFSU @teslaownersSV @_dk1 @SK2f19 @LandonoftheWest @SirWiseSam @laughingorgasm @LiamsDadTravel @ThTslaDude\n\nVideo",
-      "link": "http://nitter.meowing.monster/JEHazel75/status/2114045959286010329#m",
-      "date": "Sat, 24 Oct 2026 17:26:48 GMT",
-      "tweet_id": "2114045959286010329",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114042202921852928/vid/avc1/3840x2160/JeavsCIyEk5QbFK4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114042202921852928/img/NTZpGzHpH_MUDRzX.jpg",
-          "local": "2114045959286010329_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114042202921852928/vid/avc1/3840x2160/JeavsCIyEk5QbFK4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114042202921852928/img/NTZpGzHpH_MUDRzX.jpg",
-          "local": "2114045959286010329_1.jpg"
-        }
-      ],
-      "text_zh": "@DinerDash2026 期间旧金山游艇俱乐部聚会的金门大桥背景。景色多美啊！\n\n@chattybird0306 @MrMoonBound @winespringcafe @JoshWest247 @TesLatino @TesLatina @Mediocretese @n0rminal @RayzorBEV @MrCyber​​dyne @cybrgalaxy @RimaSukhadia https://t.co/TT8O0cJDMK",
-      "ctx_done": 1
-    },
-    {
-      "text": "John: sending positive energy for your wife &amp; family. All best wishes from Germany…. ❤️❤️❤️❤️❤️❤️",
-      "link": "https://x.com/Captn_Hype/status/2114045520557797748",
-      "date": "Sat Oct 24 17:25:03 +0000 2026",
-      "tweet_id": "2114045520557797748",
-      "text_zh": "约翰：为你的妻子和家人传递正能量。来自德国的所有最美好的祝愿…… ❤️❤️❤️❤️❤️❤️",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114045520557797748q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @mayemusk: Evelyn is a wonderful woman and great mother. John, you are a fortunate husband. Hoping for a recovery 💖💖💖",
-      "link": "https://x.com/teslaownersSV/status/2114044929785950487",
-      "date": "Sat Oct 24 17:22:42 +0000 2026",
-      "tweet_id": "2114044929785950487",
-      "text_zh": "RT @mayemusk：伊芙琳是一位出色的女性和伟大的母亲。约翰，你是一个幸运的丈夫。希望康复💖💖💖",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114044929785950487q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Evelyn is a wonderful woman and great mother. John, you are a fortunate husband. Hoping for a recovery 💖💖💖\nSome of you may have met my wife. But I'd like to introduce her to you all.\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \nWords can't express my gratitude. I thank God for my wife every day.\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-      "link": "http://nitter.meowing.monster/mayemusk/status/2114044751234404610#m",
-      "date": "Sat, 24 Oct 2026 17:22:00 GMT",
-      "tweet_id": "2114044751234404610",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114044751234404610q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1,
-      "text_zh": "伊芙琳是一位出色的女性和伟大的母亲。约翰，你是一个幸运的丈夫。希望康复💖💖💖\n你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n她始终支持我，并以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她安静地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱在家教育我们的四个孩子。\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-    },
-    {
-      "text": "RT @TheCaptainEli: I don’t pray but I will start for her.\n\nMy dear friend, i am sorry that your family is going through all of these.\n\nI lo…",
-      "link": "https://x.com/teslaownersSV/status/2114041903683654125",
-      "date": "Sat Oct 24 17:10:41 +0000 2026",
-      "tweet_id": "2114041903683654125",
-      "text_zh": "RT @TheCaptainEli：我不祈祷，但我会为她祈祷。\n\n我亲爱的朋友，我很抱歉你的家人正在经历这一切。\n\n我爱…",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114041903683654125q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "I don’t pray but I will start for her.\nMy dear friend, i am sorry that your family is going through all of these.\nI love you and i will do everything to help.\nSome of you may have met my wife. But I'd like to introduce her to you all.\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \nWords can't express my gratitude. I thank God for my wife every day.\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-      "link": "http://nitter.meowing.monster/TheCaptainEli/status/2114041842157093239#m",
-      "date": "Sat, 24 Oct 2026 17:10:26 GMT",
-      "tweet_id": "2114041842157093239",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114041842157093239q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1,
-      "text_zh": "我不祈祷，但我会为她开始。\n我亲爱的朋友，我很抱歉你的家人正在经历这一切。\n我爱你，我会尽一切努力来帮助你。\n你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n她始终支持我，并以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她安静地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱在家教育我们的四个孩子。\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-    },
-    {
-      "text": "Canada's largest wireless carrier is going all in on Starlink while U.S. carriers fight it.\n\nRogers CEO Tony Staffieri on the Q3 call: \"We're proactively deepening our collaboration with Starlink on sat to mobile connectivity, and Rogers intends to lead Canada as we work with https://t.co/Kv8b2xdBeg",
-      "link": "https://x.com/teslaownersSV/status/2114041820292509864",
-      "date": "Sat Oct 24 17:10:21 +0000 2026",
-      "tweet_id": "2114041820292509864",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaV1LOa0AALxJU.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaV1LOa0AALxJU.jpg?format=jpg&name=large",
-          "local": "2114041820292509864_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaV1LOa0AALxJU.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaV1LOa0AALxJU.jpg?format=jpg&name=large",
-          "local": "2114041820292509864_1.jpg"
-        }
-      ],
-      "text_zh": "加拿大最大的无线运营商正在全力投入星链，而美国运营商则与之抗争。\n\n罗杰斯首席执行官 Tony Staffieri 在第三季度电话会议上表示：“我们正在积极深化与 Starlink 在卫星到移动连接方面的合作，罗杰斯打算在与我们合作时领导加拿大 https://t.co/Kv8b2xdBeg",
-      "ctx_done": 1
-    },
-    {
-      "text": "See yall tonight.",
-      "link": "https://x.com/teslaownersSV/status/2114041648170807557",
-      "date": "Sat Oct 24 17:09:40 +0000 2026",
-      "tweet_id": "2114041648170807557",
-      "text_zh": "今晚见。",
-      "quoted": {
-        "user": "UPTeslaFremont",
-        "text": "We’re less than 48 hours away from our Frunk or Treat 2026 event.. and we have some very BIG and specials surprises prepped this time around 👀\n\nAre you ready? 😉\n\nhttps://partiful.com/e/J0SN6W0fHgSghvL9axDD?c=gszKtAyI",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRq6W5a8AAPbTK.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRq6W5a8AAPbTK.jpg?name=orig",
-            "local": "2114041648170807557q_0.jpg"
-          }
-        ],
-        "text_zh": "距离 Frunk or Treat 2026 活动还有不到 48 小时。这次我们准备了一些非常大的特别惊喜👀\n\n你准备好了吗？ 😉\n\nhttps://partiful.com/e/J0SN6W0fHgSghvL9axDD?c=gszKtAyI"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @TeslaBoomerMama: ❤️\n\nPlease continue considering signing.\n\n-&gt; https://t.co/DCV2jIj3eI",
-      "link": "https://x.com/teslaownersSV/status/2114038132220043620",
-      "date": "Sat Oct 24 16:55:42 +0000 2026",
-      "tweet_id": "2114038132220043620",
-      "text_zh": "RT @TeslaBoomerMama：❤️\n\n请继续考虑签约。\n\n-> https://t.co/DCV2jIj3eI",
-      "quoted": {
-        "user": "JFitz717",
-        "text": "@TeslaBoomerMama @elonmusk I’m just a blue collar plumber with 444 TSLA and 65 SPCX but I wholeheartedly think this is the path to the future. Been on this ride for ten years. Please merge and flourish 🙏. My family’s future is in Elon’s hands",
-        "text_zh": "@TeslaBoomerMama @elonmusk 我只是一名拥有 444 TSLA 和 65 SPCX 的蓝领水管工，但我全心全意地认为这是通向未来的道路。这条路已经十年了。请合并并繁荣🙏。我家人的未来掌握在埃隆手中"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Evelyn is the most beautiful person I have ever had the privilege to meet.\nAnd sharing John with us during these times is such a gift to us all.\nWe will keep both of you and your wonderful children in our prayers, always.\nThank you for all. ❤️❤️❤️",
-      "link": "http://nitter.meowing.monster/TeslaBoomerMama/status/2114029850067706281#m",
-      "date": "Sat, 24 Oct 2026 16:22:47 GMT",
-      "tweet_id": "2114029850067706281",
-      "text_zh": "伊芙琳是我有幸见过的最美丽的人。\n在这些时期与我们分享约翰对我们所有人来说都是一份礼物。\n我们将永远为你们和你们优秀的孩子们祈祷。\n谢谢大家。 ❤️❤️❤️",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1
-    },
-    {
-      "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and https://t.co/5GuQ9pOWfh",
-      "link": "https://x.com/teslaownersSV/status/2114029351423656135",
-      "date": "Sat Oct 24 16:20:48 +0000 2026",
-      "tweet_id": "2114029351423656135",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?format=jpg&name=large",
-          "local": "2114029351423656135_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?format=jpg&name=large",
-          "local": "2114029351423656135_1.jpg"
-        }
-      ],
-      "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她无论风雨同舟都支持我，https://t.co/5GuQ9pOWfh",
-      "ctx_done": 1
-    },
-    {
-      "text": "22 hours a day? \n\nYeah. seven days a week, sleeping in the factory. No one should put this many hours into work. This is not good. This is very painful. https://t.co/GWBXaqiRr0",
-      "link": "https://x.com/teslaownersSV/status/2114029079536296197",
-      "date": "Sat Oct 24 16:19:43 +0000 2026",
-      "tweet_id": "2114029079536296197",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114028983029575680/vid/avc1/1280x720/SSj5nWgwX2kaEWN4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114028983029575680/img/Yh4nTIgRxL5zEFNw.jpg",
-          "local": "2114029079536296197_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114028983029575680/vid/avc1/1280x720/SSj5nWgwX2kaEWN4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114028983029575680/img/Yh4nTIgRxL5zEFNw.jpg",
-          "local": "2114029079536296197_1.jpg"
-        }
-      ],
-      "text_zh": "一天22小时？ \n\n是的。每周7天，睡在工厂里。没有人应该把这么多时间投入到工作中。这不好。这是非常痛苦的。 https://t.co/GWBXaqiRr0",
-      "ctx_done": 1
-    },
-    {
-      "text": "AT&amp;T CEO downplays Starlink Mobile’s threat to traditional carriers.\n\nAT&amp;T says LEO satellites can help expand rural connectivity but argues traditional networks still offer stronger performance and value.\n\nSpaceX plans to launch next-gen Starlink Mobile in early 2028.\n\nThe https://t.co/QTuccwuj2o",
-      "link": "https://x.com/teslaownersSV/status/2114028299399950738",
-      "date": "Sat Oct 24 16:16:37 +0000 2026",
-      "tweet_id": "2114028299399950738",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaJiJoboAAxzt8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaJiJoboAAxzt8.jpg?format=jpg&name=large",
-          "local": "2114028299399950738_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaJiJoboAAxzt8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaJiJoboAAxzt8.jpg?format=jpg&name=large",
-          "local": "2114028299399950738_1.jpg"
-        }
-      ],
-      "text_zh": "AT&T 首席执行官淡化了 Starlink Mobile 对传统运营商的威胁。\n\nAT&T 表示，LEO 卫星可以帮助扩大农村连接，但认为传统网络仍然提供更强的性能和价值。\n\nSpaceX 计划于 2028 年初推出下一代 Starlink Mobile。\n\nhttps://t.co/QTuccwuj2o",
-      "ctx_done": 1
-    },
-    {
-      "text": "❤️\n\nPlease continue considering signing.\n\n-&gt; https://t.co/DCV2jIj3eI",
-      "link": "https://x.com/TeslaBoomerMama/status/2114027170108789159",
-      "date": "Sat Oct 24 16:12:08 +0000 2026",
-      "tweet_id": "2114027170108789159",
-      "text_zh": "❤️\n\n请继续考虑签约。\n\n-> https://t.co/DCV2jIj3eI",
-      "quoted": {
-        "user": "JFitz717",
-        "text": "@TeslaBoomerMama @elonmusk I’m just a blue collar plumber with 444 TSLA and 65 SPCX but I wholeheartedly think this is the path to the future. Been on this ride for ten years. Please merge and flourish 🙏. My family’s future is in Elon’s hands",
-        "text_zh": "@TeslaBoomerMama @elonmusk 我只是一名拥有 444 TSLA 和 65 SPCX 的蓝领水管工，但我全心全意地认为这是通向未来的道路。这条路已经十年了。请合并并繁荣🙏。我家人的未来掌握在埃隆手中"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Mars today. \n\nPerseverance just pulled a fresh core of Mars rock and is looking straight down into the sample tube.\n\nThis could be one of the pieces of Mars that someday makes it home to Earth. https://t.co/IFqOVkxWir",
-      "link": "https://x.com/teslaownersSV/status/2114026251279274333",
-      "date": "Sat Oct 24 16:08:29 +0000 2026",
-      "tweet_id": "2114026251279274333",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaHrB6a4AA1EdL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaHrB6a4AA1EdL.jpg?format=jpg&name=large",
-          "local": "2114026251279274333_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVaHrB6a4AA1EdL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVaHrB6a4AA1EdL.jpg?format=jpg&name=large",
-          "local": "2114026251279274333_1.jpg"
-        }
-      ],
-      "text_zh": "今天火星。 \n\n毅力号刚刚取出了一块新鲜的火星岩石核心，并正在直接向下观察样本管。\n\n这可能是有一天成为地球家园的火星碎片之一。 https://t.co/IFqOVkxWir",
-      "ctx_done": 1
     }
   ]
 }
