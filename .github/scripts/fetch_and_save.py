@@ -1028,6 +1028,21 @@ def strip_quoted_dup(tweets):
     return n
 
 
+def translate_quoted(tweets, limit=25):
+    """给引用推文内容补中文译文（quoted.text_zh），与主文本翻译分开设额度避免限流。"""
+    n = 0
+    for t in tweets:
+        if n >= limit:
+            break
+        q = t.get("quoted") or {}
+        if q.get("text") and not q.get("text_zh"):
+            zh = translate_to_zh(q["text"])
+            if zh:
+                q["text_zh"] = zh
+                n += 1
+    return n
+
+
 def enrich_reply_context(tweets, limit=30):
     """为回复/引用推文补充原推内容：syndication 未携带时，
     用 fxtwitter 公开接口查推文自身，识别引用（quote）与纯回复。
@@ -1169,6 +1184,7 @@ def main():
             n_ctx = enrich_reply_context(merged_tweets)
             n_strip = strip_quoted_dup(merged_tweets)
             translated = fill_translations(merged_tweets, TRANSLATE_PER_RUN)
+            n_qzh = translate_quoted(merged_tweets)
             n_media = download_media(merged_tweets)
             output = {
                 "username": username,
@@ -1179,7 +1195,7 @@ def main():
             path = f"data/{username.lower()}.json"
             with open(path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
-            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, ctx {n_ctx}, dedup {n_strip}, media downloaded {n_media}) -> {path}")
+            print(f"  Saved {len(merged_tweets)} tweets (fetched {len(tweets)}, translated {translated}, qzh {n_qzh}, ctx {n_ctx}, dedup {n_strip}, media downloaded {n_media}) -> {path}")
             summary[username] = len(merged_tweets)
         else:
             print(f"  FAILED: @{username}")
@@ -1190,16 +1206,17 @@ def main():
                     with open(path, encoding="utf-8") as f:
                         existing_data = json.load(f)
                     existing_tweets = existing_data.get("tweets", [])
-                    n = fill_translations(existing_tweets, TRANSLATE_PER_RUN)
                     n_ctx = enrich_reply_context(existing_tweets)
                     n_strip = strip_quoted_dup(existing_tweets)
+                    n = fill_translations(existing_tweets, TRANSLATE_PER_RUN)
+                    n_qzh = translate_quoted(existing_tweets)
                     n_media = download_media(existing_tweets)
-                    if n or n_ctx or n_media or n_strip:
+                    if n or n_ctx or n_media or n_strip or n_qzh:
                         existing_data["updated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
                         existing_data["count"] = len(existing_tweets)
                         with open(path, "w", encoding="utf-8") as f:
                             json.dump(existing_data, f, ensure_ascii=False, indent=2)
-                        print(f"  Backfilled {n} translations, ctx {n_ctx}, dedup {n_strip}, media {n_media} -> {path}")
+                        print(f"  Backfilled {n} translations, qzh {n_qzh}, ctx {n_ctx}, dedup {n_strip}, media {n_media} -> {path}")
                 except (json.JSONDecodeError, OSError) as e:
                     print(f"  Backfill skipped: {e}")
             summary[username] = 0
