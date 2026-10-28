@@ -1,6 +1,6 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-28T05:00:58Z",
+  "updated_at": "2026-10-28T05:13:40Z",
   "count": 170,
   "tweets": [
     {
@@ -1068,181 +1068,355 @@
       "text": "It’s raining like crazy in LA and Tesla Self-Driving 14.3.13 is driving so smoothly and perfectly. Bravo @TeslaSI",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113074010502443231#m",
       "date": "Thu, 22 Oct 2026 01:04:37 GMT",
-      "text_zh": "洛杉矶下着疯狂的雨，特斯拉自动驾驶 14.3.13 行驶得如此平稳和完美。太棒了@TeslaSI"
+      "text_zh": "洛杉矶下着疯狂的雨，特斯拉自动驾驶 14.3.13 行驶得如此平稳和完美。太棒了@TeslaSI",
+      "tweet_id": "2113074010502443231",
+      "ctx_done": 1
     },
     {
       "text": "This just hit the latest Robotaxi app update. \n\nThey’re sandbagging",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113072657596031371#m",
       "date": "Thu, 22 Oct 2026 00:59:15 GMT",
-      "text_zh": "这刚刚更新了最新的 Robotaxi 应用程序。 \n\n他们在装沙袋"
+      "text_zh": "这刚刚更新了最新的 Robotaxi 应用程序。 \n\n他们在装沙袋",
+      "tweet_id": "2113072657596031371",
+      "ctx_done": 1
     },
     {
       "text": "this is the new normal\n\n\nThe Hacker News (@TheHackersNews)\n\n🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - thehackernews.com/2026/10/cr…\n\nLink\n\n\n\nCritical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases\n\nGitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113067301432160583#m",
       "date": "Thu, 22 Oct 2026 00:37:58 GMT",
-      "text_zh": "这是新常态\n\n\n黑客新闻 (@TheHackersNews)\n\n🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - thehackernews.com/2026/10/cr…\n\n链接\n\n\n\nGitLab 严重缺陷 (CVSS 10.0) 可能允许在 12 年的发行版中进行未经身份验证的 RCE\n\nGitLab 修复了 CVE-2026-110264，这是一个严重缺陷，可能允许在 7.0 以来的自我管理版本上执行未经身份验证的代码。\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m"
+      "text_zh": "这是新常态\n\n\n黑客新闻 (@TheHackersNews)\n\n🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - thehackernews.com/2026/10/cr…\n\n链接\n\n\n\nGitLab 严重缺陷 (CVSS 10.0) 可能允许在 12 年的发行版中进行未经身份验证的 RCE\n\nGitLab 修复了 CVE-2026-110264，这是一个严重缺陷，可能允许在 7.0 以来的自我管理版本上执行未经身份验证的代码。\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
+      "tweet_id": "2113067301432160583",
+      "quoted": {
+        "user": "TheHackersNews",
+        "text": "🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla scaling autonomous driving and people are losing it over video vs audio calls 😂\n\n\nmr fundman (@mrfundman)\n\nBoomer mama crashing out big time rn 🤣\n\nVideo\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/mrfundman/status/2113039075703726472#m",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113058965806551102#m",
       "date": "Thu, 22 Oct 2026 00:04:50 GMT",
-      "text_zh": "特斯拉扩展自动驾驶，人们在视频通话和音频通话中失去了它😂\n\n\n芬德曼先生（@mrfundman）\n\n婴儿潮一代妈妈崩溃了大时间 rn 🤣\n\n视频\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/mrfundman/status/2113039075703726472#m"
+      "text_zh": "特斯拉扩展自动驾驶，人们在视频通话和音频通话中失去了它😂\n\n\n芬德曼先生（@mrfundman）\n\n婴儿潮一代妈妈崩溃了大时间 rn 🤣\n\n视频\n  \n\n\n\n\n\n— http://nitter.jaydenha.uk/mrfundman/status/2113039075703726472#m",
+      "tweet_id": "2113058965806551102",
+      "quoted": {
+        "user": "mrfundman",
+        "text": "Boomer mama crashing out big time rn 🤣",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113037998329675777/img/PCQONA7hAheMi0d0.jpg",
+            "local": "2113058965806551102q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla will be doing video calls for the next earnings call\n\n\nElon Musk (@elonmusk)\n\nIt will be next time\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113045023210230128#m",
       "date": "Wed, 21 Oct 2026 23:09:26 GMT",
-      "text_zh": "特斯拉将在下一次财报电话会议上进行视频通话\n\n\n埃隆·马斯克 (@elonmusk)\n\n下次还会有\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m"
+      "text_zh": "特斯拉将在下一次财报电话会议上进行视频通话\n\n\n埃隆·马斯克 (@elonmusk)\n\n下次还会有\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m",
+      "tweet_id": "2113045023210230128",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@TeslaBoomerMama @travisraxelrod It will be next time"
+      },
+      "ctx_done": 1
     },
     {
       "text": "BIG NEWS: SpaceX has given me approval to fly their locations and bring updates to their locations without TFRs! Thank you Brian, James, and SpaceX Security for helping set up this program. It really means a lot to me. You guys rock!  \n\nSPACEX: For my first flight I went to the Starlink / Starmind Campus in Bastrop, Texas. There is a ton of work taking place. Here is a list of the build sites currently underway.  \n\n- Solar Ingots and Wafers Facility: This is for upstream silicon production for ingots and wafers that feed solar cell manufacturing. SpaceX is well into the groundworks as they clear and level a massive plot next to the Solar Cell Factory. They will both eventually be connected.  \n\n- Solar Cells Factory: This is a ~1.1–1.5 million sq ft multi-floor structure currently under construction south of the main Starlink plant. It is designed for high-volume solar cell output with a target ~10 GW/year. Much of the outer walls, windows, and roof is installed.  \n\n- Starlink Factory: This is the OG building that has undergone multiple expansions. It houses high-volume Starlink kit production, printed circuit boards, and semiconductor packaging.  \n\n- Warehouse and AI Satellite Development Facility: It is described in conceptual layouts for storage, AI satellite R&D, and related operations. This building has gone up super fast. It started months after the Solar Cells Factory and is now well beyond it.  \n\n- Starmind / AI Satellite Production Factory: This area is still grass with a small section near the highway now be cleared and leveled. It will be the large-scale Starmind satellite manufacturing building.  \n\nIf you have any questions, leave them in the comments. Subscriber Photo-thread and Support links in the thread.\n\nThanks for watching!\n\nVideo",
       "link": "http://nitter.jaydenha.uk/SERobinsonJr/status/2113043312428843306#m",
       "date": "Wed, 21 Oct 2026 23:02:38 GMT",
-      "text_zh": "大新闻：SpaceX 已批准我飞越他们的位置并在没有 TFR 的情况下更新他们的位置！感谢 Brian、James 和 SpaceX Security 帮助建立这个项目。这对我来说真的意义重大。你们摇滚！  \n\nSPACEX：我的第一次飞行去了德克萨斯州巴斯特罗普的 Starlink / Starmind Campus。有大量的工作正在进行。以下是当前正在进行的建设地点的列表。  \n\n- 太阳能硅锭和硅片设施：该设施用于硅锭和硅片的上游硅生产，为太阳能电池制造提供原料。 SpaceX 正在积极开展基础工作，他们正在清理并平整太阳能电池工厂旁边的一块大地。它们最终都会连接起来。  \n\n- 太阳能电池工厂：这是一个约 1.1-150 万平方英尺的多层结构，目前正在星链主工厂以南建设。它专为大批量太阳能电池输出而设计，目标为每年约 10 GW。大部分外墙、窗户和屋顶都已安装。  \n\n- 星链工厂：这是经过多次扩建的OG建筑。它拥有大批量的星链套件生产、印刷电路板和半导体封装。  \n\n- 仓库和人工智能卫星开发设施：以存储、人工智能卫星研发和相关运营的概念布局进行描述。这栋楼建得超级快。它是在太阳能电池工厂几个月后开始的，现在已经远远超出了它。  \n\n- Starmind / AI卫星生产工厂：该地区仍然是草地，靠近高速公路的一小部分现已被清理和平整。这将是大型Starmind卫星制造大楼。  \n\n如果您有任何疑问，请在评论中留下。订阅者照片线程和线程中的支持链接。\n\n感谢您的观看！\n\n视频"
+      "text_zh": "大新闻：SpaceX 已批准我飞越他们的位置并在没有 TFR 的情况下更新他们的位置！感谢 Brian、James 和 SpaceX Security 帮助建立这个项目。这对我来说真的意义重大。你们摇滚！  \n\nSPACEX：我的第一次飞行去了德克萨斯州巴斯特罗普的 Starlink / Starmind Campus。有大量的工作正在进行。以下是当前正在进行的建设地点的列表。  \n\n- 太阳能硅锭和硅片设施：该设施用于硅锭和硅片的上游硅生产，为太阳能电池制造提供原料。 SpaceX 正在积极开展基础工作，他们正在清理并平整太阳能电池工厂旁边的一块大地。它们最终都会连接起来。  \n\n- 太阳能电池工厂：这是一个约 1.1-150 万平方英尺的多层结构，目前正在星链主工厂以南建设。它专为大批量太阳能电池输出而设计，目标为每年约 10 GW。大部分外墙、窗户和屋顶都已安装。  \n\n- 星链工厂：这是经过多次扩建的OG建筑。它拥有大批量的星链套件生产、印刷电路板和半导体封装。  \n\n- 仓库和人工智能卫星开发设施：以存储、人工智能卫星研发和相关运营的概念布局进行描述。这栋楼建得超级快。它是在太阳能电池工厂几个月后开始的，现在已经远远超出了它。  \n\n- Starmind / AI卫星生产工厂：该地区仍然是草地，靠近高速公路的一小部分现已被清理和平整。这将是大型Starmind卫星制造大楼。  \n\n如果您有任何疑问，请在评论中留下。订阅者照片线程和线程中的支持链接。\n\n感谢您的观看！\n\n视频",
+      "tweet_id": "2113043312428843306",
+      "ctx_done": 1
     },
     {
       "text": "How bad is this Gitlab issue? About as bad as it gets. \n\nAnyone on the internet can take over an exposed, self-hosted GitLab server without logging in, on any version from the last 12 years.\n\nShodan is showing ~60K exposed servers online, which is a lot, but there are are far more internally for anyone with a foothold already.\n\n\nThe Hacker News (@TheHackersNews)\n\n🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - thehackernews.com/2026/10/cr…\n\nLink\n\n\n\nCritical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases\n\nGitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
       "link": "http://nitter.jaydenha.uk/DanielMiessler/status/2113037507524755745#m",
       "date": "Wed, 21 Oct 2026 22:39:34 GMT",
-      "text_zh": "这个 Gitlab 问题有多严重？差不多就这么糟糕。 \n\n互联网上的任何人都可以在过去 12 年的任何版本上接管暴露的自托管 GitLab 服务器，而无需登录。\n\nShodan 展示了大约 6 万台暴露的在线服务器，数量很多，但对于已经立足的任何人来说，内部还有更多的服务器。\n\n\n黑客新闻 (@TheHackersNews)\n\n🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - thehackernews.com/2026/10/cr…\n\n链接\n\n\n\nGitLab 严重缺陷 (CVSS 10.0) 可能允许在 12 年的发行版中进行未经身份验证的 RCE\n\nGitLab 修复了 CVE-2026-110264，这是一个严重缺陷，可能允许在 7.0 以来的自我管理版本上执行未经身份验证的代码。\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m"
+      "text_zh": "这个 Gitlab 问题有多严重？差不多就这么糟糕。 \n\n互联网上的任何人都可以在过去 12 年的任何版本上接管暴露的自托管 GitLab 服务器，而无需登录。\n\nShodan 展示了大约 6 万台暴露的在线服务器，数量很多，但对于已经立足的任何人来说，内部还有更多的服务器。\n\n\n黑客新闻 (@TheHackersNews)\n\n🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - thehackernews.com/2026/10/cr…\n\n链接\n\n\n\nGitLab 严重缺陷 (CVSS 10.0) 可能允许在 12 年的发行版中进行未经身份验证的 RCE\n\nGitLab 修复了 CVE-2026-110264，这是一个严重缺陷，可能允许在 7.0 以来的自我管理版本上执行未经身份验证的代码。\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
+      "tweet_id": "2113037507524755745",
+      "quoted": {
+        "user": "TheHackersNews",
+        "text": "🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+      },
+      "ctx_done": 1
     },
     {
       "text": "If humanity can survive the next 24 months, we're going to have the most secure software ever.\n\n\nJohn Althouse (@4A4133)\n\nSorry everyone... We're announcing a 0-Day vuln in QUIC that allows anyone to remotely turn off a server running these libraries. I swear we didn't plan this. \n\nfoxio.io/blog/header-accordi…\n\nLink\n\n\n\nHeader Accordions: QPACK amplification attacks against HTTP/3 servers - FoxIO | Cyber Innovation\n\nWe solve the world’s toughest cyber challenges—creating breakthrough technology and embedding it into the systems that run everything.\nfoxio.io\n\n\n\n\n— http://nitter.jaydenha.uk/4A4133/status/2113008219891109996#m",
       "link": "http://nitter.jaydenha.uk/wedtm/status/2113037010114146497#m",
       "date": "Wed, 21 Oct 2026 22:37:36 GMT",
-      "text_zh": "如果人类能够在接下来的 24 个月内生存，我们将拥有有史以来最安全的软件。\n\n\n约翰·奥尔豪斯 (@4A4133)\n\n抱歉大家...我们宣布 QUIC 中存在一个 0 天漏洞，允许任何人远程关闭运行这些库的服务器。我发誓我们没有计划这个。 \n\nFoxio.io/blog/header-accordi…\n\n链接\n\n\n\n标头折叠式：针对 HTTP/3 服务器的 QPACK 放大攻击 - FoxIO |网络创新\n\n我们解决世界上最严峻的网络挑战——创造突破性技术并将其嵌入到运行一切的系统中。\nFoxio.io\n\n\n\n\n— http://nitter.jaydenha.uk/4A4133/status/2113008219891109996#m"
+      "text_zh": "如果人类能够在接下来的 24 个月内生存，我们将拥有有史以来最安全的软件。\n\n\n约翰·奥尔豪斯 (@4A4133)\n\n抱歉大家...我们宣布 QUIC 中存在一个 0 天漏洞，允许任何人远程关闭运行这些库的服务器。我发誓我们没有计划这个。 \n\nFoxio.io/blog/header-accordi…\n\n链接\n\n\n\n标头折叠式：针对 HTTP/3 服务器的 QPACK 放大攻击 - FoxIO |网络创新\n\n我们解决世界上最严峻的网络挑战——创造突破性技术并将其嵌入到运行一切的系统中。\nFoxio.io\n\n\n\n\n— http://nitter.jaydenha.uk/4A4133/status/2113008219891109996#m",
+      "tweet_id": "2113037010114146497",
+      "quoted": {
+        "user": "4A4133",
+        "text": "Sorry everyone... We're announcing a 0-Day vuln in QUIC that allows anyone to remotely turn off a server running these libraries. I swear we didn't plan this. \n\nhttps://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers"
+      },
+      "ctx_done": 1
     },
     {
       "text": "\"As FSD scales, we will disclose more financial metrics\"\n\n— Tesla CFO $TSLA",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113034238761324827#m",
       "date": "Wed, 21 Oct 2026 22:26:35 GMT",
-      "text_zh": "“随着 FSD 规模的扩大，我们将披露更多财务指标”\n\n— 特斯拉首席财务官 $TSLA"
+      "text_zh": "“随着 FSD 规模的扩大，我们将披露更多财务指标”\n\n— 特斯拉首席财务官 $TSLA",
+      "tweet_id": "2113034238761324827",
+      "ctx_done": 1
     },
     {
       "text": "\"I think Tesla will do half of all passenger miles in any country where its allowed to operate freely\"\n\n— @elonmusk",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113033431475224819#m",
       "date": "Wed, 21 Oct 2026 22:23:22 GMT",
-      "text_zh": "“我认为特斯拉将在任何允许其自由运营的国家完成一半的乘客里程”\n\n— @elonmusk"
+      "text_zh": "“我认为特斯拉将在任何允许其自由运营的国家完成一半的乘客里程”\n\n— @elonmusk",
+      "tweet_id": "2113033431475224819",
+      "ctx_done": 1
     },
     {
       "text": "\"Terafabs will cost 10s of billions of dollars, up to 2028. It will probably be north of $100 billion long term\"\n\n— @elonmusk",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113031928010232215#m",
       "date": "Wed, 21 Oct 2026 22:17:24 GMT",
-      "text_zh": "“到 2028 年，Terafab 的成本将达到数十亿美元。长期来看，其成本可能会超过 1000 亿美元”\n\n— @elonmusk"
+      "text_zh": "“到 2028 年，Terafab 的成本将达到数十亿美元。长期来看，其成本可能会超过 1000 亿美元”\n\n— @elonmusk",
+      "tweet_id": "2113031928010232215",
+      "ctx_done": 1
     },
     {
       "text": "By Q1 or Q2 of 2027, the primary scaling bottleneck for Robotaxi will be regulatory, not technical\"\n\n— @aelluswamy",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113031680638472585#m",
       "date": "Wed, 21 Oct 2026 22:16:25 GMT",
-      "text_zh": "到 2027 年第一季度或第二季度，Robotaxi 的主要扩展瓶颈将是监管，而不是技术”\n\n— @aelluswamy"
+      "text_zh": "到 2027 年第一季度或第二季度，Robotaxi 的主要扩展瓶颈将是监管，而不是技术”\n\n— @aelluswamy",
+      "tweet_id": "2113031680638472585",
+      "ctx_done": 1
     },
     {
       "text": "\"We will move Robotaxi to 24/7 operation, and start operating on high speed roads\"\n\n— @aelluswamy $TSLA",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113031491496345961#m",
       "date": "Wed, 21 Oct 2026 22:15:40 GMT",
-      "text_zh": "“我们将把 Robotaxi 改为 24/7 运营，并开始在高速道路上运营”\n\n— @aelluswamy $TSLA"
+      "text_zh": "“我们将把 Robotaxi 改为 24/7 运营，并开始在高速道路上运营”\n\n— @aelluswamy $TSLA",
+      "tweet_id": "2113031491496345961",
+      "ctx_done": 1
     },
     {
       "text": "\"Pretty soon Robotaxi will shut down at 2 AM\"\n\n— @aelluswamy",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113031266388078999#m",
       "date": "Wed, 21 Oct 2026 22:14:46 GMT",
-      "text_zh": "“Robotaxi 很快就会在凌晨 2 点关闭”\n\n— @aelluswamy"
+      "text_zh": "“Robotaxi 很快就会在凌晨 2 点关闭”\n\n— @aelluswamy",
+      "tweet_id": "2113031266388078999",
+      "ctx_done": 1
     },
     {
       "text": "\"Cybercab has 50% less parts, so that's 50% less things that can go wrong\"\n\n— @larsmoravy",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113030541297811631#m",
       "date": "Wed, 21 Oct 2026 22:11:53 GMT",
-      "text_zh": "“Cybercab 的零件数量减少了 50%，因此可能出现问题的情况也减少了 50%”\n\n— @larsmoravy"
+      "text_zh": "“Cybercab 的零件数量减少了 50%，因此可能出现问题的情况也减少了 50%”\n\n— @larsmoravy",
+      "tweet_id": "2113030541297811631",
+      "ctx_done": 1
     },
     {
       "text": "\"Autonomy will be a significant part of our revenue and profitability in 2027\"\n\n— Tesla CFO\n\n\"It will probably start to move the needle in Q2, and then be a significant driver by Q4\"\n\n— @elonmusk",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113030261101490521#m",
       "date": "Wed, 21 Oct 2026 22:10:47 GMT",
-      "text_zh": "“到 2027 年，自主化将成为我们收入和盈利能力的重要组成部分”\n\n— 特斯拉首席财务官\n\n“它可能会在第二季度开始发挥作用，然后在第四季度成为重要的推动因素”\n\n— @elonmusk"
+      "text_zh": "“到 2027 年，自主化将成为我们收入和盈利能力的重要组成部分”\n\n— 特斯拉首席财务官\n\n“它可能会在第二季度开始发挥作用，然后在第四季度成为重要的推动因素”\n\n— @elonmusk",
+      "tweet_id": "2113030261101490521",
+      "ctx_done": 1
     },
     {
       "text": "Damn, they don’t even stop scaling during an earnings call\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 8 new 2026 Model Ys with the Texas DMV — now 462 Model Ys in its 811-vehicle TX fleet. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2113029724851310837#m",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113030029290684461#m",
       "date": "Wed, 21 Oct 2026 22:09:51 GMT",
-      "text_zh": "该死，他们甚至在财报电话会议期间都没有停止扩张\n\n\n整个火星 FSD 数据库 (@fsd_database)\n\n🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 8 辆全新 2026 年款 Y 型车，目前其 811 辆 TX 车队中有 462 辆 Model Y。 fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2113029724851310837#m"
+      "text_zh": "该死，他们甚至在财报电话会议期间都没有停止扩张\n\n\n整个火星 FSD 数据库 (@fsd_database)\n\n🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 8 辆全新 2026 年款 Y 型车，目前其 811 辆 TX 车队中有 462 辆 Model Y。 fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2113029724851310837#m",
+      "tweet_id": "2113030029290684461",
+      "quoted": {
+        "user": "fsd_database",
+        "text": "🚗 Tesla Robotaxi just registered 8 new 2026 Model Ys with the Texas DMV — now 462 Model Ys in its 811-vehicle TX fleet. https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc"
+      },
+      "ctx_done": 1
     },
     {
       "text": "\"When customers come into the Tesla showroom, they're asking 'Can I have an FSD test ride?'. They're not asking for 3, Y or Cybertruck. They're asking to try FSD\"\n\n— Tesla CFO $TSLA",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113029306880589880#m",
       "date": "Wed, 21 Oct 2026 22:06:59 GMT",
-      "text_zh": "“当顾客走进 Tesla 展厅时，他们会问‘我可以试乘 FSD 吗？’。他们不是要求 3、Y 或 Cybertruck。他们要求尝试一下 FSD”\n\n— 特斯拉首席财务官 $TSLA"
+      "text_zh": "“当顾客走进 Tesla 展厅时，他们会问‘我可以试乘 FSD 吗？’。他们不是要求 3、Y 或 Cybertruck。他们要求尝试一下 FSD”\n\n— 特斯拉首席财务官 $TSLA",
+      "tweet_id": "2113029306880589880",
+      "ctx_done": 1
     },
     {
       "text": "Tesla Management team disagrees with the thesis that unsupervised driving will be accessible and commoditized by competitors.",
       "link": "http://nitter.jaydenha.uk/TSLAFanMtl/status/2113029166631104967#m",
       "date": "Wed, 21 Oct 2026 22:06:26 GMT",
-      "text_zh": "特斯拉管理团队不同意无人监督驾驶将被竞争对手获取和商品化的论点。"
+      "text_zh": "特斯拉管理团队不同意无人监督驾驶将被竞争对手获取和商品化的论点。",
+      "tweet_id": "2113029166631104967",
+      "ctx_done": 1
     },
     {
       "text": "\"As we release unsupervised FSD to the customer fleet... I don't think anyone can match it for several years\"\n\n— @aelluswamy $TSLA",
       "link": "http://nitter.jaydenha.uk/wholemars/status/2113029141805277373#m",
       "date": "Wed, 21 Oct 2026 22:06:20 GMT",
-      "text_zh": "“当我们向客户车队发布无人监督的 FSD 时……我认为几年内没有人可以与之匹敌”\n\n— @aelluswamy $TSLA"
+      "text_zh": "“当我们向客户车队发布无人监督的 FSD 时……我认为几年内没有人可以与之匹敌”\n\n— @aelluswamy $TSLA",
+      "tweet_id": "2113029141805277373",
+      "ctx_done": 1
     },
     {
       "text": "Definitely take it to San Francisco, long distance self-driving road trips are so nice. \n\nAlso, Tesla has a pet cover for the back seat in their shop if you want it\n\n\nDavid (@dayonefoundry)\n\nNew car is already ruined!\n\nAlso FSD is actually insane. The quality of life improvement especially in stop and go LA traffic is amazing. I might actually try FSD all the way from LA to SF\n\nYes driving a Tesla is now my entire personality\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/dayonefoundry/status/2112725247057338378#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112766962946433477#m",
       "date": "Wed, 21 Oct 2026 04:44:31 GMT",
-      "text_zh": "一定要带去旧金山，长途自驾公路旅行真好。 \n\n另外，如果你需要的话，特斯拉在他们的商店里有一个后座宠物套\n\n\n大卫（@dayonefoundry）\n\n新车已经报废了！\n\nFSD实际上也很疯狂。生活质量的改善尤其是洛杉矶走走停停的交通状况令人惊叹。我实际上可能会尝试从洛杉矶到旧金山的一路 FSD\n\n是的，驾驶特斯拉现在已经成为我的全部个性\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/dayonefoundry/status/2112725247057338378#m"
+      "text_zh": "一定要带去旧金山，长途自驾公路旅行真好。 \n\n另外，如果你需要的话，特斯拉在他们的商店里有一个后座宠物套\n\n\n大卫（@dayonefoundry）\n\n新车已经报废了！\n\nFSD实际上也很疯狂。生活质量的改善尤其是洛杉矶走走停停的交通状况令人惊叹。我实际上可能会尝试从洛杉矶到旧金山的一路 FSD\n\n是的，驾驶特斯拉现在已经成为我的全部个性\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/dayonefoundry/status/2112725247057338378#m",
+      "tweet_id": "2112766962946433477",
+      "quoted": {
+        "user": "dayonefoundry",
+        "text": "New car is already ruined!\n\nAlso FSD is actually insane. The quality of life improvement especially in stop and go LA traffic is amazing. I might actually try FSD all the way from LA to SF\n\nYes driving a Tesla is now my entire personality",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112725126936698880/img/skMPwSDuo92qevvk.jpg",
+            "local": "2112766962946433477q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "Today would be a great day to launch Cybercab service in Dallas",
       "link": "http://nitter.meowing.monster/wholemars/status/2112766701993611697#m",
       "date": "Wed, 21 Oct 2026 04:43:29 GMT",
-      "text_zh": "今天是在达拉斯推出 Cyber​​cab 服务的好日子"
+      "text_zh": "今天是在达拉斯推出 Cyber​​cab 服务的好日子",
+      "tweet_id": "2112766701993611697",
+      "ctx_done": 1
     },
     {
       "text": "Nice, new UI shows nearby pins instead of just the currently selected one! Pin also stays anchored to its actual location instead of the user dropped spot so no more confusing morphing \n\nMassive improvement to the experience here!\n\n\n\n\nSpencer (@scotsrule08)\n\nUpdate your Robotaxi iOS apps!\n\n\n\n\n\n— http://nitter.meowing.monster/scotsrule08/status/2112717220396909021#m",
       "link": "http://nitter.meowing.monster/ethanmckanna/status/2112761335805354237#m",
       "date": "Wed, 21 Oct 2026 04:22:10 GMT",
-      "text_zh": "不错，新的用户界面显示附近的图钉，而不仅仅是当前选择的图钉！ Pin 还保持锚定在其实际位置，而不是用户放置的位置，因此不会再出现令人困惑的变形 \n\n这里的体验得到了巨大的改善！\n\n\n\n\n斯宾塞 (@scotsrule08)\n\n更新您的 Robotaxi iOS 应用程序！\n\n\n\n\n\n— http://nitter.meowing.monster/scotsrule08/status/2112717220396909021#m"
+      "text_zh": "不错，新的用户界面显示附近的图钉，而不仅仅是当前选择的图钉！ Pin 还保持锚定在其实际位置，而不是用户放置的位置，因此不会再出现令人困惑的变形 \n\n这里的体验得到了巨大的改善！\n\n\n\n\n斯宾塞 (@scotsrule08)\n\n更新您的 Robotaxi iOS 应用程序！\n\n\n\n\n\n— http://nitter.meowing.monster/scotsrule08/status/2112717220396909021#m",
+      "tweet_id": "2112761335805354237",
+      "quoted": {
+        "user": "scotsrule08",
+        "text": "Update your Robotaxi iOS apps!",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVHhHWnbcAAgG4f.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVHhHWnbcAAgG4f.jpg?name=orig",
+            "local": "2112761335805354237q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "125 miles in with FSD v14.3.13, here’s my review and experiences so far with this new build:\n\nFSD v14.3.13 may seem like a minor point change, but I’m seeing a bunch of noticeable fixes and improvements over the previous v14.3.12. \n\nFirst off, highway driving is HUGELY improved.",
       "link": "http://nitter.meowing.monster/BLKMDL3/status/2112756565463937230#m",
       "date": "Wed, 21 Oct 2026 04:03:12 GMT",
-      "text_zh": "使用 FSD v14.3.13 行驶 125 英里，这是我迄今为止对这个新版本的评论和经验：\n\nFSD v14.3.13 可能看起来只是一个小变化，但我发现与之前的 v14.3.12 相比有许多明显的修复和改进。 \n\n首先，高速公路驾驶得到了极大的改善。"
+      "text_zh": "使用 FSD v14.3.13 行驶 125 英里，这是我迄今为止对这个新版本的评论和经验：\n\nFSD v14.3.13 可能看起来只是一个小变化，但我发现与之前的 v14.3.12 相比有许多明显的修复和改进。 \n\n首先，高速公路驾驶得到了极大的改善。",
+      "tweet_id": "2112756565463937230",
+      "ctx_done": 1
     },
     {
       "text": "Mad Max mode is now available in Australia for the first time!\n\n\nGareth Blake Hall (@gbhall)\n\nWait WTF, are we getting MAD MAX down under????!\n\nInstalling now!\n\n\n\n\n\n— http://nitter.meowing.monster/gbhall/status/2112743071293354428#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112750446318383180#m",
       "date": "Wed, 21 Oct 2026 03:38:54 GMT",
-      "text_zh": "《疯狂的麦克斯》模式现已首次在澳大利亚推出！\n\n\n加雷斯·布莱克·霍尔 (@gbhall)\n\n等等 WTF，我们要下《MAD MAX》了吗？？？？！\n\n立即安装！\n\n\n\n\n\n— http://nitter.meowing.monster/gbhall/status/2112743071293354428#m"
+      "text_zh": "《疯狂的麦克斯》模式现已首次在澳大利亚推出！\n\n\n加雷斯·布莱克·霍尔 (@gbhall)\n\n等等 WTF，我们要下《MAD MAX》了吗？？？？！\n\n立即安装！\n\n\n\n\n\n— http://nitter.meowing.monster/gbhall/status/2112743071293354428#m",
+      "tweet_id": "2112750446318383180",
+      "quoted": {
+        "user": "gbhall",
+        "text": "Wait WTF, are we getting MAD MAX down under????!\n\nInstalling now!",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVH4n0vagAAXrwm.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVH4n0vagAAXrwm.jpg?name=orig",
+            "local": "2112750446318383180q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla Self-Driving 14.3.13 just drove to Erewhon and parked in an underground parking garage entirely on its own. Well done 👏",
       "link": "http://nitter.meowing.monster/wholemars/status/2112747032767304037#m",
       "date": "Wed, 21 Oct 2026 03:25:20 GMT",
-      "text_zh": "特斯拉自动驾驶 14.3.13 刚刚开到 Erewhon 并完全自行停在地下停车场。干得好👏"
+      "text_zh": "特斯拉自动驾驶 14.3.13 刚刚开到 Erewhon 并完全自行停在地下停车场。干得好👏",
+      "tweet_id": "2112747032767304037",
+      "ctx_done": 1
     },
     {
       "text": "Thank you Sergey for helping to try and save California\n\n\nKalshi Politics (@KalshiPolitics)\n\nPOLITICO: Google co-founder Sergey Brin has spent 40 times what he’s invested in politics in the previous 20 years trying to defeat California’s proposed billionaire tax\n\n23% chance the billionaire wealth tax passes\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/KalshiPolitics/status/2112580352594387461#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112744720845918597#m",
       "date": "Wed, 21 Oct 2026 03:16:09 GMT",
-      "text_zh": "感谢谢尔盖帮助拯救加州\n\n\n卡尔希政治（@KalshiPolitics）\n\n政治：谷歌联合创始人谢尔盖·布林（Sergey Brin）在过去20年里在政治上的投资是他的40倍，试图击败加州拟议的亿万富翁税\n\n亿万富翁财富税通过的可能性为 23%\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/KalshiPolitics/status/2112580352594387461#m"
+      "text_zh": "感谢谢尔盖帮助拯救加州\n\n\n卡尔希政治（@KalshiPolitics）\n\n政治：谷歌联合创始人谢尔盖·布林（Sergey Brin）在过去20年里在政治上的投资是他的40倍，试图击败加州拟议的亿万富翁税\n\n亿万富翁财富税通过的可能性为 23%\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/KalshiPolitics/status/2112580352594387461#m",
+      "tweet_id": "2112744720845918597",
+      "quoted": {
+        "user": "KalshiPolitics",
+        "text": "POLITICO: Google co-founder Sergey Brin has spent 40 times what he’s invested in politics in the previous 20 years trying to defeat California’s proposed billionaire tax\n\n23% chance the billionaire wealth tax passes",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVFjIjMX0AAAebA.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVFjIjMX0AAAebA.jpg?name=orig",
+            "local": "2112744720845918597q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVFjIjKXYAAKzzv.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVFjIjKXYAAKzzv.jpg?name=orig",
+            "local": "2112744720845918597q_1.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "Dear god it's inventing German from first principles\n\n\nLisan al Gaib (@scaling01)\n\nGPT-6.1-Sol reasoning traces\n\ntotally legible, nothing to worry about\n\n\n\n\n\n— http://nitter.meowing.monster/scaling01/status/2112707058558771558#m",
       "link": "http://nitter.meowing.monster/_chenglou/status/2112742321368543593#m",
       "date": "Wed, 21 Oct 2026 03:06:36 GMT",
-      "text_zh": "亲爱的上帝，它从第一原理开始发明德语\n\n\n利桑·阿尔·盖布 (@scaling01)\n\nGPT-6.1-Sol 推理痕迹\n\n完全清晰，无需担心\n\n\n\n\n\n— http://nitter.meowing.monster/scaling01/status/2112707058558771558#m"
+      "text_zh": "亲爱的上帝，它从第一原理开始发明德语\n\n\n利桑·阿尔·盖布 (@scaling01)\n\nGPT-6.1-Sol 推理痕迹\n\n完全清晰，无需担心\n\n\n\n\n\n— http://nitter.meowing.monster/scaling01/status/2112707058558771558#m",
+      "tweet_id": "2112742321368543593",
+      "quoted": {
+        "user": "scaling01",
+        "text": "GPT-6.1-Sol reasoning traces\n\ntotally legible, nothing to worry about",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVHXwn0X0AAKDJx.png?name=orig",
+            "full": "https://pbs.twimg.com/media/HVHXwn0X0AAKDJx.png?name=orig",
+            "local": "2112742321368543593q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "Tesla Self-Driving 14.3.12 now rolling out in Australia and New Zealand\n\n\nEVStraya (@EVStraya)\n\n🚨 FSD 14.3.12 downloading down under!!! 🚨\n\n\n\n\n\n— http://nitter.meowing.monster/EVStraya/status/2112731038292341072#m",
       "link": "http://nitter.meowing.monster/wholemars/status/2112732140358238455#m",
       "date": "Wed, 21 Oct 2026 02:26:09 GMT",
-      "text_zh": "Tesla 自动驾驶 14.3.12 现已在澳大利亚和新西兰推出\n\n\nEVStraya（@EVStraya）\n\n🚨 FSD 14.3.12 正在下载！！！ 🚨\n\n\n\n\n\n— http://nitter.meowing.monster/EVStraya/status/2112731038292341072#m"
+      "text_zh": "Tesla 自动驾驶 14.3.12 现已在澳大利亚和新西兰推出\n\n\nEVStraya（@EVStraya）\n\n🚨 FSD 14.3.12 正在下载！！！ 🚨\n\n\n\n\n\n— http://nitter.meowing.monster/EVStraya/status/2112731038292341072#m",
+      "tweet_id": "2112732140358238455",
+      "quoted": {
+        "user": "EVStraya",
+        "text": "🚨 FSD 14.3.12 downloading down under!!! 🚨",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVHtrMRaUAAf-VZ.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVHtrMRaUAAf-VZ.jpg?name=orig",
+            "local": "2112732140358238455q_0.jpg"
+          }
+        ]
+      },
+      "ctx_done": 1
     },
     {
       "text": "twice the fun\n\n\nJames Cat (@TSLAFanMtl)\n\nAnother fun day lined up for tomorrow with $TSLA earnings.\n\n\n\n— https://nitter.kareem.one/TSLAFanMtl/status/2112716702978855126#m",
       "link": "https://nitter.kareem.one/wholemars/status/2112728032511484222#m",
       "date": "Wed, 21 Oct 2026 02:09:50 GMT",
-      "text_zh": "双倍的乐趣\n\n\n詹姆斯猫（@TSLAFanMtl）\n\n明天又是有趣的一天，特斯拉的收入也随之而来。\n\n\n\n— https://nitter.kareem.one/TSLAFanMtl/status/2112716702978855126#m"
+      "text_zh": "双倍的乐趣\n\n\n詹姆斯猫（@TSLAFanMtl）\n\n明天又是有趣的一天，特斯拉的收入也随之而来。\n\n\n\n— https://nitter.kareem.one/TSLAFanMtl/status/2112716702978855126#m",
+      "tweet_id": "2112728032511484222",
+      "quoted": {
+        "user": "TSLAFanMtl",
+        "text": "Another fun day lined up for tomorrow with $TSLA earnings."
+      },
+      "ctx_done": 1
     },
     {
       "text": "It's worse than Heartbleed. it should be on the front page of every newspaper in the morning (but it wont be)\n\nIt's so weird living in a tech dominated world where everyone has a smartphone and is on the internet constantly..\n\n..yet most people will never even hear about this.\n\n\nJOSΞPH 🌳 (@CupOJoseph)\n\nMillions of IoT devices, Docker containers, forgotten Linux machines, unmaintained CLI tools, etc. are all going to be relentlessly hacked via safely signed malware for the next several years or maybe indefinitely.\n\neMudhra hack might be the most important event of the year.\n\n\n\n— http://nitter.meowing.monster/CupOJoseph/status/2112709932424265741#m",
