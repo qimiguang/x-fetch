@@ -1,8 +1,16 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-29T06:19:31Z",
+  "updated_at": "2026-10-29T06:21:43Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Everyday I’m thankful to be alive while @elonmusk is changing the world",
+      "link": "https://x.com/teslaownersSV/status/2115689992446226636",
+      "date": "Thu Oct 29 06:19:36 +0000 2026",
+      "tweet_id": "2115689992446226636",
+      "ctx_done": 1,
+      "text_zh": "每天，当 @elonmusk 改变世界时，我都庆幸自己还活着"
+    },
     {
       "text": "When Elon Musk arrives https://t.co/Sljps9vuHR",
       "link": "https://x.com/teslaownersSV/status/2115689193007673789",
@@ -4225,28 +4233,6 @@
         }
       ],
       "text_zh": "高级@UPTeslaFremont",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @that1evguyjay: Community things with @_bennettm_ &amp; @teslaownersSV https://t.co/YkAZJbzAVh",
-      "link": "https://x.com/teslaownersSV/status/2114178276105277632",
-      "date": "Sun Oct 25 02:12:35 +0000 2026",
-      "tweet_id": "2114178276105277632",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVcFJaZaQAARKiQ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVcFJaZaQAARKiQ.jpg?format=jpg&name=large",
-          "local": "2114178276105277632_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVcFJaZaQAARKiQ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVcFJaZaQAARKiQ.jpg?format=jpg&name=large",
-          "local": "2114178276105277632_1.jpg"
-        }
-      ],
-      "text_zh": "RT @that1evguyjay：与 @_bennettm_ 和 @teslaownersSV 进行社区活动 https://t.co/YkAZJbzAVh",
       "ctx_done": 1
     }
   ]
