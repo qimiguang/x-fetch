@@ -1,8 +1,191 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-28T20:12:04Z",
+  "updated_at": "2026-10-29T00:41:03Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Hmm",
+      "link": "https://x.com/elonmusk/status/2115561519807402189#m",
+      "date": "Wed, 28 Oct 2026 21:49:06 GMT",
+      "tweet_id": "2115561519807402189",
+      "quoted": {
+        "user": "C_3C_3",
+        "text": "Photo 1: A Hennepin county attorney who released a Somali rapist with no jail time who ended up raping again.\n\nPhoto 2: A Hennepin county attorney who wants to jail James O’Keefe and Cam Higby for exposing voter fraud.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvQY-yWYAAeeIu.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVvQY-yWYAAeeIu.jpg?name=orig",
+            "local": "2115561519807402189q_0.jpg"
+          }
+        ],
+        "text_zh": "照片 1：一名亨内平县检察官释放了一名索马里强奸犯，没有入狱，但这名强奸犯最终再次实施强奸。\n\n照片 2：亨内平县检察官因揭露选民欺诈而想要监禁詹姆斯·奥基夫和卡姆·希格比。"
+      },
+      "ctx_done": 1,
+      "text_zh": "唔"
+    },
+    {
+      "text": "Impressive",
+      "link": "https://x.com/elonmusk/status/2115503730368061688#m",
+      "date": "Wed, 28 Oct 2026 17:59:28 GMT",
+      "tweet_id": "2115503730368061688",
+      "quoted": {
+        "user": "sundarpichai",
+        "text": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.\n\nFollowing Argon's release just two weeks ago, Carbon shows the pace at which we’re pushing the frontier, it ranks #1 on the recently updated v5.0 of @ArtificialAnlys Intelligence Index at 59. It also leads across key cybersecurity evaluations scoring 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation, and 71.0% on CWE-bench for patching.\n\nWe’re seeing significant improvements in long-horizon tasks even compared to Argon, and we’ve strengthened frontier safeguards.\n\nAs we did with Argon, we’re going to roll it out gradually + responsibly. Some trusted cyber defenders will get access starting this week. We'll be expanding it to more partners through our Fairwind Program, ahead of wider availability soon, so hang tight!",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVu5GHmbUAAppsK.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVu5GHmbUAAppsK.jpg?name=orig",
+            "local": "2115503730368061688q_0.jpg"
+          }
+        ],
+        "text_zh": "我确实说过我们会定期发布我们的型号...介绍 Gemini 4 Carbon，我们的下一个前沿型号。\n\n继 Argon 两周前发布后，Carbon 显示了我们推动前沿的步伐，它在最近更新的 @ArtificialAnlys Intelligence Index v5.0 中排名第一，排名为 59。它还在关键网络安全评估中处于领先地位，在 SEC-bench Pro 上发现漏洞的得分为 88.2%，在 ExploitGym 上的漏洞利用得分为 54.8%，在 CWE-bench 的修补得分为 71.0%。\n\n即使与氩气相比，我们也看到了长期任务的显着改进，并且我们加强了边境保障。\n\n正如我们对 Argon 所做的那样，我们将负责任地逐步推出它。一些值得信赖的网络防御者将从本周开始获得访问权限。我们将通过 Fairwind 计划将其扩展到更多合作伙伴，很快就会更广泛地提供，所以请耐心等待！"
+      },
+      "ctx_done": 1,
+      "text_zh": "感人的"
+    },
+    {
+      "text": "🇺🇸 Robotaxi Houston 🇺🇸",
+      "link": "https://x.com/elonmusk/status/2115501119296463056#m",
+      "date": "Wed, 28 Oct 2026 17:49:05 GMT",
+      "tweet_id": "2115501119296463056",
+      "quoted": {
+        "user": "HPOUTX",
+        "text": "There has never been an excuse to drink and drive. With @Tesla expanding their Cybercab/Robotaxi services area across #Houston, there are more ways than ever to get home safely after a night out.\n\nPlan ahead, make the smart choice, and never get behind the wheel impaired. #DontDrinkAndDrive",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig",
+            "local": "2115501119296463056q_0.jpg"
+          }
+        ],
+        "text_zh": "酒后驾车从来没有任何借口。随着 @Tesla 在 #Houston 扩大他们的 Cyber​​cab/Robotaxi 服务范围，在晚上外出后安全回家的方式比以往任何时候都多。\n\n提前计划，做出明智的选择，永远不会因驾驶而受到影响。 #不要酒后驾车"
+      },
+      "ctx_done": 1,
+      "text_zh": "🇺🇸 休斯顿机器人出租车 🇺🇸"
+    },
+    {
+      "text": "Actual language of Prop I:\n\nShall the City Charter be amended to require an Independent Affordability and Efficiency Initiative on a regular basis and before any tax rate increase election and requiring the independent contractor to identify annual and multi-year savings that exceed the cost of the contractor’s service?\n\nTranslation: “We don’t want to be held accountable for how we spend your tax dollars in Austin” so make it about Elon Musk and Donald Trump.\n\nIt’s exhausting.",
+      "link": "https://x.com/mjboswell/status/2115488001740476808#m",
+      "date": "Wed, 28 Oct 2026 16:56:58 GMT",
+      "tweet_id": "2115488001740476808",
+      "reply_to": "mjboswell",
+      "ctx_done": 1,
+      "text_zh": "提案 I 的实际语言：\n\n是否应修订《城市宪章》，要求在任何税率上调选举之前定期开展独立负担能力和效率计划，并要求独立承包商确定超出承包商服务成本的年度和多年节省额？\n\n翻译：“我们不想对我们如何在奥斯汀花费你的税款负责”，所以把它放在埃隆·马斯克和唐纳德·特朗普身上。\n\n这很累。"
+    },
+    {
+      "text": "Holy. Shit.\n\nThe NYT is reporting that despite their denials, Mary Peltola's staff and Democratic operatives flew all over Alaska in secret to find and recruit a man named Dan Sullivan.\n\nThey put him on the ballot to purposefully steal votes from Republican Dan Sullivan.",
+      "link": "https://x.com/Geiger_Capital/status/2115475472117080366#m",
+      "date": "Wed, 28 Oct 2026 16:07:10 GMT",
+      "tweet_id": "2115475472117080366",
+      "ctx_done": 1,
+      "text_zh": "圣。拉屎。\n\n《纽约时报》报道称，尽管玛丽·佩尔托拉的工作人员和民主党特工否认，但他们还是秘密飞往阿拉斯加各地寻找并招募一名名叫丹·沙利文的男子。\n\n他们让他参与投票，是为了故意窃取共和党人丹·沙利文的选票。"
+    },
+    {
+      "text": "They do",
+      "link": "https://x.com/elonmusk/status/2115471764960735355#m",
+      "date": "Wed, 28 Oct 2026 15:52:26 GMT",
+      "tweet_id": "2115471764960735355",
+      "quoted": {
+        "user": "BillboardChris",
+        "text": "Vote like children’s lives depend on it.\n\nBecause they do.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVpuqvEWQAMi6h3.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVpuqvEWQAMi6h3.jpg?name=orig",
+            "local": "2115471764960735355q_0.jpg"
+          }
+        ],
+        "text_zh": "投票就像孩子们的生命取决于它一样。\n\n因为他们确实这么做了。"
+      },
+      "ctx_done": 1,
+      "text_zh": "他们确实"
+    },
+    {
+      "text": "Legacy media will never run this list, so I will.\n\n2018, Flint, Michigan: Elon funded filtration systems for schools with unsafe water. Over $480K.\n\n2018, Thailand: SpaceX engineers built a mini-submarine within days to help rescue a boys' soccer team trapped in a flooded cave.\n\n2020, COVID: He sourced and delivered ventilators and supplies to hospitals for free.\n\n2021: He gave Tesla shares worth about $5.7 billion to charity.\n\n2021: He funded a $100M XPRIZE for carbon removal, one of the largest incentive prizes ever.\n\n2022: Starlink kept Ukrainians connected when their networks went down.\n\n2022, Tonga: Starlink helped reconnect the island after a volcano cut its undersea cable.\n\nWildfires, hurricanes, earthquakes: Starlink terminals keep showing up for rescuers and families.\n\nAnd the biggest one, the one that's easy to miss: he's spent his fortune and 20+ years building clean energy, safer cars, and a future for humanity among the stars.\n\nThey call him a villain. The record says otherwise.",
+      "link": "https://x.com/TheCaptainEli/status/2115461633522757829#m",
+      "date": "Wed, 28 Oct 2026 15:12:11 GMT",
+      "tweet_id": "2115461633522757829",
+      "ctx_done": 1,
+      "text_zh": "传统媒体永远不会运行这个列表，所以我会。\n\n2018 年，密歇根州弗林特：Elon 资助为学校提供不安全用水的过滤系统。超过 48 万美元。\n\n2018 年，泰国：SpaceX 工程师在几天内建造了一艘迷你潜艇，以帮助营救被困在被洪水淹没的洞穴中的男子足球队。\n\n2020 年，新冠肺炎：他免费采购呼吸机和用品并向医院运送。\n\n2021年：他向慈善机构捐赠了价值约57亿美元的特斯拉股票。\n\n2021 年：他资助了 1 亿美元的 XPRIZE，用于碳清除，这是有史以来最大的奖励之一。\n\n2022 年：当乌克兰人的网络出现故障时，星链仍能让他们保持联系。\n\n2022 年，汤加：火山切断海底电缆后，星链帮助该岛重新连接。\n\n野火、飓风、地震：星链终端不断出现在救援人员和家庭面前。\n\n其中最大的一个，也是很容易被忽视的一个：他花费了自己的财富和 20 多年的时间来建设清洁能源、更安全的汽车以及人类在星际中的未来。\n\n他们称他为恶棍。记录却另有说法。"
+    },
+    {
+      "text": "True",
+      "link": "https://x.com/elonmusk/status/2115451044423668045#m",
+      "date": "Wed, 28 Oct 2026 14:30:06 GMT",
+      "tweet_id": "2115451044423668045",
+      "quoted": {
+        "user": "CoFoundersNik",
+        "text": "FSD could literally free up OVER $1.5 trillion/yr... WHY isn't anyone talking about this??\n\nIf Lawmakers were serious about serving the people, they would start focusing on how to speed up FSD adoption.\n\nThe Data:\nFatal & serious crashes cost the U.S. almost $2 trillion per year in total societal harm; including ~$400 billion in direct economic costs in the form of:\n- medical bills\n- property damage \n- lost wages\n- enormous quality-of-life cost of lost years\n- permanent disability\n\nTesla’s latest FSD data shows vehicles with FSD engaged are ~9× SAFER than the average driver. \n\nThat means, if fully adopted, FSD could produce savings the size of any one of these:\n- ~6% of GDP\n- The entire Social Security program\n- Medicare AND Medicaid\n- Roughly 2× the defense budget\n\nAt this scale, FSD (and technologies like it) could be one of the first real steps toward an age of AI \"abundance\" people talk about.\n\n50 years from now, our children and grandchildren will look back in horror at the fact that we ever drove at all.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVpuMM9bkAEAdv8.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVpuMM9bkAEAdv8.jpg?name=orig",
+            "local": "2115451044423668045q_0.jpg"
+          }
+        ],
+        "text_zh": "FSD 每年确实可以释放超过 1.5 万亿美元...为什么没有人谈论这个？\n\n如果立法者认真地为人民服务，他们就会开始关注如何加快 FSD 的采用。\n\n数据：\n致命和严重的车祸每年给美国造成近 2 万亿美元的社会损失；其中包括约 4000 亿美元的直接经济成本，其形式为：\n- 医疗费用\n- 财产损失 \n- 工资损失\n- 因失去岁月而付出巨大的生活质量代价\n- 永久性残疾\n\n特斯拉最新的 FSD 数据显示，启用 FSD 的车辆比普通驾驶员安全约 9 倍。 \n\n这意味着，如果完全采用，FSD 可以节省以下任何一项的费用：\n- 约占 GDP 的 6%\n- 整个社会保障计划\n- 医疗保险和医疗补助\n- 大约是国防预算的两倍\n\n在这种规模上，FSD（以及类似的技术）可能是迈向人们谈论的人工智能“丰富”时代的第一个真正的步骤之一。\n\n50 年后，我们的子孙回想起我们曾经开车的事实，将会感到惊恐。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真的"
+    },
+    {
+      "text": "At Tesla, we even care about the chipmunks\nVideo",
+      "link": "https://x.com/elonmusk/status/2115447957843821013#m",
+      "date": "Wed, 28 Oct 2026 14:17:50 GMT",
+      "tweet_id": "2115447957843821013",
+      "quoted": {
+        "user": "TheChiefNerd",
+        "text": "98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away\n\n“I've been driving it probably 2-3 months, and it's not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not run over the chipmunk … For somebody that's 98-years-old, this is a real treat.”",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115415518186196992/img/9_I9eTHapXcvWD3L.jpg",
+            "local": "2115447957843821013q_0.jpg"
+          }
+        ],
+        "text_zh": "98 岁老人购买了他的第一辆自动驾驶特斯拉 Model Y，并大吃一惊\n\n“我已经开了大概2-3个月了，它的驾驶过程中没有出现任何错误。事实上，前几天它停了下来——一只花栗鼠正在过马路，当时没有其他车辆，它没有碾过花栗鼠……对于98岁的人来说，这真是一种享受。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "在特斯拉，我们甚至关心花栗鼠\n视频"
+    },
+    {
+      "text": "FARM ATTACK: Another South African farmer attacked and brutally tortured on his farm this week.\n\nCattle farmer, Donovan Marx, from the North West province, had his ears cut off on Wednesday morning during a farm attack.\nHe was also shot in the shoulder and stabbed (with a sharp object) in the leg.\n\nAnd, for the umpteenth time, as far as I can determine, not a single article on any English media platform about it. This gross coverage disparity between the Afrikaans and English media when it comes to farm murders is what makes it possible for so many politicians and commentators to get away with their disgusting farm murder denialism.\n\nYou know what's even more infuriating? History and research shows, if the victim was black and the torturers were white, we would see this story on every front page and news channel for weeks. Debates, panel discussions, political party statements - the works! The president would even come out and condemn the attack.\n\nAgain, I refuse to accept the twisted, psychopathic standard that dismisses a farmer having his ears cut off as \"just normal crime.\"",
+      "link": "https://x.com/ConCaracal/status/2115438055498625507#m",
+      "date": "Wed, 28 Oct 2026 13:38:30 GMT",
+      "tweet_id": "2115438055498625507",
+      "ctx_done": 1,
+      "text_zh": "农场袭击：本周，另一名南非农民在他的农场遭到袭击并遭受残酷折磨。\n\n来自西北省的养牛户多诺万·马克思 (Donovan Marx) 在周三早上的一次农场袭击中被割掉了耳朵。\n他的肩膀也中弹，腿部也被刺伤（被尖锐物体刺伤）。\n\n而且，据我所知，无数次，任何英文媒体平台上都没有一篇关于此事的文章。南非荷兰语媒体和英国媒体在农场谋杀案方面的报道存在巨大差异，这使得许多政客和评论员能够摆脱他们令人厌恶的农场谋杀否认主义。\n\n你知道更令人气愤的是什么吗？历史和研究表明，如果受害者是黑人而施虐者是白人，我们会在每个头版和新闻频道上看到这个故事数周。辩论、小组讨论、政党声明——作品！总统甚至会出面谴责这次袭击。\n\n再次，我拒绝接受扭曲的、精神病态的标准，该标准将被割掉耳朵的农民视为“正常犯罪”。"
+    },
+    {
+      "text": "Grok Bot can do a lot more than chat!! 🤖\n\nStarting tomorrow: 30 days, 30 real Grok Bot use cases. A different field every day, from students to traders.\n\nNew one daily at 10 AM PT. Follow and turn on notifications!! 🔔 \n\nWhat do you think?",
+      "link": "https://x.com/nima_owji/status/2115436409788248346#m",
+      "date": "Wed, 28 Oct 2026 13:31:57 GMT",
+      "tweet_id": "2115436409788248346",
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 可以做的不仅仅是聊天！ 🤖\n\n从明天开始：30 天，30 个真实的 Grok Bot 使用案例。从学生到交易员，每天都有不同的领域。\n\n太平洋时间每天上午 10 点发布新一期。关注并开启通知！！ 🔔 \n\n你觉得怎么样？"
+    },
+    {
+      "text": "Driving my @Tesla model Y home from pickup, first ever ride, this car is absolutely amazing. @elonmusk your team has produced a masterpiece, FSD is incredible🙌🏻\n\nVideo",
+      "link": "https://x.com/BuckSexton/status/2115426953582760314#m",
+      "date": "Wed, 28 Oct 2026 12:54:23 GMT",
+      "tweet_id": "2115426953582760314",
+      "ctx_done": 1,
+      "text_zh": "第一次驾驶我的 @Tesla Model Y 从皮卡车回家，这辆车绝对是令人惊叹的。 @elonmusk 你的团队制作了一部杰作，FSD 令人难以置信🙌🏻\n\n视频"
+    },
+    {
+      "text": "RT by @elonmusk: Image",
+      "link": "https://x.com/cb_doge/status/2115410477971026426#m",
+      "date": "Wed, 28 Oct 2026 11:48:55 GMT",
+      "tweet_id": "2115410477971026426",
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：图片"
+    },
     {
       "text": "Try Grok @Bot\nVideo",
       "link": "https://x.com/elonmusk/status/2115353441954636214#m",
@@ -250,12 +433,33 @@
       "ctx_done": 1
     },
     {
+      "text": "One of the victims of the Zizian trans death cult was their elderly landlord. \n\nThey bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. \n\nThat deceased Zizian was honored in a U.S. Senate resolution about the \"epidemic of violence toward transgender people.\" It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. x.com/BrandonStraka/status/2…",
+      "link": "https://x.com/MrAndyNgo/status/2115243411506885114#m",
+      "date": "Wed, 28 Oct 2026 00:45:03 GMT",
+      "tweet_id": "2115243411506885114",
+      "ctx_done": 1,
+      "text_zh": "齐齐安跨性别死亡邪教的受害者之一是他们年迈的房东。 \n\n他们猛击他的头部，然后用刀和剑攻击他。在几乎没有力气的情况下，他成功射杀了他们，杀死了其中一人。 \n\n已故的齐齐安在美国参议院一项关于“针对跨性别者的暴力流行病”的决议中受到表彰。它是由美国民主党参议员马齐·广野（Mazie Hirono）和其他民主党人提出的。 x.com/BrandonStraka/status/2…"
+    },
+    {
       "text": "grok @bot 0.77.0 is now stable and rolling out!\n\n- permissions settings for your auto-review rules\n- pick which payment method bots use first in vault\n- bots can ask several questions on one card\n\nfull changelog: x.ai/changelog/bot",
       "link": "https://x.com/ericzakariasson/status/2115238537792815303#m",
       "date": "Wed, 28 Oct 2026 00:25:41 GMT",
       "tweet_id": "2115238537792815303",
       "ctx_done": 1,
       "text_zh": "grok @bot 0.77.0 现已稳定并推出！\n\n- 自动审核规则的权限设置\n- 选择机器人在金库中首先使用的付款方式\n- 机器人可以在一张卡片上提出多个问题\n\n完整变更日志：x.ai/changelog/bot"
+    },
+    {
+      "text": "Day 3 of turning Elon's posts into music.  Naturally, the reply to Padilla to 'Investigate your wiener' had to be the hook today!  \n\nTurn it up!!  What style should I do next? 🎸\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nInvestigate your wiener\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2114893417599914366#m",
+      "link": "https://x.com/CoffeeNGrit/status/2115217226580004871#m",
+      "date": "Tue, 27 Oct 2026 23:01:00 GMT",
+      "tweet_id": "2115217226580004871",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@SenAlexPadilla Investigate your wiener",
+        "text_zh": "@SenAlexPadilla 调查你的香肠"
+      },
+      "ctx_done": 1,
+      "text_zh": "将 Elon 的帖子变成音乐的第三天。  当然，今天对帕迪拉的“调查一下你的香肠”的回复一定是最吸引人的！  \n\n把它打开！  接下来我应该做什么风格？ 🎸\n\n视频\n  \n\n\n\n\n埃隆·马斯克 (@elonmusk)\n\n调查你的维纳\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2114893417599914366#m"
     },
     {
       "text": "i've gotten a lot of questions about how i manage my X account with grok bot, so i'm sharing my bot tibot today! he watches your mentions and:\n\n• finds every post about you or any keywords, tagged or not\n• gives one short, sorted digest a day (or hourly, your call)\n• skips spam and noise\n• translates non-English posts\n• can auto block trolls and abuse\n• never posts for you\n\ni still write all my posts and articles by hand but tibot has been very helpful with keeping me in the loop.\n\nhire tibot today!\n\nx.ai/bot/xZ4wRvomWqzCXnyYFr7…\n\nLink\n\n\n\ntibot by lauren\n\nWatches X for posts about you, or anything else you want to track, and sends a short, sorted digest on your schedule (daily by default), staying quiet...\nx.ai",
@@ -2385,209 +2589,6 @@
       "date": "Thu, 22 Oct 2026 09:05:00 GMT",
       "text_zh": "梅赛德斯以 7.8 亿美元的价格出售了其持有的特斯拉股份。如今，这 4% 的价值约为 560 亿美元。\n\n在下面的剪辑中，马斯克解释了梅赛德斯是如何到达那里的。美国政府向特斯拉提供了近 5 亿美元，他被直接问到这笔贷款是否拯救了公司。他说不。\n\n拯救它的是2009年5月戴姆勒一张5000万美元的支票。当时特斯拉的全部价值为5.5亿美元。\n\n“他们是唯一的。没有其他公司，没有任何其他实体可以让我们获得投资。”\n\n特斯拉提前十年偿还了政府 5 亿美元的利息和预付款罚金。他随信寄来了一封感谢信。\n\n“我不喜欢背负太多债务。纳税人支持特斯拉，我们应该尽快偿还他们。”\n\n梅赛德斯将 5000 万美元变成了 7.8 亿美元，并于 2014 年离开。\n\n那么，这是一笔巨大的投资，还是汽车行业历史上最昂贵的错误？\n\n视频",
       "tweet_id": "2113194901341085989",
-      "ctx_done": 1
-    },
-    {
-      "text": "James Talarico:\n\nThe least-Texan man in Texas\n\nVideo",
-      "link": "https://nitter.kareem.one/BasedMikeLee/status/2113087245544722459#m",
-      "date": "Thu, 22 Oct 2026 01:57:13 GMT",
-      "text_zh": "詹姆斯·塔拉里科：\n\n德克萨斯州最不像德克萨斯人的人\n\n视频",
-      "tweet_id": "2113087245544722459",
-      "ctx_done": 1
-    },
-    {
-      "text": "Today I early voted in Texas. Straight Republican. Dems are not worth the risk to all the great builders and projects here. Can't stop, won't stop.",
-      "link": "https://nitter.kareem.one/SERobinsonJr/status/2113084517674254688#m",
-      "date": "Thu, 22 Oct 2026 01:46:22 GMT",
-      "text_zh": "今天我提前在德克萨斯州投票。正直的共和党人。民主党不值得为这里所有伟大的建设者和项目冒风险。停不下来，不会停。",
-      "tweet_id": "2113084517674254688",
-      "ctx_done": 1
-    },
-    {
-      "text": "Talarico hates Texas\nVideo",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113081289570127971#m",
-      "date": "Thu, 22 Oct 2026 01:33:33 GMT",
-      "tweet_id": "2113081289570127971",
-      "quoted": {
-        "user": "america",
-        "text": "Democrat Nominee for U.S. Senate in Texas James Talarico calls for “a pathway for citizenship” for illegal aliens.\n\n10 million illegal aliens came into the country in just 4 years under Biden alone.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103250118782730240/img/wlOPT2T1vdwPuBwb.jpg",
-            "local": "2113081289570127971q_0.jpg"
-          }
-        ],
-        "text_zh": "德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科呼吁为非法移民提供“一条获得公民身份的途径”。\n\n仅在拜登执政的四年内，就有 1000 万非法移民进入美国。"
-      },
-      "ctx_done": 1,
-      "text_zh": "塔拉里科讨厌德克萨斯州\n视频"
-    },
-    {
-      "text": "In your own words …\nVideo",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113078348075209056#m",
-      "date": "Thu, 22 Oct 2026 01:21:51 GMT",
-      "tweet_id": "2113078348075209056",
-      "quoted": {
-        "user": "KanekoaTheGreat",
-        "text": "Every word is James Talarico’s.\n\n27 clips. 4 minutes. 2019–2026.\n\n“God is non-binary.”\n\n“…many more than two biological sexes. In fact, there are six.”\n\n“If you deny your child’s gender identity… it’s abusive for sure.”\n\n“There’s only one person who can determine a child’s gender identity, and that’s the child.”\n\n“I want to acknowledge that our trans community needs abortion care too.”\n\n“…the bill that would have denied gender-affirming health care to trans children… All these ideologies stem from this Christofascism movement.”\n\n“The way I fought for trans kids in the legislature is how I will fight for the U.S. Senate, and my position hasn’t changed.”\n\n“Prophetic voices like Jesus have helped me reckon with my own whiteness.”\n\n“It’s always rich to me that defund the police is considered off limits…”\n\n“Prison is violence.”\n\n“Tear down this secret police force.”\n\nAssault weapons ban? “Absolutely.”\n\nSend this to 10 Texas voters and tell them to vote today.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112952812502151168/img/IaLVPECGC_UmccLf.jpg",
-            "local": "2113078348075209056q_0.jpg"
-          }
-        ],
-        "text_zh": "每个字都是詹姆斯·塔拉里科的。\n\n27 个剪辑。 4分钟。 2019–2026。\n\n“上帝是非二元的。”\n\n“……生物性别远不止两种。事实上，有六种。”\n\n“如果你否认孩子的性别认同……这肯定是虐待行为。”\n\n“只有一个人可以决定孩子的性别认同，那就是孩子。”\n\n“我想承认我们的跨性别群体也需要堕胎护理。”\n\n“……该法案将拒绝向跨性别儿童提供性别肯定的医疗保健……所有这些意识形态都源于基督法西斯主义运动。”\n\n“我在立法机关为跨性别儿童争取的方式就是我在美国参议院争取的方式，我的立场没有改变。”\n\n“像耶稣这样的预言性声音帮助我认识到自己的白人身份。”\n\n“对我来说，取消对警察的资助总是被认为是禁止的……”\n\n“监狱就是暴力。”\n\n“摧毁这支秘密警察部队。”\n\n攻击性武器禁令？ “绝对地。”\n\n将此信息发送给 10 名德克萨斯州选民，并告诉他们今天投票。"
-      },
-      "ctx_done": 1,
-      "text_zh": "用你自己的话来说……\n视频"
-    },
-    {
-      "text": "James Talarico supported the Biden Border Crisis, attacked law enforcement during the BLM riots, and wants to end run oil and gas in Texas. \n\nHe is not moderate in the least.\n\nHis vote for six years in the Senate would be a disaster for Texas and the USA.\n\nVideo",
-      "link": "https://nitter.kareem.one/chiproytx/status/2113045479197950325#m",
-      "date": "Wed, 21 Oct 2026 23:11:15 GMT",
-      "text_zh": "詹姆斯·塔拉里科支持拜登边境危机，在 BLM 骚乱期间攻击执法部门，并希望结束德克萨斯州的石油和天然气开采。 \n\n他一点也不温和。\n\n他在参议院六年的投票对德克萨斯州和美国来说将是一场灾难。\n\n视频",
-      "tweet_id": "2113045479197950325",
-      "ctx_done": 1
-    },
-    {
-      "text": "Counting bumblebees one-by-one 😂",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113040898644967726#m",
-      "date": "Wed, 21 Oct 2026 22:53:03 GMT",
-      "tweet_id": "2113040898644967726",
-      "quoted": {
-        "user": "christopherrufo",
-        "text": "California hasn't built its bullet train because the state has required 130,000 pages of environmental reports, making absurd demands like:\n\n• counting bumblebees one by one\n• rebuilding woodrat stick huts\n• hiring specialized dogs to sniff lizard scat",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVLSnnxaMAAISTk.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVLSnnxaMAAISTk.jpg?name=orig",
-            "local": "2113040898644967726q_0.jpg"
-          }
-        ],
-        "text_zh": "加州还没有建造子弹头列车，因为该州要求提供 130,000 页的环境报告，提出了一些荒谬的要求，例如：\n\n• 一只一只地数大黄蜂\n• 重建木鼠棍小屋\n• 雇用专门的狗来嗅蜥蜴的粪便"
-      },
-      "ctx_done": 1,
-      "text_zh": "一只一只地数着大黄蜂😂"
-    },
-    {
-      "text": "Elon Musk hilariously explains why Optimus has to learn like a toddler, by playing, making mistakes and getting better over time 😂\n\n“In order for Optimus to get the training data we need, we actually need to make a lot of Optimi. So we need to make, I think, on the order of 10,000 or 20,000 bots and then have them do self-play. We're building up an Optimus academy where Optimus can practice doing a very wide range of tasks\n\nAnd then we can use that data in a flywheel to make it better and better at these various tasks, a big difference with Optimus versus the cars\n\nIs we don't have this vast fleet of cars from which we can gather training data. So with Optimus, we have to bootstrap it by making the robots and having them do self-play, which is really how a human learns to navigate the world\n\nYou can see this when you have a toddler and they grow up and they initially are wobbly and they don't know how to do things, and eventually they, they learn to wipe their own ass, which is a big milestone, because anyone who's had kids knows\n\nAnd then they learn to read and do all sorts of things and be able to do these things. And they learn this by playing\n\nAnd we actually need Optimus to play at scale in order to have it be really good at tasks in the real world”\n\nVideo",
-      "link": "https://nitter.kareem.one/XFreeze/status/2113040815954301204#m",
-      "date": "Wed, 21 Oct 2026 22:52:43 GMT",
-      "text_zh": "伊隆·马斯克搞笑地解释了为什么擎天柱必须像幼儿一样学习，通过玩耍、犯错误并随着时间的推移变得更好😂\n\n“为了让 Optimus 获得我们需要的训练数据，我们实际上需要制作大量 Optimus。所以我认为，我们需要制作 10,000 或 20,000 个机器人，然后让它们进行自我对战。我们正在建立一个 Optimus 学院，在那里 Optimus 可以练习执行非常广泛的任务\n\n然后我们可以在飞轮中使用这些数据，使其越来越好地完成这些不同的任务，这是擎天柱与汽车的巨大区别\n\n我们没有如此庞大的车队来收集训练数据吗？因此，对于擎天柱，我们必须通过制造机器人并让它们进行自我游戏来引导它，这实际上是人类学习驾驭世界的方式\n\n当你有一个蹒跚学步的孩子时，你可以看到这一点，他们长大了，他们最初摇摇晃晃，不知道如何做事，最终他们学会擦自己的屁股，这是一个重要的里程碑，因为任何有孩子的人都知道\n\n然后他们学习阅读和做各种事情并且能够做这些事情。他们通过玩耍来学习这一点\n\n我们实际上需要 Optimus 进行大规模的游戏，以便让它真正擅长现实世界中的任务。”\n\n视频",
-      "tweet_id": "2113040815954301204",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk on Optimus V3:\n\n\"We may be ready to release a video in about a month or two. I want to release a video where Optimus is doing things that aren't pre-programmed. A demo that you can believe. Another milestone we want to get to is integrating the AI5 chip in Optimus, which will be in April 2027.\"",
-      "link": "https://nitter.kareem.one/SawyerMerritt/status/2113026384977433003#m",
-      "date": "Wed, 21 Oct 2026 21:55:22 GMT",
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈 Optimus V3：\n\n“我们可能准备在大约一两个月内发布一个视频。我想发布一个视频，其中 Optimus 正在做一些未预先编程的事情。一个你可以相信的演示。我们想要实现的另一个里程碑是将 AI5 芯片集成到 Optimus 中，这将在 2027 年 4 月进行。”",
-      "tweet_id": "2113026384977433003",
-      "ctx_done": 1
-    },
-    {
-      "text": "Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To House Majority PAC zerohedge.com/political/bloo…\n\nLink\n\n\n\nBloomberg Drops $80 Million On Democrats&apos; Midterm Push: $24 Million To Everytown, $16 Million To...\n\nBloomberg is now the largest disclosed donor to both groups...\nzerohedge.com",
-      "link": "http://nitter.meowing.monster/zerohedge/status/2113022541748916413#m",
-      "date": "Wed, 21 Oct 2026 21:40:06 GMT",
-      "text_zh": "彭博社在民主党中期选举中投入 8000 万美元：2400 万美元给每个城镇，1600 万美元给众议院多数党政治行动委员会 Zerohedge.com/political/bloo…\n\n链接\n\n\n\n彭博社为民主党中期选举投入 8000 万美元：2400 万美元给每个城镇，1600 万美元给......\n\n布隆伯格现在是这两个团体最大的公开捐助者......\n零对冲网站",
-      "tweet_id": "2113022541748916413",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk on Optimus:\n\n\"We've started early production. The growth of Optimus is an S curve, but the initial curve is a shallow slope. We have the vast majority of the 1 million unit/year line installed at Fremont. There's still some things we need to tweak about the design. There's still quite a lot of work to do with the AI in the robot. I would expect that the AI, the electromechanical design, reliability, usage life, expect these issues to be solved by the end of next year. I remain convinced Optimus will be the biggest product on Earth. I do want to temper expectations that we still have a lot to get through, it will take about a year to get through that.\"",
-      "link": "https://nitter.kareem.one/SawyerMerritt/status/2113022539140087843#m",
-      "date": "Wed, 21 Oct 2026 21:40:06 GMT",
-      "text_zh": "伊隆·马斯克谈擎天柱：\n\n“我们已经开始早期生产。Optimus 的增长是 S 曲线，但初始曲线是一个浅斜率。我们在弗里蒙特安装了 100 万台/年的生产线中的绝大多数。我们在设计上仍然需要调整一些东西。机器人中的人工智能还有相当多的工作要做。我预计人工智能、机电设计、可靠性、使用寿命预计这些问题将在明年年底前得到解决。我仍然相信 Optimus 会成为地球上最大的产品，我确实想缓和我们还有很多事情要做的期望，大约需要一年的时间才能完成。”",
-      "tweet_id": "2113022539140087843",
-      "ctx_done": 1
-    },
-    {
-      "text": "Terafab will be the most epic chip-building exercise ever, producing one terawatt of SI compute annually\n\nJoin us tesla.com/careers/search/?si…\n\nVideo",
-      "link": "http://nitter.meowing.monster/TeslaRecruiting/status/2113015046372839581#m",
-      "date": "Wed, 21 Oct 2026 21:10:19 GMT",
-      "text_zh": "Terafab 将成为有史以来最史诗般的芯片制造活动，每年产生 1 太瓦的 SI 计算\n\n加入我们 tesla.com/careers/search/?si...\n\n视频",
-      "tweet_id": "2113015046372839581",
-      "ctx_done": 1
-    },
-    {
-      "text": "INSANE 🚨 100% of New York adult daycares that were audited WERE FRAUD\n“We audited 15 of these — There's no record of a single meal, activity, single hour of supervision”\nILLEGAL KICKBACKS were also reported with these adult daycares. How the scam works is the daycares will sign people up and offer them $1,000 per month cash\nThe adult daycare can bill about $120 per day to taxpayers. So they make about $3,600 per person and give the person $1,000 of it per month back as a kickback\nSo they pocket $2,600. The person with the Medicaid insurance gets $1,000\nTaxpayers are being robbed blind\nVideo",
-      "link": "http://nitter.meowing.monster/WallStreetApes/status/2113014616372764748#m",
-      "date": "Wed, 21 Oct 2026 21:08:37 GMT",
-      "tweet_id": "2113014616372764748",
-      "quoted": {
-        "user": "HHSResponse",
-        "text": "15 of 15 New York Social Adult Daycares audited yesterday showed no record of a single meal, activity, or hour of supervision — just attendance sheets.\n\nThese daycares are receiving millions from our Medicaid system and providing NOTHING in return —this is FRAUD!",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112970450942767104/img/Vk_SL9x6fA_md9nE.jpg",
-            "local": "2113014616372764748q_0.jpg"
-          }
-        ],
-        "text_zh": "昨天审计的纽约 15 个社会成人日托中心中有 15 个没有显示任何一顿饭、活动或一小时的监督记录——只有出勤表。\n\n这些日托中心从我们的医疗补助系统中获得了数百万美元，却没有提供任何回报——这是欺诈！"
-      },
-      "ctx_done": 1,
-      "text_zh": "INSANE 🚨 100% of New York adult daycares that were audited WERE FRAUD\n“We audited 15 of these — There's no record of a single meal, activity, single hour of supervision”\nILLEGAL KICKBACKS were also reported with these adult daycares. How the scam works is the daycares will sign people up and offer them $1,000 per month cash\nThe adult daycare can bill about $120 per day to taxpayers. So they make about $3,600 per person and give the person $1,000 of it per month back as a kickback\n所以他们口袋里有 2,600 美元。 The person with the Medicaid insurance gets $1,000\n纳税人被盲目抢劫\n视频"
-    },
-    {
-      "text": "Grok @Bot is like hiring a super smart and fun employee!\nVideo",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113011511429902609#m",
-      "date": "Wed, 21 Oct 2026 20:56:16 GMT",
-      "tweet_id": "2113011511429902609",
-      "quoted": {
-        "user": "bot",
-        "text": "Grok Bot can now build reports, memos, and dashboards.\n\nAsk Bot for a page, then edit it together or have Bot keep it up to date.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112992722529226752/img/3vCQwgTBFW-Svcnq.jpg",
-            "local": "2113011511429902609q_0.jpg"
-          }
-        ],
-        "text_zh": "Grok Bot 现在可以构建报告、备忘录和仪表板。\n\n向 Bot 请求一个页面，然后一起编辑它或让 Bot 保持最新状态。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 就像雇用了一位超级聪明且有趣的员工！\n视频"
-    },
-    {
-      "text": "People are buying FSD with a car attached, not the other way around",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113011056847278486#m",
-      "date": "Wed, 21 Oct 2026 20:54:28 GMT",
-      "tweet_id": "2113011056847278486",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "Tesla has just released its Q3 earnings results.\n\nHighlights:\n• EPS (non-GAAP): $0.48 (vs. $0.45 est)\n• Revenue: $28.05B (vs. $28.3B est)\n• Adjusted EBITDA: $3.90B\n• Active FSD Subscriptions: 1.74M, up 67% YoY from 1.04M\n• Net income (GAAP): $787M\n• Free cash flow: $1.53B\n• Capex: $4.73B\n• Cash & marketable securities: $45.45B, up 9% YoY",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVLg0bgXsAAnRtf.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVLg0bgXsAAnRtf.jpg?name=orig",
-            "local": "2113011056847278486q_0.jpg"
-          }
-        ],
-        "text_zh": "特斯拉刚刚发布了第三季度财报。\n\n亮点：\n• 每股收益（非公认会计准则）：0.48 美元（预计为 0.45 美元）\n• 收入：$28.05B（预计 $28.3B）\n• 调整后 EBITDA：$3.90B\n• 活跃 FSD 订阅：174 万，较去年同期的 104 万增长 67%\n• 净利润（公认会计原则）：7.87 亿美元\n• 自由现金流：$1.53B\n• 资本支出：$4.73B\n• 现金和有价证券：$45.45B，同比增长 9%"
-      },
-      "ctx_done": 1,
-      "text_zh": "人们购买 FSD 时会附带汽车，而不是相反"
-    },
-    {
-      "text": "Try Grok @Bot, you will love it!\n\n\nRobert Scoble (@Scobleizer)\n\nI've been GrokBot pilled.\n\nFirst of all, Grok knows me better than other bots, like Meta Muse, thanks to the 300,000 posts I've done here for 20 years. \n\nBut now that GrokBot @bot can read lists, it opens up powerful new personalized news capabilities. \n\nI've done this for about a year over on alignednews.com -- but last month my X API bill alone was $6,000. \n\nFor a couple of hundred a month you can do the same with lists, either you create, or ones other people have created.\n\nLast night I stuck in my \"best in AI\" list and had it write me this news page: docs.google.com/document/d/1…\n\nEvery hour my bot reads that list and builds me a new news page. Now I've only put about 10 minutes of effort into this so far. So it's not the prettiest thing you ever have seen, but my bots are working on other ways to present them to me. \n\nAnd you can do the same for any topic you care about. You just need to build a list, or find one that's already built and there are millions of lists here on X on literally any topic.\n\nPut your favorite football team onto a list, along with all your favorite journalists or other fans. Then have Grok bot read them for you. \n\nAnd that's just the start. You can have it write you a script based on the news, then copy that into, say, @Gemini_Notebook and then you get a podcast, or a video. Based on what people are saying on your topic here on X.\n\nThank you so much X for making lists far more powerful than they ever were before. Makes the thousands of hours I've put into mine over 20 years so much more useful.\n\nTips? \n\nStart small. You can chew through your tokens very quickly. It's amazing how good it is with a small list, like this one, which is what created the page up above: nitterk.kareem.one/i/lists/19535363366753… (Best AI accounts I've found out of 70,000 here on X).\n\nDon't over hit it. You only need your bot to read the list every hour. Maybe even less. If anything is really important it gets reshared into lists, so the bot doesn't need to hit it often to build you a really great set of things that are important to pay attention to.\n\nI've been begging for this capability for years. THANK YOU X!\n\nLink\n\nAligned News — Ultimate AI Intelligence\n\nAligned News — AI-powered intelligence from 63 curated X lists tracking 100,000+ accounts in AI, tech, and science.\nalignednews.com\n\n\n\n\n— https://nitter.kareem.one/Scobleizer/status/2112950764348014878#m",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113010364178964616#m",
-      "date": "Wed, 21 Oct 2026 20:51:43 GMT",
-      "text_zh": "尝试 Grok @Bot，你一定会喜欢的！\n\n\n罗伯特·斯考布尔 (@Scobleizer)\n\n我已经被 GrokBot 迷住了。\n\n首先，Grok 比 Meta Muse 等其他机器人更了解我，这要归功于我 20 年来在这里发布的 300,000 篇帖子。 \n\n但现在 GrokBot @bot 可以读取列表，它开启了强大的新个性化新闻功能。 \n\n我已经在alignednews.com 上这样做了大约一年多——但上个月我的X API 账单就达到了6,000 美元。 \n\n每月花几百美元，您可以对列表执行相同的操作，无论是您创建的还是其他人创建的。\n\n昨晚，我陷入了“人工智能最佳”列表中，并让它给我写了这个新闻页面：docs.google.com/document/d/1…\n\n我的机器人每小时都会读取该列表并为我构建一个新的新闻页面。到目前为止我只花了大约 10 分钟的时间。所以这不是你见过的最漂亮的东西，但我的机器人正在寻找其他方式将它们呈现给我。 \n\n您可以对您关心的任何主题执行相同的操作。您只需要建立一个列表，或者找到一个已经建立的列表，X 上有数以百万计的列表，几乎涵盖任何主题。\n\n将您最喜欢的足球队以及所有您最喜欢的记者或其他球迷列入名单。然后让 Grok 机器人为您朗读它们。 \n\n这只是开始。你可以让它根据新闻给你写一个脚本，然后将其复制到 @Gemini_Notebook 中，然后你就可以获得播客或视频。基于人们在 X 上就您的主题所说的内容。\n\n非常感谢 X 使列表比以前更加强大。让我 20 多年来投入的数千个小时变得更加有用。\n\n尖端？ \n\n从小处开始。你可以很快地咀嚼你的代币。令人惊讶的是，它有一个小列表，就像这个列表，它就是上面创建页面的内容：nitterk.kareem.one/i/lists/19535363366753…（我在 X 上从 70,000 个帐户中找到了最好的 AI 帐户）。\n\n别打得太过分了您只需要您的机器人每小时读取一次列表即可。也许更少。如果有什么事情真的很重要，它就会被重新共享到列表中，因此机器人不需要经常点击它来为您构建一组非常重要的需要注意的事情。\n\n多年来我一直在祈求这种能力。谢谢你X！\n\n链接\n\nAligned News — 终极人工智能智能\n\nAligned News — 来自 63 个精选 X 列表的人工智能驱动的情报，跟踪人工智能、技术和科学领域的 100,000 多个帐户。\n对齐新闻网\n\n\n\n\n— https://nitter.kareem.one/Scobleizer/status/2112950764348014878#m",
-      "tweet_id": "2113010364178964616",
-      "quoted": {
-        "user": "Scobleizer",
-        "text": "I've been GrokBot pilled.\n\nFirst of all, Grok knows me better than other bots, like Meta Muse, thanks to the 300,000 posts I've done here for 20 years. \n\nBut now that GrokBot @bot can read lists, it opens up powerful new personalized news capabilities. \n\nI've done this for about a year over on https://alignednews.com -- but last month my X API bill alone was $6,000. \n\nFor a couple of hundred a month you can do the same with lists, either you create, or ones other people have created.\n\nLast night I stuck in my \"best in AI\" list and had it write me this news page: https://docs.google.com/document/d/1PEfkIbGmvw_SIJJSDvJ-gSbBM5KwXWKVeimiMsQUW-Y/edit?usp=sharing\n\nEvery hour my bot reads that list and builds me a new news page. Now I've only put about 10 minutes of effort into this so far. So it's not the prettiest thing you ever have seen, but my bots are working on other ways to present them to me. \n\nAnd you can do the same for any topic you care about. You just need to build a list, or find one that's already built and there are millions of lists here on X on literally any topic.\n\nPut your favorite football team onto a list, along with all your favorite journalists or other fans. Then have Grok bot read them for you. \n\nAnd that's just the start. You can have it write you a script based on the news, then copy that into, say, @Gemini_Notebook and then you get a podcast, or a video. Based on what people are saying on your topic here on X.\n\nThank you so much X for making lists far more powerful than they ever were before. Makes the thousands of hours I've put into mine over 20 years so much more useful.\n\nTips? \n\nStart small. You can chew through your tokens very quickly. It's amazing how good it is with a small list, like this one, which is what created the page up above: https://x.com/i/lists/1953536336675365173?s=20 (Best AI accounts I've found out of 70,000 here on X).\n\nDon't over hit it. You only need your bot to read the list every hour. Maybe even less. If anything is really important it gets reshared into lists, so the bot doesn't need to hit it often to build you a really great set of things that are important to pay attention to.\n\nI've been begging for this capability for years. THANK YOU X!",
-        "text_zh": "我已经被 GrokBot 迷住了。\n\n首先，Grok 比 Meta Muse 等其他机器人更了解我，这要归功于我 20 年来在这里发布的 300,000 篇帖子。 \n\n但现在 GrokBot @bot 可以读取列表，它开启了强大的新个性化新闻功能。 \n\n我已经在 https://alignednews.com 上这样做了大约一年多——但上个月我的 X API 账单就达到了 6,000 美元。 \n\n每月几百个，您可以对列表执行相同的操作，无论是您创建的还是其他人创建的。\n\n昨晚，我陷入了“人工智能最佳”列表中，并让它给我写了这个新闻页面：https://docs.google.com/document/d/1PEfkIbGmvw_SIJJSDvJ-gSbBM5KwXWKVeimiMsQUW-Y/edit?usp=sharing\n\n我的机器人每小时都会读取该列表并为我构建一个新的新闻页面。到目前为止我只花了大约 10 分钟的时间。所以这不是你见过的最漂亮的东西，但我的机器人正在寻找其他方式将它们呈现给我。 \n\n您可以对您关心的任何主题执行相同的操作。您只需要建立一个列表，或者找到一个已经建立的列表，X 上有数以百万计的列表，几乎涵盖任何主题。\n\n将您最喜欢的足球队以及所有您最喜欢的记者或其他球迷列入名单。然后让 Grok 机器人为您朗读它们。 \n\n这只是开始。你可以让它根据新闻给你写一个脚本，然后将其复制到 @Gemini_Notebook 中，然后你就可以获得播客或视频。基于人们在 X 上就您的主题所说的内容。\n\n非常感谢 X 使列表比以前更加强大。让我 20 多年来投入的数千个小时变得更加有用。\n\n尖端？ \n\n从小处开始。你可以很快地咀嚼你的代币。令人惊讶的是，它对于一个小列表的效果是多么好，就像这个列表，它就是创建上面页面的内容：https://x.com/i/lists/1953536336675365173?s=20（我在 X 上从 70,000 个帐户中找到了最好的 AI 帐户）。\n\n别打得太过分了您只需要您的机器人每小时读取一次列表即可。也许更少。如果有什么事情真的很重要，它就会被重新共享到列表中，因此机器人不需要经常点击它来为您构建一组非常重要的需要注意的事情。\n\n多年来我一直在祈求这种能力。谢谢你X！"
-      },
       "ctx_done": 1
     }
   ]
