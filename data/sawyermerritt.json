@@ -1,8 +1,29 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-29T06:22:20Z",
-  "count": 176,
+  "updated_at": "2026-10-29T06:45:28Z",
+  "count": 177,
   "tweets": [
+    {
+      "text": "Tesla knows you won't want to use anything else after you try it.",
+      "link": "https://x.com/SawyerMerritt/status/2115649071251677290#m",
+      "date": "Thu, 29 Oct 2026 03:37:00 GMT",
+      "tweet_id": "2115649071251677290",
+      "quoted": {
+        "user": "ethanmckanna",
+        "text": "Robotaxi now gives people their first ride for free",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVw3i0QXUAEQob-.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVw3i0QXUAEQob-.jpg?name=orig",
+            "local": "2115649071251677290q_0.jpg"
+          }
+        ],
+        "text_zh": "Robotaxi 现在为人们提供免费的第一次乘车服务"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉知道您在尝试后就不会再想使用其他任何东西。"
+    },
     {
       "text": "On the go, in the know\n\nRobotaxi Live Activities now have a new look\n\nVideo",
       "link": "https://x.com/robotaxi/status/2115542830072705418#m",
@@ -115,7 +136,7 @@
         "text_zh": "42艘船静态点火完成。为 15 号航班做准备的星舰进行了全程六引擎静态点火，并点燃了一台猛禽发动机来模拟脱轨燃烧"
       },
       "ctx_done": 1,
-      "text_zh": "“并点燃了一个猛禽发动机来模拟脱轨燃烧。”\n离首次捕获 Starship 越来越近了！ 🚀\n视频\n视频"
+      "text_zh": "“并启动了一个猛禽发动机来模拟脱轨燃烧。”\n离首次捕获 Starship 越来越近了！ 🚀\n视频\n视频"
     },
     {
       "text": "This guy must of been very tired or something, because how do you see this popup and go \"yup, looks good to me.\"\nVideo",
@@ -136,7 +157,7 @@
         "text_zh": "驾驶员（意外）使用新的紧急驾车离开功能的第一个视频。\n\n看到这个家伙忽略所有警告和提示真是太疯狂了……很好奇对汽车和充电器造成了多少损坏。\n\n视频归功于@JLeshnick"
       },
       "ctx_done": 1,
-      "text_zh": "这家伙一定很累了或者怎么了，因为你怎么会看到这个弹出窗口并说“是的，我看起来不错”。\n视频"
+      "text_zh": "这家伙肯定很累了或者怎么了，因为你怎么会看到这个弹出窗口并说“是的，我看起来不错”。\n视频"
     },
     {
       "text": "Tesla has announced that they are officially coming to Vietnam, with the company's recruiting team posting five job openings for the market that span sales, service and charging.\n\n\"Our mission is to build a world of amazing abundance. We're looking for exceptional, ambitious people ready to help bring that mission to Vietnam.\" evwire.com/p/tesla-vietnam-l…\n\nLink\n\n\n\nTesla is officially coming to Vietnam, starts hiring for sales, service and charging roles\n\nTesla confirms Vietnam entry with five hiring openings across sales, service, purchasing, HR, and charging roles.\nevwire.com",

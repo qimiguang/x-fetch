@@ -1,8 +1,165 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-29T06:22:10Z",
+  "updated_at": "2026-10-29T06:45:21Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "In France, the government is the majority of the economy",
+      "link": "https://x.com/wholemars/status/2115677201932984821#m",
+      "date": "Thu, 29 Oct 2026 05:28:46 GMT",
+      "tweet_id": "2115677201932984821",
+      "ctx_done": 1,
+      "text_zh": "在法国，政府是经济的主体"
+    },
+    {
+      "text": "Notably, this new region includes SpaceX’s Hawthorne campus, the Tesla design center, and LAX (unclear when airport rides will turn on, but it is within the highlighted service area)",
+      "link": "https://x.com/wholemars/status/2115673391269351784#m",
+      "date": "Thu, 29 Oct 2026 05:13:38 GMT",
+      "tweet_id": "2115673391269351784",
+      "reply_to": "wholemars",
+      "ctx_done": 1,
+      "text_zh": "值得注意的是，这个新区域包括 SpaceX 的霍桑园区、特斯拉设计中心和洛杉矶国际机场（尚不清楚机场乘车何时开启，但它位于突出显示的服务区域内）"
+    },
+    {
+      "text": "if we’re bringing back design features from Apple’s past lets do this and the external battery indicator\nVideo",
+      "link": "https://x.com/wholemars/status/2115670685754503533#m",
+      "date": "Thu, 29 Oct 2026 05:02:53 GMT",
+      "tweet_id": "2115670685754503533",
+      "quoted": {
+        "user": "TrungTPhan",
+        "text": "Need Apple to bring back the pulsing LED light from the old MacBooks. \n\nApple filed a patent for it back in 2002 and the feature description was next level: “the LED light mimics the rhythm of breathing, which is psychologically appealing.\"",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115606957541543936/img/a8meEzXMhGQ2TYPm.jpg",
+            "local": "2115670685754503533q_0.jpg"
+          }
+        ],
+        "text_zh": "需要 Apple 恢复旧款 MacBook 上的脉冲 LED 灯。 \n\n苹果早在 2002 年就为其申请了专利，其功能描述更上一层楼：“LED 灯模仿呼吸节奏，这在心理上很有吸引力。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "如果我们要恢复苹果过去的设计功能，那就让我们这样做以及外部电池指示器\n视频"
+    },
+    {
+      "text": "Wow, this is really exciting! Waymo is going to be expanding their service into the South Bay area of LA, which is where I grew up. \n\nHope to see this extended further to include Palos Verdes and Long Beach.",
+      "link": "https://x.com/wholemars/status/2115669557038002487#m",
+      "date": "Thu, 29 Oct 2026 04:58:24 GMT",
+      "tweet_id": "2115669557038002487",
+      "ctx_done": 1,
+      "text_zh": "哇，这真的太令人兴奋了！ Waymo 将把他们的服务扩展到洛杉矶南湾地区，那是我长大的地方。 \n\n希望看到这一范围进一步扩大到帕洛斯维迪斯和长滩。"
+    },
+    {
+      "text": "Never, ever let them tell you it can't be done.\nVideo",
+      "link": "https://x.com/PalmerLuckey/status/2115658111113630066#m",
+      "date": "Thu, 29 Oct 2026 04:12:55 GMT",
+      "tweet_id": "2115658111113630066",
+      "quoted": {
+        "user": "dnapway",
+        "text": "Palmer Luckey says analysts claiming it's too expensive to manufacture in the US are lying to protect megacorps\n\n\"I think I have a more realistic view than almost anybody. One of the problems with all these analysts that are telling you that it's going to cost $37,000 to build an American iPhone or $100,000 to buy an American computer.\"\n\n\"They're trying to prop up a status quo that the megacorporations want to keep going. They want to outsource everything. They want to hire cheaper non-American labor.\" \n\n\"They are willing to say and do anything to convince you that it can't be fixed, that it can't come back, that America is this helpless, neutered, post-relevant empire, and it is just not the case.\"\n\n\"How do I know that? Because I have to make stuff in America every day because I work in the defense industry. The stuff that Anduril makes every day is not actually that different from a computer. My drones are basically computers. They have memory, a GPU, a CPU, sensors, batteries, a rugged integration.\"\n\n\"The only difference between an Anduril attack drone and a laptop is a keyboard and a screen. That is not that hard to figure out, especially for a guy like me who started Oculus and comes from the consumer electronics space.\" \n\n\"We're not going to let people lie about what America can and can't do anymore. We're just going to do it.\"",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115526522912358400/img/OUn6v8zIuv_gro3L.jpg",
+            "local": "2115658111113630066q_0.jpg"
+          }
+        ],
+        "text_zh": "帕尔默·拉基 (Palmer Luckey) 表示，分析师声称在美国制造成本太高，这是为了保护大型企业而撒谎\n\n“我认为我比几乎任何人都有更现实的观点。所有这些分析师的问题之一是，他们告诉你，制造一部美国 iPhone 需要花费 37,000 美元，购买一台美国电脑需要花费 100,000 美元。”\n\n“他们试图维持巨型企业想要继续发展的现状。他们想要外包一切。他们想要雇用更便宜的非美国劳动力。” \n\n“他们愿意说、做任何事来让你相信，它无法修复，它无法卷土重来，美国是一个无助的、被阉割的、后相关的帝国，但事实并非如此。”\n\n“我怎么知道这一点？因为我每天都必须在美国制造东西，因为我在国防工业工作。Anduril 每天制造的东西实际上与计算机没有什么不同。我的无人机基本上就是计算机。它们有内存、GPU、CPU、传感器、电池和坚固的集成。”\n\n“Anduril 攻击无人机和笔记本电脑之间的唯一区别是键盘和屏幕。这并不难理解，特别是对于像我这样创立 Oculus 并来自消费电子领域的人来说。” \n\n“我们不会再让人们在美国能做什么和不能做什么的问题上撒谎。我们只会这么做。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "永远、永远不要让他们告诉你这是不可能的。\n视频"
+    },
+    {
+      "text": "“First one’s on me” said the drug dealer",
+      "link": "https://x.com/AIDRIVR/status/2115647707641717031#m",
+      "date": "Thu, 29 Oct 2026 03:31:34 GMT",
+      "tweet_id": "2115647707641717031",
+      "quoted": {
+        "user": "ethanmckanna",
+        "text": "Robotaxi now gives people their first ride for free",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVw3i0QXUAEQob-.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVw3i0QXUAEQob-.jpg?name=orig",
+            "local": "2115647707641717031q_0.jpg"
+          }
+        ],
+        "text_zh": "Robotaxi 现在为人们提供免费的第一次乘车服务"
+      },
+      "ctx_done": 1,
+      "text_zh": "毒贩说：“第一个就在我身上”"
+    },
+    {
+      "text": "If you look closely enough, breakthroughs in everything are accelerating exponentially. \nAn exponential always starts off looking small.",
+      "link": "https://x.com/elonmusk/status/2115640651517939785#m",
+      "date": "Thu, 29 Oct 2026 03:03:32 GMT",
+      "tweet_id": "2115640651517939785",
+      "quoted": {
+        "user": "m_goes_distance",
+        "text": "this might be my last normal tweet before biotech goes vertical\n\ni'm not a whistleblower. I don't work at Lilly, Novo or any of the big labs\n\nbut there is a massive shift happening in human biology right now. \n\nit's sitting in press releases and almost nobody reads them\n\nthe last 6 months alone:\n\n- a once-daily pill roughly doubled median survival in metastatic pancreatic cancer (13.2 vs 6.6 months)\n- a one-time gene editing infusion cut hereditary angioedema attacks 87%, and 62% of patients stayed attack-free and off all other prevention for 6 months\n- a one-time gene edit for cholesterol dropped LDL up to 62%, and it held for over a year\n- a personalized mrna vaccine beat keytruda alone in a 1,137 patient melanoma phase 3\n- retatrutide hit ~28% weight loss in a phase 3\n- an ai-designed drug entered phase 3\n- a pill that regrows hair passed its second phase 3\n- an immunotherapy that could let some rectal cancer patients skip surgery, chemo and radiation just got fda approved\n- a man lived 271 days off dialysis on a pig kidney\n- human cells were caught passing chromosome-sized chunks of DNA to their neighbors, and it changes how the neighbors behave\n\nwe are on the verge of an era where the human body is a software problem and the update cycle gets shorter everyday\n\nstick around, it's going to get weird\n\nbio/acc",
+        "text_zh": "这可能是我在生物技术垂直发展之前的最后一条正常推文\n\n我不是举报人。我不在 Lilly、Novo 或任何大型实验室工作\n\n但人类生物学现在正在发生巨大的转变。 \n\n它出现在新闻稿中，但几乎没有人阅读它们\n\n仅过去 6 个月：\n\n- 每日一次的药物可使转移性胰腺癌的中位生存期大约增加一倍（13.2 个月 vs 6.6 个月）\n- 一次性基因编辑输注可减少 87% 的遗传性血管水肿发作，62% 的患者在 6 个月内保持无发作且未采取任何其他预防措施\n- 一次胆固醇基因编辑将 LDL 降低至 62%，并保持一年多\n- 在 1,137 名黑色素瘤 3 期患者中，个性化 mRNA 疫苗单独击败了 Keytruda\n- 瑞他鲁肽在第 3 阶段实现约 28% 的体重减轻\n- 人工智能设计的药物进入第三阶段\n- 一种使头发再生的药丸通过了第二阶段 3\n- 一种可以让一些直肠癌患者跳过手术、化疗和放疗的免疫疗法刚刚获得 FDA 批准\n- 一名男子靠猪肾透析，存活了 271 天\n- 人类细胞被发现将染色体大小的 DNA 块传递给邻居，这改变了邻居的行为方式\n\n我们正处于一个时代的边缘，人体是一个软件问题，更新周期每天都在缩短\n\n坚持下去，事情会变得很奇怪\n\n生物/ACC"
+      },
+      "ctx_done": 1,
+      "text_zh": "如果你足够仔细地观察，一切的突破都在呈指数级加速。 \n指数总是一开始看起来很小。"
+    },
+    {
+      "text": "You can now take your first Tesla Robotaxi ride for free",
+      "link": "https://x.com/wholemars/status/2115638406613233706#m",
+      "date": "Thu, 29 Oct 2026 02:54:37 GMT",
+      "tweet_id": "2115638406613233706",
+      "quoted": {
+        "user": "ethanmckanna",
+        "text": "Robotaxi now gives people their first ride for free",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVw3i0QXUAEQob-.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVw3i0QXUAEQob-.jpg?name=orig",
+            "local": "2115638406613233706q_0.jpg"
+          }
+        ],
+        "text_zh": "Robotaxi 现在为人们提供免费的第一次乘车服务"
+      },
+      "ctx_done": 1,
+      "text_zh": "您现在可以免费乘坐第一次 Tesla Robotaxi"
+    },
+    {
+      "text": "As the prophecy foretold, Starship 42 will be the first tower catch\nVideo\nVideo",
+      "link": "https://x.com/elonmusk/status/2115634093949911506#m",
+      "date": "Thu, 29 Oct 2026 02:37:29 GMT",
+      "tweet_id": "2115634093949911506",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475875122569216/img/05QhG1ixlpBhow6m.jpg",
+            "local": "2115634093949911506q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475945687535617/img/iL0aHe_7d4gDHl_s.jpg",
+            "local": "2115634093949911506q_1.jpg"
+          }
+        ],
+        "text_zh": "42艘船静态点火完成。为 15 号航班做准备的星舰进行了全程六引擎静态点火，并点燃了一台猛禽发动机来模拟脱轨燃烧"
+      },
+      "ctx_done": 1,
+      "text_zh": "正如预言所预言的，Starship 42 将成为第一个塔式捕获物\n视频\n视频"
+    },
+    {
+      "text": "RT by @wholemars: Image",
+      "link": "https://x.com/americanamemes/status/2115632649331220630#m",
+      "date": "Thu, 29 Oct 2026 02:31:44 GMT",
+      "tweet_id": "2115632649331220630",
+      "ctx_done": 1,
+      "text_zh": "RT @wholemars：图片"
+    },
     {
       "text": "The Duo is great for consuming content. The 18 Pro is great for creating content.\n\nI'd go with the 18 Pro.",
       "link": "https://x.com/SawyerMerritt/status/2115616332628562236#m",
@@ -76,7 +233,7 @@
       "text_zh": "出色的营销。\n视频"
     },
     {
-      "text": "I have an idea for how we can bring that down to 0 over time\n\n\nSan Francisco Chronicle (@sfchronicle)\n\nAmerica once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage. sfchronicle.com/projects/202…\n\nLink\n\n\n\nAmerica waged war on drunk driving. Now, a new epidemic is taking hold\n\nAmerica once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage.\nsfchronicle.com\n\n\n\n\n— https://nitter.kareem.one/sfchronicle/status/2115468671531282494#m",
+      "text": "I have an idea for how we can bring that down to 0 over time\n\n\nSan Francisco Chronicle (@sfchronicle)\n\nAmerica once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage. sfchronicle.com/projects/202…\n\nLink\n\n\n\nAmerica waged war on drunk driving. Now, a new epidemic is taking hold\n\nAmerica once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage.\nsfchronicle.com\n\n\n\n\n— http://nitter.meowing.monster/sfchronicle/status/2115468671531282494#m",
       "link": "https://x.com/wholemars/status/2115606542875771358#m",
       "date": "Thu, 29 Oct 2026 00:48:00 GMT",
       "tweet_id": "2115606542875771358",
@@ -269,6 +426,19 @@
       },
       "ctx_done": 1,
       "text_zh": "我们的@starlink 安装已完成 44%。 \n（丹·奥尔洛夫斯基，如果你正在读这篇文章，那么每 100 个中有 44 个。）\n视频"
+    },
+    {
+      "text": "The problems Neuralink are solving are almost “biblical in proportion.”\n“The lame can walk. The mute can speak.”\n— Thrive Capital’s Dr. Nworah Ayogu\n@elonmusk\nVideo",
+      "link": "https://x.com/sourceryy/status/2115540638997590333#m",
+      "date": "Wed, 28 Oct 2026 20:26:07 GMT",
+      "tweet_id": "2115540638997590333",
+      "quoted": {
+        "user": "neuralink",
+        "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
+        "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM 的成绩，WER 为 5.8%。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Neuralink 正在解决的问题几乎是“符合圣经的”。\n“瘸子能走路，哑巴能说话。”\n— Thrive Capital 的 Nworah Ayogu 博士\n@埃隆马斯克\n视频"
     },
     {
       "text": "We address the limiting factor",
@@ -2456,179 +2626,6 @@
       },
       "ctx_done": 1,
       "text_zh": "大规模的外国影响力行动告诉我们每天在社交媒体上看到的内容"
-    },
-    {
-      "text": "Pretty insane that Saudi Arabia keeps sending spies to infiltrate our tech companies",
-      "link": "http://nitter.meowing.monster/wholemars/status/2112355448376742042#m",
-      "date": "Tue, 20 Oct 2026 01:29:19 GMT",
-      "tweet_id": "2112355448376742042",
-      "quoted": {
-        "user": "AndrewCurran_",
-        "text": "From the US government's detention memo arguing that the former OpenAI engineer accused in the office bugging case should remain in custody:",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVA-uZRagAARF8c.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVA-uZRagAARF8c.jpg?name=orig",
-            "local": "2112355448376742042q_0.jpg"
-          }
-        ],
-        "text_zh": "美国政府的拘留备忘录认为，在办公室窃听案中被指控的前 OpenAI 工程师应该继续被拘留："
-      },
-      "ctx_done": 1,
-      "text_zh": "沙特阿拉伯不断派遣间谍渗透我们的科技公司，这真是太疯狂了"
-    },
-    {
-      "text": "How about using AI to turn it back into a mall?",
-      "link": "http://nitter.meowing.monster/wholemars/status/2112351372977008971#m",
-      "date": "Tue, 20 Oct 2026 01:13:07 GMT",
-      "tweet_id": "2112351372977008971",
-      "quoted": {
-        "user": "pitdesi",
-        "text": "Vague but intriguing re Westfield mall in SF\n\n“Our client is interested, in partnership with a known AI Lab, in developing the mall property… into an AI-controlled living space,” \n\nthe planned facility’s “proprietary AI design can utilize resources, such as dedicating water to a rooftop garden. This would then be donated to a nonprofit focusing on food insecurity for use in transient shelters.”",
-        "text_zh": "旧金山韦斯特菲尔德购物中心的模糊但有趣\n\n“我们的客户有兴趣与一家知名的人工智能实验室合作，将购物中心物业开发成人工智能控制的生活空间，” \n\n计划中的设施的“专有人工智能设计可以利用资源，例如为屋顶花园提供专用水。然后将其捐赠给一家专注于粮食不安全问题的非营利组织，用于临时避难所。”"
-      },
-      "ctx_done": 1,
-      "text_zh": "用人工智能把它变回购物中心怎么样？"
-    },
-    {
-      "text": "Man Uber doing this sucks. They were the disruptor a couple of years ago and now are doing the exact same thing the cab business did with them. \nYou can’t stop AV adoption though. Waymo is growing at an incredible pace. Tesla Cybercab is also getting very popular and is probably by far the best rider experience ever. There are others like Zoox providing a great service too. All these services are better than Uber by a long shot.\nUber had an AV division doing pretty good too until 2018 when one of their cars with a safety driver killed a pedestrian. I mean Uber was still very shady with the Anthony Levandowsky stuff. But them trying to steal Google’s trade secrets and everything did tell us that they were serious. But that crash basically ended their whole AV program. Then over the next 10 years they’ve become this vile company lobbying against AVs because they failed at solving self driving.\nTravis Kalanick was right that Uber won’t survive if they don’t pivot to self driving completely and that is exactly what is happening right now",
-      "link": "http://nitter.meowing.monster/WorldlyReviewer/status/2112348954444632258#m",
-      "date": "Tue, 20 Oct 2026 01:03:30 GMT",
-      "tweet_id": "2112348954444632258",
-      "quoted": {
-        "user": "wholemars",
-        "text": "Uber is so fucking shady. \n\nThe so called “People’s First Transportation Alliance” is actually funded by Uber. A more accurate name would have been the Uber First Transportation Alliance. \n\nThey are hiding the fact that they’re funding this anti-autonomy group, and listed a bunch of “founding members” of the group that had no clue their names were being used! \n\nThey just organized a protest against a bill that would bring autonomous driving to DC in 2028, demanding human drivers be required well past then. DC is such a critical city for autonomy, because we need congress to be able to try the technology for themselves. The fact that they can’t is holding federal autonomy legislation back. \n\nFuck Uber and everyone involved in this group. They want people to die so they can make money continuing to exploit their drivers.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVA1-X5aEAAUaoT.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVA1-X5aEAAUaoT.jpg?name=orig",
-            "local": "2112348954444632258q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVA1-YFbkAAtUPc.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVA1-YFbkAAtUPc.jpg?name=orig",
-            "local": "2112348954444632258q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVA1-X4b0AA6XWI.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVA1-X4b0AA6XWI.jpg?name=orig",
-            "local": "2112348954444632258q_2.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVA1-X6bIAAtR7R.jpg?name=orig",
-            "local": "2112348954444632258q_3.jpg"
-          }
-        ],
-        "text_zh": "Uber实在是太阴暗了。 \n\n所谓的“人民第一交通联盟”实际上是由Uber资助的。更准确的名称应该是“优步第一交通联盟”。 \n\n他们隐瞒了他们正在资助这个反自治团体的事实，并列出了该团体的一群“创始成员”，他们不知道他们的名字被使用了！ \n\n他们刚刚组织了一场抗议活动，反对一项将于 2028 年在华盛顿特区引入自动驾驶的法案，要求早在那时就需要人类司机。华盛顿特区是一个对于自治至关重要的城市，因为我们需要国会能够亲自尝试这项技术。他们做不到的事实阻碍了联邦自治立法。 \n\n去他妈的 Uber 和这个组织里的每个人。他们希望人们死掉，这样他们就可以继续剥削司机来赚钱。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Man Uber 这样做很糟糕。几年前，他们是颠覆者，现在正在做与出租车业务完全相同的事情。 \n但你无法阻止 AV 的采用。 Waymo 正在以令人难以置信的速度发展。 Tesla Cyber​​cab 也变得非常受欢迎，并且可能是迄今为止最好的乘坐体验。还有像 Zoox 这样的其他公司也提供优质的服务。所有这些服务都远远优于 Uber。\nUber 的 AV 部门也做得相当不错，直到 2018 年，他们的一辆配备安全驾驶员的汽车撞死了一名行人。我的意思是，优步在安东尼·莱万多夫斯基的事情上仍然很阴暗。但他们试图窃取谷歌的商业机密，一切都告诉我们他们是认真的。但那次事故基本上结束了他们的整个 AV 项目。然后在接下来的十年里，他们变成了一家邪恶的公司，游说反对自动驾驶汽车，因为他们未能解决自动驾驶问题。\n特拉维斯·卡兰尼克 (Travis Kalanick) 是对的，如果 Uber 不完全转向自动驾驶，他们就无法生存，而这正是目前正在发生的情况"
-    },
-    {
-      "text": "Tesla via their new Annual Report that was released today: \n\n“Readied V3 Optimus for mass production” 👀",
-      "link": "http://nitter.meowing.monster/niccruzpatane/status/2112345507209052373#m",
-      "date": "Tue, 20 Oct 2026 00:49:49 GMT",
-      "text_zh": "特斯拉通过今天发布的新年度报告： \n\n“V3 Optimus 已做好量产准备”👀",
-      "tweet_id": "2112345507209052373",
-      "ctx_done": 1
-    },
-    {
-      "text": "It’s not a ton of money today. How much do you think it’ll be worth 18 years from now, post-AGI and ASI?",
-      "link": "http://nitter.meowing.monster/wholemars/status/2112340122285084968#m",
-      "date": "Tue, 20 Oct 2026 00:28:25 GMT",
-      "tweet_id": "2112340122285084968",
-      "quoted": {
-        "user": "sophiadew",
-        "text": "sure $150 worth of spacex shares isn't a lot of money. but ownership matters!! if we want the next generation to be pro-progress, giving them a stake in American innovation is the best way to do that",
-        "text_zh": "当然，价值 150 美元的 spacex 股票并不是很多钱。但所有权很重要！如果我们希望下一代积极进步，让他们参与美国创新是最好的方法"
-      },
-      "ctx_done": 1,
-      "text_zh": "今天这不是一大笔钱。您认为 18 年后，在 AGI 和 ASI 之后，它的价值是多少？"
-    },
-    {
-      "text": "The ramp was bigger than it looked",
-      "link": "http://nitter.meowing.monster/artsytartsi/status/2112335022900568277#m",
-      "date": "Tue, 20 Oct 2026 00:08:09 GMT",
-      "text_zh": "坡道比看上去要大",
-      "tweet_id": "2112335022900568277",
-      "ctx_done": 1
-    },
-    {
-      "text": "Dear @elonmusk We don’t need flying cars, bruh! We need bigger cars, bruh! We are stacked in here like sardines, bruh! 😅🫶 #TeslaRoadster #Tesla\n\nVideo",
-      "link": "http://nitter.meowing.monster/CranzillaX/status/2112326663723942333#m",
-      "date": "Mon, 19 Oct 2026 23:34:56 GMT",
-      "text_zh": "亲爱的@elonmusk 我们不需要飞行汽车，兄弟！我们需要更大的汽车，兄弟！我们像沙丁鱼一样堆在这里，兄弟！ 😅🫶 #TeslaRoadster #特斯拉\n\n视频",
-      "tweet_id": "2112326663723942333",
-      "ctx_done": 1
-    },
-    {
-      "text": "My favorite company in the current @YCombinator batch is the @DreamscaleLabs (YC F26) team. Four college dropouts Eric, Chris, Kevin, and Antoine working on cloud inference for robotics. This is almost all done at the edge right now, but will be a ginormous market in a few years as humanoids and other robots ramp up and will wanna run real-time inference that is far more powerful than can be done on the edge. Go team! 🤓👌\n\n@eternaI_entropy, @KDog112358, @pentestduck, @AntoineNeedGPUs",
-      "link": "http://nitter.meowing.monster/PhilipJohnston/status/2112323554608079145#m",
-      "date": "Mon, 19 Oct 2026 23:22:35 GMT",
-      "text_zh": "当前@YCombinator 批次中我最喜欢的公司是@DreamscaleLabs (YC F26) 团队。四名大学辍学生埃里克 (Eric)、克里斯 (Chris)、凯文 (Kevin) 和安托万 (Antoine) 从事机器人云推理工作。目前，这几乎都是在边缘完成的，但随着类人机器人和其他机器人的崛起，几年后这将是一个巨大的市场，并且会想要运行比边缘更强大的实时推理。组队去吧！ 🤓👌\n\n@eternaI_entropy、@KDog112358、@pentestduck、@AntoineNeedGPUs",
-      "tweet_id": "2112323554608079145",
-      "ctx_done": 1
-    },
-    {
-      "text": "My first Grok Bot project is a success! 😇\nIt helped me automate an account you can follow that simply updates a Stephenson Indicator™️ chart daily. Wish this had been a thing 6 years ago…",
-      "link": "http://nitter.meowing.monster/ICannot_Enough/status/2112319249335062660#m",
-      "date": "Mon, 19 Oct 2026 23:05:28 GMT",
-      "tweet_id": "2112319249335062660",
-      "quoted": {
-        "user": "StephensonIndTM",
-        "text": "Today’s Stephenson Indicator™️ was $956.40.\n$TSLA closed today (Oct 19) at $368.06, a 61.5% discount to Stephenson Indicator™️.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBwz1ZXMAI3KGc.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBwz1ZXMAI3KGc.png?name=orig",
-            "local": "2112319249335062660q_0.jpg"
-          }
-        ],
-        "text_zh": "今天的史蒂芬森指标™️ 为 956.40 美元。\n$TSLA 今天（10 月 19 日）收盘价为 368.06 美元，较 Stephenson Indicator™️ 折让 61.5%。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我的第一个 Grok Bot 项目取得了成功！ 😇\n它帮助我自动化了一个您可以关注的帐户，每天只需更新 Stephenson Indicator™️ 图表即可。希望这是六年前的事……"
-    },
-    {
-      "text": "This is a joke. One of the most talented ethical hackers and cybersecurity experts ON THE PLANET gets denied. I can't with this.",
-      "link": "https://nitter.kareem.one/blackroomsec/status/2112312990900851026#m",
-      "date": "Mon, 19 Oct 2026 22:40:36 GMT",
-      "tweet_id": "2112312990900851026",
-      "quoted": {
-        "user": "HackingLZ",
-        "text": "My personal one got denied 😂",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBn2cnWkAAoVvC.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBn2cnWkAAoVvC.jpg?name=orig",
-            "local": "2112312990900851026q_0.jpg"
-          }
-        ],
-        "text_zh": "我个人的被拒绝了😂"
-      },
-      "ctx_done": 1,
-      "text_zh": "这是一个笑话。地球上最有才华的道德黑客和网络安全专家之一被拒绝了。我不能这样。"
-    },
-    {
-      "text": "It was a great honor to work on Trump Accounts. Consider joining @ndstudio to work on much more just like it",
-      "link": "http://nitter.meowing.monster/as400495/status/2111998678244245821#m",
-      "date": "Mon, 19 Oct 2026 01:51:38 GMT",
-      "tweet_id": "2111998678244245821",
-      "quoted": {
-        "user": "farzyness",
-        "text": "Elon Musk says he'll be giving shares of his companies directly to the public - most likely through the Trump Account mechanism.\n\nUniversal Basic Capital has arrived, folks.\n\nWe are officially in the future.",
-        "text_zh": "埃隆·马斯克表示，他将直接向公众出售其公司的股票——很可能是通过特朗普账户机制。\n\n各位，通用基本资本已经到来。\n\n我们正式处于未来。"
-      },
-      "ctx_done": 1,
-      "text_zh": "能够为特朗普账户工作是我的荣幸。考虑加入@ndstudio 从事更多类似的工作"
     }
   ]
 }
