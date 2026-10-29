@@ -1,8 +1,29 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-29T02:02:32Z",
+  "updated_at": "2026-10-29T02:14:21Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "True",
+      "link": "https://x.com/elonmusk/status/2115624652454154559#m",
+      "date": "Thu, 29 Oct 2026 01:59:58 GMT",
+      "tweet_id": "2115624652454154559",
+      "quoted": {
+        "user": "TheCaptainEli",
+        "text": "Notice how the headlines work.\n\nA Toyota crashes: \"Driver injured in crash.\"\nA Ford crashes: \"Two cars collide on highway.\"\nA BMW crashes: \"Accident on Route 1.\"\n\nA Tesla crashes: \"TESLA crashes.\"\n\nNot the driver. Not \"a car.\" The brand, in the headline, every single time.\n\nMillions of crashes happen on the roads every year, and almost none come with a brand name. But when it's a Tesla, legacy media suddenly cares which car it was.\n\nMeanwhile, Tesla publishes its own safety data every quarter. With Autopilot engaged, Teslas go far more miles between crashes than the US average.\n\nThat's not journalism. That's a campaign.\n\nThe cars keep getting safer. The headlines just keep getting louder.",
+        "text_zh": "注意标题是如何运作的。\n\n一辆丰田车祸：“司机在车祸中受伤。”\n一辆福特车祸：“两辆车在高速公路上相撞。”\n一辆宝马撞车：“1 号公路上发生事故。”\n\n特斯拉撞车：“特斯拉撞车了。”\n\n不是司机。不是“汽车”。品牌每次都会出现在头条新闻中。\n\n每年道路上都会发生数百万起车祸，而且几乎没有一起事故是有名的。但当它是特斯拉时，传统媒体突然关心它是什么车。\n\n与此同时，特斯拉每个季度都会发布自己的安全数​​据。在启用自动驾驶仪的情况下，特斯拉的事故间隔里程远高于美国平均水平。\n\n那不是新闻业。那是一场运动。\n\n汽车变得越来越安全。头条新闻越来越响亮。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真的"
+    },
+    {
+      "text": "BREAKING: Starlink rollout for 312 schools completed in El Alto, Bolivia, mayor announces.\n\nThe government-backed project reaches schools across all 14 districts. Starlink is changing children’s lives by giving them access to knowledge and education for a brighter future.♥️\n\nVideo",
+      "link": "https://x.com/cb_doge/status/2115582176532332636#m",
+      "date": "Wed, 28 Oct 2026 23:11:11 GMT",
+      "tweet_id": "2115582176532332636",
+      "ctx_done": 1,
+      "text_zh": "突发新闻：玻利维亚埃尔阿尔托市市长宣布，Starlink 已在 312 所学校推出。\n\n这个由政府支持的项目覆盖了所有 14 个地区的学校。 Starlink 正在改变孩子们的生活，让他们获得知识和教育，创造更光明的未来。♥️\n\n视频"
+    },
     {
       "text": "Hmm",
       "link": "https://x.com/elonmusk/status/2115561519807402189#m",
@@ -433,7 +454,7 @@
       "ctx_done": 1
     },
     {
-      "text": "One of the victims of the Zizian trans death cult was their elderly landlord. \n\nThey bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. \n\nThat deceased Zizian was honored in a U.S. Senate resolution about the \"epidemic of violence toward transgender people.\" It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. nitter.mizuki.st/BrandonStraka/status/2…",
+      "text": "One of the victims of the Zizian trans death cult was their elderly landlord. \n\nThey bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. \n\nThat deceased Zizian was honored in a U.S. Senate resolution about the \"epidemic of violence toward transgender people.\" It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. nitterk.kareem.one/BrandonStraka/status/2…",
       "link": "https://x.com/MrAndyNgo/status/2115243411506885114#m",
       "date": "Wed, 28 Oct 2026 00:45:03 GMT",
       "tweet_id": "2115243411506885114",
@@ -449,7 +470,7 @@
       "text_zh": "grok @bot 0.77.0 现已稳定并推出！\n\n- 自动审核规则的权限设置\n- 选择机器人在金库中首先使用的付款方式\n- 机器人可以在一张卡片上提出多个问题\n\n完整变更日志：x.ai/changelog/bot"
     },
     {
-      "text": "Day 3 of turning Elon's posts into music.  Naturally, the reply to Padilla to 'Investigate your wiener' had to be the hook today!  \n\nTurn it up!!  What style should I do next? 🎸\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nInvestigate your wiener\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2114893417599914366#m",
+      "text": "Day 3 of turning Elon's posts into music.  Naturally, the reply to Padilla to 'Investigate your wiener' had to be the hook today!  \n\nTurn it up!!  What style should I do next? 🎸\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nInvestigate your wiener\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2114893417599914366#m",
       "link": "https://x.com/CoffeeNGrit/status/2115217226580004871#m",
       "date": "Tue, 27 Oct 2026 23:01:00 GMT",
       "tweet_id": "2115217226580004871",
@@ -671,7 +692,7 @@
       "text_zh": "真的"
     },
     {
-      "text": "co-wrote a piece on how we're using @bot to supercharge deals at @SpaceXSI. We delegate \"jobs\" to specialized shared bots so they can collaborate independently, like an agent factory. \n\nhere's our bot team:\n- Account Intel Bot finds prospects, preps for calls, and manages opp tracking\n- Quote Bot builds pricing proposals and order forms\n- Deal Bot (my baby) reviews discounts, drafts terms, routes approvals, and checks signed contracts so reps can close faster\n\nDeal Bot has already helped my team save hundreds of hours this month. more bot teammates coming soon!\nx.ai/news/grok-bot-sales\n\nLink\n\n\n\nYour next sales teammate should be a Grok Bot\n\nThe SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.\nx.ai",
+      "text": "co-wrote a piece on how we're using @bot to supercharge deals at @spacexai. We delegate \"jobs\" to specialized shared bots so they can collaborate independently, like an agent factory. \n\nhere's our bot team:\n- Account Intel Bot finds prospects, preps for calls, and manages opp tracking\n- Quote Bot builds pricing proposals and order forms\n- Deal Bot (my baby) reviews discounts, drafts terms, routes approvals, and checks signed contracts so reps can close faster\n\nDeal Bot has already helped my team save hundreds of hours this month. more bot teammates coming soon!\nx.ai/news/grok-bot-sales\n\nLink\n\n\n\nYour next sales teammate should be a Grok Bot\n\nThe SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.\nx.ai",
       "link": "https://x.com/irislovesdeals/status/2115105872687079815#m",
       "date": "Tue, 27 Oct 2026 15:38:31 GMT",
       "tweet_id": "2115105872687079815",
@@ -2573,22 +2594,6 @@
       "date": "Thu, 22 Oct 2026 13:12:46 GMT",
       "text_zh": "我认为人们没有意识到埃隆·马斯克实际上在做什么。\n\n他并没有比其他人打得更好。他正在改写游戏规则。\n\n在他之前的每一位亿万富翁都得到了同样的待遇：金钱换取光环，沉默换取体面。他们都拿走了。他走了出去。\n\n我在他正在战斗的机器上制作了一个 4 分钟的视频。在它被埋之前观察它。\n\n视频",
       "tweet_id": "2113257255902572640",
-      "ctx_done": 1
-    },
-    {
-      "text": "Grok Bot is now on X Chat",
-      "link": "http://nitter.meowing.monster/techdevnotes/status/2113218324809269398#m",
-      "date": "Thu, 22 Oct 2026 10:38:04 GMT",
-      "text_zh": "Grok Bot 现已加入 X Chat",
-      "tweet_id": "2113218324809269398",
-      "ctx_done": 1
-    },
-    {
-      "text": "Mercedes sold its Tesla stake for $780 million. that same 4 percent is worth about $56 billion today.\n\nin the clip below Musk explains how Mercedes ended up there. the US government gave Tesla almost $500 million, and he is asked directly whether that loan saved the company. he says no.\n\nwhat saved it was a $50 million check from Daimler in May 2009. all of Tesla was worth $550 million then.\n\n\"they were the only ones. there was no other company, no other entity of any kind from which we could get investments.\"\n\nTesla repaid the government's $500 million with interest and a prepayment penalty, ten years early. he sent a thank you note with it.\n\n\"i don't like having a lot of debt. the taxpayers supported Tesla, we ought to repay them as soon as we can.\"\n\nMercedes turned $50 million into $780 million and walked away in 2014.\n\nso was that a great investment - or the most expensive mistake in car industry history?\n\nVideo",
-      "link": "http://nitter.meowing.monster/Di_Krass_/status/2113194901341085989#m",
-      "date": "Thu, 22 Oct 2026 09:05:00 GMT",
-      "text_zh": "梅赛德斯以 7.8 亿美元的价格出售了其持有的特斯拉股份。如今，这 4% 的价值约为 560 亿美元。\n\n在下面的剪辑中，马斯克解释了梅赛德斯是如何到达那里的。美国政府向特斯拉提供了近 5 亿美元，他被直接问到这笔贷款是否拯救了公司。他说不。\n\n拯救它的是2009年5月戴姆勒一张5000万美元的支票。当时特斯拉的全部价值为5.5亿美元。\n\n“他们是唯一的。没有其他公司，没有任何其他实体可以让我们获得投资。”\n\n特斯拉提前十年偿还了政府 5 亿美元的利息和预付款罚金。他随信寄来了一封感谢信。\n\n“我不喜欢背负太多债务。纳税人支持特斯拉，我们应该尽快偿还他们。”\n\n梅赛德斯将 5000 万美元变成了 7.8 亿美元，并于 2014 年离开。\n\n那么，这是一笔巨大的投资，还是汽车行业历史上最昂贵的错误？\n\n视频",
-      "tweet_id": "2113194901341085989",
       "ctx_done": 1
     }
   ]
