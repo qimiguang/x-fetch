@@ -1,8 +1,69 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-29T02:22:45Z",
+  "updated_at": "2026-10-29T02:49:08Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Buy from @Shopify!\n\n\ntobi lutke (@tobi)\n\nJust in time for shop pay support and\n\n\n\n\n\n— https://nitter.kareem.one/tobi/status/2115633920180113785#m",
+      "link": "https://x.com/elonmusk/status/2115634265702678859#m",
+      "date": "Thu, 29 Oct 2026 02:38:10 GMT",
+      "tweet_id": "2115634265702678859",
+      "quoted": {
+        "user": "tobi",
+        "text": "@elonmusk @bot Just in time for shop pay support and",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVw91ouW8AAjxbe.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVw91ouW8AAjxbe.jpg?name=orig",
+            "local": "2115634265702678859q_0.jpg"
+          }
+        ],
+        "text_zh": "@elonmusk @bot 正好赶上商店支付支持和"
+      },
+      "ctx_done": 1,
+      "text_zh": "从@Shopify 购买！\n\n\n托比·卢克 (@tobi)\n\n正好赶上商店付款支持和\n\n\n\n\n\n— https://nitter.kareem.one/tobi/status/2115633920180113785#m"
+    },
+    {
+      "text": "As the prophecy foretold, Starship 42 will be the first tower catch\nVideo\nVideo",
+      "link": "https://x.com/elonmusk/status/2115634093949911506#m",
+      "date": "Thu, 29 Oct 2026 02:37:29 GMT",
+      "tweet_id": "2115634093949911506",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475875122569216/img/05QhG1ixlpBhow6m.jpg",
+            "local": "2115634093949911506q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475945687535617/img/iL0aHe_7d4gDHl_s.jpg",
+            "local": "2115634093949911506q_1.jpg"
+          }
+        ],
+        "text_zh": "42艘船静态点火完成。为 15 号航班做准备的星舰进行了全程六引擎静态点火，并点燃了一台猛禽发动机来模拟脱轨燃烧"
+      },
+      "ctx_done": 1,
+      "text_zh": "正如预言所预言的，Starship 42 将成为第一个塔式捕获物\n视频\n视频"
+    },
+    {
+      "text": "That’s what I do too. Just have @Bot buy it somewhere else at a lower price.",
+      "link": "https://x.com/elonmusk/status/2115632219712811226#m",
+      "date": "Thu, 29 Oct 2026 02:30:02 GMT",
+      "tweet_id": "2115632219712811226",
+      "quoted": {
+        "user": "jamesdouma",
+        "text": "Amazon locked out my Grok Bot.  So it just bought the same thing from a different site (at a lower price).",
+        "text_zh": "亚马逊锁定了我的 Grok 机器人。  所以它只是从不同的网站购买了相同的东西（以较低的价格）。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我也是这么做的。让@Bot 在其他地方以更低的价格购买它。"
+    },
     {
       "text": "True",
       "link": "https://x.com/elonmusk/status/2115624652454154559#m",
@@ -15,6 +76,22 @@
       },
       "ctx_done": 1,
       "text_zh": "真的"
+    },
+    {
+      "text": "Yesterday was the REDDEST day of early voting in Texas.\n\nWe need big turnout tomorrow & Friday to finish strong for Election Day. \n\n@KenPaxtonTX",
+      "link": "https://x.com/ScottPresler/status/2115597854878433695#m",
+      "date": "Thu, 29 Oct 2026 00:13:29 GMT",
+      "tweet_id": "2115597854878433695",
+      "ctx_done": 1,
+      "text_zh": "昨天是德克萨斯州提前投票最红的一天。\n\n我们需要明天和周五的大量投票才能在选举日取得强劲的成绩。 \n\n@KenPaxtonTX"
+    },
+    {
+      "text": "BREAKING: Gabon’s government plans to authorize Starlink to help connect over 200 villages still without internet.\n\nMinister Doumba says some have only 20-30 residents, making towers hard to justify. Starlink could connect these to the world without the need for local fiber.\n\nVideo",
+      "link": "https://x.com/cb_doge/status/2115592465382355222#m",
+      "date": "Wed, 28 Oct 2026 23:52:04 GMT",
+      "tweet_id": "2115592465382355222",
+      "ctx_done": 1,
+      "text_zh": "突发新闻：加蓬政府计划授权 Starlink 帮助连接 200 多个仍然没有互联网的村庄。\n\n杜姆巴部长表示，有些塔楼只有 20 至 30 名居民，这使得修建塔楼的合理性难以得到证实。星链可以将这些连接到世界，而不需要本地光纤。\n\n视频"
     },
     {
       "text": "BREAKING: Starlink rollout for 312 schools completed in El Alto, Bolivia, mayor announces.\n\nThe government-backed project reaches schools across all 14 districts. Starlink is changing children’s lives by giving them access to knowledge and education for a brighter future.♥️\n\nVideo",
@@ -44,6 +121,14 @@
       },
       "ctx_done": 1,
       "text_zh": "唔"
+    },
+    {
+      "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
+      "link": "https://x.com/neuralink/status/2115534593147187397#m",
+      "date": "Wed, 28 Oct 2026 20:02:06 GMT",
+      "tweet_id": "2115534593147187397",
+      "ctx_done": 1,
+      "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
     },
     {
       "text": "Impressive",
@@ -206,6 +291,14 @@
       "tweet_id": "2115410477971026426",
       "ctx_done": 1,
       "text_zh": "RT @elonmusk：图片"
+    },
+    {
+      "text": "some of my \"wtf\" moments with AI so far:\n\n1. Cursor Tab\n2. Claude Code\n3. Codex\n4. Opus 5.5\n5. Grok Bot\n\ni know there's a lot of Grok Bot hype right now but this product is genuinely incredible",
+      "link": "https://x.com/kr0der/status/2115402699080667479#m",
+      "date": "Wed, 28 Oct 2026 11:18:00 GMT",
+      "tweet_id": "2115402699080667479",
+      "ctx_done": 1,
+      "text_zh": "到目前为止，我对人工智能的一些“wtf”时刻：\n\n1. 光标选项卡\n2.克劳德·代码\n3. 法典\n4.作品5.5\n5.Grok 机器人\n\n我知道现在有很多关于 Grok Bot 的炒作，但这个产品确实令人难以置信"
     },
     {
       "text": "Try Grok @Bot\nVideo",
@@ -454,7 +547,7 @@
       "ctx_done": 1
     },
     {
-      "text": "One of the victims of the Zizian trans death cult was their elderly landlord. \n\nThey bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. \n\nThat deceased Zizian was honored in a U.S. Senate resolution about the \"epidemic of violence toward transgender people.\" It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. x.com/BrandonStraka/status/2…",
+      "text": "One of the victims of the Zizian trans death cult was their elderly landlord. \n\nThey bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. \n\nThat deceased Zizian was honored in a U.S. Senate resolution about the \"epidemic of violence toward transgender people.\" It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. nitterk.kareem.one/BrandonStraka/status/2…",
       "link": "https://x.com/MrAndyNgo/status/2115243411506885114#m",
       "date": "Wed, 28 Oct 2026 00:45:03 GMT",
       "tweet_id": "2115243411506885114",
@@ -2516,85 +2609,6 @@
       },
       "ctx_done": 1,
       "text_zh": "格洛克@Bot"
-    },
-    {
-      "text": "Grok is attracting a higher share of new users than every other major SI website\nIn September 2026 alone, 40.91% of Grok.com traffic came from new users…..the highest share among ChatGPT, Gemini, Claude and DeepSeek",
-      "link": "http://nitter.meowing.monster/XFreeze/status/2113289921104613728#m",
-      "date": "Thu, 22 Oct 2026 15:22:34 GMT",
-      "tweet_id": "2113289921104613728",
-      "quoted": {
-        "user": "Similarweb",
-        "text": "Among the leading Gen AI tools, Grok had the highest percentage of new users visiting its website in September 2026.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVOsQJPW8AABX94.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVOsQJPW8AABX94.png?name=orig",
-            "local": "2113289921104613728q_0.jpg"
-          }
-        ],
-        "text_zh": "在领先的 Gen AI 工具中，Grok 2026 年 9 月访问其网站的新用户比例最高。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok 吸引的新用户比例高于所有其他主要 SI 网站\n仅 2026 年 9 月，Grok.com 的流量就有 40.91% 来自新用户……ChatGPT、Gemini、Claude 和 DeepSeek 中占比最高"
-    },
-    {
-      "text": "Ron Baron has been investing for 56 years. He just said he has never seen a company like SpaceX. Not one.\n\nHe made his clients 15 billion dollars on it. He gave up 3 billion of his own profit to keep his shares. His frame: I do not want Elon to think about us as someone he gave stock to who sold the first chance they got.\n\nThe numbers Baron threw out are the ones nobody is modeling.\n\nSpaceX sold capacity to Anthropic at $1.25 billion a month for 18 months straight. $15 billion a year. Then Google came in asking for compute. Elon said here is what I have left. $900 million a month.\n\nThat is 25 billion a year on just the compute slice.\n\nAnd then: \"The economy doubles every 10 years. Elon thinks instead of doubling we're about to grow 10 times every 10 years.\"\n\n56 years. Never seen one like this.\n\nVideo\n  \n\n\n\n\nstark0xbt (@stark0xbt)\n\n\nArticle\n\n\n\nThe Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026\n\nOpening: The Quote That Named a Decade\nIn October 2026, Gavin Baker — the man who owned 15% of Nvidia under a $1B market cap and 10% of Tesla sub-$2B — sat down for a podcast and said one phrase that\n\n\n\n\n— http://nitter.meowing.monster/stark0xbt/status/2110060506782253061#m",
-      "link": "http://nitter.meowing.monster/stark0xbt/status/2113277474595311837#m",
-      "date": "Thu, 22 Oct 2026 14:33:07 GMT",
-      "text_zh": "Ron Baron 从事投资已有 56 年。他只是说他从未见过像 SpaceX 这样的公司。没有一个。\n\n他为他的客户赚了 150 亿美元。他放弃了自己的30亿利润来保住自己的股份。他的框架：我不希望埃隆将我们视为他给予股票的人，而他们一有机会就卖出。\n\n巴伦抛出的数字是没有人建模的。\n\nSpaceX 连续 18 个月以每月 12.5 亿美元的价格向 Anthropic 出售产能。每年150亿美元。然后谷歌进来要求计算。埃隆说这是我留下的。每月 9 亿美元。\n\n仅计算切片每年就达到 250 亿美元。\n\n然后：“经济每 10 年翻一番。埃隆认为我们不是每 10 年翻一番，而是增长 10 倍。”\n\n56岁。从来没有见过这样的人。\n\n视频\n  \n\n\n\n\nstark0xbt (@stark0xbt)\n\n\n文章\n\n\n\n收益中的埃隆时代：15 位蓝筹基金经理对 2026 年马斯克的评价\n\n开场：十年的名言\n2026 年 10 月，加文·贝克 (Gavin Baker) 在播客节目中说了一句话：\n\n\n\n\n— http://nitter.meowing.monster/stark0xbt/status/2110060506782253061#m",
-      "tweet_id": "2113277474595311837",
-      "quoted": {
-        "user": "stark0xbt",
-        "text": "https://x.com/i/article/2109986286463234048",
-        "text_zh": "https://x.com/i/article/2109986286463234048"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "BREAKING: US Ambassador to South Africa Leo Bozell slams the government for blocking Starlink’s offer of free internet for 5,000 schools.\n\n“Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.”\n\nVideo",
-      "link": "http://nitter.meowing.monster/cb_doge/status/2113274564990111747#m",
-      "date": "Thu, 22 Oct 2026 14:21:33 GMT",
-      "text_zh": "突发新闻：美国驻南非大使 Leo Bozell 猛烈抨击政府阻止 Starlink 为 5,000 所学校提供免费互联网服务。\n\n“每个人都会同意，星链对于南非来说是一个好主意。星链对于地球上的每个国家来说都是一个好主意，因为它能够做到这一点。……政府说，我们想要这家公司的 30% 的股份，这当然是荒谬的。埃隆·马斯克永远不会这样做。……他们说，不，我们想要你公司 30% 的股份。所以他说，去砸沙子吧。我会去地球上所有其他国家。”\n\n视频",
-      "tweet_id": "2113274564990111747",
-      "ctx_done": 1
-    },
-    {
-      "text": "🚨 JUST IN: VP JD Vance MIC DROPS European bureaucrats and fake news attacking Elon Musk, then BEGGING for him to unleash Starlink for Ukraine\n\n\"I do find it a little IRONIC that the European countries who have NOTHING like the technology that Elon has developed in Starlink...these countries have almost universally decided to wage regulatory and licensing WAR against SpaceX. And now they're all running to SpaceX saying, 'please do what we need you to do?!'\"\n\n🔥🔥🔥\n\n\"European countries depend on American technology, American businesses, and the American military, while at the same time European political leaders love to bash the United States allies that they depend upon so much!\"\n\n\"Elon Musk runs a private corporation. And I think it's completely understandable that he doesn't want to get in the middle of what is a war between two state actors without the United States government effectively directing him on what to do.\"\n\n@ElonMusk is their favorite guy to bash...then they turn around and act entitled to his technology.\n\nSame countries that want to fine and regulate him into oblivion!\n\nThis comes right after WSJ claimed that Musk ordered a Starlink slowdown that caught Ukraine off guard. Because of course they'd claim that!\n\nThe EU fined X under its Digital Services Act and has spent years going after Elon. Now Europe needs his satellites 🤡\n\nThey can't have it both ways. Vance nailed it.\n\nVideo",
-      "link": "http://nitter.meowing.monster/EricLDaugh/status/2113270640362815825#m",
-      "date": "Thu, 22 Oct 2026 14:05:57 GMT",
-      "text_zh": "🚨 刚刚：副总裁 JD Vance MIC 放弃了攻击埃隆·马斯克的欧洲官僚和假新闻，然后恳求他为乌克兰释放星链\n\n“我确实觉得有点讽刺的是，那些没有埃隆在 Starlink 开发的技术的欧洲国家……这些国家几乎普遍决定对 SpaceX 发动监管和许可战争。而现在他们都跑向 SpaceX 说，‘请做我们需要你做的事情？！’”\n\n🔥🔥🔥\n\n“欧洲国家依赖美国的技术、美国的企业和美国的军队，而与此同时，欧洲政治领导人却喜欢抨击他们如此依赖的美国盟友！”\n\n“埃隆·马斯克经营着一家私营公司。我认为，如果没有美国政府有效指导他做什么，他不想卷入两个国家行为体之间的战争，这是完全可以理解的。”\n\n@ElonMusk 是他们最喜欢抨击的人……然后他们转身并表现出有权使用他的技术。\n\n同样是那些想要对他进行罚款和监管的国家！\n\n此前，《华尔街日报》声称马斯克下令星链减速，这让乌克兰措手不及。因为他们当然会这么说！\n\n欧盟根据《数字服务法案》对 X 处以罚款，并花了数年时间追捕埃隆。现在欧洲需要他的卫星🤡\n\n他们不能两全其美。万斯成功了。\n\n视频",
-      "tweet_id": "2113270640362815825",
-      "ctx_done": 1
-    },
-    {
-      "text": "Capitalism has a win condition. Socialism does not.\nHere's why, explained so simply a 10-year-old could get it. \nIt starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom.\nVideo",
-      "link": "http://nitter.meowing.monster/brivael/status/2113266253188022682#m",
-      "date": "Thu, 22 Oct 2026 13:48:32 GMT",
-      "tweet_id": "2113266253188022682",
-      "quoted": {
-        "user": "brivael",
-        "text": "Capitalism has a win condition. Socialism does not.\n\nHere's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom.\n\nImagine a classroom of 30 kids. One day the teacher says: \"From now on, I decide what everyone eats for lunch, which games you play at recess, and who sits next to whom. It's fairer that way.\"\n\nFirst problem: the teacher doesn't know what you like. You hate carrots. Your friend is allergic to peanuts. Lucas wants to play football, Emma wants to draw. 30 kids, 30 different wishes. Nobody can know all of that, not even the smartest teacher on Earth. Hayek called this the knowledge problem. The information needed to run an economy is scattered across millions of heads, and it can't be gathered in one office.\n\nSecond problem: the kids start fighting. \"Why does he get the window seat?\" \"Why football again?\" Before, everyone just chose for themselves. Now every choice is a fight, because every choice is made for everyone.\n\nThird problem: the class can't agree on a plan, so someone says \"we need one person in charge who just decides.\" This is Hayek's key insight. Planning doesn't fail because planners are evil. A plan needs everyone to agree on the same goals, and free people never agree on everything. So the plan needs force to work.\n\nFourth problem, and it's the scariest one: who wants that job? The kind kid doesn't want it, because the kind kid doesn't want to force 29 people to eat carrots. The job attracts the one who likes giving orders and doesn't mind punishing those who disobey. Hayek wrote a whole chapter on this, called \"Why the Worst Get on Top.\" It doesn't happen by accident. It happens by selection.\n\nHere's the trap. When the person who controls your lunch also controls your job, your home, your shop and your newspaper, they control your whole life. You can't say no, because there's nowhere else to go. Controlling the economy doesn't mean controlling one part of life. It means controlling the means to every goal you have.\n\nThat's the road to serfdom. Nobody votes for a dictator. People vote for \"someone should fix this,\" then for \"give them more power to fix it,\" and one day they wake up with no one left to say no to.\n\nThe USSR, Maoist China, Cambodia, North Korea, Cuba, Venezuela. These are different countries with different cultures and languages, and the story has the same ending every time. When a script produces the same ending every time, it isn't bad luck. It's the script.\n\nNow capitalism. Back to the classroom. Instead of one teacher deciding everything, every kid can trade. You give me your carrots, I give you my apple, and we both walk away happier. Nobody needs to know what everyone wants, because prices do that job. A price is a message telling millions of strangers what's scarce and what's wanted, with no one in charge.\n\nThat's the win condition. In capitalism, you get rich by making something other people freely choose to buy, so your success depends on serving others. In a planned system, you get ahead by pleasing whoever holds power. One rewards usefulness. The other rewards obedience.\n\nAnd this isn't theory. Two centuries ago, almost every human being was extremely poor. In 1990, about 38% of humanity still lived in extreme poverty. Today it's under 10%. More than a billion people escaped it in a single generation. It happened when China, India, Vietnam and South Korea opened up to markets, trade and private enterprise. The largest reduction in poverty in human history came from letting people trade.\n\nSo why do so many people hate capitalism?\n\nBecause what they hate usually isn't capitalism.\n\nThey hate the bank that got bailed out with their taxes while they lost their house. They hate the giant company that writes the regulations so no startup can compete with it. They hate rent they can't afford because building new homes has been made nearly impossible. They hate the lobbyist who gets a subsidy while the small business owner drowns in paperwork.\n\nLook closely at each one, and you'll find a state handing out privileges. A bailout is not the market. The market would have let the bank fail. A regulation written by incumbents is not competition. It's protection from competition. None of this is capitalism. It's cronyism, which is what happens when businesses stop competing for customers and start competing for politicians.\n\nPeople see the symptom and blame the wrong cause. They say \"capitalism failed\" and ask for more state. That gives more power to the same people who created the problem, and it puts us right back on Hayek's road.\n\nThe answer to bad capitalism isn't less freedom. It's less privilege. That means fewer bailouts, fewer protected incumbents, fewer permits, and more people allowed to build, compete and trade.\n\nCapitalism has a win condition: make things people want. Socialism has an end condition: someone has to be in charge. And history keeps showing us who ends up in that chair.",
-        "text_zh": "资本主义有一个胜利条件。 Socialism does not.\n\n原因如下，解释得很简单，一个 10 岁的孩子就能明白。它始于 1944 年奥地利经济学家弗里德里希·哈耶克 (Friedrich Hayek) 写的书《通往奴役之路》。\n\n想象一下一个有 30 个孩子的教室。有一天，老师说：“从现在开始，我决定每个人午餐吃什么，课间玩什么游戏，谁坐在谁旁边。这样更公平。”\n\n第一个问题：老师不知道你喜欢什么。 You hate carrots. Your friend is allergic to peanuts.卢卡斯想踢足球，艾玛想画画。 30个孩子，30个不同的愿望。没有人能知道所有这些，即使是地球上最聪明的老师也不能。 Hayek called this the knowledge problem.经济运行所需的信息分散在数以百万计的头脑中，并且无法集中在一个办公室中。\n\n第二个问题：孩子们开始打架。 “为什么他要坐靠窗的座位？” \"Why football again?\" Before, everyone just chose for themselves.现在每一个选择都是一场战斗，因为每一个选择都是为每个人做出的。\n\n第三个问题：全班无法就计划达成一致，所以有人说“我们需要一个负责做决定的人”。 This is Hayek's key insight.计划不会失败，因为计划者是邪恶的。计划需要每个人就相同的目标达成一致，而自由人永远不会在所有事情上都达成一致。所以这个计划需要力量才能发挥作用。\n\n第四个问题，也是最可怕的一个：谁想要这份工作？善良的孩子不想要，因为善良的孩子不想强迫29个人吃胡萝卜。这项工作吸引的是那些喜欢发号施令并且不介意惩罚不服从者的人。哈耶克就此写了整整一章，名为“为什么最糟糕的人会登上顶峰”。这并非偶然发生。 It happens by selection.\n\nHere's the trap.当控制你午餐的人也控制你的工作、你的家、你的商店和你的报纸时，他们就控制了你的整个生活。你不能拒绝，因为你无处可去。控制经济并不意味着控制生活的一部分。这意味着控制实现每个目标的手段。\n\nThat's the road to serfdom. Nobody votes for a dictator.人们投票支持“有人应该解决这个问题”，然后投票支持“给他们更多的权力来解决这个问题”，有一天他们醒来时发现没有人可以拒绝。\n\n苏联、毛主义中国、柬埔寨、朝鲜、古巴、委内瑞拉。这些是不同的国家，有着不同的文化和语言，故事每次都有相同的结局。当剧本每次都产生相同的结局时，这并不是坏运气。 It's the script.\n\nNow capitalism. Back to the classroom.每个孩子都可以进行交易，而不是由一位老师决定一切。 You give me your carrots, I give you my apple, and we both walk away happier.没有人需要知道每个人想要什么，因为价格就能做到这一点。 A price is a message telling millions of strangers what's scarce and what's wanted, with no one in charge.\n\n这就是获胜条件。在资本主义中，你通过制造其他人自由选择购买的东西来致富，所以你的成功取决于为他人服务。在一个有计划的系统中，你可以通过取悦掌权者来获得成功。 One rewards usefulness. The other rewards obedience.\n\nAnd this isn't theory.两个世纪前，几乎每个人都极度贫困。 In 1990, about 38% of humanity still lived in extreme poverty.今天这个比例还不到 10%。在一代人的时间里，就有超过十亿人逃脱了这场灾难。这发生在中国、印度、越南和韩国向市场、贸易和私营企业开放时。人类历史上最大幅度的贫困减少来自于允许人们进行贸易。\n\nSo why do so many people hate capitalism?\n\nBecause what they hate usually isn't capitalism.\n他们讨厌银行在他们失去房子的时候用税收来救助。他们讨厌制定法规的大公司，因此没有初创公司可以与之竞争。他们讨厌负担不起的租金，因为建造新房几乎是不可能的。他们讨厌游说者获得补贴，而小企业主则淹没在文书工作中。\n\n仔细观察每一个，你会发现一个国家正在授予特权。救助不是市场。市场会让银行倒闭。现任者制定的法规不是竞争。这是针对竞争的保护。这一切都不是资本主义。这是任人唯亲，当企业停止争夺客户并开始争夺政客时就会发生这种情况。\n\n人们看到症状并归咎于错误的原因。他们说“资本主义失败了”并要求更多的国家。这给了制造问题的人更多的权力，让我们又回到了哈耶克的道路上。\n\n糟糕的资本主义的答案并不是减少自由。特权就少了这意味着更少的救助，更少的受保护的在职者，更少的许可证，以及更多的人被允许建造、竞争和贸易。\n\n资本主义有一个胜利条件：制造人们想要的东西。社会主义有一个最终条件：必须有人负责。历史不断向我们展示谁最终坐在了那把椅子上。"
-      },
-      "ctx_done": 1,
-      "text_zh": "资本主义有一个胜利条件。社会主义则不然。\n原因如下，解释得很简单，一个 10 岁的孩子就能明白。 \n它始于 1944 年奥地利经济学家弗里德里希·哈耶克 (Friedrich Hayek) 写的书《通往奴役之路》。\n视频"
-    },
-    {
-      "text": "Grok Bot team shipped in the last few days:\n\n• Reports, memos, dashboards in the chat\n• iPhone action button to talk to Bot\n• 3x faster computer tasks\n• Aliases for your Bot email\n• Connectors for Robinhood, Coinbase, Runway\n• Notifications only on the device you're using",
-      "link": "http://nitter.meowing.monster/benln/status/2113258261977928050#m",
-      "date": "Thu, 22 Oct 2026 13:16:46 GMT",
-      "text_zh": "Grok Bot 团队在过去几天发货：\n\n• 聊天中的报告、备忘录、仪表板\n• 用于与机器人对话的 iPhone 操作按钮\n• 计算机任务速度提高 3 倍\n• 您的机器人电子邮件的别名\n• Robinhood、Coinbase、Runway 的连接器\n• 仅在您正在使用的设备上发送通知",
-      "tweet_id": "2113258261977928050",
-      "ctx_done": 1
-    },
-    {
-      "text": "I don’t think people realize what Elon Musk is actually doing.\n\nHe’s not playing the game better than everyone else. He’s rewriting the rules of the game.\n\nEvery billionaire before him was offered the same deal: money for aura, silence for respectability. They all took it. He walked out.\n\nI made a 4-minute video on the machine he’s fighting. Watch it before it gets buried.\n\nVideo",
-      "link": "http://nitter.meowing.monster/brivael/status/2113257255902572640#m",
-      "date": "Thu, 22 Oct 2026 13:12:46 GMT",
-      "text_zh": "我认为人们没有意识到埃隆·马斯克实际上在做什么。\n\n他并没有比其他人打得更好。他正在改写游戏规则。\n\n在他之前的每一位亿万富翁都得到了同样的待遇：金钱换取光环，沉默换取体面。他们都拿走了。他走了出去。\n\n我在他正在战斗的机器上制作了一个 4 分钟的视频。在它被埋之前观察它。\n\n视频",
-      "tweet_id": "2113257255902572640",
-      "ctx_done": 1
     }
   ]
 }
