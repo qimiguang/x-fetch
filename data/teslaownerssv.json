@@ -1,6 +1,6 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-29T02:19:53Z",
+  "updated_at": "2026-10-29T02:23:13Z",
   "count": 200,
   "tweets": [
     {
@@ -97,7 +97,7 @@
             "local": "2115569269606068573q_1.jpg"
           }
         ],
-        "text_zh": "New Future Link 采访 @serobinsonjr，他是 @elonchron 的幕后黑手，他每日记录特斯拉、SpaceX、Neuralink、Starlink、X、The Boring Company 和 xAI。\n\n我们谈论：\n🛒 多年的零售管理经验是如何训练他挖掘BS的\n🚀 为什么 SpaceX 是 https://t.co/EvL1t1OwUH"
+        "text_zh": "New Future Link 采访 @serobinsonjr，他是 @elonchron 的幕后黑手，他每日记录了 Tesla、SpaceX、Neuralink、Starlink、X、The Boring Company 和 xAI。\n\n我们谈论：\n🛒 多年的零售管理经验是如何训练他挖掘BS的\n🚀 为什么 SpaceX 是 https://t.co/EvL1t1OwUH"
       },
       "ctx_done": 1,
       "text_zh": "感谢您的大声喊叫@SERobinsonJr \n\n支持其他创作者非常重要。你永远不知道这些联系将如何帮助你走出困境。 \n\n我成长，我们都成长。"
@@ -146,7 +146,7 @@
       "quoted": {
         "user": "neuralink",
         "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
-        "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM 的成绩，WER 为 5.8%。"
+        "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
       },
       "ctx_done": 1,
       "text_zh": "刚到\n\nNeuralink 刚刚分享了其针对 ALS 患者的第一个言语恢复结果。\n在第一周，一名参与者在 125,000 个单词的词汇量上每分钟达到 75 个单词，单词错误率为 5.8%。 \n\n这是以对话速度进行的语音到文本和语音的转换，直接 https://t.co/hVUr0zLOhv"

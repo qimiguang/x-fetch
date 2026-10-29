@@ -1,8 +1,176 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-29T02:20:13Z",
-  "count": 161,
+  "updated_at": "2026-10-29T02:24:40Z",
+  "count": 176,
   "tweets": [
+    {
+      "text": "On the go, in the know\n\nRobotaxi Live Activities now have a new look\n\nVideo",
+      "link": "https://x.com/robotaxi/status/2115542830072705418#m",
+      "date": "Wed, 28 Oct 2026 20:34:50 GMT",
+      "tweet_id": "2115542830072705418",
+      "ctx_done": 1,
+      "text_zh": "随时随地，了解情况\n\nRobotaxi 现场活动现已焕然一新\n\n视频"
+    },
+    {
+      "text": "Tesla brought the next-gen Roadster to SpaceX's Hawthorne facility in LA today, which is right next to Tesla's own design studio where the Roadster was designed.",
+      "link": "https://x.com/SawyerMerritt/status/2115540785194029563#m",
+      "date": "Wed, 28 Oct 2026 20:26:42 GMT",
+      "tweet_id": "2115540785194029563",
+      "quoted": {
+        "user": "mpgenchau",
+        "text": "Hi there Roadster! \n❤️ SpaceX\n❤️ Tesla",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvcYe8bAAAN844.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVvcYe8bAAAN844.jpg?name=orig",
+            "local": "2115540785194029563q_0.jpg"
+          }
+        ],
+        "text_zh": "你好，敞篷跑车！ \n❤️ 太空探索技术公司\n❤️ 特斯拉"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉今天将下一代 Roadster 带到了 SpaceX 位于洛杉矶的霍桑工厂，该工厂毗邻特斯拉自己的设计工作室，Roadster 就是在那里设计的。"
+    },
+    {
+      "text": "Earnings slide deck: s205.q4cdn.com/882619693/fil…",
+      "link": "https://x.com/SawyerMerritt/status/2115539027315093645#m",
+      "date": "Wed, 28 Oct 2026 20:19:43 GMT",
+      "tweet_id": "2115539027315093645",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "收益幻灯片：s205.q4cdn.com/882619693/fil..."
+    },
+    {
+      "text": "Ford's Q3 earnings just came out: The company's EV unit (called Model e) lost $1.1 billion in Q3, with an EBIT margin of -86.5%. EV revenue was $1.2 billion, -33% YoY.\n\nFord: \"Volume and revenue down, driven by discontinuation of F-150 Lightning and right-sizing of Mustang Mach-E production to customer demand.\"\n\nOverall company earnings:\n• EPS: $0.49 adj vs. $0.40 exp\n• Automotive rev: $46.1B vs. $46.2B exp\n• EBIT: $2.66 billion\n\nFord expects to unveil its next-generation EV - which will be a smaller EV pickup truck - in early 2027. They're aiming for a $30k starting price and a launch late next year.",
+      "link": "https://x.com/SawyerMerritt/status/2115539024228315277#m",
+      "date": "Wed, 28 Oct 2026 20:19:42 GMT",
+      "tweet_id": "2115539024228315277",
+      "ctx_done": 1,
+      "text_zh": "福特第三季度财报刚刚出炉：该公司的电动汽车部门（称为 Model e）第三季度亏损 11 亿美元，息税前利润率为-86.5%。电动汽车收入为 12 亿美元，同比-33%。\n\n福特：“销量和收入下降，是由于 F-150 Lightning 停产以及根据客户需求调整 Mustang Mach-E 生产规模所致。”\n\n公司整体盈利：\n• 每股收益：调整后 0.49 美元，预期值 0.40 美元\n• 汽车销量：$46.1B 对比 $46.2B 预期\n• 息税前利润：26.6 亿美元\n\n福特预计将于 2027 年初推出其下一代电动汽车——这将是一款较小的电动皮卡车。他们的目标是起价 3 万美元，并于明年底推出。"
+    },
+    {
+      "text": "SpaceX has just officially introduced a Grok @Bot referral program.\n\nIf you refer someone, they get a 2-week free trial of Premium, and when they become a paid subscriber, you get a free usage reset. Each usage reset is valid for 6 months after it's added.\n\nWho can take part:\n• You (the referrer) must be on a paid Premium, Super, or Ultra plan on The 𝕏 Subscription.\n• Based in the US\n• At least 7 days since you checked out\n\nYour friend:\n• Must be new to Grok\n• Located in any country except China\n• Signs up with an eligible email address\n• Enters a credit card at checkout\n\nMore info: docs.x.ai/x-subscription/ref…",
+      "link": "https://x.com/SawyerMerritt/status/2115531772351951079#m",
+      "date": "Wed, 28 Oct 2026 19:50:53 GMT",
+      "tweet_id": "2115531772351951079",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 刚刚正式推出了 Grok @Bot 推荐计划。\n\n如果您推荐某人，他们将获得 2 周的 Premium 免费试用期，当他们成为付费订阅者时，您将获得免费的使用重置。每次使用重置在添加后的 6 个月内有效。\n\n谁可以参加：\n• 您（推荐人）必须使用 𝕏 订阅的付费 Premium、Super 或 Ultra 套餐。\n• 总部位于美国\n• 自您退房以来至少 7 天\n\n你的朋友：\n• 必须是 Grok 新手\n• 位于除中国以外的任何国家/地区\n• 使用符合条件的电子邮件地址进行注册\n• 结账时输入信用卡信息\n\n更多信息：docs.x.ai/x-subscription/ref..."
+    },
+    {
+      "text": "General Motors says it will not adopt a vision-only approach to autonomous driving, saying that dropping radar is a \"weird religious stance that ignores physics.\"\n\n\"If you scale back to vision-only, physics suggests you’ll be in trouble in certain situations. Radar is so cheap that dropping it doesn’t make sense—dropping it is a weird religious stance that ignores physics,\" GM Chief Product Officer Sterling Anderson said.\n\nGM says it plans to launch an autonomous driving feature for the highway by 2028.\n\nFull article: insideevs.com/news/813467/gm…",
+      "link": "https://x.com/SawyerMerritt/status/2115523269608738934#m",
+      "date": "Wed, 28 Oct 2026 19:17:06 GMT",
+      "tweet_id": "2115523269608738934",
+      "ctx_done": 1,
+      "text_zh": "通用汽车表示，不会采用仅视觉的自动驾驶方法，并表示放弃雷达是一种“忽视物理学的奇怪的宗教立场”。\n\n“如果你缩减到仅使用视觉，物理学表明你在某些情况下会遇到麻烦。雷达是如此便宜，以至于放弃它没有意义——放弃它是一种忽视物理学的奇怪的宗教立场，”通用汽车首席产品官斯特林·安德森说。\n\n通用汽车表示，计划到 2028 年推出高速公路自动驾驶功能。\n\n完整文章： insideevs.com/news/813467/gm..."
+    },
+    {
+      "text": "You can get a used Model 3 for less than a fully loaded 16\" OLED MacBook Pro:\n\n• 2020 Model 3 Standard Range with 95k miles, no accidents/damage & clean title: $14,190\n• Fully loaded 16-inch MacBook Pro: $14,549",
+      "link": "https://x.com/SawyerMerritt/status/2115521949376143486#m",
+      "date": "Wed, 28 Oct 2026 19:11:51 GMT",
+      "tweet_id": "2115521949376143486",
+      "ctx_done": 1,
+      "text_zh": "您可以以低于满载 16 英寸 OLED MacBook Pro 的价格购买二手 Model 3：\n\n• 2020 年 Model 3 标准续航里程 95,000 英里，无事故/损坏且产权干净：14,190 美元\n• 满载的 16 英寸 MacBook Pro：14,549 美元"
+    },
+    {
+      "text": "R to @SawyerMerritt: Image",
+      "link": "https://x.com/SawyerMerritt/status/2115493409972707823#m",
+      "date": "Wed, 28 Oct 2026 17:18:27 GMT",
+      "tweet_id": "2115493409972707823",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "R 致@SawyerMerritt：图片"
+    },
+    {
+      "text": "Apple has just unveiled its next-gen MacBook Pro, featuring an OLED touch display for the first time.\n\n• 14\" starts at $2,899, 16\" starts at $3,399\n• Fully loaded 16\" costs $14,549\n• M5 & M5 Max chips\n• Glowing Apple logo is back\n• 15% lighter\n• PROLED XDR Display\n• Tiny dynamic Island\n• Brightness: Up to 2,000 nits peak HDR\n• Sustained brightness: Up to 1,000 nits full-screen.\n• Contrast ratio: 10,000,000:1.\n• Refresh rate: Adaptive 10–120Hz ProMotion.\n• Color accuracy: Supports P3 and Adobe RGB wide color gamuts.\n• Anti-reflective coating: Standard, with optional nano-texture display.\nM5 Pro: Up to 18-core CPU, 20-core GPU, and 64GB unified memory.\n• Storage: Starting at 1TB (M5 Pro) or 2TB (M5 Max), configurable up to 16TB.\n• Storage performance: Up to 2x faster SSD speeds.\n• Battery life: Up to 24 hours.\n• Camera: 12MP Center Stage with Desk View and advanced video stabilization.\n• Speakers: Redesigned six-speaker audio system with 50% deeper bass.\n• Microphones: Studio-quality three-microphone array.\n• Connectivity: Three Thunderbolt 5 ports, HDMI, SDXC card slot, MagSafe 3, and headphone jack.\n• Wireless: Wi-Fi 7 and Bluetooth 6.\n• Design: Thinner display bezels, redesigned cooling system, and lighter chassis.\n• Weight: 3.0 pounds (14-inch) and 4.0 pounds (16-inch).\n• Colors: Space Black and Silver.\n\nMore pics below:\n\nVideo\n  \n\n\n\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2115493406524743737#m",
+      "date": "Wed, 28 Oct 2026 17:18:26 GMT",
+      "tweet_id": "2115493406524743737",
+      "ctx_done": 1,
+      "text_zh": "苹果刚刚推出了下一代 MacBook Pro，首次配备 OLED 触摸显示屏。\n\n• 14 英寸起价为 2,899 美元，16 英寸起价为 3,399 美元\n• 满载的 16\" 售价为 14,549 美元\n• M5 和 M5 Max 芯片\n• 发光的苹果标志又回来了\n• 轻 15%\n• PROLED XDR 显示屏\n• 充满活力的小岛\n• 亮度：最高 2,000 尼特峰值 HDR\n• 持续亮度：全屏高达 1,000 尼特。\n• 对比度：10,000,000:1。\n• 刷新率：自适应 10–120Hz ProMotion。\n• 色彩准确度：支持 P3 和 Adobe RGB 宽色域。\n• 抗反射涂层：标准，可选配纳米纹理显示屏。\nM5 Pro：最高18核CPU、20核GPU、64GB统一内存。\n• 存储：起始容量为 1TB (M5 Pro) 或 2TB (M5 Max)，最高可配置为 16TB。\n• 存储性能：SSD 速度提高高达 2 倍。\n• 电池寿命：长达 24 小时。\n• 摄像头：12MP Center Stage，具有桌面视图和高级视频稳定性。\n• 扬声器：重新设计的六扬声器音频系统，低音更深达 50%。\n• 麦克风：录音室品质的三麦克风阵列。\n• 连接性：三个 Thunderbolt 5 端口、HDMI、SDXC 卡插槽、MagSafe 3 和耳机插孔。\n• 无线：Wi-Fi 7 和蓝牙 6。\n• 设计：更薄的显示屏边框、重新设计的冷却系统和更轻的机箱。\n• 重量：3.0 磅（14 英寸）和 4.0 磅（16 英寸）。\n• 颜色：深空黑和银色。\n\n更多图片如下：\n\n视频\n  \n\n\n\n视频"
+    },
+    {
+      "text": "“and fired a single Raptor engine to simulate a deorbit burn.”\nGetting closer to the first-ever Starship catch! 🚀\nVideo\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2115476934696304844#m",
+      "date": "Wed, 28 Oct 2026 16:12:59 GMT",
+      "tweet_id": "2115476934696304844",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475875122569216/img/05QhG1ixlpBhow6m.jpg",
+            "local": "2115476934696304844q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475945687535617/img/iL0aHe_7d4gDHl_s.jpg",
+            "local": "2115476934696304844q_1.jpg"
+          }
+        ],
+        "text_zh": "42艘船静态点火完成。为 15 号航班做准备的星舰进行了全程六引擎静态点火，并点燃了一台猛禽发动机来模拟脱轨燃烧"
+      },
+      "ctx_done": 1,
+      "text_zh": "“并点燃了一个猛禽发动机来模拟脱轨燃烧。”\n离首次捕获 Starship 越来越近了！ 🚀\n视频\n视频"
+    },
+    {
+      "text": "This guy must of been very tired or something, because how do you see this popup and go \"yup, looks good to me.\"\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2115451486683726221#m",
+      "date": "Wed, 28 Oct 2026 14:31:52 GMT",
+      "tweet_id": "2115451486683726221",
+      "quoted": {
+        "user": "DevinOlsenn",
+        "text": "First video of a driver (accidentally) using the new emergency drive away feature.\n\nPretty wild to watch this guy dismiss all the warnings and prompts... Curious how much damage was done to the car and charger.\n\nCredit to @JLeshnick for the video",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115267556118339584/img/LtyT_1Q37ovA9jH9.jpg",
+            "local": "2115451486683726221q_0.jpg"
+          }
+        ],
+        "text_zh": "驾驶员（意外）使用新的紧急驾车离开功能的第一个视频。\n\n看到这个家伙忽略所有警告和提示真是太疯狂了……很好奇对汽车和充电器造成了多少损坏。\n\n视频归功于@JLeshnick"
+      },
+      "ctx_done": 1,
+      "text_zh": "这家伙一定很累了或者怎么了，因为你怎么会看到这个弹出窗口并说“是的，我看起来不错”。\n视频"
+    },
+    {
+      "text": "Tesla has announced that they are officially coming to Vietnam, with the company's recruiting team posting five job openings for the market that span sales, service and charging.\n\n\"Our mission is to build a world of amazing abundance. We're looking for exceptional, ambitious people ready to help bring that mission to Vietnam.\" evwire.com/p/tesla-vietnam-l…\n\nLink\n\n\n\nTesla is officially coming to Vietnam, starts hiring for sales, service and charging roles\n\nTesla confirms Vietnam entry with five hiring openings across sales, service, purchasing, HR, and charging roles.\nevwire.com",
+      "link": "https://x.com/SawyerMerritt/status/2115449303229432121#m",
+      "date": "Wed, 28 Oct 2026 14:23:11 GMT",
+      "tweet_id": "2115449303229432121",
+      "ctx_done": 1,
+      "text_zh": "特斯拉宣布他们将正式进军越南，该公司的招聘团队针对该市场发布了五个职位空缺，涵盖销售、服务和充电等领域。\n\n“我们的使命是建设一个富足的世界。我们正在寻找杰出、雄心勃勃的人才，准备帮助越南实现这一使命。” evwire.com/p/tesla-vietnam-l…\n\n链接\n\n\n\n特斯拉正式进军越南，开始招聘销售、服务和充电岗位\n\n特斯拉确认进入越南市场，并提供五个职位空缺，涉及销售、服务、采购、人力资源和充电职位。\nevwire.com"
+    },
+    {
+      "text": "Elon Musk will be a guest speaker at the Annual Baron Investment Conference on November 6, joining Ron Baron for a virtual fireside chat to discuss what’s next and the ideas shaping the future.\n\nStarts at 1:10 PM ET.",
+      "link": "https://x.com/SawyerMerritt/status/2115448083173794256#m",
+      "date": "Wed, 28 Oct 2026 14:18:20 GMT",
+      "tweet_id": "2115448083173794256",
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 将于 11 月 6 日在年度巴伦投资大会上担任演讲嘉宾，与罗恩·巴伦 (Ron Baron) 一起进行虚拟炉边聊天，讨论下一步的发展以及塑造未来的想法。\n\n美国东部时间下午 1:10 开始。"
+    },
+    {
+      "text": "Worth adding that after the FCC vote tomorrow, this would open a ~30-day comment period and another 30 days for reply comments, although the exact schedule can vary:",
+      "link": "https://x.com/SawyerMerritt/status/2115430039978414492#m",
+      "date": "Wed, 28 Oct 2026 13:06:38 GMT",
+      "tweet_id": "2115430039978414492",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "值得补充的是，明天 FCC 投票后，将开放约 30 天的评论期，并再有 30 天的回复评论期，尽管确切的时间表可能有所不同："
+    },
+    {
+      "text": "The FCC will vote tomorrow (October 29th) on a proposal that would make an additional 482MHz of spectrum available for direct-to-device satellite services, such as Starlink Mobile, expanding the number of eligible bands from five to 1, which would make it easier for satellite companies like SpaceX to offer cellular service without relying as heavily on existing wireless carriers.\n\nAT&T, Verizon and T-Mobile have asked the FCC to not make these bands available, arguing that 300 million users depend on them and that satellite operations in them are not technically feasible.\n\nIn addition to AT&T, Verizon and T-Mobile meeting with the FCC on Oct 20th, SpaceX met with the FCC on Oct 23rd, requesting:\n• More spectrum: Add the 902–928 MHz band to proposed satellite-to-phone rules, potentially opening additional frequencies for Starlink.\n• Fewer restrictions: Modernize interference rules to give satellite networks more flexibility based on the frequencies they use.\n• Easier expansion: Align satellite deployment requirements with terrestrial cellular networks to encourage broader coverage.\n\nSpaceX says the goal is to allow satellite and terrestrial networks to work seamlessly together, keeping Americans connected wherever they are.",
+      "link": "https://x.com/SawyerMerritt/status/2115415585441845355#m",
+      "date": "Wed, 28 Oct 2026 12:09:12 GMT",
+      "tweet_id": "2115415585441845355",
+      "ctx_done": 1,
+      "text_zh": "FCC 将于明天（10 月 29 日）就一项提案进行投票，该提案将为 Starlink Mobile 等直接到设备的卫星服务提供额外的 482MHz 频谱，将符合条件的频段数量从 5 个扩大到 1 个，这将使 SpaceX 等卫星公司更容易提供蜂窝服务，而无需严重依赖现有无线运营商。\n\nAT&T、Verizon 和 T-Mobile 已要求 FCC 停止提供这些频段，理由是 3 亿用户依赖这些频段，而且这些频段的卫星运营在技术上不可行。\n\n除了 AT&T、Verizon 和 T-Mobile 于 10 月 20 日与 FCC 会面外，SpaceX 也在 10 月 23 日与 FCC 会面，要求：\n• 更多频谱：将902–928 MHz 频段添加到拟议的卫星到电话规则中，可能为星链开放更多频率。\n• 更少的限制：现代化干扰规则，使卫星网络根据其使用的频率具有更大的灵活性。\n• 更容易扩展：使卫星部署要求与地面蜂窝网络保持一致，以鼓励更广泛的覆盖范围。\n\nSpaceX 表示，其目标是让卫星和地面网络无缝协作，让美国人无论身在何处都能保持联系。"
+    },
     {
       "text": "Bill: landsman.house.gov/media/pre…\n\nLink\n\n\n\nLandsman Introduces Bill to Reduce the Cost of EVs and Gas for Americans | Representative Greg...\n\nCincinnati, OH – Today, Congressman Greg Landsman (D-OH) introduced legislation to dramatically reduce the cost of electric vehicles and gas for hardworking Americans.In 2026, Americans are paying...\nlandsman.house.gov",
       "link": "https://x.com/SawyerMerritt/status/2115282277374820359#m",

@@ -1,8 +1,275 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-29T02:20:08Z",
-  "count": 180,
+  "updated_at": "2026-10-29T02:24:16Z",
+  "count": 200,
   "tweets": [
+    {
+      "text": "The Duo is great for consuming content. The 18 Pro is great for creating content.\n\nI'd go with the 18 Pro.",
+      "link": "https://x.com/SawyerMerritt/status/2115616332628562236#m",
+      "date": "Thu, 29 Oct 2026 01:26:54 GMT",
+      "tweet_id": "2115616332628562236",
+      "reply_to": "wholemars",
+      "ctx_done": 1,
+      "text_zh": "Duo 非常适合消费内容。 18 Pro 非常适合创作内容。\n\n我会选择 18 Pro。"
+    },
+    {
+      "text": "Will Apple allow me to display my Touch Bar controls on screen with the new Macbook Pro?",
+      "link": "https://x.com/wholemars/status/2115615688291426782#m",
+      "date": "Thu, 29 Oct 2026 01:24:20 GMT",
+      "tweet_id": "2115615688291426782",
+      "ctx_done": 1,
+      "text_zh": "Apple 是否允许我在新款 Macbook Pro 的屏幕上显示 Touch Bar 控件？"
+    },
+    {
+      "text": "One of the best things about Apple was not what they made, but what they chose not to make. \nYou knew their top of the line product was going to be a great product all around, with the right trade-offs for a typical user. You didn’t have to look through four or five different models and figure out which was for you. You could just buy the product without even trying it and know that you would love it and it would delight you. \nThese days it’s more confusing. Should I buy an iPhone Pro, iPhone Duo, iPhone Pro Max, iPhone Air or iPhone SE? \nShould I get a Macbook Pro, or a Macbook Pro OLED with touch, or a Macbook Neo or a Macbook Air? \nApple used to have strong opinions about things. A phone shouldn’t require a stylus. A laptop shouldn’t have a touch screen unless we can make it great. We’re not doing a foldable unless it can be truly great. \nNow they are following the market, whereas before they defined the market. They told us what the future looked like, built it for us, and the rest of the industry followed. \nI hope one day Apple can recapture some of that former glory. But right now the AI industry is rewriting what it means to use a personal computer while Apple sits on the sidelines with Siri.",
+      "link": "https://x.com/wholemars/status/2115613102012326023#m",
+      "date": "Thu, 29 Oct 2026 01:14:04 GMT",
+      "tweet_id": "2115613102012326023",
+      "quoted": {
+        "user": "AutismCapital",
+        "text": "The reason people feel so impassioned about the Apple Touchscreen MBP is because they actually want Apple to make cool stuff. Nobody would care otherwise. Indifference is the worst thing Apple could hope for. If people have passionate responses, they still care. There's a serious lack of cool hardware, especially new cool hardware, and people want to feel enthusiasm and excitement about products again. Products that actually enhance their lives. 0 to 1 moments. Apple used to provide that. The modern man yearns for the innovation. It lets them feel excited for the future in a future that there is increasingly less to be excited about.",
+        "text_zh": "人们之所以对 Apple 触摸屏 MBP 如此热情，是因为他们实际上希望 Apple 制造出很酷的东西。否则没有人会关心。冷漠是苹果最糟糕的希望。如果人们有热情的回应，他们仍然会关心。酷硬件尤其是新的酷硬件严重缺乏，人们希望再次感受到对产品的热情和兴奋。真正改善他们生活的产品。 0到1的时刻。苹果曾经提供过这样的服务。现代人渴望创新。这让他们对未来感到兴奋，而未来的兴奋点越来越少。"
+      },
+      "ctx_done": 1,
+      "text_zh": "苹果最好的事情之一不是他们制造了什么，而是他们选择不制造什么。 \n您知道他们的顶级产品将成为一款出色的产品，并为典型用户提供正确的权衡。您不必浏览四五个不同的型号并找出哪个适合您。您无需尝试就可以购买该产品，并且知道您会喜欢它并且它会让您高兴。 \n这些天，情况更加混乱。我应该购买 iPhone Pro、iPhone Duo、iPhone Pro Max、iPhone Air 还是 iPhone SE？ \n我应该购买 Macbook Pro、带触控功能的 Macbook Pro OLED、Macbook Neo 或 Macbook Air？ \n苹果曾经对事物有强烈的看法。手机不应该需要手写笔。笔记本电脑不应该有触摸屏，除非我们能让它变得很棒。除非它真的很棒，否则我们不会做可折叠产品。 \n现在他们追随市场，而之前他们定义市场。他们告诉我们未来是什么样子，并为我们打造未来，而行业的其他公司也纷纷效仿。 \n我希望有一天苹果能够重拾昔日的辉煌。但现在人工智能行业正在改写个人电脑的使用意义，而苹果则对 Siri 袖手旁观。"
+    },
+    {
+      "text": "Fuck, this sucks. I love the iPhone Duo but I also love the iPhone 18 Pro. \n\nI love having a large display for my most used computing device, but I also love how light and powerful and familiar the 18 Pro feels. \n\nWhich one should I use as my main phone?",
+      "link": "https://x.com/wholemars/status/2115608465368584565#m",
+      "date": "Thu, 29 Oct 2026 00:55:38 GMT",
+      "tweet_id": "2115608465368584565",
+      "ctx_done": 1,
+      "text_zh": "他妈的，这太糟糕了。我喜欢 iPhone Duo，但我也喜欢 iPhone 18 Pro。 \n\n我喜欢为我最常用的计算设备配备大显示屏，但我也喜欢 18 Pro 的轻盈、强大和熟悉的感觉。 \n\n我应该使用哪一部作为我的主要电话？"
+    },
+    {
+      "text": "I love my Apple Vision Pro. Even though I barely ever use it, every time I put it on and move windows around with just my eyes and fingers it just feels like the future of computing. \nIt’s a shame it was such a flop as a product.",
+      "link": "https://x.com/wholemars/status/2115607277269086244#m",
+      "date": "Thu, 29 Oct 2026 00:50:55 GMT",
+      "tweet_id": "2115607277269086244",
+      "quoted": {
+        "user": "AutismCapital",
+        "text": "Has enough time passed for people to admit that the Apple Vision Pro was (is) actually the most innovative and original thing Apple has tried in recent years? And they actually need to continue down this path to push our tech tree forward given the advent of AI and world models?",
+        "text_zh": "是否已经过去了足够的时间让人们承认 Apple Vision Pro 实际上是苹果近年来尝试过的最具创新性和原创性的产品？鉴于人工智能和世界模型的出现，他们实际上需要继续沿着这条道路推动我们的技术树向前发展？"
+      },
+      "ctx_done": 1,
+      "text_zh": "我喜欢我的 Apple Vision Pro。尽管我几乎从未使用过它，但每次我戴上它并仅用眼睛和手指移动窗户时，都感觉像是计算的未来。 \n遗憾的是它作为一个产品如此失败。"
+    },
+    {
+      "text": "Brilliant marketing.\nVideo",
+      "link": "https://x.com/wholemars/status/2115606821016842440#m",
+      "date": "Thu, 29 Oct 2026 00:49:06 GMT",
+      "tweet_id": "2115606821016842440",
+      "quoted": {
+        "user": "Tesla",
+        "text": "Trick or treaters beware 👻",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115605666895470593/img/8_eP-C-EnTVMTYx_.jpg",
+            "local": "2115606821016842440q_0.jpg"
+          }
+        ],
+        "text_zh": "不给糖就捣蛋的人要小心👻"
+      },
+      "ctx_done": 1,
+      "text_zh": "出色的营销。\n视频"
+    },
+    {
+      "text": "I have an idea for how we can bring that down to 0 over time\n\n\nSan Francisco Chronicle (@sfchronicle)\n\nAmerica once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage. sfchronicle.com/projects/202…\n\nLink\n\n\n\nAmerica waged war on drunk driving. Now, a new epidemic is taking hold\n\nAmerica once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage.\nsfchronicle.com\n\n\n\n\n— http://nitter.jaydenha.uk/sfchronicle/status/2115468671531282494#m",
+      "link": "https://x.com/wholemars/status/2115606542875771358#m",
+      "date": "Thu, 29 Oct 2026 00:48:00 GMT",
+      "tweet_id": "2115606542875771358",
+      "quoted": {
+        "user": "sfchronicle",
+        "text": "America once waged war on drunk driving. Now, about 30 people a day are killed in crashes involving drugs — and officials are failing to confront the carnage. https://www.sfchronicle.com/projects/2026/drugged-driving-epidemic/?taid=6ae21759f64aaa0001a43a91&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
+        "text_zh": "美国曾经对酒后驾车发动过战争。现在，每天大约有 30 人在涉及毒品的事故中丧生，而官员们却未能应对这一大屠杀。 https://www.sfchronicle.com/projects/2026/drugged-driven-epidemic/?taid=6ae21759f64aaa0001a43a91&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter"
+      },
+      "ctx_done": 1,
+      "text_zh": "我有一个想法，如何随着时间的推移将其降至 0\n\n\n旧金山纪事报 (@sfchronicle)\n\n美国曾经对酒后驾车发动过战争。现在，每天大约有 30 人在涉及毒品的事故中丧生，而官员们却未能应对这一大屠杀。 sfchronicle.com/projects/202…\n\n链接\n\n\n\n美国对酒后驾驶发动了战争。现在，新的疫情正在袭来\n\n美国曾经对酒后驾车发动过战争。现在，每天大约有 30 人在涉及毒品的事故中丧生，而官员们却未能应对这一大屠杀。\n科幻纪事网\n\n\n\n\n— http://nitter.jaydenha.uk/sfchronicle/status/2115468671531282494#m"
+    },
+    {
+      "text": "The Apple Car ordinary people wanted vs the Apple Car we got",
+      "link": "https://x.com/wholemars/status/2115604911488671992#m",
+      "date": "Thu, 29 Oct 2026 00:41:31 GMT",
+      "tweet_id": "2115604911488671992",
+      "ctx_done": 1,
+      "text_zh": "普通人想要的 Apple Car 与我们得到的 Apple Car"
+    },
+    {
+      "text": "omg Roadsters on display in Hawthorne. See you there tonight.",
+      "link": "https://x.com/wholemars/status/2115603542518141085#m",
+      "date": "Thu, 29 Oct 2026 00:36:05 GMT",
+      "tweet_id": "2115603542518141085",
+      "quoted": {
+        "user": "UnpluggedTesla",
+        "text": "Our neighbor @SpaceX  just parked TWO new Roadsters under their Falcon 9 Booster!\n\nSo awesome seeing both the Thrust and Rocket versions together 🚀",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvzhb_bgAAFlnq.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVvzhb_bgAAFlnq.jpg?name=orig",
+            "local": "2115603542518141085q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVvzwiqbYAAkiPH.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVvzwiqbYAAkiPH.jpg?name=orig",
+            "local": "2115603542518141085q_1.jpg"
+          }
+        ],
+        "text_zh": "我们的邻居 @SpaceX 刚刚在他们的 Falcon 9 助推器下停放了两辆新 Roadster！\n\n看到 Thrust 和 Rocket 版本在一起真是太棒了🚀"
+      },
+      "ctx_done": 1,
+      "text_zh": "omg Roadsters 在霍桑展出。今晚见。"
+    },
+    {
+      "text": "Just witnessed the speed in front of my very eyes!\n10% → 70% in 4 min 30 sec\n10% → 97% in 8 min 40 sec\nVideo",
+      "link": "https://x.com/Geely_Kevin/status/2115602977063096702#m",
+      "date": "Thu, 29 Oct 2026 00:33:50 GMT",
+      "tweet_id": "2115602977063096702",
+      "quoted": {
+        "user": "wholemars",
+        "text": "5 minute EV fast charging",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVwTxmKawAABqBD.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVwTxmKawAABqBD.jpg?name=orig",
+            "local": "2115602977063096702q_0.jpg"
+          }
+        ],
+        "text_zh": "5分钟EV快速充电"
+      },
+      "ctx_done": 1,
+      "text_zh": "刚才的速度就在我眼前亲眼所见！\n4 分 30 秒内 10% → 70%\n8 分 40 秒内 10% → 97%\n视频"
+    },
+    {
+      "text": "Some people are saying nobody would pay that much… I am basing this on what consumers are already spending on their cars. See the attached table.",
+      "link": "https://x.com/wholemars/status/2115602923568935199#m",
+      "date": "Thu, 29 Oct 2026 00:33:37 GMT",
+      "tweet_id": "2115602923568935199",
+      "reply_to": "wholemars",
+      "ctx_done": 1,
+      "text_zh": "有些人说没有人愿意花那么多钱……我的这一说法是基于消费者已经在汽车上花费的钱。见附表。"
+    },
+    {
+      "text": "Tesla is already has more autonomous cars registered in Texas than Waymo had last month in September",
+      "link": "https://x.com/wholemars/status/2115602039749415146#m",
+      "date": "Thu, 29 Oct 2026 00:30:06 GMT",
+      "tweet_id": "2115602039749415146",
+      "ctx_done": 1,
+      "text_zh": "特斯拉在德克萨斯州注册的自动驾驶汽车数量已超过上个月 Waymo 的数量"
+    },
+    {
+      "text": "Waymo just registered 49 new Robotaxis in Texas \n\nTesla is trying to hit a moving target\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Waymo just registered 49 new robotaxis (48 2024 Jaguar I-PACE, 1 2026 Zeekr RT) with the Texas DMV — now 863 Jaguar I-PACEs and 396 Zeekr RTs in its 1,259-vehicle TX fleet, with 52 registered in the last 24 hours. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2115593764903465283#m",
+      "link": "https://x.com/wholemars/status/2115601743241470112#m",
+      "date": "Thu, 29 Oct 2026 00:28:56 GMT",
+      "tweet_id": "2115601743241470112",
+      "quoted": {
+        "user": "fsd_database",
+        "text": "🚗 Waymo just registered 49 new robotaxis (48 2024 Jaguar I-PACE, 1 2026 Zeekr RT) with the Texas DMV — now 863 Jaguar I-PACEs and 396 Zeekr RTs in its 1,259-vehicle TX fleet, with 52 registered in the last 24 hours. https://www.fsddb.com/robotaxi?operator=waymo-llc",
+        "text_zh": "🚗 Waymo 刚刚向德克萨斯州 DMV 注册了 49 辆新机器人出租车（48 辆 2024 Jaguar I-PACE、1 辆 2026 Zeekr RT）——目前其 1,259 辆 TX 车队中有 863 辆 Jaguar I-PACE 和 396 辆 Zeekr RT，其中 52 辆是在过去 24 小时内注册的。 https://www.fsddb.com/robotaxi?operator=waymo-llc"
+      },
+      "ctx_done": 1,
+      "text_zh": "Waymo 刚刚在德克萨斯州注册了 49 辆新的 Robotaxis \n\n特斯拉正试图实现一个移动目标\n\n\n整个火星 FSD 数据库 (@fsd_database)\n\n🚗 Waymo 刚刚向德克萨斯州 DMV 注册了 49 辆新机器人出租车（48 辆 2024 Jaguar I-PACE、1 辆 2026 Zeekr RT）——目前其 1,259 辆 TX 车队中有 863 辆 Jaguar I-PACE 和 396 辆 Zeekr RT，其中 52 辆是在过去 24 小时内注册的。 fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2115593764903465283#m"
+    },
+    {
+      "text": "I think a US consumer would pay $999 a month for an autonomous driving service that could completely replace car ownership for them.",
+      "link": "https://x.com/wholemars/status/2115592946439672267#m",
+      "date": "Wed, 28 Oct 2026 23:53:58 GMT",
+      "tweet_id": "2115592946439672267",
+      "ctx_done": 1,
+      "text_zh": "我认为美国消费者每月愿意支付 999 美元来购买自动驾驶服务，该服务可以完全取代他们的汽车所有权。"
+    },
+    {
+      "text": "Oh damn, that's disappointing. subscriber only group chats are only available to people with 800 subscribers or less, so I can't make one.. that's disappointing and kind of strange since the group chats support up to 1,000 people\n\nhopefully this changes soon!",
+      "link": "https://x.com/wholemars/status/2115588593033044183#m",
+      "date": "Wed, 28 Oct 2026 23:36:40 GMT",
+      "tweet_id": "2115588593033044183",
+      "ctx_done": 1,
+      "text_zh": "哦，该死，这太令人失望了。仅订阅者群聊仅适用于订阅者数为 800 人或更少的人，所以我无法创建一个.. 这令人失望且有点奇怪，因为群聊最多支持 1,000 人\n\n希望这很快就会改变！"
+    },
+    {
+      "text": "5 minute EV fast charging",
+      "link": "https://x.com/wholemars/status/2115587671376695550#m",
+      "date": "Wed, 28 Oct 2026 23:33:01 GMT",
+      "tweet_id": "2115587671376695550",
+      "ctx_done": 1,
+      "text_zh": "5分钟EV快速充电"
+    },
+    {
+      "text": "anyone know how to create one? can't see the option",
+      "link": "https://x.com/wholemars/status/2115586768754069664#m",
+      "date": "Wed, 28 Oct 2026 23:29:26 GMT",
+      "tweet_id": "2115586768754069664",
+      "reply_to": "wholemars",
+      "ctx_done": 1,
+      "text_zh": "有人知道如何创建一个吗？看不到该选项"
+    },
+    {
+      "text": "Except for the parts you chased out to Florida, Texas, and Louisiana\nVideo",
+      "link": "https://x.com/wholemars/status/2115584906139144268#m",
+      "date": "Wed, 28 Oct 2026 23:22:01 GMT",
+      "tweet_id": "2115584906139144268",
+      "quoted": {
+        "user": "CAgovernor",
+        "text": "The future of space and technology is all happening right here in California.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/media/HVu8hrubYAASTrY.jpg",
+            "local": "2115584906139144268q_0.jpg"
+          }
+        ],
+        "text_zh": "太空和技术的未来都发生在加利福尼亚州。"
+      },
+      "ctx_done": 1,
+      "text_zh": "除了你追到佛罗里达州、德克萨斯州和路易斯安那州的部分\n视频"
+    },
+    {
+      "text": "my subscriber group chat gonna be wild\nVideo",
+      "link": "https://x.com/wholemars/status/2115583264815792389#m",
+      "date": "Wed, 28 Oct 2026 23:15:30 GMT",
+      "tweet_id": "2115583264815792389",
+      "quoted": {
+        "user": "XCreators",
+        "text": "Introducing Subscriber-only Group Chats.\n\nChat in real time with your most loyal supporters and build a community that keeps them subscribed. Now in beta for creators with 800 or fewer subscribers. Set yours up in Creator Studio > Subscriptions.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115525011188436992/img/hHerGm8L2AeP0erp.jpg",
+            "local": "2115583264815792389q_0.jpg"
+          }
+        ],
+        "text_zh": "推出仅限订阅者的群聊。\n\n与最忠实的支持者实时聊天，并建立一个让他们订阅的社区。现在针对订阅者数量为 800 名或更少的创作者提供测试版。在 Creator Studio > 订阅中进行设置。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我的订户群聊会很疯狂\n视频"
+    },
+    {
+      "text": "44% of our @starlink installations are complete. \n(That’s 44 out of every 100 if you're reading this, Dan Orlovsky.)\nVideo",
+      "link": "https://x.com/united/status/2115557099891761437#m",
+      "date": "Wed, 28 Oct 2026 21:31:32 GMT",
+      "tweet_id": "2115557099891761437",
+      "quoted": {
+        "user": "PatMcAfeeShow",
+        "text": "There's no way @danorlovsky7 😂😂😂\n\n#PMSLive",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114779860870569984/img/WiTVAQh_dxxXfkfV.jpg",
+            "local": "2115557099891761437q_0.jpg"
+          }
+        ],
+        "text_zh": "没办法@danorlovsky7😂😂😂\n\n#PMSLive"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们的@starlink 安装已完成 44%。 \n（丹·奥尔洛夫斯基，如果你正在读这篇文章，那么每 100 个中有 44 个。）\n视频"
+    },
     {
       "text": "We address the limiting factor",
       "link": "https://x.com/elonmusk/status/2115352603886494204#m",
