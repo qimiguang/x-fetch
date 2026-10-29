@@ -1,8 +1,38 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-29T06:44:18Z",
+  "updated_at": "2026-10-29T06:53:36Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "I think I’m Steve\nbabylonbee.com/news/meet-ste…\n\nLink\n\n\n\nMeet Steve, The Last Remaining American Who Doesn&apos;t Have A Podcast\n\nWe recently caught up with Steve in Eastern Texas. Steve is unassuming, an ordinary guy on the surface, but underneath he harbors a dark secret: he&apos;s the last remaining holdout who hasn&apos;t yet started...\nbabylonbee.com",
+      "link": "https://x.com/elonmusk/status/2115686767969902647#m",
+      "date": "Thu, 29 Oct 2026 06:06:47 GMT",
+      "tweet_id": "2115686767969902647",
+      "reply_to": "m_goes_distance",
+      "ctx_done": 1,
+      "text_zh": "我想我是史蒂夫\nBabylonbee.com/news/meet-ste…\n\n链接\n\n\n\n认识一下史蒂夫，最后一个没有播客的美国人\n\n我们最近在德克萨斯州东部采访了史蒂夫。史蒂夫表面上是一个谦逊的普通人，但他的内心却隐藏着一个不为人知的秘密：他是最后一个尚未开始的坚持者……\nBabylonbee.com"
+    },
+    {
+      "text": "True\nVideo",
+      "link": "https://x.com/elonmusk/status/2115664319278973255#m",
+      "date": "Thu, 29 Oct 2026 04:37:35 GMT",
+      "tweet_id": "2115664319278973255",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "In 2008, Elon Musk faced a decision that would have broken most people\n\nTwo companies he had poured his heart, soul, and everything he had into were on the brink of collapse. He had just $30 to $40 million left, and saving one meant risking the life of the other\n\nHe was forced to confront an almost impossible question: Which of the two dreams he had sacrificed so much to build was he willing to let die?\n\nHis answer was neither\n\nEven if it meant risking everything he had left\n\nTesla and SpaceX were both fighting for survival, and he had to make one of the hardest choices of his life\n\n\"I had two choices. I could put it all into one company, and then the other company would definitely die. Or split it between the two companies. But if I split it between the two companies, then both might die\"\n\nThen Elon said something that tells you everything about how much these companies meant to him:\n\n\"When you put your blood, sweat, and tears into creating something or building something, it's like a child. And so it's like which one am I gonna let starve to death? I couldn't bring myself to do it\"\n\nHe split the money between both companies, knowing he was risking losing everything\n\n\"Fortunately, thank goodness, they both came through\"\n\nNearly two decades later, Tesla has transformed the electric vehicle industry, and SpaceX has revolutionized spaceflight\n\nTwo companies that were on the brink of collapse went on to change the world\n\nAll because Elon Musk couldn't bring himself to let either one starve",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115644179925929985/img/1RyatzGjOzUF08EX.jpg",
+            "local": "2115664319278973255q_0.jpg"
+          }
+        ],
+        "text_zh": "2008 年，埃隆·马斯克 (Elon Musk) 面临着一个会让大多数人崩溃的决定\n\n他倾尽心血、倾尽所有的两家公司都濒临倒闭。他只剩下 30 到 4000 万美元，救一个人就意味着拿另一个人的生命冒险\n\n他被迫面对一个几乎不可能的问题：他为之付出巨大牺牲的两个梦想中的哪一个是他愿意放弃的？\n\n他的回答是否定的\n\n即使这意味着拿他剩下的一切去冒险\n\n特斯拉和 SpaceX 都在为生存而战，他不得不做出一生中最艰难的选择之一\n\n“我有两个选择。我可以把所有的钱都集中到一家公司，然后另一家公司肯定会死掉。或者把它分给两家公司。但如果我把它分给两家公司，那么两家公司都可能死掉”\n\n然后埃隆说了一些话，足以告诉你这些公司对他来说有多重要：\n\n“当你投入你的心血、汗水和泪水来创造某样东西或建造某样东西时，它就像一个孩子。所以这就像是我会让哪个人饿死？我无法让自己这么做”\n\n他知道自己冒着失去一切的风险，将钱分给了两家公司\n\n“幸运的是，谢天谢地，他们都挺过来了”\n\n近二十年后，特斯拉改变了电动汽车行业，SpaceX 彻底改变了航天\n\n两家濒临倒闭的公司却改变了世界\n\n这一切都是因为埃隆·马斯克无法让任何一个人挨饿"
+      },
+      "ctx_done": 1,
+      "text_zh": "真实\n视频"
+    },
     {
       "text": "Try Grok Bot",
       "link": "https://x.com/elonmusk/status/2115642175199350785#m",
@@ -41,6 +71,14 @@
       },
       "ctx_done": 1,
       "text_zh": "标准做法"
+    },
+    {
+      "text": "Elon on why Starlink matters most when disaster hits\nFires, floods and storms knock out fiber and cell towers. Starlink keeps people connected.\n@elonmusk\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2115641073150333229#m",
+      "date": "Thu, 29 Oct 2026 03:05:13 GMT",
+      "tweet_id": "2115641073150333229",
+      "ctx_done": 1,
+      "text_zh": "埃隆谈为什么灾难来袭时星链最重要\n火灾、洪水和风暴摧毁了光纤和手机信号塔。星链让人们保持联系。\n@埃隆马斯克\n\n视频"
     },
     {
       "text": "If you look closely enough, breakthroughs in everything are accelerating exponentially. \nAn exponential always starts off looking small.",
@@ -130,12 +168,28 @@
       "text_zh": "真的"
     },
     {
+      "text": "The fact that I’m on an international flight, running Grok, replying to feedback on X, and building cool as shit with the team, all in parallel, is amazing. God bless Starlink. I love you @elonmusk",
+      "link": "https://x.com/EddiePast1/status/2115620709498286235#m",
+      "date": "Thu, 29 Oct 2026 01:44:18 GMT",
+      "tweet_id": "2115620709498286235",
+      "ctx_done": 1,
+      "text_zh": "事实上，我在国际航班上，运行 Grok，回复 X 上的反馈，并与团队一起构建酷炫的东西，这一切都是并行的，真是太棒了。上帝保佑星链。我爱你@elonmusk"
+    },
+    {
       "text": "Yesterday was the REDDEST day of early voting in Texas.\n\nWe need big turnout tomorrow & Friday to finish strong for Election Day. \n\n@KenPaxtonTX",
       "link": "https://x.com/ScottPresler/status/2115597854878433695#m",
       "date": "Thu, 29 Oct 2026 00:13:29 GMT",
       "tweet_id": "2115597854878433695",
       "ctx_done": 1,
       "text_zh": "昨天是德克萨斯州提前投票最红的一天。\n\n我们需要明天和周五的大量投票才能在选举日取得强劲的成绩。 \n\n@KenPaxtonTX"
+    },
+    {
+      "text": "83% of Americans wanted photo ID to vote, including 71% of Democrats. \n\nTheir voters supported it but their politicians blocked it.\n\nRepublicans had the numbers, the mandate, and the SAVE America Act. \n\nTheir voters supported it but their politicians didn’t push it through.\n\nThey’ve made their bed.",
+      "link": "https://x.com/Rothmus/status/2115595085727338523#m",
+      "date": "Thu, 29 Oct 2026 00:02:28 GMT",
+      "tweet_id": "2115595085727338523",
+      "ctx_done": 1,
+      "text_zh": "83% 的美国人希望持有带照片的身份证件才能投票，其中包括 71% 的民主党人。 \n\n他们的选民支持它，但他们的政客阻止它。\n\n共和党拥有人数、授权和《拯救美国法案》。 \n\n他们的选民支持它，但他们的政客却没有推动它通过。\n\n他们已经铺好了床。"
     },
     {
       "text": "BREAKING: Gabon’s government plans to authorize Starlink to help connect over 200 villages still without internet.\n\nMinister Doumba says some have only 20-30 residents, making towers hard to justify. Starlink could connect these to the world without the need for local fiber.\n\nVideo",
@@ -177,6 +231,14 @@
       "reply_to": "danorlovsky7",
       "ctx_done": 1,
       "text_zh": "我们的机上 Wi-Fi 确实有效"
+    },
+    {
+      "text": "Instead of Space Age carbon fiber or aluminum-lithium, SpaceX is building its Starship rocket out of stainless steel.\n\nStainless steel is easy to weld, far cheaper, and under the right conditions, it has a similar strength-to-weight ratio as carbon fiber.\n\n@elonmusk explains:\n\nVideo",
+      "link": "https://x.com/dwarkeshpodcast/status/2115564269890646149#m",
+      "date": "Wed, 28 Oct 2026 22:00:01 GMT",
+      "tweet_id": "2115564269890646149",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 不再使用太空时代的碳纤维或铝锂材料，而是用不锈钢建造其 Starship 火箭。\n\n不锈钢易于焊接，价格便宜得多，并且在适当的条件下，它具有与碳纤维相似的强度重量比。\n\n@elonmusk 解释道：\n\n视频"
     },
     {
       "text": "Hmm",
@@ -237,12 +299,33 @@
       "text_zh": "人工智能的一大乐趣就是能够随心所欲地混合搭配风格。\n\n您对我可以尝试的风格组合有什么想法吗？\n\n视频"
     },
     {
+      "text": "The problems Neuralink are solving are almost “biblical in proportion.”\n“The lame can walk. The mute can speak.”\n— Thrive Capital’s Dr. Nworah Ayogu\n@elonmusk\nVideo",
+      "link": "https://x.com/sourceryy/status/2115540638997590333#m",
+      "date": "Wed, 28 Oct 2026 20:26:07 GMT",
+      "tweet_id": "2115540638997590333",
+      "quoted": {
+        "user": "neuralink",
+        "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
+        "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Neuralink 正在解决的问题几乎是“符合圣经的”。\n“瘸子能走路，哑巴能说话。”\n— Thrive Capital 的 Nworah Ayogu 博士\n@埃隆马斯克\n视频"
+    },
+    {
       "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
       "link": "https://x.com/neuralink/status/2115534593147187397#m",
       "date": "Wed, 28 Oct 2026 20:02:06 GMT",
       "tweet_id": "2115534593147187397",
       "ctx_done": 1,
       "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
+    },
+    {
+      "text": "You can get a used Model 3 for less than a fully loaded 16\" OLED MacBook Pro:\n\n• 2020 Model 3 Standard Range with 95k miles, no accidents/damage & clean title: $14,190\n• Fully loaded 16-inch MacBook Pro: $14,549",
+      "link": "https://x.com/SawyerMerritt/status/2115521949376143486#m",
+      "date": "Wed, 28 Oct 2026 19:11:51 GMT",
+      "tweet_id": "2115521949376143486",
+      "ctx_done": 1,
+      "text_zh": "您可以以低于满载 16 英寸 OLED MacBook Pro 的价格购买二手 Model 3：\n\n• 2020 年 Model 3 标准续航里程 95,000 英里，无事故/损坏且产权干净：14,190 美元\n• 满载的 16 英寸 MacBook Pro：14,549 美元"
     },
     {
       "text": "Impressive",
@@ -304,7 +387,7 @@
       "text_zh": "圣。拉屎。\n\n《纽约时报》报道称，尽管玛丽·佩尔托拉的工作人员和民主党特工否认，但他们还是秘密飞往阿拉斯加各地寻找并招募一名名叫丹·沙利文的男子。\n\n他们让他参与投票，是为了故意窃取共和党人丹·沙利文的选票。"
     },
     {
-      "text": "Elon Musk: \"We should really look at anyone who permanently castr*tes a kid as right up there with Josef Mengele. They're mutil*ting children.\"\n\nJoe Rogan: \"And it's thought of as being kind. Would you rather have a live daughter or a dead son?\"\n\nMusk: \"That's the line they use… In fact, the probability of su*cide increases if you trans a kid. Not decreases. By some accounts, it triples. So, that is an evil lie.\"\n\nVideo",
+      "text": "Elon Musk: \"We should really look at anyone who permanently castr*tes a kid as right up there with Josef Mengele. They're mutil*ting children.\"\n\nJoe Rogan: \"And it's thought of as being kind. Would you rather have a live daughter or a dead son?\"\n\nMusk: \"That's the line they use… In fact, the probability of su*cide increases if you trans a kid. Not decreases. By some accounts, it triples. So, that is an evil lie.\" x.com/ElonClipsX/status/2034…\n\nVideo",
       "link": "https://x.com/ResisttheMS/status/2115474924965875780#m",
       "date": "Wed, 28 Oct 2026 16:05:00 GMT",
       "tweet_id": "2115474924965875780",
@@ -2457,132 +2540,6 @@
       "date": "Fri, 23 Oct 2026 05:30:10 GMT",
       "text_zh": "埃隆·马斯克 (Elon Musk) 刚刚分享了特斯拉是如何在 2008 年圣诞节前夕去世的，令人难以置信的是，在最后几个小时里，未来的命运有多大\n\n“很难想象 2026 年特斯拉实际上已经多次濒临死亡，实际上\n\n2008 年是最糟糕的一年，我们在下午 6 点结束了这一轮融资。 2008 年圣诞节前夕。这是最后一天的最后一个小时\n\n如果该轮融资尚未结束，我们将在圣诞节后几天取消工资单。所以压力很大”\n\n如今路上行驶的数百万辆特斯拉汽车、世界各地的工厂、超级充电网络、能源存储、自动驾驶以及现在的人形机器人技术的突破。这些都没有达到我们今天看到的规模\n\n特斯拉所取得的一切成就，以及埃隆仍在努力实现的一切，都可以追溯到一家距离无法支付员工工资仅几天的公司\n\n视频",
       "tweet_id": "2113503224472952848",
-      "ctx_done": 1
-    },
-    {
-      "text": "Grok Bot 0.75.2 is awesome.\n\nSpaceXSI is moving fast with new features daily.\n\n\neric zakariasson (@ericzakariasson)\n\ngrok @bot 0.75.2 is out!\n\n- pages: reports, memos and dashboards your bot builds and keeps up to date\n- new cards in every desktop chat\n- bots can make videos from a description or an image\n\nand a lot more! read everything in the changelog: x.ai/changelog/bot\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/ericzakariasson/status/2113423577408278903#m",
-      "link": "http://nitter.meowing.monster/BrianRoemmele/status/2113453425400898020#m",
-      "date": "Fri, 23 Oct 2026 02:12:17 GMT",
-      "text_zh": "Grok Bot 0.75.2 非常棒。\n\nSpaceXSI 每天都在快速推出新功能。\n\n\n埃里克扎卡里亚森（@ericzakariasson）\n\ngrok @bot 0.75.2 已发布！\n\n- 页面：您的机器人构建并保持最新的报告、备忘录和仪表板\n- 每次桌面聊天中都有新卡片\n- 机器人可以根据描述或图像制作视频\n\n还有更多！阅读变更日志中的所有内容：x.ai/changelog/bot\n\n\n\n\n\n\n\n\n\n\n\n— http://nitter.meowing.monster/ericzakariasson/status/2113423577408278903#m",
-      "tweet_id": "2113453425400898020",
-      "quoted": {
-        "user": "ericzakariasson",
-        "text": "grok @bot 0.75.2 is out!\n\n- pages: reports, memos and dashboards your bot builds and keeps up to date\n- new cards in every desktop chat\n- bots can make videos from a description or an image\n\nand a lot more! read everything in the changelog: https://x.ai/changelog/bot",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRjiT9aUAAoKDf.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRjiT9aUAAoKDf.jpg?name=orig",
-            "local": "2113453425400898020q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRjifCaAAAi0sl.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRjifCaAAAi0sl.jpg?name=orig",
-            "local": "2113453425400898020q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRjipSa0AA0W-H.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRjipSa0AA0W-H.jpg?name=orig",
-            "local": "2113453425400898020q_2.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRji0SbQAAvLcv.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRji0SbQAAvLcv.jpg?name=orig",
-            "local": "2113453425400898020q_3.jpg"
-          }
-        ],
-        "text_zh": "grok @bot 0.75.2 已发布！\n\n- 页面：您的机器人构建并保持最新的报告、备忘录和仪表板\n- 每次桌面聊天中都有新卡片\n- 机器人可以根据描述或图像制作视频\n\n还有更多！阅读变更日志中的所有内容：https://x.ai/changelog/bot"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "It’s that easy",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113444197978255814#m",
-      "date": "Fri, 23 Oct 2026 01:35:37 GMT",
-      "tweet_id": "2113444197978255814",
-      "quoted": {
-        "user": "Teslaconomics",
-        "text": "I just bought my kids 2 Garmin watches with one text.\n\n\"Grok Bot, order me two vivosmart 5s for my two kids shipped to my home\"\n\nIt already knows my address and my card. It found the right size and color, did the checkout and placed the order.\n\nJust a minute later, I had the confirmation... I never opened a website.\n\nThis is the new way to shop.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRbGqraAAEz_A1.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRbGqraAAEz_A1.jpg?name=orig",
-            "local": "2113444197978255814q_0.jpg"
-          }
-        ],
-        "text_zh": "我刚给我的孩子买了 2 块 Garmin 手表，只有一条短信。\n\n“Grok Bot，为我的两个孩子订购两部 vivosmart 5，然后运到我家”\n\n它已经知道我的地址和我的卡。它找到了合适的尺寸和颜色，结账并下了订单。\n\n一分钟后，我得到了确认……我从未打开过网站。\n\n这是新的购物方式。"
-      },
-      "ctx_done": 1,
-      "text_zh": "就是这么简单"
-    },
-    {
-      "text": "Grok Bot now integrates with your phone apps",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113444022408937913#m",
-      "date": "Fri, 23 Oct 2026 01:34:55 GMT",
-      "tweet_id": "2113444022408937913",
-      "quoted": {
-        "user": "bot",
-        "text": "Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone.\n\nRolling out now on iOS and Android.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVRHn--W4AAI_uQ.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVRHn--W4AAI_uQ.jpg?name=orig",
-            "local": "2113444022408937913q_0.jpg"
-          }
-        ],
-        "text_zh": "Grok Bot 现在可以使用手机上的日历、提醒、联系人和更多应用程序。\n\n现已在 iOS 和 Android 上推出。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 现在与您的手机应用程序集成"
-    },
-    {
-      "text": "This is literally their plan to end democracy in America",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113441855266554263#m",
-      "date": "Fri, 23 Oct 2026 01:26:18 GMT",
-      "tweet_id": "2113441855266554263",
-      "quoted": {
-        "user": "FischerKing64",
-        "text": "The playbook will go something like this: 1) win back the House and Senate, and hopefully the Presidency in 2028; (2) admit DC and Puerto Rico as states, which doesn’t need a constitutional amendment, to gain 4 new Senate seats and cement control; (3) pack the Court, which only requires a change to the Judiciary Act of 1869, not a constitutional amendment; (4) eliminate the electoral college, which is unconstitutional, but not when you have a rigged court that finds the ‘loophole’; (5) flood the country with pliant migrants, swamp the natives, and hold power indefinitely.",
-        "text_zh": "剧本将是这样的：1）赢回众议院和参议院，并希望在 2028 年赢得总统职位； （2）接纳华盛顿特区和波多黎各为不需要修宪的州，获得4个新的参议院席位，巩固控制权； (3) 打包最高法院，只需要修改1869年的《司法法》，而不是宪法修正案； （4）取消选举团制度，这是违宪的，但如果法庭被操纵，发现了“漏洞”，就不会这样做； （5）让顺从的移民涌入这个国家，淹没当地人，并无限期地掌权。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这实际上是他们结束美国民主的计划"
-    },
-    {
-      "text": "Grok Bot is insanely cool, wow.",
-      "link": "http://nitter.meowing.monster/Truthful_ast/status/2113428045004697651#m",
-      "date": "Fri, 23 Oct 2026 00:31:26 GMT",
-      "text_zh": "Grok Bot 太酷了，哇。",
-      "tweet_id": "2113428045004697651",
-      "ctx_done": 1
-    },
-    {
-      "text": "I asked Grok Bot to make a video about itself. \n\nIt did everything - set the storyline, found clips, cut and stitched them, and added the titles and music.\n\nI was particularly delighted by how it chose to end the video - @bot has a sense of humor 😂\n\nVideo",
-      "link": "http://nitter.meowing.monster/venturetwins/status/2113427192382373931#m",
-      "date": "Fri, 23 Oct 2026 00:28:02 GMT",
-      "text_zh": "我要求 Grok Bot 制作一个关于它自己的视频。 \n\n它完成了所有工作——设置故事情节、查找剪辑、剪切和缝合它们，以及添加标题和音乐。\n\n我特别高兴它选择结束视频的方式 - @bot 有幽默感 😂\n\n视频",
-      "tweet_id": "2113427192382373931",
-      "ctx_done": 1
-    },
-    {
-      "text": "Every day I am more impressed by @grok bot",
-      "link": "http://nitter.meowing.monster/APompliano/status/2113420868168609814#m",
-      "date": "Fri, 23 Oct 2026 00:02:55 GMT",
-      "text_zh": "每一天我都对 @grok bot 印象更深刻",
-      "tweet_id": "2113420868168609814",
-      "ctx_done": 1
-    },
-    {
-      "text": "I’ve got a problem. I’m addicted to Grok Bot.\n\nI keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots since August.\n\nSo the team gave me 50 codes to give away for a free month of Super ($100 tier).\n\nHaven’t tried it yet? Reply with what you’d build.\n\nI’ll pick 50 of the most interesting ideas. New users only.",
-      "link": "http://nitter.meowing.monster/hnshah/status/2113410068435566937#m",
-      "date": "Thu, 22 Oct 2026 23:20:00 GMT",
-      "text_zh": "我有一个问题。我对 Grok Bot 上瘾了。\n\n我一直在找借口再做一个@grok @bot。显然自 8 月份以来我已经制作了 81 个机器人。\n\n因此，团队给了我 50 个代码，让我可以免费获得一个月的 Super（100 美元级别）。\n\n还没尝试过吗？回复您要构建的内容。\n\n我会挑选 50 个最有趣的想法。仅限新用户。",
-      "tweet_id": "2113410068435566937",
       "ctx_done": 1
     }
   ]
