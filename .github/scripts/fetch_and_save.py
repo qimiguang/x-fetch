@@ -30,18 +30,19 @@ TWITTER_BEARER = (
 
 # Nitter 实例列表（按可靠性排序）
 NITTER_INSTANCES = [
+    # 存活优先（2026-10 实测），死实例排在后面仅作兑底，发现接口 429 时靠它们
+    "https://nitter.cz",
+    "https://nitter.tiekoetter.com",
+    "https://xcancel.com",
+    "https://nitter.space",
+    "https://lightbrd.com",
+    "https://nitter.privacyredirect.com",
     "https://nitter.net",
     "https://nitter.privacydev.net",
     "https://nitter.poast.org",
-    "https://nitter.cz",
     "https://nitter.lunar.icu",
-    "https://nitter.tiekoetter.com",
-    "https://xcancel.com",
     "https://nitter.1d4.us",
     "https://bird.trom.tf",
-    "https://nitter.rawbit.ninja",
-    "https://nitter.moomoo.me",
-    "https://nitter.kavin.rocks",
 ]
 
 COUNT = 200   # 每次抓取向 API 请求的条数（服务端可能自行截断）
@@ -496,6 +497,9 @@ def fetch_via_nitter(username):
                 n_media = sum(1 for t in tweets if t.get("media"))
                 print(f"    OK: {instance} ({len(tweets)} tweets, {n_enc} enclosure, {n_media} with media)")
                 return tweets
+            print(f"    FAIL {instance}: rss ok but 0 items parsed (len={len(content)})")
+        elif content:
+            print(f"    FAIL {instance}: non-rss response (len={len(content)})")
         time.sleep(0.3)
     return None
 
