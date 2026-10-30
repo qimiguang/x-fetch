@@ -888,6 +888,7 @@ def fetch_via_nitter_html(username):
             continue
         if "timeline-item" not in content:
             print(f"    [nitter-html] no timeline-item (len={len(content)})")
+            print("    head:", re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", content))[:200])
             continue
         chunks = content.split('<div class="timeline-item')[1:]
         out = []
