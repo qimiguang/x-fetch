@@ -1,8 +1,30 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-30T08:48:18Z",
+  "updated_at": "2026-10-30T09:01:10Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "6 details on the new Tesla Roadster you probably missed. Which one's your favorite? 👀 Filmed in person at the Petersen. #Tesla #Roadster #fyp https://t.co/WgfLyhK4ae",
+      "link": "https://x.com/teslaownersSV/status/2116092830934282275",
+      "date": "Fri Oct 30 09:00:20 +0000 2026",
+      "tweet_id": "2116092830934282275",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116092783073099776/pu/vid/avc1/720x1280/BR9AA_xkoWwxFvj-.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116092783073099776/pu/img/UhGu9r9xDZH0Rdci.jpg",
+          "local": "2116092830934282275_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116092783073099776/pu/vid/avc1/720x1280/BR9AA_xkoWwxFvj-.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116092783073099776/pu/img/UhGu9r9xDZH0Rdci.jpg",
+          "local": "2116092830934282275_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "您可能错过的关于新款 Tesla Roadster 的 6 个细节。你最喜欢哪一个？ 👀 在彼得森亲自拍摄。 #特斯拉 #Roadster #fyp https://t.co/WgfLyhK4ae"
+    },
     {
       "text": "I got to stand next to the new Tesla Roadster Thrust at the Petersen. Sub-1-second 0–60, active aero, and Tesla calls it its \"last best driver's car.\" 🚀 Filmed in person. #Tesla #Roadster #fyp https://t.co/xIEPGk41Iw",
       "link": "https://x.com/teslaownersSV/status/2116077749387338162",
@@ -4089,28 +4111,6 @@
         }
       ],
       "text_zh": "小𝕏的两句智慧之言 https://t.co/qfWlfXLRcJ",
-      "ctx_done": 1
-    },
-    {
-      "text": "Do you support @elonmusk ? https://t.co/z9ck9MIfn8",
-      "link": "https://x.com/teslaownersSV/status/2114549119188615185",
-      "date": "Mon Oct 26 02:46:11 +0000 2026",
-      "tweet_id": "2114549119188615185",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVhjN7faUAAsjLx.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVhjN7faUAAsjLx.jpg?format=jpg&name=large",
-          "local": "2114549119188615185_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVhjN7faUAAsjLx.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVhjN7faUAAsjLx.jpg?format=jpg&name=large",
-          "local": "2114549119188615185_1.jpg"
-        }
-      ],
-      "text_zh": "你支持@elonmusk吗？ https://t.co/z9ck9MIfn8",
       "ctx_done": 1
     }
   ]
