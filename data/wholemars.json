@@ -1,8 +1,16 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-10-30T00:45:44Z",
+  "updated_at": "2026-10-30T06:57:18Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Try Tesla Self-Driving for free with my link: \nhttps://t.co/4sVeJ5RhdV",
+      "link": "https://x.com/wholemars/status/2115977093138067839",
+      "date": "Fri Oct 30 01:20:26 +0000 2026",
+      "tweet_id": "2115977093138067839",
+      "ctx_done": 1,
+      "text_zh": "通过我的链接免费试用特斯拉自动驾驶： \nhttps://t.co/4sVeJ5RhdV"
+    },
     {
       "text": "In France, the government is the majority of the economy",
       "link": "https://x.com/wholemars/status/2115677201932984821#m",
@@ -2605,27 +2613,6 @@
         "text_zh": "grok 机器人 0.71.2 已发布\n\n- 更智能的通知\n- 文件最大 250 mb（视频 1 GB），每条消息 20 个\n- 表格已预先填写完毕\n\n还有更多！\n\nhttps://x.ai/changelog/bot"
       },
       "ctx_done": 1
-    },
-    {
-      "text": "Massive foreign influence operations inform what we see on social media every day",
-      "link": "http://nitter.meowing.monster/wholemars/status/2112355881853862170#m",
-      "date": "Tue, 20 Oct 2026 01:31:02 GMT",
-      "tweet_id": "2112355881853862170",
-      "quoted": {
-        "user": "KevinKhadavi",
-        "text": "My investigation into the alleged OpenAI spy's Stanford ties got 126k views, but the response seemed unusually negative. I decided to look into it: the overwhelming majority of accounts attacking my reporting are Saudi.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBdyqGXoAA1Ljf.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBdyqGXoAA1Ljf.jpg?name=orig",
-            "local": "2112355881853862170q_0.jpg"
-          }
-        ],
-        "text_zh": "我对涉嫌 OpenAI 间谍与斯坦福大学关系的调查获得了 12.6 万次浏览，但反应似乎异常负面。我决定调查一下：攻击我的报道的绝大多数账户都是沙特的。"
-      },
-      "ctx_done": 1,
-      "text_zh": "大规模的外国影响力行动告诉我们每天在社交媒体上看到的内容"
     }
   ]
 }

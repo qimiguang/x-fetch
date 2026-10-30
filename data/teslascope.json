@@ -1,10 +1,90 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-10-30T00:44:27Z",
-  "count": 81,
+  "updated_at": "2026-10-30T06:56:40Z",
+  "count": 89,
   "tweets": [
     {
-      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~12,760 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (59%) and V14.3 Lite for eligible HW3 vehicles (41%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2114080271758692376#m",
+      "text": "Also please stop jump-scaring us, @ads. :(",
+      "link": "https://x.com/teslascope/status/2116033238296866950#m",
+      "date": "Fri, 30 Oct 2026 05:03:32 GMT",
+      "tweet_id": "2116033238296866950",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "另外，请停止吓唬我们，@ads。 :("
+    },
+    {
+      "text": "Robotaxi now runs until 2AM (and can go beyond if a ride is started prior, conditions likely apply).",
+      "link": "https://x.com/teslascope/status/2116032968947081521#m",
+      "date": "Fri, 30 Oct 2026 05:02:28 GMT",
+      "tweet_id": "2116032968947081521",
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Robotaxi updates\n\nService\n– Operating hours are now 6am - 2am\n\nFeatures\n– Rear view camera feed now available to view during your ride\n– Trip details can be shared with a friend\n– New Live Activity design & experience\n– Calm Mode dims the screen & sets cabin lighting to a relaxing state\n– Grok now available on our Model Y vehicles\n\nAccessibility\n– Improved vehicle locating arrow in the app\n– Added haptic feedback to assist users in finding their vehicle\n– Music Control via Screen Reader",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV2aRJDbAAAsh_B.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV2aRJDbAAAsh_B.jpg?name=orig",
+            "local": "2116032968947081521q_0.jpg"
+          }
+        ],
+        "text_zh": "机器人出租车更新\n\n服务\n– 营业时间现为早上 6 点至凌晨 2 点\n\n特点\n– 后视摄像头现在可在骑行过程中查看\n– 旅行详细信息可以与朋友分享\n– 新的现场活动设计和体验\n– 平静模式使屏幕变暗并将机舱照明设置为放松状态\n– Grok 现在可用于我们的 Model Y 车辆\n\n无障碍\n- 改进了应用程序中的车辆定位箭头\n- 添加了触觉反馈以帮助用户找到他们的车辆\n– 通过屏幕阅读器控制音乐"
+      },
+      "ctx_done": 1,
+      "text_zh": "Robotaxi 现在运行至凌晨 2 点（如果提前开始乘车，可能会运行到凌晨 2 点，条件可能适用）。"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) \n\nteslascope.com/software/2026…",
+      "link": "https://x.com/teslascope/status/2115894837459276165#m",
+      "date": "Thu, 29 Oct 2026 19:53:35 GMT",
+      "tweet_id": "2115894837459276165",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "包括以下功能：FSD（受监督） \n\nteslascope.com/software/2026…"
+    },
+    {
+      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
+      "link": "https://x.com/teslascope/status/2115894833516613876#m",
+      "date": "Thu, 29 Oct 2026 19:53:34 GMT",
+      "tweet_id": "2115894833516613876",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "包括以下功能： 小修复\n\nteslascope.com/software/2026…"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.39.6 on Model X Plaid (2024) in South Holland, Netherlands. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.39.6 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.39.6.\nteslascope.com",
+      "link": "https://x.com/teslascope/status/2115894822317838468#m",
+      "date": "Thu, 29 Oct 2026 19:53:31 GMT",
+      "tweet_id": "2115894822317838468",
+      "ctx_done": 1,
+      "text_zh": "我们注意到荷兰南荷兰的 Model X Plaid (2024) 上有新的特斯拉软件更新 2026.39.6。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.39.6 Tesla 软件发布说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026 年 39 月 6 日。\nteslascope.com"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.38.6.1 on Model Y Performance (2023) in New South Wales, Australia. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.6.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.6.1.\nteslascope.com",
+      "link": "https://x.com/teslascope/status/2115894821994860867#m",
+      "date": "Thu, 29 Oct 2026 19:53:31 GMT",
+      "tweet_id": "2115894821994860867",
+      "ctx_done": 1,
+      "text_zh": "我们注意到澳大利亚新南威尔士州的 Model Y Performance (2023) 发布了新的特斯拉软件更新 2026.38.6.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.6.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.6.1 的发行说明和发布。\nteslascope.com"
+    },
+    {
+      "text": "We noticed a new Tesla software update 2026.38.6 on Model X AWD (2023) in Aargau, Switzerland. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.6 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.6.\nteslascope.com",
+      "link": "https://x.com/teslascope/status/2115883482417074567#m",
+      "date": "Thu, 29 Oct 2026 19:08:28 GMT",
+      "tweet_id": "2115883482417074567",
+      "ctx_done": 1,
+      "text_zh": "我们注意到瑞士阿尔高市的 Model X AWD (2023) 上有新的特斯拉软件更新 2026.38.6。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.6 Tesla 软件发布说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026 年 38 月 6 日。\nteslascope.com"
+    },
+    {
+      "text": "Last week, we hosted Accessibility Day with members of the disabled community – their feedback goes directly into all Robotaxi products, including Cybercab and future products!\n\nRobotaxi = freedom of low cost, on-demand, safe transportation for the masses \n\nOur purpose-built autonomous vehicles are desiged for everyone from day 1",
+      "link": "https://x.com/robotaxi/status/2115862218470519041#m",
+      "date": "Thu, 29 Oct 2026 17:43:58 GMT",
+      "tweet_id": "2115862218470519041",
+      "ctx_done": 1,
+      "text_zh": "上周，我们与残疾人社区成员一起举办了无障碍日 - 他们的反馈直接影响到所有 Robotaxi 产品，包括 Cyber​​cab 和未来的产品！\n\nRobotaxi = 为大众提供低成本、按需、安全的交通自由 \n\n我们的专用自动驾驶汽车从第一天起就专为每个人设计"
+    },
+    {
+      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~12,760 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (59%) and V14.3 Lite for eligible HW3 vehicles (41%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2114080271758692376#m",
       "link": "https://x.com/teslascope/status/2115512711580672047#m",
       "date": "Wed, 28 Oct 2026 18:35:09 GMT",
       "tweet_id": "2115512711580672047",
@@ -17,7 +97,7 @@
       "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.11 现在将在过去五分钟内向另外约 12,760 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (59%) 的全自动驾驶 V14.3.13 和适用于符合条件的 HW3 车辆 (41%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到在阳光明媚的佛罗里达州查克的 Cybertruck AWD 上有新的 Tesla 软件更新 2026.38.5.11。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.11 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026.38.5.11。\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2114080271758692376#m"
     },
     {
-      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~14,520 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (55%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2114080271758692376#m",
+      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~14,520 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (55%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2114080271758692376#m",
       "link": "https://x.com/teslascope/status/2114998080642666776#m",
       "date": "Tue, 27 Oct 2026 08:30:11 GMT",
       "tweet_id": "2114998080642666776",
@@ -30,7 +110,7 @@
       "ctx_done": 1
     },
     {
-      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~14,740 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (50%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2114080271758692376#m",
+      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~14,740 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (50%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2114080271758692376#m",
       "link": "https://x.com/teslascope/status/2114961578915209661#m",
       "date": "Tue, 27 Oct 2026 06:05:09 GMT",
       "tweet_id": "2114961578915209661",
@@ -51,7 +131,7 @@
       "ctx_done": 1
     },
     {
-      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~6,380 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (64%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2114080271758692376#m",
+      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~6,380 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (64%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2114080271758692376#m",
       "link": "https://x.com/teslascope/status/2114580321853137038#m",
       "date": "Mon, 26 Oct 2026 04:50:10 GMT",
       "tweet_id": "2114580321853137038",
@@ -64,7 +144,7 @@
       "ctx_done": 1
     },
     {
-      "text": "Tesla software update 2026.38.3.2 is now rolling out to ~10,010 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3.2 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.2.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2113362432831725585#m",
+      "text": "Tesla software update 2026.38.3.2 is now rolling out to ~10,010 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3.2 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.2.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2113362432831725585#m",
       "link": "https://x.com/teslascope/status/2114414226760425760#m",
       "date": "Sun, 25 Oct 2026 17:50:10 GMT",
       "tweet_id": "2114414226760425760",
@@ -86,7 +166,7 @@
       "ctx_done": 1
     },
     {
-      "text": "Tesla software update 2026.38.3.2 is now rolling out to ~9,460 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3.2 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.2.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2113362432831725585#m",
+      "text": "Tesla software update 2026.38.3.2 is now rolling out to ~9,460 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3.2 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.2.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2113362432831725585#m",
       "link": "https://x.com/teslascope/status/2114230518124351592#m",
       "date": "Sun, 25 Oct 2026 05:40:10 GMT",
       "tweet_id": "2114230518124351592",
@@ -108,7 +188,7 @@
       "ctx_done": 1
     },
     {
-      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~1,870 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (65%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.jaydenha.uk/teslascope/status/2114080271758692376#m",
+      "text": "Tesla software update 2026.38.5.11 is now rolling out to ~1,870 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (65%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.11 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.11.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2114080271758692376#m",
       "link": "https://x.com/teslascope/status/2114215412560728150#m",
       "date": "Sun, 25 Oct 2026 04:40:09 GMT",
       "tweet_id": "2114215412560728150",
