@@ -1,8 +1,230 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-30T08:17:41Z",
-  "count": 177,
+  "updated_at": "2026-10-30T08:50:46Z",
+  "count": 197,
   "tweets": [
+    {
+      "text": "I know it’s taken longer than expected, but Grok 4.8 will not be a disappointment. \n\nWe’re not optimizing for benchmarks and I really don’t care how Grok does on those, but it will be incredibly useful.",
+      "link": "https://x.com/elonmusk/status/2116036703538606301#m",
+      "date": "Fri, 30 Oct 2026 05:17:18 GMT",
+      "tweet_id": "2116036703538606301",
+      "reply_to": "techdevnotes",
+      "ctx_done": 1,
+      "text_zh": "我知道它花费的时间比预期的要长，但 Grok 4.8 不会令人失望。 \n\n我们没有针对基准进行优化，我真的不关心 Grok 在这些方面的表现，但它会非常有用。"
+    },
+    {
+      "text": "Tesla has announced that their robotaxi service now runs until 2 AM (from 1 AM before). Getting close to 24-hour operation!\n\nOther updates:\n• Trip details can now be shared with your friends\n• Rear view camera feed now available during your ride\n• New Calm Mode: dims screen & sets cabin lighting to a \"relaxing state.\"\n• Grok now in Model Y robotaxi\n\nAccessibility updates:\n• There is now haptic feedback to assist users in finding their Cybercab/Model Y robotaxi\n• Improved vehicle locating arrow in the app\n• Music Control via Screen Reader\n\nBeen hard to keep track of all the robotaxi service updates lately lol. nitterk.kareem.one/robotaxi/status/211602…",
+      "link": "https://x.com/SawyerMerritt/status/2116031267716084162#m",
+      "date": "Fri, 30 Oct 2026 04:55:42 GMT",
+      "tweet_id": "2116031267716084162",
+      "ctx_done": 1,
+      "text_zh": "Tesla 宣布他们的 Robotaxi 服务现在运行至凌晨 2 点（之前是凌晨 1 点）。接近24小时营业！\n\n其他更新：\n• 现在可以与您的朋友分享旅行详细信息\n• 后视摄像头现在可在您骑行期间使用\n• 新的平静模式：调暗屏幕并将机舱照明设置为“放松状态”。\n• Grok 现已应用于 Model Y 机器人出租车\n\n辅助功能更新：\n• 现在提供触觉反馈来帮助用户找到他们的 Cybercab/Model Y 机器人出租车\n• 改进了应用程序中的车辆定位箭头\n• 通过屏幕阅读器控制音乐\n\n最近很难跟踪所有机器人出租车服务更新，哈哈。 nitterk.kareem.one/robotaxi/status/211602…"
+    },
+    {
+      "text": "Hopefully, in a few years, we will be able to shunt signals from the motor and sensory areas of the brain to the limbs and enable people to use their hands and walk again",
+      "link": "https://x.com/elonmusk/status/2116026427128832140#m",
+      "date": "Fri, 30 Oct 2026 04:36:28 GMT",
+      "tweet_id": "2116026427128832140",
+      "reply_to": "elonmusk",
+      "ctx_done": 1,
+      "text_zh": "希望几年后，我们能够将信号从大脑的运动和感觉区域分流到四肢，使人们能够再次用手行走"
+    },
+    {
+      "text": "Neuralink has finished its new \"Blindsight\" brain chip/brain computer interface, which will allow blind people to see.",
+      "link": "https://x.com/SawyerMerritt/status/2116021056498778234#m",
+      "date": "Fri, 30 Oct 2026 04:15:08 GMT",
+      "tweet_id": "2116021056498778234",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see.\n\nIt is ready from an engineering standpoint. Just waiting on regulatory approval.",
+        "text_zh": "我们的第二个产品称为 Blindsight，顾名思义，即使是完全失明或从未见过的人也能看到东西。\n\n从工程的角度来看，它已经准备好了。只是等待监管部门的批准。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Neuralink已经完成了新的“Blindsight”脑芯片/脑机接口，这将使盲人能够看到东西。"
+    },
+    {
+      "text": "One thing I like about Tesla's new FSD referral program is that, unlike the old program, which only allowed first-time Tesla buyers to use your referral code, the new program allows eligible existing Tesla owners to use it, which should make it easier for the people referring to earn rewards.\n\nAs of the end of Q3, Tesla had ~925,000 monthly paid FSD subscribers globally (about 9% of its existing fleet), an increase of 260,000 subs in just one quarter, or an average of ~2,800 new subs per day - a record high. 75% of new Tesla deliveries in North America included a paid FSD subscription signup in Q3, despite every vehicle already coming with a free one-month trial.\n\nTesla is clearly on a mission to get its entire existing fleet using FSD, as well as all new customers. FSD is going mainstream.",
+      "link": "https://x.com/SawyerMerritt/status/2116020241465545048#m",
+      "date": "Fri, 30 Oct 2026 04:11:53 GMT",
+      "tweet_id": "2116020241465545048",
+      "ctx_done": 1,
+      "text_zh": "我喜欢 Tesla 新的 FSD 推荐计划的一件事是，与旧计划只允许首次购买 Tesla 的买家使用您的推荐代码不同，新计划允许符合条件的现有 Tesla 车主使用它，这应该会让推荐人更容易获得奖励。\n\n截至第三季度末，特斯拉在全球范围内拥有约 925,000 名每月付费 FSD 用户（约占其现有车队的 9%），仅一个季度就增加了 260,000 名订阅用户，平均每天新增约 2,800 名订阅用户，创历史新高。尽管每辆车都已经提供了一个月的免费试用期，但第三季度北美新交付的特斯拉中有 75% 包含付费 FSD 订阅注册。\n\n特斯拉的使命显然是让其整个现有车队以及所有新客户都使用 FSD。 FSD 正在成为主流。"
+    },
+    {
+      "text": "Tesla will be very high too",
+      "link": "https://x.com/elonmusk/status/2116005969519845870#m",
+      "date": "Fri, 30 Oct 2026 03:15:11 GMT",
+      "tweet_id": "2116005969519845870",
+      "reply_to": "JonErlichman",
+      "ctx_done": 1,
+      "text_zh": "特斯拉也会很高"
+    },
+    {
+      "text": "Just hit my FSD referral limit for this year after one hour lol. Tesla says I have to wait until January 1st before I can start referring again (it resets every calendar year).\n\n“You have sent 12 referrals. Refer again on January 1st. Come back in 62 days.”\n\n\n\n\n\n\nSawyer Merritt (@SawyerMerritt)\n\nTesla has just officially introduced the first FSD (Supervised) referral program!\n\nIf you refer a Tesla owner to try FSD (Supervised), then you earn one month of free FSD (Supervised) or a $99 Tesla Credit.\n\nTo refer someone, you must be currently subscribed to FSD (Supervised) or have purchased FSD (Supervised) outright\n\nSharing your referrer link grants eligible customers a one-month FSD (Supervised) trial. Referrer benefits are earned when your referral recipient subscribes to FSD (Supervised) during their trial. Your referrer benefit will depend on your FSD (Supervised) ownership status as outlined below:\n\n• Subscribed to FSD (Supervised): One month of free FSD (Supervised)\n• Purchased FSD (Supervised) outright: $99 Tesla Credit toward eligible purchases.\n\nYou can receive referrer benefits up to 12 times per calendar year when your link is used and an FSD (Supervised) subscription is purchased. This new program is currently only available in the U.S.\n\nAfter your invitee receives the link, they will have access to one free month of FSD (Supervised), if eligible. If they subscribe to FSD (Supervised) during the trial, you will earn your referrer benefit.\n\nHere's my FSD (Supervised) referral link if you want to check it out: tesla.com/get-app/referral?c…\n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2115972217364213774#m",
+      "link": "https://x.com/SawyerMerritt/status/2115987656165536191#m",
+      "date": "Fri, 30 Oct 2026 02:02:25 GMT",
+      "tweet_id": "2115987656165536191",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Tesla has just officially introduced the first FSD (Supervised) referral program!\n\nIf you refer a Tesla owner to try FSD (Supervised), then you earn one month of free FSD (Supervised) or a $99 Tesla Credit.\n\nTo refer someone, you must be currently subscribed to FSD (Supervised) or have purchased FSD (Supervised) outright\n\nSharing your referrer link grants eligible customers a one-month FSD (Supervised) trial. Referrer benefits are earned when your referral recipient subscribes to FSD (Supervised) during their trial. Your referrer benefit will depend on your FSD (Supervised) ownership status as outlined below:\n\n• Subscribed to FSD (Supervised): One month of free FSD (Supervised)\n• Purchased FSD (Supervised) outright: $99 Tesla Credit toward eligible purchases.\n\nYou can receive referrer benefits up to 12 times per calendar year when your link is used and an FSD (Supervised) subscription is purchased. This new program is currently only available in the U.S.\n\nAfter your invitee receives the link, they will have access to one free month of FSD (Supervised), if eligible. If they subscribe to FSD (Supervised) during the trial, you will earn your referrer benefit.\n\nHere's my FSD (Supervised) referral link if you want to check it out: https://tesla.com/get-app/referral?code=sawyer66910",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV1wA4WWAAAYj01.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV1wA4WWAAAYj01.jpg?name=orig",
+            "local": "2115987656165536191q_0.jpg"
+          }
+        ],
+        "text_zh": "Tesla 刚刚正式推出首个 FSD（监督）推荐计划！\n\n如果您推荐 Tesla 车主尝试 FSD（受监督），那么您将获得一个月的免费 FSD（受监督）或 99 美元的 Tesla 积分。\n\n要推荐某人，您当前必须订阅 FSD（受监督）或已直接购买 FSD（受监督）\n\n分享您的推荐链接即可为符合条件的客户提供为期 1 个月的 FSD（受监督）试用期。当您的推荐接受者在试用期间订阅 FSD（受监督）时，即可获得推荐人福利。您的推荐人福利将取决于您的 FSD（受监管）所有权状态，如下所述：\n\n• 订阅 FSD（受监管）：一个月的免费 FSD（受监管）\n• 直接购买 FSD（受监督）：99 美元 Tesla 积分可用于符合资格的购买。\n\n当使用您的链接并购买 FSD（受监管）订阅时，您每个日历年最多可以获得 12 次推荐人福利。该新计划目前仅在美国提供。\n\n您的受邀者收到链接后，如果符合条件，他们将可以免费使用一个月的 FSD（受监督）。如果他们在试用期间订阅 FSD（受监督），您将获得推荐人福利。\n\n如果您想查看，这是我的 FSD（监督）推荐链接：https://tesla.com/get-app/referral?code=sawyer66910"
+      },
+      "ctx_done": 1,
+      "text_zh": "一小时后就达到了我今年的 FSD 推荐限制，哈哈。特斯拉说我必须等到 1 月 1 日才能再次开始推荐（每个日历年都会重置）。\n\n“您已发送 12 份推荐。1 月 1 日再次推荐。62 天后回来。”\n\n\n\n\n\n\n索耶·梅里特（@SawyerMerritt）\n\nTesla 刚刚正式推出首个 FSD（监督）推荐计划！\n\n如果您推荐 Tesla 车主尝试 FSD（受监督），那么您将获得一个月的免费 FSD（受监督）或 99 美元的 Tesla 积分。\n\n要推荐某人，您当前必须订阅 FSD（受监督）或已直接购买 FSD（受监督）\n\n分享您的推荐链接即可为符合条件的客户提供为期 1 个月的 FSD（受监督）试用期。当您的推荐接受者在试用期间订阅 FSD（受监督）时，即可获得推荐人福利。您的推荐人福利将取决于您的 FSD（受监管）所有权状态，如下所述：\n\n• 订阅 FSD（受监管）：一个月的免费 FSD（受监管）\n• 直接购买 FSD（受监督）：99 美元 Tesla 积分可用于符合资格的购买。\n\n当使用您的链接并购买 FSD（受监管）订阅时，您每个日历年最多可以获得 12 次推荐人福利。该新计划目前仅在美国提供。\n\n您的受邀者收到链接后，如果符合条件，他们将可以免费使用一个月的 FSD（受监督）。如果他们在试用期间订阅 FSD（受监督），您将获得推荐人福利。\n\n如果您想查看的话，这是我的 FSD（受监督）推荐链接：tesla.com/get-app/referral?c...\n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2115972217364213774#m"
+    },
+    {
+      "text": "More info: pcmag.com/news/starlink-test…\n\nLink\n\n\n\nStarlink Tests Dynamic Pricing. Bills Could Be 20% Higher Depending on Location\n\nWhile some areas of the US are seeing lower prices, elsewhere Starlink&apos;s Residential Max plan jumps from $130 to $156 per month, which might make budgeting difficult.\npcmag.com",
+      "link": "https://x.com/SawyerMerritt/status/2115982183508877686#m",
+      "date": "Fri, 30 Oct 2026 01:40:40 GMT",
+      "tweet_id": "2115982183508877686",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "更多信息：pcmag.com/news/starlink-test...\n\n链接\n\n\n\nStarlink 测试动态定价。根据地点不同，账单可能会高出 20%\n\n虽然美国某些地区的价格较低，但在其他地区，Starlink 的 Residential Max 计划从每月 130 美元跃升至 156 美元，这可能会使预算变得困难。\npcmag.com"
+    },
+    {
+      "text": "SpaceX has announced that it is introducing dynamic pricing for @Starlink Residential plans in select areas based on supply of capacity and demand from customers.\n\n\"As our constellation grows and network capacity changes, service pricing may change from time to time. Beginning with your next billing cycle on or after November 30, the monthly price for your Residential service plan will be adjusted to $156/month.\"\n\nIt looks like pricing differences are currently limited to a max 20% increase and 20% decrease. \n\nSpaceX says: \"Given this rapid pace of change, we will be reviewing prices on a regular basis, roughly quarterly.\"",
+      "link": "https://x.com/SawyerMerritt/status/2115982180572598409#m",
+      "date": "Fri, 30 Oct 2026 01:40:39 GMT",
+      "tweet_id": "2115982180572598409",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 宣布将根据容量供应和客户需求，在选定区域为 @Starlink Residential 计划引入动态定价。\n\n“随着我们星座的发展和网络容量的变化，服务定价可能会不时发生变化。从 11 月 30 日或之后的下一个计费周期开始，您的住宅服务计划的每月价格将调整为 156 美元/月。”\n\n目前价格差异似乎限制在最多 20% 的上涨和 20% 的下跌。 \n\nSpaceX 表示：“鉴于变化速度如此之快，我们将定期（大约每季度）审查一次价格。”"
+    },
+    {
+      "text": "Wow I already have multiple FSD referrals pending after just 15 minutes lol.\n\nThis is what it looks like in the Tesla app after someone clicks on your FSD referral link. It says how many are in a trial and pending.\n\n\n\n\nSawyer Merritt (@SawyerMerritt)\n\nTesla has just officially introduced the first FSD (Supervised) referral program!\n\nIf you refer a Tesla owner to try FSD (Supervised), then you earn one month of free FSD (Supervised) or a $99 Tesla Credit.\n\nTo refer someone, you must be currently subscribed to FSD (Supervised) or have purchased FSD (Supervised) outright\n\nSharing your referrer link grants eligible customers a one-month FSD (Supervised) trial. Referrer benefits are earned when your referral recipient subscribes to FSD (Supervised) during their trial. Your referrer benefit will depend on your FSD (Supervised) ownership status as outlined below:\n\n• Subscribed to FSD (Supervised): One month of free FSD (Supervised)\n• Purchased FSD (Supervised) outright: $99 Tesla Credit toward eligible purchases.\n\nYou can receive referrer benefits up to 12 times per calendar year when your link is used and an FSD (Supervised) subscription is purchased. This new program is currently only available in the U.S.\n\nAfter your invitee receives the link, they will have access to one free month of FSD (Supervised), if eligible. If they subscribe to FSD (Supervised) during the trial, you will earn your referrer benefit.\n\nHere's my FSD (Supervised) referral link if you want to check it out: tesla.com/get-app/referral?c…\n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2115972217364213774#m",
+      "link": "https://x.com/SawyerMerritt/status/2115976430307733974#m",
+      "date": "Fri, 30 Oct 2026 01:17:48 GMT",
+      "tweet_id": "2115976430307733974",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Tesla has just officially introduced the first FSD (Supervised) referral program!\n\nIf you refer a Tesla owner to try FSD (Supervised), then you earn one month of free FSD (Supervised) or a $99 Tesla Credit.\n\nTo refer someone, you must be currently subscribed to FSD (Supervised) or have purchased FSD (Supervised) outright\n\nSharing your referrer link grants eligible customers a one-month FSD (Supervised) trial. Referrer benefits are earned when your referral recipient subscribes to FSD (Supervised) during their trial. Your referrer benefit will depend on your FSD (Supervised) ownership status as outlined below:\n\n• Subscribed to FSD (Supervised): One month of free FSD (Supervised)\n• Purchased FSD (Supervised) outright: $99 Tesla Credit toward eligible purchases.\n\nYou can receive referrer benefits up to 12 times per calendar year when your link is used and an FSD (Supervised) subscription is purchased. This new program is currently only available in the U.S.\n\nAfter your invitee receives the link, they will have access to one free month of FSD (Supervised), if eligible. If they subscribe to FSD (Supervised) during the trial, you will earn your referrer benefit.\n\nHere's my FSD (Supervised) referral link if you want to check it out: https://tesla.com/get-app/referral?code=sawyer66910",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV1wA4WWAAAYj01.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV1wA4WWAAAYj01.jpg?name=orig",
+            "local": "2115976430307733974q_0.jpg"
+          }
+        ],
+        "text_zh": "Tesla 刚刚正式推出首个 FSD（监督）推荐计划！\n\n如果您推荐 Tesla 车主尝试 FSD（受监督），那么您将获得一个月的免费 FSD（受监督）或 99 美元的 Tesla 积分。\n\n要推荐某人，您当前必须订阅 FSD（受监督）或已直接购买 FSD（受监督）\n\n分享您的推荐链接即可为符合条件的客户提供为期 1 个月的 FSD（受监督）试用期。当您的推荐接受者在试用期间订阅 FSD（受监督）时，即可获得推荐人福利。您的推荐人福利将取决于您的 FSD（受监管）所有权状态，如下所述：\n\n• 订阅 FSD（受监管）：一个月的免费 FSD（受监管）\n• 直接购买 FSD（受监督）：99 美元 Tesla 积分可用于符合资格的购买。\n\n当使用您的链接并购买 FSD（受监管）订阅时，您每个日历年最多可以获得 12 次推荐人福利。该新计划目前仅在美国提供。\n\n您的受邀者收到链接后，如果符合条件，他们将可以免费使用一个月的 FSD（受监督）。如果他们在试用期间订阅 FSD（受监督），您将获得推荐人福利。\n\n如果您想查看，这是我的 FSD（监督）推荐链接：https://tesla.com/get-app/referral?code=sawyer66910"
+      },
+      "ctx_done": 1,
+      "text_zh": "哇，仅仅 15 分钟后我就已经有多个 FSD 转介待处理，哈哈。\n\n这就是有人点击您的 FSD 推荐链接后 Tesla 应用程序中的样子。它显示有多少人正在接受审判并等待审理。\n\n\n\n\n索耶·梅里特（@SawyerMerritt）\n\nTesla 刚刚正式推出首个 FSD（监督）推荐计划！\n\n如果您推荐 Tesla 车主尝试 FSD（受监督），那么您将获得一个月的免费 FSD（受监督）或 99 美元的 Tesla 积分。\n\n要推荐某人，您当前必须订阅 FSD（受监督）或已直接购买 FSD（受监督）\n\n分享您的推荐链接即可为符合条件的客户提供为期 1 个月的 FSD（受监督）试用期。当您的推荐接受者在试用期间订阅 FSD（受监督）时，即可获得推荐人福利。您的推荐人福利将取决于您的 FSD（受监管）所有权状态，如下所述：\n\n• 订阅 FSD（受监管）：一个月的免费 FSD（受监管）\n• 直接购买 FSD（受监督）：99 美元 Tesla 积分可用于符合资格的购买。\n\n当使用您的链接并购买 FSD（受监管）订阅时，您每个日历年最多可以获得 12 次推荐人福利。该新计划目前仅在美国提供。\n\n您的受邀者收到链接后，如果符合条件，他们将可以免费使用一个月的 FSD（受监督）。如果他们在试用期间订阅 FSD（受监督），您将获得推荐人福利。\n\n如果您想查看的话，这是我的 FSD（受监督）推荐链接：tesla.com/get-app/referral?c...\n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2115972217364213774#m"
+    },
+    {
+      "text": "More info: tesla.com/support/fsd/refer?…\n\nLink\n\n\n\nFull Self-Driving (Supervised) Referral Program | Tesla Support\n\ntesla.com",
+      "link": "https://x.com/SawyerMerritt/status/2115972220682191297#m",
+      "date": "Fri, 30 Oct 2026 01:01:04 GMT",
+      "tweet_id": "2115972220682191297",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "更多信息：tesla.com/support/fsd/refer?...\n\n链接\n\n\n\n完全自动驾驶（监督）推荐计划 |特斯拉支持\n\n特斯拉网站"
+    },
+    {
+      "text": "Tesla has just officially introduced the first FSD (Supervised) referral program!\n\nIf you refer a Tesla owner to try FSD (Supervised), then you earn one month of free FSD (Supervised) or a $99 Tesla Credit.\n\nTo refer someone, you must be currently subscribed to FSD (Supervised) or have purchased FSD (Supervised) outright\n\nSharing your referrer link grants eligible customers a one-month FSD (Supervised) trial. Referrer benefits are earned when your referral recipient subscribes to FSD (Supervised) during their trial. Your referrer benefit will depend on your FSD (Supervised) ownership status as outlined below:\n\n• Subscribed to FSD (Supervised): One month of free FSD (Supervised)\n• Purchased FSD (Supervised) outright: $99 Tesla Credit toward eligible purchases.\n\nYou can receive referrer benefits up to 12 times per calendar year when your link is used and an FSD (Supervised) subscription is purchased. This new program is currently only available in the U.S.\n\nAfter your invitee receives the link, they will have access to one free month of FSD (Supervised), if eligible. If they subscribe to FSD (Supervised) during the trial, you will earn your referrer benefit.\n\nHere's my FSD (Supervised) referral link if you want to check it out: tesla.com/get-app/referral?c…",
+      "link": "https://x.com/SawyerMerritt/status/2115972217364213774#m",
+      "date": "Fri, 30 Oct 2026 01:01:04 GMT",
+      "tweet_id": "2115972217364213774",
+      "ctx_done": 1,
+      "text_zh": "Tesla 刚刚正式推出首个 FSD（监督）推荐计划！\n\n如果您推荐 Tesla 车主尝试 FSD（受监督），那么您将获得一个月的免费 FSD（受监督）或 99 美元的 Tesla 积分。\n\n要推荐某人，您当前必须订阅 FSD（受监督）或已直接购买 FSD（受监督）\n\n分享您的推荐链接即可为符合条件的客户提供为期 1 个月的 FSD（受监督）试用期。当您的推荐接受者在试用期间订阅 FSD（受监督）时，即可获得推荐人福利。您的推荐人福利将取决于您的 FSD（受监管）所有权状态，如下所述：\n\n• 订阅 FSD（受监管）：一个月的免费 FSD（受监管）\n• 直接购买 FSD（受监督）：99 美元 Tesla 积分可用于符合资格的购买。\n\n当使用您的链接并购买 FSD（受监管）订阅时，您每个日历年最多可以获得 12 次推荐人福利。该新计划目前仅在美国提供。\n\n您的受邀者收到链接后，如果符合条件，他们将可以免费使用一个月的 FSD（受监督）。如果他们在试用期间订阅 FSD（受监督），您将获得推荐人福利。\n\n如果您想查看的话，这是我的 FSD（受监督）推荐链接：tesla.com/get-app/referral?c..."
+    },
+    {
+      "text": "Love all the software features Tesla has been adding to the Cybercab lately.\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2115962925185708190#m",
+      "date": "Fri, 30 Oct 2026 00:24:08 GMT",
+      "tweet_id": "2115962925185708190",
+      "quoted": {
+        "user": "scotsrule08",
+        "text": "New quiet mode now on @Robotaxi",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115956555443040256/img/YZ_5CAOwB9oXUXce.jpg",
+            "local": "2115962925185708190q_0.jpg"
+          }
+        ],
+        "text_zh": "@Robotaxi 现已推出新的安静模式"
+      },
+      "ctx_done": 1,
+      "text_zh": "喜欢特斯拉最近添加到 Cyber​​cab 中的所有软件功能。\n视频"
+    },
+    {
+      "text": "Introducing the City of Starbase Police Department's Cybertrucks! \n\nAs we build Starbase's first municipal police department under Chief Glenn Bennett, these trucks will be part of our fleet serving the community. It's been exciting to watch the department come together piece by piece, from the first hires to the equipment that will help our officers serve residents, workers, and visitors.\n\nThe department is taking shape, and we look forward to sharing more along the way.",
+      "link": "https://x.com/StarbaseTX/status/2115946059679600959#m",
+      "date": "Thu, 29 Oct 2026 23:17:07 GMT",
+      "tweet_id": "2115946059679600959",
+      "ctx_done": 1,
+      "text_zh": "隆重介绍 Starbase 市警察局的 Cyber​​truck！ \n\n当我们在格伦·贝内特局长的领导下建立 Starbase 的第一个市警察局时，这些卡车将成为我们为社区服务的车队的一部分。看到该部门从第一批员工到帮助我们的官员为居民、工人和游客提供服务的设备，一点一点地整合在一起，真是令人兴奋。\n\n该部门正在形成，我们期待在此过程中分享更多信息。"
+    },
+    {
+      "text": "Tesla’s Board of Directors has sent a new letter to shareholders:\n\n“Dear Tesla Shareholders,\n\nWe have always set ambitious goals at Tesla. Achieving them requires the right team and the right leadership at both the management and Board levels. At our Annual Meeting on December 3, 2026, our three Class I Directors - Elon Musk, Robyn Denholm and JB Straubel - are up for re election.\n\nWe have all the building blocks necessary to propel us into our next phase of transformational growth, but we must keep the leadership that has proven key to Tesla's success. We are asking you to vote FOR ALL proposals on this year's ballot - most importantly, the re-election of our three Class I Directors.\n\nThank you for your continued support of Tesla.\n\nSincerely,\nThe Tesla Board of Directors”\n\nMore info:",
+      "link": "https://x.com/SawyerMerritt/status/2115916015859105904#m",
+      "date": "Thu, 29 Oct 2026 21:17:44 GMT",
+      "tweet_id": "2115916015859105904",
+      "ctx_done": 1,
+      "text_zh": "特斯拉董事会向股东发出了一封新信：\n\n“亲爱的特斯拉股东，\n\n我们在特斯拉一直设定雄心勃勃的目标。实现这些目标需要在管理层和董事会层面拥有合适的团队和正确的领导力。在 2026 年 12 月 3 日举行的年会上，我们的三位 I 级董事 - 埃隆·马斯克 (Elon Musk)、罗宾·丹霍姆 (Robyn Denholm) 和 JB Straubel - 将进行连任。\n\n我们拥有推动我们进入下一阶段转型增长所需的所有要素，但我们必须保持领导地位，这已被证明是特斯拉成功的关键。我们要求您投票支持今年投票中的所有提案 - 最重要的是，重新选举我们的三名 I 级董事。\n\n感谢您一直以来对特斯拉的支持。\n\n真诚的，\n特斯拉董事会”\n\n更多信息："
+    },
+    {
+      "text": "Neuralink deserves more attention for all the amazing things the company is doing to significantly improve people's lives.\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2115881373374234867#m",
+      "date": "Thu, 29 Oct 2026 19:00:05 GMT",
+      "tweet_id": "2115881373374234867",
+      "quoted": {
+        "user": "neuralink",
+        "text": "1. Voice activity detection\n\nTo remove the need for pressing a button to start and stop recording of speech intention, we created a system for automatically detecting when a user is and isn’t trying to speak.\n\nThis is a big step towards making communication for those with speech impairment completely hands-free.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115874568334172161/img/RKE2utyi7PvkuoYV.jpg",
+            "local": "2115881373374234867q_0.jpg"
+          }
+        ],
+        "text_zh": "1. 语音活动检测\n\n为了消除按下按钮来开始和停止记录语音意图的需要，我们创建了一个系统来自动检测用户何时正在尝试说话以及何时不尝试说话。\n\n这是朝着让语言障碍人士完全免提沟通迈出的一大步。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Neuralink 值得更多关注，因为该公司为显着改善人们的生活所做的所有令人惊奇的事情。\n视频"
+    },
+    {
+      "text": "Filing: fcc.gov/ecfs/document/261100…",
+      "link": "https://x.com/SawyerMerritt/status/2115879306622877962#m",
+      "date": "Thu, 29 Oct 2026 18:51:52 GMT",
+      "tweet_id": "2115879306622877962",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1
+    },
+    {
+      "text": "SpaceX is accusing T-Mobile and other legacy carriers of deliberately trying to harm the company and undermine @Starlink Mobile's expansion by pushing outdated, restrictive satellite-to-phone rules that could prevent millions of people in underserved communities from accessing the service.\n\n\"SpaceX has worked extensively with other operators, including T-Mobile. Unfortunately, the misplaced desire to harm a competitor has led many incumbents to oppose modernized rules that would bring direct-to-cell service to underserved border communities. The Commission should recognize that AFTRCC is now purely a lobbying organization whose mission is to protect legacy companies and their comments should not be viewed as independent or objective,\" SpaceX said in a new filing to the FCC.\n\nFull filing in thread below:",
+      "link": "https://x.com/SawyerMerritt/status/2115879303489462625#m",
+      "date": "Thu, 29 Oct 2026 18:51:51 GMT",
+      "tweet_id": "2115879303489462625",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 指责 T-Mobile 和其他传统运营商故意推行过时的、限制性的卫星到电话规则，试图损害该公司并破坏 @Starlink Mobile 的扩张，这些规则可能会阻止服务匮乏社区的数百万人获得该服务。\n\nSpaceX 在向 FCC 提交的一份新文件中表示：“SpaceX 与包括 T-Mobile 在内的其他运营商进行了广泛合作。不幸的是，伤害竞争对手的错误愿望导致许多现有运营商反对为服务不足的边境社区提供直接到手机服务的现代化规则。委员会应该认识到 AFTRCC 现在纯粹是一个游说组织，其使命是保护传统公司，他们的评论不应被视为独立或客观。”\n\n完整归档在下面的线程中："
+    },
+    {
+      "text": "Last week, we hosted Accessibility Day with members of the disabled community – their feedback goes directly into all Robotaxi products, including Cybercab and future products!\n\nRobotaxi = freedom of low cost, on-demand, safe transportation for the masses \n\nOur purpose-built autonomous vehicles are desiged for everyone from day 1",
+      "link": "https://x.com/robotaxi/status/2115862218470519041#m",
+      "date": "Thu, 29 Oct 2026 17:43:58 GMT",
+      "tweet_id": "2115862218470519041",
+      "ctx_done": 1
+    },
+    {
+      "text": "Filing: docs.fcc.gov/public/attachme…",
+      "link": "https://x.com/SawyerMerritt/status/2115831021891396081#m",
+      "date": "Thu, 29 Oct 2026 15:40:00 GMT",
+      "tweet_id": "2115831021891396081",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "归档：docs.fcc.gov/public/attachme..."
+    },
     {
       "text": "Tesla knows you won't want to use anything else after you try it.",
       "link": "https://x.com/SawyerMerritt/status/2115649071251677290#m",
