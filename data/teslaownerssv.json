@@ -1,8 +1,220 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-30T06:57:03Z",
+  "updated_at": "2026-10-30T08:16:46Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "I got to stand next to the new Tesla Roadster Thrust at the Petersen. Sub-1-second 0–60, active aero, and Tesla calls it its \"last best driver's car.\" 🚀 Filmed in person. #Tesla #Roadster #fyp https://t.co/xIEPGk41Iw",
+      "link": "https://x.com/teslaownersSV/status/2116077749387338162",
+      "date": "Fri Oct 30 08:00:24 +0000 2026",
+      "tweet_id": "2116077749387338162",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116077686757953536/pu/vid/avc1/720x1280/ozvLjhumzgBL36MW.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116077686757953536/pu/img/3VtkPoDyuRCmCt4P.jpg",
+          "local": "2116077749387338162_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116077686757953536/pu/vid/avc1/720x1280/ozvLjhumzgBL36MW.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116077686757953536/pu/img/3VtkPoDyuRCmCt4P.jpg",
+          "local": "2116077749387338162_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我必须站在彼得森的新款特斯拉 Roadster Thrust 旁边。不到 1 秒的 0-60 英里加速，主动空气动力，特斯拉称其为“最后最好的驾驶员之车”。 🚀 亲自拍摄。 #特斯拉 #Roadster #fyp https://t.co/xIEPGk41Iw"
+    },
+    {
+      "text": "Human scale vs Starship https://t.co/hwPm2Jjbu4",
+      "link": "https://x.com/teslaownersSV/status/2116072978698191216",
+      "date": "Fri Oct 30 07:41:27 +0000 2026",
+      "tweet_id": "2116072978698191216",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1725591480524234753/vid/avc1/720x1280/lXYDxSZkJi0dtVjC.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1725591480524234753/img/T8ldEbEU2mJ7XRN-.jpg",
+          "local": "2116072978698191216_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1725591480524234753/vid/avc1/720x1280/lXYDxSZkJi0dtVjC.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1725591480524234753/img/T8ldEbEU2mJ7XRN-.jpg",
+          "local": "2116072978698191216_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "人类规模与星舰 https://t.co/hwPm2Jjbu4"
+    },
+    {
+      "text": "Elon on Blindsight:\n\"Then our next product is Blindsight, which will enable those who have total loss of vision... or maybe have never seen, were even blind from birth to be able to see again.\" https://t.co/zsjBOg17t2",
+      "link": "https://x.com/teslaownersSV/status/2116072975434969589",
+      "date": "Fri Oct 30 07:41:26 +0000 2026",
+      "tweet_id": "2116072975434969589",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116072919784943617/vid/avc1/1080x1920/PqMTfYbn7tcK6kr_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116072919784943617/img/6hZ1vYkAmwAajS0P.jpg",
+          "local": "2116072975434969589_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116072919784943617/vid/avc1/1080x1920/PqMTfYbn7tcK6kr_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116072919784943617/img/6hZ1vYkAmwAajS0P.jpg",
+          "local": "2116072975434969589_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see.\n\nIt is ready from an engineering standpoint. Just waiting on regulatory approval.",
+        "text_zh": "我们的第二个产品称为 Blindsight，顾名思义，即使是完全失明或从未见过的人也能看到东西。\n\n从工程的角度来看，它已经准备好了。只是等待监管部门的批准。"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆谈《盲视》：\n“然后我们的下一个产品是 Blindsight，它将使那些视力完全丧失的人......或者可能从未见过，甚至从出生起就失明的人能够再次看到东西。” https://t.co/zsjBOg17t2"
+    },
+    {
+      "text": "Elon on why it's a must-win:\n\n\"President Trump must win to preserve the Constitution. He must win to preserve democracy in America. This is a must-win situation.\"\n\nElon in Butler, PA, Oct 5, 2024. https://t.co/CsOoPTItXy",
+      "link": "https://x.com/teslaownersSV/status/2116072729715875896",
+      "date": "Fri Oct 30 07:40:28 +0000 2026",
+      "tweet_id": "2116072729715875896",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116072669611511808/vid/avc1/1080x1920/9rxIHLiyt5ngCbER.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116072669611511808/img/e7zJLRvDONUYBQyb.jpg",
+          "local": "2116072729715875896_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116072669611511808/vid/avc1/1080x1920/9rxIHLiyt5ngCbER.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116072669611511808/img/e7zJLRvDONUYBQyb.jpg",
+          "local": "2116072729715875896_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "🇺🇸🇺🇸 I voted early today in Texas!! 🇺🇸🇺🇸",
+        "text_zh": "🇺🇸🇺🇸 我今天很早就在德克萨斯州投票了！ 🇺🇸🇺🇸"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆解释了为什么这是一场必胜的比赛：\n\n“特朗普总统必须获胜才能维护宪法。他必须获胜才能维护美国的民主。这是一个必胜的局面。”\n\nElon 于宾夕法尼亚州巴特勒，2024 年 10 月 5 日。https://t.co/CsOoPTItXy"
+    },
+    {
+      "text": ".@elonmusk on what happens if people don't vote:\n\n\"If they don't, this will be the last election. That's my prediction. Nothing's more important.\"\n\nElon in Butler, PA, Oct 5, 2024. https://t.co/4UdxZve94U",
+      "link": "https://x.com/teslaownersSV/status/2116072666985845240",
+      "date": "Fri Oct 30 07:40:13 +0000 2026",
+      "tweet_id": "2116072666985845240",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116072581854044160/vid/avc1/1080x1920/z698ZL4pKzsCrzmy.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116072581854044160/img/w9B6UFEDFHGiGGxR.jpg",
+          "local": "2116072666985845240_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116072581854044160/vid/avc1/1080x1920/z698ZL4pKzsCrzmy.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116072581854044160/img/w9B6UFEDFHGiGGxR.jpg",
+          "local": "2116072666985845240_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Vote Republican!",
+        "text_zh": "投票共和党！"
+      },
+      "ctx_done": 1,
+      "text_zh": ".@elonmusk 关于如果人们不投票会发生什么：\n\n“如果他们不这样做，这将是最后一次选举。这是我的预测。没有什么比这更重要了。”\n\n埃隆于 2024 年 10 月 5 日在宾夕法尼亚州巴特勒。https://t.co/4UdxZve94U"
+    },
+    {
+      "text": ".@elonmusk  on why this election is a turning point:\n\"I think it's the most important election of our lifetime. This is no ordinary election.\" https://t.co/ghIfyoM0Vd",
+      "link": "https://x.com/teslaownersSV/status/2116071096793649522",
+      "date": "Fri Oct 30 07:33:58 +0000 2026",
+      "tweet_id": "2116071096793649522",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116071045560233984/vid/avc1/1080x1920/EIzqjgNhLMFICZBd.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116071045560233984/img/ALr4UxlUzDLg303j.jpg",
+          "local": "2116071096793649522_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116071045560233984/vid/avc1/1080x1920/EIzqjgNhLMFICZBd.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116071045560233984/img/ALr4UxlUzDLg303j.jpg",
+          "local": "2116071096793649522_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "It would be game over for America",
+        "text_zh": "美国的游戏就结束了"
+      },
+      "ctx_done": 1,
+      "text_zh": ".@elonmusk 解释为什么这次选举是一个转折点：\n“我认为这是我们一生中最重要的选举。这不是普通的选举。” https://t.co/ghIfyoM0Vd"
+    },
+    {
+      "text": "Elon on why Starbase, Texas exists:\n\n\"Here we are at the newly incorporated Starbase, Texas... It's named that because it is where we're going to develop the technology necessary to take humanity and civilization and life as we know it to another planet for the first time in the https://t.co/XKLZIoGc57",
+      "link": "https://x.com/teslaownersSV/status/2116068741041557553",
+      "date": "Fri Oct 30 07:24:37 +0000 2026",
+      "tweet_id": "2116068741041557553",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116068718723911680/vid/avc1/1920x1080/MLxtozyrBmD7c1q6.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116068718723911680/img/XNe2VL1mJIzd5kYq.jpg",
+          "local": "2116068741041557553_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116068718723911680/vid/avc1/1920x1080/MLxtozyrBmD7c1q6.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116068718723911680/img/XNe2VL1mJIzd5kYq.jpg",
+          "local": "2116068741041557553_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon 解释了德克萨斯州 Starbase 存在的原因：\n\n“我们现在位于得克萨斯州新成立的 Starbase……之所以如此命名，是因为我们将在这里开发必要的技术，以便首次将我们所知的人类、文明和生命带到另一个星球。https://t.co/XKLZIoGc57"
+    },
+    {
+      "text": "It would be game over for America",
+      "link": "https://x.com/elonmusk/status/2116047608036888796",
+      "date": "Fri Oct 30 06:00:38 +0000 2026",
+      "tweet_id": "2116047608036888796",
+      "reply_to": "elonmusk",
+      "ctx_done": 1,
+      "text_zh": "美国的游戏就结束了"
+    },
+    {
+      "text": "Vote Republican!",
+      "link": "https://x.com/elonmusk/status/2116042226598056033",
+      "date": "Fri Oct 30 05:39:15 +0000 2026",
+      "tweet_id": "2116042226598056033",
+      "quoted": {
+        "user": "DanPatrick",
+        "text": "A huge crowd of 400 turned out tonight in Williamson County at the Republican Club of Sun City. They are always a fun crowd and they are dedicated to keeping Texas red.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV12N9AW4AAVY6O.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV12N9AW4AAVY6O.jpg?name=orig",
+            "local": "2116042226598056033q_0.jpg"
+          }
+        ],
+        "text_zh": "今晚，400 名群众聚集在威廉森县太阳城共和党俱乐部。他们总是一群有趣的人，他们致力于保持德克萨斯州的红色。"
+      },
+      "ctx_done": 1,
+      "text_zh": "投票共和党！"
+    },
+    {
+      "text": "🇺🇸🇺🇸 I voted early today in Texas!! 🇺🇸🇺🇸",
+      "link": "https://x.com/elonmusk/status/2116037732845957434",
+      "date": "Fri Oct 30 05:21:24 +0000 2026",
+      "tweet_id": "2116037732845957434",
+      "ctx_done": 1,
+      "text_zh": "🇺🇸🇺🇸 我今天很早就在德克萨斯州投票了！ 🇺🇸🇺🇸"
+    },
     {
       "text": "RT @teslaownersSV: I can’t live without Grok @bot",
       "link": "https://x.com/teslaownersSV/status/2116025806401192426",
@@ -10,6 +222,19 @@
       "tweet_id": "2116025806401192426",
       "ctx_done": 1,
       "text_zh": "RT @teslaownersSV：没有 Grok @bot 我就活不下去"
+    },
+    {
+      "text": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see.\n\nIt is ready from an engineering standpoint. Just waiting on regulatory approval.",
+      "link": "https://x.com/elonmusk/status/2116019939056513218",
+      "date": "Fri Oct 30 04:10:41 +0000 2026",
+      "tweet_id": "2116019939056513218",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Neuralink’s first product is called Telepathy. \n\nIt enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.",
+        "text_zh": "Neuralink 的第一个产品称为 Telepathy。 \n\n只需通过思考，它就可以与计算机或人类进行高速通信。几年后，输出带宽将大大超过人类最快的语音或打字速度。再读一遍那句话。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们的第二个产品称为 Blindsight，顾名思义，即使是完全失明或从未见过的人也能看到东西。\n\n从工程的角度来看，它已经准备好了。只是等待监管部门的批准。"
     },
     {
       "text": "\"I am a citizen of the United States and have only that passport. No matter what happens, I will fight for and die in America.\"\n\nElon Musk https://t.co/hbzWiJR5Qm",
@@ -118,7 +343,7 @@
         "text_zh": "正如预言所预言的，Starship 42 将成为第一个塔式捕获物"
       },
       "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 在 Starship 42 上实现了第一个塔式捕获：\n“”@elonmusk\n所有静态点火都已完成，接下来是 15 号航班。 https://t.co/7y3pYyeqn7"
+      "text_zh": "埃隆·马斯克 (Elon Musk) 在 Starship 42 上进行了第一个塔式捕获：\n“”@elonmusk\n所有静态点火都已完成，接下来是 15 号航班。 https://t.co/7y3pYyeqn7"
     },
     {
       "text": "@grok can you translate",
@@ -3886,221 +4111,6 @@
         }
       ],
       "text_zh": "你支持@elonmusk吗？ https://t.co/z9ck9MIfn8",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @Teslalightshows: The XLightShows HALLOWEEN SPECIAL @Tesla Light Show in all it's SPOOKTACULAR GLORY 🎃👻💀\n\nThank you to EVERYONE who came…",
-      "link": "https://x.com/teslaownersSV/status/2114548991262339309",
-      "date": "Mon Oct 26 02:45:40 +0000 2026",
-      "tweet_id": "2114548991262339309",
-      "text_zh": "RT @Teslalightshows：XLightShows 万圣节特别@Tesla Light Show 充满了恐怖的荣耀🎃👻💀\n\n感谢大家的到来……",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @TheCaptainEli: We Support Elon Musk.\nDay #600\n\nFrom France https://t.co/cY7tewZRWw",
-      "link": "https://x.com/teslaownersSV/status/2114547782367527332",
-      "date": "Mon Oct 26 02:40:52 +0000 2026",
-      "tweet_id": "2114547782367527332",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114304346603102208/vid/avc1/1920x1080/N4RSheprUWhpj84R.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114304346603102208/img/AIz-vmuIQUI2MF4Q.jpg",
-          "local": "2114547782367527332_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114304346603102208/vid/avc1/1920x1080/N4RSheprUWhpj84R.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114304346603102208/img/AIz-vmuIQUI2MF4Q.jpg",
-          "local": "2114547782367527332_1.jpg"
-        }
-      ],
-      "text_zh": "RT @TheCaptainEli：我们支持埃隆·马斯克。\n第 600 天\n\n来自法国 https://t.co/cY7tewZRWw",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk on how close Starship is to flying like an airliner\n\"Starship is 2 to 3 years away from hourly flights\" @elonmusk\nThe Super Heavy booster for Flight 15 just finished its full-duration 33-engine static fire\nVideo: @SpaceX https://t.co/gkXEPXQtef",
-      "link": "https://x.com/teslaownersSV/status/2114537669212717537",
-      "date": "Mon Oct 26 02:00:41 +0000 2026",
-      "tweet_id": "2114537669212717537",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114537621661847553/vid/avc1/1920x1080/0wdJQtg_4Kvqyysc.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114537621661847553/img/lWWpY3wMdr8Nd64A.jpg",
-          "local": "2114537669212717537_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114537621661847553/vid/avc1/1920x1080/0wdJQtg_4Kvqyysc.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114537621661847553/img/lWWpY3wMdr8Nd64A.jpg",
-          "local": "2114537669212717537_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克谈星际飞船离像客机一样飞行有多近\n“Starship 距离每小时飞行还有 2 到 3 年的时间”@elonmusk\n15 号航班的超重型助推器刚刚完成了 33 引擎的全程静态点火\n视频：@SpaceX https://t.co/gkXEPXQtef",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @RetiredYoungNW: Please lift up John and Evelyn.  Prayer is powerful.",
-      "link": "https://x.com/teslaownersSV/status/2114536612063526922",
-      "date": "Mon Oct 26 01:56:29 +0000 2026",
-      "tweet_id": "2114536612063526922",
-      "text_zh": "RT @RetiredYoungNW：请举起约翰和伊芙琳。  祈祷是有力量的。",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114536612063526922q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @Captn_Hype: John: sending positive energy for your wife &amp; family. All best wishes from Germany…. ❤️❤️❤️❤️❤️❤️",
-      "link": "https://x.com/teslaownersSV/status/2114536597169590284",
-      "date": "Mon Oct 26 01:56:25 +0000 2026",
-      "tweet_id": "2114536597169590284",
-      "text_zh": "RT @Captn_Hype：约翰：为你的妻子和家人传递正能量。来自德国的所有最美好的祝愿…… ❤️❤️❤️❤️❤️❤️",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114536597169590284q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @JoNationLive: I have been praying for Evelyn and her family. If you pray, please lift them up to God for mercy and healing for Evelyn.…",
-      "link": "https://x.com/teslaownersSV/status/2114536530425618535",
-      "date": "Mon Oct 26 01:56:09 +0000 2026",
-      "tweet_id": "2114536530425618535",
-      "text_zh": "RT @JoNationLive：我一直在为伊芙琳和她的家人祈祷。如果你祈祷，请把他们举到上帝面前，祈求上帝怜悯并医治伊芙琳……",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114536530425618535q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @Smokehbear: Thoughts with your family. Strength to fight 🫂\nLove from my family to yours.",
-      "link": "https://x.com/teslaownersSV/status/2114536476029731163",
-      "date": "Mon Oct 26 01:55:56 +0000 2026",
-      "tweet_id": "2114536476029731163",
-      "text_zh": "RT @Smokehbear：与你的家人一起思考。战斗力🫂\n我的家人对你的爱。",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Some of you may have met my wife. But I'd like to introduce her to you all.\n\nWithout Evelyn, this event wouldn't be possible. She introduced me to Tesla, and she believed in Elon's vision of autonomous cars long before I ever did. \n\nShe has stood by me through thick and thin, and she's supported me and this Tesla community in ways many of you will never see. She's my heartbeat and my world. Without her, this community wouldn't be what it is today. \n\nWords can't express my gratitude. I thank God for my wife every day.\n\nEvelyn is the most selfless person I know. She never does things for credit. She takes care of people quietly, whether it's our family, our friends, or someone she barely knows. And she homeschools our four kids with a patience and love I couldn't match on my best day.\n\nThis may be news for some of you, but Evelyn has been battling triple-negative breast cancer since August of last year. \n\nShe has endured chemo, surgery, and radiation, and the fight is not over. There have been days that were painful and days that were frightening, and through every one of them she has stayed kind, held onto her faith, and kept showing up for other people. I am honored to serve her and to walk beside her through this.\n\nIf you pray, please keep my wife in your prayers. Pray for her healing, her strength, and her peace. It means more to us than you know.\n\nEvelyn, you are my greatest blessing. Thank you for everything you do, seen and unseen. I love you. This community is better because of you, and so am I. \nProverbs 18:22",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVaKfZSawAAqiTW.jpg?name=orig",
-            "local": "2114536476029731163q_0.jpg"
-          }
-        ],
-        "text_zh": "你们中有些人可能见过我的妻子。但我想把她介绍给大家。\n\n没有伊芙琳，这个活动就不可能发生。她向我介绍了特斯拉，她比我更早地相信埃隆对自动驾驶汽车的愿景。 \n\n她始终站在我一边，以你们许多人从未见过的方式支持我和特斯拉社区。她是我的心跳，我的世界。没有她，这个社区就不会是今天的样子。 \n\n言语无法表达我的感激之情。我每天都为我的妻子感谢上帝。\n\n伊芙琳是我认识的最无私的人。她做事从来不图功劳。她默默地照顾别人，无论是我们的家人、朋友，还是她几乎不认识的人。她以我在最好的一天无法比拟的耐心和爱心在家教育我们的四个孩子。\n\n这对你们中的一些人来说可能是新闻，但伊芙琳自去年八月以来一直在与三阴性乳腺癌作斗争。 \n\n她经历了化疗、手术和放射治疗，但战斗还没有结束。有过痛苦的日子，也有令人恐惧的日子，但在每一个日子里，她都保持着善良，坚持着自己的信仰，不断地为他人服务。我很荣幸能为她服务并与她并肩走过这一切。\n\n如果你祈祷，请为我的妻子祈祷。为她的康复、力量和平安祈祷。这对我们来说意义比你知道的更多。\n\n伊芙琳，你是我最大的祝福。感谢你们所做的一切，无论是看得见的还是看不见的。我爱你。这个社会因你而美好，我也因你而美好。 \n箴言 18:22"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "#NewProfilePic https://t.co/nFouQhU8G8",
-      "link": "https://x.com/teslaownersSV/status/2114535947794870615",
-      "date": "Mon Oct 26 01:53:50 +0000 2026",
-      "tweet_id": "2114535947794870615",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVhXPTracAAihYR.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVhXPTracAAihYR.jpg?format=jpg&name=large",
-          "local": "2114535947794870615_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVhXPTracAAihYR.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVhXPTracAAihYR.jpg?format=jpg&name=large",
-          "local": "2114535947794870615_1.jpg"
-        }
-      ],
-      "text_zh": "#NewProfilePic https://t.co/nFouQhU8G8",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @teslaownersSV: When the @thextakeover comes to giga Texas this is the impact. It’s absolutely insane to see the @tesla community come.…",
-      "link": "https://x.com/teslaownersSV/status/2114530633846550998",
-      "date": "Mon Oct 26 01:32:43 +0000 2026",
-      "tweet_id": "2114530633846550998",
-      "text_zh": "RT @teslaownersSV：当@thextakeover 来到千兆德克萨斯州时，这就是影响。看到@tesla 社区的到来真是太疯狂了……",
-      "ctx_done": 1
-    },
-    {
-      "text": "When the @thextakeover comes to giga Texas this is the impact. It’s absolutely insane to see the @tesla community come. https://t.co/X60zIXmUsw",
-      "link": "https://x.com/teslaownersSV/status/2114527090385314096",
-      "date": "Mon Oct 26 01:18:39 +0000 2026",
-      "tweet_id": "2114527090385314096",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114526973456506880/vid/avc1/2160x3840/mIM9y7Jv2fe30p8L.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114526973456506880/img/KW7iX_ULa5Et8tB4.jpg",
-          "local": "2114527090385314096_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114526973456506880/vid/avc1/2160x3840/mIM9y7Jv2fe30p8L.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114526973456506880/img/KW7iX_ULa5Et8tB4.jpg",
-          "local": "2114527090385314096_1.jpg"
-        }
-      ],
-      "text_zh": "当 @thextakeover 来到德克萨斯州时，这就是影响。看到@tesla 社区的到来真是太疯狂了。 https://t.co/X60zIXmUsw",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk, Seattle, January 16, 2015:\n\"In the long term, it will be like rebuilding the Internet, in space.\"\nHe also said people \"stuck with Time Warner or Comcast\" would finally get another option.\nBack then it was a slide and a promise. Today airlines are putting it on their https://t.co/Wh5sVrB5a6",
-      "link": "https://x.com/teslaownersSV/status/2114517225818538143",
-      "date": "Mon Oct 26 00:39:27 +0000 2026",
-      "tweet_id": "2114517225818538143",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVhGNdgbsAAhxi_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVhGNdgbsAAhxi_.jpg?format=jpg&name=large",
-          "local": "2114517225818538143_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVhGNdgbsAAhxi_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVhGNdgbsAAhxi_.jpg?format=jpg&name=large",
-          "local": "2114517225818538143_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克，西雅图，2015 年 1 月 16 日：\n“从长远来看，这就像在太空中重建互联网一样。”\n他还表示，“坚持使用时代华纳或康卡斯特”的人们最终将获得另一种选择。\n那时，这只是一张幻灯片和一个承诺。今天，航空公司将其放在他们的 https://t.co/Wh5sVrB5a6 上",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "A cunning move by Aer Lingus 😉",
-        "text_zh": "爱尔兰航空的狡猾举动😉"
-      },
       "ctx_done": 1
     }
   ]
