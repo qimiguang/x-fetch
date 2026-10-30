@@ -1,68 +1,502 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-30T17:56:17Z",
+  "updated_at": "2026-10-30T22:06:38Z",
   "count": 200,
   "tweets": [
     {
-      "text": "Article\n\n\n\nCybercab Momentum: Tesla’s Robotaxi Progress Heats Up\n\nBy: @stephenpallotta \nThe Cybercab is no longer a concept car sitting on a stage. In Austin it is a working robotaxi, and the number of them authorized for driverless service in Texas has climbed past",
-      "link": "https://x.com/teslaownersSV/status/2116226365066215604#m",
-      "date": "Fri, 30 Oct 2026 17:50:57 GMT",
+      "text": "This mine? https://t.co/IRaU8JI1GR",
+      "link": "https://x.com/teslaownersSV/status/2116283119003459899",
+      "date": "Fri Oct 30 21:36:28 +0000 2026",
+      "tweet_id": "2116283119003459899",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=large",
+          "local": "2116283119003459899_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=large",
+          "local": "2116283119003459899_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这个矿？ https://t.co/IRaU8JI1GR"
+    },
+    {
+      "text": ".@elonmusk on optimism and America's future:\n\n\"One of the most American values that I love is optimism. And this feeling that we're going to make the future good. We're going to make it good. Man, I can't wait. This is going to be fantastic.\" https://t.co/Sb9yiR8c2m",
+      "link": "https://x.com/teslaownersSV/status/2116272953105211497",
+      "date": "Fri Oct 30 20:56:05 +0000 2026",
+      "tweet_id": "2116272953105211497",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116272905512488960/vid/avc1/1920x1080/ytgIytitjxMfdqJ1.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272905512488960/img/nhERrf-RF9cL8W3E.jpg",
+          "local": "2116272953105211497_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116272905512488960/vid/avc1/1920x1080/ytgIytitjxMfdqJ1.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272905512488960/img/nhERrf-RF9cL8W3E.jpg",
+          "local": "2116272953105211497_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": ".@elonmusk 谈乐观主义和美国的未来：\n\n“我最喜欢的美国价值观之一就是乐观。这种感觉我们将让未来变得美好。我们会让它变得美好。伙计，我等不及了。这将是太棒了。” https://t.co/Sb9yiR8c2m"
+    },
+    {
+      "text": "RT @theXtakeover: We loved having @mayemusk at the 𝕏 takeover",
+      "link": "https://x.com/teslaownersSV/status/2116272372936593418",
+      "date": "Fri Oct 30 20:53:46 +0000 2026",
+      "tweet_id": "2116272372936593418",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to our community.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
+            "local": "2116272372936593418q_0.jpg"
+          }
+        ],
+        "text_zh": "精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您对我们社区的启发。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @theXtakeover：我们喜欢@mayemusk 参与𝕏 接管"
+    },
+    {
+      "text": "We loved having @mayemusk at the 𝕏 takeover",
+      "link": "https://x.com/theXtakeover/status/2116272269953835240",
+      "date": "Fri Oct 30 20:53:22 +0000 2026",
+      "tweet_id": "2116272269953835240",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to our community.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
+            "local": "2116272269953835240q_0.jpg"
+          }
+        ],
+        "text_zh": "精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您对我们社区的启发。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们喜欢@mayemusk 参与𝕏 接管"
+    },
+    {
+      "text": "The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to our community. https://t.co/Wn8ohYI6ey",
+      "link": "https://x.com/teslaownersSV/status/2116272155637973052",
+      "date": "Fri Oct 30 20:52:54 +0000 2026",
+      "tweet_id": "2116272155637973052",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116272022867361792/vid/avc1/2160x3840/hz8fM0PtwuCR86lE.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
+          "local": "2116272155637973052_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116272022867361792/vid/avc1/2160x3840/hz8fM0PtwuCR86lE.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
+          "local": "2116272155637973052_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您对我们社区的启发。 https://t.co/Wn8ohYI6ey"
+    },
+    {
+      "text": ".@elonmusk on Neuralink changing what it means to be human:\n\n\"What we're talking about is unlocking that potential to enable you to communicate thousands, perhaps millions of times faster than is currently possible. This is an incredibly profound breakthrough. This would be a https://t.co/nlJoF3FS2m",
+      "link": "https://x.com/teslaownersSV/status/2116264484411232519",
+      "date": "Fri Oct 30 20:22:26 +0000 2026",
+      "tweet_id": "2116264484411232519",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116264419479183360/vid/avc1/1920x1080/jsZ9UcFUlmt-OiPR.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116264419479183360/img/6mnQHu-a-Bk0gZG5.jpg",
+          "local": "2116264484411232519_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116264419479183360/vid/avc1/1920x1080/jsZ9UcFUlmt-OiPR.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116264419479183360/img/6mnQHu-a-Bk0gZG5.jpg",
+          "local": "2116264484411232519_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": ".@elonmusk 谈 Neuralink 正在改变人类的意义：\n\n“我们正在谈论的是释放这种潜力，使您的沟通速度比目前的速度快数千倍，甚至数百万倍。这是一个极其深远的突破。这将是一个 https://t.co/nlJoF3FS2m"
+    },
+    {
+      "text": "RT @UPTeslaFremont: https://t.co/e4CeJov66o",
+      "link": "https://x.com/teslaownersSV/status/2116253773517693238",
+      "date": "Fri Oct 30 19:39:52 +0000 2026",
+      "tweet_id": "2116253773517693238",
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
+          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
+          "local": "2116253773517693238_0.jpg"
+        },
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
+          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
+          "local": "2116253773517693238_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "My Starship Cybertruck just went next level with @UPTeslaFremont Bull Bar and Carbon Fiber lid. \n\n🤯🤯",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
+            "local": "2116253773517693238q_0.jpg"
+          }
+        ],
+        "text_zh": "我的 Starship Cyber​​truck 凭借 @UPTeslaFremont Bull Bar 和碳纤维盖，迈出了新的一步。 \n\n🤯🤯"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @UPTeslaFremont：https://t.co/e4CeJov66o"
+    },
+    {
+      "text": "https://t.co/e4CeJov66o",
+      "link": "https://x.com/UPTeslaFremont/status/2116247601712672998",
+      "date": "Fri Oct 30 19:15:20 +0000 2026",
+      "tweet_id": "2116247601712672998",
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
+          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
+          "local": "2116247601712672998_0.jpg"
+        },
+        {
+          "type": "animated_gif",
+          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
+          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
+          "local": "2116247601712672998_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "My Starship Cybertruck just went next level with @UPTeslaFremont Bull Bar and Carbon Fiber lid. \n\n🤯🤯",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
+            "local": "2116247601712672998q_0.jpg"
+          }
+        ],
+        "text_zh": "我的 Starship Cyber​​truck 凭借 @UPTeslaFremont Bull Bar 和碳纤维盖，迈出了新的一步。 \n\n🤯🤯"
+      },
+      "ctx_done": 1,
+      "text_zh": "https://t.co/e4CeJov66o"
+    },
+    {
+      "text": "My Starship Cybertruck just went next level with @UPTeslaFremont Bull Bar and Carbon Fiber lid. \n\n🤯🤯 https://t.co/zJtKD2xrV4",
+      "link": "https://x.com/teslaownersSV/status/2116242138312884586",
+      "date": "Fri Oct 30 18:53:38 +0000 2026",
+      "tweet_id": "2116242138312884586",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=large",
+          "local": "2116242138312884586_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=large",
+          "local": "2116242138312884586_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我的 Starship Cyber​​truck 凭借 @UPTeslaFremont Bull Bar 和碳纤维盖，迈出了新的一步。 \n\n🤯🤯 https://t.co/zJtKD2xrV4"
+    },
+    {
+      "text": "Elon Musk on Joe Rogan with his message for voters:\n\n\"Go out and vote. Vote like your life depends on it. Vote like your future depends on it, because it does. This is the last chance, man.\" https://t.co/BD6fJPn7u1",
+      "link": "https://x.com/teslaownersSV/status/2116241111589269970",
+      "date": "Fri Oct 30 18:49:33 +0000 2026",
+      "tweet_id": "2116241111589269970",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116241043473756160/vid/avc1/1920x1080/T8NW7CpNAQLSu8t-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116241043473756160/img/-UvMwvhVNJ8G8KPQ.jpg",
+          "local": "2116241111589269970_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116241043473756160/vid/avc1/1920x1080/T8NW7CpNAQLSu8t-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116241043473756160/img/-UvMwvhVNJ8G8KPQ.jpg",
+          "local": "2116241111589269970_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "🇺🇸🇺🇸 I voted early today in Texas!! 🇺🇸🇺🇸",
+        "text_zh": "🇺🇸🇺🇸 我今天很早就在德克萨斯州投票了！ 🇺🇸🇺🇸"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈乔·罗根 (Joe Rogan) 向选民传达的信息：\n\n“出去投票。投票就像你的生命取决于它。投票就像你的未来取决于它，因为它确实如此。这是最后的机会，伙计。” https://t.co/BD6fJPn7u1"
+    },
+    {
+      "text": "Elon Musk on the far left media and why his wins get no coverage:\n\n\"The legacy mainstream media is a far left propaganda machine. And so anything, any story that is positive about someone who is not part of the sort of far left tribe will not get any coverage. So I could save a https://t.co/lq2JKsDsad",
+      "link": "https://x.com/teslaownersSV/status/2116237287449346543",
+      "date": "Fri Oct 30 18:34:21 +0000 2026",
+      "tweet_id": "2116237287449346543",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116237176346484736/vid/avc1/1920x1080/YVFTi-oxqmLYyaV8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116237176346484736/img/p9HawWV65Q_TL76N.jpg",
+          "local": "2116237287449346543_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116237176346484736/vid/avc1/1920x1080/YVFTi-oxqmLYyaV8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116237176346484736/img/p9HawWV65Q_TL76N.jpg",
+          "local": "2116237287449346543_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克对极左媒体的看法以及为什么他的胜利没有得到报道：\n\n“传统主流媒体是极左宣传机器。因此，任何关于不属于极左部落的人的正面故事都不会得到任何报道。所以我可以保存一个https://t.co/lq2JKsDsad"
+    },
+    {
+      "text": "NEWS: Tesla Energy is bringing Heat Pump Optimization to Powerwall 3 and 3P in Europe.\n\n•⁠  ⁠Powerwall can boost heat pump operation when solar production is high or electricity rates are low.\n•⁠  ⁠The system helps reduce energy costs by shifting heating demand away from https://t.co/ZHL38jThg2",
+      "link": "https://x.com/teslaownersSV/status/2116236871919644737",
+      "date": "Fri Oct 30 18:32:42 +0000 2026",
+      "tweet_id": "2116236871919644737",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5iNBLawAApOyB.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5iNBLawAApOyB.jpg?format=jpg&name=large",
+          "local": "2116236871919644737_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5iNBLawAApOyB.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5iNBLawAApOyB.jpg?format=jpg&name=large",
+          "local": "2116236871919644737_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：Tesla Energy 正在欧洲将热泵优化引入 Powerwall 3 和 3P。\n\n•⁠ ⁠Powerwall 可以在太阳能发电量较高或电费较低时提高热泵运行。\n•⁠ ⁠该系统通过转移供暖需求来帮助降低能源成本 https://t.co/ZHL38jThg2"
+    },
+    {
+      "text": "NEWS: Tesla is turning its October 2024 “We, Robot” vision into reality.\n\n•⁠  ⁠Cybercab:Production is underway at Giga Texas, with vehicles joining Tesla’s driverless Robotaxi operations in Austin.\n•⁠  ⁠Robotaxi: Unsupervised rides are expanding across Austin, Dallas, https://t.co/UILt3ruLZK",
+      "link": "https://x.com/teslaownersSV/status/2116236575650832501",
+      "date": "Fri Oct 30 18:31:32 +0000 2026",
+      "tweet_id": "2116236575650832501",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5h74bawAAGu-7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5h74bawAAGu-7.jpg?format=jpg&name=large",
+          "local": "2116236575650832501_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5h74bawAAGu-7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5h74bawAAGu-7.jpg?format=jpg&name=large",
+          "local": "2116236575650832501_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：特斯拉正在将 2024 年 10 月的“我们，机器人”愿景变为现实。\n\n•⁠ ⁠Cyber​​cab：生产正在 Giga Texas 进行，车辆将加入特斯拉在奥斯汀的无人驾驶 Robotaxi 业务。\n•⁠ ⁠Robotaxi：无人监管的乘车服务正在达拉斯奥斯汀扩展，https://t.co/UILt3ruLZK"
+    },
+    {
+      "text": "Elon's Neuralink just showed its Next-Gen R1 surgical robot on camera for the first time.\n\nCameras map the brain surface, then update the map in real time to steer around tiny blood vessels. A needle finer than a hair places each implant thread one by one, about 1.5 seconds per https://t.co/01ctJyb5DE",
+      "link": "https://x.com/teslaownersSV/status/2116235958588961105",
+      "date": "Fri Oct 30 18:29:04 +0000 2026",
+      "tweet_id": "2116235958588961105",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116235815764598784/vid/avc1/1920x1080/fZeTtSQ1SDuBeQeD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116235815764598784/img/Pd9jRzNYWKOJRc9c.jpg",
+          "local": "2116235958588961105_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116235815764598784/vid/avc1/1920x1080/fZeTtSQ1SDuBeQeD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116235815764598784/img/Pd9jRzNYWKOJRc9c.jpg",
+          "local": "2116235958588961105_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon 的 Neuralink 刚刚首次在镜头上展示了其下一代 R1 手术机器人。\n\n摄像头绘制大脑表面的地图，然后实时更新地图以绕过微小的血管。一根比头发丝还细的针将每根植入线逐一放置，大约需要 1.5 秒 https://t.co/01ctJyb5DE"
+    },
+    {
+      "text": "https://t.co/gbocXunskI",
+      "link": "https://x.com/teslaownersSV/status/2116226365066215604",
+      "date": "Fri Oct 30 17:50:57 +0000 2026",
       "tweet_id": "2116226365066215604",
       "ctx_done": 1,
       "text_zh": "文章\n\n\n\nCybercab势头：特斯拉的Robotaxi进展升温\n\n作者：@stephenpallotta \nCybercab 不再是舞台上的概念车。在奥斯汀，这是一辆正在运行的机器人出租车，在德克萨斯州，授权提供无人驾驶服务的机器人出租车数量已经超过了"
     },
     {
-      "text": "Elon Musk\n“I always thought that Democrats were supposed to be the party of empathy and caring and yet they're burning down cars, firebombing dealerships, firing bullets into dealerships, and smashing up Teslas.”\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2116218743936463120#m",
-      "date": "Fri, 30 Oct 2026 17:20:40 GMT",
+      "text": "Elon Musk\n“I always thought that Democrats were supposed to be the party of empathy and caring and yet they're burning down cars, firebombing dealerships, firing bullets into dealerships, and smashing up Teslas.” https://t.co/L74Hwck4RH",
+      "link": "https://x.com/teslaownersSV/status/2116218743936463120",
+      "date": "Fri Oct 30 17:20:40 +0000 2026",
       "tweet_id": "2116218743936463120",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1902175709315141632/vid/avc1/1312x720/eGqhcX_6xG6DJfCl.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1902175709315141632/img/Ogv5t97R1lv6eiIe.jpg",
+          "local": "2116218743936463120_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1902175709315141632/vid/avc1/1312x720/eGqhcX_6xG6DJfCl.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1902175709315141632/img/Ogv5t97R1lv6eiIe.jpg",
+          "local": "2116218743936463120_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克\n“我一直认为民主党应该是一个富有同情心和关怀的政党，但他们却烧毁汽车、向经销商开枪、向经销商开枪、砸毁特斯拉。”\n\n视频"
     },
     {
-      "text": "RFK Jr. on Elon and free speech:\n\n\"We now have the emails between this group and Mark Zuckerberg and other people at Twitter, et cetera, which Elon made public. And thank God for him. I don't think we'd have free speech in this country if it wasn't for Elon Musk, because he opened up Twitter and he allowed people to see what was actually happening.\"\n\n\"By the way, against the advice of all of his attorneys, he turned all these documents over to a bunch of journalists and said, do what you want with them. That's unheard of.\"\nClip: Dr. Phil Primetime (@DrPhil)\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2116218399600812483#m",
-      "date": "Fri, 30 Oct 2026 17:19:18 GMT",
+      "text": "RFK Jr. on Elon and free speech:\n\n\"We now have the emails between this group and Mark Zuckerberg and other people at Twitter, et cetera, which Elon made public. And thank God for him. I don't think we'd have free speech in this country if it wasn't for Elon Musk, because he https://t.co/TEJzkPyTiY",
+      "link": "https://x.com/teslaownersSV/status/2116218399600812483",
+      "date": "Fri Oct 30 17:19:18 +0000 2026",
       "tweet_id": "2116218399600812483",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116218357473259520/vid/avc1/1920x1080/eh5nf4ZI5Mrh3vBX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116218357473259520/img/d4kifRqMoxZg_e3f.jpg",
+          "local": "2116218399600812483_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116218357473259520/vid/avc1/1920x1080/eh5nf4ZI5Mrh3vBX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116218357473259520/img/d4kifRqMoxZg_e3f.jpg",
+          "local": "2116218399600812483_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "RFK Jr. 关于埃隆和言论自由：\n\n“我们现在有这个组织和马克·扎克伯格以及 Twitter 上其他人之间的电子邮件，埃隆将这些电子邮件公开了。感谢上帝。我认为，如果没有埃隆·马斯克，我们在这个国家就不会有言论自由，因为他开放了 Twitter，让人们看到实际发生的事情。”\n\n“顺便说一句，他不顾所有律师的建议，将所有这些文件交给了一群记者，并说，你可以用它们做你想做的事。这是闻所未闻的。”\n剪辑：菲尔博士黄金时段 (@DrPhil)\n\n视频"
     },
     {
-      "text": "NEWS: Starlink is helping connect 250 healthcare facilities across remote regions of Zambia. 🇿🇲🛰️\n\nParatus Zambia and Right to Care Zambia have deployed 250 Starlink units across Luapula, Muchinga and Northern provinces.\n\nThe connections give healthcare workers better access to electronic patient records, lab results, referrals and HIV treatment information through the SmartCare system.\n\nSatellite internet is helping bring essential healthcare information closer to the communities that need it.",
-      "link": "https://x.com/teslaownersSV/status/2116211567251599643#m",
-      "date": "Fri, 30 Oct 2026 16:52:09 GMT",
+      "text": "NEWS: Starlink is helping connect 250 healthcare facilities across remote regions of Zambia. 🇿🇲🛰️\n\nParatus Zambia and Right to Care Zambia have deployed 250 Starlink units across Luapula, Muchinga and Northern provinces.\n\nThe connections give healthcare workers better access to https://t.co/RFbzLzhiZr",
+      "link": "https://x.com/teslaownersSV/status/2116211567251599643",
+      "date": "Fri Oct 30 16:52:09 +0000 2026",
       "tweet_id": "2116211567251599643",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5LNFvbUAEPPO0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5LNFvbUAEPPO0.jpg?format=jpg&name=large",
+          "local": "2116211567251599643_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5LNFvbUAEPPO0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5LNFvbUAEPPO0.jpg?format=jpg&name=large",
+          "local": "2116211567251599643_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "新闻：Starlink 正在帮助连接赞比亚偏远地区的 250 个医疗机构。 🇿🇲🛰️\n\nParatus Zambia 和 Right to Care Zambia 已在卢阿普拉、穆钦加和北部省份部署了 250 个 Starlink 设备。\n\nThe connections give healthcare workers better access to electronic patient records, lab results, referrals and HIV treatment information through the SmartCare system.\n\n卫星互联网正在帮助将重要的医疗保健信息更接近需要的社区。"
     },
     {
-      "text": "Elon Musk on why he came to America:\n\n\"I remember thinking and saying that America is where great things are possible, more than any other country in the world. It's a little cliche but it's true. America is the land of opportunity.\"\n\nHe left South Africa for Canada as a teenager, refusing to serve apartheid's army, then made it to America and built Zip2, PayPal, Tesla and SpaceX.\nClip: Bloomberg Originals\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2116209704447955139#m",
-      "date": "Fri, 30 Oct 2026 16:44:45 GMT",
+      "text": "Elon Musk on why he came to America:\n\n\"I remember thinking and saying that America is where great things are possible, more than any other country in the world. It's a little cliche but it's true. America is the land of opportunity.\"\n\nHe left South Africa for Canada as a https://t.co/iiYl3mqSty",
+      "link": "https://x.com/teslaownersSV/status/2116209704447955139",
+      "date": "Fri Oct 30 16:44:45 +0000 2026",
       "tweet_id": "2116209704447955139",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116209677990277121/vid/avc1/1280x720/UoVF1_-te60yuNnL.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116209677990277121/img/tMe2QEVRgRdGGx0U.jpg",
+          "local": "2116209704447955139_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116209677990277121/vid/avc1/1280x720/UoVF1_-te60yuNnL.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116209677990277121/img/tMe2QEVRgRdGGx0U.jpg",
+          "local": "2116209704447955139_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克谈及他为何来到美国：\n\n“我记得我曾说过，美国比世界上任何其他国家都更有可能实现伟大的事情。这有点陈词滥调，但却是事实。美国是一片充满机遇的土地。”\n\n他十几岁时离开南非前往加拿大，拒绝为种族隔离的军队服役，然后来到美国并创建了 Zip2、PayPal、特斯拉和 SpaceX。\n剪辑：彭博原创\n\n视频"
     },
     {
-      "text": "Elon Musk on fraudulent payments to New York and California:\n\n\"New York and California would be bankrupt without the massive fraudulent federal payments that go to those states to pay for illegals, to create a massive financial incentive for illegals.\"\n\n\"The scam level here is so staggering.\"\nClip: The Joe Rogan Experience #2404\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2116207008525496549#m",
-      "date": "Fri, 30 Oct 2026 16:34:02 GMT",
+      "text": "Elon Musk on fraudulent payments to New York and California:\n\n\"New York and California would be bankrupt without the massive fraudulent federal payments that go to those states to pay for illegals, to create a massive financial incentive for illegals.\"\n\n\"The scam level here is so https://t.co/pI5yLT1fmQ",
+      "link": "https://x.com/teslaownersSV/status/2116207008525496549",
+      "date": "Fri Oct 30 16:34:02 +0000 2026",
       "tweet_id": "2116207008525496549",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116206925897707520/vid/avc1/1920x1080/oDJiJM6cHoJrlMl1.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116206925897707520/img/24NqDQKhXNa8Onre.jpg",
+          "local": "2116207008525496549_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116206925897707520/vid/avc1/1920x1080/oDJiJM6cHoJrlMl1.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116206925897707520/img/24NqDQKhXNa8Onre.jpg",
+          "local": "2116207008525496549_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克（Elon Musk）就向纽约和加利福尼亚州的欺诈性付款表示：\n\n“如果没有向这些州支付巨额欺诈性联邦款项来支付非法移民，为非法移民创造巨大的经济激励，纽约和加利福尼亚州就会破产。”\n\n“这里的诈骗水平非常惊人。”\n剪辑：乔·罗根的经历#2404\n\n视频"
     },
     {
-      "text": "UPDATE: Grok Bot just ranked #1 on Claire Vo's How I AI Personal Agent Bench, and it wasn't close.\n\n4 personal agents, 9 real tasks #1 Grok Bot (\"by A LOT\") #2 Muse\n Behind them: ChatGPT Dot and Claude Duet\n@bot @elonmusk",
-      "link": "https://x.com/teslaownersSV/status/2116202952616780018#m",
-      "date": "Fri, 30 Oct 2026 16:17:55 GMT",
+      "text": "UPDATE: Grok Bot just ranked #1 on Claire Vo's How I AI Personal Agent Bench, and it wasn't close.\n\n4 personal agents, 9 real tasks #1 Grok Bot (\"by A LOT\") #2 Muse\n Behind them: ChatGPT Dot and Claude Duet\n@bot @elonmusk https://t.co/rTvCHscqrd",
+      "link": "https://x.com/teslaownersSV/status/2116202952616780018",
+      "date": "Fri Oct 30 16:17:55 +0000 2026",
       "tweet_id": "2116202952616780018",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5DXtHbMAAnK4W.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5DXtHbMAAnK4W.jpg?format=jpg&name=large",
+          "local": "2116202952616780018_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5DXtHbMAAnK4W.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV5DXtHbMAAnK4W.jpg?format=jpg&name=large",
+          "local": "2116202952616780018_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "更新：Grok Bot 刚刚在 Claire Vo 的 How I AI Personal Agent Bench 上排名第一，而且还不是很接近。\n\n4 个私人代理，9 个真实任务#1 Grok Bot（“by A LOT”）#2 Muse\n 他们身后：ChatGPT Dot 和 Claude Duet\n@bot @elonmusk"
     },
     {
-      "text": "I joined the Tesla Beat to talk about the possible $TSLA / $SPCX merger and the Shareholder Letter to the Board.  With @teslaownersSV @SjvTesla @MatthewDR @FutureAZA\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\nLink\n\n\n\nTesla Owners Silicon Valley\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m",
-      "link": "https://x.com/Amy787/status/2116201200949620869#m",
-      "date": "Fri, 30 Oct 2026 16:10:58 GMT",
+      "text": "RT @Amy787: I joined the Tesla Beat to talk about the possible $TSLA / $SPCX merger and the Shareholder Letter to the Board.  With @teslaow…",
+      "link": "https://x.com/teslaownersSV/status/2116201444877767105",
+      "date": "Fri Oct 30 16:11:56 +0000 2026",
+      "tweet_id": "2116201444877767105",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Tesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX",
+        "text_zh": "Tesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Amy787：我加入 Tesla Beat 是为了谈论可能的 $TSLA / $SPCX 合并以及致董事会的股东信。  与@teslaow..."
+    },
+    {
+      "text": "I joined the Tesla Beat to talk about the possible $TSLA / $SPCX merger and the Shareholder Letter to the Board.  With @teslaownersSV @SjvTesla @MatthewDR @FutureAZA",
+      "link": "https://x.com/Amy787/status/2116201200949620869",
+      "date": "Fri Oct 30 16:10:58 +0000 2026",
       "tweet_id": "2116201200949620869",
       "quoted": {
         "user": "teslaownersSV",
@@ -107,9 +541,9 @@
       "text_zh": "吊舱！\n\nTesla Beat 上线：与 @SjvTesla @teslaownersSV @FutureAZA 讨论 Cybercab 生产、越南扩张、Starship 新闻\n\n\n特斯拉车主硅谷 (@teslaownersSV)\n\nTesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 即将到来：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\n链接\n\n\n\n特斯拉车主硅谷\n\nTesla 来到越南，TSLA 价格突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m"
     },
     {
-      "text": "Tesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\nLink\n\n\n\nTesla Owners Silicon Valley\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX",
-      "link": "https://x.com/teslaownersSV/status/2116184180954705969#m",
-      "date": "Fri, 30 Oct 2026 15:03:20 GMT",
+      "text": "Tesla Comes to Vietnam, TSLA Tops $400 &amp; Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 https://t.co/mbgspUIY3k",
+      "link": "https://x.com/teslaownersSV/status/2116184180954705969",
+      "date": "Fri Oct 30 15:03:20 +0000 2026",
       "tweet_id": "2116184180954705969",
       "ctx_done": 1,
       "text_zh": "Tesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 即将到来：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\n链接\n\n\n\n特斯拉车主硅谷\n\nTesla 来到越南，TSLA 价格突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX"
@@ -3559,373 +3993,6 @@
         }
       ],
       "text_zh": "星舰 15 号航班静火。\n\n超重型助推器上的所有 33 台发动机全部点亮，在 Starbase 进行全程静态点火。\n\n仅 Super Heavy 就可以产生 1810 万磅的推力。星舰是迄今为止开发的最强大的运载火箭。\n“事实上，没有人创建过 https://t.co/5Q9pDsNUc6",
-      "ctx_done": 1
-    },
-    {
-      "text": "Did you know 𝕏 takeover is coming to Japan? \n\nJoin us.",
-      "link": "https://x.com/teslaownersSV/status/2114782056576414030",
-      "date": "Mon Oct 26 18:11:47 +0000 2026",
-      "tweet_id": "2114782056576414030",
-      "text_zh": "您知道𝕏 接管即将来到日本吗？ \n\n加入我们。",
-      "quoted": {
-        "user": "TeslaOwners_JP",
-        "text": "🎁 フォロー&リポストキャンペーン　第1弾！🎁\n\nX TAKEOVER JAPAN 2026のタイトルスポンサー「3W」様より、テスラ専用オールウェザーフロアマットを3名様にプレゼント！🚗✨\n\n✅ 応募方法\n① このアカウントをフォロー\n② この投稿をリポスト\n\nたったこれだけで応募完了！\n\n☔ 雨や泥汚れにも強い！\n✨ 車種専用設計で抜群のフィット感！\n🚗 愛車の足元をアップグレード！\n\n📅 応募締切：11月9日 23\n\nX TAKEOVER JAPAN 2026 にお越しの方は、3W様の高品質なフロアマットを手に入れるチャンス🔥\n\n※コメント欄の応募規約を確認の上ご応募ください\n\n#XTakeoverJapan #Tesla #テスラ #プレゼントキャンペーン",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114675830983184384/img/V730JZqsXkMWiXJQ.jpg",
-            "local": "2114782056576414030q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVjWdtfaAAAQKea.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVjWdtfaAAAQKea.jpg?name=orig",
-            "local": "2114782056576414030q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVjWdtdbMAA4lRc.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVjWdtdbMAA4lRc.jpg?name=orig",
-            "local": "2114782056576414030q_2.jpg"
-          }
-        ],
-        "text_zh": "🎁 关注并转发活动第 1 部分！ 🎁\n\nX TAKEOVER JAPAN 2026冠名赞助商“3W”将向3人赠送特斯拉专属全天候脚垫！ 🚗✨\n\n✅ 如何申请\n① 关注本账号\n② 转发此贴\n\n只需这样做即可完成您的申请！\n\n☔ 防雨防泥！\n✨ 专为您的车辆设计，完美贴合！\n🚗 升级你的汽车底座！\n\n📅申请截止日期：11月9日23日\n\n如果您来X TAKEOVER JAPAN 2026，就有机会获得3W的高品质地垫🔥\n\n*申请前请查看评论部分的申请条款和条件。\n\n#XTakeoverJapan #Tesla #Tesla #present 活动"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla Roadster at @Petersen_Museum \n\nWhat do you think? https://t.co/3lHkETfnYe",
-      "link": "https://x.com/teslaownersSV/status/2114781897062805867",
-      "date": "Mon Oct 26 18:11:09 +0000 2026",
-      "tweet_id": "2114781897062805867",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114781828037107712/vid/avc1/1080x1920/FZhPA_dYi2hUMEkj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114781828037107712/img/NOfzk4QSNUhHG0E_.jpg",
-          "local": "2114781897062805867_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114781828037107712/vid/avc1/1080x1920/FZhPA_dYi2hUMEkj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114781828037107712/img/NOfzk4QSNUhHG0E_.jpg",
-          "local": "2114781897062805867_1.jpg"
-        }
-      ],
-      "text_zh": "@Petersen_Museum 的 Tesla Roadster \n\n你觉得怎么样？ https://t.co/3lHkETfnYe",
-      "ctx_done": 1
-    },
-    {
-      "text": "JUST IN: Starlink Mobile is now live across all of Brazil with Vivo.\n\n50 million Vivo customers can now use apps and messaging in cellular dead zones.\n7 million phones are already connected.\nStarlink says it's the first nationwide service to cover an entire country.\nNo dish and https://t.co/JXwCYvmfEw",
-      "link": "https://x.com/teslaownersSV/status/2114764875201454142",
-      "date": "Mon Oct 26 17:03:31 +0000 2026",
-      "tweet_id": "2114764875201454142",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkncc8bMAAbmM8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkncc8bMAAbmM8.jpg?format=jpg&name=large",
-          "local": "2114764875201454142_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkncc8bMAAbmM8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkncc8bMAAbmM8.jpg?format=jpg&name=large",
-          "local": "2114764875201454142_1.jpg"
-        }
-      ],
-      "text_zh": "刚刚发布：Starlink Mobile 现已通过 Vivo 在巴西全境上线。\n\n5000 万 Vivo 客户现在可以在蜂窝死区使用应用程序和消息传递。\n已有 700 万部手机联网。\nStarlink 表示，这是第一个覆盖整个国家的全国性服务。\n没有菜和 https://t.co/JXwCYvmfEw",
-      "ctx_done": 1
-    },
-    {
-      "text": "Starlink’s airline partnerships have grown from 2 in 2022 to 50 in 2026. \n\nThat’s a 25-fold increase in just four years.\n\nMore airlines are turning to Starlink for high-speed in-flight connectivity, bringing satellite-powered internet to more passengers worldwide. https://t.co/FnHsF0iFpc",
-      "link": "https://x.com/teslaownersSV/status/2114762417872031852",
-      "date": "Mon Oct 26 16:53:45 +0000 2026",
-      "tweet_id": "2114762417872031852",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVklNiYbYAAgkMF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVklNiYbYAAgkMF.jpg?format=jpg&name=large",
-          "local": "2114762417872031852_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVklNiYbYAAgkMF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVklNiYbYAAgkMF.jpg?format=jpg&name=large",
-          "local": "2114762417872031852_1.jpg"
-        }
-      ],
-      "text_zh": "Starlink 的航空公司合作伙伴已从 2022 年的 2 家增长到 2026 年的 50 家。 \n\n短短四年内增长了 25 倍。\n\n越来越多的航空公司开始采用星链技术来实现高速机上连接，为全球更多乘客提供卫星互联网。 https://t.co/FnHsF0iFpc",
-      "ctx_done": 1
-    },
-    {
-      "text": "Robotaxi network expanded to the size of Starship.",
-      "link": "https://x.com/teslaownersSV/status/2114754630530031951",
-      "date": "Mon Oct 26 16:22:48 +0000 2026",
-      "tweet_id": "2114754630530031951",
-      "text_zh": "Robotaxi 网络扩展到了 Starship 的规模。",
-      "quoted": {
-        "user": "robotaxi",
-        "text": "Houston, we have liftoff \n\nBigger service area now live",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVj4du3bEAAWAoS.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVj4du3bEAAWAoS.jpg?name=orig",
-            "local": "2114754630530031951q_0.jpg"
-          }
-        ],
-        "text_zh": "休斯顿，我们起飞了 \n\n更大的服务区现已上线"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon wrote this in July 2016, in Master Plan, Part Deux:\n\n\"You will also be able to add your car to the Tesla shared fleet just by tapping a button on the Tesla phone app and have it generate income for you while you're at work or on vacation.\"\n\nTen years later, starting Oct 28, https://t.co/QhpFdiOFd8",
-      "link": "https://x.com/teslaownersSV/status/2114754545591185521",
-      "date": "Mon Oct 26 16:22:28 +0000 2026",
-      "tweet_id": "2114754545591185521",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkeDJ_aYAAaQwF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkeDJ_aYAAaQwF.jpg?format=jpg&name=large",
-          "local": "2114754545591185521_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkeDJ_aYAAaQwF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkeDJ_aYAAaQwF.jpg?format=jpg&name=large",
-          "local": "2114754545591185521_1.jpg"
-        }
-      ],
-      "text_zh": "Elon 在 2016 年 7 月的《总体规划，第二部分》中写道：\n\n“您还可以通过点击特斯拉手机应用程序上的按钮将您的汽车添加到特斯拉共享车队中，并让它在您工作或度假时为您带来收入。”\n\n十年后，从 10 月 28 日开始，https://t.co/QhpFdiOFd8",
-      "ctx_done": 1
-    },
-    {
-      "text": "TSLA SHAREHOLDERS ARE # 14!!!  \nWe did it!!!  Great work everyone!!\nThe Tesla Retail letter in support of a $TSLA/$SPCX merger now represents over $10.2 BILLION dollars in Tesla shares - to put it into context, that is  more shares than Baron Capital, Citigroup and ARK Invest COMBINED.\nKalshi betters may want to revisit the merger odds.\nThe Numbers - in just 2+ Days:\n♦️ 25,710,618 shares\n♦️ $10.2 billion in Tesla stock\n♦️ 9,697 signers\nTesla and SpaceX don't just share a CEO; they share shareholders. 76% of signers (7,406) own both TSLA and SPCX, holding 19,774,447 shares.\nThe closest thing to this historic mobilization was ALSO Tesla retail: our 2024 letter (representing $4B of TSLA) supporting Elon Musk's incentive package & move out of Delaware. Neither would have been possible without the stellar skills of @TeslaBoomerMama.\nThousands of shareholders think Tesla and SpaceX are stronger together, and they back Tesla, the Special Committee, and Elon Musk. \n@Tesla @elonmusk @robyndenholm @KathleeWT @IraEhrenpreis @jgebbia @kimbal\n@SpaceX @Gwynne_Shotwell @AntonioGracias @d0nharrison @FutureJurvetson @rglein @roelofbotha\nYour signatures are on the way.\nAmy will provide exact numbers tomorrow morning.\nThank you to all who participated, this is unheard of. Nobody ever mobilized so many shareholders, and we did it in just 2.5 days, over the weekend.\nSo proud of you all. ❤️\nVideo",
-      "link": "http://nitter.meowing.monster/Amy787/status/2114754400610607264#m",
-      "date": "Mon, 26 Oct 2026 16:21:53 GMT",
-      "tweet_id": "2114754400610607264",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56YXAAA4wtF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56YXAAA4wtF.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56lWMAAf0Kl.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56lWMAAf0Kl.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56QXsAA_hFs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56QXsAA_hFs.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56fWcAAINq1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56fWcAAINq1.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56YXAAA4wtF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56YXAAA4wtF.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56lWMAAf0Kl.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56lWMAAf0Kl.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56QXsAA_hFs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56QXsAA_hFs.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkd56fWcAAINq1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkd56fWcAAINq1.jpg?format=jpg&name=large",
-          "local": "2114754400610607264_7.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "TeslaBoomerMama",
-        "text": "Your signatures are on the way.\n\nAmy will provide exact numbers tomorrow morning.\n\nThank you to all who participated, this is unheard of. Nobody ever mobilized so many shareholders, and we did it in just 2.5 days, over the weekend.\n\nSo proud of you all. ❤️",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114549841904951296/img/K6UEYk3MXDJnWhSv.jpg",
-            "local": "2114754400610607264q_0.jpg"
-          }
-        ],
-        "text_zh": "您的签名正在路上。\n\n艾米明天早上将提供确切的数字。\n\n感谢所有参与的人，这是闻所未闻的。从来没有人动员过如此多的股东，而我们在周末仅用了 2.5 天就做到了。\n\n为你们所有人感到骄傲。 ❤️"
-      },
-      "ctx_done": 1,
-      "text_zh": "特斯拉股东排名第 14 位！！！  \n我们做到了！  大家干得好！！\n支持 $TSLA/$SPCX 合并的特斯拉零售信现在代表了价值超过 102 亿美元的特斯拉股票 - 结合上下文来看，这比 Baron Capital、花旗集团和 ARK Invest 的股票总和还多。\n卡尔什更好的人可能想重新审视合并的可能性。\n数字 - 在短短 2 天多的时间内：\n️ 25,710,618 股\n️ 价值 102 亿美元的特斯拉股票\n️ 9,697 名签署者\n特斯拉和 SpaceX 不仅共同担任首席执行官，而且还共同担任首席执行官。他们拥有共同的股东。 76% 的签署者 (7,406) 拥有 TSLA 和 SPCX，持有 19,774,447 股。\n与这一历史性动员最接近的是特斯拉零售业：我们 2024 年的信函（代表 TSLA 的 40 亿美元）支持埃隆·马斯克的激励计划并搬出特拉华州。如果没有 @TeslaBoomerMama 的出色技能，这一切都是不可能的。\n成千上万的股东认为特斯拉和 SpaceX 在一起会更强大，他们支持特斯拉、特别委员会和埃隆·马斯克。 \n@特斯拉 @elonmusk @robyndenholm @KathleeWT @IraEhrenpreis @jgebbia @kimbal\n@SpaceX @Gwynne_Shotwell @AntonioGracias @d0nharrison @FutureJurvetson @rglein @roelofbotha\n您的签名正在路上。\n艾米明天早上将提供确切的数字。\n感谢所有参与的人，这是闻所未闻的。从来没有人动员过如此多的股东，而我们在周末仅用了 2.5 天就做到了。\n为你们所有人感到骄傲。 ❤️\n视频"
-    },
-    {
-      "text": "The U.S. Air Force plans to equip its entire fleet of 222 C-17 cargo aircraft with SpaceX’s Starshield. \n\nBoeing has already equipped 9 aircraft at Port San Antonio.\n\nTwo contracts worth a combined $13.5 million cover integration and installation on 19 jets by March 2027.\n\nThe https://t.co/urWRwW8GLr",
-      "link": "https://x.com/teslaownersSV/status/2114739986331574521",
-      "date": "Mon Oct 26 15:24:37 +0000 2026",
-      "tweet_id": "2114739986331574521",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkQz0gagAAKH3Q.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkQz0gagAAKH3Q.jpg?format=jpg&name=large",
-          "local": "2114739986331574521_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkQz0gagAAKH3Q.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkQz0gagAAKH3Q.jpg?format=jpg&name=large",
-          "local": "2114739986331574521_1.jpg"
-        }
-      ],
-      "text_zh": "美国空军计划为其整个机队的 222 架 C-17 货机配备 SpaceX 的 Starshield。 \n\n波音公司已在圣安东尼奥港装备了 9 架飞机。\n\n两份合同总价值 1,350 万美元，涵盖到 2027 年 3 月对 19 架飞机进行集成和安装。\n\nhttps://t.co/urWRwW8GLr",
-      "ctx_done": 1
-    },
-    {
-      "text": "“Can you imagine how awesome it will be to have American astronauts plant the flag on another planet for the first time?\n\nThis is what victory feels like.”\n@elonmusk https://t.co/bYE6lkwlaE",
-      "link": "https://x.com/teslaownersSV/status/2114732237853966733",
-      "date": "Mon Oct 26 14:53:49 +0000 2026",
-      "tweet_id": "2114732237853966733",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114732096656908288/vid/avc1/1920x1080/7RctGWwdkfwkdXWi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114732096656908288/img/K9jLu8lgoN0e9hUj.jpg",
-          "local": "2114732237853966733_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114732096656908288/vid/avc1/1920x1080/7RctGWwdkfwkdXWi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114732096656908288/img/K9jLu8lgoN0e9hUj.jpg",
-          "local": "2114732237853966733_1.jpg"
-        }
-      ],
-      "text_zh": "“你能想象美国宇航员第一次在另一个星球上插上国旗会有多棒吗？\n\n这就是胜利的感觉。”\n@elonmusk https://t.co/bYE6lkwlaE",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @cybrgalaxy: TONIGHT. 🫖\n\n8pm ET on Tesla Tearoom I'm interviewing John Stringer of @teslaownersSV.\n\nStarship reuse, Starlink passing AT&amp;…",
-      "link": "https://x.com/teslaownersSV/status/2114728614944190650",
-      "date": "Mon Oct 26 14:39:26 +0000 2026",
-      "tweet_id": "2114728614944190650",
-      "text_zh": "RT @cybrgalaxy：今晚。 🫖\n\n美国东部时间晚上 8 点，我在 Tesla Tearoom 采访 @teslaownersSV 的 John Stringer。\n\n星舰重用、星链通过 AT&…",
-      "ctx_done": 1
-    },
-    {
-      "text": "TONIGHT. 🫖\n\n8pm ET on Tesla Tearoom I'm interviewing John Stringer of @teslaownersSV.\n\nStarship reuse, Starlink passing AT&amp;T Fiber, Roadster Reveal, XTakeover. He's been posting it all. Pour a cup and come ask him your questions 🫖🫖🫖 https://t.co/6Owx15guGX",
-      "link": "https://x.com/cybrgalaxy/status/2114726366897741856",
-      "date": "Mon Oct 26 14:30:30 +0000 2026",
-      "tweet_id": "2114726366897741856",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkEN8IXIAEXKS_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkEN8IXIAEXKS_.jpg?format=jpg&name=large",
-          "local": "2114726366897741856_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkEN8IXIAEXKS_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkEN8IXIAEXKS_.jpg?format=jpg&name=large",
-          "local": "2114726366897741856_1.jpg"
-        }
-      ],
-      "text_zh": "今晚。 🫖\n\n美国东部时间晚上 8 点，我在 Tesla Tearoom 采访 @teslaownersSV 的 John Stringer。\n\n星舰复用、星链通过 AT&T Fiber、Roadster Reveal、XTakeover。他已经把这一切都贴出来了。倒一杯来问他你的问题🫖🫖🫖 https://t.co/6Owx15guGX",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk just confirmed the next SpaceX engine.\n\nRaptor 4 will be 300 tons of thrust at sea level.\nMass: \"hopefully about the same.\"\nMore thrust with no added weight.\n\nThat means more payload to orbit and to Mars on every Starship flight. https://t.co/I4N9bPr49Z",
-      "link": "https://x.com/teslaownersSV/status/2114724192386187371",
-      "date": "Mon Oct 26 14:21:51 +0000 2026",
-      "tweet_id": "2114724192386187371",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkCcgiboAA1msy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkCcgiboAA1msy.jpg?format=jpg&name=large",
-          "local": "2114724192386187371_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVkCcgiboAA1msy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVkCcgiboAA1msy.jpg?format=jpg&name=large",
-          "local": "2114724192386187371_1.jpg"
-        }
-      ],
-      "text_zh": "埃隆·马斯克 (Elon Musk) 刚刚确认了 SpaceX 的下一代发动机。\n\n猛禽4在海平面的推力将达到300吨。\nMass：“希望差不多。”\n在不增加重量的情况下获得更大的推力。\n\n这意味着每次星际飞船飞行都有更多的有效载荷进入轨道和火星。 https://t.co/I4N9bPr49Z",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "@XFreeze Raptor 4 will be 300 tons of thrust at sea level and hopefully about the same mass",
-        "text_zh": "@XFreeze Raptor 4 在海平面的推力将达到 300 吨，希望质量相同"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "@XFreeze Raptor 4 will be 300 tons of thrust at sea level and hopefully about the same mass",
-      "link": "https://x.com/elonmusk/status/2114718275238277610",
-      "date": "Mon Oct 26 13:58:21 +0000 2026",
-      "tweet_id": "2114718275238277610",
-      "text_zh": "@XFreeze Raptor 4 在海平面的推力将达到 300 吨，希望质量相同",
-      "reply_to": "XFreeze",
-      "ctx_done": 1
-    },
-    {
-      "text": "We strapped the @insta360 X6 to a heli, then let the sharpshooters do their thing 🎯🔥\n\n📹 Recorded in 360° HDR at 8K50\n\nCheck it out: https://t.co/2KbIJdE7tj https://t.co/GGEc3xOlg5",
-      "link": "https://x.com/teslaownersSV/status/2114714695810609202",
-      "date": "Mon Oct 26 13:44:07 +0000 2026",
-      "tweet_id": "2114714695810609202",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114713150666772480/vid/avc1/1080x1920/VwNx5u0oEGpqWoGH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114713150666772480/img/NjsCAT89gEZVv8fG.jpg",
-          "local": "2114714695810609202_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114713150666772480/vid/avc1/1080x1920/VwNx5u0oEGpqWoGH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114713150666772480/img/NjsCAT89gEZVv8fG.jpg",
-          "local": "2114714695810609202_1.jpg"
-        }
-      ],
-      "text_zh": "我们将 @insta360 X6 绑在直升机上，然后让神枪手们做他们的事 🎯🔥\n\n📹 以 8K50 的 360° HDR 录制\n\n查看：https://t.co/2KbIJdE7tj https://t.co/GGEc3xOlg5",
-      "ctx_done": 1
-    },
-    {
-      "text": "Houston, we have liftoff \n\nBigger service area now live https://t.co/ps8fZmWpuP",
-      "link": "https://x.com/robotaxi/status/2114713219411660978",
-      "date": "Mon Oct 26 13:38:15 +0000 2026",
-      "tweet_id": "2114713219411660978",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVj4du3bEAAWAoS.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVj4du3bEAAWAoS.jpg?format=jpg&name=large",
-          "local": "2114713219411660978_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVj4du3bEAAWAoS.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVj4du3bEAAWAoS.jpg?format=jpg&name=large",
-          "local": "2114713219411660978_1.jpg"
-        }
-      ],
-      "text_zh": "休斯顿，我们起飞了 \n\n更大的服务区现已上线 https://t.co/ps8fZmWpuP",
       "ctx_done": 1
     }
   ]
