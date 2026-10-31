@@ -1,8 +1,154 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-10-31T17:12:52Z",
-  "count": 76,
+  "updated_at": "2026-10-31T21:18:42Z",
+  "count": 87,
   "tweets": [
+    {
+      "text": "NIO真的是在不断的画蛇添足\n这就是李斌有的特斯拉却没有的吗？\n\nVideo",
+      "link": "https://x.com/Tsla99T/status/2116523359173243124#m",
+      "date": "Sat, 31 Oct 2026 13:31:06 GMT",
+      "tweet_id": "2116523359173243124",
+      "ctx_done": 1,
+      "text_zh": "NIO真的是在不断的画蛇添足\n这就是李斌有的特斯拉却没有的吗？\n\nVideo"
+    },
+    {
+      "text": "一个前Waymo员工到今天居然还在质疑Cybercab不是无人驾驶\n福布斯居然还发表了\n这到底是暴露出了谁的问题？",
+      "link": "https://x.com/Tsla99T/status/2116522157106758074#m",
+      "date": "Sat, 31 Oct 2026 13:26:19 GMT",
+      "tweet_id": "2116522157106758074",
+      "quoted": {
+        "user": "wholemars",
+        "text": "It’s surprising how many people are still in denial that Tesla launched a Robotaxi. \n\nIn this Forbes article the author, an early Waymo employee, claims that the Cybercab — a car with no steering wheel — is actually not unsupervised. \n\nHe argues that Cybercabs must be secretly remotely driven, because there’s no way the AI can do it. This is a laughable argument. \n\nFirst off, all autonomous vehicles can be tracked by the operator, and they can receive commands remotely. This does not mean they’re being driven over the internet, which would be unreliable and barely work at all. \n\nJust go try FSD (Supervised), which has no remote monitoring or assistance. Watch how it drives you around safely for thousands of miles and then tell me with a straight face that remote assistance is required. \n\nIt’s also not true that remote help only happens at early stages. all operators including Waymo still do it, and in most cases are required to have the capability by law. \n\nTo claim autonomous cars are secretly being driven over the internet  is, at this point, tinfoil hat stuff. The AI is driving the car, not a human. \n\nSupervised means someone is in the car responsible for taking over if something goes wrong. Unsupervised means there is not someone in the car supervising. Cybercab without  steering wheel is always unsupervised because there is no way to drive it manually.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV6pYCCbwAAf5NL.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV6pYCCbwAAf5NL.jpg?name=orig",
+            "local": "2116522157106758074q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV6pYCIagAA8f22.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV6pYCIagAA8f22.jpg?name=orig",
+            "local": "2116522157106758074q_1.jpg"
+          }
+        ],
+        "text_zh": "令人惊讶的是，有多少人仍然否认特斯拉推出了机器人出租车。 \n\n在这篇《福布斯》文章中，作者（一位 Waymo 早期员工）声称 Cyber​​cab（一种没有方向盘的汽车）实际上并非无人监管。 \n\n他认为，网络出租车必须是秘密远程驾驶的，因为人工智能无法做到这一点。这是一个可笑的论点。 \n\n首先，所有自动驾驶车辆都可以由操作员跟踪，并且可以远程接收命令。这并不意味着它们是通过互联网驱动的，这将是不可靠的并且几乎不起作用。 \n\n试试FSD（监督式）吧，它没有远程监控或协助。看看它如何安全地载着你行驶数千英里，然后板着脸告诉我需要远程协助。 \n\n远程帮助只发生在早期阶段也是不正确的。包括 Waymo 在内的所有运营商仍然这样做，并且在大多数情况下都需要法律规定具备这种能力。 \n\n在这一点上，声称自动驾驶汽车正在通过互联网秘密行驶是无稽之谈。人工智能正在驾驶汽车，而不是人类。 \n\n有监督意味着车内有人负责在出现问题时接管。无监督是指车内无人监督。没有方向盘的电瓶车总是无人监管，因为无法手动驾驶。"
+      },
+      "ctx_done": 1,
+      "text_zh": "一个前Waymo员工到今天居然还在质疑Cybercab不是无人驾驶\n福布斯居然还发表了\n这到底是暴露出了谁的问题？"
+    },
+    {
+      "text": "Video\nVideo",
+      "link": "https://x.com/Tsla99T/status/2116517204334195001#m",
+      "date": "Sat, 31 Oct 2026 13:06:39 GMT",
+      "tweet_id": "2116517204334195001",
+      "quoted": {
+        "user": "Tsla99T",
+        "text": "早晨空腹游泳后\n蒸个桑拿",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116507990614327296/img/M74eFnma_dS_sWzY.jpg",
+            "local": "2116517204334195001q_0.jpg"
+          }
+        ],
+        "text_zh": "早晨空腹游泳后\n蒸个桑拿"
+      },
+      "ctx_done": 1,
+      "text_zh": "视频\n视频"
+    },
+    {
+      "text": "不禁感叹\n马斯克的公司都是终极版本答案\n纯视觉FSD\n太空算力\n脑机接口\n人形机器人\nVideo",
+      "link": "https://x.com/Tsla99T/status/2116509938138702023#m",
+      "date": "Sat, 31 Oct 2026 12:37:46 GMT",
+      "tweet_id": "2116509938138702023",
+      "quoted": {
+        "user": "Tsla99T",
+        "text": "看起来好麻烦\nneuralink的过渡产品",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116205148615913475/img/MJrhHGn-DTK7ZuXS.jpg",
+            "local": "2116509938138702023q_0.jpg"
+          }
+        ],
+        "text_zh": "看起来好麻烦\nneuralink的过渡产品"
+      },
+      "ctx_done": 1,
+      "text_zh": "不禁感叹\n马斯克的公司都是终极版本答案\n纯视觉FSD\n太空算力\n脑机接口\n人形机器人\nVideo"
+    },
+    {
+      "text": "早晨空腹游泳后\n蒸个桑拿\n\nVideo",
+      "link": "https://x.com/Tsla99T/status/2116508168339546209#m",
+      "date": "Sat, 31 Oct 2026 12:30:44 GMT",
+      "tweet_id": "2116508168339546209",
+      "ctx_done": 1,
+      "text_zh": "早晨空腹游泳后\n蒸个桑拿\n\nVideo"
+    },
+    {
+      "text": "看起来好麻烦\nneuralink的过渡产品\n\nVideo",
+      "link": "https://x.com/Tsla99T/status/2116472449684345084#m",
+      "date": "Sat, 31 Oct 2026 10:08:48 GMT",
+      "tweet_id": "2116472449684345084",
+      "ctx_done": 1,
+      "text_zh": "看起来好麻烦\nneuralink的过渡产品\n\nVideo"
+    },
+    {
+      "text": "市场又帮我自动调仓了\n$TSLA 重新回到第二名",
+      "link": "https://x.com/Tsla99T/status/2116468391250698621#m",
+      "date": "Sat, 31 Oct 2026 09:52:41 GMT",
+      "tweet_id": "2116468391250698621",
+      "ctx_done": 1,
+      "text_zh": "市场又帮我自动调仓了\n$TSLA 重新回到第二名"
+    },
+    {
+      "text": "Meta眼镜太重了\n你绝不会想戴一天\n但是力量练习的时候\n不用带耳机就能听音乐\n还是很爽的\n\nVideo",
+      "link": "https://x.com/Tsla99T/status/2116271257411105127#m",
+      "date": "Fri, 30 Oct 2026 20:49:20 GMT",
+      "tweet_id": "2116271257411105127",
+      "ctx_done": 1,
+      "text_zh": "Meta眼镜太重了\n你绝不会想戴一天\n但是力量练习的时候\n不用带耳机就能听音乐\n还是很爽的\n\nVideo"
+    },
+    {
+      "text": "这次修车的经历让我深深体会到\n没有AI4加持的V14.3\n$90,000的Model S\n比不上 $40,000的Model 3\npiped.video/vTKN6-YPJrw?si=FJLL…\n\nLink\n\n\n\n用 Meta 眼镜拍下 Tesla 保养全过程｜无接触送修、代步车、取车一条龙\n\n这次我戴着新买的 Meta AI 眼镜，把 Model S 去 Plano 服务中心保养的全过程完整拍了下来：从开车出发，到用 Tes...\nyoutube.com",
+      "link": "https://x.com/Tsla99T/status/2116181449904714231#m",
+      "date": "Fri, 30 Oct 2026 14:52:29 GMT",
+      "tweet_id": "2116181449904714231",
+      "ctx_done": 1,
+      "text_zh": "这次修车的经历让我深深体会到\n没有AI4加持的V14.3\n$90,000的Model S\n比不上 $40,000的Model 3\npiped.video/vTKN6-YPJrw?si=FJLL…\n\nLink\n\n\n\n用 Meta 眼镜拍下 Tesla 保养全过程｜无接触送修、代步车、取车一条龙\n\n这次我戴着新买的 Meta AI 眼镜，把 Model S 去 Plano 服务中心保养的全过程完整拍了下来：从开车出发，到用 Tes...\nyoutube.com"
+    },
+    {
+      "text": "very cool! ordered\nVideo",
+      "link": "https://x.com/Tsla99T/status/2115795058196979808#m",
+      "date": "Thu, 29 Oct 2026 13:17:06 GMT",
+      "tweet_id": "2115795058196979808",
+      "quoted": {
+        "user": "Thom_Wolf",
+        "text": "Reachy Mini can finally move!\n\nToday We’re launching Reachy Mini \"Level Up\", a set of new accessories for Reachy Mini: wheels (!), phone apps, and hats that change its personality\n\nobviously the first thing Reachy Mini did was race against Microduck (spoiler: it's faster)",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115761434856443904/img/dDCKlf14OTVKy7zd.jpg",
+            "local": "2115795058196979808q_0.jpg"
+          }
+        ],
+        "text_zh": "迷你迷你终于可以动了！\n\n今天，我们推出 Reachy Mini“Level Up”，这是 Reachy Mini 的一套新配件：轮子（！）、手机应用程序和改变其个性的帽子\n\n显然，Reachy Mini 做的第一件事就是与 Microduck 比赛（剧透：它更快）"
+      },
+      "ctx_done": 1,
+      "text_zh": "非常酷！已订购\n视频"
+    },
+    {
+      "text": "Muse的免费版越来越不禁用了",
+      "link": "https://x.com/Tsla99T/status/2115794168274731354#m",
+      "date": "Thu, 29 Oct 2026 13:13:33 GMT",
+      "tweet_id": "2115794168274731354",
+      "ctx_done": 1,
+      "text_zh": "Muse的免费版越来越不禁用了"
+    },
     {
       "text": "Waymo真烧钱",
       "link": "https://x.com/Tsla99T/status/2115581861321670966#m",
@@ -96,7 +242,7 @@
       "text_zh": "颤抖了！\n不服的下面留言"
     },
     {
-      "text": "谁还不服？不服的下面留言\n\nCybercab Robotaxi 全解析：每英里三毛钱？奥斯汀实测、成本与价格战 | TSLA 2026 Q3 财报回顾\nyoutu.be/HU4llyAI3h8\n\nLink\n\n\n\nCybercab Robotaxi 全解析：每英里三毛钱？奥斯汀实测、成本与价格战 | TSLA 2026 Q3 财报回顾\n\nTSLA 2026 Q3 财报直播回顾里，所有关于 Cybercab 和 Robotaxi 的精华片段，已剪辑并 1.5 倍速播放。...\nyoutube.com",
+      "text": "谁还不服？不服的下面留言\n\nCybercab Robotaxi 全解析：每英里三毛钱？奥斯汀实测、成本与价格战 | TSLA 2026 Q3 财报回顾\npiped.video/HU4llyAI3h8\n\nLink\n\n\n\nCybercab Robotaxi 全解析：每英里三毛钱？奥斯汀实测、成本与价格战 | TSLA 2026 Q3 财报回顾\n\nTSLA 2026 Q3 财报直播回顾里，所有关于 Cybercab 和 Robotaxi 的精华片段，已剪辑并 1.5 倍速播放。...\nyoutube.com",
       "link": "https://x.com/Tsla99T/status/2114717208911757459#m",
       "date": "Mon, 26 Oct 2026 13:54:06 GMT",
       "tweet_id": "2114717208911757459",

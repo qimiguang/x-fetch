@@ -1,8 +1,166 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-31T17:13:19Z",
-  "count": 197,
+  "updated_at": "2026-10-31T21:19:18Z",
+  "count": 200,
   "tweets": [
+    {
+      "text": "I hope Spam doesn’t produce too much spam! 😂",
+      "link": "https://x.com/elonmusk/status/2116595355848470762#m",
+      "date": "Sat, 31 Oct 2026 18:17:11 GMT",
+      "tweet_id": "2116595355848470762",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "我希望垃圾邮件不要产生太多垃圾邮件！ 😂"
+    },
+    {
+      "text": "Elon has unveiled the names of @SpaceX’s two new supercomputer clusters that are coming soon, which will bring online an additional ~$35+ billion of GPUs:\n• Gun Range: Late November\n• Spam: December\nThat’s ~420,000 Nvidia GB300s GPUs between them. SpaceX is absolutely COOKIN’ with how quickly they’re putting up these new clusters.",
+      "link": "https://x.com/SawyerMerritt/status/2116592175823642670#m",
+      "date": "Sat, 31 Oct 2026 18:04:33 GMT",
+      "tweet_id": "2116592175823642670",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Macroharder and Minihard both have 220k GB300s with 800 gig nics configured for training. Gun Range will have the same. Spam (used to house Hormel products) will have ~200k GB300s, but configured for inference, so much simpler networking and less than half the fiber. \n\nI walked the whole Colossus 2 site around midnight and again this morning. \n\nGood progress by the SpaceX team and contractors. Gun Range is tracking to be operational by end of November and Spam in December.",
+        "text_zh": "Macroharder 和 Minihard 都有 220k GB300，并配置了 800 个千兆网卡用于训练。射击场也会有同样的情况。 Spam（用于容纳荷美尔产品）将有约 200k GB300，但配置用于推理，因此网络更简单，光纤数量还不到一半。 \n\n我在午夜前后走遍了《巨像 2》的整个站点，今天早上又走了一遍。 \n\nSpaceX 团队和承包商取得了良好进展。 Gun Range 预计将于 11 月底投入运营，Spam 则将于 12 月投入运营。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Elon 公布了 @SpaceX 即将推出的两个新超级计算机集群的名称，这将额外带来约 35 亿美元以上的 GPU：\n• 射击场：11 月下旬\n• 垃圾邮件：12 月\n它们之间大约有 420,000 个 Nvidia GB300s GPU。 SpaceX 对他们搭建这些新集群的速度感到非常满意。"
+    },
+    {
+      "text": "RT @elonmusk: @SPCX100T Terrestrial compute will be peanuts compared to orbital compute. \n\nOrbital compute deployed per month probably exce…",
+      "link": "https://x.com/SawyerMerritt/status/2116570759598387602#m",
+      "date": "Sat, 31 Oct 2026 16:39:27 GMT",
+      "tweet_id": "2116570759598387602",
+      "reply_to": "SPCX100T",
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：@SPCX100T 与轨道计算相比，地面计算微不足道。 \n\n每月部署的轨道计算量可能超过……"
+    },
+    {
+      "text": "Tesla is celebrating Halloween this year by having a Cybercab autonomously drive around Austin with skeletons inside haha 🎃\n\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2116399240880480429#m",
+      "date": "Sat, 31 Oct 2026 05:17:54 GMT",
+      "tweet_id": "2116399240880480429",
+      "ctx_done": 1,
+      "text_zh": "特斯拉今年庆祝万圣节，让一辆载有骷髅的 Cybercab 自动驾驶在奥斯汀周围，哈哈 🎃\n\n视频"
+    },
+    {
+      "text": "𝕏 has just announced that starting on December 1, 2026, accounts that are eligible to earn 6% APY with 𝕏 Money will earn that rate on the first $150,000 of deposits. Any amount greater than $150,000 will earn 4% APY.\n\nIn addition, ATM operator fees will be reimbursed up to $4 per transaction, up to two times per calendar month. X Money will continue to charge zero fees for ATM transactions.",
+      "link": "https://x.com/SawyerMerritt/status/2116345289250418703#m",
+      "date": "Sat, 31 Oct 2026 01:43:31 GMT",
+      "tweet_id": "2116345289250418703",
+      "ctx_done": 1,
+      "text_zh": "𝕏 刚刚宣布，从 2026 年 12 月 1 日开始，有资格通过 𝕏 Money 赚取 6% APY 的账户将在前 150,000 美元存款中赚取该利率。任何超过 150,000 美元的金额将赚取 4% 年化收益。\n\n此外，ATM 操作员费用每笔交易最多可报销 4 美元，每个日历月最多报销两次。 X Money将继续对ATM交易收取零费用。"
+    },
+    {
+      "text": "Since ya'll keep asking me to do this lol, if you'd like someone to use your new Tesla FSD referral code, drop your referral link below and I’ll send people asking for a code to this post so they can pick one from the comments.\n\nLet's get as many people as possible to use FSD!",
+      "link": "https://x.com/SawyerMerritt/status/2116341067054297451#m",
+      "date": "Sat, 31 Oct 2026 01:26:44 GMT",
+      "tweet_id": "2116341067054297451",
+      "ctx_done": 1,
+      "text_zh": "由于您会一直要求我这样做，哈哈，如果您希望有人使用您的新 Tesla FSD 推荐代码，请将您的推荐链接放在下面，我会将要求代码的人发送到此帖子，以便他们可以从评论中选择一个。\n\n让尽可能多的人使用 FSD！"
+    },
+    {
+      "text": "Make good decisions this weekend, take a Robotaxi home\n\nVideo",
+      "link": "https://x.com/robotaxi/status/2116324698355318830#m",
+      "date": "Sat, 31 Oct 2026 00:21:42 GMT",
+      "tweet_id": "2116324698355318830",
+      "ctx_done": 1,
+      "text_zh": "这个周末做出明智的决定，乘坐Robotaxi回家\n\n视频"
+    },
+    {
+      "text": "What are you talking about? Having humans remotely on standby in case of an emergency or if something goes wrong doesn't mean the Cybercab isn't operating Unsupervised.\n\nY’all love to move the goalposts 😂\n\n\nBrad Templeton (@bradtem)\n\nTesla’s Cybercab Robotaxi Is Probably Not “Unsupervised.” Here’s Why \nforbes.com/sites/bradtemplet…\n\n\n\n\n\n— http://nitter.meowing.monster/bradtem/status/2115456580476862517#m",
+      "link": "https://x.com/SawyerMerritt/status/2116306239667995111#m",
+      "date": "Fri, 30 Oct 2026 23:08:21 GMT",
+      "tweet_id": "2116306239667995111",
+      "quoted": {
+        "user": "bradtem",
+        "text": "Tesla’s Cybercab Robotaxi Is Probably Not “Unsupervised.” Here’s Why \nhttps://www.forbes.com/sites/bradtempleton/2026/10/28/teslas-cybercab-robotaxi-is-probably-not-unsupervised-heres-why/",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVucjKVWwAAmDsw.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVucjKVWwAAmDsw.jpg?name=orig",
+            "local": "2116306239667995111q_0.jpg"
+          }
+        ],
+        "text_zh": "特斯拉的 Cyber​​cab Robotaxi 可能不是“无人监管”的。这就是为什么 \nhttps://www.forbes.com/sites/bradtempleton/2026/10/28/teslas-cybercab-robotaxi-is-probously-not-unsupervised-heres-why/"
+      },
+      "ctx_done": 1,
+      "text_zh": "你在说什么？在紧急情况或出现问题时让人员远程待命并不意味着 Cyber​​cab 不会在无人监督的情况下运行。\n\n你们都喜欢移动球门柱😂\n\n\n布拉德·坦普尔顿 (@bradtem)\n\n特斯拉的 Cybercab Robotaxi 可能不是“无人监管”的。这就是为什么 \nforbes.com/sites/bradtemplet…\n\n\n\n\n\n— http://nitter.meowing.monster/bradtem/status/2115456580476862517#m"
+    },
+    {
+      "text": "Elon on the The San Francisco Standard report that Tesla will open up reservations for its Optimus robot in early December:\n\n\nElon Musk (@elonmusk)\n\nNo\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2116291272604516401#m",
+      "link": "https://x.com/SawyerMerritt/status/2116297825772589318#m",
+      "date": "Fri, 30 Oct 2026 22:34:55 GMT",
+      "tweet_id": "2116297825772589318",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@Scobleizer @bot No",
+        "text_zh": "@Scobleizer @bot 不"
+      },
+      "ctx_done": 1,
+      "text_zh": "Elon 在接受《旧金山标准报》报道时表示，特斯拉将于 12 月初开放其 Optimus 机器人的预订：\n\n\n埃隆·马斯克 (@elonmusk)\n\n否\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2116291272604516401#m"
+    },
+    {
+      "text": "RT @Gwynne_Shotwell: Robert and I are thrilled that our gift of over 2 million shares of SpaceX stock will be distributed to children’s Tru…",
+      "link": "https://x.com/SawyerMerritt/status/2116269379356668329#m",
+      "date": "Fri, 30 Oct 2026 20:41:53 GMT",
+      "tweet_id": "2116269379356668329",
+      "ctx_done": 1,
+      "text_zh": "RT @Gwynne_Shotwell：罗伯特和我很高兴我们的超过 200 万股 SpaceX 股票礼物将分发给儿童 Tru…"
+    },
+    {
+      "text": "Car rental marketplace Turo just sent out this email promoting @Tesla’s FSD (Supervised).\n\n“A drive around the block can only tell you so much, so go beyond the showroom lot and take a Tesla with FSD (Supervised) on your weekend getaway. Explore FSD (Supervised) cars.”",
+      "link": "https://x.com/SawyerMerritt/status/2116239052676415821#m",
+      "date": "Fri, 30 Oct 2026 18:41:22 GMT",
+      "tweet_id": "2116239052676415821",
+      "ctx_done": 1,
+      "text_zh": "汽车租赁市场 Turo 刚刚发送了这封电子邮件，宣传 @Tesla 的 FSD（受监管）。\n\n“绕着街区开车只能告诉你这么多，所以走出陈列室，在周末度假时开一辆配备 FSD（监管）的特斯拉。探索 FSD（监管）汽车。”"
+    },
+    {
+      "text": "Cleo Abram (15M followers across all platforms) just released a new video about @neuralink. She visited the company's Austin HQ.\n\n\"This is Neuralink’s Next-Gen R1 surgical robot. Its main job is to put a computer chip into people's brains, and this is the first time they're unveiling it.\"\npiped.video/watch?v=Vna0hkq7…\n\nLink\n\n\n\nNeuralink’s Newest Brain Chip Isn’t What You Think\n\nBrain chips don&apos;t read your mind. They do something weirder... Sub...\nyoutube.com",
+      "link": "https://x.com/SawyerMerritt/status/2116234164600963206#m",
+      "date": "Fri, 30 Oct 2026 18:21:57 GMT",
+      "tweet_id": "2116234164600963206",
+      "ctx_done": 1,
+      "text_zh": "Cleo Abram（所有平台上有 1500 万粉丝）刚刚发布了一个关于 @neuralink 的新视频。她参观了该公司位于奥斯汀的总部。\n\n“这是 Neuralink 的下一代 R1 手术机器人。它的主要工作是将计算机芯片放入人的大脑中，这是他们第一次揭晓。”\nPiped.video/watch?v=Vna0hkq7…\n\n链接\n\n\n\nNeuralink 最新的大脑芯片并不是你想象的那样\n\n大脑芯片不会读懂你的想法。他们做了一些更奇怪的事情......亚......\nyoutube.com"
+    },
+    {
+      "text": "Want even more evidence that @Tesla FSD is going mainstream? Here’s 2016 F1 World Champion Nico Rosberg after recently trying FSD (Supervised) for the first time:\n\n\"It's been LIFE-CHANGING! My scarcest resource currently is time. And now, I was able to get some of that time back on the commute. By the evening, it actually felt like I'd won back half a working day!! I even had a mini date with my wife on the drive. My whole racing career, I was the one in control behind the wheel. But I'm now fully willing to hand over control!! It’s crazy that 75% of new Teslas delivered in North America last quarter came with FSD. In Europe, we’re still way behind on this tech. And we for sure need to move faster!!\"\n\nMore info: evwire.com/p/nico-rosberg-te…",
+      "link": "https://x.com/SawyerMerritt/status/2116181576081928438#m",
+      "date": "Fri, 30 Oct 2026 14:52:59 GMT",
+      "tweet_id": "2116181576081928438",
+      "ctx_done": 1,
+      "text_zh": "想要更多证据证明 @Tesla FSD 正在成为主流吗？这是 2016 年 F1 世界冠军尼科·罗斯伯格最近首次尝试 FSD（监督）后的情况：\n\n“这改变了我的生活！我目前最稀缺的资源就是时间。现在，我能够在通勤上腾出一些时间。到了晚上，我实际上感觉自己赢回了半个工作日！！我什至在开车时与妻子进行了一次小型约会。在我的整个赛车生涯中，我是方向盘后面的控制者。但我现在完全愿意交出控制权！上季度在北美交付的新特斯拉中有 75％在欧洲，我们在这项技术上仍然落后，而且我们肯定需要加快步伐！”\n\n更多信息：evwire.com/p/nico-rosberg-te…"
+    },
+    {
+      "text": "Tesla is urging the Australian government to accelerate its autonomous vehicle regulations and start vehicle trials on public roads in 2027 (from 2029), arguing that doing so could save hundreds of lives, prevent thousands of injuries, and unlock more than $10 billion in economic and safety benefits.\n\nTesla says its vehicles have now driven over 160 million kilometers (~100 million miles) using FSD (Supervised) in Australia and New Zealand since launching in September 2025.\n\nTesla added that drivers using FSD have experienced:\n• 40% fewer collisions\n• 90% fewer harsh braking incidents\n• 86% fewer harsh acceleration incidents\n\nTesla: \"Australian road fatalities sadly hit a 15-year high in 2025, advanced driver-assistance systems and autonomous vehicle technology now provide one of the most consequential opportunities to drive a step change reduction in lives lost and injuries on Australian roads.\"\n\n\n\n\nKian Chong (@kianchong)\n\n🚨 Breaking: Tesla has formally asked Australia's Senate to back driverless car trials on public roads in 2027, and to fast-track the AV law from 2029\n\nIts pitch:\n• 160 million km on FSD (Supervised) across AU/NZ since Sep 2025\n• Bringing the law forward 2 years could unlock over A$10 billion in benefits\n• AVs could save up to 800 lives a year at full adoption\n\nWorth watching how this pans out given the same right-hand drive as us and Waymo entry too\n\naph.gov.au/Parliamentary_Bus…\n\n\n\n\n\n— http://nitter.meowing.monster/kianchong/status/2116029767808106894#m",
+      "link": "https://x.com/SawyerMerritt/status/2116178912799515062#m",
+      "date": "Fri, 30 Oct 2026 14:42:24 GMT",
+      "tweet_id": "2116178912799515062",
+      "quoted": {
+        "user": "kianchong",
+        "text": "🚨 Breaking: Tesla has formally asked Australia's Senate to back driverless car trials on public roads in 2027, and to fast-track the AV law from 2029\n\nIts pitch:\n• 160 million km on FSD (Supervised) across AU/NZ since Sep 2025\n• Bringing the law forward 2 years could unlock over A$10 billion in benefits\n• AVs could save up to 800 lives a year at full adoption\n\nWorth watching how this pans out given the same right-hand drive as us and Waymo entry too\n\nhttps://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Productivity_in_Australia/ProductivityinAustralia/Submissions",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV2l25FbUAAD4eF.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV2l25FbUAAD4eF.jpg?name=orig",
+            "local": "2116178912799515062q_0.jpg"
+          }
+        ],
+        "text_zh": "🚨 突发新闻：特斯拉已正式要求澳大利亚参议院支持 2027 年在公共道路上进行无人驾驶汽车试验，并从 2029 年起快速推进自动驾驶汽车法\n\n它的音调：\n• 自 2025 年 9 月以来，澳大利亚/新西兰 FSD（受监管）里程已达 1.6 亿公里\n• 将法律提前两年可带来超过 100 亿澳元的福利\n• 全面采用自动驾驶汽车每年可以挽救多达 800 条生命\n\n值得一看的是，考虑到我们和 Waymo 的入口都是右舵驾驶，结果如何\n\nhttps://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Productivity_in_Australia/ProductivityinAustralia/Submissions"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉敦促澳大利亚政府加快制定自动驾驶汽车法规，并于 2027 年（从 2029 年起）开始在公共道路上进行车辆试验，并认为这样做可以挽救数百人的生命，防止数千人受伤，并带来超过 100 亿美元的经济和安全效益。\n\n特斯拉表示，自 2025 年 9 月推出以来，其车辆在澳大利亚和新西兰使用 FSD（受监督）的行驶里程已超过 1.6 亿公里（约 1 亿英里）。\n\n特斯拉补充说，使用 FSD 的驾驶员经历过：\n• 碰撞次数减少 40%\n• 紧急制动事故减少 90%\n• 剧烈加速事故减少 86%\n\n特斯拉：“令人遗憾的是，到 2025 年，澳大利亚道路死亡人数将创下 15 年来的新高，先进的驾驶员辅助系统和自动驾驶汽车技术现在提供了最重要的机会之一，可以推动澳大利亚道路上的死亡和伤害发生重大变化。”\n\n\n\n\n建昌 (@kianchong)\n\n🚨 突发新闻：特斯拉已正式要求澳大利亚参议院支持 2027 年在公共道路上进行无人驾驶汽车试验，并从 2029 年起快速推进自动驾驶汽车法\n\n它的音调：\n• 自 2025 年 9 月以来，澳大利亚/新西兰 FSD（受监管）里程已达 1.6 亿公里\n• 将法律提前两年可带来超过 100 亿澳元的福利\n• 全面采用自动驾驶汽车每年可以挽救多达 800 条生命\n\n值得一看的是，考虑到我们和 Waymo 的入口都是右舵驾驶，结果如何\n\naph.gov.au/Parliamentary_Bus…\n\n\n\n\n\n— http://nitter.meowing.monster/kianchong/status/2116029767808106894#m"
+    },
+    {
+      "text": "Waymo has announced that they are partnering with Toyota to add bZ4X EVs to its robotaxi fleet.\n\nWaymo will begin initial operations to test and validate an autonomous Toyota bZ4X fleet in Japan in 2027, with deployment to the United Kingdom and other Waymo-serviced markets planned for the following years. \n\n\"This partnership marks a major milestone in the expansion of Japan’s first fully autonomous ride-hailing service using high-volume, domestically manufactured vehicles. Toyota will build the vehicles at its Takaoka plant in Toyota City, Aichi Prefecture, Japan. The entire process will take place under one roof, from assembling the base vehicle to integrating Waymo’s AV hardware.\"\n\nThis means Waymo will have have four different types of robotaxi vehicles in its fleet:\n• Jaguar I-Pace\n• Ojai\n• Hyundai Ioniq 5\n• Toyota bZ4X nitter.mizuki.st/Waymo/status/211606655…",
+      "link": "https://x.com/SawyerMerritt/status/2116173552214806982#m",
+      "date": "Fri, 30 Oct 2026 14:21:06 GMT",
+      "tweet_id": "2116173552214806982",
+      "ctx_done": 1,
+      "text_zh": "Waymo 宣布他们正在与丰田合作，将 bZ4X 电动汽车添加到其机器人出租车车队中。\n\nWaymo 将于 2027 年开始在日本测试和验证自动驾驶丰田 bZ4X 车队的初步运营，并计划在接下来的几年内部署到英国和其他 Waymo 服务的市场。 \n\n“这一合作伙伴关系标志着日本首个使用大批量国产汽车的全自动叫车服务扩展的一个重要里程碑。丰田将在日本爱知县丰田市的高冈工厂生产这些车辆。从组装基础车辆到集成 Waymo 的 AV 硬件，整个过程都将在同一屋檐下进行。”\n\n这意味着 Waymo 的车队中将拥有四种不同类型的机器人出租车：\n• 捷豹 I-Pace\n• 奥海\n• 现代 Ioniq 5\n• 丰田 bZ4X nitter.mizuki.st/Waymo/status/211606655…"
+    },
     {
       "text": "I know it’s taken longer than expected, but Grok 4.8 will not be a disappointment. \n\nWe’re not optimizing for benchmarks and I really don’t care how Grok does on those, but it will be incredibly useful.",
       "link": "https://x.com/elonmusk/status/2116036703538606301#m",
@@ -13,7 +171,7 @@
       "text_zh": "我知道它花费的时间比预期的要长，但 Grok 4.8 不会令人失望。 \n\n我们没有针对基准进行优化，我真的不关心 Grok 在这些方面的表现，但它会非常有用。"
     },
     {
-      "text": "Tesla has announced that their robotaxi service now runs until 2 AM (from 1 AM before). Getting close to 24-hour operation!\n\nOther updates:\n• Trip details can now be shared with your friends\n• Rear view camera feed now available during your ride\n• New Calm Mode: dims screen & sets cabin lighting to a \"relaxing state.\"\n• Grok now in Model Y robotaxi\n\nAccessibility updates:\n• There is now haptic feedback to assist users in finding their Cybercab/Model Y robotaxi\n• Improved vehicle locating arrow in the app\n• Music Control via Screen Reader\n\nBeen hard to keep track of all the robotaxi service updates lately lol. nitterk.kareem.one/robotaxi/status/211602…",
+      "text": "Tesla has announced that their robotaxi service now runs until 2 AM (from 1 AM before). Getting close to 24-hour operation!\n\nOther updates:\n• Trip details can now be shared with your friends\n• Rear view camera feed now available during your ride\n• New Calm Mode: dims screen & sets cabin lighting to a \"relaxing state.\"\n• Grok now in Model Y robotaxi\n\nAccessibility updates:\n• There is now haptic feedback to assist users in finding their Cybercab/Model Y robotaxi\n• Improved vehicle locating arrow in the app\n• Music Control via Screen Reader\n\nBeen hard to keep track of all the robotaxi service updates lately lol. nitter.mizuki.st/robotaxi/status/211602…",
       "link": "https://x.com/SawyerMerritt/status/2116031267716084162#m",
       "date": "Fri, 30 Oct 2026 04:55:42 GMT",
       "tweet_id": "2116031267716084162",
@@ -2019,111 +2177,6 @@
       "text_zh": "资料来源：ark-invest.com/articles/valu...\n\n链接\n\n\n\nARK对特斯拉2031年股价的预期\n\nARK 更新的开源特斯拉模型预计 2031 年每股价值约为 4,400 美元。牛市和熊市情况（第 75 个百分位数和第 25 个百分位蒙特卡罗结果）分别约为 5,000 美元和约 3,300 美元……\n方舟投资网",
       "tweet_id": "2112302502507171860",
       "reply_to": "SawyerMerritt",
-      "ctx_done": 1
-    },
-    {
-      "text": "With the U.S. midterm elections coming up, I've been getting a million political emails, texts, and calls. So I built a new political spam blocker Grok @Bot template that clears political/election spam from your email, unsubscribes you from campaign mailing lists and texts, helps block unwanted campaign phone calls, and more.\n\nI also designed it to work beyond the U.S., including in the EU and other regions. Hope it helps! x.ai/bot/cU45-LD3a0tBwILes2a…\n\nLink\n\n\n\nPolitical Spam Blocker by Sawyer\n\nClears political and election spam out of your inbox, gets you off campaign lists, can auto-reply STOP to political texts, and helps you shut off...\nx.ai",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112292722274922522#m",
-      "date": "Mon, 19 Oct 2026 21:20:04 GMT",
-      "text_zh": "随着美国中期选举的临近，我收到了一百万封政治电子邮件、短信和电话。因此，我构建了一个新的政治垃圾邮件拦截器 Grok @Bot 模板，该模板可以清除您电子邮件中的政治/选举垃圾邮件、取消订阅竞选邮件列表和短信、帮助阻止不需要的竞选电话等等。\n\n我还设计它以适应美国以外的地区，包括欧盟和其他地区。希望有帮助！ x.ai/bot/cU45-LD3a0tBwILes2a…\n\n链接\n\n\n\nSawyer 的政治垃圾邮件拦截器\n\n清除收件箱中的政治和选举垃圾邮件，让您退出竞选列表，可以自动回复“停止”政治文本，并帮助您关闭...\nx.ai",
-      "tweet_id": "2112292722274922522",
-      "ctx_done": 1
-    },
-    {
-      "text": "Here are the top 7 voted for questions by retail investors for @Tesla's Q3 earnings call this Wednesday:\n\n1) How does the Cybercab fleet scale past Austin, and what’s the regulatory path outside Texas given NHTSA’s open safety review?\n\n2) When can we anticipate FSD unsupervised in customer cars?\n\n3) When will the CyberCab be available for customer purchase/ownership?\n\n4) What’s the unit economics per paid robotaxi mile, and how does it compare to the thirty-cent target?\n\n5) What’s the cost per Optimus unit, and what does the first paying customer look like?\n\n6) When do you anticipate Optimus will begin generating revenue?\n\n7) Tesla has acknowledged that HW3 vehicles cannot support unsupervised FSD. When will owners know whether they can upgrade their hardware for free, and when will Tesla provide a clear plan?",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112279076211953899#m",
-      "date": "Mon, 19 Oct 2026 20:25:50 GMT",
-      "text_zh": "以下是本周三@Tesla 第三季度财报电话会议上散户投资者投票选出的前 7 个问题：\n\n1) Cybercab 车队如何扩展至奥斯汀之外？考虑到 NHTSA 的公开安全审查，德克萨斯州以外的监管路径是什么？\n\n2) 我们什么时候可以预见客户汽车会出现无人监管的 FSD？\n\n3) Cyber​​Cab 何时可供客户购买/拥有？\n\n4) 机器人出租车每行驶一英里的单位经济效益是多少？与 30 美分的目标相比如何？\n\n5) 每个 Optimus 单位的成本是多少？第一位付费客户是什么样的？\n\n6) 您预计 Optimus 何时开始创收？\n\n7）特斯拉承认HW3车辆无法支持无人监督的FSD。车主什么时候才能知道是否可以免费升级硬件，特斯拉什么时候会提供明确的计划？",
-      "tweet_id": "2112279076211953899",
-      "ctx_done": 1
-    },
-    {
-      "text": "If anyone is having issues verifying shares on our retail platform, please reach out to AnnualShareholder@tesla.com so we can troubleshoot. Providing the error message along with the email attached to your account will expedite investigation. Thanks for your patience and support!",
-      "link": "http://nitter.meowing.monster/travisraxelrod/status/2112258412331544631#m",
-      "date": "Mon, 19 Oct 2026 19:03:44 GMT",
-      "text_zh": "如果有人在我们的零售平台上验证股票时遇到问题，请联系 AnnualShareholder@tesla.com，以便我们进行故障排除。提供错误消息以及附加到您帐户的电子邮件将加快调查速度。感谢您的耐心和支持！",
-      "tweet_id": "2112258412331544631",
-      "reply_to": "TeslaBoomerMama",
-      "ctx_done": 1
-    },
-    {
-      "text": "Cool, you can now talk to Grok Bot using the Action Button on your iPhone.\n\nVideo",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112252980015579431#m",
-      "date": "Mon, 19 Oct 2026 18:42:08 GMT",
-      "text_zh": "太棒了，您现在可以使用 iPhone 上的操作按钮与 Grok Bot 对话。\n\n视频",
-      "tweet_id": "2112252980015579431",
-      "ctx_done": 1
-    },
-    {
-      "text": "Yes, giving shares, which are stakes in the future economy, directly to the people is the way",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2112211740884975910#m",
-      "date": "Mon, 19 Oct 2026 15:58:16 GMT",
-      "text_zh": "是的，把股票，也就是未来经济的股份，直接给老百姓才是出路",
-      "tweet_id": "2112211740884975910",
-      "reply_to": "Geiger_Capital",
-      "ctx_done": 1
-    },
-    {
-      "text": "BREAKING: Elon Musk will give one $SPCX share to every kid in America next year\n\n75% chance Tesla and SpaceX merge before 2028",
-      "link": "http://nitter.meowing.monster/Kalshi/status/2112185917901554072#m",
-      "date": "Mon, 19 Oct 2026 14:15:40 GMT",
-      "text_zh": "突发新闻：埃隆·马斯克 (Elon Musk) 明年将向美国每个孩子发放一份 $SPCX 股票\n\n特斯拉和 SpaceX 有 75% 的机会在 2028 年之前合并",
-      "tweet_id": "2112185917901554072",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla has introduced a shareholder lottery for a chance to attend their annual meeting in person on Dec 3rd at Giga Texas.\n\n\"To maximize fairness, we are conducting a random drawing to determine our shareholders’ eligibility to attend the meeting in person. The deadline for entry is Friday, November 6, 2026, at 11:59 PM CT.\"\n\nEnter: votetesla.com/annual-meeting…",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112183262495805616#m",
-      "date": "Mon, 19 Oct 2026 14:05:06 GMT",
-      "text_zh": "特斯拉推出了股东抽奖活动，以获得亲自参加 12 月 3 日在德克萨斯州 Giga 举行的年度会议的机会。\n\n“为了最大限度地提高公平性，我们正在进行随机抽签，以确定股东亲自出席会议的资格。报名截止日期为 2026 年 11 月 6 日星期五晚上 11:59（中部时间）。”\n\n输入：votetesla.com/annual-meeting...",
-      "tweet_id": "2112183262495805616",
-      "ctx_done": 1
-    },
-    {
-      "text": "Filing: sec.gov/Archives/edgar/data/…",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112173474311483426#m",
-      "date": "Mon, 19 Oct 2026 13:26:13 GMT",
-      "text_zh": "归档：sec.gov/Archives/edgar/data/...",
-      "tweet_id": "2112173474311483426",
-      "reply_to": "SawyerMerritt",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla has officially announced that it will hold its annual shareholder meeting on December 3, 2026. There are three items up for a vote:\n\n• Re-electing Elon Musk, Robyn Denholm and JB Straubel to the board for three-year terms.\n• A non-binding say-on-pay vote on 2025 executive compensation. The compensation table lists about $158.4 billion in 2025 stock awards for Musk.\n• Approving PWC as Tesla's auditor for 2026.\n\nThere is no mention of any merger with SpaceX in this proxy filing. Letter from Tesla Chair of the Board, Robyn Denholm:\n\n\"Dear Fellow Shareholders,\n2026 has been a year of investment and progress for Tesla. We continued solidifying our foundation by strengthening our core vehicle, energy and services businesses as we build the infrastructure for our next phase of growth. \n\nWe also moved closer to a future of autonomous transportation and real-world super intelligence (“SI”). This year, we began producing Cybercab at Gigafactory Texas and expanded our Robotaxi service to more U.S. cities. FSD (Supervised) usage grew exponentially as we continued to gain users and expand into new markets. We surpassed over 10 million vehicles delivered, and the Model Y remains on track to be the best-selling vehicle this year of any kind, globally, as we achieved record deliveries in countries around the world. We launched the Tesla Semi, which will revolutionize the trucking industry, and unveiled the long- awaited Next Gen Roadster. We also made progress in energy generation and storage, with record deployments out of Megafactory Shanghai and production of the new Megapack 3 at our Megafactory in Texas. As SI infrastructure demand increases, energy storage will be critical to expand capacity from the existing grid.\n\nAt the same time, we continued developing the products and investing in the infrastructure required to provide them at scale, including building our Semi factory in Nevada and the first production lines for Optimus, and additional data center capacity to train our SI systems. Our recent investments in battery and  chip manufacturing, including our Terafab initiative, will help secure the supply of critical components enabling us to offer products affordably on a mass market basis so that humanity may benefit. We remain focused on managing costs and maintaining the financial strength to support our ambitious long-term goals. \n\nWe have accomplished a great deal, but we are still at the early stages of what we believe Tesla can become. Our employees’ innovation, hard work and dedication are essential to realizing that potential and creating lasting value for you, our shareholders. Your confidence in Tesla means a great deal to us, and we take the trust of our shareholders seriously. We listen to you, as your voices and votes help shape our governance and our future. And, as a Board, we want to continue hearing from as many of you as possible. \n\nThat includes retail investors, who face technological barriers to traditional voting. As a result, Tesla recently pioneered the creation of user-friendly practical tools to empower the voices of retail shareholders, which provide a no-fee, investor-directed voting process similar to those currently available to institutional investors. And because we believe all retail voices should be heard across the capital markets, we have made sure the framework supporting enrollment into voluntary retail voting programs would not only be available to Tesla, but to all public companies. As we look ahead, we have the building blocks, vision and team necessary to achieve our bold yet worthwhile objectives. I am honored to serve on the Board alongside Elon Musk and JB Straubel, two technological visionaries whose leadership has helped make Tesla what it is today. The three of us are grateful to have been nominated to serve for another term on the Board of this extraordinary company. We understand that a steady and experienced hand during this time of rapid technological change is essential to Tesla’s success. Therefore, your vote is critical to maintaining that leadership, and I ask you to vote FOR our re-election to the Board so we can continue guiding Tesla through our next phase of growth. \n\nWe have transformed numerous industries before, ranging from electric vehicles to battery storage systems. We could not be more excited to do it again, as we bring SI into the physical world. The best is yet to come.\n\nThank you for your continued support of Tesla. Very truly yours,\nRobyn Denholm\nChair of the Board\"",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112172228859060359#m",
-      "date": "Mon, 19 Oct 2026 13:21:16 GMT",
-      "text_zh": "特斯拉正式宣布将于2026年12月3日召开年度股东大会，表决事项包括三项：\n\n• 再次选举 Elon Musk、Robyn Denholm 和 JB Straubel 为董事会成员，任期三年。\n• 对 2025 年高管薪酬进行不具约束力的薪酬发言权投票。薪酬表列出了马斯克2025年约1584亿美元的股票奖励。\n• 批准普华永道担任特斯拉 2026 年审计师。\n\n这份代理文件中没有提及与 SpaceX 的任何合并。特斯拉董事会主席 Robyn Denholm 致信：\n\n“尊敬的各位股东，\n2026年对于特斯拉来说是投资和进步的一年。我们通过加强核心汽车、能源和服务业务，继续巩固我们的基础，为下一阶段的增长奠定基础。 \n\n我们还距离自动交通和现实世界超级智能（“SI”）的未来更近了。今年，我们开始在德克萨斯州 Gigafactory 生产 Cybercab，并将我们的 Robotaxi 服务扩展到更多美国城市。随着我们不断获得用户并拓展新市场，FSD（受监督）的使用量呈指数级增长。我们的交付量已超过 1000 万辆，而且 Model Y 仍有望成为今年全球最畅销的车型，因为我们在世界各国的交付量都创下了纪录。我们推出了 Tesla Semi，它将彻底改变卡车运输行业，并推出了期待已久的下一代 Roadster。我们在能源生产和存储方面也取得了进展，上海 Megafactory 的部署创纪录，并在德克萨斯州的 Megafactory 生产了新的 Megapack 3。随着SI基础设施需求的增加，储能对于扩大现有电网的容量至关重要。\n\n与此同时，我们继续开发产品并投资大规模提供这些产品所需的基础设施，包括在内华达州建设我们的 Semi 工厂和 Optimus 的第一条生产线，以及用于培训我们的 SI 系统的额外数据中心容量。我们最近在电池和芯片制造方面的投资，包括我们的 Terafab 计划，将有助于确保关键组件的供应，使我们能够在大众市场上提供价格实惠的产品，从而使人类受益。我们仍然专注于管理成本和保持财务实力，以支持我们雄心勃勃的长期目标。 \n\n我们已经取得了很大的成就，但我们仍处于我们相信特斯拉能够成为的早期阶段。我们员工的创新、勤奋和奉献对于实现这一潜力并为您（我们的股东）创造持久价值至关重要。您对特斯拉的信任对我们来说意义重大，我们非常重视股东的信任。我们倾听您的声音，因为您的声音和投票有助于塑造我们的治理和未来。而且，作为董事会，我们希望继续听取尽可能多的人的意见。\n其中包括散户投资者，他们在传统投票方面面临技术障碍。因此，特斯拉最近率先创建了用户友好的实用工具，以赋予散户股东发声的权利，这些工具提供了类似于目前机构投资者可以使用的免费、投资者导向的投票流程。因为我们相信资本市场上应该听到所有散户的声音，所以我们确保支持自愿散户投票计划的框架不仅适用于特斯拉，也适用于所有上市公司。展望未来，我们拥有实现我们大胆而有价值的目标所需的基石、愿景和团队。我很荣幸能与埃隆·马斯克 (Elon Musk) 和 JB Straubel 一起在董事会任职，这两位技术梦想家的领导帮助特斯拉取得了今天的成就。我们三人很高兴被提名在这家非凡公司的董事会任职连任。我们知道，在这个技术日新月异的时代，稳定且经验丰富的人才对于特斯拉的成功至关重要。因此，您的投票对于维持这种领导地位至关重要，我请您投票支持我们连任董事会成员，以便我们能够继续引导特斯拉进入下一阶段的增长。 \n\n我们之前已经改造了许多行业，从电动汽车到电池存储系统。当我们将 SI 带入物理世界时，我们非常高兴能再次做到这一点。最好的尚未到来。\n\n感谢您一直以来对特斯拉的支持。非常真实的你，\n罗宾·丹霍姆\n董事会主席”",
-      "tweet_id": "2112172228859060359",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk to donate one @SpaceX share to ~72 million kids in America in 2027, currently valued at $10.5 billion, presumably through Trump Accounts.\nEvery kid in America will then have a direct stake in a company whose mission is the most ambitious in human history: to make life multi-plantary 🚀",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112167917928194383#m",
-      "date": "Mon, 19 Oct 2026 13:04:08 GMT",
-      "tweet_id": "2112167917928194383",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "Next year, I will give one of my SpaceX shares to every kid in America.\n\nThis will be the first of many.",
-        "text_zh": "明年，我将把我的 SpaceX 股票之一送给美国的每个孩子。\n\n这将是众多中的第一个。"
-      },
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 将于 2027 年向约 7200 万美国儿童捐赠一股 @SpaceX 股份，目前价值 105 亿美元，大概是通过特朗普账户捐赠的。\n美国的每个孩子都将直接参与这家公司的股份，该公司的使命是人类历史上最雄心勃勃的使命：让生命变得多植物🚀"
-    },
-    {
-      "text": "This is what I will be doing",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2111980598084698114#m",
-      "date": "Mon, 19 Oct 2026 00:39:47 GMT",
-      "text_zh": "这就是我要做的",
-      "tweet_id": "2111980598084698114",
-      "reply_to": "elonmusk",
-      "ctx_done": 1
-    },
-    {
-      "text": "Estimated delivery dates for new Model Y L Launch Series orders in the U.S. have changed to Jan-March 2027 for all configurations (from Jan-Feb).\n\nSome customers are also now seeing their orders show Feb-April 2027 estimated delivery dates.",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2111885366810575168#m",
-      "date": "Sun, 18 Oct 2026 18:21:23 GMT",
-      "text_zh": "美国所有配置的新 Model Y L 发布系列订单的预计交付日期已更改为 2027 年 1 月至 2027 年 3 月（从 1 月至 2 月）。\n\n一些客户现在还看到他们的订单显示 2027 年 2 月至 4 月的预计交货日期。",
-      "tweet_id": "2111885366810575168",
       "ctx_done": 1
     }
   ]
