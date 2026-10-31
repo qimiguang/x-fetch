@@ -1,8 +1,131 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-10-30T22:05:56Z",
+  "updated_at": "2026-10-31T04:55:27Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Cool\nVideo",
+      "link": "https://x.com/elonmusk/status/2116306579779731464#m",
+      "date": "Fri, 30 Oct 2026 23:09:42 GMT",
+      "tweet_id": "2116306579779731464",
+      "quoted": {
+        "user": "everestchris6",
+        "text": "grok bot can now see what's on your phone and answer anything about it\n\njust hold the action button and ask what you need:\n\n> ask anything about the video you're watching\n> tell it to build what you saw in a reel for your business\n> ask it to break down the article you're reading\n\nit can watch videos, read posts, check the web, basically everything.\n\ni built it as a free iphone shortcut and made it open source, you can grab it below",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116183407868973056/img/wSgccKH8bSwFINFR.jpg",
+            "local": "2116306579779731464q_0.jpg"
+          }
+        ],
+        "text_zh": "grok 机器人现在可以查看您手机上的内容并回答相关问题\n\n只需按住操作按钮并询问您需要什么：\n\n> 询问有关您正在观看的视频的任何问题\n> 告诉它为您的企业构建您在卷轴中看到的内容\n> 要求它分解您正在阅读的文章\n\n它可以观看视频、阅读帖子、查看网页，基本上一切都可以。\n\n我将它构建为免费的 iPhone 快捷方式并使其开源，您可以在下面获取它"
+      },
+      "ctx_done": 1,
+      "text_zh": "酷\n视频"
+    },
+    {
+      "text": "Think of Grok @Bot as a work colleague",
+      "link": "https://x.com/elonmusk/status/2116305829381263528#m",
+      "date": "Fri, 30 Oct 2026 23:06:43 GMT",
+      "tweet_id": "2116305829381263528",
+      "quoted": {
+        "user": "0xgaut",
+        "text": "Something I've noticed that makes working with grok bot more delightful: it actually feels like you're talking to a coworker. Shorter sentences, less BS and fluff.",
+        "text_zh": "我注意到，使用 grok 机器人变得更加令人愉快：实际上感觉就像您正在与同事交谈。句子更短，更少废话和废话。"
+      },
+      "ctx_done": 1,
+      "text_zh": "将 Grok @Bot 视为同事"
+    },
+    {
+      "text": "Eli Lilly has some banger drugs coming out!",
+      "link": "https://x.com/elonmusk/status/2116296438942765394#m",
+      "date": "Fri, 30 Oct 2026 22:29:24 GMT",
+      "tweet_id": "2116296438942765394",
+      "quoted": {
+        "user": "DaveARicks",
+        "text": "I’ll take that bet.",
+        "text_zh": "我会接受这个赌注。"
+      },
+      "ctx_done": 1,
+      "text_zh": "礼来公司（Eli Lilly）推出了一些危险药物！"
+    },
+    {
+      "text": "Yes",
+      "link": "https://x.com/elonmusk/status/2116296050168508726#m",
+      "date": "Fri, 30 Oct 2026 22:27:51 GMT",
+      "tweet_id": "2116296050168508726",
+      "quoted": {
+        "user": "fnthawar",
+        "text": "People ought to think more about who wrote the software that's running in their head (sigh). It probably wasn't them\n\n-- Elon Musk",
+        "text_zh": "人们应该更多地思考谁编写了在他们脑海中运行的软件（叹气）。可能不是他们\n\n——埃隆·马斯克"
+      },
+      "ctx_done": 1,
+      "text_zh": "是的"
+    },
+    {
+      "text": "Voted in Texas for Paxton!",
+      "link": "https://x.com/gailalfaratx/status/2116294330638074103#m",
+      "date": "Fri, 30 Oct 2026 22:21:01 GMT",
+      "tweet_id": "2116294330638074103",
+      "ctx_done": 1,
+      "text_zh": "在德克萨斯州投票给帕克斯顿！"
+    },
+    {
+      "text": "Cool ❤️\n income (MFI) of $57,000 or less, and to those who live in zip codes with too few residents for an MFI to be reported in the census. These families should receive a notice by Monday. \nIn a few weeks, an additional gift will be finalized for eligible 11 to 17-year-old children in military families serving overseas, children in foster care, and more children whose MFI is $90,000 or less living in counties near our home in the great state of Texas.\nThank you to the incredible team @SpaceX, @Treasury, @IRS, @DellFdn, @GreaterHorizons, @InvestAmerica24, and the legal firms of Morgan Lewis and Gibson Dunn for working over the past few months to make this happen.\nWe are deeply grateful for the groundbreaking work that Brad Gerstner @altcap and @MichaelDell have done for the long-term financial security for millions of kids.\nGod Bless America!",
+      "link": "https://x.com/elonmusk/status/2116291813732495578#m",
+      "date": "Fri, 30 Oct 2026 22:11:01 GMT",
+      "tweet_id": "2116291813732495578",
+      "quoted": {
+        "user": "Gwynne_Shotwell",
+        "text": "Robert and I are thrilled that our gift of over 2 million shares of SpaceX stock will be distributed to children’s Trump accounts in December!\n \nOur initial gift (shares transferring to escrow as we speak) will go to 11 to 17-year-olds who live in zip codes with median family",
+        "text_zh": "罗伯特和我很高兴我们赠送的超过 200 万股 SpaceX 股票将于 12 月分发到孩子们的特朗普账户！\n \n我们最初的礼物（在我们发言时，股份已转移到托管）将送给居住在邮政编码中位家庭的 11 至 17 岁青少年"
+      },
+      "ctx_done": 1,
+      "text_zh": "酷❤️\n 收入 (MFI) 为 57,000 美元或以下，以及居住在人口普查中报告 MFI 的居民太少的邮政编码地区的人。 这些家庭应该会在周一之前收到通知。 \n几周后，我们将为海外服役的军人家庭中符合条件的 11 至 17 岁儿童、寄养儿童以及居住在我们家乡附近县（德克萨斯州）的 MFI 不超过 90,000 美元的更多儿童确定一份额外的礼物。\n感谢 @SpaceX、@Treasury、@IRS、@DellFdn、@GreaterHorizo​​ns、@InvestAmerica24 等令人难以置信的团队，以及 Morgan Lewis 和 Gibson Dunn 律师事务所在过去几个月为实现这一目标所做的努力。\n我们非常感谢 Brad Gerstner @altcap 和 @MichaelDell 为数百万儿童的长期财务安全所做的开创性工作。\n上帝保佑美国！"
+    },
+    {
+      "text": "True\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Cathie Wood says SpaceX is severely undervalued.\n\nSpaceX brings together AI, robotics and energy storage. But traditional space, cloud and AI analysts work separately, making it harder to understand how these technologies strengthen one another.\n\nWood says firms are now assigning teams of analysts to SpaceX. As they collaborate and compare notes, she expects that undervaluation to clear up.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/cb_doge/status/2116275605272695004#m",
+      "link": "https://x.com/elonmusk/status/2116291315432587740#m",
+      "date": "Fri, 30 Oct 2026 22:09:03 GMT",
+      "tweet_id": "2116291315432587740",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "BREAKING: Cathie Wood says SpaceX is severely undervalued.\n\nSpaceX brings together AI, robotics and energy storage. But traditional space, cloud and AI analysts work separately, making it harder to understand how these technologies strengthen one another.\n\nWood says firms are now assigning teams of analysts to SpaceX. As they collaborate and compare notes, she expects that undervaluation to clear up. https://x.com/ARKInvest/status/2116274183571227071/video/1",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116273309876666369/img/ovApUL6eFvk_A9F_.jpg",
+            "local": "2116291315432587740q_0.jpg"
+          }
+        ],
+        "text_zh": "突发新闻：Cathie Wood 表示 SpaceX 的价值被严重低估。\n\nSpaceX 将人工智能、机器人技术和能源存储结合在一起。但传统的太空、云和人工智能分析师是分开工作的，这使得人们更难理解这些技术如何相互加强。\n\n伍德表示，公司现在正在向 SpaceX 派遣分析师团队。当他们合作并交换意见时，她预计这种低估现象将会消失。 https://x.com/ARKInvest/status/2116274183571227071/video/1"
+      },
+      "ctx_done": 1,
+      "text_zh": "真实\n\n\nDogeDesigner (@cb_doge)\n\n突发新闻：Cathie Wood 表示 SpaceX 的价值被严重低估。\n\nSpaceX 将人工智能、机器人技术和能源存储结合在一起。但传统的太空、云和人工智能分析师是分开工作的，这使得人们更难理解这些技术如何相互加强。\n\n伍德表示，公司现在正在向 SpaceX 派遣分析师团队。当他们合作并交换意见时，她预计这种低估现象将会消失。\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/cb_doge/status/2116275605272695004#m"
+    },
+    {
+      "text": "You can now find out if any reach limitations have been applied to your account\n\n\nX Open Source (@XOpenSource)\n\nUnder the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: nitterk.kareem.one/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m",
+      "link": "https://x.com/elonmusk/status/2116289989914787912#m",
+      "date": "Fri, 30 Oct 2026 22:03:47 GMT",
+      "tweet_id": "2116289989914787912",
+      "quoted": {
+        "user": "XOpenSource",
+        "text": "Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
+            "local": "2116289989914787912q_0.jpg"
+          }
+        ],
+        "text_zh": "Under the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：https://x.com/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。"
+      },
+      "ctx_done": 1,
+      "text_zh": "您现在可以了解您的帐户是否受到了任何覆盖范围限制\n\n\nX 开源 (@XOpenSource)\n\nUnder the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：nitterk.kareem.one/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m"
+    },
     {
       "text": "Even F1 champions love Tesla self-driving",
       "link": "https://x.com/elonmusk/status/2116287873918140737#m",
@@ -17,7 +140,107 @@
       "text_zh": "就连 F1 冠军也喜欢特斯拉自动驾驶"
     },
     {
-      "text": "Talarico would abolish democracy in America and institute permanent one-party rule!\n\n\nAmerica (@america)\n\nJames Talarico in his own words:\n\nOn the Filibuster:\n“We should abolish the filibuster in the U.S. Senate…”\n\nOn the Supreme Court:\n“The Supreme Court needs to be overhauled…I’m open to a discussion about expanding the number of justices.”\n\nOn illegal aliens:\n“I think we should have a pathway for those folks to join us as full citizens.”\n\nTexas, get out Vote against this insanity.\n\nThis would be the end of America.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/america/status/2116241580210196794#m",
+      "text": "PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship\n\n\nShaun Maguire (@shaunmmaguire)\n\n\nArticle\n\n\n\nPeople don&apos;t understand SpaceX\n\nCaveats: this is not investment advice. Sequoia Capital has a large position in SpaceX so I&apos;m extremely biased. Also, Past performance is not indicative of future results.\nAfter SpaceX&apos;s earnings call\n\n\n\n\n— https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m",
+      "link": "https://x.com/forwarddeploy/status/2116283109478137946#m",
+      "date": "Fri, 30 Oct 2026 21:36:26 GMT",
+      "tweet_id": "2116283109478137946",
+      "quoted": {
+        "user": "shaunmmaguire",
+        "text": "https://x.com/i/article/2115892265050882048",
+        "text_zh": "https://x.com/i/article/2115892265050882048"
+      },
+      "ctx_done": 1,
+      "text_zh": "PS - 如果您想加入 SpaceXSI 火箭飞船，我们正在招聘优秀人才\n\n\n肖恩·马奎尔 (@shaunmmaguire)\n\n\n文章\n\n\n\n人们不了解 SpaceX\n\n注意事项：这不是投资建议。红杉资本在 SpaceX 拥有大量股份，所以我非常有偏见。此外，过去的表现并不代表未来的结果。\nSpaceX 财报电话会议结束后\n\n\n\n\n— https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m"
+    },
+    {
+      "text": "ngl i still think about this\nVideo",
+      "link": "https://x.com/distributedkv/status/2116275089931170257#m",
+      "date": "Fri, 30 Oct 2026 21:04:34 GMT",
+      "tweet_id": "2116275089931170257",
+      "quoted": {
+        "user": "ns123abc",
+        "text": "BREAKING: Google just proved AI data centers in space actually work\n\nProject Suncatcher's first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. \n\nSpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. \n\nKardashev Type II civilization INCOMING",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116245186216886272/img/xb4Cz21tMEow4NnI.jpg",
+            "local": "2116275089931170257q_0.jpg"
+          }
+        ],
+        "text_zh": "突发新闻：谷歌刚刚证明太空中的人工智能数据中心确实有效\n\nSuncatcher 项目的第一颗卫星由@planet 建造，并在搭载 4 个 TPU 的 SpaceX 火箭上发射，验证了物理原理：谷歌从地球发出提示，轨道上的 TPU 运行 Gemma 推理，然后将完整的答案传回。 \n\nSpaceX 将于 2027 年底在 Starship 上发射配备 NVIDIA GPU 的 StarMind 卫星。 \n\n卡尔达肖夫 II 型文明即将到来"
+      },
+      "ctx_done": 1,
+      "text_zh": "ngl 我还在想这个\n视频"
+    },
+    {
+      "text": "If you have a Tesla and haven't tried FSD in the last year, you need to try it again. Free month trial with this link. (i don't care about the referal credit, I'm posting this as a PSA because FSD is so awesome. )\n tesla.com/get-app/referral?c…",
+      "link": "https://x.com/jhong/status/2116269882530750938#m",
+      "date": "Fri, 30 Oct 2026 20:43:53 GMT",
+      "tweet_id": "2116269882530750938",
+      "ctx_done": 1,
+      "text_zh": "如果您拥有特斯拉并且去年没有尝试过 FSD，那么您需要再试一次。使用此链接免费试用一个月。 （我不在乎推荐信用，我将其作为公益广告发布，因为 FSD 太棒了。）\n tesla.com/get-app/referral?c…"
+    },
+    {
+      "text": "My favorite things about this:\n\n- You can see which of your posts have a visibility-limiting label, and decide if you think it's fair\n\n- You can even see if a legal (eg government) demand is limiting one of your posts, and in which country!!\n\nContinuing to deliver unprecedented transparency to the people 💪\n\n\nX Open Source (@XOpenSource)\n\nUnder the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: nitterk.kareem.one/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m",
+      "link": "https://x.com/kcoleman/status/2116263135484989645#m",
+      "date": "Fri, 30 Oct 2026 20:17:04 GMT",
+      "tweet_id": "2116263135484989645",
+      "quoted": {
+        "user": "XOpenSource",
+        "text": "Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
+            "local": "2116263135484989645q_0.jpg"
+          }
+        ],
+        "text_zh": "Under the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：https://x.com/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我最喜欢的事情是：\n\n- 您可以查看您的哪些帖子具有可见性限制标签，并决定您认为这是否公平\n\n- 您甚至可以查看法律（例如政府）要求是否限制您的帖子之一，以及在哪个国家/地区！\n\n继续为人们提供前所未有的透明度 💪\n\n\nX 开源 (@XOpenSource)\n\nUnder the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：nitterk.kareem.one/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m"
+    },
+    {
+      "text": "Western civilization is going backwards. Canada is just one example. The bigger question is why.\n\nThe American midterms are less than a week away. Go vote and help save your country. \n\nBroken Country is a documentary no one wants you to see. Watch it. Think for yourself.\n\nWatch here : brokencountry.com\n\nVideo",
+      "link": "https://x.com/UpdatingOnRome/status/2116257900075360385#m",
+      "date": "Fri, 30 Oct 2026 19:56:16 GMT",
+      "tweet_id": "2116257900075360385",
+      "ctx_done": 1,
+      "text_zh": "西方文明正在倒退。加拿大只是一个例子。更大的问题是为什么。\n\n距离美国中期选举还有不到一周时间。去投票并帮助拯救你的国家。 \n\n《破碎的国家》是一部没人想让你看的纪录片。留意它。你自己想想吧。\n\n在这里观看：brokencountry.com\n\n视频"
+    },
+    {
+      "text": "If you’re a Texan who doesn’t vote for Paxton because your “conscience won’t allow it,” think about the fact that Talarico will ok mutilating children & the killing of babies in the womb. So put your brain on, and vote for the guy who doesn’t attack your kids.",
+      "link": "https://x.com/heckyessica/status/2116251629372747982#m",
+      "date": "Fri, 30 Oct 2026 19:31:21 GMT",
+      "tweet_id": "2116251629372747982",
+      "quoted": {
+        "user": "PpollingNumbers",
+        "text": "New - Senate and Governor poll - Texas\n\n🔴 Ken Paxton 49%\n🔵 James Talarico 48%\n\nGovernor \n🔴 Greg Abbott 52%\n🔵 Gina Hinojosa 46%\n\nQuantus Insights - LV - 10/28",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HV4JHxOXgAA1QAo.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HV4JHxOXgAA1QAo.jpg?name=orig",
+            "local": "2116251629372747982q_0.jpg"
+          }
+        ],
+        "text_zh": "新 - 参议院和州长民意调查 - 德克萨斯州\n\n🔴肯·帕克斯顿 49%\n🔵 詹姆斯·塔拉里科 48%\n\n州长 \n🔴格雷格·阿伯特 52%\n🔵 吉娜·伊诺霍萨 46%\n\nQuantus 见解 - LV - 10/28"
+      },
+      "ctx_done": 1,
+      "text_zh": "如果你是一个德克萨斯人，因为你的“良心不允许”而没有投票给帕克斯顿，那么想想塔拉里科会同意残害儿童和杀死子宫内的婴儿。所以，请动动脑子，投票给那些不会攻击你孩子的人。"
+    },
+    {
+      "text": "BREAKING: Google just proved AI data centers in space actually work\n\nProject Suncatcher's first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. \n\nSpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. \n\nKardashev Type II civilization INCOMING\n\nVideo",
+      "link": "https://x.com/ns123abc/status/2116247027335966934#m",
+      "date": "Fri, 30 Oct 2026 19:13:03 GMT",
+      "tweet_id": "2116247027335966934",
+      "ctx_done": 1,
+      "text_zh": "突发新闻：谷歌刚刚证明太空中的人工智能数据中心确实有效\n\nSuncatcher 项目的第一颗卫星由@planet 建造，并在搭载 4 个 TPU 的 SpaceX 火箭上发射，验证了物理原理：谷歌从地球发出提示，轨道上的 TPU 运行 Gemma 推理，然后将完整的答案传回。 \n\nSpaceX 将于 2027 年底在 Starship 上发射配备 NVIDIA GPU 的 StarMind 卫星。 \n\n卡尔达肖夫 II 型文明即将到来\n\n视频"
+    },
+    {
+      "text": "Talarico would abolish democracy in America and institute permanent one-party rule!\n\n\nAmerica (@america)\n\nJames Talarico in his own words:\n\nOn the Filibuster:\n“We should abolish the filibuster in the U.S. Senate…”\n\nOn the Supreme Court:\n“The Supreme Court needs to be overhauled…I’m open to a discussion about expanding the number of justices.”\n\nOn illegal aliens:\n“I think we should have a pathway for those folks to join us as full citizens.”\n\nTexas, get out Vote against this insanity.\n\nThis would be the end of America.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/america/status/2116241580210196794#m",
       "link": "https://x.com/elonmusk/status/2116242885376974965#m",
       "date": "Fri, 30 Oct 2026 18:56:36 GMT",
       "tweet_id": "2116242885376974965",
@@ -72,6 +295,14 @@
       "text_zh": "这将是美国民主的终结\n视频"
     },
     {
+      "text": "Our TPUs just phoned home... from space.\n\nICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hardware could operate in space. The initial goal was to see if our chips could turn on, process a prompt, and transmit a response back to Earth.\n\nThis week, we got our answer. ✨\n\nThis milestone brings us one step closer to understanding if space-based compute is possible. We’re sending two more TPU-equipped satellites to orbit in 2027 for our next milestone.\n\nWatch this space 👀 and learn more about the first milestone of our long-term moonshot with Project Suncatcher ↓\n\nVideo",
+      "link": "https://x.com/NewsFromGoogle/status/2116219345215074538#m",
+      "date": "Fri, 30 Oct 2026 17:23:04 GMT",
+      "tweet_id": "2116219345215074538",
+      "ctx_done": 1,
+      "text_zh": "我们的 TPU 刚刚从太空给家里打电话。\n\nICYMI，10 月 1 日，我们将四个 TPU 送入轨道，以测试我们的 AI 硬件是否可以在太空中运行。最初的目标是看看我们的芯片是否可以打开、处理提示并将响应传输回地球。\n\n本周，我们得到了答案。 ✨\n\n这一里程碑使我们距离了解天基计算是否可行又近了一步。我们将于 2027 年将另外两颗配备 TPU 的卫星送入轨道，以实现下一个里程碑。\n\n观看此空间👀，了解更多关于我们与 Suncatcher 项目进行长期登月计划的第一个里程碑的信息 ↓\n\n视频"
+    },
+    {
       "text": "The Democrat Party is racist against Asians and Whites",
       "link": "https://x.com/elonmusk/status/2116218370362122746#m",
       "date": "Fri, 30 Oct 2026 17:19:11 GMT",
@@ -112,6 +343,14 @@
       },
       "ctx_done": 1,
       "text_zh": "酷\n视频"
+    },
+    {
+      "text": "A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com/news/paxton-s…\n\nLink\n\n\n\nPaxton slips past Talarico in latest poll as Senate race enters final days\n\nA new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days.\nfox7austin.com",
+      "link": "https://x.com/fox7austin/status/2116213584132792721#m",
+      "date": "Fri, 30 Oct 2026 17:00:10 GMT",
+      "tweet_id": "2116213584132792721",
+      "ctx_done": 1,
+      "text_zh": "一项新的民意调查发现，随着美国参议院竞选进入最后几天，共和党人肯·帕克斯顿(Ken Paxton)超过了民主党人詹姆斯·塔拉里科(James Talarico)。 Fox7austin.com/news/paxton-s…\n\n链接\n\n\n\n随着参议院竞选进入最后几天，帕克斯顿在最新民意调查中超越塔拉里科\n\n一项新的民意调查发现，随着美国参议院竞选进入最后几天，共和党人肯·帕克斯顿(Ken Paxton)超过了民主党人詹姆斯·塔拉里科(James Talarico)。\nFox7austin.com"
     },
     {
       "text": "I miss Larry Page\n\n\nDoge Tipping (@Dogetothemoon)\n\nSteve Jurvetson once told Elon Musk a story he had never heard before.\n\nAt a Google event, Larry Page turned to Jurvetson out of the blue and wondered aloud how much money he had. After mentioning a number, Page said that if he were hit by a bus that day, he should leave all of it to Elon Musk.\n\nElon asked if he had really said that. Jurvetson confirmed it and joked that he immediately wanted to get it in writing.\n\nElon said he loved that and called Page a good friend. He noted they had known each other since around 1997, before Page received venture funding.\n\nJurvetson added that Page believed a corporation pursuing goals aligned with his own interests—such as moving away from oil and colonizing other planets—would accomplish far more than giving the money to a nonprofit. Page wished he could do more of that himself.\n\nVideo\n  \n\n\n\n\n\n— http://nitter.meowing.monster/Dogetothemoon/status/2115914334341939242#m",
@@ -237,6 +476,27 @@
       "tweet_id": "2115951552942772291",
       "ctx_done": 1,
       "text_zh": "我还是觉得这个应该挂在卢浮宫"
+    },
+    {
+      "text": "I think you can use Allo. Then your Grok Bot can make calls?\nVideo",
+      "link": "https://x.com/RyDawg42/status/2115947252904837502#m",
+      "date": "Thu, 29 Oct 2026 23:21:52 GMT",
+      "tweet_id": "2115947252904837502",
+      "quoted": {
+        "user": "allophonesystem",
+        "text": "We decided to give Grok Bot a phone.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115793189684588544/img/vhPfn3rTRwHgJUU5.jpg",
+            "local": "2115947252904837502q_0.jpg"
+          }
+        ],
+        "text_zh": "我们决定给 Grok Bot 一部电话。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我认为你可以使用 Allo。那么你的 Grok Bot 可以打电话吗？\n视频"
     },
     {
       "text": "Totally blind, first ride in Robotaxi, the app was totally accessible, the ride accessible, the drop-off accessible, it felt unusually normal! @TeslaSI\n\nVideo",
@@ -2299,262 +2559,6 @@
       "date": "Sat, 24 Oct 2026 15:54:18 GMT",
       "text_zh": "詹姆斯·塔拉里科现在希望德克萨斯人相信他支持“把门锁上”。\n\n塔拉里科在德克萨斯州众议院的记录：\n\n❌ 18 亿美元用于边境安全（2021 年）\n❌ 德克萨斯州边境保护局 (2023)\n❌ 边境巡逻队的逮捕权（2023 年）\n❌ 两次为边境墙提供资金（2023 年）\n❌ 更严厉的人口走私处罚（2023 年）\n❌ 两次将非法入境定为国家犯罪（2023 年）\n❌ 要求治安官与 ICE 合作（2025 年）\n\n在拜登的领导下，数百万人越过边境。 \n九次机会锁门。 \n九票反对。\n\n不要派塔拉里科去华盛顿开放德克萨斯州的边境。\n\n提前投票将于 10 月 30 日结束。\n选举日是 11 月 3 日。\n\n视频",
       "tweet_id": "2114022681263956038",
-      "ctx_done": 1
-    },
-    {
-      "text": "Another 27 Starlink satellites",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2114003587156086798#m",
-      "date": "Sat, 24 Oct 2026 14:38:26 GMT",
-      "tweet_id": "2114003587156086798",
-      "quoted": {
-        "user": "SpaceX",
-        "text": "Falcon 9 launches 27 @Starlink satellites from California",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVWtHYEWcAAxI-W.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVWtHYEWcAAxI-W.jpg?name=orig",
-            "local": "2114003587156086798q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVWtH6eXsAAJ5Pk.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVWtH6eXsAAJ5Pk.jpg?name=orig",
-            "local": "2114003587156086798q_1.jpg"
-          }
-        ],
-        "text_zh": "猎鹰 9 号从加州发射 27 颗 @Starlink 卫星"
-      },
-      "ctx_done": 1,
-      "text_zh": "另外27颗星链卫星"
-    },
-    {
-      "text": "It is tragic that so many people still think the news is real",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113998192547332212#m",
-      "date": "Sat, 24 Oct 2026 14:16:59 GMT",
-      "tweet_id": "2113998192547332212",
-      "quoted": {
-        "user": "dezmondOliver",
-        "text": "A coworker of mine who once called Elon a Nazi finally said he scheduled to test drive a Model Y yesterday after he learned that I own 2 of them and we talked for an hour about how much I love them and how good FSD is. I asked him how the demo drive went and he told me he cancelled it because he saw on the news how teslas have been hitting people and crashing into trees and houses and that he doesn’t trust that kind of technology. Unreal how fragile people are and how blindly they just believe legacy media.",
-        "text_zh": "我的一位同事曾经称埃隆为纳粹分子，在得知我拥有 2 辆 Model Y 后，他最终决定昨天试驾 Model Y，我们聊了一个小时，谈论我有多爱它们以及 FSD 有多好。我问他演示驾驶进展如何，他告诉我他取消了演示，因为他在新闻中看到特斯拉如何撞人、撞树和房屋，他不相信这种技术。人们是多么脆弱，他们是多么盲目地相信传统媒体，这是不真实的。"
-      },
-      "ctx_done": 1,
-      "text_zh": "悲惨的是，这么多人仍然认为这个消息是真实的"
-    },
-    {
-      "text": "Try Grok @Bot\nStuart Varney: What is this Grok @Bot? You use it. \nPhil Rosen: I am using it.\n@Varneyco: Who puts it out? What does it do?\nRosen: This is @elonmusk’s frontier lab. I will share personally, I was on Claude for the last year or so, and I would use Claude, ChatGPT, and a little bit of Muse in the last few weeks. Since I started to use Grok Bot this month, I have essentially cut all my other AI tools.\nVarney: What's so good about it?\n@philrosenn: It's essentially your own staff of AI agents. You can have a chief of staff agent managing your other AI agents, which, again, I get it, sounds a little ridiculous, and I tell my friends and my parents this and they don't understand, and I have to walk them through it on a Zoom call. I use Grok Bot for a lot of content creation now. I use it for some fact-checking stuff, some editing, research. I use it for helping me with my calendar.\nVideo",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113996858842563006#m",
-      "date": "Sat, 24 Oct 2026 14:11:41 GMT",
-      "tweet_id": "2113996858842563006",
-      "quoted": {
-        "user": "KatieMiller",
-        "text": "Stuart Varney: What is this Grok @Bot? You use it. \n\nPhil Rosen: I am using it.\n\n@Varneyco: Who puts it out? What does it do?\n\nRosen: This is @elonmusk’s frontier lab. I will share personally, I was on Claude for the last year or so, and I would use Claude, ChatGPT, and a little bit of Muse in the last few weeks. Since I started to use Grok Bot this month, I have essentially cut all my other AI tools.\n\nVarney: What's so good about it?\n\n@philrosenn: It's essentially your own staff of AI agents. You can have a chief of staff agent managing your other AI agents, which, again, I get it, sounds a little ridiculous, and I tell my friends and my parents this and they don't understand, and I have to walk them through it on a Zoom call. I use Grok Bot for a lot of content creation now. I use it for some fact-checking stuff, some editing, research. I use it for helping me with my calendar.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113992537027366912/img/RrGyTeJjtzr6BhQD.jpg",
-            "local": "2113996858842563006q_0.jpg"
-          }
-        ],
-        "text_zh": "Stuart Varney：这 Grok @Bot 是什么？你用它。 \n\n菲尔·罗森：我正在使用它。\n\n@Varneyco：谁把它放出来的？它有什么作用？\n\nRosen：这是@elonmusk 的前沿实验室。我个人会分享一下，我在过去一年左右的时间里一直在使用 Claude，在过去的几周里我会使用 Claude、ChatGPT 和一点 Muse。自从这个月我开始使用 Grok Bot 以来，我基本上已经放弃了所有其他人工智能工具。\n\n瓦尼：这有什么好处？\n\n@philrosenn：这本质上是你自己的人工智能代理人员。你可以让一个参谋长代理来管理你的其他人工智能代理，这，我再次明白，听起来有点荒谬，我告诉我的朋友和我的父母，他们不明白，我必须在 Zoom 通话中引导他们完成它。我现在使用 Grok Bot 进行大量内容创建。我用它来进行一些事实核查、编辑和研究。我用它来帮助我处理日历。"
-      },
-      "ctx_done": 1,
-      "text_zh": "尝试 Grok @Bot\nStuart Varney：这 Grok @Bot 是什么？你用它。 \n菲尔·罗森：我正在使用它。\n@Varneyco：谁把它放出来的？它有什么作用？\nRosen：这是@elonmusk 的前沿实验室。我个人会分享一下，我在过去一年左右的时间里一直在使用 Claude，在过去的几周里我会使用 Claude、ChatGPT 和一点 Muse。自从这个月我开始使用 Grok Bot 以来，我基本上已经放弃了所有其他人工智能工具。\n瓦尼：这有什么好处？\n@philrosenn：这本质上是你自己的人工智能代理人员。你可以让一个参谋长代理来管理你的其他人工智能代理，这，我再次明白，听起来有点荒谬，我告诉我的朋友和我的父母，他们不明白，我必须在 Zoom 通话中引导他们完成它。我现在使用 Grok Bot 进行大量内容创建。我用它来进行一些事实核查、编辑和研究。我用它来帮助我处理日历。\n视频"
-    },
-    {
-      "text": "It’s very important to grasp this.\nFascism is a leftist ideology\nState control of everything",
-      "link": "http://nitter.meowing.monster/TheAliceSmith/status/2113994292964241463#m",
-      "date": "Sat, 24 Oct 2026 14:01:30 GMT",
-      "tweet_id": "2113994292964241463",
-      "quoted": {
-        "user": "ErikVoorhees",
-        "text": "Fascism is a leftist ideology\n\nState control of everything",
-        "text_zh": "法西斯主义是左翼意识形态\n\n国家控制一切"
-      },
-      "ctx_done": 1,
-      "text_zh": "掌握这一点非常重要。\n法西斯主义是左翼意识形态\n国家控制一切"
-    },
-    {
-      "text": "True\n\n\nKevin Bass (@kevinnbass)\n\nFrom 1900 to 1910, 76% of immigrants to America remigrated to their home countries.\n\nFrom 1910 to 1920, it was 97%.\n\nThere was major political conflict over the disruption immigrants caused.\n\nBut we had no welfare state. Over time, we kept the best who assimilated.\n\nRemigration is historically normal. What we are doing today is not normal because of the welfare state.\n\nhomepages.ucl.ac.uk/~uctpimr…\n\n\n\n\n\n— http://nitter.meowing.monster/kevinnbass/status/2113862573493752254#m",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113993492418683207#m",
-      "date": "Sat, 24 Oct 2026 13:58:19 GMT",
-      "text_zh": "真实\n\n\n凯文·巴斯（@kevinnbass）\n\n从 1900 年到 1910 年，76% 的美国移民重新移民到自己的祖国。\n\n从1910年到1920年，这个比例是97%。\n\n移民造成的破坏引发了重大政治冲突。\n\n但我们没有福利国家。随着时间的推移，我们保留了最优秀的人才。\n\n从历史上看，移民是很正常的。由于福利国家，我们今天所做的事情是不正常的。\n\nhomepages.ucl.ac.uk/~uctpimr…\n\n\n\n\n\n— http://nitter.meowing.monster/kevinnbass/status/2113862573493752254#m",
-      "tweet_id": "2113993492418683207",
-      "quoted": {
-        "user": "kevinnbass",
-        "text": "From 1900 to 1910, 76% of immigrants to America remigrated to their home countries.\n\nFrom 1910 to 1920, it was 97%.\n\nThere was major political conflict over the disruption immigrants caused.\n\nBut we had no welfare state. Over time, we kept the best who assimilated.\n\nRemigration is historically normal. What we are doing today is not normal because of the welfare state.\n\nhttps://www.homepages.ucl.ac.uk/~uctpimr/research/ellis_accounting.pdf",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVXyeDDXgAARf87.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVXyeDDXgAARf87.jpg?name=orig",
-            "local": "2113993492418683207q_0.jpg"
-          }
-        ],
-        "text_zh": "从 1900 年到 1910 年，76% 的美国移民重新移民到自己的祖国。\n\n从1910年到1920年，这个比例是97%。\n\n移民造成的破坏引发了重大政治冲突。\n\n但我们没有福利国家。随着时间的推移，我们保留了最优秀的人才。\n\n从历史上看，移民是很正常的。由于福利国家，我们今天所做的事情是不正常的。\n\nhttps://www.homepages.ucl.ac.uk/~uctpimr/research/ellis_accounting.pdf"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch. One Sunday in January 2002, he walked into a friend's rented warehouse in Huntington Beach and found Tom Mueller holding an 80-pound rocket engine on his shoulder, trying to bolt it to a frame. It was the largest liquid-fuel engine any amateur had ever built, with 13,000 pounds of thrust, made in Tom's spare time. \n\nElon asked the main question  “Could you build something bigger?”\n\nThe next Sunday Elon came to his house. It was Super Bowl Sunday; they watched maybe one play, because they were too busy sketching the first SpaceX rocket.\n\nTom became SpaceX employee #1, and the man who built engines on weekends went on to build Merlin, Kestrel and Draco. \n\nElon saw a person, not a résumé, someone who built rockets with his own hands simply because he loved them.",
-      "link": "http://nitter.meowing.monster/EvaFox/status/2113990330060059103#m",
-      "date": "Sat, 24 Oct 2026 13:45:45 GMT",
-      "text_zh": "2002 年初，埃隆准备发射 SpaceX，并寻找可以帮助他从头开始建造火箭的人。 2002 年 1 月的一个周日，他走进一位朋友在亨廷顿海滩租用的仓库，发现汤姆·穆勒肩上扛着一台 80 磅重的火箭发动机，试图将其固定在框架上。这是业余爱好者建造过的最大的液体燃料发动机，推力达 13,000 磅，是汤姆在业余时间制造的。 \n\n埃隆问了主要问题“你能建造一些更大的东西吗？”\n\n接下来的周日，埃隆来到了他家。那天是超级碗周日；他们可能看了一场戏，因为他们正忙着绘制第一枚 SpaceX 火箭的草图。\n\n汤姆成为 SpaceX 的一号员工，这位在周末制造引擎的人后来又制造了梅林 (Merlin)、红隼 (Kestrel) 和德拉科 (Draco)。 \n\n埃隆看到的是一个人，而不是一份简历，一个仅仅因为他喜欢而亲手建造火箭的人。",
-      "tweet_id": "2113990330060059103",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk: You can tell which side is the good side and which side is the bad side by which side wishes to restrict freedom of speech\n\nThe side that is restricting freedom of speech you know, that would have been the Hitlers, Stalins, and Mussolinis of the world \n\nThey had very strong censorship, very strong restrictions on speech. That’s one of the signs that they’re the bad guys\n\nIn fact, a restriction on speech and large government is fundamentally fascist, obviously. So ironically, in pushing for censorship, it makes it very clear that the left is the side that is against freedom\n\nFreedom of speech is simply one of many freedoms that we should have as a civil society because ideas should win on the strength of their arguments. They should not win because they are suppressed\n\nVideo",
-      "link": "http://nitter.meowing.monster/DeepLeaksHQ/status/2113979865997418861#m",
-      "date": "Sat, 24 Oct 2026 13:04:10 GMT",
-      "text_zh": "埃隆·马斯克：谁想限制言论自由，你就知道哪一方是好方，哪一方是坏方\n\n你知道，限制言论自由的一方就是世界上的希特勒、斯大林和墨索里尼 \n\n他们有非常严格的审查制度，对言论有非常严格的限制。这是他们是坏人的迹象之一\n\n事实上，对言论和大政府的限制显然从根本上是法西斯主义的。具有讽刺意味的是，在推动审查制度的过程中，它非常清楚地表明左派是反对自由的一方\n\n言论自由只是我们作为一个公民社会应该拥有的众多自由之一，因为思想应该以其论据的力量获胜。他们不应该获胜，因为他们受到压制\n\n视频",
-      "tweet_id": "2113979865997418861",
-      "ctx_done": 1
-    },
-    {
-      "text": "Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities across Canada 🇨🇦\n\nDuring its Q3 2026 earnings call, CEO Tony Staffieri confirmed that Rogers is deepening its collaboration with SpaceX\n\n“We’re proactively deepening our collaboration with Starlink on sat-to-mobile connectivity”\n\nRogers intends to lead Canada in satellite-to-mobile connectivity as the partnership expands coverage and capabilities, particularly in remote and underserved areas where traditional cell towers cannot reach",
-      "link": "http://nitter.meowing.monster/XFreeze/status/2113948464971444434#m",
-      "date": "Sat, 24 Oct 2026 10:59:23 GMT",
-      "text_zh": "罗杰斯正在加倍加强与 Starlink 的合作关系，以扩大加拿大各地的卫星到移动的覆盖范围和功能🇨🇦\n\n在 2026 年第三季度财报电话会议上，首席执行官托尼·斯塔菲里 (Tony Staffieri) 确认罗杰斯正在深化与 SpaceX 的合作\n\n“我们正在积极深化与 Starlink 在卫星到移动连接方面的合作”\n\n随着合作伙伴关系扩大覆盖范围和能力，罗杰斯打算在卫星到移动连接方面引领加拿大，特别是在传统手机信号塔无法到达的偏远和服务欠缺的地区",
-      "tweet_id": "2113948464971444434",
-      "ctx_done": 1
-    },
-    {
-      "text": "David Friedberg reveals France's public spending is 57% of GDP: greater than that of communist countries\n\n\"This chart is a measure of public spending as a percent of GDP; Rand Group Research published it. And you can see the comparison of France's public spending as a percent of GDP, to the peak public spending as a percent of GDP of major communist nations, Soviet Union during, communist Romania, Venezuela under Chavez, and then communist China.\"\n\n\"It certainly been a socialist state, right? That's my point. I think this is such a precious lesson for the West to look at. We all think that there's some political problem with Macron or whoever it was.\" \n\n\"The more the government spends, the worse the conditions get for its people, not the opposite. And then the people riot and revolt and say that the government's not spending enough and the government needs to be doing more.\"\n\n\"Take a guess where the US is today. Federal government spending is $7.4 trillion, state and local government spending is $4.6 trillion. You add those two together, it's $12 trillion out of a $33 trillion GDP. US public spending is roughly 36% of GDP. France today is the same as the US, it's about 120% debt to GDP.\"\n\n\"France today is operating its national government spending deficit is 5.4% of GDP. The US is actually 6.2% of GDP. France is I think probably the first to go because they're only growing their economy at half a percent while the US is growing 2.3%.\" \n\n\"So we're still kind of hanging on because we have some degree of economic growth that's allowing us to kind of hold things together.\"\n\n\"But I would argue that we are facing the same sort of fiscal cliff that leads to this extraordinary social unrest as France, all the economic measures are aligned, we're at the same rate, we're at the same set of problems.\"\n\nVideo",
-      "link": "http://nitter.meowing.monster/dnapway/status/2113944960286470160#m",
-      "date": "Sat, 24 Oct 2026 10:45:28 GMT",
-      "text_zh": "大卫·弗里德伯格透露法国公共支出占GDP的57%：高于共产主义国家\n\n“这张图表衡量了公共支出占GDP的百分比；兰德集团研究公司发布了它。你可以看到法国的公共支出占GDP的百分比，与主要共产主义国家、苏联时期、共产主义罗马尼亚、查韦斯统治下的委内瑞拉以及共产主义中国的公共支出峰值占GDP的百分比的比较。”\n\n“这肯定是一个社会主义国家，对吧？这就是我的观点。我认为这对西方来说是一个宝贵的教训。我们都认为马克龙或无论是谁都存在一些政治问题。” \n\n“政府支出越多，人民的生活条件就越差，而不是相反。然后人民就会骚乱和反抗，并说政府支出不够，政府需要做得更多。”\n\n“猜猜美国今天的情况。联邦政府支出为 7.4 万亿美元，州和地方政府支出为 4.6 万亿美元。将这两者加在一起，在 33 万亿美元的 GD​​P 中占 12 万亿美元。美国公共支出约占 GDP 的 36%。今天的法国与美国相同，债务占 GDP 的比例约为 120%。”\n\n“法国目前的国家政府支出赤字占GDP的5.4%。美国实际上占GDP的6.2%。我认为法国可能是第一个被淘汰的国家，因为他们的经济仅增长了0.5%，而美国则增长了2.3%。” \n\n“所以我们仍然坚持下去，因为我们有一定程度的经济增长，这让我们能够把事情团结起来。”\n\n“但我认为，我们正面临与法国相同的财政悬崖，导致这种非同寻常的社会动荡，所有经济措施都是一致的，我们处于相同的速度，我们面临同样的问题。”\n\n视频",
-      "tweet_id": "2113944960286470160",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @JohnnaCrider1: People who act like Elon owes Ukraine forget this very important detail:",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113820625005404325#m",
-      "date": "Sat, 24 Oct 2026 02:31:24 GMT",
-      "text_zh": "RT @JohnnaCrider1：那些表现得像埃隆欠乌克兰的人忘记了这个非常重要的细节：",
-      "tweet_id": "2113820625005404325",
-      "quoted": {
-        "user": "whultquist",
-        "text": "@adamscochran You stfu...",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVVySmwbIAA4TiJ.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVVySmwbIAA4TiJ.jpg?name=orig",
-            "local": "2113820625005404325q_0.jpg"
-          }
-        ],
-        "text_zh": "@adamscochran 你这家伙……"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Talarico is a far left extremist\nDemocrat Nominee for U.S. Senate in Texas James Talarico: “Poverty is violence… Pollution is violence. Prison is violence.”\n“It's hard to imagine a world without prisons. Just because it's hard to imagine doesn't mean you shouldn’t.”\nVideo",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113820303952650534#m",
-      "date": "Sat, 24 Oct 2026 02:30:08 GMT",
-      "tweet_id": "2113820303952650534",
-      "quoted": {
-        "user": "america",
-        "text": "Democrat Nominee for U.S. Senate in Texas James Talarico: “Poverty is violence… Pollution is violence. Prison is violence.”\n\n“It's hard to imagine a world without prisons. Just because it's hard to imagine doesn't mean you shouldn’t.”",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2029362670533824512/img/eS5ohqRxPpmwLBZL.jpg",
-            "local": "2113820303952650534q_0.jpg"
-          }
-        ],
-        "text_zh": "德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科：“贫困就是暴力……污染就是暴力。监狱就是暴力。”\n\n“很难想象一个没有监狱的世界。很难想象并不意味着你不应该这样做。”"
-      },
-      "ctx_done": 1,
-      "text_zh": "塔拉里科是极左极端分子\n德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科：“贫困就是暴力……污染就是暴力。监狱就是暴力。”\n“很难想象一个没有监狱的世界。很难想象并不意味着你不应该这样做。”\n视频"
-    },
-    {
-      "text": "David Friedberg says this isn’t Suicidal Empathy, these are Armchair Do-Gooders.\n\nHe is referring to the French woman, who yelled “Do you know who I am? I am an activist who advocated for you all” as rioters destroyed her store.\n\nFRIEDBERG: “The look on her face, which was like, ‘What the hell happened,’ is meant to be this moment that sort of captures the zeitgeist of what some people call Suicidal Empathy, but I think it’s much more about being an Armchair Do-Gooder.\n\nAn armchair do-gooder is someone who kind of sits at home in a nice home in the suburbs or wherever they live, and they say, ‘Let all the people in, take care of all the people.’ But as soon as the people show up to their front step and says, ‘Can I come and stay in your house?’ the answer is no, of course not.”\n\n“Someone else has to deal with it. Someone else has to house you. Someone else has to feed you. Someone else has to give you a job.”\n\nWe’ve all seen this play out in the man-on-the-street interviews where people say they support policies that let immigrants in, but when it’s time to house them, suddenly they have no room.\n\nJASON CALACANIS: “We called this Limousine Liberals.”\n\nThere have been many names for this. Rob Henderson calls them luxury beliefs… Open borders is one of his own examples.\n\nEveryone always seems surprised to find out their actions have consequences.\n\nVideo",
-      "link": "http://nitter.meowing.monster/jayplemons/status/2113800249252986881#m",
-      "date": "Sat, 24 Oct 2026 01:10:26 GMT",
-      "text_zh": "大卫·弗里德伯格说，这不是自杀式的同理心，这些都是纸上谈兵的行善者。\n\n他指的是一名法国妇女，当暴徒摧毁她的商店时，她大喊“你知道我是谁吗？我是一名为你们所有人辩护​​的活动人士”。\n\n弗里德伯格：“她脸上的表情就像是在说‘到底发生了什么’，这意味着这一刻捕捉到了一些人所谓的自杀同理心的时代精神，但我认为这更多的是关于成为一个纸上谈兵的行善者。\n\n扶手椅行善者是指那些坐在郊区或他们居住的任何地方的漂亮家里的人，他们说，‘让所有人进来，照顾所有人。’但是，一旦人们出现在他们的门前，说，‘我可以来你家住吗？’答案是否定的，当然不能。”\n\n“必须有人来处理这件事。必须有人为你提供住房。必须有人养活你。必须有人给你一份工作。”\n\n我们都在街头采访中看到过这种情况，人们说他们支持允许移民入境的政策，但当需要为他们提供住房时，他们突然没有房间了。\n\n杰森·卡拉卡尼斯：“我们称之为豪华轿车自由党。”\n\n对此有很多名称。罗布·亨德森（Rob Henderson）称其为奢侈信仰……开放边界就是他自己的例子之一。\n\n每个人总是惊讶地发现自己的行为会产生后果。\n\n视频",
-      "tweet_id": "2113800249252986881",
-      "ctx_done": 1
-    },
-    {
-      "text": "Yes\nVideo",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113796285207552407#m",
-      "date": "Sat, 24 Oct 2026 00:54:41 GMT",
-      "tweet_id": "2113796285207552407",
-      "quoted": {
-        "user": "cb_doge",
-        "text": "ELON MUSK: The best way to counter the legacy media's propaganda is by sending people links to videos and information on the 𝕏 platform.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/1850363578081050624/img/1Ds7N1W_-_RZ5acr.jpg",
-            "local": "2113796285207552407q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克：对抗传统媒体宣传的最佳方法是向人们发送 𝕏 平台上的视频和信息链接。"
-      },
-      "ctx_done": 1,
-      "text_zh": "是的\n视频"
-    },
-    {
-      "text": "Grok @Bot saves sensitive info in a vault\nGrok Bot can now save your logins, cards, and contact information.\nAdd them once, and Bot securely remembers them for the future.\nVideo",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113796183688982771#m",
-      "date": "Sat, 24 Oct 2026 00:54:17 GMT",
-      "tweet_id": "2113796183688982771",
-      "quoted": {
-        "user": "bot",
-        "text": "Grok Bot can now save your logins, cards, and contact information.\n\nAdd them once, and Bot securely remembers them for the future.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113716259032592384/img/VaJnG-mAE4BdDEDX.jpg",
-            "local": "2113796183688982771q_0.jpg"
-          }
-        ],
-        "text_zh": "Grok Bot 现在可以保存您的登录信息、卡片和联系信息。\n\n添加一次，Bot 就会安全地记住它们以供将来使用。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 将敏感信息保存在保险库中\nGrok Bot 现在可以保存您的登录信息、卡片和联系信息。\n添加一次，Bot 就会安全地记住它们以供将来使用。\n视频"
-    },
-    {
-      "text": "Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week. Congrats to the whole team!",
-      "link": "http://nitter.meowing.monster/gigafactories/status/2113745614228099452#m",
-      "date": "Fri, 23 Oct 2026 21:33:20 GMT",
-      "text_zh": "Giga Berlin 的升级工作正在如火如荼地进行。本周，我们达到了下一个生产里程碑：一周内生产了 7,000 辆 Model Y。祝贺整个团队！",
-      "tweet_id": "2113745614228099452",
-      "ctx_done": 1
-    },
-    {
-      "text": "James Talarico is a 2021 woke remnant who must lose. \n\nWhen he opposed a transgender athletes bill that year he told the Texas House that God is nonbinary and cited Hebrew grammar for “spirit” in Genesis. \n\nAt the same committee hearing, he claimed modern science recognizes 6 biological sexes before reversing to 2 after Fox pressed him during the campaign. \n\nOn Rogan in 2025, he argued the Bible supports abortion rights because God asked Mary’s consent before the incarnation. \n\nA seminary trained Democrat who spent years pushing those claims has no place winning statewide.\n\nVideo",
-      "link": "http://nitter.meowing.monster/Rothmus/status/2113724913978892430#m",
-      "date": "Fri, 23 Oct 2026 20:11:05 GMT",
-      "text_zh": "詹姆斯·塔拉里科 (James Talarico) 是 2021 年觉醒的幸存者，他必须失败。 \n\n那年，当他反对跨性别运动员法案时，他告诉德克萨斯州众议院，上帝是非二元的，并引用了创世记中“精神”的希伯来语语法。 \n\n在同一个委员会听证会上，他声称现代科学承认 6 种生物性别，但在福克斯在竞选期间向他施压后，他又恢复到 2 种性别。 \n\n在谈到2025年的罗根时，他认为圣经支持堕胎权，因为上帝在转世之前征求了玛丽的同意。 \n\n一位受过神学院训练的民主党人花了数年时间推动这些主张，但在全州范围内没有赢得胜利。\n\n视频",
-      "tweet_id": "2113724913978892430",
-      "ctx_done": 1
-    },
-    {
-      "text": "The Economist has been anti-human for the past few decades. It is no longer worthy of respect.",
-      "link": "http://nitter.meowing.monster/elonmusk/status/2113692448300097708#m",
-      "date": "Fri, 23 Oct 2026 18:02:04 GMT",
-      "tweet_id": "2113692448300097708",
-      "quoted": {
-        "user": "FischerKing64",
-        "text": "In its 1998 Christmas Special Edition, the Economist ran an article about the \"Voluntary Human Extinction Movement.\" Festive. The article itself treated the movement with irony, but it's a real thing that some people want to stop reproducing and die for the \"good of the earth.\"",
-        "text_zh": "《经济学人》在 1998 年圣诞节特别版中发表了一篇有关“人类自愿灭绝运动”的文章。喜庆。文章本身对这场运动进行了讽刺，但有些人想要停止繁殖并为了“地球的利益”而死却是真实的事情。"
-      },
-      "ctx_done": 1,
-      "text_zh": "过去几十年来，《经济学人》一直是反人类的。它已经不值得尊重了。"
-    },
-    {
-      "text": "Just one week of early voting left, Texas!\n\nEarly voting ends Friday, October 30. The radical Left is counting on Republicans to stay home. Let’s prove them wrong.\n\nVOTE EARLY. VOTE TODAY.",
-      "link": "http://nitter.meowing.monster/KenPaxtonTX/status/2113684836212777257#m",
-      "date": "Fri, 23 Oct 2026 17:31:49 GMT",
-      "text_zh": "德克萨斯州，提前投票仅剩一周！\n\n提前投票于 10 月 30 日星期五结束。激进左派指望共和党人待在家里。让我们证明他们是错的。\n\n尽早投票。今天投票。",
-      "tweet_id": "2113684836212777257",
       "ctx_done": 1
     }
   ]
