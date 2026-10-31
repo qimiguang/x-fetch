@@ -1,8 +1,211 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-10-31T12:01:02Z",
+  "updated_at": "2026-10-31T17:12:24Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "What the Petersen placard says about the 2028 Tesla Roadster Thrust 🚀 Unveiled Oct 14, 2026 in McGregor, Texas. Active aero with fan-driven suction, extreme downforce, cold-gas thrusters, and sub-1-second 0–60 at the unveiling. Tesla calls it its \"last best driver's car.\" https://t.co/7pXsGZKcWP",
+      "link": "https://x.com/teslaownersSV/status/2116576098351759554",
+      "date": "Sat Oct 31 17:00:40 +0000 2026",
+      "tweet_id": "2116576098351759554",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116576048238206976/pu/vid/avc1/720x1280/BKqXXXBxAF_FQJpP.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116576048238206976/pu/img/MmSCnARBjsLBJsNo.jpg",
+          "local": "2116576098351759554_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116576048238206976/pu/vid/avc1/720x1280/BKqXXXBxAF_FQJpP.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116576048238206976/pu/img/MmSCnARBjsLBJsNo.jpg",
+          "local": "2116576098351759554_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Petersen 标语牌对 2028 款 Tesla Roadster Thrust 的评价 🚀 于 2026 年 10 月 14 日在德克萨斯州麦格雷戈揭幕。揭幕仪式上，主动式空气动力学装置配备风扇驱动吸力、极端下压力、冷气推进器以及不到 1 秒的 0-60 英里加速。特斯拉称其为“最后最好的驾驶汽车”。 https://t.co/7pXsGZKcWP"
+    },
+    {
+      "text": "Starship Cybertruck https://t.co/BY1PUjOX3P",
+      "link": "https://x.com/teslaownersSV/status/2116570544867103024",
+      "date": "Sat Oct 31 16:38:36 +0000 2026",
+      "tweet_id": "2116570544867103024",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV-RsVkb0AA1omU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV-RsVkb0AA1omU.jpg?format=jpg&name=large",
+          "local": "2116570544867103024_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV-RsVkb0AA1omU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV-RsVkb0AA1omU.jpg?format=jpg&name=large",
+          "local": "2116570544867103024_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰赛博卡车 https://t.co/BY1PUjOX3P"
+    },
+    {
+      "text": "On this day in 2018: a Tesla owner's city started enforcing 2-hour parking, so he began moving his car every 2 hours from his office window using Summon.\n\nElon replied that by the next year, a Tesla should be able to drive around a parking lot, find an empty spot, read the signs https://t.co/lsfffIli2V",
+      "link": "https://x.com/teslaownersSV/status/2116565143849156656",
+      "date": "Sat Oct 31 16:17:08 +0000 2026",
+      "tweet_id": "2116565143849156656",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116565072810254337/vid/avc1/720x1424/Pb86uUxcll-rPjm_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116565072810254337/img/7e8CTt6j_w4xVEe3.jpg",
+          "local": "2116565143849156656_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116565072810254337/vid/avc1/720x1424/Pb86uUxcll-rPjm_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116565072810254337/img/7e8CTt6j_w4xVEe3.jpg",
+          "local": "2116565143849156656_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@dshawn @Tesla For those unfamiliar, this uses Tesla Autopark/Summon. Slightly smarter version hopefully ready soon. By next year, a Tesla should be able to drive around a parking lot, find an empty spot, read signs to confirm it’s valid &amp; park.",
+        "text_zh": "@dshawn @Tesla 对于那些不熟悉的人来说，这使用 Tesla Autopark/Summon。稍微聪明一点的版本希望很快就能准备好。到明年，特斯拉应该能够在停车场周围行驶，找到空位，阅读标志以确认其有效并停车。"
+      },
+      "ctx_done": 1,
+      "text_zh": "2018 年的这一天：特斯拉车主的城市开始强制执行 2 小时停车，因此他开始使用 Summon 每 2 小时将车从办公室窗口移开一次。\n\n埃隆回答说，到明年，特斯拉应该能够在停车场周围行驶，找到空位，阅读标志 https://t.co/lsfffIli2V"
+    },
+    {
+      "text": "Every angle of the new Tesla Roadster in 20 seconds 👀 Filmed in person at the Petersen in Los Angeles. https://t.co/NJbVuvwy24",
+      "link": "https://x.com/teslaownersSV/status/2116560980981186704",
+      "date": "Sat Oct 31 16:00:36 +0000 2026",
+      "tweet_id": "2116560980981186704",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116560936320335872/pu/vid/avc1/720x1280/Tr7wjA88bWi3OvkA.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116560936320335872/pu/img/z-GmCtylLLXoD1fj.jpg",
+          "local": "2116560980981186704_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2116560936320335872/pu/vid/avc1/720x1280/Tr7wjA88bWi3OvkA.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2116560936320335872/pu/img/z-GmCtylLLXoD1fj.jpg",
+          "local": "2116560980981186704_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "20 秒内拍摄新款 Tesla Roadster 的各个角度👀 在洛杉矶 Petersen 亲自拍摄。 https://t.co/NJbVuvwy24"
+    },
+    {
+      "text": "Elon Musk on why he wouldn't let SpaceX or Tesla die in 2008, even with only $40 million left:\n\"To me, the company's like kids. If you got two kids, how could you really say, okay, we're gonna let one kid starve?\"\nHe split what was left of his PayPal money between both. SpaceX's https://t.co/Pg1X7ptZEW",
+      "link": "https://x.com/teslaownersSV/status/2116557328455733737",
+      "date": "Sat Oct 31 15:46:05 +0000 2026",
+      "tweet_id": "2116557328455733737",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116557292258934786/vid/avc1/1920x1080/-Ho0hLGXEwxZbui-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116557292258934786/img/RVykTHQSMKwuVeNP.jpg",
+          "local": "2116557328455733737_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116557292258934786/vid/avc1/1920x1080/-Ho0hLGXEwxZbui-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116557292258934786/img/RVykTHQSMKwuVeNP.jpg",
+          "local": "2116557328455733737_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "伊隆·马斯克 (Elon Musk) 阐述了为什么他不会让 SpaceX 或特斯拉在 2008 年消亡，即使只剩下 4000 万美元：\n“对我来说，公司就像孩子。如果你有两个孩子，你怎么能真的说，好吧，我们会让一个孩子挨饿呢？”\n他将 PayPal 剩余的钱分给了双方。 SpaceX 的 https://t.co/Pg1X7ptZEW"
+    },
+    {
+      "text": "BREAKING: SpaceX has surpassed 700 Falcon 9 launches! \n\nThe milestone was reached with Starlink 15-16 on October 27. Starlink 15-18 followed as the 701st mission on October 31.\n\nSince its first flight in 2010, Falcon 9 has transformed spaceflight through reusable rocket https://t.co/tGYekuWoxO",
+      "link": "https://x.com/teslaownersSV/status/2116549469814804972",
+      "date": "Sat Oct 31 15:14:51 +0000 2026",
+      "tweet_id": "2116549469814804972",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9-hnYbIAAk3Qu.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9-hnYbIAAk3Qu.jpg?format=jpg&name=large",
+          "local": "2116549469814804972_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9-hnYbIAAk3Qu.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9-hnYbIAAk3Qu.jpg?format=jpg&name=large",
+          "local": "2116549469814804972_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "突发新闻：SpaceX 猎鹰 9 号发射次数已超过 700 次！ \n\n10 月 27 日，星链 15-16 号任务实现了这一里程碑。随后，星链 15-18 号任务于 10 月 31 日进行了第 701 次任务。\n\n自 2010 年首次飞行以来，猎鹰 9 号通过可重复使用的火箭改变了航天业 https://t.co/tGYekuWoxO"
+    },
+    {
+      "text": "NEWS: Starlink is helping bring digital education to students in rural Kenya.\n\n- At Essaba Schools in Siaya County, Starlink connectivity gives students access to online career guidance and digital learning.\n- Students can explore career paths, choose future subjects, and build https://t.co/GLiAW7UlKH",
+      "link": "https://x.com/teslaownersSV/status/2116531973082820901",
+      "date": "Sat Oct 31 14:05:20 +0000 2026",
+      "tweet_id": "2116531973082820901",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9um-ca4AAjudx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9um-ca4AAjudx.jpg?format=jpg&name=large",
+          "local": "2116531973082820901_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9um-ca4AAjudx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9um-ca4AAjudx.jpg?format=jpg&name=large",
+          "local": "2116531973082820901_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：Starlink 正在帮助肯尼亚农村地区的学生获得数字教育。\n\n- 在锡亚县的埃萨巴学校，星链连接让学生能够获得在线职业指导和数字学习。\n- 学生可以探索职业道路、选择未来的科目并构建 https://t.co/GLiAW7UlKH"
+    },
+    {
+      "text": "NEWS: Neuralink’s Blindsight could take brain-computer interfaces beyond motor control and into artificial vision.\n\n- Elon Musk says Blindsight is Neuralink’s second product and is **engineering-ready**, pending regulatory approval.\n- The system is designed to use a camera to https://t.co/wVi7bq3aTq",
+      "link": "https://x.com/teslaownersSV/status/2116531867478643140",
+      "date": "Sat Oct 31 14:04:55 +0000 2026",
+      "tweet_id": "2116531867478643140",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9uhCHaQAAmyKl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9uhCHaQAAmyKl.jpg?format=jpg&name=large",
+          "local": "2116531867478643140_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9uhCHaQAAmyKl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9uhCHaQAAmyKl.jpg?format=jpg&name=large",
+          "local": "2116531867478643140_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：Neuralink 的 Blindsight 可以使脑机接口超越运动控制，进入人工视觉领域。\n\n- Elon Musk 表示 Blindsight 是 Neuralink 的第二个产品，并且已**工程就绪**，正在等待监管部门的批准。\n- 该系统设计为使用摄像头 https://t.co/wVi7bq3aTq"
+    },
+    {
+      "text": "A Colombian state just offered SpaceX a spaceport.\n\nAntioquia Governor Andrés Julián Rendón says the state is ready to host a SpaceX spaceport in Urabá, on its Caribbean coast.\n\nAntioquia already runs 1,200 Starlink antennas that bring telemedicine to its most remote towns, https://t.co/cnmOeopSOH",
+      "link": "https://x.com/teslaownersSV/status/2116525636986757143",
+      "date": "Sat Oct 31 13:40:09 +0000 2026",
+      "tweet_id": "2116525636986757143",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9o2WYaoAA-7An.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9o2WYaoAA-7An.jpg?format=jpg&name=large",
+          "local": "2116525636986757143_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV9o2WYaoAA-7An.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HV9o2WYaoAA-7An.jpg?format=jpg&name=large",
+          "local": "2116525636986757143_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "哥伦比亚一个州刚刚向 SpaceX 提供了一个太空港。\n\n安蒂奥基亚州州长安德烈斯·朱利安·伦东 (Andrés Julián Rendón) 表示，该州已准备好在加勒比海岸的乌拉巴 (Urabá) 建设 SpaceX 太空港。\n\n安蒂奥基亚省已运行 1,200 个星链天线，为最偏远的城镇带来远程医疗，https://t.co/cnmOeopSOH"
+    },
     {
       "text": "Elon Musk on who really controls the Democratic Party, and why California became a one-party state:\n\n\"The two entities that most control the Democratic Party are the unions and secondarily the plaintiff bar. Basically, the lawyers that sue, especially class action. That's who https://t.co/JQKLAGOIHg",
       "link": "https://x.com/teslaownersSV/status/2116426757985452527",
@@ -161,7 +364,7 @@
             "local": "2116382053046644741q_1.jpg"
           }
         ],
-        "text_zh": "机器人出租车更新\n\n服务\n– 营业时间现为早上 6 点至凌晨 2 点\n\n特点\n– 后视摄像头现在可在骑行过程中查看\n– 旅行详细信息可以与朋友分享\n– 新的现场活动设计和体验\n– 平静模式会使屏幕变暗并将机舱照明设置为 https://t.co/UUYLCfOyns"
+        "text_zh": "机器人出租车更新\n\n服务\n– 营业时间现为早上 6 点至凌晨 2 点\n\n特点\n– 后视摄像头现在可以在您的骑行过程中查看\n– 旅行详细信息可以与朋友分享\n– 新的现场活动设计和体验\n– 平静模式会使屏幕变暗并将机舱照明设置为 https://t.co/UUYLCfOyns"
       },
       "ctx_done": 1,
       "text_zh": "Robotaxi 体验的巨大更新"
@@ -3807,190 +4010,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "我们需要这些@ElonMusk \n\n我们能让它们发生吗？ \n\n一些@Grok 和@Bot 的商品创意！ https://t.co/3ZSM6xaJAZ"
-    },
-    {
-      "text": "Saw a Tesla Signature Series Model S Plaid. These look amazing and super rare https://t.co/irKgy2AkG8",
-      "link": "https://x.com/teslaownersSV/status/2115091374672654764",
-      "date": "Tue Oct 27 14:40:54 +0000 2026",
-      "tweet_id": "2115091374672654764",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115091270351892480/vid/avc1/2160x3840/Y6lMqVsmVXVKaWxo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115091270351892480/img/lyq50AP7CHD11e89.jpg",
-          "local": "2115091374672654764_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115091270351892480/vid/avc1/2160x3840/Y6lMqVsmVXVKaWxo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115091270351892480/img/lyq50AP7CHD11e89.jpg",
-          "local": "2115091374672654764_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "看到了特斯拉 Signature 系列 Model S 格纹。这些看起来令人惊叹且超级罕见 https://t.co/irKgy2AkG8"
-    },
-    {
-      "text": "Verizon CEO says Starlink Mobile could take 4–6 years and $300–500B to match terrestrial networks.\n\n- Elon Musk disagrees, saying Starlink can achieve it in just 2–3 years.\n- The debate highlights the growing rivalry between traditional carriers and SpaceX.\n- Starlink is rapidly https://t.co/KujwFP2gHx",
-      "link": "https://x.com/teslaownersSV/status/2115089133156917436",
-      "date": "Tue Oct 27 14:32:00 +0000 2026",
-      "tweet_id": "2115089133156917436",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVpOW1ba8AA-YR1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVpOW1ba8AA-YR1.jpg?format=jpg&name=large",
-          "local": "2115089133156917436_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVpOW1ba8AA-YR1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVpOW1ba8AA-YR1.jpg?format=jpg&name=large",
-          "local": "2115089133156917436_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Verizon 首席执行官表示，Starlink Mobile 可能需要 4-6 年时间和 300-500 亿美元才能与地面网络相匹配。\n\n- 埃隆·马斯克不同意，他说星链只需 2-3 年就能实现。\n- 这场争论凸显了传统运营商和 SpaceX 之间日益激烈的竞争。\n- 星链正在迅速发展 https://t.co/KujwFP2gHx"
-    },
-    {
-      "text": "The @eightsleep Pod 6 is here 🛌\n\n1/2 the size\nHeat up to 110°f 🥰\nCool down to 55°f 😌\n20% faster temp relief\n9x more biometric sensors\n\nUse code TOSV at https://t.co/N9Y4EKZnD2 for up to $200 off the Pod 6 https://t.co/8Y9WNNVVgn",
-      "link": "https://x.com/teslaownersSV/status/2115076838154187055",
-      "date": "Tue Oct 27 13:43:09 +0000 2026",
-      "tweet_id": "2115076838154187055",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115075316771074049/vid/avc1/3840x2160/DEhOX-P2KL6r1Hgp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115075316771074049/img/8QkkddrHvBRVOJ30.jpg",
-          "local": "2115076838154187055_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115075316771074049/vid/avc1/3840x2160/DEhOX-P2KL6r1Hgp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115075316771074049/img/8QkkddrHvBRVOJ30.jpg",
-          "local": "2115076838154187055_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "@eightsleep Pod 6 在这里🛌\n\n1/2 尺寸\n加热至 110°f 🥰\n冷却至 55°f 😌\n降温速度加快 20%\n生物识别传感器数量增加 9 倍\n\n使用 https://t.co/N9Y4EKZnD2 上的代码 TOSV 购买 Pod 6 最高可享受 200 美元优惠 https://t.co/8Y9WNNVVgn"
-    },
-    {
-      "text": "I’m able to use Grok bot to delete my cell phone from the internet for free. Don’t need to pay an additional subscription. https://t.co/iLD3Gj6MaG",
-      "link": "https://x.com/teslaownersSV/status/2114965678398783990",
-      "date": "Tue Oct 27 06:21:26 +0000 2026",
-      "tweet_id": "2114965678398783990",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVneE23a0AAtu14.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVneE23a0AAtu14.jpg?format=jpg&name=large",
-          "local": "2114965678398783990_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVneE23a0AAtu14.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVneE23a0AAtu14.jpg?format=jpg&name=large",
-          "local": "2114965678398783990_1.jpg"
-        }
-      ],
-      "text_zh": "我可以使用 Grok 机器人免费从互联网上删除我的手机。不需要支付额外的订阅费用。 https://t.co/iLD3Gj6MaG",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla now has 463 Cybercabs registered in Texas.\n\n337 of them were added in the last 30 days, 114 in the last week.\nCybercabs are now nearly half of Tesla's 970 registered Robotaxis in Texas. Waymo is at 1,207.\n\nNo steering wheel. No pedals. https://t.co/puZ9Bb8Vh5",
-      "link": "https://x.com/teslaownersSV/status/2114963267860959630",
-      "date": "Tue Oct 27 06:11:51 +0000 2026",
-      "tweet_id": "2114963267860959630",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVnb4lbbgAAwjg4.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVnb4lbbgAAwjg4.jpg?format=jpg&name=large",
-          "local": "2114963267860959630_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVnb4lbbgAAwjg4.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVnb4lbbgAAwjg4.jpg?format=jpg&name=large",
-          "local": "2114963267860959630_1.jpg"
-        }
-      ],
-      "text_zh": "特斯拉目前在德克萨斯州注册了 463 辆 Cyber​​cab。\n\n其中 337 个是在过去 30 天内添加的，114 个是在上周添加的。\n目前，特斯拉在德克萨斯州注册的 970 辆 Robotaxis 中，近一半都是 Cyber​​cab。 Waymo 的排名为 1,207。\n\n没有方向盘。没有踏板。 https://t.co/puZ9Bb8Vh5",
-      "ctx_done": 1
-    },
-    {
-      "text": "You may knock me down once, maybe twice. \n\nBut I don’t ever give up. https://t.co/em2BnA6LwL",
-      "link": "https://x.com/teslaownersSV/status/2114961620292235347",
-      "date": "Tue Oct 27 06:05:19 +0000 2026",
-      "tweet_id": "2114961620292235347",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114961546170568704/vid/avc1/1280x720/OTOrVEH9A00Py0K9.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114961546170568704/img/nCm0H66G4b1ZzRWj.jpg",
-          "local": "2114961620292235347_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2114961546170568704/vid/avc1/1280x720/OTOrVEH9A00Py0K9.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114961546170568704/img/nCm0H66G4b1ZzRWj.jpg",
-          "local": "2114961620292235347_1.jpg"
-        }
-      ],
-      "text_zh": "你可能会击倒我一次，也许两次。 \n\n但我永远不会放弃。 https://t.co/em2BnA6LwL",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla's FSD counter just passed 16.7 billion miles.\n\n16,702,692,862 miles driven on FSD (Supervised)\n6.6 billion of them on city streets\nLive in 17 countries, 10 of them in Europe\n\nEvery mile trains the next one. https://t.co/Ww1ADd9hQY",
-      "link": "https://x.com/teslaownersSV/status/2114922024191877623",
-      "date": "Tue Oct 27 03:27:58 +0000 2026",
-      "tweet_id": "2114922024191877623",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVm2X3XbwAAfu8a.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVm2X3XbwAAfu8a.jpg?format=jpg&name=large",
-          "local": "2114922024191877623_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVm2X3XbwAAfu8a.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVm2X3XbwAAfu8a.jpg?format=jpg&name=large",
-          "local": "2114922024191877623_1.jpg"
-        }
-      ],
-      "text_zh": "特斯拉的 FSD 计数器刚刚超过 167 亿英里。\n\n使用 FSD 行驶了 16,702,692,862 英里（受监督）\n城市街道上有 66 亿人\n居住在 17 个国家，其中 10 个在欧洲\n\n每一英里都训练下一英里。 https://t.co/Ww1ADd9hQY",
-      "ctx_done": 1
-    },
-    {
-      "text": "Never deleting this app. It’s free. https://t.co/NWASbtazXJ",
-      "link": "https://x.com/teslaownersSV/status/2114918486560628898",
-      "date": "Tue Oct 27 03:13:55 +0000 2026",
-      "tweet_id": "2114918486560628898",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVmzJ32akAAl4ak.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVmzJ32akAAl4ak.jpg?format=jpg&name=large",
-          "local": "2114918486560628898_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVmzJ32akAAl4ak.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVmzJ32akAAl4ak.jpg?format=jpg&name=large",
-          "local": "2114918486560628898_1.jpg"
-        }
-      ],
-      "text_zh": "切勿删除此应用程序。它是免费的。 https://t.co/NWASbtazXJ",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @ThTslaDude: 💀 Something's riding in the back of the Cyberbeast, Charlie.\nPurple glow in the bed, orange underglow on the sides, and the…",
-      "link": "https://x.com/teslaownersSV/status/2114907295952121962",
-      "date": "Tue Oct 27 02:29:27 +0000 2026",
-      "tweet_id": "2114907295952121962",
-      "text_zh": "RT @ThTslaDude：💀 有东西骑在 Cyber​​beast 的后面，查理。\n床上有紫色的光芒，侧面有橙色的底光，还有……",
-      "ctx_done": 1
     }
   ]
 }
