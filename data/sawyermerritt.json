@@ -1,8 +1,32 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-10-31T21:19:18Z",
+  "updated_at": "2026-11-01T05:27:01Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "😂🔥",
+      "link": "https://x.com/SawyerMerritt/status/2116716484160294955#m",
+      "date": "Sun, 01 Nov 2026 02:18:31 GMT",
+      "tweet_id": "2116716484160294955",
+      "ctx_done": 1,
+      "text_zh": "😂🔥"
+    },
+    {
+      "text": "Frunk or Treat with my Model Y 🎃👻🪦\n\nThe car plays spooky sounds from its exterior speaker and flickers the lights when you walk up to it.\n\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2116698707118948667#m",
+      "date": "Sun, 01 Nov 2026 01:07:52 GMT",
+      "tweet_id": "2116698707118948667",
+      "ctx_done": 1,
+      "text_zh": "与我的 Model Y 一起吃饱或款待 🎃👻🪦\n\n当你走近汽车时，汽车的外部扬声器会发出怪异的声音，并且灯光会闪烁。\n\n视频"
+    },
+    {
+      "text": "Happy Halloween\n\nIf fortune favors you, you might catch a glimpse of our spooky riders in Austin tonight...\n\nVideo",
+      "link": "https://x.com/robotaxi/status/2116689579730436367#m",
+      "date": "Sun, 01 Nov 2026 00:31:36 GMT",
+      "tweet_id": "2116689579730436367",
+      "ctx_done": 1,
+      "text_zh": "万圣节快乐\n\n如果运气好的话，今晚您可能会在奥斯汀看到我们幽灵般的骑手......\n\n视频"
+    },
     {
       "text": "I hope Spam doesn’t produce too much spam! 😂",
       "link": "https://x.com/elonmusk/status/2116595355848470762#m",
@@ -2134,50 +2158,6 @@
       },
       "ctx_done": 1,
       "text_zh": "Ark Invest：“特斯拉将 Cyber​​cab 添加到其机器人出租车车队中。我们的研究表明，在同等利用率下，特斯拉每英里的运营成本将比 Waymo 的下一代机器人出租车低 40% 左右。”"
-    },
-    {
-      "text": "Ark Invest: \"Tesla has scaled to seven cities across three states, and has completed more than 1 million unsupervised driverless miles in ~7 months, ~4x faster than Waymo’s first million. Tesla expects the ramp to accelerate with FSD V15 late this year. Tesla has framed FSD V15 as the gating factor for scaling its robotaxi service.\"",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112303385081004060#m",
-      "date": "Mon, 19 Oct 2026 22:02:26 GMT",
-      "tweet_id": "2112303385081004060",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBlI38WAAAUXzs.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBlI38WAAAUXzs.jpg?name=orig",
-            "local": "2112303385081004060q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
-            "local": "2112303385081004060q_1.jpg"
-          }
-        ],
-        "text_zh": "ARK Invest 刚刚发布了他们新的特斯拉估值模型，预计到 2031 年 @Tesla 的估值可能达到 17.5 万亿美元，在牛市情况下将达到 20.4 万亿美元以上。\n\nARK 的 2031 年特斯拉基本情况：4,400 美元/股\n• 约 100 万个 Optimus 机器人对外销售，产生约 212B 美元的收入\n• Robotaxi 约占 Tesla 企业价值的 80%（低于 ARK 2029 年车型的约 90%）\n• 部署了约 810 万辆机器人出租车，网约车收入约 753B 美元\n• 总收入约为 $1.45T，EBITDA 约为 $902B\n• 市值约为 17.5T 美元\n• 特斯拉的人工智能基础设施支出累计从约 $7B 增长至 $225B\n\nARK 的 2031 年特斯拉牛市案例：5,000 美元/股\n• 电动汽车收入（不包括积分）：$355B\n• 机器人出租车：1000 万辆汽车和 899B 美元的网约车收入\n• 能源存储：部署 2,693 GWh，收入 193B 美元\n• Optimus：对外销售 120 万台机器人，收入达 254B 美元\n• 总收入：$1.62T\n• EBITDA：1.045T 美元，利润率为 65%，毛利率为 72%\n• 市值：$20.4T\n\nARK 的模型并未假设 SpaceX 和特斯拉合并，但他们估计 SpaceX 和特斯拉合并后可在 2031 年产生 3.8T 美元的收入，其中 SpaceX 贡献约 62%。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Ark Invest：“特斯拉已扩展到三个州的七个城市，并在约 7 个月内完成了超过 100 万英里的无监督无人驾驶里程，比 Waymo 的首个百万英里快了约 4 倍。特斯拉预计今年年底将通过 FSD V15 加速这一增长。特斯拉已将 FSD V15 视为扩大其机器人出租车服务的限制因素。”"
-    },
-    {
-      "text": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%.",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112302499696636149#m",
-      "date": "Mon, 19 Oct 2026 21:58:55 GMT",
-      "text_zh": "ARK Invest 刚刚发布了他们新的特斯拉估值模型，预计到 2031 年 @Tesla 的估值可能达到 17.5 万亿美元，在牛市情况下将达到 20.4 万亿美元以上。\n\nARK 的 2031 年特斯拉基本情况：4,400 美元/股\n• 约 100 万个 Optimus 机器人对外销售，产生约 212B 美元的收入\n• Robotaxi 约占 Tesla 企业价值的 80%（低于 ARK 2029 年车型的约 90%）\n• 部署了约 810 万辆机器人出租车，网约车收入约 753B 美元\n• 总收入约为 $1.45T，EBITDA 约为 $902B\n• 市值约为 17.5T 美元\n• 特斯拉的人工智能基础设施支出累计从约 $7B 增长至 $225B\n\nARK 的 2031 年特斯拉牛市案例：5,000 美元/股\n• 电动汽车收入（不包括积分）：$355B\n• 机器人出租车：1000 万辆汽车和 899B 美元的网约车收入\n• 能源存储：部署 2,693 GWh，收入 193B 美元\n• Optimus：对外销售 120 万台机器人，收入达 254B 美元\n• 总收入：$1.62T\n• EBITDA：1.045T 美元，利润率为 65%，毛利率为 72%\n• 市值：$20.4T\n\nARK 的模型并未假设 SpaceX 和特斯拉合并，但他们估计 SpaceX 和特斯拉合并后可在 2031 年产生 3.8T 美元的收入，其中 SpaceX 贡献约 62%。",
-      "tweet_id": "2112302499696636149",
-      "ctx_done": 1
-    },
-    {
-      "text": "Source: ark-invest.com/articles/valu…\n\nLink\n\n\n\nARK’s Expected Share Price For Tesla In 2031\n\nARK’s updated open-source Tesla model yields an expected value of ~$4,400 per share in 2031. The bull and bear cases—the 75th and 25th percentile Monte Carlo outcomes—are ~$5,000 and ~$3,300 per...\nark-invest.com",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112302502507171860#m",
-      "date": "Mon, 19 Oct 2026 21:58:55 GMT",
-      "text_zh": "资料来源：ark-invest.com/articles/valu...\n\n链接\n\n\n\nARK对特斯拉2031年股价的预期\n\nARK 更新的开源特斯拉模型预计 2031 年每股价值约为 4,400 美元。牛市和熊市情况（第 75 个百分位数和第 25 个百分位蒙特卡罗结果）分别约为 5,000 美元和约 3,300 美元……\n方舟投资网",
-      "tweet_id": "2112302502507171860",
-      "reply_to": "SawyerMerritt",
-      "ctx_done": 1
     }
   ]
 }
