@@ -1,8 +1,96 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-01T05:25:42Z",
+  "updated_at": "2026-11-01T13:00:41Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "\"This was the fork in the road of human civilization. Elections come and go but this one really mattered”\n\nElon Musk. https://t.co/FiQSGscY4X",
+      "link": "https://x.com/teslaownersSV/status/2116775826624749676",
+      "date": "Sun Nov 01 06:14:19 +0000 2026",
+      "tweet_id": "2116775826624749676",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1881435408694947840/vid/avc1/640x352/XZW6DhSx0YiDMV8P.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1881435408694947840/img/4o3f80vnmDI7CCR5.jpg",
+          "local": "2116775826624749676_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1881435408694947840/vid/avc1/640x352/XZW6DhSx0YiDMV8P.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1881435408694947840/img/4o3f80vnmDI7CCR5.jpg",
+          "local": "2116775826624749676_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“这是人类文明道路上的岔路口。选举来来去去，但这一次确实很重要”\n\n埃隆·马斯克。 https://t.co/FiQSGscY4X"
+    },
+    {
+      "text": "ELON MUSK: \"If the people cannot vote and have their will be decided by their elected representatives in the form of the president and the senate and the house, then we don't live in a democracy. We live in a bureaucracy.\" https://t.co/Iehf4IJvmT",
+      "link": "https://x.com/teslaownersSV/status/2116775468687135076",
+      "date": "Sun Nov 01 06:12:54 +0000 2026",
+      "tweet_id": "2116775468687135076",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1889432468513812480/vid/avc1/1280x720/XIdE7PmvapKKlrBd.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1889432468513812480/img/IaFrfg8BI2AZvMFA.jpg",
+          "local": "2116775468687135076_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1889432468513812480/vid/avc1/1280x720/XIdE7PmvapKKlrBd.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1889432468513812480/img/IaFrfg8BI2AZvMFA.jpg",
+          "local": "2116775468687135076_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克：“如果人民不能投票，也不能让他们选出的代表以总统、参议院和众议院的形式决定他们的意愿，那么我们就不是生活在民主国家。我们生活在官僚机构中。” https://t.co/Iehf4IJvmT"
+    },
+    {
+      "text": "\"Starbase is the first new city made in America in quite a few decades. It's named that because it is where we're going to develop technology necessary to take humanity to another planet, for the first time in the four &amp; a half billion year history of Earth.\"\n\n一 Elon Musk",
+      "link": "https://x.com/teslaownersSV/status/2116765424402735141",
+      "date": "Sun Nov 01 05:32:59 +0000 2026",
+      "tweet_id": "2116765424402735141",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2003183263683424256/vid/avc1/1080x1080/mr3whzH5kxgfqBpo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2003183263683424256/img/Q2lMtJk43yNo3gGt.jpg",
+          "local": "2116765424402735141_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2003183263683424256/vid/avc1/1080x1080/mr3whzH5kxgfqBpo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2003183263683424256/img/Q2lMtJk43yNo3gGt.jpg",
+          "local": "2116765424402735141_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“Starbase 是美国几十年来建造的第一座新城市。之所以如此命名，是因为我们将在这里开发将人类带到另一个星球所需的技术，这在地球四五亿年的历史上是第一次。”\n\n埃隆·马斯克"
+    },
+    {
+      "text": "Starbase is the Gateway to the Moon, Mars and Beyond. \n\nIt’s the most inspiring place on Earth. https://t.co/NMikCwiQyg",
+      "link": "https://x.com/teslaownersSV/status/2116765300238745913",
+      "date": "Sun Nov 01 05:32:29 +0000 2026",
+      "tweet_id": "2116765300238745913",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2011126090060943360/vid/avc1/1920x1080/NAA0k3yxkZ8vG_eJ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2011126090060943360/img/Mv3ZZUWT68XbInhu.jpg",
+          "local": "2116765300238745913_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2011126090060943360/vid/avc1/1920x1080/NAA0k3yxkZ8vG_eJ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2011126090060943360/img/Mv3ZZUWT68XbInhu.jpg",
+          "local": "2116765300238745913_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星际基地是通往月球、火星及其他地方的门户。 \n\n这是地球上最鼓舞人心的地方。 https://t.co/NMikCwiQyg"
+    },
     {
       "text": "\"The ugliest dumpster I ever saw\"… wait for it 😂 https://t.co/9djSCG7KaQ",
       "link": "https://x.com/teslaownersSV/status/2116728537491099823",
@@ -3952,52 +4040,6 @@
       "tweet_id": "2115255730496254085",
       "ctx_done": 1,
       "text_zh": "RT @teslaownersSV：@eightsleep Pod 6 在这里 📦\n\n来自 Pod 5 的我很高兴看到发生了什么变化。\n\n集线器小 50%。\n生物量增加 9 倍..."
-    },
-    {
-      "text": "\"I think we should focus on Earth. Like 99% of what we do should be focused on Earth. But maybe 1% of what we do should be focused on becoming a spacefaring civilization and a multiplanet species.\"\n\n@elonmusk \n\nThat 1% is why Starship exists. https://t.co/m8UfvTPfBQ",
-      "link": "https://x.com/teslaownersSV/status/2115252828767977743",
-      "date": "Wed Oct 28 01:22:28 +0000 2026",
-      "tweet_id": "2115252828767977743",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115252780999053312/vid/avc1/1920x1080/8aYa1Kkg81Q9I88P.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115252780999053312/img/b5nklWuwjm8dDhG_.jpg",
-          "local": "2115252828767977743_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115252780999053312/vid/avc1/1920x1080/8aYa1Kkg81Q9I88P.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115252780999053312/img/b5nklWuwjm8dDhG_.jpg",
-          "local": "2115252828767977743_1.jpg"
-        }
-      ],
-      "text_zh": "“我认为我们应该专注于地球。我们所做的 99% 的事情都应该专注于地球。但也许我们所做的 1% 的事情应该专注于成为太空文明和多行星物种。”\n\n@埃隆马斯克 \n\n这 1% 就是 Starship 存在的原因。\n\n视频",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT @XCreators: Photo resharing is live.\n\nSee a photo you want to share? Long press it and tap Post photo. The original author gets credit,…",
-      "link": "https://x.com/teslaownersSV/status/2115230009644523643",
-      "date": "Tue Oct 27 23:51:48 +0000 2026",
-      "tweet_id": "2115230009644523643",
-      "ctx_done": 1,
-      "text_zh": "RT @XCreators：照片转发已上线。\n\n看到您想要分享的照片吗？长按它并点击发布照片。原作者获得荣誉，..."
-    },
-    {
-      "text": "RT @teslaownersSV: The @eightsleep Pod 6 is here 🛌\n\n1/2 the size\nHeat up to 110°f 🥰\nCool down to 55°f 😌\n20% faster temp relief\n9x more biom…",
-      "link": "https://x.com/teslaownersSV/status/2115213382991089785",
-      "date": "Tue Oct 27 22:45:43 +0000 2026",
-      "tweet_id": "2115213382991089785",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：@eightsleep Pod 6 在这里🛌\n\n1/2 尺寸\n加热至 110°f 🥰\n冷却至 55°f 😌\n降温速度加快 20%\n生物生物量增加 9 倍..."
-    },
-    {
-      "text": "RT @ninjamattic: Remembering that time I got to experience the future in Austin for a few days. What a time to be alive. https://t.co/M5NEe…",
-      "link": "https://x.com/teslaownersSV/status/2115205149434294618",
-      "date": "Tue Oct 27 22:13:00 +0000 2026",
-      "tweet_id": "2115205149434294618",
-      "ctx_done": 1,
-      "text_zh": "RT @ninjamattic：记得那次我在奥斯汀体验了几天的未来。活着是多么美好的时光啊。 https://t.co/M5NEe…"
     }
   ]
 }
