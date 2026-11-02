@@ -1,8 +1,152 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-01T19:29:36Z",
+  "updated_at": "2026-11-02T00:32:46Z",
   "count": 200,
   "tweets": [
+    {
+      "text": ".@elonmusk on what Optimus will do for you:\n\n\"It'll be able to do anything you want. So it can be a teacher, babysit your kids, it can walk your dog, mow your lawn, get the groceries, just be your friend, serve drinks, whatever you can think of, it will do. And yeah, it's going https://t.co/wtrJORwTwd",
+      "link": "https://x.com/teslaownersSV/status/2117011086209929585",
+      "date": "Sun Nov 01 21:49:09 +0000 2026",
+      "tweet_id": "2117011086209929585",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117011055851483136/vid/avc1/1920x1080/kYBZyQu0_OTYsEb2.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117011055851483136/img/1MgxAbCIwXvywDlK.jpg",
+          "local": "2117011086209929585_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117011055851483136/vid/avc1/1920x1080/kYBZyQu0_OTYsEb2.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117011055851483136/img/1MgxAbCIwXvywDlK.jpg",
+          "local": "2117011086209929585_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": ".@elonmusk 关于 Optimus 将为您做什么：\n\n“它可以做你想做的任何事情。所以它可以成为一名老师，照顾你的孩子，它可以遛你的狗，修剪你的草坪，买杂货，只是成为你的朋友，提供饮料，任何你能想到的，它都会做。是的，它会做 https://t.co/wtrJORwTwd"
+    },
+    {
+      "text": "Elon pitching his newest invention, a drug called Regretamine:\n\n\"I have this great idea for a drug called Regretamine. One dose and all your regrets are gone! Including, obviously, having taken Regretamine in the first place.\" @elonmusk\n\nThe humor is undefeated. https://t.co/lq69PKl43Y",
+      "link": "https://x.com/teslaownersSV/status/2117010902486753649",
+      "date": "Sun Nov 01 21:48:25 +0000 2026",
+      "tweet_id": "2117010902486753649",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWEiMlyacAE8f8j.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWEiMlyacAE8f8j.jpg?format=jpg&name=large",
+          "local": "2117010902486753649_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWEiMlyacAE8f8j.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWEiMlyacAE8f8j.jpg?format=jpg&name=large",
+          "local": "2117010902486753649_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆推销他的最新发明，一种名为 Regretamine 的药物：\n\n“我对一种叫做瑞格胺的药物有一个好主意。服用一剂，你所有的遗憾都会消失！显然，包括一开始就服用了瑞格胺。” @埃隆马斯克\n\n幽默感是不败的。 https://t.co/lq69PKl43Y"
+    },
+    {
+      "text": "Elon Musk on how xAI built Colossus in 122 days after data center providers quoted 18 to 24 months:\n\n\"How were we able to get the world's most powerful training cluster operational within 122 days?\"\n\n\"We went to the data center providers and said, how long would it take to have https://t.co/XSueGukpU5",
+      "link": "https://x.com/teslaownersSV/status/2116998579185475658",
+      "date": "Sun Nov 01 20:59:27 +0000 2026",
+      "tweet_id": "2116998579185475658",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116998468480974848/vid/avc1/1080x1920/qB-cS4o71dM_A42c.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116998468480974848/img/pomz-mduI5kFR8I6.jpg",
+          "local": "2116998579185475658_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116998468480974848/vid/avc1/1080x1920/qB-cS4o71dM_A42c.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116998468480974848/img/pomz-mduI5kFR8I6.jpg",
+          "local": "2116998579185475658_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon Musk 讲述了 xAI 如何在数据中心提供商报价 18 至 24 个月后在 122 天内构建 Colossus：\n\n“我们如何能够在 122 天内让世界上最强大的训练集群投入运行？”\n\n“我们去找数据中心提供商，询问需要多长时间才能拥有 https://t.co/XSueGukpU5"
+    },
+    {
+      "text": "Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:\n\n\"THAT'S A WORTHY GOAL.\"\n\nCharlie Rose: \"Just simply giving it to Elon Musk, because you had confidence that he would change the future.\"\n\nLarry Page: \"He wants to go to Mars to back up https://t.co/zi9fSJF871",
+      "link": "https://x.com/teslaownersSV/status/2116997397348045165",
+      "date": "Sun Nov 01 20:54:46 +0000 2026",
+      "tweet_id": "2116997397348045165",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116997046918078464/vid/avc1/1080x1920/HDDSPEgt5CQ-7zOo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116997046918078464/img/PFMgHudjqyV8n-bU.jpg",
+          "local": "2116997397348045165_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116997046918078464/vid/avc1/1080x1920/HDDSPEgt5CQ-7zOo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116997046918078464/img/PFMgHudjqyV8n-bU.jpg",
+          "local": "2116997397348045165_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "谷歌联合创始人拉里·佩奇 (Larry Page) 解释了他为何将自己的财富捐给埃隆 (Elon) 而不是捐给慈善机构：\n\n“这是一个有价值的目标。”\n\n查理·罗斯：“只是把它交给埃隆·马斯克，因为你有信心他会改变未来。”\n\n拉里·佩奇：“他想去火星备份 https://t.co/zi9fSJF871"
+    },
+    {
+      "text": "RT @Newsforce: THE STACK: SELF-DRIVING TESLAS, STARLINK &amp; THE AI ROBOT RACE\n\nIs @Tesla making human drivers obsolete? Could @Starlink chang…",
+      "link": "https://x.com/teslaownersSV/status/2116983778346504334",
+      "date": "Sun Nov 01 20:00:39 +0000 2026",
+      "tweet_id": "2116983778346504334",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "‼️ THE STACK SPECIAL: TESLA'S FLYING ROADSTER IS FINALLY HERE\n\n@elonmusk's new Tesla Roadster flies. But how does it work, and could this change the future of driving?\n\nJohn (@Teslaownerssv) witnessed the unveiling firsthand in Texas and joins Jeff (@SJVTESLA) for a special livestream of The Stack to unpack one of Tesla's most extraordinary reveals yet.\n\n02:26 - John's firsthand reaction\n04:05 - First reactions to the flying Roadster\n06:04 - The new design and SpaceX connection\n10:20 - What the Tesla launch event was really like\n13:12 - Watching the Roadster fly and flip live\n16:44 - The Roadster's 3 versions \n20:00 - Performance, range and what comes next\n22:16 - Tesla's ultimate driving machine",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111228598023487489/img/XMiT-BWIInDwRNFH.jpg",
+            "local": "2116983778346504334q_0.jpg"
+          }
+        ],
+        "text_zh": "️ 堆栈特辑：特斯拉的飞行跑车终于来了\n\n@elonmusk 的新款 Tesla Roadster 飞起来了。但它是如何工作的，这会改变驾驶的未来吗？\n\n约翰 (@Teslaownerssv) 在德克萨斯州亲眼目睹了揭幕仪式，并与杰夫 (@SJVTESLA) 一起参加了 The Stack 的特别直播，揭开了特斯拉迄今为止最非凡的揭幕仪式之一。\n\n02:26 - 约翰的第一手反应\n04:05 - 对飞行跑车的第一反应\n06:04 - 新设计与 SpaceX 的联系\n10:20 - 特斯拉发布会的真实情况\n13:12 - 现场观看 Roadster 飞行和翻转\n16:44 - Roadster 的 3 个版本 \n20:00 - 性能、范围和下一步\n22:16 - 特斯拉的终极驾驶机器"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：堆栈：自动驾驶特斯拉、STARLINK 和人工智能机器人竞赛\n\n@Tesla 会让人类司机过时吗？ @Starlink 可以改变吗……"
+    },
+    {
+      "text": "THE STACK: SELF-DRIVING TESLAS, STARLINK &amp; THE AI ROBOT RACE\n\nIs @Tesla making human drivers obsolete? Could @Starlink change air travel forever? And are AI-powered robots closer than we think?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down https://t.co/iciMs4la6r",
+      "link": "https://x.com/Newsforce/status/2116983619604373691",
+      "date": "Sun Nov 01 20:00:01 +0000 2026",
+      "tweet_id": "2116983619604373691",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116967558779727873/vid/avc1/1920x1080/6Oq2hgKn7amm6ULb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116967558779727873/img/qpEfgzJWP9BLsasj.jpg",
+          "local": "2116983619604373691_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2116967558779727873/vid/avc1/1920x1080/6Oq2hgKn7amm6ULb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116967558779727873/img/qpEfgzJWP9BLsasj.jpg",
+          "local": "2116983619604373691_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "‼️ THE STACK SPECIAL: TESLA'S FLYING ROADSTER IS FINALLY HERE\n\n@elonmusk's new Tesla Roadster flies. But how does it work, and could this change the future of driving?\n\nJohn (@Teslaownerssv) witnessed the unveiling firsthand in Texas and joins Jeff (@SJVTESLA) for a special livestream of The Stack to unpack one of Tesla's most extraordinary reveals yet.\n\n02:26 - John's firsthand reaction\n04:05 - First reactions to the flying Roadster\n06:04 - The new design and SpaceX connection\n10:20 - What the Tesla launch event was really like\n13:12 - Watching the Roadster fly and flip live\n16:44 - The Roadster's 3 versions \n20:00 - Performance, range and what comes next\n22:16 - Tesla's ultimate driving machine",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111228598023487489/img/XMiT-BWIInDwRNFH.jpg",
+            "local": "2116983619604373691q_0.jpg"
+          }
+        ],
+        "text_zh": "️ 堆栈特辑：特斯拉的飞行跑车终于来了\n\n@elonmusk 的新款 Tesla Roadster 飞起来了。但它是如何工作的，这会改变驾驶的未来吗？\n\n约翰 (@Teslaownerssv) 在德克萨斯州亲眼目睹了揭幕仪式，并与杰夫 (@SJVTESLA) 一起参加了 The Stack 的特别直播，揭开了特斯拉迄今为止最非凡的揭幕仪式之一。\n\n02:26 - 约翰的第一手反应\n04:05 - 对飞行跑车的第一反应\n06:04 - 新设计与 SpaceX 的联系\n10:20 - 特斯拉发布会的真实情况\n13:12 - 现场观看 Roadster 飞行和翻转\n16:44 - Roadster 的 3 个版本 \n20:00 - 性能、范围和下一步\n22:16 - 特斯拉的终极驾驶机器"
+      },
+      "ctx_done": 1,
+      "text_zh": "堆栈：自动驾驶特斯拉、STARLINK 和人工智能机器人竞赛\n\n@Tesla 会让人类司机过时吗？ @Starlink 能否永远改变航空旅行？人工智能驱动的机器人比我们想象的更接近吗？\n\n约翰·斯金格 (@teslaownersSV) 和约瑟夫·杰斐逊 (@SjvTesla) 崩溃了 https://t.co/iciMs4la6r"
+    },
     {
       "text": "Elon Musk on why the hand is the hardest part of building Optimus:\n\n\"The hands in Optimus are half or more than half of the electromechanical problem, and the entire rest of the body is a half.\"\n\nAlmost all the muscles that move your fingers sit in your forearm and pull through https://t.co/FQO4xk632t",
       "link": "https://x.com/teslaownersSV/status/2116969216998064423",
@@ -3822,215 +3966,6 @@
       ],
       "ctx_done": 1,
       "text_zh": ".@maticrobots 让我的地板保持可怕的干净 https://t.co/eRuEOXOWmW"
-    },
-    {
-      "text": "New Future Link Interview 🎙️ with @serobinsonjr, the man behind @elonchron, his daily no-spin chronicle of Tesla, SpaceX, Neuralink, Starlink, X, The Boring Company and xAI.\n\nWe talk about:\n🛒 How years in retail management trained him to dig through the BS\n🚀 Why SpaceX is the https://t.co/EvL1t1OwUH",
-      "link": "https://x.com/ALScyborg/status/2115506331180474714",
-      "date": "Wed Oct 28 18:09:48 +0000 2026",
-      "tweet_id": "2115506331180474714",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115497462035353600/vid/avc1/1920x1080/4VwALLufi1c1J7SI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115497462035353600/img/I6utQzctfFrLxwpZ.jpg",
-          "local": "2115506331180474714_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115497462035353600/vid/avc1/1920x1080/4VwALLufi1c1J7SI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115497462035353600/img/I6utQzctfFrLxwpZ.jpg",
-          "local": "2115506331180474714_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "New Future Link 采访 @serobinsonjr，他是 @elonchron 的幕后黑手，他每日记录了 Tesla、SpaceX、Neuralink、Starlink、X、The Boring Company 和 xAI。\n\n我们谈论：\n🛒 多年的零售管理经验是如何训练他挖掘BS的\n🚀 为什么 SpaceX 是 https://t.co/EvL1t1OwUH"
-    },
-    {
-      "text": "Congratulations Jess",
-      "link": "https://x.com/teslaownersSV/status/2115501321742860620",
-      "date": "Wed Oct 28 17:49:53 +0000 2026",
-      "tweet_id": "2115501321742860620",
-      "quoted": {
-        "user": "jess_X",
-        "text": "Am I dreaming? 🥹⚡️ https://t.co/xKq6BcpyJB",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_2.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_3.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_4.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_5.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_6.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
-            "local": "2115501321742860620q_7.jpg"
-          }
-        ],
-        "text_zh": "我是在做梦吗？ 🥹⚡️ https://t.co/xKq6BcpyJB"
-      },
-      "ctx_done": 1,
-      "text_zh": "恭喜杰西"
-    },
-    {
-      "text": "Am I dreaming? 🥹⚡️ https://t.co/xKq6BcpyJB",
-      "link": "https://x.com/jess_X/status/2115500320486756470",
-      "date": "Wed Oct 28 17:45:55 +0000 2026",
-      "tweet_id": "2115500320486756470",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUS9WQAEhkNz.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUTMWYAAAA5v.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUTIWsAAc0M1.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvEUS7WQAAcUL3.jpg?format=jpg&name=large",
-          "local": "2115500320486756470_7.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我是在做梦吗？ 🥹⚡️ https://t.co/xKq6BcpyJB"
-    },
-    {
-      "text": "X Money is coming to the Tesla app.\n\nCode in Tesla app 4.62 adds X Money as a payment method for:\n\n    •Supercharging\n    •FSD (Supervised) subscriptions\n    •Tesla Shop purchases\n\nNot announced yet, but it's in the code. X Money already takes the $5,000 Roadster deposit. https://t.co/Wighs3Bxsb",
-      "link": "https://x.com/teslaownersSV/status/2115499382036697290",
-      "date": "Wed Oct 28 17:42:11 +0000 2026",
-      "tweet_id": "2115499382036697290",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=large",
-          "local": "2115499382036697290_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvDdWnaAAAZsPT.jpg?format=jpg&name=large",
-          "local": "2115499382036697290_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "X Money 即将登陆 Tesla 应用程序。\n\nTesla 应用程序 4.62 中的代码添加了 X Money 作为以下付款方式：\n\n    •增压\n    •FSD（受监管）订阅\n    •特斯拉商店购买\n\n尚未公布，但已在代码中。 X Money 已经收取了 5,000 美元的 Roadster 押金。 https://t.co/Wighs3Bxsb"
-    },
-    {
-      "text": "NEWS: Grok Bot can now make phone calls for you.\n\n•⁠  ⁠Calls people or businesses, navigates menus, waits on hold, and handles transfers.\n•⁠  ⁠Provides live transcripts and summarizes the outcome.\n•⁠  ⁠Can handle tasks like canceling subscriptions or checking orders.\n\nNo https://t.co/a2xlcgeTNW",
-      "link": "https://x.com/teslaownersSV/status/2115494664195490167",
-      "date": "Wed Oct 28 17:23:26 +0000 2026",
-      "tweet_id": "2115494664195490167",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=large",
-          "local": "2115494664195490167_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVu_KJnaMAAkjnU.jpg?format=jpg&name=large",
-          "local": "2115494664195490167_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：Grok Bot 现在可以为您打电话。\n\n•⁠ ⁠呼叫人员或企业、浏览菜单、等待并处理转接。\n•⁠ ⁠提供实时记录并总结结果。\n•⁠ ⁠可以处理取消订阅或检查订单等任务。\n\n否 https://t.co/a2xlcgeTNW"
-    },
-    {
-      "text": "UPDATE: Starship Ship 42 has completed its static fire tests ahead of Flight 15. 🚀\n\n🔥 Full-duration static fire with all six Raptor engines\n🔥 Single-engine firing to simulate a deorbit burn\n\nSpaceX is testing both full-engine performance and a key maneuver ahead of Starship’s https://t.co/YHfF9VuwJf",
-      "link": "https://x.com/teslaownersSV/status/2115494489716621493",
-      "date": "Wed Oct 28 17:22:44 +0000 2026",
-      "tweet_id": "2115494489716621493",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115494356941688832/vid/avc1/1920x1080/CnSD-DDyWltXN9vX.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115494356941688832/img/Nw5Y-vY6wyvxIZNO.jpg",
-          "local": "2115494489716621493_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115494356941688832/vid/avc1/1920x1080/CnSD-DDyWltXN9vX.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115494356941688832/img/Nw5Y-vY6wyvxIZNO.jpg",
-          "local": "2115494489716621493_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "更新：Starship Ship 42 已在 15 号航班之前完成静态火灾测试。🚀\n\n🔥 所有六台 Raptor 发动机均可进行全持续静态射击\n🔥 单引擎点火模拟脱轨燃烧\n\nSpaceX 正在 Starship 发射之前测试全引擎性能和关键机动 https://t.co/YHfF9VuwJf"
     }
   ]
 }
