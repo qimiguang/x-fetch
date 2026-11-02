@@ -1,8 +1,30 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-02T02:24:04Z",
+  "updated_at": "2026-11-02T08:25:51Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Elon Musk with his mom Maye: \n\nA mom who believed in him first, and a son who still lights up when she walks in. \n\nElon and Maye, 2021 to 2023 https://t.co/moCAVKb9ut",
+      "link": "https://x.com/teslaownersSV/status/2117108950965604625",
+      "date": "Mon Nov 02 04:18:02 +0000 2026",
+      "tweet_id": "2117108950965604625",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117108914156367872/vid/avc1/1080x1920/l-oZktKr1ZVqrbYG.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117108914156367872/img/JCS54bwmXmYPtXuQ.jpg",
+          "local": "2117108950965604625_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117108914156367872/vid/avc1/1080x1920/l-oZktKr1ZVqrbYG.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117108914156367872/img/JCS54bwmXmYPtXuQ.jpg",
+          "local": "2117108950965604625_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克和他的妈妈梅耶： \n\n一个首先相信他的妈妈，一个当她走进来时仍然闪闪发光的儿子。 \n\n埃隆和梅耶，2021 年至 2023 年 https://t.co/moCAVKb9ut"
+    },
     {
       "text": "JPMorgan CEO Jamie Dimon on Elon: \"The guy is our Einstein.\"\n\nOn CNBC at Davos in January 2025, he said he and Elon had hugged it out and settled some of their differences, then named SpaceX, Tesla and Neuralink.\n\n\"And so I like to be helpful to him and his company as much as we https://t.co/h6t27WfhbS",
       "link": "https://x.com/teslaownersSV/status/2117071104351314011",
@@ -22,7 +44,8 @@
           "local": "2117071104351314011_1.jpg"
         }
       ],
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "摩根大通首席执行官杰米戴蒙谈埃隆：“这个人就是我们的爱因斯坦。”\n\n2025 年 1 月，他在达沃斯 CNBC 节目中表示，他和埃隆已经坦然接受并解决了一些分歧，随后命名为 SpaceX、Tesla 和 Neuralink。\n\n“所以我喜欢为他和他的公司提供帮助，就像我们一样 https://t.co/h6t27WfhbS"
     },
     {
       "text": "Elon Musk in 2013, telling Sal Khan how his friends tried to talk him out of starting a rocket company. \n\nOne made him watch a video of rockets blowing up.\n\nHe was willing to spend half his PayPal money with no expectation of getting it back. U.S. rockets cost too much, so in https://t.co/xuveH2076R",
@@ -43,7 +66,8 @@
           "local": "2117070492947628354_1.jpg"
         }
       ],
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "2013 年，埃隆·马斯克 (Elon Musk) 告诉萨尔·汗 (Sal Khan)，他的朋友们如何劝说他不要创办一家火箭公司。 \n\n其中一个让他观看了火箭爆炸的视频。\n\n他愿意花掉一半的 PayPal 钱，而不指望能收回来。美国火箭成本太高了，所以在https://t.co/xuveH2076R"
     },
     {
       "text": "Elon on where the smartest people hang out online:\n\n\"Anyone with a brain is on 𝕏\" @elonmusk https://t.co/tj1vkAAjIC",
@@ -64,7 +88,8 @@
           "local": "2117069859150565448_1.jpg"
         }
       ],
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "埃隆谈到最聪明的人在网上闲逛的地方：\n\n“任何有头脑的人都在𝕏”@elonmusk https://t.co/tj1vkAAjIC"
     },
     {
       "text": "Elon Musk on why his own Tesla Roadster flew on the first Falcon Heavy instead of \"a chunk of concrete\":\n\n\"We can't put a chunk of concrete, that's going to be super boring.\"\n\nA new rocket's first flight usually carries a dummy weight, because nobody risks an expensive satellite https://t.co/ZtjQfFphp2",
@@ -85,7 +110,8 @@
           "local": "2117067137282199957_1.jpg"
         }
       ],
-      "ctx_done": 1
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克（Elon Musk）解释了为什么他自己的特斯拉跑车在第一架猎鹰重型飞机上飞行，而不是“一块混凝土”：\n\n“我们不能放置一块混凝土，那会非常无聊。”\n\n新火箭的首次飞行通常带有虚拟重量，因为没有人冒昂贵卫星的风险 https://t.co/ZtjQfFphp2"
     },
     {
       "text": ".@elonmusk on what Optimus will do for you:\n\n\"It'll be able to do anything you want. So it can be a teacher, babysit your kids, it can walk your dog, mow your lawn, get the groceries, just be your friend, serve drinks, whatever you can think of, it will do. And yeah, it's going https://t.co/wtrJORwTwd",
@@ -3967,14 +3993,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克 (Elon Musk) 阐述自动驾驶为何改变汽车的数学原理。\n\n“一辆典型的乘用车每周大约使用 10 小时。但如果它是自动驾驶的，则每周可以使用 100 小时。”\n\n自动驾驶汽车可以在您睡觉、工作或度假时继续工作。 https://t.co/HPJjz8GqQz"
-    },
-    {
-      "text": "https://t.co/J27EYTAXJm",
-      "link": "https://x.com/teslaownersSV/status/2115517501454922051",
-      "date": "Wed Oct 28 18:54:11 +0000 2026",
-      "tweet_id": "2115517501454922051",
-      "ctx_done": 1,
-      "text_zh": "https://t.co/J27EYTAXJm"
     }
   ]
 }
