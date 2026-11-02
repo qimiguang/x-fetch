@@ -1,8 +1,77 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-11-02T08:43:01Z",
+  "updated_at": "2026-11-02T08:42:56Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "With today’s launch of @Tesla’s Robotaxi service in Fort Worth, Texas, its unsupervised Robotaxi geofences now cover a combined ~1% of the entire U.S. population.",
+      "link": "https://x.com/SawyerMerritt/status/2117139487083933972#m",
+      "date": "Mon, 02 Nov 2026 06:19:22 GMT",
+      "tweet_id": "2117139487083933972",
+      "ctx_done": 1,
+      "text_zh": "随着@Tesla 今天在德克萨斯州沃思堡推出 Robotaxi 服务，其无人监管的 Robotaxi 地理围栏现已覆盖全美约 1% 的人口。"
+    },
+    {
+      "text": "Tesla's Unsupervised Robotaxi service is now available in 7 cities as of Nov 2nd.\n\nUpdated Robotaxi geofence sizes (in square miles):\n• Austin: 272\n• Houston: 254\n• Fort Worth: 143 (New city launch on Nov 2)\n• Dallas: 81\n• Miami: 31\n• Orlando: 26\n• Tampa: 24",
+      "link": "https://x.com/SawyerMerritt/status/2117134092739252327#m",
+      "date": "Mon, 02 Nov 2026 05:57:56 GMT",
+      "tweet_id": "2117134092739252327",
+      "ctx_done": 1,
+      "text_zh": "截至 11 月 2 日，特斯拉无人监督的 Robotaxi 服务现已在 7 个城市推出。\n\n更新的 Robotaxi 地理围栏尺寸（以平方英里为单位）：\n•奥斯汀：272\n• 休斯顿：254\n• 沃斯堡：143（新城市于 11 月 2 日推出）\n•达拉斯：81\n• 迈阿密：31\n•奥兰多：26\n• 坦帕：24"
+    },
+    {
+      "text": "Tesla has just officially announced a new Robotaxi city, their first new city expansion in ~3 months!\n\nFort Worth, Texas Tesla robotaxi rides begin on November 2nd at 6 AM CT.",
+      "link": "https://x.com/SawyerMerritt/status/2117129992815726783#m",
+      "date": "Mon, 02 Nov 2026 05:41:39 GMT",
+      "tweet_id": "2117129992815726783",
+      "ctx_done": 1,
+      "text_zh": "特斯拉刚刚正式宣布建立一个新的 Robotaxi 城市，这是他们三个月来的首次新城市扩张！\n\n德克萨斯州沃思堡 Tesla 机器人出租车服务将于 11 月 2 日上午 6 点（中部时间）开始。"
+    },
+    {
+      "text": "I think it would be good for @SpaceX to introduce higher tiers for heavy Grok Bot users.\n\nWhat I'd suggest:\n• Free: $0\n• Plus: $8/month\n• Premium: $30/month\n• Super: $100/month\n• $200/month (current top tier plan)\n• $500/month (new tier)\n• $1,000/month (new tier)",
+      "link": "https://x.com/SawyerMerritt/status/2117066099472638316#m",
+      "date": "Mon, 02 Nov 2026 01:27:45 GMT",
+      "tweet_id": "2117066099472638316",
+      "ctx_done": 1,
+      "text_zh": "我认为 @SpaceX 为 Grok Bot 的重度用户引入更高的级别是件好事。\n\n我的建议是：\n• 免费：0 美元\n• 加：8 美元/月\n• 保费：30 美元/月\n• 超级：100 美元/月\n• 200 美元/月（当前顶级计划）\n• 500 美元/月（新级别）\n• 1,000 美元/月（新级别）"
+    },
+    {
+      "text": "I think AI compute cost-per-watt prices are going to stay elevated a lot longer than many people expect.\n\nLess than 5% of U.S. consumers even pay a subscription for an AI product, with some putting the estimate <2%. People are clearly finding Grok Bot to be very useful because @SpaceX just had to significantly cut back usage capacity due to overwhelming demand. But we're still so early in the AI adoption curve.\n\nExisting users are going to eat up significantly more compute as models get better and agents start handling increasingly complex tasks and jobs. Inference will increasingly become a larger and larger share of compute capacity.\n\nPeople are seriously underestimating how much demand is still ahead of us and how long it'll take supply to catch up. I think this is partly why Elon thinks SpaceX could exit 2027 with an annual recurring revenue rate of $500 billion to $1 trillion. They can deploy the compute faster than anyone else, and the demand for that compute is insatiable, and likely will be for a long time to come.",
+      "link": "https://x.com/SawyerMerritt/status/2117061732250042826#m",
+      "date": "Mon, 02 Nov 2026 01:10:24 GMT",
+      "tweet_id": "2117061732250042826",
+      "ctx_done": 1,
+      "text_zh": "我认为人工智能计算的每瓦成本价格将保持高位，时间比许多人预期的要长得多。\n\n不到 5% 的美国消费者甚至为人工智能产品付费订阅，有些人估计这一比例还不到 2%。人们显然发现 Grok Bot 非常有用，因为 @SpaceX 由于需求巨大而不得不大幅削减使用容量。但我们仍处于人工智能采用曲线的早期阶段。\n\n随着模型变得更好并且代理开始处理日益复杂的任务和工作，现有用户将消耗更多的计算量。推理将在计算能力中所占的份额越来越大。\n\n人们严重低估了我们还有多少需求以及供应需要多长时间才能赶上。我认为这就是埃隆认为 SpaceX 可能会在 2027 年以 5000 亿至 1 万亿美元的年经常性收入退出的部分原因。他们可以比其他人更快地部署计算，并且对计算的需求是无法满足的，并且可能会持续很长一段时间。"
+    },
+    {
+      "text": "Elon on why some Grok Bot users hit their usage limit more quickly this cycle:\n\n\nElon Musk (@elonmusk)\n\nThe cost of serving Grok Bot was unsustainably high relative to revenue\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2116992258520064397#m",
+      "link": "https://x.com/SawyerMerritt/status/2116996456204640264#m",
+      "date": "Sun, 01 Nov 2026 20:51:01 GMT",
+      "tweet_id": "2116996456204640264",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@DogecoinNorway The cost of serving Grok Bot was unsustainably high relative to revenue",
+        "text_zh": "@DogecoinNorway 相对于收入而言，为 Grok Bot 提供服务的成本过高，不可持续"
+      },
+      "ctx_done": 1,
+      "text_zh": "Elon 解释了为什么一些 Grok Bot 用户在本周期更快地达到了使用限制：\n\n\n埃隆·马斯克 (@elonmusk)\n\n相对于收入而言，为 Grok Bot 提供服务的成本过高，不可持续\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2116992258520064397#m"
+    },
+    {
+      "text": "I find myself getting more and more bullish on @SpaceX by the week. The technologies they've developed, the rapid pace of deployment, and their manufacturing capabilities are so far ahead that it's actually wild the company is 'only' at a $1.8T market cap.\n\nIf Elon's predictions for compute deployments and revenue growth actually materialize next year and beyond, SpaceX is extremely undervalued right now.\n\nEven if Elon is off by 50% on the low end of his projected $500B–$1T annualized revenue run rate by the end of 2027, that would still mean $250B. Pretty damn good.\n\nAnd this is all before next-gen Starlink Mobile and orbital compute really get going lol\n\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2116926072176472091#m",
+      "date": "Sun, 01 Nov 2026 16:11:20 GMT",
+      "tweet_id": "2116926072176472091",
+      "ctx_done": 1,
+      "text_zh": "我发现自己一周越来越看好@SpaceX。他们开发的技术、快速的部署速度以及制造能力都遥遥领先，以至于该公司“仅”拥有 1.8T 的市值，这实际上很疯狂。\n\n如果埃隆对计算部署和收入增长的预测在明年及以后真正实现，那么 SpaceX 目前的价值被严重低估。\n\n即使 Elon 到 2027 年底预计年化收入运行率 $500B-$1T 的低端下降 50%，这仍然意味着 $250B。非常好。\n\n这一切都是在下一代星链移动和轨道计算真正开始之前进行的，哈哈\n\n视频"
+    },
+    {
+      "text": "I guess I need to pare back some of my Grok Bot usage 😭\n\nI wish there were a plan above the $200/month Ultra Plan.",
+      "link": "https://x.com/SawyerMerritt/status/2116919112190640293#m",
+      "date": "Sun, 01 Nov 2026 15:43:41 GMT",
+      "tweet_id": "2116919112190640293",
+      "ctx_done": 1,
+      "text_zh": "我想我需要减少一些 Grok Bot 的使用 😭\n\n我希望有一个高于 200 美元/月 Ultra Plan 的计划。"
+    },
     {
       "text": "😂🔥",
       "link": "https://x.com/SawyerMerritt/status/2116716484160294955#m",
@@ -67,6 +136,15 @@
       "text_zh": "特斯拉今年庆祝万圣节，让一辆载有骷髅的 Cybercab 自动驾驶在奥斯汀周围，哈哈 🎃\n\n视频"
     },
     {
+      "text": "Terrestrial compute will be peanuts compared to orbital compute. \n\nOrbital compute deployed per month probably exceeds terrestrial around the end of 2028 and then far exceeds it in 2029.",
+      "link": "https://x.com/elonmusk/status/2116359819258990946#m",
+      "date": "Sat, 31 Oct 2026 02:41:15 GMT",
+      "tweet_id": "2116359819258990946",
+      "reply_to": "SPCX100T",
+      "ctx_done": 1,
+      "text_zh": "与轨道计算相比，地面计算微不足道。 \n\n每月部署的轨道计算量可能会在 2028 年底左右超过地面计算量，然后在 2029 年远远超过地面计算量。"
+    },
+    {
       "text": "𝕏 has just announced that starting on December 1, 2026, accounts that are eligible to earn 6% APY with 𝕏 Money will earn that rate on the first $150,000 of deposits. Any amount greater than $150,000 will earn 4% APY.\n\nIn addition, ATM operator fees will be reimbursed up to $4 per transaction, up to two times per calendar month. X Money will continue to charge zero fees for ATM transactions.",
       "link": "https://x.com/SawyerMerritt/status/2116345289250418703#m",
       "date": "Sat, 31 Oct 2026 01:43:31 GMT",
@@ -91,7 +169,7 @@
       "text_zh": "这个周末做出明智的决定，乘坐Robotaxi回家\n\n视频"
     },
     {
-      "text": "What are you talking about? Having humans remotely on standby in case of an emergency or if something goes wrong doesn't mean the Cybercab isn't operating Unsupervised.\n\nY’all love to move the goalposts 😂\n\n\nBrad Templeton (@bradtem)\n\nTesla’s Cybercab Robotaxi Is Probably Not “Unsupervised.” Here’s Why \nforbes.com/sites/bradtemplet…\n\n\n\n\n\n— http://nitter.meowing.monster/bradtem/status/2115456580476862517#m",
+      "text": "What are you talking about? Having humans remotely on standby in case of an emergency or if something goes wrong doesn't mean the Cybercab isn't operating Unsupervised.\n\nY’all love to move the goalposts 😂\n\n\nBrad Templeton (@bradtem)\n\nTesla’s Cybercab Robotaxi Is Probably Not “Unsupervised.” Here’s Why \nforbes.com/sites/bradtemplet…\n\n\nCommunity note: Tesla does not remotely supervise every Robotaxi ride. Per its March 2026 letter to Sen. Markey, remote operators intervene only as a rare last resort, at ≤2 mph (up to 10 mph if allowed) to extract a stuck vehicle—not for normal trips.\n\nwired.com/story/tesla-sa…\n\n\n\n\n— https://nitter.kareem.one/bradtem/status/2115456580476862517#m",
       "link": "https://x.com/SawyerMerritt/status/2116306239667995111#m",
       "date": "Fri, 30 Oct 2026 23:08:21 GMT",
       "tweet_id": "2116306239667995111",
@@ -2033,131 +2111,6 @@
         "text_zh": "今天下午 3:30（中部时间）观看 SpaceX 讨论我们 2026 年第三季度收益的直播 → https://x.com/i/broadcasts/1PKqrNbLZbPGb"
       },
       "ctx_done": 1
-    },
-    {
-      "text": "Source: reuters.com/business/autos-t…\n\nLink\n\n\n\nFerrari CEO hails Tesla Roadster redesign as the bold innovation the industry needs\n\nFerrari CEO Benedetto Vigna on Tuesday praised Tesla&apos;s latest Roadster sports car presentation, saying the redesign showed the auto industry had ​room for daring innovation even in a mature market.\nreuters.com",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112570116747472936#m",
-      "date": "Tue, 20 Oct 2026 15:42:20 GMT",
-      "text_zh": "资料来源：reuters.com/business/autos-t...\n\n链接\n\n\n\n法拉利首席执行官称赞特斯拉 Roadster 的重新设计是行业所需的大胆创新\n\n法拉利首席执行官 Benedetto Vigna 周二赞扬了特斯拉最新的 Roadster 跑车展示，称重新设计表明汽车行业即使在成熟的市场中也有大胆创新的空间。\n路透社网站",
-      "tweet_id": "2112570116747472936",
-      "reply_to": "SawyerMerritt",
-      "ctx_done": 1
-    },
-    {
-      "text": "The Ferrari CEO praised @Tesla's new Roadster unveil today:\n\n\"It ​certainly shows that in the automotive world there's ​still ⁠a lot to be done. We have to keep dreaming. As a European, thank you for showing us how that, even in an old ⁠world, ​you can still innovate and dare.\"\n\nHe gave the Roadster launch 10 out of 10 for technology and 10 out of 10 for presentation.\n\nVideo",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112570114679717891#m",
-      "date": "Tue, 20 Oct 2026 15:42:19 GMT",
-      "text_zh": "法拉利首席执行官称赞@特斯拉今天推出的新款 Roadster：\n\n“这无疑表明，在汽车世界中，仍有很多工作要做。我们必须继续梦想。作为欧洲人，感谢您向我们展示，即使在旧世界中，您仍然可以创新和敢于创新。”\n\n他对 Roadster 的发布给予了 10 分（满分 10 分）的技术评价和 10 分（满分 10 分的演示）评价。\n\n视频",
-      "tweet_id": "2112570114679717891",
-      "ctx_done": 1
-    },
-    {
-      "text": "Full interview: podcasts.apple.com/us/podcas…\n\nLink\n\n\n\nElon Musk: \"Humans Won&apos;t Be in Control\" When AI Becomes Smarter Than Us\n\nPodcast Episode · The Builders · October 20 · 40m\npodcasts.apple.com",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112551930761527733#m",
-      "date": "Tue, 20 Oct 2026 14:30:04 GMT",
-      "text_zh": "完整采访：podcasts.apple.com/us/podcas...\n\n链接\n\n\n\n埃隆·马斯克：当人工智能变得比我们更聪明时，“人类将无法控制”\n\n播客剧集 · 建设者 · 10 月 20 日 · 40m\npodcasts.apple.com",
-      "tweet_id": "2112551930761527733",
-      "reply_to": "SawyerMerritt",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk in new interview with Walter Isaacson on the wealth he's created:\n\n\"A fundamental misunderstanding of economics arises because of conflating resource allocation and consumption; I've created. My so-called wealth is simply a percentage ownership in SpaceX and Tesla. And this is going to be taxed quite heavily, and there's not some magical way to avoid taxes. If there were I would know about it. At the end of the day, this will get whittled down, and a few generations from now, if money still matters, which I don't think it will, my descendants would have a tiny fraction of what I have.\"\n\nVideo",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112551927649018058#m",
-      "date": "Tue, 20 Oct 2026 14:30:03 GMT",
-      "text_zh": "埃隆·马斯克在沃尔特·艾萨克森的最新采访中谈到了他所创造的财富：\n\n“由于将资源分配和消费混为一谈，对经济学产生了根本性的误解；我已经创造了。我所谓的财富只是 SpaceX 和 Tesla 的百分比所有权。这将被征收相当高的税，而且没有什么神奇的方法可以避税。如果有的话我会知道的。最终，这将被削弱，几代人后，如果金钱仍然重要，但我认为不会，我的后代将只拥有一小部分我所拥有的。”\n\n视频",
-      "tweet_id": "2112551927649018058",
-      "ctx_done": 1
-    },
-    {
-      "text": "Happy SpaceX Q3 earnings day! Wall Street is expecting this to be SpaceX's first profitable quarter on an adjusted basis since going public in June ($0.13/share).\n\nHere are the most voted for questions by retail investors for today's earnings call:\n\n1) Gwynne Shotwell told us Starship HLS hardware is now being produced in Starbase, how much progress has been made so far and when will the test article be shown off?\n\n2) When will SpaceX merge with Tesla?\n\n3) When does SpaceX intend on performing the orbital refueling demo for Starship? and will it be a comination with the long duration demo?\n\n4) Can you provide a detailed update on the Starbase Louisiana project timeline, including the current status of coastal-use and environmental permitting for the supporting infrastructure in Vermilion Parish, whether the March 2027 construction start target remains on track, and SpaceX’s current confidence level in achieving a first Starship launch from the site as early as 2029?\n\n5) Does SpaceX plan to make a larger Starship payload door for non flat-packed satellites in the near future? If so, what is the timeline and current progress?\n\n6) With Artemis 3 in less than a year, a lunar landing demo targeting in Q4 2027 and Artemis 4 lunar landing in roughly 18 months, what progress have you made on HLS and can we see pictures.\n\nThe full cabin mockup has been in work for a year in the starfactory and we haven't seen any pictures of it. Do you have an update on it or even pictures?\n\nIt's been about a year since your last HLS update and it will be about a year until the uncrewed demo, could we see some progress?\n\n7) What have you learned from the Ship that landed intact that will help future missions?",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112538627175559259#m",
-      "date": "Tue, 20 Oct 2026 13:37:12 GMT",
-      "text_zh": "SpaceX 第三季度财报日快乐！华尔街预计，这将是 SpaceX 自 6 月份上市（每股 0.13 美元）以来调整后第一个实现盈利的季度。\n\n以下是今天的财报电话会议中散户投资者投票最多的问题：\n\n1) Gwynne Shotwell 告诉我们 Starship HLS 硬件现在正在 Starbase 生产，到目前为止取得了多少进展，测试品什么时候展示？\n\n2）SpaceX什么时候会与特斯拉合并？\n\n3）SpaceX打算什么时候为Starship进行轨道加油演示？它会与长时间演示相结合吗？\n\n4) 您能否提供路易斯安那州 Starbase 项目时间表的详细更新信息，包括 Vermilion Parish 配套基础设施的沿海使用和环境许可现状、2027 年 3 月开工目标是否仍按计划进行，以及 SpaceX 目前对最早在 2029 年从该地点实现首次 Starship 发射的信心水平？\n\n5) SpaceX 是否计划在不久的将来为非扁平包装卫星制造更大的 Starship 有效载荷门？如果有，时间表和目前进展如何？\n\n6) Artemis 3 将在不到一年的时间内完成，登月演示计划将于 2027 年第四季度完成，Artemis 4 登月将在大约 18 个月内完成，你们在 HLS 方面取得了哪些进展，我们可以看到图片吗？\n\n完整的客舱模型已经在星际工厂工作了一年，但我们还没有看到它的任何照片。你有更新吗？甚至有图片吗？\n\n距离上次 HLS 更新已经过去了大约一年，距离无人演示也大约有一年了，我们能看到一些进展吗？\n\n7) 您从完好着陆的飞船中学到了什么有助于未来的任务？",
-      "tweet_id": "2112538627175559259",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla FSD V14.3.13 has started rolling out. Same release notes.",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112530971031646462#m",
-      "date": "Tue, 20 Oct 2026 13:06:47 GMT",
-      "text_zh": "Tesla FSD V14.3.13 已开始推出。相同的发行说明。",
-      "tweet_id": "2112530971031646462",
-      "ctx_done": 1
-    },
-    {
-      "text": "This is the larger 400-liter carbon overwrapped pressure vessel (COPV) that will go in the passenger seat in the rocket trim of @Tesla's Roadster, which is why this version is a one-seater. Combined with a 200L tank in the rear, available only on the Thrust and Rocket trims, the Rocket trim will have a total capacity of 600L.\nRocket trim comes with 10 total thrusters around the vehicle: Four rear-facing, four downward-facing, and two side-facing.\n• Performance trim: Four rear fans, suction system and front and rear deployable skirts.\n• Thrust trim: Four rear fans, suction system, front and rear deployable skirts & four rear-facing acceleration thrusters (with 200L COPV tank).\n• Rocket trim: Four rear fans, suction system, front and rear deployable skirts, four rear-facing acceleration thrusters (with 200L COPV tank), four-downward facing & two side facing thrusters (with 400L COPV tank).\nVideo",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112399981571145993#m",
-      "date": "Tue, 20 Oct 2026 04:26:16 GMT",
-      "tweet_id": "2112399981571145993",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "Here is the next-gen Tesla Roadster development video from the unveil event that they shared exclusively with us.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110907192144515072/img/Y3pMtsUa3sEEa3se.jpg",
-            "local": "2112399981571145993q_0.jpg"
-          }
-        ],
-        "text_zh": "这是他们与我们独家分享的揭幕活动中的下一代特斯拉 Roadster 开发视频。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这是更大的 400 升碳包裹压力容器 (COPV)，将安装在 @Tesla Roadster 火箭装饰的乘客座椅上，这就是为什么这个版本是单座的。与仅在 Thrust 和 Rocket 车型上配备的后部 200L 油箱相结合，Rocket 车型的总容量将达到 600L。\n火箭装饰在车辆周围总共有 10 个推进器：四个朝后、四个朝下和两个侧面。\n• 性能装饰：四个后风扇、抽吸系统以及前后可展开裙板。\n• 推力装饰：四个后风扇、抽吸系统、前后可展开裙板和四个后向加速推进器（带200L COPV 油箱）。\n• 火箭装饰：四个后风扇、吸气系统、前后可展开裙板、四个后向加速推进器（带 200L COPV 油箱）、四个朝下和两个侧面推进器（带 400L COPV 油箱）。\n视频"
-    },
-    {
-      "text": "Ark Invest on a potenial Tesla-SpaceX merger:\n \"A SpaceX-Tesla merger could take place within the next five years. Tesla’s highly cash-generative robotaxi network could help fund SpaceX’s ambitious plans for orbital data centers, and at the same time SpaceX’s compute-intensive frontier AI models could serve as the planning layer for Optimus deployments. Working together on the Terafab project, both companies could alleviate chip constraints. Combined, we estimate that SpaceX and Tesla could generate $3.8 trillion in revenue and $2.7 trillion in EBIT15 by 2031, with SpaceX contributing roughly 62% and 69%, respectively.\"",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112322993338613977#m",
-      "date": "Mon, 19 Oct 2026 23:20:21 GMT",
-      "tweet_id": "2112322993338613977",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBlI38WAAAUXzs.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBlI38WAAAUXzs.jpg?name=orig",
-            "local": "2112322993338613977q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
-            "local": "2112322993338613977q_1.jpg"
-          }
-        ],
-        "text_zh": "ARK Invest 刚刚发布了他们新的特斯拉估值模型，预计到 2031 年 @Tesla 的估值可能达到 17.5 万亿美元，在牛市情况下将达到 20.4 万亿美元以上。\n\nARK 的 2031 年特斯拉基本情况：4,400 美元/股\n• 约 100 万个 Optimus 机器人对外销售，产生约 212B 美元的收入\n• Robotaxi 约占特斯拉企业价值的 80%（低于 ARK 2029 年车型的约 90%）\n• 部署了约 810 万辆机器人出租车，网约车收入约 753B 美元\n• 总收入约为 $1.45T，EBITDA 约为 $902B\n• 市值约为 17.5T 美元\n• 特斯拉的人工智能基础设施支出累计从约 $7B 增长到 $225B\n\nARK 的 2031 年特斯拉牛市案例：5,000 美元/股\n• 电动汽车收入（不包括积分）：$355B\n• 机器人出租车：1000 万辆汽车和 899B 美元的网约车收入\n• 能源存储：部署 2,693 GWh，收入 193B 美元\n• Optimus：外部销售 120 万台机器人，收入 254B 美元\n• 总收入：$1.62T\n• EBITDA：1.045T 美元，利润率为 65%，毛利率为 72%\n• 市值：$20.4T\n\nARK 的模型并未假设 SpaceX 和特斯拉合并，但他们估计 SpaceX 和特斯拉合并后可在 2031 年产生 3.8T 美元的收入，其中 SpaceX 贡献约 62%。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Ark Invest 对特斯拉与 SpaceX 潜在合并的看法：\n “SpaceX 与特斯拉的合并可能会在未来五年内发生。特斯拉的高度现金生成的机器人出租车网络可以为 SpaceX 雄心勃勃的轨道数据中心计划提供资金，同时 SpaceX 的计算密集型前沿人工智能模型可以作为 Optimus 部署的规划层。两家公司在 Terafab 项目上的合作可以缓解芯片限制。我们估计 SpaceX 和特斯拉合计可以产生 3.8 万亿美元的收入和 2.7 万亿美元的收入到 2031 年，息税前利润为 15%，其中 SpaceX 分别贡献约 62% 和 69%。”"
-    },
-    {
-      "text": "Ark Invest: \"Tesla added the Cybercab to its robotaxi fleet. Our research suggests that, at equal utilization rates, Tesla’s operational costs per mile will be ~40% lower than those for Waymo’s next-gen robotaxi.\"",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112303933989208564#m",
-      "date": "Mon, 19 Oct 2026 22:04:37 GMT",
-      "tweet_id": "2112303933989208564",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "ARK Invest has just released their new Tesla valuation model, projecting @Tesla could reach a $17.5 trillion valuation by 2031, and upwards of $20.4 trillion in a bull case.\n\nARK's 2031 Tesla base case: $4,400/share\n• ~1M Optimus robots sold externally, generating ~$212B in revenue\n• Robotaxi is ~80% of Tesla's enterprise value (down from ~90% in ARK's 2029 model)\n• ~8.1M robotaxis deployed, with ~$753B in ride-hail revenue\n• Total revenue of ~$1.45T and EBITDA of ~$902B\n• Market cap of ~$17.5T\n• Tesla's AI infrastructure spend grows from ~$7B to $225B cumulatively\n\nARK's 2031 Tesla bull case: $5,000/share\n• EV revenue (excluding credits): $355B\n• Robotaxis: 10M vehicles and $899B in ride-hail revenue\n• Energy storage: 2,693 GWh deployed and $193B in revenue\n• Optimus: 1.2M robots sold externally and $254B in revenue\n• Total revenue: $1.62T\n• EBITDA: $1.045T, a 65% margin, with a 72% gross margin\n• Market cap: $20.4T\n\nARK's model does not assume SpaceX and Tesla merge, but they estimate combined SpaceX and Tesla could generate $3.8T in revenue by 2031, with SpaceX contributing ~62%.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBlI38WAAAUXzs.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBlI38WAAAUXzs.jpg?name=orig",
-            "local": "2112303933989208564q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBlLFjXsAAGb3H.jpg?name=orig",
-            "local": "2112303933989208564q_1.jpg"
-          }
-        ],
-        "text_zh": "ARK Invest 刚刚发布了他们新的特斯拉估值模型，预计到 2031 年 @Tesla 的估值可能达到 17.5 万亿美元，在牛市情况下将达到 20.4 万亿美元以上。\n\nARK 的 2031 年特斯拉基本情况：4,400 美元/股\n• 约 100 万个 Optimus 机器人对外销售，产生约 212B 美元的收入\n• Robotaxi 约占 Tesla 企业价值的 80%（低于 ARK 2029 年车型的约 90%）\n• 部署了约 810 万辆机器人出租车，网约车收入约 753B 美元\n• 总收入约为 $1.45T，EBITDA 约为 $902B\n• 市值约为 17.5T 美元\n• 特斯拉的人工智能基础设施支出累计从约 $7B 增长至 $225B\n\nARK 的 2031 年特斯拉牛市案例：5,000 美元/股\n• 电动汽车收入（不包括积分）：$355B\n• 机器人出租车：1000 万辆汽车和 899B 美元的网约车收入\n• 能源存储：部署 2,693 GWh，收入 193B 美元\n• Optimus：对外销售 120 万台机器人，收入达 254B 美元\n• 总收入：$1.62T\n• EBITDA：1.045T 美元，利润率为 65%，毛利率为 72%\n• 市值：$20.4T\n\nARK 的模型并未假设 SpaceX 和特斯拉合并，但他们估计 SpaceX 和特斯拉合并后可在 2031 年产生 3.8T 美元的收入，其中 SpaceX 贡献约 62%。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Ark Invest：“特斯拉将 Cyber​​cab 添加到其机器人出租车车队中。我们的研究表明，在同等利用率下，特斯拉每英里的运营成本将比 Waymo 的下一代机器人出租车低 40% 左右。”"
     }
   ]
 }
