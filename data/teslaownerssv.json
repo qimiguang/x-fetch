@@ -1,8 +1,326 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-02T12:24:26Z",
+  "updated_at": "2026-11-02T21:38:26Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Elon on why Tesla is starting \"a whole new book\":\n\n\"What we're about to embark upon is not merely a new chapter of the future of Tesla, but a whole new book... This really is going to be quite the story. And Optimus is a fundamental part of that.\"\n\nElon Musk, Tesla 2025 Annual https://t.co/Gy9BzBQjVW",
+      "link": "https://x.com/teslaownersSV/status/2117366896853217604",
+      "date": "Mon Nov 02 21:23:01 +0000 2026",
+      "tweet_id": "2117366896853217604",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117366868491304960/vid/avc1/1920x1080/vPqI6LYkH0aiywJA.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117366868491304960/img/cL-YqEN06aVukEiC.jpg",
+          "local": "2117366896853217604_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117366868491304960/vid/avc1/1920x1080/vPqI6LYkH0aiywJA.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117366868491304960/img/cL-YqEN06aVukEiC.jpg",
+          "local": "2117366896853217604_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆谈到特斯拉为何要开始“一本全新的书”：\n\n“我们即将开启的不仅仅是特斯拉未来的新篇章，而是一本全新的书……这确实是一个故事。擎天柱是其中的基本组成部分。”\n\n伊隆·马斯克，特斯拉 2025 年年度报告 https://t.co/Gy9BzBQjVW"
+    },
+    {
+      "text": "Elon Musk on how the Robotaxi fleet will work, \"some combination of Uber and Airbnb\":\n\n\"The fleet will be Tesla owned, and some of the fleet will be customer owned. So you could think of it as a model, kind of like maybe some combination of Uber and Airbnb... Some people own the https://t.co/NkEEeCssyr",
+      "link": "https://x.com/teslaownersSV/status/2117354598239551889",
+      "date": "Mon Nov 02 20:34:09 +0000 2026",
+      "tweet_id": "2117354598239551889",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117354547110969344/vid/avc1/1920x1080/B5lxYURB4tiHP2x5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117354547110969344/img/RGcl9x0-or3MrN07.jpg",
+          "local": "2117354598239551889_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117354547110969344/vid/avc1/1920x1080/B5lxYURB4tiHP2x5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117354547110969344/img/RGcl9x0-or3MrN07.jpg",
+          "local": "2117354598239551889_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈到 Robotaxi 车队将如何运作，“Uber 和 Airbnb 的某种结合”：\n\n“车队将归特斯拉所有，其中一些车队将归客户所有。所以你可以将其视为一种模型，有点像 Uber 和 Airbnb 的某种组合......有些人拥有 https://t.co/NkEEeCssyr"
+    },
+    {
+      "text": "This is what 33 Raptor 3 engines look like from right underneath Super Heavy at liftoff\nAnd this booster is built to fly back and be caught by the tower https://t.co/xeAyhDrMN3",
+      "link": "https://x.com/teslaownersSV/status/2117333503323050389",
+      "date": "Mon Nov 02 19:10:20 +0000 2026",
+      "tweet_id": "2117333503323050389",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117333469982494720/vid/avc1/1080x1920/PCEeurdSz8Q6-XQD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117333469982494720/img/OTPh5Hc1FlGwbwbZ.jpg",
+          "local": "2117333503323050389_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117333469982494720/vid/avc1/1080x1920/PCEeurdSz8Q6-XQD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117333469982494720/img/OTPh5Hc1FlGwbwbZ.jpg",
+          "local": "2117333503323050389_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这是 33 个 Raptor 3 发动机在升空时从 Super Heavy 正下方看的样子\n这个助推器是为了飞回来并被塔抓住的 https://t.co/xeAyhDrMN3"
+    },
+    {
+      "text": "Elon Musk on \"The universe is the answer,\" the teenage book that became the reason behind SpaceX:\n\n\"When I was a teenager, I had like an existential crisis to try to figure out what's the meaning of life.\"\n\nThe book that got him through it was Hitchhiker's Guide to the Galaxy. https://t.co/yzxWiIR6Kh",
+      "link": "https://x.com/teslaownersSV/status/2117321692792123675",
+      "date": "Mon Nov 02 18:23:24 +0000 2026",
+      "tweet_id": "2117321692792123675",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117321656557617152/vid/avc1/1920x1080/Qh2NUxK9jiQWpIgi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117321656557617152/img/qSN0vhg24FZFv5v_.jpg",
+          "local": "2117321692792123675_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117321656557617152/vid/avc1/1920x1080/Qh2NUxK9jiQWpIgi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117321656557617152/img/qSN0vhg24FZFv5v_.jpg",
+          "local": "2117321692792123675_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 在《宇宙就是答案》这本青少年读物中说道：\n\n“当我十几岁的时候，我经历了一场生存危机，试图弄清楚生命的意义是什么。”\n\n帮助他度过难关的书是《银河系漫游指南》。 https://t.co/yzxWiIR6Kh"
+    },
+    {
+      "text": "Wow Neuralink Patient Zach able to control his Matic with his mind.",
+      "link": "https://x.com/teslaownersSV/status/2117314523145306448",
+      "date": "Mon Nov 02 17:54:54 +0000 2026",
+      "tweet_id": "2117314523145306448",
+      "quoted": {
+        "user": "maticrobots",
+        "text": "Zach is controlling Matic with his mind 🤯 \n\nNeuralink patient #22 is using his thoughts to move Matic around his home \n\nThis is incredible, @elonmusk @neuralink https://t.co/yOe13PW5Mk",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2117311064320937984/vid/avc1/2332x1320/w6m8QXxtt7DdhJrF.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117311064320937984/img/sQeL6rJagHLQB0h2.jpg",
+            "local": "2117314523145306448q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2117311064320937984/vid/avc1/2332x1320/w6m8QXxtt7DdhJrF.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117311064320937984/img/sQeL6rJagHLQB0h2.jpg",
+            "local": "2117314523145306448q_1.jpg"
+          }
+        ],
+        "text_zh": "扎克用意念控制马蒂奇🤯 \n\nNeuralink 患者 #22 正在用他的思想在家里移动 Matic \n\n这太不可思议了，@elonmusk @neuralink https://t.co/yOe13PW5Mk"
+      },
+      "ctx_done": 1,
+      "text_zh": "哇 Neuralink 病人扎克能够用意念控制他的 Matic。"
+    },
+    {
+      "text": "Join our squad ⬇️\n\nhttps://t.co/yflMw6Tlqx",
+      "link": "https://x.com/teslaownersSV/status/2117311378167898394",
+      "date": "Mon Nov 02 17:42:24 +0000 2026",
+      "tweet_id": "2117311378167898394",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "加入我们的队伍⬇️\n\nhttps://t.co/yflMw6Tlqx"
+    },
+    {
+      "text": "This is wild, pretty much march madness.. but for midterms 🤣🤣",
+      "link": "https://x.com/teslaownersSV/status/2117311376322601470",
+      "date": "Mon Nov 02 17:42:24 +0000 2026",
+      "tweet_id": "2117311376322601470",
+      "quoted": {
+        "user": "Polymarket",
+        "text": "Who takes the Senate?\n\nBuild your map: pick the winner of the 7 closest races, lock in your call, &amp; trade your combination. \n\nNow live on Polymarket US👇\nhttps://t.co/5aBTSoozdE https://t.co/VAvplVhgVf",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2115459628393791489/vid/avc1/3840x2160/qW7sLVlhUjl4lEKt.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115459628393791489/img/f0FPRs07R4kifCFu.jpg",
+            "local": "2117311376322601470q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2115459628393791489/vid/avc1/3840x2160/qW7sLVlhUjl4lEKt.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115459628393791489/img/f0FPRs07R4kifCFu.jpg",
+            "local": "2117311376322601470q_1.jpg"
+          }
+        ],
+        "text_zh": "谁入主参议院？\n\n建立你的地图：选出 7 场最接近的比赛的获胜者，锁定你的电话，并交易你的组合。 \n\n现已在 Polymarket US 上线👇\nhttps://t.co/5aBTSoozdE https://t.co/VAvplVhgVf"
+      },
+      "ctx_done": 1,
+      "text_zh": "这太疯狂了，几乎是疯狂的三月..但对于期中考试来说🤣🤣"
+    },
+    {
+      "text": "Zach is controlling Matic with his mind 🤯 \n\nNeuralink patient #22 is using his thoughts to move Matic around his home \n\nThis is incredible, @elonmusk @neuralink https://t.co/yOe13PW5Mk",
+      "link": "https://x.com/maticrobots/status/2117311176657059992",
+      "date": "Mon Nov 02 17:41:36 +0000 2026",
+      "tweet_id": "2117311176657059992",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117311064320937984/vid/avc1/2332x1320/w6m8QXxtt7DdhJrF.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117311064320937984/img/sQeL6rJagHLQB0h2.jpg",
+          "local": "2117311176657059992_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117311064320937984/vid/avc1/2332x1320/w6m8QXxtt7DdhJrF.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117311064320937984/img/sQeL6rJagHLQB0h2.jpg",
+          "local": "2117311176657059992_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "扎克用意念控制马蒂奇🤯 \n\nNeuralink 患者 #22 正在用他的思想在家里移动 Matic \n\n这太不可思议了，@elonmusk @neuralink https://t.co/yOe13PW5Mk"
+    },
+    {
+      "text": "RT @teslaownersSV: Check out the @OlightWorld Marauder 3 🔦\n\n25,000 lumen floodlight ☀️\n1,000 meter spotlight ⚪️\n31,900mAh battery 🔋\n30W bid…",
+      "link": "https://x.com/teslaownersSV/status/2117309464432824659",
+      "date": "Mon Nov 02 17:34:48 +0000 2026",
+      "tweet_id": "2117309464432824659",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：看看@OlightWorld Marauder 3 🔦\n\n25,000 流明泛光灯☀️\n1000米聚光灯⚪️\n31,900mAh 电池🔋\n30W出价…"
+    },
+    {
+      "text": "On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.\n\nModel S hadn't shipped a single car yet. The Fremont factory was about 90% tooled up, and first deliveries were promised for no later than July 2012.\n\nToday https://t.co/O7uKoX4Yyk",
+      "link": "https://x.com/teslaownersSV/status/2117297684918976723",
+      "date": "Mon Nov 02 16:48:00 +0000 2026",
+      "tweet_id": "2117297684918976723",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
+          "local": "2117297684918976723_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
+          "local": "2117297684918976723_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "2011 年的这一天：特斯拉告诉股东，预计全年收入为 1.95 亿至 2 亿美元。\n\nModel S 还没有发货一辆车。弗里蒙特工厂已完成约 90% 的设备安装，并承诺不迟于 2012 年 7 月首批交付。\n\n今天 https://t.co/O7uKoX4Yyk"
+    },
+    {
+      "text": "Elon Musk on where super intelligence compute is headed:\n\n\"Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy \"overwhelmingly\", I mean that it will round up to 100%!\"\n\n@elonmusk https://t.co/d7JltZ7Nh0",
+      "link": "https://x.com/teslaownersSV/status/2117282003641057706",
+      "date": "Mon Nov 02 15:45:41 +0000 2026",
+      "tweet_id": "2117282003641057706",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=large",
+          "local": "2117282003641057706_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=large",
+          "local": "2117282003641057706_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈超级智能计算的发展方向：\n\n“未来的超级智能计算显然将绝大多数出现在太空中。\n\n我所说的“压倒性”是指四舍五入到100%！”\n\n@elonmusk https://t.co/d7JltZ7Nh0"
+    },
+    {
+      "text": "JUST IN: SpaceX is in talks to buy EchoStar's Boost Mobile or use its network to launch its own phone service, per The Washington Post\nElon met EchoStar chairman Charlie Ergen personally last month, the report says.\nEchoStar had 7.38 million wireless subscribers at the end of Q2, https://t.co/ZS88qY4GPX",
+      "link": "https://x.com/teslaownersSV/status/2117272500380008542",
+      "date": "Mon Nov 02 15:07:55 +0000 2026",
+      "tweet_id": "2117272500380008542",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=large",
+          "local": "2117272500380008542_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=large",
+          "local": "2117272500380008542_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "据《华盛顿邮报》报道，SpaceX 正在洽谈收购 EchoStar 的 Boost Mobile 或利用其网络推出自己的电话服务\n报道称，埃隆上个月亲自会见了 EchoStar 董事长查理·埃尔根 (Charlie Ergen)。\n截至第二季度末，EchoStar 拥有 738 万无线用户，https://t.co/ZS88qY4GPX"
+    },
+    {
+      "text": "Check out the @OlightWorld Marauder 3 🔦\n\n25,000 lumen floodlight ☀️\n1,000 meter spotlight ⚪️\n31,900mAh battery 🔋\n30W bidirectional 🔌\n\nUse code TOSV for 10% off\n\n👉🏼 https://t.co/NSjSTlvqeP https://t.co/zZEyGoWIMi",
+      "link": "https://x.com/teslaownersSV/status/2117261674738508145",
+      "date": "Mon Nov 02 14:24:54 +0000 2026",
+      "tweet_id": "2117261674738508145",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117260461284507648/vid/avc1/3840x2160/SZ4eji50kw-MZ9bH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117260461284507648/img/iGXVVQ3j9uX9BejW.jpg",
+          "local": "2117261674738508145_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117260461284507648/vid/avc1/3840x2160/SZ4eji50kw-MZ9bH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117260461284507648/img/iGXVVQ3j9uX9BejW.jpg",
+          "local": "2117261674738508145_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "看看@OlightWorld Marauder 3 🔦\n\n25,000 流明泛光灯☀️\n1000米聚光灯⚪️\n31,900mAh 电池🔋\n30W双向🔌\n\n使用代码 TOSV 享受 10% 折扣\n\n👉🏼 https://t.co/NSjSTlvqeP https://t.co/zZEyGoWIMi"
+    },
+    {
+      "text": "JUST IN: Tesla Robotaxi launches in Fort Worth, Texas tomorrow at 6 AM\n\nRiders in Fort Worth can hail a Tesla Robotaxi starting Monday morning, per the official @robotaxi account.\n\nOne more Texas city on the map.\n\n@Tesla",
+      "link": "https://x.com/teslaownersSV/status/2117254723443274197",
+      "date": "Mon Nov 02 13:57:17 +0000 2026",
+      "tweet_id": "2117254723443274197",
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Robotaxi available in Fort Worth starting tomorrow, 6am https://t.co/Tlk4y3mIf0",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
+            "local": "2117254723443274197q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
+            "local": "2117254723443274197q_1.jpg"
+          }
+        ],
+        "text_zh": "Robotaxi 从明天早上 6 点开始在沃斯堡提供服务 https://t.co/Tlk4y3mIf0"
+      },
+      "ctx_done": 1,
+      "text_zh": "刚刚：特斯拉 Robotaxi 明天早上 6 点在德克萨斯州沃思堡推出\n\n根据官方 @robotaxi 账户，从周一早上开始，沃斯堡的乘客可以搭乘特斯拉 Robotaxi。\n\n地图上又一座德克萨斯州城市。\n\n@特斯拉"
+    },
+    {
+      "text": "Robotaxi available in Fort Worth starting tomorrow, 6am https://t.co/Tlk4y3mIf0",
+      "link": "https://x.com/robotaxi/status/2117128711761985656",
+      "date": "Mon Nov 02 05:36:33 +0000 2026",
+      "tweet_id": "2117128711761985656",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
+          "local": "2117128711761985656_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
+          "local": "2117128711761985656_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Robotaxi 从明天早上 6 点开始在沃斯堡提供服务 https://t.co/Tlk4y3mIf0"
+    },
     {
       "text": "Elon Musk with his mom Maye: \n\nA mom who believed in him first, and a son who still lights up when she walks in. \n\nElon and Maye, 2021 to 2023 https://t.co/moCAVKb9ut",
       "link": "https://x.com/teslaownersSV/status/2117108950965604625",
@@ -3703,296 +4021,6 @@
       "tweet_id": "2115637799445741632",
       "ctx_done": 1,
       "text_zh": "RT @teslaownersSV：Grok Bot 改变了我的生活。 @bot @elonmusk \n\n我在科技行业工作，经营着最大的业主俱乐部之一，并且有一个家庭……"
-    },
-    {
-      "text": "As the prophecy foretold, Starship 42 will be the first tower catch",
-      "link": "https://x.com/elonmusk/status/2115634093949911506",
-      "date": "Thu Oct 29 02:37:29 +0000 2026",
-      "tweet_id": "2115634093949911506",
-      "quoted": {
-        "user": "SpaceX",
-        "text": "Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475875122569216/img/05QhG1ixlpBhow6m.jpg",
-            "local": "2115634093949911506q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115475945687535617/img/iL0aHe_7d4gDHl_s.jpg",
-            "local": "2115634093949911506q_1.jpg"
-          }
-        ],
-        "text_zh": "42艘船静态点火完成。为 15 号航班做准备的星舰进行了全程六引擎静态点火，并点燃了一台猛禽发动机来模拟脱轨燃烧"
-      },
-      "ctx_done": 1,
-      "text_zh": "正如预言所预言的，Starship 42 将成为第一个塔式捕获物"
-    },
-    {
-      "text": "RT @teslaownersSV: Grok Bot changed my life. @bot @elonmusk \n\nI work in tech, run one of the largest owners' clubs around, and have a famil…",
-      "link": "https://x.com/teslaownersSV/status/2115627418660774335",
-      "date": "Thu Oct 29 02:10:57 +0000 2026",
-      "tweet_id": "2115627418660774335",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：Grok Bot 改变了我的生活。 @bot @elonmusk \n\n我在科技行业工作，经营着最大的业主俱乐部之一，并且有一个家庭……"
-    },
-    {
-      "text": "RT @cybrgalaxy: Here are 10 highlights from Tesla Tearoom Episode 16 with John Stringer of XTakeover and @teslaownersSV The episode runs ab…",
-      "link": "https://x.com/teslaownersSV/status/2115615217032085534",
-      "date": "Thu Oct 29 01:22:28 +0000 2026",
-      "tweet_id": "2115615217032085534",
-      "quoted": {
-        "user": "cybrgalaxy",
-        "text": "https://x.com/i/spaces/1jGXgBVPBZLKZ",
-        "text_zh": "https://x.com/i/spaces/1jGXgBVPBZLKZ"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @cybrgalaxy：以下是特斯拉茶室第 16 集的 10 个亮点，由 XTakeover 的 John Stringer 和 @teslaownersSV 播出。"
-    },
-    {
-      "text": "Here are 10 highlights from Tesla Tearoom Episode 16 with John Stringer of XTakeover and @teslaownersSV The episode runs about 1 hour 40 minutes.\n\n0:04:57 John got his first Tesla, a Model 3, in 2018. His wife Evelyn did the research, and getting into the carpool lane was part of",
-      "link": "https://x.com/cybrgalaxy/status/2115615018402058670",
-      "date": "Thu Oct 29 01:21:41 +0000 2026",
-      "tweet_id": "2115615018402058670",
-      "quoted": {
-        "user": "cybrgalaxy",
-        "text": "https://x.com/i/spaces/1jGXgBVPBZLKZ",
-        "text_zh": "https://x.com/i/spaces/1jGXgBVPBZLKZ"
-      },
-      "ctx_done": 1,
-      "text_zh": "以下是来自 XTakeover 的 John Stringer 和 @teslaownersSV 的特斯拉茶室第 16 集的 10 个亮点。该集时长约 1 小时 40 分钟。\n\n0:04:57 约翰在 2018 年买了他的第一辆特斯拉，一辆 Model 3。他的妻子伊芙琳做了研究，进入拼车车道是他的一部分"
-    },
-    {
-      "text": "RT @teslaownersSV: Grok Bot changed my life. @bot @elonmusk \n\nI work in tech, run one of the largest owners' clubs around, and have a famil…",
-      "link": "https://x.com/teslaownersSV/status/2115600051758358967",
-      "date": "Thu Oct 29 00:22:12 +0000 2026",
-      "tweet_id": "2115600051758358967",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：Grok Bot 改变了我的生活。 @bot @elonmusk \n\n我在科技行业工作，经营着最大的业主俱乐部之一，并且有一个家庭……"
-    },
-    {
-      "text": "Grok Bot changed my life. @bot @elonmusk \n\nI work in tech, run one of the largest owners' clubs around, and have a family. Something always got dropped.\n\nNow I have a team working around the clock, and none of them are people. 🤖\n\nIt cuts my clips, makes my graphics, handles https://t.co/P4oAHrDKyz",
-      "link": "https://x.com/teslaownersSV/status/2115590491094081598",
-      "date": "Wed Oct 28 23:44:13 +0000 2026",
-      "tweet_id": "2115590491094081598",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115590277637529600/vid/avc1/1080x1920/jCwbJK9Qi6t1Jc45.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115590277637529600/img/i8RGtLeQ-IV4rAmB.jpg",
-          "local": "2115590491094081598_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115590277637529600/vid/avc1/1080x1920/jCwbJK9Qi6t1Jc45.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115590277637529600/img/i8RGtLeQ-IV4rAmB.jpg",
-          "local": "2115590491094081598_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 改变了我的生活。 @bot @elonmusk \n\n我在科技行业工作，经营着最大的车主俱乐部之一，并且有一个家庭。总是有东西掉下来。\n\n现在我有一个团队昼夜不停地工作，而且他们都不是人。 🤖\n\n它剪切我的剪辑，制作我的图形，处理 https://t.co/P4oAHrDKyz"
-    },
-    {
-      "text": "RT @teslaownersSV: Prediction markets = global emotional thermometer.\n\nCurrent reading: People trust Elon Musk is the best CEO for Tesla 🌡️…",
-      "link": "https://x.com/teslaownersSV/status/2115573482364805261",
-      "date": "Wed Oct 28 22:36:38 +0000 2026",
-      "tweet_id": "2115573482364805261",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：预测市场=全球情绪温度计。\n\n当前阅读：人们相信埃隆·马斯克是特斯拉最好的首席执行官🌡️……"
-    },
-    {
-      "text": "Thanks for the shout out @SERobinsonJr \n\nIt’s so important to support other creators. You never know how the connections will help you out down the road. \n\nI grow, we all grow.",
-      "link": "https://x.com/teslaownersSV/status/2115569269606068573",
-      "date": "Wed Oct 28 22:19:53 +0000 2026",
-      "tweet_id": "2115569269606068573",
-      "quoted": {
-        "user": "ALScyborg",
-        "text": "New Future Link Interview 🎙️ with @serobinsonjr, the man behind @elonchron, his daily no-spin chronicle of Tesla, SpaceX, Neuralink, Starlink, X, The Boring Company and xAI.\n\nWe talk about:\n🛒 How years in retail management trained him to dig through the BS\n🚀 Why SpaceX is the https://t.co/EvL1t1OwUH",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115497462035353600/vid/avc1/1920x1080/4VwALLufi1c1J7SI.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115497462035353600/img/I6utQzctfFrLxwpZ.jpg",
-            "local": "2115569269606068573q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115497462035353600/vid/avc1/1920x1080/4VwALLufi1c1J7SI.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115497462035353600/img/I6utQzctfFrLxwpZ.jpg",
-            "local": "2115569269606068573q_1.jpg"
-          }
-        ],
-        "text_zh": "New Future Link 采访 @serobinsonjr，他是 @elonchron 的幕后黑手，他每日记录特斯拉、SpaceX、Neuralink、Starlink、X、The Boring Company 和 xAI。\n\n我们谈论：\n🛒 多年的零售管理经验是如何训练他挖掘BS的\n🚀 为什么 SpaceX 是 https://t.co/EvL1t1OwUH"
-      },
-      "ctx_done": 1,
-      "text_zh": "感谢您的大声喊叫@SERobinsonJr \n\n支持其他创作者非常重要。你永远不知道这些联系将如何帮助你走出困境。 \n\n我成长，我们都成长。"
-    },
-    {
-      "text": "\"I mean, that thing looks like it came from the future... If you're a truck driver and you want the most badass rig on the road, this is it.\"\nElon Musk at the Tesla Semi Delivery Event, Dec 2022\nFour years later, the Semi is still the future of trucking. https://t.co/ibDBQzStNN",
-      "link": "https://x.com/teslaownersSV/status/2115563387057000885",
-      "date": "Wed Oct 28 21:56:31 +0000 2026",
-      "tweet_id": "2115563387057000885",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115563274817384448/vid/avc1/1920x1080/O-XhgbeGNcU06tnu.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115563274817384448/img/nKxYDiSvseZO0lZs.jpg",
-          "local": "2115563387057000885_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115563274817384448/vid/avc1/1920x1080/O-XhgbeGNcU06tnu.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115563274817384448/img/nKxYDiSvseZO0lZs.jpg",
-          "local": "2115563387057000885_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“我的意思是，那东西看起来像是来自未来......如果你是一名卡车司机并且你想要路上最糟糕的装备，那就是它。”\n埃隆·马斯克 (Elon Musk) 出席 Tesla Semi 交付活动，2022 年 12 月\n四年后，半挂车仍然是卡车运输的未来。 https://t.co/ibDBQzStNN"
-    },
-    {
-      "text": "JUST IN\n\nNeuralink just shared its first speech restoration results for people with ALS.\nIn their first week, one participant hit 75 words per minute at a 5.8% word error rate, on a 125,000-word vocabulary. \n\nThat is speech to text and voice at a conversational pace, straight https://t.co/hVUr0zLOhv",
-      "link": "https://x.com/teslaownersSV/status/2115561656868819297",
-      "date": "Wed Oct 28 21:49:38 +0000 2026",
-      "tweet_id": "2115561656868819297",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVv8HWYboAAYNCL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVv8HWYboAAYNCL.jpg?format=jpg&name=large",
-          "local": "2115561656868819297_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVv8HWYboAAYNCL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVv8HWYboAAYNCL.jpg?format=jpg&name=large",
-          "local": "2115561656868819297_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "neuralink",
-        "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
-        "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
-      },
-      "ctx_done": 1,
-      "text_zh": "刚到\n\nNeuralink 刚刚分享了其针对 ALS 患者的第一个言语恢复结果。\n在第一周，一名参与者在 125,000 个单词的词汇量上每分钟达到 75 个单词，单词错误率为 5.8%。 \n\n这是以对话速度进行的语音到文本和语音的转换，直接 https://t.co/hVUr0zLOhv"
-    },
-    {
-      "text": "Both @Grok bot and @ChatGPT dot were given $10,000 each to trade.\n\nCurrently Grok bot is number one, and ChatGPT dot is last in the trading arena \n\nLook who is smarter 😂 https://t.co/09Kl7BLkk3",
-      "link": "https://x.com/teslaownersSV/status/2115548686315147493",
-      "date": "Wed Oct 28 20:58:06 +0000 2026",
-      "tweet_id": "2115548686315147493",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvwUZsbUAEBJLY.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvwUZsbUAEBJLY.jpg?format=jpg&name=large",
-          "local": "2115548686315147493_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVvwUZsbUAEBJLY.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVvwUZsbUAEBJLY.jpg?format=jpg&name=large",
-          "local": "2115548686315147493_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "spcxbot",
-        "text": "the first agentic trading arena is now live.\n\nbot and dot are already in. bring your own bot. only 20 slots. beep boop\n\nhttps://t.co/RfxyyJ9K3m https://t.co/zsyhSh8c6l",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2114809224740179968/vid/avc1/1920x1080/70kym24iRuEzswyM.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114809224740179968/img/ecCTxNry_8WC62xA.jpg",
-            "local": "2115548686315147493q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2114809224740179968/vid/avc1/1920x1080/70kym24iRuEzswyM.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114809224740179968/img/ecCTxNry_8WC62xA.jpg",
-            "local": "2115548686315147493q_1.jpg"
-          }
-        ],
-        "text_zh": "第一个代理交易平台现已上线。\n\nbot 和 dot 已经加入。带上你自己的 bot。只有20个槽位。嘟嘟声\n\nhttps://t.co/RfxyyJ9K3m https://t.co/zsyhSh8c6l"
-      },
-      "ctx_done": 1,
-      "text_zh": "@Grok bot 和 @ChatGPT dot 均获得 10,000 美元的交易奖励。\n\n目前，Grok bot 在交易领域排名第一，而 ChatGPT dot 排名垫底 \n\n看看谁更聪明😂 https://t.co/09Kl7BLkk3"
-    },
-    {
-      "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
-      "link": "https://x.com/neuralink/status/2115534593147187397",
-      "date": "Wed Oct 28 20:02:06 +0000 2026",
-      "tweet_id": "2115534593147187397",
-      "ctx_done": 1,
-      "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
-    },
-    {
-      "text": "Even Russia's president says it.\n\nSpeaking at the Russia–Africa forum in Moscow today, Vladimir Putin called Elon Musk \"a genius, truly a genius.\"\n\nHis reason: SpaceX has more than 5,000 satellites in orbit, while Russia is \"only taking the first steps.\"\n\nBuilding it is what https://t.co/op4kZCxYYU",
-      "link": "https://x.com/teslaownersSV/status/2115528603693887733",
-      "date": "Wed Oct 28 19:38:18 +0000 2026",
-      "tweet_id": "2115528603693887733",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115528548400459776/vid/avc1/1080x604/qc1UIJebqzr4CC6k.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115528548400459776/img/0kVgA_NrQiFjp7jk.jpg",
-          "local": "2115528603693887733_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115528548400459776/vid/avc1/1080x604/qc1UIJebqzr4CC6k.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115528548400459776/img/0kVgA_NrQiFjp7jk.jpg",
-          "local": "2115528603693887733_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "就连俄罗斯总统也这么说。\n\n今天在莫斯科举行的俄罗斯-非洲论坛上发表讲话时，弗拉基米尔·普京称埃隆·马斯克是“天才，真正的天才”。\n\n他的理由是：SpaceX 在轨道上拥有 5000 多颗卫星，而俄罗斯“只是迈出了第一步”。\n\n构建它就是 https://t.co/op4kZCxYYU"
-    },
-    {
-      "text": "Tesla Robotaxi's Houston service area just grew to 254 square miles, about 10x bigger.\nAll of it fully unsupervised. No one in the driver's seat.\n\n\"Regarding Robotaxi, we're seeing the... fully autonomous miles driven scale exponentially, meaning scaling very rapidly. And it https://t.co/QnoJpthwqK",
-      "link": "https://x.com/teslaownersSV/status/2115524714433261614",
-      "date": "Wed Oct 28 19:22:51 +0000 2026",
-      "tweet_id": "2115524714433261614",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115524664114216960/vid/avc1/1920x1080/YoSLlkTtxBz0CqbH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524664114216960/img/IuzDuAVh04wL5cle.jpg",
-          "local": "2115524714433261614_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115524664114216960/vid/avc1/1920x1080/YoSLlkTtxBz0CqbH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524664114216960/img/IuzDuAVh04wL5cle.jpg",
-          "local": "2115524714433261614_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Tesla Robotaxi 的休斯顿服务区域刚刚扩大到 254 平方英里，大约扩大了 10 倍。\n所有这一切都完全无人监督。驾驶座上没有人。\n\n“关于 Robotaxi，我们看到......完全自动行驶的里程呈指数级增长，这意味着规模非常迅速。它 https://t.co/QnoJpthwqK"
-    },
-    {
-      "text": "Elon Musk on why autonomy changes the math of a car.\n\n\"A typical passenger car is about 10 hours of use a week. But if it's autonomous, it could be used 100 hours a week.\"\n\nA car that drives itself can keep working while you sleep, while you're at work, while you're on vacation. https://t.co/HPJjz8GqQz",
-      "link": "https://x.com/teslaownersSV/status/2115524278984810868",
-      "date": "Wed Oct 28 19:21:07 +0000 2026",
-      "tweet_id": "2115524278984810868",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115524245635895296/vid/avc1/1920x1080/kZg1Ee5Gm6o6b4Sw.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524245635895296/img/EpCbCAtoLLfSiTX0.jpg",
-          "local": "2115524278984810868_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115524245635895296/vid/avc1/1920x1080/kZg1Ee5Gm6o6b4Sw.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115524245635895296/img/EpCbCAtoLLfSiTX0.jpg",
-          "local": "2115524278984810868_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 阐述自动驾驶为何改变汽车的数学原理。\n\n“一辆典型的乘用车每周大约使用 10 小时。但如果它是自动驾驶的，则每周可以使用 100 小时。”\n\n自动驾驶汽车可以在您睡觉、工作或度假时继续工作。 https://t.co/HPJjz8GqQz"
     }
   ]
 }
