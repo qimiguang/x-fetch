@@ -1,8 +1,274 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-03T16:58:49Z",
+  "updated_at": "2026-11-03T23:06:36Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Cybercab in Fremont https://t.co/2F6SZcDcep",
+      "link": "https://x.com/teslaownersSV/status/2117751430010572870",
+      "date": "Tue Nov 03 22:51:01 +0000 2026",
+      "tweet_id": "2117751430010572870",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117751267032461313/vid/avc1/2160x3840/b83OKthsAZzzXKew.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117751267032461313/img/_r7OZFXmCFY5JGjc.jpg",
+          "local": "2117751430010572870_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117751267032461313/vid/avc1/2160x3840/b83OKthsAZzzXKew.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117751267032461313/img/_r7OZFXmCFY5JGjc.jpg",
+          "local": "2117751430010572870_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "弗里蒙特的 Cyber​​cab https://t.co/2F6SZcDcep"
+    },
+    {
+      "text": "Cybercab is everywhere https://t.co/qlvhAdaVzx",
+      "link": "https://x.com/teslaownersSV/status/2117751265015087440",
+      "date": "Tue Nov 03 22:50:22 +0000 2026",
+      "tweet_id": "2117751265015087440",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117751190150889472/vid/avc1/720x1280/S-5hPMsWDU6rnW4u.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117751190150889472/img/-BWB7ANdJ6IbdSaT.jpg",
+          "local": "2117751265015087440_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117751190150889472/vid/avc1/720x1280/S-5hPMsWDU6rnW4u.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117751190150889472/img/-BWB7ANdJ6IbdSaT.jpg",
+          "local": "2117751265015087440_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Cyber​​cab 无处不在 https://t.co/qlvhAdaVzx"
+    },
+    {
+      "text": "Elon Musk on why most people wouldn't really want to be him: \"my mind is a storm.\"\n\n\"My mind is a storm and I don't think most people would want to be me. They may think they would want to be me, but they don't. They don't know, they don't understand.\"\n\nThen look at what that https://t.co/Hh4JEIwAJn",
+      "link": "https://x.com/teslaownersSV/status/2117737390873928078",
+      "date": "Tue Nov 03 21:55:14 +0000 2026",
+      "tweet_id": "2117737390873928078",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117737312004304896/vid/avc1/1920x1080/3oBQoEGcRJNJGu46.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117737312004304896/img/35xsGm7xILNYH3YA.jpg",
+          "local": "2117737390873928078_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117737312004304896/vid/avc1/1920x1080/3oBQoEGcRJNJGu46.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117737312004304896/img/35xsGm7xILNYH3YA.jpg",
+          "local": "2117737390873928078_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈到为什么大多数人并不想成为他：“我的头脑就像一场风暴。”\n\n“我的思想是一场风暴，我认为大多数人都不想成为我。他们可能认为他们想成为我，但他们没有。他们不知道，他们不明白。”\n\n然后看看是什么 https://t.co/Hh4JEIwAJn"
+    },
+    {
+      "text": "Post a photo of your Tesla. \n\nHere’s mine at @UPTeslaFremont https://t.co/pFNiIkodtg",
+      "link": "https://x.com/teslaownersSV/status/2117730251619119491",
+      "date": "Tue Nov 03 21:26:52 +0000 2026",
+      "tweet_id": "2117730251619119491",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=large",
+          "local": "2117730251619119491_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=large",
+          "local": "2117730251619119491_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "发布您的特斯拉照片。 \n\n这是我的 @UPTeslaFremont https://t.co/pFNiIkodtg"
+    },
+    {
+      "text": "Elon on why Tesla built the new Roadster, a \"hardcore smackdown\" for gasoline cars:\n\n\"People have asked us for a long time, when are you going to make a new Roadster? We are making it now... The point of doing this is to just give a hardcore smackdown to gasoline cars. Driving a https://t.co/eeK3Bc1pLn",
+      "link": "https://x.com/teslaownersSV/status/2117729802853753273",
+      "date": "Tue Nov 03 21:25:05 +0000 2026",
+      "tweet_id": "2117729802853753273",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117729765528612864/vid/avc1/1920x1080/xEFpoFWvbc8U5LA5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117729765528612864/img/jt8lLiM6I8JekXmD.jpg",
+          "local": "2117729802853753273_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117729765528612864/vid/avc1/1920x1080/xEFpoFWvbc8U5LA5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117729765528612864/img/jt8lLiM6I8JekXmD.jpg",
+          "local": "2117729802853753273_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon 谈及特斯拉为何打造新款 Roadster，这是对汽油车的“硬核打击”：\n\n“长期以来，人们一直在问我们，你们打算什么时候制造一辆新的 Roadster？我们现在就在制造……这样做的目的是为了给汽油车带来一次硬核打击。驾驶 https://t.co/eeK3Bc1pLn"
+    },
+    {
+      "text": "0-60 mph in 0.81 seconds. Cold gas thrusters on a road car. \n\nTesla said it best: \"From Roadster in a rocket. To rocket in a Roadster.\" @Tesla https://t.co/G3B6YmYrcy",
+      "link": "https://x.com/teslaownersSV/status/2117723091422101823",
+      "date": "Tue Nov 03 20:58:25 +0000 2026",
+      "tweet_id": "2117723091422101823",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117723034639560704/vid/avc1/1080x1350/Dia5zyy_fSFKETr7.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117723034639560704/img/Qm_Q_KXF4Ykpgc0m.jpg",
+          "local": "2117723091422101823_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117723034639560704/vid/avc1/1080x1350/Dia5zyy_fSFKETr7.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117723034639560704/img/Qm_Q_KXF4Ykpgc0m.jpg",
+          "local": "2117723091422101823_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "0-60 英里/小时加速只需 0.81 秒。公路车上的冷气体推进器。 \n\n特斯拉说得最好：“从火箭中的跑车。到跑车中的火箭。” @特斯拉 https://t.co/G3B6YmYrcy"
+    },
+    {
+      "text": "Elon on what changes the world more in 10 years, Full Self-Driving or Optimus:\n\nWe asked him at our 2025 𝕏 Takeover. His answer was one word: \"Optimus.\"\n\n\"Say somebody needs a lot of medical care... like a 24 hour a day nurse or helper. So that's the kind of thing which would be https://t.co/ATASK44MYn",
+      "link": "https://x.com/teslaownersSV/status/2117715584871968973",
+      "date": "Tue Nov 03 20:28:35 +0000 2026",
+      "tweet_id": "2117715584871968973",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117715505889132544/vid/avc1/1920x1080/ReMLA9Z_UVBxGJP_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117715505889132544/img/nI_YCR4TTh9iJB5F.jpg",
+          "local": "2117715584871968973_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117715505889132544/vid/avc1/1920x1080/ReMLA9Z_UVBxGJP_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117715505889132544/img/nI_YCR4TTh9iJB5F.jpg",
+          "local": "2117715584871968973_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon 谈 10 年后什么会改变世界，全自动驾驶还是擎天柱：\n\n我们在 2025 年𝕏 接管时询问了他。他的回答只有一个字：“擎天柱”。\n\n“假设有人需要大量的医疗护理......比如一天 24 小时的护士或助手。所以这就是 https://t.co/ATASK44MYn"
+    },
+    {
+      "text": "Mark Cuban on Elon being the best entrepreneur of our lifetimes:\n\n\"THE BEST ENTREPRENEUR OF OUR LIFETIMES FOR SURE.\"\n\n\"Elon's amazing. He's a brilliant entrepreneur, don't get me wrong.\"\n\n\"He's the best entrepreneur of our lifetimes for sure, but he's a sales guy.\"\n\n\"He has to https://t.co/0oURk9wC2L",
+      "link": "https://x.com/teslaownersSV/status/2117703243635843502",
+      "date": "Tue Nov 03 19:39:32 +0000 2026",
+      "tweet_id": "2117703243635843502",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117703205463457792/vid/avc1/1080x1920/YKOa_IImT8hBpZsS.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117703205463457792/img/ms9Juo252o1lxJHy.jpg",
+          "local": "2117703243635843502_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117703205463457792/vid/avc1/1080x1920/YKOa_IImT8hBpZsS.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117703205463457792/img/ms9Juo252o1lxJHy.jpg",
+          "local": "2117703243635843502_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "马克·库班 (Mark Cuban) 评价埃隆是我们一生中最好的企业家：\n\n“肯定是我们一生中最好的企业家。”\n\n“埃隆太棒了。他是一位出色的企业家，请不要误会我的意思。”\n\n“他无疑是我们一生中最好的企业家，但他是一名销售人员。”\n\n“他必须 https://t.co/0oURk9wC2L"
+    },
+    {
+      "text": "📹 ⬇️\n\nVideo shot with @insta360 Luna Pro and X6\n\nOrder Luna Pro: https://t.co/iFsz9ium5N\n\nOrder X6: https://t.co/2KbIJdEFiR",
+      "link": "https://x.com/teslaownersSV/status/2117695804022628367",
+      "date": "Tue Nov 03 19:09:59 +0000 2026",
+      "tweet_id": "2117695804022628367",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "📹⬇️\n\n使用 @insta360 Luna Pro 和 X6 拍摄的视频\n\n订购 Luna Pro：https://t.co/iFsz9ium5N\n\n订单 X6：https://t.co/2KbIJdEFiR"
+    },
+    {
+      "text": "RT @teslaownersSV: No steering wheel. No side mirrors. No highways yet. I rode the Tesla Cybercab across Austin, start to finish.\n\nFull rid…",
+      "link": "https://x.com/teslaownersSV/status/2117695231336312962",
+      "date": "Tue Nov 03 19:07:42 +0000 2026",
+      "tweet_id": "2117695231336312962",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：没有方向盘。没有后视镜。还没有高速公路。我乘坐特斯拉 Cyber​​cab 从头到尾穿越奥斯汀。\n\n全面摆脱…"
+    },
+    {
+      "text": "RT @elonmusk: Vote red today!",
+      "link": "https://x.com/teslaownersSV/status/2117692311056605522",
+      "date": "Tue Nov 03 18:56:06 +0000 2026",
+      "tweet_id": "2117692311056605522",
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：今天投票红色！"
+    },
+    {
+      "text": "Don't @ me. Yes I’m playing @MariahCarey on Nov 3 drinking Diet Coke with Self Driving in my Cybertruck. https://t.co/JA9CnHwCYf",
+      "link": "https://x.com/teslaownersSV/status/2117692184195735801",
+      "date": "Tue Nov 03 18:55:36 +0000 2026",
+      "tweet_id": "2117692184195735801",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117692094978625536/vid/avc1/1392x1856/KZP0M1X0_97BUJvT.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117692094978625536/img/5i7Bs0p4YhWEH3wM.jpg",
+          "local": "2117692184195735801_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117692094978625536/vid/avc1/1392x1856/KZP0M1X0_97BUJvT.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117692094978625536/img/5i7Bs0p4YhWEH3wM.jpg",
+          "local": "2117692184195735801_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "别@我。是的，我在 11 月 3 日玩@MariahCarey，喝着健怡可乐，并在我的 Cyber​​truck 中进行自动驾驶。 https://t.co/JA9CnHwCYf"
+    },
+    {
+      "text": "Elon Musk on \"throw away the car,\" his way of explaining why reusable rockets matter:\n\n\"No other organization is even trying to do this.\"\n\n\"Even after all these years, there's still no company that's reusing a booster.\"\n\n\"If every time you drove somewhere, you had to throw away https://t.co/GkrVzfjQME",
+      "link": "https://x.com/teslaownersSV/status/2117677837809594579",
+      "date": "Tue Nov 03 17:58:35 +0000 2026",
+      "tweet_id": "2117677837809594579",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117677718892642304/vid/avc1/1920x1080/bCS-4bFiHojn-lhX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117677718892642304/img/lD79IwInneyX8399.jpg",
+          "local": "2117677837809594579_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117677718892642304/vid/avc1/1920x1080/bCS-4bFiHojn-lhX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117677718892642304/img/lD79IwInneyX8399.jpg",
+          "local": "2117677837809594579_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克（Elon Musk）在“扔掉汽车”中解释了为什么可重复使用的火箭很重要：\n\n“甚至没有其他组织试图这样做。”\n\n“即使这么多年过去了，仍然没有公司重复使用助推器。”\n\n“如果每次你开车去某个地方，你都必须扔掉 https://t.co/GkrVzfjQME"
+    },
+    {
+      "text": "RT @teslaownersSV: This morning I voted in San Jose. No ID. No lines. Very quick.\n\nGo out and vote like your life depended on it. https://t…",
+      "link": "https://x.com/teslaownersSV/status/2117663520628334938",
+      "date": "Tue Nov 03 17:01:42 +0000 2026",
+      "tweet_id": "2117663520628334938",
+      "quoted": {
+        "user": "mayemusk",
+        "text": "This morning I voted in NYC. No ID. No lines. Very quick.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HVfu9fTXcAAxHZs.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HVfu9fTXcAAxHZs.jpg?name=orig",
+            "local": "2117663520628334938q_0.jpg"
+          }
+        ],
+        "text_zh": "今天早上我在纽约投票。没有身份证。没有线路。非常快。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：今天早上我在圣何塞投票。没有身份证。没有线路。非常快。\n\n出去投票，就像你的生命依赖于此一样。 https://t..."
+    },
     {
       "text": "Elon Musk on why space is the easier place to cool AI compute:\n\n\"Much easier to cool in space.\"\n\nHis math: an aluminum radiator pointed away from the Sun can shed about 1,300 W/m², because it mostly sees cosmic background radiation at about 3 degrees above absolute zero. Solar https://t.co/zJ3ljNI4Mf",
       "link": "https://x.com/teslaownersSV/status/2117661879896248401",
@@ -206,6 +472,14 @@
       },
       "ctx_done": 1,
       "text_zh": "RT @JoshWest247：毫无疑问，@theXtakeover 2026 的规模是 GIGA！ 🚀🚀🚀"
+    },
+    {
+      "text": "Vote red today!",
+      "link": "https://x.com/elonmusk/status/2117626744668905487",
+      "date": "Tue Nov 03 14:35:34 +0000 2026",
+      "tweet_id": "2117626744668905487",
+      "ctx_done": 1,
+      "text_zh": "今天投红色一票！"
     },
     {
       "text": "No steering wheel. No side mirrors. No highways yet. I rode the Tesla Cybercab across Austin, start to finish.\n\nFull ride in the Tesla Cybercab through Austin: check in from the app, the cabin walkthrough, voice controls with Grok, editing the destination mid ride, the geofence, https://t.co/ysmsXUeTP6",
@@ -3860,257 +4134,6 @@
       },
       "ctx_done": 1,
       "text_zh": "它是如何开始的与它是如何进行的。\n\nNeuralink 刚刚与一位语言恢复患者进行了一场 72 小时的黑客马拉松。 \n\n他们构建了语音检测、只需思考“Hey Neuralink”即可触发的 Grok 代理，以及直接进入 iPhone 通话的 BCI 语音。\n来自打乒乓球的猴子 https://t.co/PseExK5sCv"
-    },
-    {
-      "text": "Our engineers recently visited one of our speech restoration study participants for a 72-hour hackathon.\n\nThe goal: rapidly prototype as many features as possible to enhance the experience of using Neuralink to communicate with thought.\n\nHere are some of the things we built 🧵 https://t.co/Lk0UyRHitQ",
-      "link": "https://x.com/neuralink/status/2115878416423784939",
-      "date": "Thu Oct 29 18:48:20 +0000 2026",
-      "tweet_id": "2115878416423784939",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115873705230249984/vid/avc1/3840x2160/F5jJ_6Rrw9t-ELbC.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115873705230249984/img/j4i_jTzHSBgx8AS9.jpg",
-          "local": "2115878416423784939_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115873705230249984/vid/avc1/3840x2160/F5jJ_6Rrw9t-ELbC.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115873705230249984/img/j4i_jTzHSBgx8AS9.jpg",
-          "local": "2115878416423784939_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我们的工程师最近拜访了一位言语恢复研究参与者，参加了一场 72 小时的黑客马拉松。\n\n目标：快速原型化尽可能多的功能，以增强使用 Neuralink 进行思想交流的体验。\n\n以下是我们构建的一些内容 🧵 https://t.co/Lk0UyRHitQ"
-    },
-    {
-      "text": "Brad can't move or speak, and he still put together a better weekly Elon recap than most news outlets.\n\nStarship, Robotaxi, Neuralink, Starlink Mobile, X Money. All in one video.\nThis is what Neuralink makes possible. \n\nFollow @ALScyborg.",
-      "link": "https://x.com/teslaownersSV/status/2115874839588475338",
-      "date": "Thu Oct 29 18:34:07 +0000 2026",
-      "tweet_id": "2115874839588475338",
-      "quoted": {
-        "user": "ALScyborg",
-        "text": "Elon on X, this week 🚀 My ranked top 8 @elonmusk posts:\n1️⃣ 🛰️ Starlink, Ukraine &amp; a ceasefire\n2️⃣ 🚀 \"Starship 42 will be the first tower catch\"\n3️⃣ 💰 @SpaceX's $40B for GPUs\n4️⃣ 🤖 Grok Bot as your \"chief of staff\"\n5️⃣ 🚕 @robotaxi's rocket-shaped Houston map &amp; FSD in Europe\n6️⃣ 🗣️ https://t.co/LtTepfufs3",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115835112336265216/vid/avc1/1280x720/PvPrUzJglWrPyjGJ.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115835112336265216/img/j3seM-yloiggCc0-.jpg",
-            "local": "2115874839588475338q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115835112336265216/vid/avc1/1280x720/PvPrUzJglWrPyjGJ.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115835112336265216/img/j3seM-yloiggCc0-.jpg",
-            "local": "2115874839588475338q_1.jpg"
-          }
-        ],
-        "text_zh": "Elon 在 X 上，本周 🚀 我排名前 8 的 @elonmusk 帖子：\n1️⃣ 🛰️ 星链、乌克兰和停火\n2️⃣ 🚀“Starship 42 将是第一个塔捕获”\n3️⃣💰@SpaceX 的 GPU 40B 美元\n4️⃣ 🤖 Grok Bot 作为你的“参谋长”\n5️⃣ 🚕@robotaxi 的火箭形状的休斯顿地图和欧洲的 FSD\n6️⃣🗣️ https://t.co/LtTepfufs3"
-      },
-      "ctx_done": 1,
-      "text_zh": "布拉德无法移动或说话，但他仍然比大多数新闻媒体更好地整理了埃隆的每周回顾。\n\nStarship、Robotaxi、Neuralink、Starlink Mobile、X Money。全部在一个视频中。\n这就是 Neuralink 所实现的。 \n\n关注@ALScyborg。"
-    },
-    {
-      "text": "RT @JoshWest247: Them: “what’s your opinion on the Tesla Cybercab?”\n\nUs: https://t.co/CgcJ3gtseY",
-      "link": "https://x.com/teslaownersSV/status/2115874525577646135",
-      "date": "Thu Oct 29 18:32:52 +0000 2026",
-      "tweet_id": "2115874525577646135",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVzoxmEXUAAyFsu.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVzoxmEXUAAyFsu.jpg?format=jpg&name=large",
-          "local": "2115874525577646135_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HVzoxmEXUAAyFsu.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HVzoxmEXUAAyFsu.jpg?format=jpg&name=large",
-          "local": "2115874525577646135_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "RT @JoshWest247：他们：“你对特斯拉 Cyber​​cab 有什么看法？”\n\n我们：https://t.co/CgcJ3gtseY"
-    },
-    {
-      "text": "The placard next to the new Tesla Roadster. Raw, filmed in person at the Petersen Automotive Museum. https://t.co/ofSY9GKijy",
-      "link": "https://x.com/teslaownersSV/status/2115873876466876674",
-      "date": "Thu Oct 29 18:30:17 +0000 2026",
-      "tweet_id": "2115873876466876674",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2115873858318159872/pu/vid/avc1/720x1280/YYIOQgPAdFvU9LNy.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2115873858318159872/pu/img/_0c1uwVfY3IuvQS-.jpg",
-          "local": "2115873876466876674_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2115873858318159872/pu/vid/avc1/720x1280/YYIOQgPAdFvU9LNy.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2115873858318159872/pu/img/_0c1uwVfY3IuvQS-.jpg",
-          "local": "2115873876466876674_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新款特斯拉 Roadster 旁边的标语牌。原始，在彼得森汽车博物馆亲自拍摄。 https://t.co/ofSY9GKijy"
-    },
-    {
-      "text": "Gavin Baker on @elonmusk giving every American kid a SpaceX share:\n\n\"WAY BETTER FOR AMERICA.\"\n\n\"Every child in America is gonna have a share of SpaceX. That's awesome.\"\n\n\"I think that's way better for America than setting up some foundation.\"\n\nOn Oct 19, Elon pledged one of his https://t.co/Z5XNSYIDzZ",
-      "link": "https://x.com/teslaownersSV/status/2115869437517824023",
-      "date": "Thu Oct 29 18:12:39 +0000 2026",
-      "tweet_id": "2115869437517824023",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115869384938082304/vid/avc1/1080x1920/x_9ZXquC9_wQ982L.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115869384938082304/img/7sAwf1aQxE1e1zrf.jpg",
-          "local": "2115869437517824023_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115869384938082304/vid/avc1/1080x1920/x_9ZXquC9_wQ982L.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115869384938082304/img/7sAwf1aQxE1e1zrf.jpg",
-          "local": "2115869437517824023_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "加文·贝克 (Gavin Baker) 在 @elonmusk 上为每个美国孩子提供 SpaceX 股份：\n\n“对美国来说更好。”\n\n“美国的每个孩子都会分享 SpaceX 的股份。这太棒了。”\n\n“我认为这对美国来说比建立一些基金会要好得多。”\n\n10 月 19 日，埃隆向美国的每个孩子（约 7200 万孩子）和约 105 亿美元的股票承诺了一份他自己的 SpaceX 股票。 Atreides Management 的负责人 Baker 于 10 月 27 日在 TBPN 直播中说道。\n\n每个孩子都是主人。\n\n视频"
-    },
-    {
-      "text": "The side of the new Tesla Roadster and the people reacting to it. Raw, filmed in person at the Petersen Automotive Museum. https://t.co/15QmLmAKhY",
-      "link": "https://x.com/teslaownersSV/status/2115858873559007302",
-      "date": "Thu Oct 29 17:30:40 +0000 2026",
-      "tweet_id": "2115858873559007302",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2115858854244134912/pu/vid/avc1/720x1280/StXd8anCzoey9Jbd.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2115858854244134912/pu/img/nOZ7n4I95F0unkhN.jpg",
-          "local": "2115858873559007302_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2115858854244134912/pu/vid/avc1/720x1280/StXd8anCzoey9Jbd.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2115858854244134912/pu/img/nOZ7n4I95F0unkhN.jpg",
-          "local": "2115858873559007302_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新款特斯拉 Roadster 的侧面以及人们对它的反应。原始，在彼得森汽车博物馆亲自拍摄。\n\n视频"
-    },
-    {
-      "text": "X is rolling out the 𝕏 Card, a Visa debit card offering up to 3% cashback.\n\n•⁠  ⁠No annual fee on eligible everyday spending.\n•⁠  ⁠Premium metallic design featuring the iconic 𝕏 logo and customizable username.\n•⁠  ⁠Rolling out to users across 47 U.S. states and https://t.co/hfrLTYuHBl",
-      "link": "https://x.com/teslaownersSV/status/2115858104688718333",
-      "date": "Thu Oct 29 17:27:37 +0000 2026",
-      "tweet_id": "2115858104688718333",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV0Ju3PbsAAXdEL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV0Ju3PbsAAXdEL.jpg?format=jpg&name=large",
-          "local": "2115858104688718333_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV0Ju3PbsAAXdEL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV0Ju3PbsAAXdEL.jpg?format=jpg&name=large",
-          "local": "2115858104688718333_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "X 正在推出 𝕏 卡，这是一种 Visa 借记卡，提供高达 3% 的现金返还。\n\n•⁠ ⁠符合条件的日常支出无需缴纳年费。\n•⁠ ⁠高级金属设计，带有标志性𝕏 徽标和可自定义的用户名。\n•⁠ ⁠向美国 47 个州和华盛顿特区的用户推出\n•⁠ ⁠高级订户有资格获得3% 的现金返还，而其他用户则可以通过合格存款超过1,000 美元获得资格。\n•⁠ ⁠通过X Money 将卡添加到您的手机钱包。\n\nX 正在从社交媒体扩展到日常支付和银行业务。"
-    },
-    {
-      "text": "BREAKING: Grok Bot’s daily active users have grown for 16 consecutive days. 🤖📈\n\nIt’s the longest growth streak since launch.\n\nHere’s the pace:\n•⁠  ⁠Early September: Under 100K daily active users\n•⁠  ⁠October 26: Over 600K\n•⁠  ⁠More than 6X growth in less than two months\n\nGrok Bot’s momentum is accelerating. And this could be just the beginning. 🚀",
-      "link": "https://x.com/teslaownersSV/status/2115857977169289321#m",
-      "date": "Thu, 29 Oct 2026 17:27:07 GMT",
-      "tweet_id": "2115857977169289321",
-      "ctx_done": 1,
-      "text_zh": "突发新闻：Grok Bot 的每日活跃用户已连续 16 天增长。 🤖📈\n\n这是自推出以来最长的连续增长。\n\n这是节奏：\n•⁠ ⁠九月初：日活跃用户数低于 10 万\n•⁠ ⁠10 月 26 日：超过 600K\n•⁠ ⁠不到两个月内增长超过 6 倍\n\nGrok Bot 的发展势头正在加速。这可能只是一个开始。 🚀"
-    },
-    {
-      "text": "Seeing the Work: How AI Is Transforming Frontline Operations @theXtakeover \n\nWe interviewed Andrew Jebasingh, Founder and CEO of SiteVue AI, at this year’s X Takeover event at Gigafactory Texas in Austin. @jebasingh \n\nAndrew shared how AI-powered video analytics are transforming https://t.co/90H6ioSv0m",
-      "link": "https://x.com/teslaownersSV/status/2115853672366379198",
-      "date": "Thu Oct 29 17:10:00 +0000 2026",
-      "tweet_id": "2115853672366379198",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115850347717791744/vid/avc1/1920x1080/YoXXjW0pGzpTA6BG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115850347717791744/img/3TqL9wWsyhr-GIU9.jpg",
-          "local": "2115853672366379198_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115850347717791744/vid/avc1/1920x1080/YoXXjW0pGzpTA6BG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115850347717791744/img/3TqL9wWsyhr-GIU9.jpg",
-          "local": "2115853672366379198_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "了解工作：人工智能如何改变一线运营@theXtakeover \n\n我们在今年奥斯汀德克萨斯州 Gigafactory 举行的 X Takeover 活动上采访了 SiteVue AI 创始人兼首席执行官 Andrew Jebasingh。 @jebasingh \n\nAndrew 分享了人工智能视频分析如何改变工业和制造环境中的一线运营，帮助团队识别瓶颈、基准周期时间、改善工作场所安全并提高生产力。\n\n我们还讨论了 SiteVue AI 如何将视频智能转化为可行的见解，帮助组织提高运营效率并推动持续改进。\n\n📷 了解有关 SiteVue AI 及其动态的更多信息：sitevue.ai/\n\n视频"
-    },
-    {
-      "text": "Meanwhile here in California we still have supervised Robotaxi 😭😭\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2115839978907562470#m",
-      "date": "Thu, 29 Oct 2026 16:15:36 GMT",
-      "tweet_id": "2115839978907562470",
-      "ctx_done": 1,
-      "text_zh": "与此同时，在加利福尼亚州，我们仍然对 Robotaxi 进行监督。\n\n视频"
-    },
-    {
-      "text": "JUST IN\n\nThe FCC just voted to propose opening 482 MHz of new spectrum for satellite-to-phone service.\n\nThat sits on top of the 344 MHz already in the rules. More than double.\n\nIt also drops the rule that made a satellite operator lease every matching license across an entire region, like the lower 48, before serving anyone.\n\nAT&T, Verizon and T-Mobile lobbied against parts of it. Public comment comes next, then final rules.\nDead zones are running out of time. Starlink Mobile is coming.\nfcc.gov/document/fcc-propose…",
-      "link": "https://x.com/teslaownersSV/status/2115838934114791555#m",
-      "date": "Thu, 29 Oct 2026 16:11:26 GMT",
-      "tweet_id": "2115838934114791555",
-      "ctx_done": 1,
-      "text_zh": "刚到\n\nFCC 刚刚投票提议开放 482 MHz 的新频谱用于卫星到电话服务。\n\n这位于规则中已有的 344 MHz 之上。超过两倍。\n\n它还取消了卫星运营商在为任何人提供服务之前租赁整个地区（例如 48 个地区）的所有匹配许可证的规定。\n\nAT&T、Verizon 和 T-Mobile 游说反对其中的部分内容。接下来是公众意见，然后是最终规则。\n死区的时间已经不多了。星链移动来了。\nfcc.gov/document/fcc-p​​ropose…"
-    },
-    {
-      "text": "45 schools across Fiji will receive Starlink internet. 🇫🇯🛰️\n\nThe rollout will take place over the next two years through the Australian Government’s REnew Pacific programme.\n\nNearby communities will also gain internet access, extending connectivity beyond the classrooms.\n\nA major step toward bringing reliable internet to more people across the Pacific.",
-      "link": "https://x.com/teslaownersSV/status/2115837471372333241#m",
-      "date": "Thu, 29 Oct 2026 16:05:38 GMT",
-      "tweet_id": "2115837471372333241",
-      "ctx_done": 1,
-      "text_zh": "斐济全国 45 所学校将接入 Starlink 互联网。 🇫🇯🛰️\n\n该计划将在未来两年通过澳大利亚政府的 REnew Pacific 计划进行。\n\n附近的社区也将获得互联网接入，将连接扩展到教室之外。\n\n这是向太平洋沿岸更多人提供可靠互联网的重要一步。"
-    },
-    {
-      "text": "Elon on X, this week 🚀 My ranked top 8 @elonmusk posts:\n1️⃣ 🛰️ Starlink, Ukraine &amp; a ceasefire\n2️⃣ 🚀 \"Starship 42 will be the first tower catch\"\n3️⃣ 💰 @SpaceX's $40B for GPUs\n4️⃣ 🤖 Grok Bot as your \"chief of staff\"\n5️⃣ 🚕 @robotaxi's rocket-shaped Houston map &amp; FSD in Europe\n6️⃣ 🗣️ https://t.co/LtTepfufs3",
-      "link": "https://x.com/ALScyborg/status/2115835339940245963",
-      "date": "Thu Oct 29 15:57:10 +0000 2026",
-      "tweet_id": "2115835339940245963",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115835112336265216/vid/avc1/1280x720/PvPrUzJglWrPyjGJ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115835112336265216/img/j3seM-yloiggCc0-.jpg",
-          "local": "2115835339940245963_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2115835112336265216/vid/avc1/1280x720/PvPrUzJglWrPyjGJ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115835112336265216/img/j3seM-yloiggCc0-.jpg",
-          "local": "2115835339940245963_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 在 X 上，本周 🚀 我排名前 8 的 @elonmusk 帖子：\n1️⃣ 🛰️ 星链、乌克兰和停火\n2️⃣ 🚀“Starship 42 将是第一个塔捕获”\n3️⃣💰@SpaceX 的 GPU 40B 美元\n4️⃣ 🤖 Grok Bot 作为你的“参谋长”\n5️⃣ 🚕@robotaxi 的火箭形状的休斯顿地图和欧洲的 FSD\n6️⃣🗣️ https://t.co/LtTepfufs3"
-    },
-    {
-      "text": "This will be the funnest game you play in your Tesla and lots of hidden surprises like cameos from @teslaownersSV - who else do you want to see?\n\nVideo",
-      "link": "https://x.com/whataboutfranks/status/2115824167291322857#m",
-      "date": "Thu, 29 Oct 2026 15:12:46 GMT",
-      "tweet_id": "2115824167291322857",
-      "ctx_done": 1,
-      "text_zh": "这将是您在 Tesla 中玩的最有趣的游戏，还有许多隐藏的惊喜，例如 @teslaownersSV 的客串 - 您还想看到谁？\n\n视频"
-    },
-    {
-      "text": "Elon Musk is reportedly exploring a major media deal for Starlink users.\n\n- Musk has reportedly invested around $1 billion in Skydance.\n- Talks could bring Paramount and Warner Bros. movies and TV shows directly to Starlink users worldwide.\n- Potential content could include Paramount, Warner Bros., DC, HBO Max, CBS, and Nickelodeon.\n- The reports are based on Semafor and comments from John Malone.\n- No official confirmation yet from Musk, Starlink, or Skydance.\n\nIf completed, Starlink could evolve beyond connectivity into a global entertainment platform.",
-      "link": "https://x.com/teslaownersSV/status/2115822747695903210#m",
-      "date": "Thu, 29 Oct 2026 15:07:07 GMT",
-      "tweet_id": "2115822747695903210",
-      "ctx_done": 1,
-      "text_zh": "据报道，埃隆·马斯克正在探索一项针对星链用户的重大媒体交易。\n\n- 据报道，马斯克已向 Skydance 投资了约 10 亿美元。\n- 会谈可以将派拉蒙和华纳兄弟的电影和电视节目直接带给全球的星链用户。\n- 潜在的内容可能包括派拉蒙、华纳兄弟、DC、HBO Max、CBS 和 Nickelodeon。\n- 该报告基于 Semafor 和 John Malone 的评论。\n- 马斯克、Starlink 或 Skydance 尚未正式确认。\n\n如果完成，星链可能会超越连接发展成为一个全球娱乐平台。"
     }
   ]
 }
