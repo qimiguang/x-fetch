@@ -1,8 +1,16 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-11-04T14:10:57Z",
+  "updated_at": "2026-11-04T21:10:39Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Berlin Tesla Engineering Center opens today\n\nFrom permit to operational in under a year, it brings 4 engineering sites onto 1 campus w/ 30 different labs in Köpenick, 30 minutes from Giga Berlin\n\nWith our 3rd hub of this kind after Fremont & Shanghai, we’re combining materials, powertrain, vehicle engineering & validation under one roof – enabling a short feedback loop between development & ramp\n\nVideo",
+      "link": "https://x.com/teslaeurope/status/2118066010381308279#m",
+      "date": "Wed, 04 Nov 2026 19:41:03 GMT",
+      "tweet_id": "2118066010381308279",
+      "ctx_done": 1,
+      "text_zh": "柏林特斯拉工程中心今天开业\n\n从获得许可到投入运营，不到一年的时间，它将 4 个工程站点引入了位于 Köpenick 的 1 个园区，其中包括 30 个不同的实验室，距离 Giga Berlin 30 分钟路程\n\n凭借我们继弗里蒙特和上海之后的第三个此类中心，我们将材料、动力总成、车辆工程和验证整合在一个屋檐下，从而在开发和坡道之间实现短反馈循环\n\n视频"
+    },
     {
       "text": "Big news! SpaceX has just officially announced that they are partnering with Qualcomm to help build @Starlink Mobile's nationwide terrestrial 5G network, with deployment beginning in 2027.\n\nUnder the multi-year agreement, SpaceX plans to deploy tens of thousands of cellular sites across the U.S., powered by Qualcomm's Dragonwing infrastructure technology.\n\nDetails:\n• Qualcomm will supply its Dragonwing QRU100 and QDU100 platforms to power Starlink Mobile's 5G base stations.\n• The network will use advanced 64T64R Massive MIMO technology to improve coverage, capacity, and spectrum efficiency.\n• Energy-efficient processing will help reduce power consumption and improve network deployment economics.\n• The infrastructure will support multiple spectrum bands and lay the groundwork for future AI-native 6G technology.\nSpaceX says its goal is to build the first fully integrated nationwide satellite and terrestrial mobile network, combining traditional cell towers with its satellite constellation to keep customers connected virtually everywhere.\n\nThis is a BIG step toward SpaceX becoming a full-fledged nationwide wireless carrier, directly competing with AT&T, Verizon, and T-Mobile. New competition is coming to town.",
       "link": "https://x.com/SawyerMerritt/status/2117975978911658105#m",
@@ -161,7 +169,7 @@
       "text_zh": "收到某人的短信，他的朋友是美国三大移动运营商之一的游说者。\n\n他表示，他们都对 @SpaceX 以及 Starlink Mobile 可能对他们的业务造成的干扰/影响感到低调的恐慌，并表示他们正在比以往任何时候都更加密切地合作，试图减缓 SpaceX 的速度。"
     },
     {
-      "text": "AT&T, Verizon and T-Mobile are terrified that some real competition is on the way. This industry is about to see the first real disruption in a long time.\n\nI can't wait to switch to @Starlink Mobile.\n\n\nThe Washington Post (@washingtonpost)\n\nExclusive: The possibility of SpaceX securing an agreement to operate a mobile network has rattled major carriers, raising concerns that Elon Musk might threaten their industry, according to interviews with nearly a dozen people in the telecom industry. wapo.st/4zqVKOG\n\nLink\n\n\n\nInside Musk’s plan to upend the wireless phone industry\n\nSpaceX is in talks to buy Boost Mobile or use its network, giving Musk a potential backdoor into the $235 billion cellphone market.\nwashingtonpost.com\n\n\n\n\n— http://nitter.meowing.monster/washingtonpost/status/2117391341898322401#m",
+      "text": "AT&T, Verizon and T-Mobile are terrified that some real competition is on the way. This industry is about to see the first real disruption in a long time.\n\nI can't wait to switch to @Starlink Mobile.\n\n\nThe Washington Post (@washingtonpost)\n\nExclusive: The possibility of SpaceX securing an agreement to operate a mobile network has rattled major carriers, raising concerns that Elon Musk might threaten their industry, according to interviews with nearly a dozen people in the telecom industry. wapo.st/4zqVKOG\n\nLink\n\n\n\nInside Musk’s plan to upend the wireless phone industry\n\nSpaceX is in talks to buy Boost Mobile or use its network, giving Musk a potential backdoor into the $235 billion cellphone market.\nwashingtonpost.com\n\n\n\n\n— https://nitter.netbub.com/washingtonpost/status/2117391341898322401#m",
       "link": "https://x.com/SawyerMerritt/status/2117432943920693556#m",
       "date": "Tue, 03 Nov 2026 01:45:28 GMT",
       "tweet_id": "2117432943920693556",
@@ -2104,14 +2112,6 @@
       "date": "Wed, 21 Oct 2026 18:02:36 GMT",
       "text_zh": "特斯拉刚刚推出了一个新的 Robotaxi 和安全报告网站，其中包含大量新信息，包括实时的 Robotaxi 里程计数器。这是所有新内容：\n\n• 被特斯拉机器人出租车受伤的人数：0\n• 特斯拉 Robotaxi 安全气囊部署：0\n• 行人或骑自行车者撞到：0\n\n特斯拉机器人出租车按城市行驶里程：\n• 德克萨斯州奥斯汀：2,118,015\n• 德克萨斯州达拉斯：608,130\n• 德克萨斯州休斯顿：225,964\n• 佛罗里达州迈阿密：46,262\n• 佛罗里达州奥兰多：61,053\n• 佛罗里达州坦帕：53,117\n\n其他新的 Robotaxi 信息：\n• 天黑后行驶里程：862,000\n• 雨中里程：113,000\n• 高峰时段里程：575,000\n\ntesla.com/robotaxi/safety\n\n视频",
       "tweet_id": "2112967806299820430",
-      "ctx_done": 1
-    },
-    {
-      "text": "Morgan Stanley’s Adam Jonas in new @SpaceX note:\n\n“Getting other people to pay for your own compute infrastructure that you will ultimately use to train your own robots is a good idea. We see the neocloud build as more of a 'funding strategy' where SpaceX can exploit its comparative advantages in maximizing  intelligence-per-watt-per-$-per-second relative to peers.\n\nWe agree with Elon that the Physical Intelligence Economy (PIE) is economically multiplicative - if not by an order of mag. We believe $SPCX’s ability to help improve the rather challenging PR image of the AI/SI\ntrade is quite under-appreciated today.\n\nSpaceX is undergoing a metamorphosis largely undetected by a stock market that still views the company as a neocloud with exo-atsmospheric chops, and not a vertically-integrated, full-stack AI player.”",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112951526511759861#m",
-      "date": "Wed, 21 Oct 2026 16:57:55 GMT",
-      "text_zh": "摩根士丹利的 Adam Jonas 在新的 @SpaceX 笔记中：\n\n“让其他人为你自己的计算基础设施付费，你最终将用它来训练你自己的机器人，这是一个好主意。我们认为 Neocloud 的构建更多地是一种‘融资策略’，SpaceX 可以利用其相对优势，最大化相对于同行的每瓦每美元每秒的智能。\n\n我们同意埃隆的观点，即物理智能经济（PIE）在经济上具有倍增性——即使不是倍数级的。我们相信 $SPCX 有能力帮助改善 AI/SI 颇具挑战性的公关形象\n今天，贸易被严重低估。\n\nSpaceX 正在经历一场基本上没有被股市察觉的转变，股市仍然将该公司视为具有大气层外能力的新云，而不是垂直整合的全栈人工智能玩家。”",
-      "tweet_id": "2112951526511759861",
       "ctx_done": 1
     }
   ]
