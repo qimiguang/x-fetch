@@ -1,10 +1,52 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-11-03T23:06:46Z",
-  "count": 29,
+  "updated_at": "2026-11-04T02:47:12Z",
+  "count": 31,
   "tweets": [
     {
-      "text": "不算厂房、电力，只算计算系统耗资大约 800 亿美元左右，按照 FP8 稠密计算等效 300 万张 H100...\n\n\nElon Musk (@elonmusk)\n\nThere will be a total of around 1.2M Blackwells at Colossus 2 by end of year\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2116596535433871630#m",
+      "text": "在我看来，这意味着 FSD 有更大概率获批进入德国。截至目前，拥有强大本土汽车工业基础的国家，都未放行特斯拉 FSD 的推送。中国和韩国是例外，但也只是部分推送，规模非常有限。\nVideo",
+      "link": "https://x.com/ChrisZheng001/status/2117437771556233231#m",
+      "date": "Tue, 03 Nov 2026 02:04:39 GMT",
+      "tweet_id": "2117437771556233231",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "BMW has just released a new video showing its new navigation-guided City Assistant, which allows the car to mostly drive itself from one address to another, including on highways and city streets.\n\nThe system will be able to:\n• Make turns at intersections\n• Navigate roundabouts\n• Change lanes in city traffic\n• Handle right-of-way situations\n• Automatically stop and start at traffic lights\n\nThe driver did however have to take over in the video due to a parked van on the side of the road, so there are clearly some limitations.\n\nBMW: \"When driver assistance is active, the driver can work with the system by accelerating, steering and braking in line with their personal driving style. The driver’s intention is detected based on steering behaviour and gaze direction, so that the system only provides assistance in the form of a warning and steering intervention if the driver is actually unintentionally drifting out of their own lane or if the system detects an imminent collision.\"\n\nBMW says it will first launch in Germany in 2027 and be available on the iX3, iX4, X5, 3 Series and 7 Series, with the necessary hardware already installed as standard and features activated through over-the-air software updates.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117310376740114432/img/yfyhYUIpfMoPjtuj.jpg",
+            "local": "2117437771556233231q_0.jpg"
+          }
+        ],
+        "text_zh": "宝马刚刚发布了一段新视频，展示了其新的导航引导城市助手，它允许汽车自动从一个地址驾驶到另一个地址，包括在高速公路和城市街道上。\n\n该系统将能够：\n• 在十字路口转弯\n• 导航环岛\n• 在城市交通中变换车道\n• 处理通行权情况\n• 在红绿灯处自动停止和启动\n\n然而，由于路边停着一辆货车，司机确实必须在视频中接管，因此显然存在一些限制。\n\n宝马：“当驾驶员辅助功能处于活动状态时，驾驶员可以根据个人驾驶风格通过加速、转向和制动来配合系统。驾驶员的意图是根据转向行为和注视方向来检测的，因此，只有当驾驶员实际上无意地偏离自己的车道或系统检测到即将发生碰撞时，系统才会以警告和转向干预的形式提供帮助。”\n\n宝马表示，该系统将于 2027 年在德国首次推出，适用于 iX3、iX4、X5、3 系列和 7 系列，必要的硬件已作为标准安装，并通过无线软件更新激活功能。"
+      },
+      "ctx_done": 1,
+      "text_zh": "在我看来，这意味着 FSD 有更大概率获批进入德国。截至目前，拥有强大本土汽车工业基础的国家，都未放行特斯拉 FSD 的推送。中国和韩国是例外，但也只是部分推送，规模非常有限。\nVideo"
+    },
+    {
+      "text": "这背后是一个重大的产品理念的分歧：这个产品的终点是「驾驶 Agent」还是辅助驾驶员的「Co-work Agent」。最早的特斯拉 Autopilot 就不支持驾驶员接管 - 系统 hold - 自动恢复，德系都支持。特斯拉的产品理念边界清晰，要么人驾驶，要么 Agent 驾驶，没有合作，没有辅助。\nVideo",
+      "link": "https://x.com/ChrisZheng001/status/2117436366237893028#m",
+      "date": "Tue, 03 Nov 2026 01:59:04 GMT",
+      "tweet_id": "2117436366237893028",
+      "quoted": {
+        "user": "niccruzpatane",
+        "text": "Both Mercedes (MB DRIVE ASSIST PRO) and BMW (Symbiotic Drive) allow the driver to steer, and in BMW’s case also accelerate or brake, without the system fully disengaging.\n\nWhat do you think of that? With Tesla FSD, human input will deactivate the system.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117368142884225024/img/b3_NVUTSEvNDNf7f.jpg",
+            "local": "2117436366237893028q_0.jpg"
+          }
+        ],
+        "text_zh": "梅赛德斯（MB DRIVE ASSIST PRO）和宝马（Symbiotic Drive）都允许驾驶员转向，在宝马的情况下还可以加速或制动，而无需系统完全脱离。\n\n你对此有何看法？对于 Tesla FSD，人工输入将停用系统。"
+      },
+      "ctx_done": 1,
+      "text_zh": "这背后是一个重大的产品理念的分歧：这个产品的终点是「驾驶 Agent」还是辅助驾驶员的「Co-work Agent」。最早的特斯拉 Autopilot 就不支持驾驶员接管 - 系统 hold - 自动恢复，德系都支持。特斯拉的产品理念边界清晰，要么人驾驶，要么 Agent 驾驶，没有合作，没有辅助。\nVideo"
+    },
+    {
+      "text": "不算厂房、电力，只算计算系统耗资大约 800 亿美元左右，按照 FP8 稠密计算等效 300 万张 H100...\n\n\nElon Musk (@elonmusk)\n\nThere will be a total of around 1.2M Blackwells at Colossus 2 by end of year\n\n\n\n— http://nitter.meowing.monster/elonmusk/status/2116596535433871630#m",
       "link": "https://x.com/ChrisZheng001/status/2116713568217485323#m",
       "date": "Sun, 01 Nov 2026 02:06:55 GMT",
       "tweet_id": "2116713568217485323",
@@ -91,7 +133,7 @@
       "text_zh": "所以 Elon 并不介意推广 Starlink 和 Grok Bot，但却一直对推广特斯拉汽车或 FSD 很抵触，Why？\nVideo"
     },
     {
-      "text": "[1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。\n\n\n晚点 LatePost (@latepostnews)\n\n\nArticle\n\n\n\n还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代\n\n2024 年夏天，字节跳动一支视频生成团队经历了几个月无法解释的训练故障，上百名工程师参与排查，最后发现是人为干扰。结果是字节辞退了实习生田柯宇，并在之后起诉他篡改代码、干扰模型训练并造成损失。\n\n\n\n\n— https://nitter.kareem.one/latepostnews/status/2113675462069362951#m",
+      "text": "[1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。\n\n\n晚点 LatePost (@latepostnews)\n\n\nArticle\n\n\n\n还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代\n\n2024 年夏天，字节跳动一支视频生成团队经历了几个月无法解释的训练故障，上百名工程师参与排查，最后发现是人为干扰。结果是字节辞退了实习生田柯宇，并在之后起诉他篡改代码、干扰模型训练并造成损失。\n\n\n\n\n— http://nitter.meowing.monster/latepostnews/status/2113675462069362951#m",
       "link": "https://x.com/ShoufaChen/status/2113825585634168920#m",
       "date": "Sat, 24 Oct 2026 02:51:07 GMT",
       "tweet_id": "2113825585634168920",
@@ -245,7 +287,7 @@
       "text_zh": "看来 V14 这一代就停在 14.3 小迭代了，下一个大版本一步到位 V15。"
     },
     {
-      "text": "Choblin (@choblin29)\n\nWSJ is reporting that Anthropic CEO Dario Amodei personally called Meta's Alexandr Wang seeking more compute. Meta considered providing chips, then declined.\n\nInside GOOGLE, Demis Hassabis has expressed frustration about Google not allocating enough compute to long-term research. Sergey Brin sometimes overrides the company's formal compute allocation process, redirecting resources toward projects he personally considers important.\n\nGoogle also cut compute allocated to Noam Shazeer's team in favor of another project. Shortly afterward, he left for OpenAI.\n\n\n\n\n\n— https://nitter.kareem.one/choblin29/status/2108846330965598698#m",
+      "text": "Choblin (@choblin29)\n\nWSJ is reporting that Anthropic CEO Dario Amodei personally called Meta's Alexandr Wang seeking more compute. Meta considered providing chips, then declined.\n\nInside GOOGLE, Demis Hassabis has expressed frustration about Google not allocating enough compute to long-term research. Sergey Brin sometimes overrides the company's formal compute allocation process, redirecting resources toward projects he personally considers important.\n\nGoogle also cut compute allocated to Noam Shazeer's team in favor of another project. Shortly afterward, he left for OpenAI.\n\n\n\n\n\n— http://nitter.meowing.monster/choblin29/status/2108846330965598698#m",
       "link": "https://x.com/ChrisZheng001/status/2109071525127372922#m",
       "date": "Sun, 11 Oct 2026 00:00:10 GMT",
       "tweet_id": "2109071525127372922",
@@ -266,7 +308,7 @@
       "text_zh": "据《华尔街日报》报道，Anthropic 首席执行官 Dario Amodei 亲自致电 Meta 的 Alexandr Wang，寻求更多计算能力。 Meta 曾考虑提供芯片，但后来拒绝了。\n在 GOOGLE 内部，Demis Hassabis 对 Google 没有为长期研究分配足够的计算能力表示沮丧。谢尔盖·布林有时会推翻公司正式的计算分配流程，将资源重新分配给他个人认为重要的项目。\n谷歌还削减了分配给 Noam Shazeer 团队的计算资源，转而支持另一个项目。不久之后，他前往 OpenAI。"
     },
     {
-      "text": "不是吧？是「好的写作」远远不像数学那样可验证、可闭环吧？\n\n\nPaul Graham (@paulg)\n\nApparently it's mostly just because they haven't made much of an effort to train it to write well yet.\n\n\n\n— https://nitter.kareem.one/paulg/status/2108688612682522939#m",
+      "text": "不是吧？是「好的写作」远远不像数学那样可验证、可闭环吧？\n\n\nPaul Graham (@paulg)\n\nApparently it's mostly just because they haven't made much of an effort to train it to write well yet.\n\n\n\n— http://nitter.meowing.monster/paulg/status/2108688612682522939#m",
       "link": "https://x.com/ChrisZheng001/status/2108739394777845926#m",
       "date": "Sat, 10 Oct 2026 02:00:24 GMT",
       "tweet_id": "2108739394777845926",
