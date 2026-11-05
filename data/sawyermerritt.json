@@ -1,8 +1,16 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-11-05T02:26:39Z",
+  "updated_at": "2026-11-05T06:02:37Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Great shot",
+      "link": "https://x.com/SawyerMerritt/status/2118116504428273872#m",
+      "date": "Wed, 04 Nov 2026 23:01:42 GMT",
+      "tweet_id": "2118116504428273872",
+      "ctx_done": 1,
+      "text_zh": "很棒的镜头"
+    },
     {
       "text": "Berlin Tesla Engineering Center opens today\n\nFrom permit to operational in under a year, it brings 4 engineering sites onto 1 campus w/ 30 different labs in Köpenick, 30 minutes from Giga Berlin\n\nWith our 3rd hub of this kind after Fremont & Shanghai, we’re combining materials, powertrain, vehicle engineering & validation under one roof – enabling a short feedback loop between development & ramp\n\nVideo",
       "link": "https://x.com/teslaeurope/status/2118066010381308279#m",
@@ -169,7 +177,7 @@
       "text_zh": "收到某人的短信，他的朋友是美国三大移动运营商之一的游说者。\n\n他表示，他们都对 @SpaceX 以及 Starlink Mobile 可能对他们的业务造成的干扰/影响感到低调的恐慌，并表示他们正在比以往任何时候都更加密切地合作，试图减缓 SpaceX 的速度。"
     },
     {
-      "text": "AT&T, Verizon and T-Mobile are terrified that some real competition is on the way. This industry is about to see the first real disruption in a long time.\n\nI can't wait to switch to @Starlink Mobile.\n\n\nThe Washington Post (@washingtonpost)\n\nExclusive: The possibility of SpaceX securing an agreement to operate a mobile network has rattled major carriers, raising concerns that Elon Musk might threaten their industry, according to interviews with nearly a dozen people in the telecom industry. wapo.st/4zqVKOG\n\nLink\n\n\n\nInside Musk’s plan to upend the wireless phone industry\n\nSpaceX is in talks to buy Boost Mobile or use its network, giving Musk a potential backdoor into the $235 billion cellphone market.\nwashingtonpost.com\n\n\n\n\n— https://nitter.netbub.com/washingtonpost/status/2117391341898322401#m",
+      "text": "AT&T, Verizon and T-Mobile are terrified that some real competition is on the way. This industry is about to see the first real disruption in a long time.\n\nI can't wait to switch to @Starlink Mobile.\n\n\nThe Washington Post (@washingtonpost)\n\nExclusive: The possibility of SpaceX securing an agreement to operate a mobile network has rattled major carriers, raising concerns that Elon Musk might threaten their industry, according to interviews with nearly a dozen people in the telecom industry. wapo.st/4zqVKOG\n\nLink\n\n\n\nInside Musk’s plan to upend the wireless phone industry\n\nSpaceX is in talks to buy Boost Mobile or use its network, giving Musk a potential backdoor into the $235 billion cellphone market.\nwashingtonpost.com\n\n\n\n\n— http://nitter.meowing.monster/washingtonpost/status/2117391341898322401#m",
       "link": "https://x.com/SawyerMerritt/status/2117432943920693556#m",
       "date": "Tue, 03 Nov 2026 01:45:28 GMT",
       "tweet_id": "2117432943920693556",
@@ -2104,14 +2112,6 @@
         ],
         "text_zh": "特斯拉刚刚推出了一个新的 Robotaxi 和安全报告网站，其中包含大量新信息，包括实时的 Robotaxi 里程计数器。这是所有新内容：\n\n• 被特斯拉机器人出租车受伤的人数：0\n• 特斯拉 Robotaxi 安全气囊部署：0\n• 行人或骑自行车者撞到：0\n\n特斯拉机器人出租车按城市行驶里程：\n• 德克萨斯州奥斯汀：2,118,015\n• 德克萨斯州达拉斯：608,130\n• 德克萨斯州休斯顿：225,964\n• 佛罗里达州迈阿密：46,262\n• 佛罗里达州奥兰多：61,053\n• 佛罗里达州坦帕：53,117\n\n其他新的 Robotaxi 信息：\n• 天黑后行驶里程：862,000\n• 雨中里程：113,000\n• 高峰时段里程：575,000\n\nhttps://www.tesla.com/robotaxi/safety"
       },
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla just introduced a new Robotaxi and safety report website with lots of new info, including a live Robotaxi mile counter. Here’s everything new:\n\n• People Injured by Tesla Robotaxis: 0\n• Tesla Robotaxi Airbag Deployments: 0\n• Pedestrians or Cyclists Hit: 0\n\nTesla Robotaxi miles by city:\n• Austin, TX: 2,118,015\n• Dallas, TX: 608,130\n• Houston, TX: 225,964\n• Miami, FL: 46,262\n• Orlando, FL: 61,053\n• Tampa, FL: 53,117\n\nOther new Robotaxi info:\n• Miles driven after dark: 862,000\n• Miles in rain: 113,000\n• Miles in rush hour: 575,000\n\ntesla.com/robotaxi/safety\n\nVideo",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2112967806299820430#m",
-      "date": "Wed, 21 Oct 2026 18:02:36 GMT",
-      "text_zh": "特斯拉刚刚推出了一个新的 Robotaxi 和安全报告网站，其中包含大量新信息，包括实时的 Robotaxi 里程计数器。这是所有新内容：\n\n• 被特斯拉机器人出租车受伤的人数：0\n• 特斯拉 Robotaxi 安全气囊部署：0\n• 行人或骑自行车者撞到：0\n\n特斯拉机器人出租车按城市行驶里程：\n• 德克萨斯州奥斯汀：2,118,015\n• 德克萨斯州达拉斯：608,130\n• 德克萨斯州休斯顿：225,964\n• 佛罗里达州迈阿密：46,262\n• 佛罗里达州奥兰多：61,053\n• 佛罗里达州坦帕：53,117\n\n其他新的 Robotaxi 信息：\n• 天黑后行驶里程：862,000\n• 雨中里程：113,000\n• 高峰时段里程：575,000\n\ntesla.com/robotaxi/safety\n\n视频",
-      "tweet_id": "2112967806299820430",
       "ctx_done": 1
     }
   ]
