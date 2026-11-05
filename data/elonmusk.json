@@ -1,8 +1,50 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-05T07:59:26Z",
+  "updated_at": "2026-11-05T14:29:55Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Grok @Bot can call your dentist on the phone!",
+      "link": "https://x.com/elonmusk/status/2118251808179323102#m",
+      "date": "Thu, 05 Nov 2026 07:59:20 GMT",
+      "tweet_id": "2118251808179323102",
+      "quoted": {
+        "user": "ArthurMacwaters",
+        "text": "Grok @bot is calling a dentist for me to see if they take my insurance.  Incredible. This feels amazing.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWT_TGzboAAh5SG.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWT_TGzboAAh5SG.jpg?name=orig",
+            "local": "2118251808179323102q_0.jpg"
+          }
+        ],
+        "text_zh": "Grok @bot 正在帮我打电话给牙医，看看他们是否接受我的保险。  极好的。这感觉太棒了。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @Bot 可以给您的牙医打电话！"
+    },
+    {
+      "text": "Everyone is using Grok @Bot\nVideo",
+      "link": "https://x.com/elonmusk/status/2118250472373129319#m",
+      "date": "Thu, 05 Nov 2026 07:54:02 GMT",
+      "tweet_id": "2118250472373129319",
+      "quoted": {
+        "user": "minliangtan",
+        "text": "Been using Grok Bot and it's pretty amazing.\n\nGot my team to hack together a GrokPuck (Grok Bot in your pocket). Swipe the screen, the bot changes.\n\nWhat do you guys think?",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118213308209885184/img/dmmc5-9reaYC54Hh.jpg",
+            "local": "2118250472373129319q_0.jpg"
+          }
+        ],
+        "text_zh": "一直在使用 Grok Bot，它非常棒。\n\n让我的团队组装了一个 GrokPuck（口袋里的 Grok Bot）。滑动屏幕，机器人就会改变。\n\n你们觉得怎么样？"
+      },
+      "ctx_done": 1,
+      "text_zh": "每个人都在使用 Grok @Bot\n视频"
+    },
     {
       "text": "It’s a Brave New World",
       "link": "https://x.com/elonmusk/status/2118248670915404057#m",
@@ -56,7 +98,7 @@
         "text_zh": "Grok Bot 现在可以打电话。"
       },
       "ctx_done": 1,
-      "text_zh": "Bot 对行动有这种偏向，让人感觉它是你共事过的最无所畏惧的同事。 \n很多工作都是不必要的摩擦，机器人会找到阻力最小的路径并完成任务，直到完成。 \n感觉就像生产力的新时代。\n视频"
+      "text_zh": "Bot 有这种行动偏向，让人感觉它是你共事过的最无所畏惧的同事。 \n很多工作都是不必要的摩擦，机器人会找到阻力最小的路径并完成任务，直到完成。 \n感觉就像生产力的新时代。\n视频"
     },
     {
       "text": "True",
@@ -70,6 +112,14 @@
       },
       "ctx_done": 1,
       "text_zh": "真的"
+    },
+    {
+      "text": "A big step for 5G networks. \n\n@SpaceX selected @Qualcomm #Dragonwing to accelerate @Starlink Mobile's nationwide 5G network, advancing 5G today with an opportunity to lay the foundation for AI-native #6G in the years ahead.\n\nExcited to build Starlink Mobile with you & team @michaelnicollsx.\n\nVideo",
+      "link": "https://x.com/durga_malladi/status/2118038626705829969#m",
+      "date": "Wed, 04 Nov 2026 17:52:14 GMT",
+      "tweet_id": "2118038626705829969",
+      "ctx_done": 1,
+      "text_zh": "5G 网络迈出了一大步。 \n\n@SpaceX 选择 @Qualcomm #Dragonwing 来加速 @Starlink Mobile 的全国 5G 网络，在今天推进 5G，并有机会为未来几年的人工智能原生 #6G 奠定基础。\n\n很高兴与您和团队@michaelnicolsx 一起构建 Starlink Mobile。\n\n视频"
     },
     {
       "text": "Try Grok @Bot. It’s like hiring an amazing assistant!",
@@ -91,6 +141,14 @@
       },
       "ctx_done": 1,
       "text_zh": "尝试 Grok @Bot。这就像聘请了一位出色的助手！"
+    },
+    {
+      "text": "My mindset on @bot has completely changed.\n\nI used to treat them like assistants. Now I treat them like real employees.\n\nWhy: an assistant does what you ask. An employee notices what you didn't ask.\n\nHow:\nHire them for one job.\nOnboard them with a clear brief.\nTrain them when they get it wrong.\nMaintain them as the job changes.\n\nThe moment I stopped asking \"what can this assistant do?\" and started asking \"what could this hire own?\", everything they could do for me got bigger.",
+      "link": "https://x.com/kiaraplds/status/2118022500244172902#m",
+      "date": "Wed, 04 Nov 2026 16:48:09 GMT",
+      "tweet_id": "2118022500244172902",
+      "ctx_done": 1,
+      "text_zh": "我对@bot 的看法完全改变了。\n\n我曾经把他们当作助手一样对待。现在我像对待真正的员工一样对待他们。\n\n原因：助理会按照你的要求做。员工会注意到您没有询问的内容。\n\n如何：\n雇用他们做一份工作。\n向他们提供清晰的简介。\n当他们犯错时训练他们。\n当工作发生变化时维护它们。\n\n当我不再问“这个助手能做什么？”的时候。并开始问“这个雇员可以拥有什么？”，他们能为我做的一切都变得更大。"
     },
     {
       "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap\n\nVideo",
@@ -120,6 +178,14 @@
       },
       "ctx_done": 1,
       "text_zh": "我即将发表的演讲 @aiDotEngineer 中的一些有趣的幻灯片 \n\n非常兴奋地分享我们如何在不阅读代码的情况下发送大量代码（30xd），但性能与我们发布时一样好，甚至更好\n\n当然，还有很多需要改进的地方，而且还远远没有达到上限，但考虑到不断的运输速度和我们对抛光的高标准，我认为我们对代理友好的架构的赌注在控制坡度方面得到了回报\n\n有趣的事实：10 月份约有 230 人在 grok 机器人上获得了至少 1 个 PR！\n\n\n\n\n\n\nAI.Engineer 🔜 上海 & SF CODE (@aiDotEngineer)\n\n首届 AIE 代码峰会发言人：\n\n@poteto，SpaceX 首席工程师\n@steve_yegge，工程师、作家、顾问\n@zachbruggeman，Ramp 首席软件工程师\n\n11 月 10 日至 12 日，旧金山。来和我们一起出去玩吧。在 ai.engineer/code 上申请\n\n\n\n\n\n— https://nitter.netbub.com/aiDotEngineer/status/2112276851355693315#m"
+    },
+    {
+      "text": "A friend signed up for Grok Bot a month ago and was about to cancel. He couldn't see the real value.\n\nHe had 4 bots, but no plugins connected, no routines, and no skills.\n\nI showed him my 25 bots, what each one does, and how I manage the whole team. He was surprised by what Grok Bot can do, and he decided to keep his subscription.\n\nIf you don't know how to orchestrate Grok Bots, you won't see the value.\n\nBusinesses, companies, churches: if you need AI consulting, DM me.",
+      "link": "https://x.com/Texas_Twins_Dad/status/2118014632480682487#m",
+      "date": "Wed, 04 Nov 2026 16:16:53 GMT",
+      "tweet_id": "2118014632480682487",
+      "ctx_done": 1,
+      "text_zh": "一位朋友一个月前注册了 Grok Bot，正准备取消。他看不到真正的价值。\n\n他有 4 个机器人，但没有连接插件，没有例程，也没有技能。\n\n我向他展示了我的 25 个机器人、每个机器人的用途以及我如何管理整个团队。他对 Grok Bot 的功能感到惊讶，并决定继续订阅。\n\n如果您不知道如何编排 Grok 机器人，您将看不到其中的价值。\n\n企业、公司、教堂：如果您需要人工智能咨询，请私信我。"
     },
     {
       "text": "At last there will be one network with good signal everywhere!",
@@ -2580,65 +2646,6 @@
       },
       "ctx_done": 1,
       "text_zh": "尝试 Grok @Bot\n视频"
-    },
-    {
-      "text": "RT @SPCX100T: Throughout my 20 something years in investing, SpaceX $SPCX is the largest arbitrage I’ve ever encountered. It’s not a misund…",
-      "link": "https://x.com/elonmusk/status/2115350414367568190#m",
-      "date": "Wed, 28 Oct 2026 07:50:14 GMT",
-      "tweet_id": "2115350414367568190",
-      "ctx_done": 1,
-      "text_zh": "RT @SPCX100T：在我 20 多年的投资生涯中，SpaceX $SPCX 是我遇到过的最大套利。这不是误会……"
-    },
-    {
-      "text": "Grok @Bot rocks\nVideo",
-      "link": "https://x.com/elonmusk/status/2115348410396287061#m",
-      "date": "Wed, 28 Oct 2026 07:42:16 GMT",
-      "tweet_id": "2115348410396287061",
-      "quoted": {
-        "user": "firesidealpha",
-        "text": "Gavin Baker says Grok Bot is the most impactful AI product he and his firm have had yet, and reveals he’s up to 17 Grok Bots\n\n“I mean, as a user, Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet. I glued together all this stuff with Claude Code, and I’m sure it was user error on my part, you know, 50 years old. I’m doing my best.\"\n\n\"But Grok Bot, it just makes it so easy. I think I’m up to like 17 Grok Bots. And every day I think of a new one to add.”",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115166648361779200/img/gd7KfiOQFs3R2HwE.jpg",
-            "local": "2115348410396287061q_0.jpg"
-          }
-        ],
-        "text_zh": "Gavin Baker 表示，Grok Bot 是他和他的公司迄今为止最有影响力的人工智能产品，并透露他拥有多达 17 个 Grok Bot\n\n“我的意思是，作为一名用户，Grok Bot 对我和我们公司来说是迄今为止最具影响力的人工智能产品。我用 Claude Code 将所有这些东西粘在一起，我确信这是我的用户错误，你知道，我已经 50 岁了。我正在尽力而为。”\n\n“但是 Grok Bot，它让事情变得如此简单。我想我最多可以喜欢 17 个 Grok 机器人。而且每天我都会想添加一个新的。”"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 摇滚\n视频"
-    },
-    {
-      "text": "Hire Grok @Bot, you won’t regret it",
-      "link": "https://x.com/elonmusk/status/2115346748730380385#m",
-      "date": "Wed, 28 Oct 2026 07:35:40 GMT",
-      "tweet_id": "2115346748730380385",
-      "quoted": {
-        "user": "p_ferragu",
-        "text": "Planchet, my Grok Bot is promoted to fully-fledged team member. He has access to all our thinking (research, emails, models, slack, industry data), he is incredibly resourceful - a mesmerizing get-it-done attitude, ultra-fast, receptive with feedback. It is mind-blowing.",
-        "text_zh": "Planchet，我的 Grok Bot 晋升为成熟的团队成员。他可以了解我们所有的想法（研究、电子邮件、模型、松弛、行业数据），他足智多谋——一种令人着迷的完成工作的态度，速度超快，善于接受反馈。这是令人兴奋的。"
-      },
-      "ctx_done": 1,
-      "text_zh": "雇用 Grok @Bot，你不会后悔的"
-    },
-    {
-      "text": "\"To love and be loved is to feel the sun from both sides.\"\nGrok Imagine\n\nVideo",
-      "link": "https://x.com/KnightWorld/status/2115346652718620688#m",
-      "date": "Wed, 28 Oct 2026 07:35:17 GMT",
-      "tweet_id": "2115346652718620688",
-      "reply_to": "elonmusk",
-      "ctx_done": 1,
-      "text_zh": "“爱与被爱，就是感受双方的阳光。”\n格洛克想象\n\n视频"
-    },
-    {
-      "text": "I saw the worst of you\nAnd I still chose you\n\nVideo",
-      "link": "https://x.com/elonmusk/status/2115346075666325755#m",
-      "date": "Wed, 28 Oct 2026 07:33:00 GMT",
-      "tweet_id": "2115346075666325755",
-      "ctx_done": 1,
-      "text_zh": "我看到了你最糟糕的一面\n而我还是选择了你\n\n视频"
     }
   ]
 }
