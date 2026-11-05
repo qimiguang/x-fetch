@@ -1,8 +1,104 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-05T06:01:45Z",
+  "updated_at": "2026-11-05T07:59:56Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "If Starship doesn’t inspire you, I don’t know what can. https://t.co/qJbCQPVeT7",
+      "link": "https://x.com/teslaownersSV/status/2118238283113329067",
+      "date": "Thu Nov 05 07:05:36 +0000 2026",
+      "tweet_id": "2118238283113329067",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118238210602246144/vid/avc1/1080x1920/6qu2cgijSjnvmLfD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118238210602246144/img/GRHWFMghNlSKco0s.jpg",
+          "local": "2118238283113329067_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118238210602246144/vid/avc1/1080x1920/6qu2cgijSjnvmLfD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118238210602246144/img/GRHWFMghNlSKco0s.jpg",
+          "local": "2118238283113329067_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "如果《星际飞船》不能激励你，我不知道还有什么可以激励你。 https://t.co/qJbCQPVeT7"
+    },
+    {
+      "text": "Cybertruck district @theXtakeover https://t.co/aTGHjCVBza",
+      "link": "https://x.com/teslaownersSV/status/2118237882955727238",
+      "date": "Thu Nov 05 07:04:00 +0000 2026",
+      "tweet_id": "2118237882955727238",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118237819852521472/vid/avc1/1080x1920/k09GSh2eeSDALyC5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118237819852521472/img/zY7dDYWO3r6QHUMR.jpg",
+          "local": "2118237882955727238_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118237819852521472/vid/avc1/1080x1920/k09GSh2eeSDALyC5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118237819852521472/img/zY7dDYWO3r6QHUMR.jpg",
+          "local": "2118237882955727238_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Cyber​​truck区@theXtakeover https://t.co/aTGHjCVBza"
+    },
+    {
+      "text": "If you know someone who passed away or is currently struggling with cancer, put their name below and what they had.",
+      "link": "https://x.com/teslaownersSV/status/2118233138027724983",
+      "date": "Thu Nov 05 06:45:09 +0000 2026",
+      "tweet_id": "2118233138027724983",
+      "ctx_done": 1,
+      "text_zh": "如果您认识已去世或目前正在与癌症作斗争的人，请在下面写下他们的名字以及他们患有的疾病。"
+    },
+    {
+      "text": "Starship Cybertruck https://t.co/ymNb0WUaW0",
+      "link": "https://x.com/teslaownersSV/status/2118233038006235335",
+      "date": "Thu Nov 05 06:44:45 +0000 2026",
+      "tweet_id": "2118233038006235335",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118232996352598016/vid/avc1/1080x1920/wzEksOtgHV0vkXAb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118232996352598016/img/9tm0FBNy1I3yARx9.jpg",
+          "local": "2118233038006235335_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118232996352598016/vid/avc1/1080x1920/wzEksOtgHV0vkXAb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118232996352598016/img/9tm0FBNy1I3yARx9.jpg",
+          "local": "2118233038006235335_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰赛博卡车 https://t.co/ymNb0WUaW0"
+    },
+    {
+      "text": "Can’t believe it was almost a month ago we did @theXtakeover https://t.co/vtcHMKy9YT",
+      "link": "https://x.com/teslaownersSV/status/2118231260338471211",
+      "date": "Thu Nov 05 06:37:41 +0000 2026",
+      "tweet_id": "2118231260338471211",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118231152440016896/vid/avc1/2160x3840/NRLqO8s4Nb_ZnGSo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118231152440016896/img/FhBo8pp0NB6CgHbm.jpg",
+          "local": "2118231260338471211_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118231152440016896/vid/avc1/2160x3840/NRLqO8s4Nb_ZnGSo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118231152440016896/img/FhBo8pp0NB6CgHbm.jpg",
+          "local": "2118231260338471211_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "不敢相信，差不多一个月前我们就@theXtakeover https://t.co/vtcHMKy9YT"
+    },
     {
       "text": "Elon Musk on why civilization is \"a flash in the pan,\" and why that is the reason to make life multiplanetary:\n\n\"The first writings were only about 5,000 years ago.\"\n\n\"Earth has been around for, I don't know, four and a half billion years, five billion-ish. The universe has been https://t.co/pzaHenjCBF",
       "link": "https://x.com/teslaownersSV/status/2118219537187561921",
@@ -4065,66 +4161,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "更新：Grok Bot 刚刚在 Claire Vo 的 How I AI Personal Agent Bench 上排名第一，而且还不是很接近。\n\n4 个私人代理，9 个真实任务#1 Grok Bot（“by A LOT”）#2 Muse\n 他们身后：ChatGPT Dot 和 Claude Duet\n@bot @elonmusk"
-    },
-    {
-      "text": "RT @Amy787: I joined the Tesla Beat to talk about the possible $TSLA / $SPCX merger and the Shareholder Letter to the Board.  With @teslaow…",
-      "link": "https://x.com/teslaownersSV/status/2116201444877767105",
-      "date": "Fri Oct 30 16:11:56 +0000 2026",
-      "tweet_id": "2116201444877767105",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Tesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX",
-        "text_zh": "Tesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Amy787：我加入 Tesla Beat 是为了谈论可能的 $TSLA / $SPCX 合并以及致董事会的股东信。  与@teslaow..."
-    },
-    {
-      "text": "I joined the Tesla Beat to talk about the possible $TSLA / $SPCX merger and the Shareholder Letter to the Board.  With @teslaownersSV @SjvTesla @MatthewDR @FutureAZA",
-      "link": "https://x.com/Amy787/status/2116201200949620869",
-      "date": "Fri Oct 30 16:10:58 +0000 2026",
-      "tweet_id": "2116201200949620869",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Tesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX",
-        "text_zh": "Tesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX"
-      },
-      "ctx_done": 1,
-      "text_zh": "我加入 Tesla Beat 是为了谈论可能的 $TSLA / $SPCX 合并以及致董事会的股东信。  与 @teslaownersSV @SjvTesla @MatthewDR @FutureAZA\n\n\n特斯拉车主硅谷 (@teslaownersSV)\n\nTesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 即将到来：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\n链接\n\n\n\n特斯拉车主硅谷\n\nTesla 来到越南，TSLA 价格突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m"
-    },
-    {
-      "text": "Giorgia Meloni on Elon and Soros:\n\"@elonmusk is not a danger to democracy, George Soros is.\"\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2116193101773762698#m",
-      "date": "Fri, 30 Oct 2026 15:38:47 GMT",
-      "tweet_id": "2116193101773762698",
-      "ctx_done": 1,
-      "text_zh": "乔治亚·梅洛尼 (Giorgia Meloni) 谈埃隆和索罗斯：\n“@elonmusk 并不是对民主的威胁，乔治·索罗斯才是。”\n\n视频"
-    },
-    {
-      "text": "Join us\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\nLink\n\n\n\nTesla Owners Silicon Valley\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m",
-      "link": "https://x.com/tslabeatpodcast/status/2116185520489586783#m",
-      "date": "Fri, 30 Oct 2026 15:08:39 GMT",
-      "tweet_id": "2116185520489586783",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Tesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX",
-        "text_zh": "Tesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX"
-      },
-      "ctx_done": 1,
-      "text_zh": "加入我们\n\n\n特斯拉车主硅谷 (@teslaownersSV)\n\nTesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 即将到来：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\n链接\n\n\n\n特斯拉车主硅谷\n\nTesla 来到越南，TSLA 价格突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m"
-    },
-    {
-      "text": "POD UP!\n\nTesla Beat is live: chatting about Cybercab production, Vietnam expansion, Starship news with @SjvTesla @teslaownersSV @FutureAZA\n\n\nTesla Owners Silicon Valley (@teslaownersSV)\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\nLink\n\n\n\nTesla Owners Silicon Valley\n\nTesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m",
-      "link": "https://x.com/MatthewDR/status/2116184983782228456#m",
-      "date": "Fri, 30 Oct 2026 15:06:31 GMT",
-      "tweet_id": "2116184983782228456",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Tesla Comes to Vietnam, TSLA Tops $400 & Starship Flight 15 Nears: Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr Special Guest @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX",
-        "text_zh": "Tesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 https://x.com/i/broadcasts/1aKbdEjyvgoJX"
-      },
-      "ctx_done": 1,
-      "text_zh": "吊舱！\n\nTesla Beat 上线：与 @SjvTesla @teslaownersSV @FutureAZA 讨论 Cybercab 生产、越南扩张、Starship 新闻\n\n\n特斯拉车主硅谷 (@teslaownersSV)\n\nTesla 来到越南，TSLA 突破 400 美元，Starship Flight 15 即将到来：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787 nitter.mizuki.st/i/broadcasts/1aKbdEjyv…\n\n链接\n\n\n\n特斯拉车主硅谷\n\nTesla 来到越南，TSLA 价格突破 400 美元，Starship Flight 15 临近：Tesla Beat #167 w/ @sjvtesla @futureaza @matthewdr 特别嘉宾 @amy787\nhttp://nitter.meowing.monster/i/broadcasts/1aKbdEjyvgoJX\n\n\n\n\n— http://nitter.meowing.monster/teslaownersSV/status/2116184180954705969#m"
     }
   ]
 }

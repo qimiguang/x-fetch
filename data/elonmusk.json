@@ -1,8 +1,42 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-05T06:01:11Z",
+  "updated_at": "2026-11-05T07:59:26Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "It’s a Brave New World",
+      "link": "https://x.com/elonmusk/status/2118248670915404057#m",
+      "date": "Thu, 05 Nov 2026 07:46:52 GMT",
+      "tweet_id": "2118248670915404057",
+      "quoted": {
+        "user": "RepYassAnsari",
+        "text": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence.",
+        "text_zh": "第一天民主党议程的首要任务是暂停先进人工智能的开发、监管这个失控的行业以及禁止人工智能。"
+      },
+      "ctx_done": 1,
+      "text_zh": "这是一个美丽的新世界"
+    },
+    {
+      "text": "Try Grok @Bot!\n\n\nShubham Saboo (@Saboo_Shubham_)\n\nI have moved everything from OpenClaw, Hermes and Muse to just Grok Bot now. \n\nMuse had a moment for a while. But Grok @bot is coming out as a clear winner for personal agents (UI/UX/features - everything on point). \n\nAnd the most impressive thing the speed of shipping to keep grok bot relevant.\n\nAmazing work @poteto, @mattyp and team!\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/Saboo_Shubham_/status/2118055599036588312#m",
+      "link": "https://x.com/elonmusk/status/2118214299391057973#m",
+      "date": "Thu, 05 Nov 2026 05:30:18 GMT",
+      "tweet_id": "2118214299391057973",
+      "quoted": {
+        "user": "Saboo_Shubham_",
+        "text": "I have moved everything from OpenClaw, Hermes and Muse to just Grok Bot now. \n\nMuse had a moment for a while. But Grok @bot is coming out as a clear winner for personal agents (UI/UX/features - everything on point). \n\nAnd the most impressive thing the speed of shipping to keep grok bot relevant.\n\nAmazing work @poteto, @mattyp and team!   https://x.com/bot/status/2118043939592942052/video/1",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
+            "local": "2118214299391057973q_0.jpg"
+          }
+        ],
+        "text_zh": "我现在已经将所有内容从 OpenClaw、Hermes 和 Muse 转移到了 Grok Bot。 \n\n缪斯有一段时间有一段时间。但 Grok @bot 显然是个人代理的赢家（UI/UX/功能 - 一切都在点上）。 \n\n最令人印象深刻的是保持 grok 机器人相关性的运输速度。\n\n@poteto、@mattyp 和团队的工作非常棒！   https://x.com/bot/status/2118043939592942052/video/1"
+      },
+      "ctx_done": 1,
+      "text_zh": "尝试 Grok @Bot！\n\n\n舒巴姆·萨布 (@Saboo_Shubham_)\n\n我现在已经将所有内容从 OpenClaw、Hermes 和 Muse 转移到了 Grok Bot。 \n\n缪斯有一段时间有一段时间。但 Grok @bot 显然是个人代理的赢家（UI/UX/功能 - 一切都在点上）。 \n\n最令人印象深刻的是保持 grok 机器人相关性的运输速度。\n\n@poteto、@mattyp 和团队的工作非常棒！\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/Saboo_Shubham_/status/2118055599036588312#m"
+    },
     {
       "text": "Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with. \nSo much work is needless friction, bot finds the path of least resistance and grinds through tasks until they’re complete. \nFeels like a new era of productivity.\nVideo",
       "link": "https://x.com/Baconbrix/status/2118064051771310169#m",
@@ -22,7 +56,7 @@
         "text_zh": "Grok Bot 现在可以打电话。"
       },
       "ctx_done": 1,
-      "text_zh": "Bot 有这种行动偏向，让人感觉它是你共事过的最无所畏惧的同事。 \n很多工作都是不必要的摩擦，机器人会找到阻力最小的路径并完成任务，直到完成。 \n感觉就像生产力的新时代。\n视频"
+      "text_zh": "Bot 对行动有这种偏向，让人感觉它是你共事过的最无所畏惧的同事。 \n很多工作都是不必要的摩擦，机器人会找到阻力最小的路径并完成任务，直到完成。 \n感觉就像生产力的新时代。\n视频"
     },
     {
       "text": "True",
@@ -67,7 +101,7 @@
       "text_zh": "Grok Bot 中的页面\n\n0:15 什么是页面？\n0:40 示例页面\n1:34 共享页面\n1:55 提示：使用您的数据\n2:46 @X 帖子\n3:44 回顾\n\n视频"
     },
     {
-      "text": "some fun slides from my upcoming talk @aiDotEngineer \n\nvery excited to share how we ship crazy amounts of code (30x'd) without reading it, yet perf is as good if not better then when we launched\n\nthere's a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop\n\nfun fact: ~230 people landed at least 1 PR to grok bot in october!\n\n\n\n\n\n\nAI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer)\n\nFirst AIE Code Summit speakers:\n\n@poteto, Principal Engineer @ SpaceX\n@steve_yegge, Engineer, Writer, Advisor\n@zachbruggeman, Principal Software Engineer @ Ramp\n\nNov 10-12, SF. Come hang out with us. Apply at ai.engineer/code\n\n\n\n\n\n— https://nitter.netbub.com/aiDotEngineer/status/2112276851355693315#m",
+      "text": "some fun slides from my upcoming talk @aiDotEngineer \n\nvery excited to share how we ship crazy amounts of code (30x'd) without reading it, yet perf is as good if not better then when we launched\n\nthere's a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop\n\nfun fact: ~230 people landed at least 1 PR to grok bot in october!\n\n\n\n\n\n\nAI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer)\n\nFirst AIE Code Summit speakers:\n\n@poteto, Principal Engineer @ SpaceX\n@steve_yegge, Engineer, Writer, Advisor\n@zachbruggeman, Principal Software Engineer @ Ramp\n\nNov 10-12, SF. Come hang out with us. Apply at ai.engineer/code\n\n\n\n\n\n— https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
       "link": "https://x.com/poteto/status/2118017093677494706#m",
       "date": "Wed, 04 Nov 2026 16:26:40 GMT",
       "tweet_id": "2118017093677494706",
@@ -101,7 +135,7 @@
       "text_zh": "终于有了一个到处都有信号好的网络！"
     },
     {
-      "text": "Free new dish for all early Starlink customers\n\n\nSawyer Merritt (@SawyerMerritt)\n\nStarlink is formally rolling out free dish upgrades for its earliest customers.\n\n“Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.”\n\nMore info: starlink.com/support/article…\n\n\n\n\n\n— https://nitter.netbub.com/SawyerMerritt/status/2117745806996340890#m",
+      "text": "Free new dish for all early Starlink customers\n\n\nSawyer Merritt (@SawyerMerritt)\n\nStarlink is formally rolling out free dish upgrades for its earliest customers.\n\n“Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.”\n\nMore info: starlink.com/support/article…\n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2117745806996340890#m",
       "link": "https://x.com/elonmusk/status/2117995905525907769#m",
       "date": "Wed, 04 Nov 2026 15:02:28 GMT",
       "tweet_id": "2117995905525907769",
@@ -2605,47 +2639,6 @@
       "tweet_id": "2115346075666325755",
       "ctx_done": 1,
       "text_zh": "我看到了你最糟糕的一面\n而我还是选择了你\n\n视频"
-    },
-    {
-      "text": "Starlink\nVideo",
-      "link": "https://x.com/elonmusk/status/2115337497760936079#m",
-      "date": "Wed, 28 Oct 2026 06:58:55 GMT",
-      "tweet_id": "2115337497760936079",
-      "quoted": {
-        "user": "cb_doge",
-        "text": "When @Starlink became a lifeline for a mother and her baby in rural Colombia.\n\nKarina, 24, was facing a high-risk pregnancy after previously losing a baby. Reaching town from her remote community could take two days on horseback.\n\nA visiting doctor brought a portable Starlink terminal and an ultrasound machine. Through Starlink, a specialist hundreds of kilometres away watched the scan live, guided the examination and identified the need for an immediate hospital transfer.\n\nKarina reached the hospital in time. Her baby was born safely, and she had no complications.\n\nStarlink brought specialist medical guidance into a home far from the city and helped a mother get urgent care.\n\nThis is why Starlink matters. It connects people to help when lives are at stake.\n\nThis lifesaving technology should be available in every part of the world.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114978048063963136/img/PlNhLVXBH0vZDPqm.jpg",
-            "local": "2115337497760936079q_0.jpg"
-          }
-        ],
-        "text_zh": "当@Starlink 成为哥伦比亚农村地区一位母亲和她的孩子的生命线时。\n\n24 岁的卡琳娜 (Karina) 在失去孩子后面临着高风险怀孕。从她偏远的社区骑马到镇上可能需要两天的时间。\n\n一位来访的医生带来了便携式星链终端和超声波机。通过星链，数百公里外的专家现场观看了扫描结果，指导检查并确定是否需要立即转院。\n\n卡琳娜及时赶到了医院。她的孩子安全出生，她没有出现任何并发症。\n\nStarlink 将专业医疗指导带入远离城市的家庭，帮助一位母亲获得紧急护理。\n\n这就是星链如此重要的原因。当生命受到威胁时，它将人们联系起来提供帮助。\n\n这种救生技术应该在世界各地都可用。"
-      },
-      "ctx_done": 1,
-      "text_zh": "星链\n视频"
-    },
-    {
-      "text": "Grok @Bot is like hiring an awesome employee\n\n\nBrian Armstrong (@brian_armstrong)\n\n\n\n\n\n\n— http://nitter.jaydenha.uk/brian_armstrong/status/2115145550991655088#m",
-      "link": "https://x.com/elonmusk/status/2115324694505337203#m",
-      "date": "Wed, 28 Oct 2026 06:08:02 GMT",
-      "tweet_id": "2115324694505337203",
-      "quoted": {
-        "user": "brian_armstrong",
-        "text": "",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVqBnh9XoAEIk1p.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVqBnh9XoAEIk1p.png?name=orig",
-            "local": "2115324694505337203q_0.jpg"
-          }
-        ]
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 就像雇用了一名出色的员工\n\n\n布莱恩·阿姆斯特朗 (@brian_armstrong)\n\n\n\n\n\n\n— http://nitter.jaydenha.uk/brian_armstrong/status/2115145550991655088#m"
     }
   ]
 }
