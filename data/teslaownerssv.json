@@ -1,8 +1,398 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-05T21:27:28Z",
+  "updated_at": "2026-11-06T05:58:30Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Elon Musk loves the word absolutely https://t.co/sVzbvuXxqh",
+      "link": "https://x.com/teslaownersSV/status/2118578429788574192",
+      "date": "Fri Nov 06 05:37:13 +0000 2026",
+      "tweet_id": "2118578429788574192",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118578400994693120/vid/avc1/1080x1920/rUHPL9IGaYfgLn0G.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118578400994693120/img/l7ZDqOwoIwZgyn7Y.jpg",
+          "local": "2118578429788574192_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118578400994693120/vid/avc1/1080x1920/rUHPL9IGaYfgLn0G.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118578400994693120/img/l7ZDqOwoIwZgyn7Y.jpg",
+          "local": "2118578429788574192_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克绝对喜欢这个词 https://t.co/sVzbvuXxqh"
+    },
+    {
+      "text": "RT @JessicaTetreau: This makes me so happy for you @teslaownersSV! 🥹✨",
+      "link": "https://x.com/teslaownersSV/status/2118575395616547124",
+      "date": "Fri Nov 06 05:25:10 +0000 2026",
+      "tweet_id": "2118575395616547124",
+      "quoted": {
+        "user": "mayemusk",
+        "text": "Well, I didn’t realize you had subscriptions. Then when @ToscaMusk posted she was subscribing, I immediately did it. John, you are such a good guy, looking forward to your content. 🤓🤓",
+        "text_zh": "好吧，我不知道你有订阅。然后，当@ToscaMusk 发布她正在订阅的消息时，我立即订阅了。约翰，你真是个好人，期待你的内容。 🤓🤓"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @JessicaTetreau：这让我为你感到高兴@teslaownersSV！ 🥹✨"
+    },
+    {
+      "text": "This makes me so happy for you @teslaownersSV! 🥹✨",
+      "link": "https://x.com/JessicaTetreau/status/2118574785055567945",
+      "date": "Fri Nov 06 05:22:44 +0000 2026",
+      "tweet_id": "2118574785055567945",
+      "quoted": {
+        "user": "mayemusk",
+        "text": "Well, I didn’t realize you had subscriptions. Then when @ToscaMusk posted she was subscribing, I immediately did it. John, you are such a good guy, looking forward to your content. 🤓🤓",
+        "text_zh": "好吧，我不知道你有订阅。然后，当@ToscaMusk 发布她正在订阅的消息时，我立即订阅了。约翰，你真是个好人，期待你的内容。 🤓🤓"
+      },
+      "ctx_done": 1,
+      "text_zh": "这让我为你感到高兴@teslaownersSV！ 🥹✨"
+    },
+    {
+      "text": "RT @mayemusk: Well, I didn’t realize you had subscriptions. Then when @ToscaMusk posted she was subscribing, I immediately did it. John, yo…",
+      "link": "https://x.com/teslaownersSV/status/2118573558725300545",
+      "date": "Fri Nov 06 05:17:52 +0000 2026",
+      "tweet_id": "2118573558725300545",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "OMG I’m about to cry. \n\n@mayemusk just subscribed to me. 😭\n\nThank you Maye for always supporting our work.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118558673656328192/img/HXV5g0Pbvansk3HA.jpg",
+            "local": "2118573558725300545q_0.jpg"
+          }
+        ],
+        "text_zh": "天哪，我快哭了。 \n\n@mayemusk 刚刚订阅了我。 ??\n\n感谢 Maye 一直以来对我们工作的支持。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @mayemusk：好吧，我没有意识到你有订阅。然后，当@ToscaMusk 发布她正在订阅的消息时，我立即订阅了。约翰，你…"
+    },
+    {
+      "text": "Well, I didn’t realize you had subscriptions. Then when @ToscaMusk posted she was subscribing, I immediately did it. John, you are such a good guy, looking forward to your content. 🤓🤓",
+      "link": "https://x.com/mayemusk/status/2118573244584522024",
+      "date": "Fri Nov 06 05:16:37 +0000 2026",
+      "tweet_id": "2118573244584522024",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "OMG I’m about to cry. \n\n@mayemusk just subscribed to me. 😭\n\nThank you Maye for always supporting our work.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118558673656328192/img/HXV5g0Pbvansk3HA.jpg",
+            "local": "2118573244584522024q_0.jpg"
+          }
+        ],
+        "text_zh": "天哪，我快哭了。 \n\n@mayemusk 刚刚订阅了我。 ??\n\n感谢 Maye 一直以来对我们工作的支持。"
+      },
+      "ctx_done": 1,
+      "text_zh": "好吧，我不知道你有订阅。然后，当@ToscaMusk 发布她正在订阅的消息时，我立即订阅了。约翰，你真是个好人，期待你的内容。 🤓🤓"
+    },
+    {
+      "text": "Check out the Everest Kitchen in Sunnyvale if you live in the Bay Area. The best Indian food in my opinion. https://t.co/SHJOcqmGgu",
+      "link": "https://x.com/teslaownersSV/status/2118562610664874021",
+      "date": "Fri Nov 06 04:34:22 +0000 2026",
+      "tweet_id": "2118562610664874021",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118562513780703232/vid/avc1/2160x3840/MC4Jlxr4-5OyICN2.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118562513780703232/img/wcSOIY52a9oKJBWd.jpg",
+          "local": "2118562610664874021_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118562513780703232/vid/avc1/2160x3840/MC4Jlxr4-5OyICN2.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118562513780703232/img/wcSOIY52a9oKJBWd.jpg",
+          "local": "2118562610664874021_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "如果您住在湾区，请查看桑尼维尔的珠穆朗玛峰厨房。我认为最好的印度菜。 https://t.co/SHJOcqmGgu"
+    },
+    {
+      "text": "OMG I’m about to cry. \n\n@mayemusk just subscribed to me. 😭\n\nThank you Maye for always supporting our work. https://t.co/NnkkPtBfMs",
+      "link": "https://x.com/teslaownersSV/status/2118558745634783646",
+      "date": "Fri Nov 06 04:19:00 +0000 2026",
+      "tweet_id": "2118558745634783646",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118558673656328192/vid/avc1/2160x3840/Xn4HIfNol1ESQxWF.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118558673656328192/img/HXV5g0Pbvansk3HA.jpg",
+          "local": "2118558745634783646_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118558673656328192/vid/avc1/2160x3840/Xn4HIfNol1ESQxWF.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118558673656328192/img/HXV5g0Pbvansk3HA.jpg",
+          "local": "2118558745634783646_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Thank you @ToscaMusk for subscribing. \n\nAppreciate you for the support. https://t.co/iZvYKCWCRG",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
+            "local": "2118558745634783646q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
+            "local": "2118558745634783646q_1.jpg"
+          }
+        ],
+        "text_zh": "感谢@ToscaMusk 的订阅。 \n\n感谢您的支持。 https://t.co/iZvYKCWCRG"
+      },
+      "ctx_done": 1,
+      "text_zh": "天哪，我快哭了。 \n\n@mayemusk 刚刚订阅了我。 ??\n\n感谢 Maye 一直以来对我们工作的支持。 https://t.co/NnkkPtBfMs"
+    },
+    {
+      "text": "Tosca is always cookin with @PassionFlix",
+      "link": "https://x.com/teslaownersSV/status/2118548259836997986",
+      "date": "Fri Nov 06 03:37:20 +0000 2026",
+      "tweet_id": "2118548259836997986",
+      "quoted": {
+        "user": "ToscaMusk",
+        "text": "Fall update 🍁 @PassionFlix ❤️\n\n(Next time I’ll brush the hair off my sweater 😂) https://t.co/sO6YWGWf0O",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2118036316092780544/vid/avc1/2160x3840/c8XBh5XxmPitggAP.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118036316092780544/img/hU0fUa2rgfTZwwpS.jpg",
+            "local": "2118548259836997986q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2118036316092780544/vid/avc1/2160x3840/c8XBh5XxmPitggAP.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118036316092780544/img/hU0fUa2rgfTZwwpS.jpg",
+            "local": "2118548259836997986q_1.jpg"
+          }
+        ],
+        "text_zh": "秋季更新🍁@PassionFlix❤️\n\n（下次我会把毛衣上的头发刷掉😂）https://t.co/sO6YWGWf0O"
+      },
+      "ctx_done": 1,
+      "text_zh": "托斯卡总是和@PassionFlix一起做饭"
+    },
+    {
+      "text": "BREAKING: SpaceX is targeting November 13 for Starship Flight 15. https://t.co/Pcd4oYUUIh",
+      "link": "https://x.com/teslaownersSV/status/2118547492459651339",
+      "date": "Fri Nov 06 03:34:17 +0000 2026",
+      "tweet_id": "2118547492459651339",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118547460532707328/vid/avc1/720x1280/hP5NNz-OWZ73uJiI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118547460532707328/img/bxGAeTwyD-k_YgB8.jpg",
+          "local": "2118547492459651339_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118547460532707328/vid/avc1/720x1280/hP5NNz-OWZ73uJiI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118547460532707328/img/bxGAeTwyD-k_YgB8.jpg",
+          "local": "2118547492459651339_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "突发新闻：SpaceX 计划于 11 月 13 日进行 Starship Flight 15。https://t.co/Pcd4oYUUIh"
+    },
+    {
+      "text": "Did you know that we interviewed Tosca back in 2024? https://t.co/VK5S2gNf0Y",
+      "link": "https://x.com/teslaownersSV/status/2118545137261535480",
+      "date": "Fri Nov 06 03:24:56 +0000 2026",
+      "tweet_id": "2118545137261535480",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118545117758050304/vid/avc1/720x1280/t0mq4m3GkVhgcmPc.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118545117758050304/img/Kh9jUdykNIchiCGW.jpg",
+          "local": "2118545137261535480_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118545117758050304/vid/avc1/720x1280/t0mq4m3GkVhgcmPc.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118545117758050304/img/Kh9jUdykNIchiCGW.jpg",
+          "local": "2118545137261535480_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Thank you @ToscaMusk for subscribing. \n\nAppreciate you for the support. https://t.co/iZvYKCWCRG",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
+            "local": "2118545137261535480q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
+            "local": "2118545137261535480q_1.jpg"
+          }
+        ],
+        "text_zh": "感谢@ToscaMusk 的订阅。 \n\n感谢您的支持。 https://t.co/iZvYKCWCRG"
+      },
+      "ctx_done": 1,
+      "text_zh": "您知道我们在 2024 年采访过托斯卡吗？ https://t.co/VK5S2gNf0Y"
+    },
+    {
+      "text": "Thank you @ToscaMusk for subscribing. \n\nAppreciate you for the support. https://t.co/iZvYKCWCRG",
+      "link": "https://x.com/teslaownersSV/status/2118544942691967465",
+      "date": "Fri Nov 06 03:24:09 +0000 2026",
+      "tweet_id": "2118544942691967465",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
+          "local": "2118544942691967465_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
+          "local": "2118544942691967465_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "感谢@ToscaMusk 的订阅。 \n\n感谢您的支持。 https://t.co/iZvYKCWCRG"
+    },
+    {
+      "text": "RT @SjvTesla: Hey Fresno, you up?\n\n777 W Palmdon Dr, Fresno, CA 93704\n\nBring the family — demo drives all day, treats, red light therapy, p…",
+      "link": "https://x.com/teslaownersSV/status/2118542285050978731",
+      "date": "Fri Nov 06 03:13:36 +0000 2026",
+      "tweet_id": "2118542285050978731",
+      "ctx_done": 1,
+      "text_zh": "RT @SjvTesla：嘿弗雷斯诺，你起来了吗？\n\n777 W Palmdon Dr, 弗雷斯诺, CA 93704\n\n带上家人——全天演示驾驶、款待、红光疗法、……"
+    },
+    {
+      "text": "Check out my new podcast with @Newsforce called The Stack with @SjvTesla",
+      "link": "https://x.com/teslaownersSV/status/2118538383752647064",
+      "date": "Fri Nov 06 02:58:05 +0000 2026",
+      "tweet_id": "2118538383752647064",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "Tesla Expands, Neuralink Connects, AI Accelerates, and more | The Stack https://t.co/kN7H0kQXUq",
+        "text_zh": "Tesla 扩张、Neuralink 连接、AI 加速等等 |堆栈 https://t.co/kN7H0kQXUq"
+      },
+      "ctx_done": 1,
+      "text_zh": "与 @Newsforce 一起查看我的新播客，名为 The Stack with @SjvTesla"
+    },
+    {
+      "text": "Hey Fresno, you up?\n\n777 W Palmdon Dr, Fresno, CA 93704\n\nBring the family — demo drives all day, treats, red light therapy, permanent jewelry, balloon animals and face paint for kids, local vendors, and music. Show cars welcome if you want to park and show your Tesla. https://t.co/LpnkPd3SQJ",
+      "link": "https://x.com/SjvTesla/status/2118536727317057621",
+      "date": "Fri Nov 06 02:51:30 +0000 2026",
+      "tweet_id": "2118536727317057621",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=large",
+          "local": "2118536727317057621_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=large",
+          "local": "2118536727317057621_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "嘿弗雷斯诺，你起来了吗？\n\n777 W Palmdon Dr, 弗雷斯诺, CA 93704\n\n带上家人——全天演示驾驶、款待、红光疗法、永久珠宝、气球动物和儿童面部彩绘、当地摊贩和音乐。如果您想停车并展示您的特斯拉，请展示欢迎车辆。 https://t.co/LpnkPd3SQJ"
+    },
+    {
+      "text": "Elon Musk on why Starship has to be fully reusable:\n\n\"Nobody's ever made a fully reusable orbital rocket.\"\n\n\"That's really the critical breakthrough necessary for life to become multiplanetary.\"\n\n\"For us to become a true spacefaring civilization, we have to achieve full and rapid https://t.co/hQJFwlmDmP",
+      "link": "https://x.com/teslaownersSV/status/2118518108721906039",
+      "date": "Fri Nov 06 01:37:31 +0000 2026",
+      "tweet_id": "2118518108721906039",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118518056330948608/vid/avc1/1920x1080/uLIZC0WF_tkq4IOz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118518056330948608/img/lniR0h3qud9tpPLQ.jpg",
+          "local": "2118518108721906039_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118518056330948608/vid/avc1/1920x1080/uLIZC0WF_tkq4IOz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118518056330948608/img/lniR0h3qud9tpPLQ.jpg",
+          "local": "2118518108721906039_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么星际飞船必须完全可重复使用：\n\n“没有人制造过完全可重复使用的轨道火箭。”\n\n“这确实是生命走向多行星所必需的关键突破。”\n\n“为了让我们成为真正的航天文明，我们必须全面、快速地实现 https://t.co/hQJFwlmDmP"
+    },
+    {
+      "text": "Elon Musk in 2012 on the year both SpaceX and Tesla nearly died.\n\nHe was on stage at PandoMonthly in Santa Monica with Sarah Lacy in July 2012. \n\nFalcon 1 had failed three times in a row. The Tesla financing round fell apart in the financial crisis.\n\n\"So it looked like all three https://t.co/hlQDq4kz5R",
+      "link": "https://x.com/teslaownersSV/status/2118517800138584168",
+      "date": "Fri Nov 06 01:36:18 +0000 2026",
+      "tweet_id": "2118517800138584168",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118517546429317120/vid/avc1/1080x1350/-eMCpe0bmLcwqUS_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517546429317120/img/slrD_o6_RnyUInD7.jpg",
+          "local": "2118517800138584168_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118517546429317120/vid/avc1/1080x1350/-eMCpe0bmLcwqUS_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517546429317120/img/slrD_o6_RnyUInD7.jpg",
+          "local": "2118517800138584168_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 于 2012 年去世，这一年 SpaceX 和特斯拉都差点丧命。\n\n2012 年 7 月，他与 Sarah Lacy 一起登上了圣莫尼卡 PandoMonthly 的舞台。 \n\n猎鹰一号已经连续三次失败。特斯拉的一轮融资在金融危机中宣告失败。\n\n“所以看起来这三个都是 https://t.co/hlQDq4kz5R"
+    },
+    {
+      "text": "Cybercab in Palo Alto https://t.co/rf3a6bbTuw",
+      "link": "https://x.com/teslaownersSV/status/2118517771298578459",
+      "date": "Fri Nov 06 01:36:11 +0000 2026",
+      "tweet_id": "2118517771298578459",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118517694626689024/vid/avc1/2160x3840/RWDXG0elyFI3auYn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517694626689024/img/V0zNpSlwcq_0LJZ3.jpg",
+          "local": "2118517771298578459_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118517694626689024/vid/avc1/2160x3840/RWDXG0elyFI3auYn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517694626689024/img/V0zNpSlwcq_0LJZ3.jpg",
+          "local": "2118517771298578459_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "帕洛阿尔托的 Cyber​​cab https://t.co/rf3a6bbTuw"
+    },
+    {
+      "text": "RT @Newsforce: Tesla Expands, Neuralink Connects, AI Accelerates, and more | The Stack https://t.co/kN7H0kQXUq",
+      "link": "https://x.com/teslaownersSV/status/2118476142076362957",
+      "date": "Thu Nov 05 22:50:46 +0000 2026",
+      "tweet_id": "2118476142076362957",
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：特斯拉扩张、Neuralink 连接、人工智能加速等等 |堆栈 https://t.co/kN7H0kQXUq"
+    },
+    {
+      "text": "Tesla Expands, Neuralink Connects, AI Accelerates, and more | The Stack https://t.co/kN7H0kQXUq",
+      "link": "https://x.com/Newsforce/status/2118474577307197601",
+      "date": "Thu Nov 05 22:44:33 +0000 2026",
+      "tweet_id": "2118474577307197601",
+      "ctx_done": 1,
+      "text_zh": "Tesla 扩张、Neuralink 连接、AI 加速等等 |堆栈 https://t.co/kN7H0kQXUq"
+    },
     {
       "text": "“While I'm not a particularly religious person, I do believe that the teachings of Jesus are good and wise, and that there's tremendous wisdom in turning the other cheek.”\nElon Musk https://t.co/1wARaNAwe9",
       "link": "https://x.com/teslaownersSV/status/2118443097483104591",
@@ -770,6 +1160,28 @@
       ],
       "ctx_done": 1,
       "text_zh": "“我会告诉你一件事：埃隆·马斯克是目前地球上最伟大的人。”\n桑迪·芒罗 https://t.co/HbsKhEOP1Y"
+    },
+    {
+      "text": "Fall update 🍁 @PassionFlix ❤️\n\n(Next time I’ll brush the hair off my sweater 😂) https://t.co/sO6YWGWf0O",
+      "link": "https://x.com/ToscaMusk/status/2118041533697884667",
+      "date": "Wed Nov 04 18:03:47 +0000 2026",
+      "tweet_id": "2118041533697884667",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118036316092780544/vid/avc1/2160x3840/c8XBh5XxmPitggAP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118036316092780544/img/hU0fUa2rgfTZwwpS.jpg",
+          "local": "2118041533697884667_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118036316092780544/vid/avc1/2160x3840/c8XBh5XxmPitggAP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118036316092780544/img/hU0fUa2rgfTZwwpS.jpg",
+          "local": "2118041533697884667_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "秋季更新🍁@PassionFlix❤️\n\n（下次我会把毛衣上的头发刷掉😂）https://t.co/sO6YWGWf0O"
     },
     {
       "text": "\"No dead zones anywhere in the world.\" Elon called it at Starbase in 2022. Today SpaceX picked Qualcomm to build Starlink Mobile's nationwide 5G network.\n\nElon Musk, announcing Starlink direct to cell with T-Mobile in August 2022:\n\n\"The important thing about this is that it means https://t.co/ERWdSYbrnf",
@@ -3713,419 +4125,6 @@
       },
       "ctx_done": 1,
       "text_zh": "RT @Diana99：今年 Cyber​​Fest 支持 Whip 小儿癌症。他们为接受癌症治疗的儿童提供直接支持……"
-    },
-    {
-      "text": "Never deleting this app https://t.co/ZTt6fFL1K1",
-      "link": "https://x.com/teslaownersSV/status/2116357609565667588",
-      "date": "Sat Oct 31 02:32:28 +0000 2026",
-      "tweet_id": "2116357609565667588",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV7QB8_bMAAj89s.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV7QB8_bMAAj89s.jpg?format=jpg&name=large",
-          "local": "2116357609565667588_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV7QB8_bMAAj89s.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV7QB8_bMAAj89s.jpg?format=jpg&name=large",
-          "local": "2116357609565667588_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "切勿删除此应用程序 https://t.co/ZTt6fFL1K1"
-    },
-    {
-      "text": "Elon Musk on why he builds rockets, robots and AI, in his own words from TED 2013 to the Terafab launch:\n\n\"It will be a future that you love.\"\n\n13 years, same promise. Thank you, Elon https://t.co/CnfEiXwd1h",
-      "link": "https://x.com/teslaownersSV/status/2116356540202692680",
-      "date": "Sat Oct 31 02:28:13 +0000 2026",
-      "tweet_id": "2116356540202692680",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116356510569959424/vid/avc1/1080x1920/4iVCmctC01s7Y4bk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116356510569959424/img/OvxL9-FkSjZy8Kzd.jpg",
-          "local": "2116356540202692680_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116356510569959424/vid/avc1/1080x1920/4iVCmctC01s7Y4bk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116356510569959424/img/OvxL9-FkSjZy8Kzd.jpg",
-          "local": "2116356540202692680_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "从 2013 年 TED 到 Terafab 发布，埃隆·马斯克 (Elon Musk) 用他自己的话讲述了他为何制造火箭、机器人和人工智能：\n\n“这将是你所热爱的未来。”\n\n13年，不变的承诺。谢谢你，埃隆 https://t.co/CnfEiXwd1h"
-    },
-    {
-      "text": "Elon Musk on why the hand is the hardest part of building Optimus:\n\"Well, I have to say, building a humanoid robot has really made me think a lot about how the human body works. But maybe more than anything, just how incredible our hands are. It's like, wow.\"\n\"Almost all the https://t.co/p5pnBX2uFW",
-      "link": "https://x.com/teslaownersSV/status/2116356053046837384",
-      "date": "Sat Oct 31 02:26:17 +0000 2026",
-      "tweet_id": "2116356053046837384",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116356008268447744/vid/avc1/1080x1920/p-kNR2L4cQ3AYpN7.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116356008268447744/img/FYLmpsUhNuOfkV_o.jpg",
-          "local": "2116356053046837384_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116356008268447744/vid/avc1/1080x1920/p-kNR2L4cQ3AYpN7.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116356008268447744/img/FYLmpsUhNuOfkV_o.jpg",
-          "local": "2116356053046837384_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么手是构建擎天柱最难的部分：\n“嗯，我不得不说，建造一个人形机器人确实让我思考了很多关于人体如何运作的问题。但也许最重要的是，我们的手是多么令人难以置信。就像，哇。”\n“几乎所有 https://t.co/p5pnBX2uFW"
-    },
-    {
-      "text": "Do you support Elon Musk? https://t.co/TxXxpXkKHz",
-      "link": "https://x.com/teslaownersSV/status/2116352835092959660",
-      "date": "Sat Oct 31 02:13:30 +0000 2026",
-      "tweet_id": "2116352835092959660",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV7Lr9ga8AAx85v.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV7Lr9ga8AAx85v.jpg?format=jpg&name=large",
-          "local": "2116352835092959660_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV7Lr9ga8AAx85v.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV7Lr9ga8AAx85v.jpg?format=jpg&name=large",
-          "local": "2116352835092959660_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "你支持埃隆·马斯克吗？ https://t.co/TxXxpXkHz"
-    },
-    {
-      "text": "But if we close our eyes…..",
-      "link": "https://x.com/teslaownersSV/status/2116329313624793098",
-      "date": "Sat Oct 31 00:40:02 +0000 2026",
-      "tweet_id": "2116329313624793098",
-      "ctx_done": 1,
-      "text_zh": "但如果我们闭上眼睛……"
-    },
-    {
-      "text": "Dayyyyuuuummmmm https://t.co/EwdYLvau6Q",
-      "link": "https://x.com/teslaownersSV/status/2116321756323725346",
-      "date": "Sat Oct 31 00:10:00 +0000 2026",
-      "tweet_id": "2116321756323725346",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116321678519414784/vid/avc1/1080x1920/qLvgmgqSVEMOIOak.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116321678519414784/img/zGe6wJZvM2eor6K7.jpg",
-          "local": "2116321756323725346_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116321678519414784/vid/avc1/1080x1920/qLvgmgqSVEMOIOak.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116321678519414784/img/zGe6wJZvM2eor6K7.jpg",
-          "local": "2116321756323725346_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Dayyyyuuuummmmm https://t.co/EwdYLvau6Q"
-    },
-    {
-      "text": "RT @teslaownersSV: The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to o…",
-      "link": "https://x.com/teslaownersSV/status/2116318971884646771",
-      "date": "Fri Oct 30 23:58:56 +0000 2026",
-      "tweet_id": "2116318971884646771",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您给我们带来如此大的启发……"
-    },
-    {
-      "text": "I don't have one AI assistant. I have a whole team of Grok Bots.\n\nOne plans my content. One designs my graphics. One edits and schedules my videos. Others handle my invoices, taxes, calendar, even my coffee order. And nothing goes out without my yes.\n\nStart with whatever eats up https://t.co/RnWmzDLZ8s",
-      "link": "https://x.com/teslaownersSV/status/2116299782121766981",
-      "date": "Fri Oct 30 22:42:41 +0000 2026",
-      "tweet_id": "2116299782121766981",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116299700714524673/vid/avc1/1080x1920/G9IE71yUhFvjFsSf.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116299700714524673/img/lqgs3XOF6Dd5l_Lb.jpg",
-          "local": "2116299782121766981_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116299700714524673/vid/avc1/1080x1920/G9IE71yUhFvjFsSf.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116299700714524673/img/lqgs3XOF6Dd5l_Lb.jpg",
-          "local": "2116299782121766981_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我没有一个人工智能助手。我有一整支 Grok 机器人团队。\n\n一个人计划我的内容。一个人设计我的图形。其中一名负责编辑和安排我的视频。其他人处理我的发票、税款、日历，甚至我的咖啡订单。如果没有我的同意，什么都不会发生。\n\n从吃掉的东西开始 https://t.co/RnWmzDLZ8s"
-    },
-    {
-      "text": "Elon Musk on 60 Minutes in 2012, inside the SpaceX factory, on Falcon 1 failing three times in a row and his own heroes testifying against commercial spaceflight.\n\nFalcon 1 failed on its first three launches. Elon said that if the fourth had failed too, SpaceX would not have had https://t.co/vOoM2Yr8AG",
-      "link": "https://x.com/teslaownersSV/status/2116299339035480280",
-      "date": "Fri Oct 30 22:40:56 +0000 2026",
-      "tweet_id": "2116299339035480280",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116299285117722624/vid/avc1/1080x1350/q45bvHY8s_02Kh2j.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116299285117722624/img/SVCyBOead5-dvg5L.jpg",
-          "local": "2116299339035480280_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116299285117722624/vid/avc1/1080x1350/q45bvHY8s_02Kh2j.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116299285117722624/img/SVCyBOead5-dvg5L.jpg",
-          "local": "2116299339035480280_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2012 年，埃隆·马斯克 (Elon Musk) 在 60 分钟节目中，在 SpaceX 工厂内，讲述了猎鹰 1 号连续三次失败以及他自己的英雄们作证反对商业航天的情况。\n\n猎鹰 1 号前三次发射都失败了。埃隆表示，如果第四次也失败了，SpaceX 就不会拥有 https://t.co/vOoM2Yr8AG"
-    },
-    {
-      "text": "RT @teslaownersSV: Elon Musk on Joe Rogan with his message for voters:\n\n\"Go out and vote. Vote like your life depends on it. Vote like your…",
-      "link": "https://x.com/teslaownersSV/status/2116296243727261833",
-      "date": "Fri Oct 30 22:28:38 +0000 2026",
-      "tweet_id": "2116296243727261833",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "🇺🇸🇺🇸 I voted early today in Texas!! 🇺🇸🇺🇸",
-        "text_zh": "🇺🇸🇺🇸 我今天很早就在德克萨斯州投票了！ 🇺🇸🇺🇸"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：埃隆·马斯克 (Elon Musk) 谈乔·罗根 (Joe Rogan) 向选民传达的信息：\n\n“出去投票。投票就像你的生命取决于它。投票就像你的……"
-    },
-    {
-      "text": "RT @teslaownersSV: .@elonmusk on optimism and America's future:\n\n\"One of the most American values that I love is optimism. And this feeling…",
-      "link": "https://x.com/teslaownersSV/status/2116296203436790150",
-      "date": "Fri Oct 30 22:28:28 +0000 2026",
-      "tweet_id": "2116296203436790150",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：.@elonmusk 谈乐观主义和美国的未来：\n\n“我最喜欢的美国价值观之一就是乐观。这种感觉……"
-    },
-    {
-      "text": "This mine? https://t.co/IRaU8JI1GR",
-      "link": "https://x.com/teslaownersSV/status/2116283119003459899",
-      "date": "Fri Oct 30 21:36:28 +0000 2026",
-      "tweet_id": "2116283119003459899",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=large",
-          "local": "2116283119003459899_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV6MQU2aoAA8K8U.jpg?format=jpg&name=large",
-          "local": "2116283119003459899_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "这个矿？ https://t.co/IRaU8JI1GR"
-    },
-    {
-      "text": ".@elonmusk on optimism and America's future:\n\n\"One of the most American values that I love is optimism. And this feeling that we're going to make the future good. We're going to make it good. Man, I can't wait. This is going to be fantastic.\" https://t.co/Sb9yiR8c2m",
-      "link": "https://x.com/teslaownersSV/status/2116272953105211497",
-      "date": "Fri Oct 30 20:56:05 +0000 2026",
-      "tweet_id": "2116272953105211497",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116272905512488960/vid/avc1/1920x1080/ytgIytitjxMfdqJ1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272905512488960/img/nhERrf-RF9cL8W3E.jpg",
-          "local": "2116272953105211497_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116272905512488960/vid/avc1/1920x1080/ytgIytitjxMfdqJ1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272905512488960/img/nhERrf-RF9cL8W3E.jpg",
-          "local": "2116272953105211497_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": ".@elonmusk 谈乐观主义和美国的未来：\n\n“我最喜欢的美国价值观之一就是乐观。这种感觉我们将让未来变得美好。我们会让它变得美好。伙计，我等不及了。这将是太棒了。” https://t.co/Sb9yiR8c2m"
-    },
-    {
-      "text": "RT @theXtakeover: We loved having @mayemusk at the 𝕏 takeover",
-      "link": "https://x.com/teslaownersSV/status/2116272372936593418",
-      "date": "Fri Oct 30 20:53:46 +0000 2026",
-      "tweet_id": "2116272372936593418",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to our community.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
-            "local": "2116272372936593418q_0.jpg"
-          }
-        ],
-        "text_zh": "精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您对我们社区的启发。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @theXtakeover：我们喜欢@mayemusk 参与𝕏 接管"
-    },
-    {
-      "text": "We loved having @mayemusk at the 𝕏 takeover",
-      "link": "https://x.com/theXtakeover/status/2116272269953835240",
-      "date": "Fri Oct 30 20:53:22 +0000 2026",
-      "tweet_id": "2116272269953835240",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to our community.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
-            "local": "2116272269953835240q_0.jpg"
-          }
-        ],
-        "text_zh": "精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您对我们社区的启发。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们喜欢@mayemusk 参与𝕏 接管"
-    },
-    {
-      "text": "The wonderful @mayemusk with her new book, Timeless. We had an absolute blast. Thanks for being such an inspiration to our community. https://t.co/Wn8ohYI6ey",
-      "link": "https://x.com/teslaownersSV/status/2116272155637973052",
-      "date": "Fri Oct 30 20:52:54 +0000 2026",
-      "tweet_id": "2116272155637973052",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116272022867361792/vid/avc1/2160x3840/hz8fM0PtwuCR86lE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
-          "local": "2116272155637973052_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116272022867361792/vid/avc1/2160x3840/hz8fM0PtwuCR86lE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116272022867361792/img/76vozLuWAVOtsdFu.jpg",
-          "local": "2116272155637973052_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "精彩的@mayemusk 和她的新书《Timeless》。我们玩得很开心。感谢您对我们社区的启发。 https://t.co/Wn8ohYI6ey"
-    },
-    {
-      "text": ".@elonmusk on Neuralink changing what it means to be human:\n\n\"What we're talking about is unlocking that potential to enable you to communicate thousands, perhaps millions of times faster than is currently possible. This is an incredibly profound breakthrough. This would be a https://t.co/nlJoF3FS2m",
-      "link": "https://x.com/teslaownersSV/status/2116264484411232519",
-      "date": "Fri Oct 30 20:22:26 +0000 2026",
-      "tweet_id": "2116264484411232519",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116264419479183360/vid/avc1/1920x1080/jsZ9UcFUlmt-OiPR.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116264419479183360/img/6mnQHu-a-Bk0gZG5.jpg",
-          "local": "2116264484411232519_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2116264419479183360/vid/avc1/1920x1080/jsZ9UcFUlmt-OiPR.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116264419479183360/img/6mnQHu-a-Bk0gZG5.jpg",
-          "local": "2116264484411232519_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": ".@elonmusk 谈 Neuralink 正在改变人类的意义：\n\n“我们正在谈论的是释放这种潜力，使您的沟通速度比目前的速度快数千倍，甚至数百万倍。这是一个极其深远的突破。这将是一个 https://t.co/nlJoF3FS2m"
-    },
-    {
-      "text": "RT @UPTeslaFremont: https://t.co/e4CeJov66o",
-      "link": "https://x.com/teslaownersSV/status/2116253773517693238",
-      "date": "Fri Oct 30 19:39:52 +0000 2026",
-      "tweet_id": "2116253773517693238",
-      "media": [
-        {
-          "type": "animated_gif",
-          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
-          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
-          "local": "2116253773517693238_0.jpg"
-        },
-        {
-          "type": "animated_gif",
-          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
-          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
-          "local": "2116253773517693238_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "My Starship Cybertruck just went next level with @UPTeslaFremont Bull Bar and Carbon Fiber lid. \n\n🤯🤯",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
-            "local": "2116253773517693238q_0.jpg"
-          }
-        ],
-        "text_zh": "我的 Starship Cyber​​truck 凭借 @UPTeslaFremont Bull Bar 和碳纤维盖，迈出了新的一步。 \n\n🤯🤯"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @UPTeslaFremont：https://t.co/e4CeJov66o"
-    },
-    {
-      "text": "https://t.co/e4CeJov66o",
-      "link": "https://x.com/UPTeslaFremont/status/2116247601712672998",
-      "date": "Fri Oct 30 19:15:20 +0000 2026",
-      "tweet_id": "2116247601712672998",
-      "media": [
-        {
-          "type": "animated_gif",
-          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
-          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
-          "local": "2116247601712672998_0.jpg"
-        },
-        {
-          "type": "animated_gif",
-          "url": "https://video.twimg.com/tweet_video/HV5r-bFaAAAOmvd.mp4",
-          "thumb": "https://pbs.twimg.com/tweet_video_thumb/HV5r-bFaAAAOmvd.jpg",
-          "local": "2116247601712672998_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "My Starship Cybertruck just went next level with @UPTeslaFremont Bull Bar and Carbon Fiber lid. \n\n🤯🤯",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?name=orig",
-            "local": "2116247601712672998q_0.jpg"
-          }
-        ],
-        "text_zh": "我的 Starship Cyber​​truck 凭借 @UPTeslaFremont Bull Bar 和碳纤维盖，迈出了新的一步。 \n\n🤯🤯"
-      },
-      "ctx_done": 1,
-      "text_zh": "https://t.co/e4CeJov66o"
-    },
-    {
-      "text": "My Starship Cybertruck just went next level with @UPTeslaFremont Bull Bar and Carbon Fiber lid. \n\n🤯🤯 https://t.co/zJtKD2xrV4",
-      "link": "https://x.com/teslaownersSV/status/2116242138312884586",
-      "date": "Fri Oct 30 18:53:38 +0000 2026",
-      "tweet_id": "2116242138312884586",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=large",
-          "local": "2116242138312884586_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HV5nAihaoAAqyno.jpg?format=jpg&name=large",
-          "local": "2116242138312884586_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我的 Starship Cyber​​truck 凭借 @UPTeslaFremont Bull Bar 和碳纤维盖，迈出了新的一步。 \n\n🤯🤯 https://t.co/zJtKD2xrV4"
     }
   ]
 }
