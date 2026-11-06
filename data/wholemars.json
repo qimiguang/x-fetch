@@ -1,8 +1,16 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-06T14:05:30Z",
+  "updated_at": "2026-11-06T20:50:02Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "I’ll be live on @WOLF_Financial in 20 minutes to talk about the Anthropic IPO! \n\nhttps://t.co/CznRmIwHM5",
+      "link": "https://x.com/wholemars/status/2118806049570635826",
+      "date": "Fri Nov 06 20:41:42 +0000 2026",
+      "tweet_id": "2118806049570635826",
+      "ctx_done": 1,
+      "text_zh": "20 分钟后我将在@WOLF_Financial 上直播谈论 Anthropic IPO！ \n\nhttps://t.co/CznRmIwHM5"
+    },
     {
       "text": "In hindsight, it was a mistake for SpaceX to send them thousands of free Starlink dishes and millions of dollars a month in free service at the beginning of the war. \nWhat started as internet access for civilians became the backbone for autonomous killing drones. And now if they don’t support military use, they get skewered for it in the press.",
       "link": "https://x.com/wholemars/status/2118301931852738730#m",
@@ -2529,14 +2537,6 @@
       "date": "Wed, 21 Oct 2026 00:30:30 GMT",
       "text_zh": "运行洛杉矶大部分人行道送货机器人的 Serve Robotics 在 2025 年亏损了 1.014 亿美元，\n\n（每个送货机器人每年净损失 371,286 美元。）\n\n其投资者为机器人列出的第一个优势是“无司机工资”。\n\n这是该演示文稿中的一张幻灯片",
       "tweet_id": "2112703034157350915",
-      "ctx_done": 1
-    },
-    {
-      "text": "okay, cybersecurity is actually going to be worse than I expected. I somehow forgot that everyone outside the top 10% of companies are running on 10 year old WP sites hacked together by the company owners kid and haven't been updated since.",
-      "link": "https://nitter.kareem.one/sean_from_earth/status/2112698267465306478#m",
-      "date": "Wed, 21 Oct 2026 00:11:33 GMT",
-      "text_zh": "好吧，网络安全实际上会比我预期的更糟糕。我不知何故忘记了，排名前 10% 的公司之外的每个人都在 10 年前的 WP 网站上运行，这些网站被公司所有者的孩子一起黑客攻击，此后就没有更新过。",
-      "tweet_id": "2112698267465306478",
       "ctx_done": 1
     }
   ]
