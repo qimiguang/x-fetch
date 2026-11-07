@@ -1,8 +1,206 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-07T09:50:51Z",
+  "updated_at": "2026-11-07T17:38:46Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "True\n\n\nAlan Dail (@alandail)\n\nNot only that, Tesla open sources their patents. Competitors are free to copy them.\n\n\n\n— https://nitter.kareem.one/alandail/status/2119067057643819026#m",
+      "link": "https://x.com/elonmusk/status/2119117494992478449#m",
+      "date": "Sat, 07 Nov 2026 17:19:16 GMT",
+      "tweet_id": "2119117494992478449",
+      "quoted": {
+        "user": "alandail",
+        "text": "@peterrhague @elonmusk Not only that, Tesla open sources their patents. Competitors are free to copy them.",
+        "text_zh": "@peterrhague @elonmusk 不仅如此，特斯拉还开源了他们的专利。竞争对手可以自由复制它们。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真实\n\n\n艾伦·戴尔 (@alandail)\n\n不仅如此，特斯拉还开源了他们的专利。竞争对手可以自由复制它们。\n\n\n\n— https://nitter.kareem.one/alandail/status/2119067057643819026#m"
+    },
+    {
+      "text": "Starship flight maneuvers",
+      "link": "https://x.com/elonmusk/status/2119114815931039992#m",
+      "date": "Sat, 07 Nov 2026 17:08:38 GMT",
+      "tweet_id": "2119114815931039992",
+      "ctx_done": 1,
+      "text_zh": "星舰飞行演习"
+    },
+    {
+      "text": "Catching a giant rocket falling from space\n\n\nSpaceX (@SpaceX)\n\nStarship is preparing for catch\n \nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → spacex.com/launches/starship…\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/SpaceX/status/2119093662957060389#m",
+      "link": "https://x.com/elonmusk/status/2119111269718364631#m",
+      "date": "Sat, 07 Nov 2026 16:54:32 GMT",
+      "tweet_id": "2119111269718364631",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Starship is preparing for catch\n \nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → https://spacex.com/launches/starship-flight-15",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119092960125956096/img/Z8AJUBX8VV0RDzzY.jpg",
+            "local": "2119111269718364631q_0.jpg"
+          }
+        ],
+        "text_zh": "星舰正在准备捕捞\n \nFlight 15 计划最早于 11 月 13 日星期五发射，等待监管部门批准 → https://spacex.com/launches/starship-flight-15"
+      },
+      "ctx_done": 1,
+      "text_zh": "捕捉从太空坠落的巨型火箭\n\n\nSpaceX（@SpaceX）\n\n星舰正在准备捕捞\n \nFlight 15 计划最早于 11 月 13 日星期五发射，等待监管部门批准 → spacex.com/launches/starship...\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/SpaceX/status/2119093662957060389#m"
+    },
+    {
+      "text": "SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on Flight 15\n\nand it is going to be the first full recovery of an orbital launch system\n\nThe mission brings together both sides of Starship’s future: delivering a major payload to orbit and bringing the entire launch system home for reuse.\n\nSuper Heavy will return minutes after liftoff, while Starship will deploy 26 Starlink V3 satellites, fly a mission of more than 22 hours, then make its way back through the atmosphere toward the tower at Starbase, provided it passes the required vehicle-health checks\n\nThe update walks through the orbital safety checks, heatshield inspections, alternative splashdown locations, the precise approach over northern Mexico and southern Texas, and the final sequence of bellyflop, engine ignition, flip and catch\n\nFlight 15 is targeting launch as early as Friday, November 13, pending regulatory approval. The 75-minute launch window opens at 4:45 p.m. CT. Here is the full plan, from liftoff to bringing both stages home\n\n1. LAUNCH AND THE BOOSTER’S RETURN\n\nSuper Heavy will lift Starship from Starbase before the vehicles separate through hot-staging: Starship ignites its engines while still attached, then continues toward space as the booster turns back.\n\nThe booster will perform its boostback burn, descend toward Starbase and begin its landing burn roughly six minutes after liftoff. The catch is planned for approximately 6 minutes 35 seconds into flight.\n\nThis will be the first catch attempt for a V3 Super Heavy booster. SpaceX has already caught three V1 boosters, with two subsequently flown again.\n\n2. THE HARDWARE DESIGNED FOR CATCHING\n\nSuper Heavy V3 has three grid fins instead of four. Each is 50% larger and significantly stronger, with a new catch point and revised positioning to support lifting and catching operations.\n\nThe tower’s mechanical arms......the chopsticks are shorter to allow faster movement and better tracking during a catch. Their main actuators have changed from hydraulic to electromechanical, improving speed, redundancy and reliability\n\nThese changes are part of the broader V3 architecture, designed around making recovery and reuse routine operations.\n\n3. STARSHIP DOES NOT COMMIT TO ORBIT IMMEDIATELY\n\nThe ship initially follows a passively safe suborbital trajectory rather than entering a sustained orbit directly.\n\nThis is deliberate. If a problem occurs during ascent or shortly afterward, the trajectory takes Starship toward a cleared reentry area over the Indian Ocean without requiring a successful orbital mission.\n\nAfter ascent, flight controllers assess the vehicle’s health and make a go/no-go decision for orbit.\n\nWith a go, one sea-level Raptor performs an orbital insertion burn approximately 26 minutes after liftoff, increasing Starship’s speed enough to establish orbit.\n\n4. DEPLOYING 26 STARLINK V3 SATELLITES\n\nSatellite deployment is planned to begin around 35 minutes into flight and finish around 1 hour 18 minutes.\n\nEach Starlink V3 satellite adds approximately 1 terabit per second of network capacity. SpaceX compares this mission’s 26 satellites with roughly 10 Falcon 9 launches carrying V2 Mini satellites.\n\nAfter deployment, the satellites unfold their antennas and solar arrays, establish radio and laser communications, and use onboard propulsion to raise their orbits. Customer service is expected to begin as soon as a few weeks after launch.\n\nThree satellites have an additional job: photographing Starship’s heatshield.\n\nThose images will be transmitted to operators and become one of several sources of information used to assess whether the ship is ready to return to Starbase. SpaceX has already tested this inspection method on previous flights.\n\n5. ALMOST A DAY IN ORBIT\n\nThe planned mission lasts more than 22 hours, with approximately 14 orbits at an altitude of roughly 275 kilometers.\n\nAfter deploying the satellites, Starship will coast for around another 21 hours until its orbit aligns with Starbase for the return.\n\nThroughout that period, controllers will run continuous manual and automated checks. These cover engine health, power, communications, flight computers, navigation sensors, tank and feedline integrity, tank pressure and attitude control......the ability to maintain the ship’s intended orientation.\n\nThese checks are intentionally conservative. Returning to the tower is something the vehicle must qualify to do through its condition in flight.\n\n6. ALTERNATIVE RETURN OPTIONS THROUGHOUT THE MISSION\n\nThe flight includes opportunities to end the mission early in precleared Pacific Ocean areas if the vehicle is not suitable for a Starbase return.\n\nThese include early- and late-mission splashdown options around Hawaii and a mid-mission opportunity several hundred kilometers off Chile’s coast. The same areas were used during Flight 14.\n\nThe mission therefore has multiple decision points rather than a single commitment to return home regardless of the vehicle’s condition.\n\n7. THE DEORBIT BURN AND REENTRY\n\nStarship will proceed toward Starbase only if it meets SpaceX’s internally developed, FAA-approved conditions for return and catch.\n\nA single Raptor 3 engine will perform the deorbit burn, planned around 21 hours 36 minutes after launch. That changes the ship’s trajectory toward atmospheric entry over the Pacific Ocean, thousands of kilometers uprange from Starbase.\n\nReentry is planned to begin around 22 hours 11 minutes into flight.\n\nThe four control flaps will guide Starship along its intended trajectory while allowing small, deliberate turns to route it over sparsely populated areas of northern Mexico and southern Texas.\n\n8. THE FLIGHT PATH BACK TO STARBASE\n\nStarship will approach from the west and steer around the major cities of the Rio Grande Valley.\n\nIt will pass north of South Padre Island, continue out over the Gulf, then make its final turn south toward Starbase.\n\nThis is not an entirely untested maneuver: SpaceX has demonstrated the banking maneuver on previous Starship flights.\n\nResidents of Cameron County and nearby areas may hear one or more sonic booms. What people experience will depend on weather and other conditions.\n\nReentry over land also has extensive spaceflight precedent, including the Space Shuttle, Dragon’s previous Florida returns, and Soyuz and Shenzhou missions.\n\n9. HOW EARLIER FLIGHTS PREPARED THE HEATSHIELD\n\nPrevious ocean-return tests allowed SpaceX to deliberately push the heatshield, structure and control systems beyond the demands of a normal return to the launch site.\n\nExperiments included removing dozens of heatshield tiles from critical locations and flying maneuvers that subjected the vehicle and flaps to higher heating and aerodynamic forces than a nominal reentry.\n\nFlight 15 also retains Flight 14’s heatshield improvements, including additional tile-retention mechanisms in vulnerable areas, measures addressing plasma intrusion behind tiles, and curved tiles across a large portion of the shield to reduce heating between them.\n\nThe V3 rear-flap mechanism uses a single actuator with three motors per flap, improving redundancy while reducing mass and cost.\n\n10. THE FINAL BELLYFLOP, FLIP AND CATCH\n\nArriving over Starbase, Starship will descend toward the tower at Pad 2 in its bellyflop orientation.\n\nShortly before reaching the tower, it will ignite its three sea-level Raptors, flip upright and stow its flaps.\n\nOnce vertical, it will reduce to two engines and maneuver between the tower’s arms. It will then reduce to one engine as it approaches a near hover.\n\nThe arms will close rapidly around two catch fittings just below the forward flaps.\n\nOnce Starship detects contact with the arms, it will shut down its final engine.\n\nThe ship catch is planned for approximately 22 hours 32 minutes after liftoff. All mission timings are approximate and subject to change.\n\n11. SAFETY OPTIONS REMAIN AVAILABLE DURING REENTRY\n\nSpaceX has built in options to end reentry before the ship reaches land if necessary, including intentionally tumbling the vehicle to ensure atmospheric breakup.\n\nThere is also a late option to divert into the Gulf if either the ship or the tower develops a problem that prevents a safe catch.\n\nThe objective is ambitious, but the return is governed by explicit vehicle-health requirements and multiple alternatives throughout the flight.\n\n12. WHY THIS MISSION MATTERS\n\nCatching the booster solves one part of the recovery challenge. Bringing the upper stage back from orbit addresses the other.\n\nSpaceX described recovering the entire orbital launch system as the “Holy Grail of rocketry” the foundation for full and rapid reuse and an eventual airplane-like flight cadence.\n\nThat is the capability behind Starship’s larger mission: expanding Starlink, deploying the planned Starmind supercompute constellation, establishing a permanent human presence on the Moon and making life multiplanetary.\n\nFlight 15 is taking SpaceX another major step toward that future: launch, deploy, orbit, return and bring both stages home\n\nSpaceX’s full catch update:\nspacex.com/updates#starship-…\n\nOfficial Flight 15 mission details:\nspacex.com/launches/starship…\n\nVideo",
+      "link": "https://x.com/XFreeze/status/2119105020423799051#m",
+      "date": "Sat, 07 Nov 2026 16:29:42 GMT",
+      "tweet_id": "2119105020423799051",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 刚刚发布了一篇详细的博客文章，解释了 Starship 将如何在 15 号航班上返回 Starbase 进行首次塔式捕捉尝试\n\n这将是轨道发射系统的首次完全回收\n\n该任务将星舰未来的两方面结合在一起：将主要有效载荷送入轨道，并将整个发射系统带回地球以供重复使用。\n\nSuper Heavy 将在升空后几分钟返回，而 Starship 将部署 26 颗 Starlink V3 卫星，执行超过 22 小时的任务，然后穿过大气层返回 Starbase 的塔楼，前提是它通过了所需的车辆健康检查\n\n更新内容包括轨道安全检查、隔热板检查、替代溅落位置、墨西哥北部和德克萨斯州南部的精确进近，以及翻滚、发动机点火、翻转和捕捉的最终顺序\n\nFlight 15 计划最早于 11 月 13 日星期五发射，目前正在等待监管部门的批准。 75 分钟的发射窗口于下午 4:45 开始。 CT。这是完整的计划，从升空到将两个阶段带回家\n\n1. 启动和助推器的回归\n\n超重型将在飞行器通过热分级分离之前将星舰从 Starbase 升起：星舰在仍附着的情况下点燃其发动机，然后在助推器返回时继续飞向太空。\n\n助推器将执行其助推燃烧，下降到星际基地并在升空后大约六分钟开始着陆燃烧。计划在飞行后约 6 分 35 秒进行捕捉。\n\n这将是 V3 超重型助推器的首次捕捉尝试。 SpaceX 已经捕获了三枚 V1 助推器，其中两枚随后再次升空。\n\n2. 专为捕捉而设计的硬件\n\nSuper Heavy V3 具有三个网格翅片，而不是四个。每个尺寸都增大了 50%，强度也显着增强，并具有新的捕捉点和修改后的定位以支持提升和捕捉操作。\n\n塔的机械臂……筷子更短，以便在接球时更快地移动和更好的跟踪。他们的主要执行器已从液压变为机电，提高了速度、冗余度和可靠性\n\n这些更改是更广泛的 V3 架构的一部分，围绕恢复和重用例行操作而设计。\n\n3. 星舰不会立即进入轨道\n\n该飞船最初遵循被动安全的亚轨道轨迹，而不是直接进入持续轨道。\n\n这是故意的。如果在上升过程中或上升后不久出现问题，星舰的轨迹将引导星舰前往印度洋上空的安全再入区域，而无需成功执行轨道任务。\n\n上升后，飞行控制人员评估飞行器的健康状况并做出是否进入轨道的决定。\n\n起飞后约 26 分钟，一架海平面猛禽进行了一次轨道插入燃烧，增加了星际飞船的速度，足以建立轨道。\n\n4. 部署 26 颗 STARLINK V3 卫星\n\n卫星部署计划在飞行后 35 分钟左右开始，并在 1 小时 18 分钟左右完成。\n\n每颗 Starlink V3 卫星每秒增加约 1 太比特的网络容量。 SpaceX 将此次任务的 26 颗卫星与大约 10 次携带 V2 Mini 卫星的猎鹰 9 号发射进行了比较。\n\n部署后，卫星展开天线和太阳能电池阵列，建立无线电和激光通信，并使用机载推进装置提升轨道。客户服务预计将在推出后几周内开始。\n\n三颗卫星还有一项额外任务：拍摄星舰的隔热罩。\n\n这些图像将被传输给操作员，并成为用于评估飞船是否准备好返回 Starbase 的几个信息来源之一。 SpaceX 已经在之前的飞行中测试了这种检查方法。\n\n5. 在轨道上几乎一天\n\n计划任务持续超过22小时，绕行约14个轨道，高度约275公里。\n部署卫星后，Starship 将再滑行约 21 小时，直到其轨道与 Starbase 对齐并返回。\n\n在此期间，控制器将持续运行手动和自动检查。这些包括发动机健康状况、电力、通信、飞行计算机、导航传感器、油箱和供给线完整性、油箱压力和姿态控制……保持船舶预定方向的能力。\n\n这些检查是故意保守的。返回塔台是飞行器在飞行状态下必须有资格完成的事情。\n\n6. 整个任务期间的其他返回选项\n\n如果飞行器不适合返回星际基地，则该飞行包括在预先清理的太平洋地区提前结束任务的机会。\n\n其中包括夏威夷周围的早期和后期任务溅落选项以及距智利海岸数百公里的中期任务机会。 14 号航班期间使用了相同的区域。\n\n因此，任务有多个决策点，而不是无论车辆状况如何都返回家园的单一承诺。\n\n7. 脱轨燃烧和再入\n\n只有满足 SpaceX 内部制定、美国联邦航空局 (FAA) 批准的返回和捕获条件，星舰才会前往 Starbase。\n\n一台 Raptor 3 发动机将执行脱轨燃烧，计划在发射后 21 小时 36 分钟左右进行。这改变了飞船进入太平洋大气层的轨迹，距星际基地数千公里。\n\n计划在飞行后 22 小时 11 分钟左右开始重返大气层。\n\n四个控制襟翼将引导星舰沿着预定轨道行驶，同时允许其进行小规模、有意的转弯，以使其在墨西哥北部和德克萨斯州南部人口稀少的地区上空行驶。\n\n8. 返回 STARBASE 的飞行路径\n\n星舰将从西边驶来，绕行格兰德河谷的主要城市。\n\n它将经过南帕德里岛北部，继续飞越海湾，然后最后向南转向星际基地。\n\n这并不是一个完全未经测试的操作：SpaceX 已经在之前的 Starship 飞行中演示了倾斜操作。\n\n卡梅伦县及附近地区的居民可能会听到一次或多次音爆。人们的经历将取决于天气和其他条件。\n\n陆地再入也有广泛的航天先例，包括航天飞机、龙飞船之前的佛罗里达返回以及联盟号和神舟号任务。\n\n9. 早期航班如何准备防热罩\n\n之前的海洋返回测试使 SpaceX 能够故意将隔热罩、结构和控制系统推向超出正常返回发射场的要求。\n\n实验包括从关键位置移除数十块隔热板，以及使飞行器和襟翼承受比名义再入更高的热量和空气动力的飞行机动。\n\nFlight 15 还保留了 Flight 14 的隔热罩改进，包括在脆弱区域增加了瓷砖固定机制、解决瓷砖后面等离子侵入的措施，以及覆盖大部分防护罩的弯曲瓷砖以减少它们之间的热量。\n\nV3 后襟翼机构使用单个执行器，每个襟翼配备三个电机，提高了冗余度，同时减少了质量和成本。\n\n10. 最后的翻滚、翻转和接球\n\n到达 Starbase 上空后，Starship 将以腹翻方向下降到 2 号基地的塔楼。\n\n在到达塔楼之前不久，它将点燃其三架海平面猛禽，翻转直立并收起襟翼。\n\n一旦垂直，它将减少到两个发动机并在塔臂之间机动。当它接近悬停时，它将减少到一台发动机。\n\n臂将围绕前襟翼下方的两个卡扣装置快速闭合。\n\n一旦 Starship 检测到与手臂的接触，它将关闭其最后的引擎。\n\n计划在升空后约 22 小时 32 分钟进行捕捞。所有任务时间均为近似时间，可能会发生变化。\n11. 重返大气层期间仍可使用安全选项\n\nSpaceX 已经内置了一些选项，可以在必要时在飞船到达陆地之前结束再入，包括故意翻滚飞船以确保大气层破裂。\n\n如果船只或塔台出现问题而无法安全捕获，还有一个较晚的选择是转向海湾。\n\n目标雄心勃勃，但返回受到明确的车辆健康要求和整个飞行过程中的多种替代方案的控制。\n\n12. 为什么这个使命很重要\n\n抓住助推器可以解决恢复挑战的一部分。将上级带回轨道解决了另一个问题。\n\nSpaceX 将恢复整个轨道发射系统描述为“火箭技术的圣杯”，这是全面、快速重复使用以及最终像飞机一样的飞行节奏的基础。\n\n这就是 Starship 更大使命背后的能力：扩展 Starlink、部署计划中的 Starmind 超级计算星座、在月球上建立人类永久存在并让生命进入多行星。\n\nFlight 15 使 SpaceX 朝着这个未来又迈出了一大步：发射、部署、轨道、返回并将两个阶段带回家\n\nSpaceX 的完整捕获更新：\nspacex.com/updates#starship-…\n\n15 号航班官方任务详情：\nspacex.com/launches/starship…\n\n视频"
+    },
+    {
+      "text": "SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what to expect, the significance of this flight, and their approach to safety:\n\n\"Starship is preparing to take a major step towards full reusability: bringing the Starship upper stage back to the launch site for a catch by the tower at Starbase.\n\nTo return Starship to Starbase, the spacecraft must now fly a safe trajectory that will take it over inhabited areas in northern Mexico and southern Texas to reach its launch site for catch. Like previous flight testing and the first successful mission to orbit, Starship’s flight profile for this ambitious mission is being designed with opportunities to safely end the mission early if necessary and will follow strict criteria before committing to the final phases of flight.\n\nOUR APPROACH TO A SAFE RETURN:\nOn Flight 15, Starship will initially launch to a passively safe suborbital trajectory. This is the same flight profile used on Starship’s first orbital mission and ensures that any issues encountered during ascent or shortly thereafter will result in Starship reentering over a cleared area of the Indian Ocean.\n\nAfter this initial ascent, flight controllers will assess the health of Starship’s systems before giving a “go” or “no-go” for orbit. If “go”, Starship will then perform an orbital insertion burn with a single Raptor sea-level engine, increasing its speed and achieving orbit around Earth.\n\nOnce on orbit, Starship will deploy its payload of Starlink V3 satellites. Three of these satellites have been modified to acquire imagery of Starship’s heatshield. This method of analyzing Starship’s heatshield has been tested on previous flights and is one of several data sources to help inform Starship’s readiness to return to the launch site on Flight 15.\n\nAfter deploying its payload, Starship will then coast in orbit for another ~21 hours until its orbit aligns with Starbase for a return. During this multi-hour orbital coast, flight controllers will continuously perform manual and automated checks of Starship systems which, similar to the first orbital flight, will be intentionally conservative. They include Raptor engine health, loss of power or communications, the health of the flight computers and navigation sensors, the structural integrity of the propellant tanks and feedlines, the ability to hold tank pressure, and Starship’s ability to control its attitude.\n\nDuring this prolonged coast phase, flight control teams have several options to end the mission early and return Starship to precleared areas of the Pacific Ocean if needed. These locations include early- and late-mission splashdown options around Hawaii and a mid-mission splashdown opportunity several hundred kilometers off the coast of Chile. These precleared areas, which were also used during Flight 14, provide a safe place to land Starship if any conditions arise that may preclude the ability to perform a safe reentry.\n\nWHAT SHIP CATCH WILL LOOK (AND SOUND) LIKE:\nFlight controllers will only permit Starship to return to Starbase if the vehicle’s status meets our internally developed, and FAA-approved, conditions for a return to launch site and catch.\n\nIf these requirements are met, Starship will perform a deorbit burn with a single Raptor 3 engine. This deorbit burn will alter Starship’s path to place the vehicle on a course to reenter Earth’s atmosphere at a specific point over the Pacific Ocean, thousands of kilometers uprange from Starbase.\n\nDuring reentry, Starship can alter its flight path by moving its four control flaps. This will permit Starship to maintain a safe and known trajectory while guiding itself with high precision control toward Starbase. This control will also allow Starship to carry out a series of small turns in its trajectory to intentionally fly over sparsely populated areas of northern Mexico and southern Texas.\n\nAs Starship approaches Starbase from the west, the vehicle will weave its way around the major cities in the Rio Grande Valley, passing to the north of South Padre Island and out over the Gulf of America as it makes its final turn south towards Starbase. This banking maneuver has been demonstrated several times on previous Starship flight tests.\n\nDuring this phase, residents of Cameron County and those in the nearby area may hear one or more sonic booms as Starship approaches the launch site. A sonic boom is a brief, thunder-like noise a person on the ground hears when an aircraft or other vehicle in the area flies faster than the speed of sound. The sonic boom does not present a health risk and what people experience will depend on weather and other conditions.\n\nAs Starship arrives over Starbase, it will perform the final bellyflop maneuver down towards the tower at Pad 2. This bellyflop was proven during a series of high-altitude test hops and during numerous suborbital flight tests. Shortly before reaching the tower, Starship will ignite its three sea-level Raptor engines and flip itself vertical while stowing its flaps. After the flip is complete, Starship will down-select to two Raptor engines and maneuver between the tower's mechanical arms, before down-selecting to a single engine as it comes to a near hover. The arms will close rapidly to catch Starship on its two catch fittings just below the forward flaps. Once Starship registers contact with the tower arms, it will shut down its final Raptor engine.\n\nDuring reentry, flight controllers will have several options to end the reentry early and safely by intentionally tumbling Starship to ensure that it breaks up in the atmosphere before reaching land. There is also a late-reentry option to send Starship into the Gulf of America if any of its systems or the tower itself encounter an issue after reentry that would preclude a safe catch at Starbase.\n\nTHE HOLY GRAIL OF ROCKETRY:\nRecovering an entire orbital launch system has never been done, and Starship has always been designed change that. This full recovery is often referred to as the Holy Grail of rocketry as it enables full and rapid reuse of a rocket – opening the door to airplane-like cadence where a vehicle flies again rapidly.\n\nReaching this milestone with Starship will allow SpaceX to unlock the true capability of Starship and will enable future missions to establish a permanent human presence on the Moon, expand the worldwide Starlink network, launch our Starmind supercompute constellation, extend the light of consciousness to the stars, and make life multiplanetary.\"\n\nVideo below of the what flight 15's mission profile is:\n\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2119097866123624773#m",
+      "date": "Sat, 07 Nov 2026 16:01:16 GMT",
+      "tweet_id": "2119097866123624773",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 刚刚发布了一篇关于 Starship 计划于 11 月 13 日进行的第 15 次飞行的新博客，其中包含有关预期结果、这次飞行的意义以及他们的安全方法的更多信息：\n\n“星舰正准备向完全可重复使用迈出重要一步：将星舰上层带回发射场，以便由 Starbase 的塔台捕获。\n\n为了让星际飞船返回星际基地，飞船现在必须沿着安全的轨道飞行，飞越墨西哥北部和德克萨斯州南部的居民区，到达发射场进行捕获。与之前的飞行测试和首次成功的入轨任务一样，Starship 为这项雄心勃勃的任务设计的飞行剖面是为了在必要时提前安全结束任务而设计的，并且在进入最后阶段的飞行之前将遵循严格的标准。\n\n我们安全退货的方法：\n在 15 号航班上，Starship 最初将发射到被动安全的亚轨道轨道。这与星舰第一次轨道任务中使用的飞行剖面相同，并确保在上升过程中或此后不久遇到的任何问题都将导致星舰重新进入印度洋的空旷区域。\n\n在最初的上升之后，飞行控制人员将评估星舰系统的健康状况，然后再决定是否进入轨道。如果“出发”，星际飞船将使用单个猛禽海平面发动机进行轨道插入燃烧，提高其速度并实现绕地球轨道运行。\n\n一旦进入轨道，Starship 将部署 Starlink V3 卫星的有效载荷。其中三颗卫星已经过改造，可以获取星舰隔热罩的图像。这种分析 Starship 隔热罩的方法已经在之前的飞行中进行了测试，并且是帮助告知 Starship 准备好在 15 号航班返回发射场的几个数据源之一。\n\n部署有效载荷后，Starship 将在轨道上再滑行约 21 小时，直到其轨道与 Starbase 对齐并返回。在这个长达数小时的轨道滑行过程中，飞行控制员将持续对星舰系统进行手动和自动检查，与第一次轨道飞行类似，这将是有意保守的。其中包括猛禽发动机的健康状况、电力或通信中断、飞行计算机和导航传感器的健康状况、推进剂罐和供给线的结构完整性、保持罐压的能力以及星舰控制其姿态的能力。\n\n在这个漫长的海岸阶段，飞行控制小组有多种选择可以提前结束任务，并在需要时将星舰返回太平洋预先清理的区域。这些地点包括夏威夷周围的早期和后期任务溅落选项以及距智利海岸数百公里的中期任务溅落机会。这些预先清理过的区域也在 14 号航班期间使用过，如果出现任何可能妨碍安全再入的情况，则可以为星舰提供安全的着陆场所。\n\n渔获物看起来（和听起来）是什么样的：\n仅当飞行器的状态满足我们内部制定且经美国联邦航空局批准的返回发射场和捕获的条件时，飞行控制人员才会允许星舰返回 Starbase。\n\n如果满足这些要求，Starship 将使用单个 Raptor 3 发动机进行离轨燃烧。这次脱轨燃烧将改变星际飞船的路径，使飞船走上重新进入地球大气层的路线，地点是太平洋上空的一个特定地点，距星际基地数千公里。\n\n在重返大气层期间，星舰可以通过移动四个控制襟翼来改变其飞行路径。这将使星际飞船能够保持安全且已知的轨道，同时以高精度控制引导自己前往星际基地。这种控制还将使星舰能够在其轨道上进行一系列小转弯，有意飞越墨西哥北部和德克萨斯州南部人口稀少的地区。\n当星舰从西边接近 Starbase 时，飞船将绕行里奥格兰德河谷的主要城市，经过南帕德里岛北部，并越过美洲湾，最后向南转向 Starbase。这种倾斜动作已在之前的星舰飞行测试中多次得到证实。\n\n在此阶段，当星舰接近发射场时，卡梅伦县和附近地区的居民可能会听到一次或多次音爆。音爆是当该地区的飞机或其他车辆飞行速度超过音速时，地面上的人听到的一种短暂的、类似雷声的噪音。音爆不会带来健康风险，人们的体验取决于天气和其他条件。\n\n当星舰抵达 Starbase 上空时，它将向 2 号发射台的塔楼执行最后一次腹翻动作。这种腹翻动作在一系列高空测试跳跃和多次亚轨道飞行测试中得到了证明。在到达塔楼之前不久，星舰将点燃其三个海平面猛禽发动机，并在收起襟翼的同时垂直翻转。翻转完成后，星舰将向下选择两个猛禽发动机并在塔的机械臂之间机动，然后在接近悬停时向下选择单个发动机。手臂将迅速关闭，用前襟翼下方的两个捕捉装置捕捉星舰。一旦星际飞船与塔臂接触，它将关闭最后的猛禽引擎。\n\n在重返大气层期间，飞行控制人员将有多种选择来提前安全地结束重返大气层，即故意使星舰翻滚，以确保其在到达陆地之前在大气层中分解。如果星际飞船的任何系统或塔本身在重返大气层后遇到问题而无法在星际基地安全捕获，那么还有一个延迟再入选项可以将星际飞船送入美洲湾。\n\n火箭的圣杯：\n恢复整个轨道发射系统从未完成过，而星际飞船的设计始终是为了改变这一点。这种完全恢复通常被称为火箭技术的圣杯，因为它能够充分、快速地重复使用火箭——为车辆再次快速飞行的飞机般的节奏打开了大门。\n\nStarship 达到这一里程碑将使 SpaceX 能够释放 Starship 的真正能力，并使未来的任务能够在月球上建立人类永久存在，扩大全球 Starlink 网络，启动我们的 Starmind 超级计算星座，将意识之光延伸到星星，并使生命成为多行星。”\n\n下面的视频显示了 15 号航班的任务简介：\n\n视频"
+    },
+    {
+      "text": "SpaceX has officially announced that it is currently targeting November 13th at 5:45 PM ET for Starship's 15th flight.\n\nFlight info: \n\"This flight is planned to be the first to return both Starship and Super Heavy to the launch site for catch. If successful, this will mark the first full recovery of an orbital launch system and a breakthrough moment in making Starship a reliable, rapidly reusable rocket.\"\n\n• Flight will last more than 22 hours, completing approximately 14 orbits around Earth.\n• Starship will orbit at an altitude of approximately 275 km (171 miles).\n• First attempt to recover both Super Heavy and Starship at the launch site during the same mission.\n• First return-to-launch-site and catch attempt for a Super Heavy V3 booster.\n• Super Heavy will execute launch, ascent, stage separation, boostback burn, and return to Starbase for a tower catch.\n• Starship will deploy 26 Starlink V3 satellites into orbit before attempting its first return to Starbase and tower catch.\n• The 26 satellites will provide capacity equivalent to approximately 10 Falcon 9 launches carrying Starlink V2 Mini satellites.\n• Satellites will deploy antennas and solar arrays, establish radio and laser communications, and raise their orbits using onboard thrusters.\n• Satellites could begin serving customers within weeks of launch following successful on-orbit checkouts.\n• Three Starlink V3 satellites will carry cameras to inspect Starship's heatshield and transmit imagery to ground operators.\n• Starship's heatshield will feature improved tile retention, additional protection against plasma intrusion, and expanded use of curved tiles to reduce heating between tiles.\n• Starship will only attempt its return and catch if critical reentry, landing burn, and tower approach systems are confirmed healthy.\n• Multiple predetermined ocean deorbit locations and a passively safe suborbital trajectory provide contingency options.\n• A successful mission would mark the first complete recovery of an orbital launch system, a major milestone toward rapid reusability.\n\nMore info: spacex.com/launches/starship…",
+      "link": "https://x.com/SawyerMerritt/status/2119095373620736058#m",
+      "date": "Sat, 07 Nov 2026 15:51:22 GMT",
+      "tweet_id": "2119095373620736058",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 已正式宣布，目前计划于美国东部时间 11 月 13 日下午 5:45 进行 Starship 的第 15 次飞行。\n\n航班信息： \n“这次飞行计划是第一次将星舰和超重型火箭送回发射场进行捕获。如果成功，这将标志着轨道发射系统的首次完全回收，也是使星舰成为可靠、快速可重复使用的火箭的突破性时刻。”\n\n• 飞行将持续超过 22 小时，完成大约 14 圈地球轨道。\n• 星舰将在大约 275 公里（171 英里）的高度运行。\n• 在同一任务期间首次尝试在发射场回收超重型和星舰。\n• 首次返回发射场并尝试捕获超重型 V3 助推器。\n• Super Heavy 将执行发射、上升、阶段分离、助推燃烧，然后返回 Starbase 进行塔接机。\n• Starship 将在尝试首次返回 Starbase 和塔台捕获之前将 26 颗 Starlink V3 卫星部署到轨道上。\n• 这 26 颗卫星将提供相当于约 10 次搭载 Starlink V2 Mini 卫星的猎鹰 9 号发射的容量。\n• 卫星将部署天线和太阳能电池阵列，建立无线电和激光通信，并使用机载推进器提升轨道。\n• 成功在轨检验后，卫星可在发射后几周内开始为客户提供服务。\n• 三颗 Starlink V3 卫星将携带摄像机来检查 Starship 的隔热罩并将图像传输给地面操作员。\n• Starship 的隔热罩将具有改进的瓷砖保持力、针对等离子体侵入的额外保护，以及扩大使用弯曲瓷砖以减少瓷砖之间的热量。\n• 只有在确认关键的再入、着陆燃烧和塔台进近系统正常的情况下，星际飞船才会尝试返回并捕获。\n• 多个预定的海洋脱轨位置和被动安全的亚轨道轨迹提供了应急选项。\n• 一次成功的任务将标志着轨道发射系统的首次完全回收，这是快速重复使用的一个重要里程碑。\n\n更多信息：spacex.com/launches/starship..."
+    },
+    {
+      "text": "10k kids born today, 10k new 530A accts auto created by @USTreasury w $1000 in the S&P 500 compounding for 18 yrs.  10k kids born tomorrow, 10k new accounts.  And the day after.  Forever. 🇺🇸💰🚀\n\nVideo",
+      "link": "https://x.com/altcap/status/2119085865309999174#m",
+      "date": "Sat, 07 Nov 2026 15:13:35 GMT",
+      "tweet_id": "2119085865309999174",
+      "ctx_done": 1,
+      "text_zh": "今天有 10,000 个孩子出生，@USTreasury 创建了 10,000 个新的 530A 账户，在标准普尔 500 指数中以 1000 美元复利 18 年。  明天将有 10000 个孩子出生，10000 个新帐户。  以及后天。  永远。 🇺🇸💰🚀\n\n视频"
+    },
+    {
+      "text": "Yesterday, I was working on something with Grok Bot when a guy nearby noticed me using it\n\nHe immediately pulled out his phone and started showing me how he uses Grok Bot, how he had set up all his bots, and how he manages his usage limits\n\nhe just literally saw me using Grok Bot and came over out of curiosity. We ended up having a really nice conversation about how we’re both using it haha",
+      "link": "https://x.com/XFreeze/status/2118987271965966564#m",
+      "date": "Sat, 07 Nov 2026 08:41:49 GMT",
+      "tweet_id": "2118987271965966564",
+      "ctx_done": 1,
+      "text_zh": "昨天，我正在使用 Grok Bot 做一些事情，附近的一个人注意到我在使用它\n\n他立即拿出手机，开始向我展示他如何使用 Grok Bot、他如何设置所有机器人以及他如何管理他的使用限制\n\n他只是看到我在使用 Grok Bot，出于好奇就过来了。我们最终就如何使用它进行了一次非常愉快的对话哈哈"
+    },
+    {
+      "text": "True",
+      "link": "https://x.com/elonmusk/status/2118956856978653374#m",
+      "date": "Sat, 07 Nov 2026 06:40:57 GMT",
+      "tweet_id": "2118956856978653374",
+      "quoted": {
+        "user": "cremieuxrecueil",
+        "text": "Whenever people say the U.S. has a lot of starvation, it's like they're saying they don't realize the poor have obesity issues these days.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWgIm0ua8AAuaFi.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWgIm0ua8AAuaFi.jpg?name=orig",
+            "local": "2118956856978653374q_0.jpg"
+          }
+        ],
+        "text_zh": "每当人们说美国有很多饥饿问题时，就好像他们没有意识到穷人现在有肥胖问题。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真的"
+    },
+    {
+      "text": "天呐，海底光缆统治世界的时代要结束了，又要见证历史了🤯。。\n马斯克首次公布 Starlink V4 的极端参数：性能直接跳涨一百倍，光速天然快了一点四倍且不用绕大陆架，上千万条激光链路正在把地球通信主干搬上深空。\n\n绝大多数人至今依然以为，星链只是给偏远山区、游艇和飞机提供网络补丁的边缘工具。\n直到马斯克刚刚在最新的投资人会议上摊开底牌，很多人才第一次看懂 SpaceX 真正的阳谋：把构筑人类现代文明的海底光缆网络，从大洋深处连根拔起，彻底搬到太空。\n这里藏着一个极度反直觉的物理常识： 光在太空真空中的传播速度，比在玻璃光纤里整整快了 40%。\n 更致命的是几何路径的差异。海底光缆必须顺着大陆架和海沟蜿蜒曲折地绕远路，而太空中的卫星激光链路，两点之间永远是沿着大圆航线在真空中直线对穿。这意味着在跨洋超长距离通信上，太空激光的延迟天然比地面光缆更低。\n而阻碍这件事过去的唯一瓶颈，是带宽密度。\n马斯克这次直接给出了技术迭代的量化终局： 从 V2 到即将落地的 V4 卫星，单星吞吐能力将直接迎来 100 倍的暴力跃升。 在更长期的宏大蓝图里，超过 10 万颗卫星组成的轨道阵列，每颗都将配备大约 100 个传输速率超 10 Tbps 的光学激光器，在地球外围织成一张百 Exabit 级别的无缝高速网状路由。\n这已经不是在做卫星宽带了，这是在用火箭把全球互联网的核心骨干网整个重写一遍。\n海底光缆容易被地质地震震断、被船锚挂伤，更深陷地缘博弈的物理封锁；而悬在头顶的真空激光网络，既没有折射损耗，也没有无法逾越的地理边界。\n人类用了上百年时间，把铜线和光纤一根根沉入海底来连接彼此；而未来的文明动脉，注定要在没有阻力的星空里以光速奔流。\n\nVideo\n  \n\n\n\n\nAYi (@AYi_AInotes)\n\n马斯克刚刚把全球半导体制造行业最后一点虚伪的遮羞布撕碎了，\n老马透露今年全世界除了他以外生产的所有 AI 芯片加起来大概只有二十吉瓦，而他正在秘密推进的超级芯片工厂 TeraFab，终极目标是把年产量直接干到整整一太瓦，也就是明年全球总产量的三十倍。\n当大多数科技巨头还在为了抢台积电几万片先进封装配额打破头的时候，\n\n马斯克对 TeraFab 这个名字给出的三重拆解，已经把工业狂人的冷血算盘展现得淋漓尽致，它既谐音代表让人毛骨悚然的恐怖，\n\n也代表扎根于这颗星球的土地，但底层最纯粹的本质就是物理学上的太瓦，一个大到超出人类现行半导体常识的超级怪兽。\n\n按照目前的全球供应链节奏，明年全世界哪怕把吃奶的力气用上，全部 AI 芯片的总功耗产能预计也就只能爬坡到三十五到四十五吉瓦，\n\n在传统半导体代工厂眼里这已经算得上是跨越式的军备竞赛，但放在马斯克以太瓦为单位丈量的物理世界里，整个人类现存的芯片制造体系加在一起，弱小得就像是手工作坊在小打小闹。\n\n这其实彻底挑明了软硬件协同演进的一条绝情铁律，任何把通用人工智能挂在嘴边、却把晶圆制造和先进产能全部寄托给外部代工的软件公司，\n\n本质上都是把自家大厦建在了极其脆弱的流沙上，只要产能杠杆的阀门依然被传统供应链卡在几十吉瓦的窄门里，大模型参数狂飙的尽头就必然是一堵无法逾越的物理高墙。\n\n别再觉得一太瓦的超级工厂只是他在麦克风前的随口狂想了，当一个狠人把工业制造的目标定在超出全世界三十倍的极限位置上，他从一开始就没打算跟现有的玩家在同一个棋盘里抢饭吃，他要做的，是用工业怪兽的绝对吨位，把人类文明推进下一个计算纪元。\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/AYi_AInotes/status/2118892954349609282#m",
+      "link": "https://x.com/AYi_AInotes/status/2118907113439170814#m",
+      "date": "Sat, 07 Nov 2026 03:23:17 GMT",
+      "tweet_id": "2118907113439170814",
+      "quoted": {
+        "user": "AYi_AInotes",
+        "text": "马斯克刚刚把全球半导体制造行业最后一点虚伪的遮羞布撕碎了，\n老马透露今年全世界除了他以外生产的所有 AI 芯片加起来大概只有二十吉瓦，而他正在秘密推进的超级芯片工厂 TeraFab，终极目标是把年产量直接干到整整一太瓦，也就是明年全球总产量的三十倍。\n当大多数科技巨头还在为了抢台积电几万片先进封装配额打破头的时候，\n\n马斯克对 TeraFab 这个名字给出的三重拆解，已经把工业狂人的冷血算盘展现得淋漓尽致，它既谐音代表让人毛骨悚然的恐怖，\n\n也代表扎根于这颗星球的土地，但底层最纯粹的本质就是物理学上的太瓦，一个大到超出人类现行半导体常识的超级怪兽。\n\n按照目前的全球供应链节奏，明年全世界哪怕把吃奶的力气用上，全部 AI 芯片的总功耗产能预计也就只能爬坡到三十五到四十五吉瓦，\n\n在传统半导体代工厂眼里这已经算得上是跨越式的军备竞赛，但放在马斯克以太瓦为单位丈量的物理世界里，整个人类现存的芯片制造体系加在一起，弱小得就像是手工作坊在小打小闹。\n\n这其实彻底挑明了软硬件协同演进的一条绝情铁律，任何把通用人工智能挂在嘴边、却把晶圆制造和先进产能全部寄托给外部代工的软件公司，\n\n本质上都是把自家大厦建在了极其脆弱的流沙上，只要产能杠杆的阀门依然被传统供应链卡在几十吉瓦的窄门里，大模型参数狂飙的尽头就必然是一堵无法逾越的物理高墙。\n\n别再觉得一太瓦的超级工厂只是他在麦克风前的随口狂想了，当一个狠人把工业制造的目标定在超出全世界三十倍的极限位置上，他从一开始就没打算跟现有的玩家在同一个棋盘里抢饭吃，他要做的，是用工业怪兽的绝对吨位，把人类文明推进下一个计算纪元。 https://x.com/firesidealpha/status/2118772923095974246/video/1",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118772815449165824/img/tvcCXtLzaHX4EC5Q.jpg",
+            "local": "2118907113439170814q_0.jpg"
+          }
+        ],
+        "text_zh": "马斯克刚刚把全球半导体制造行业最后一点虚伪的遮羞布撕碎了，\n老马透露今年全世界除了他以外生产的所有 AI 芯片加起来大概只有二十吉瓦，而他正在秘密推进的超级芯片工厂 TeraFab，终极目标是把年产量直接干到整整一太瓦，也就是明年全球总产量的三十倍。\n当大多数科技巨头还在为了抢台积电几万片先进封装配额打破头的时候，\n\n马斯克对 TeraFab 这个名字给出的三重拆解，已经把工业狂人的冷血算盘展现得淋漓尽致，它既谐音代表让人毛骨悚然的恐怖，\n\n也代表扎根于这颗星球的土地，但底层最纯粹的本质就是物理学上的太瓦，一个大到超出人类现行半导体常识的超级怪兽。\n\n按照目前的全球供应链节奏，明年全世界哪怕把吃奶的力气用上，全部 AI 芯片的总功耗产能预计也就只能爬坡到三十五到四十五吉瓦，\n\n在传统半导体代工厂眼里这已经算得上是跨越式的军备竞赛，但放在马斯克以太瓦为单位丈量的物理世界里，整个人类现存的芯片制造体系加在一起，弱小得就像是手工作坊在小打小闹。\n\n这其实彻底挑明了软硬件协同演进的一条绝情铁律，任何把通用人工智能挂在嘴边、却把晶圆制造和先进产能全部寄托给外部代工的软件公司，\n\n本质上都是把自家大厦建在了极其脆弱的流沙上，只要产能杠杆的阀门依然被传统供应链卡在几十吉瓦的窄门里，大模型参数狂飙的尽头就必然是一堵无法逾越的物理高墙。\n\n别再觉得一太瓦的超级工厂只是他在麦克风前的随口狂想了，当一个狠人把工业制造的目标定在超出全世界三十倍的极限位置上，他从一开始就没打算跟现有的玩家在同一个棋盘里抢饭吃，他要做的，是用工业怪兽的绝对吨位，把人类文明推进下一个计算纪元。 https://x.com/firesidealpha/status/2118772923095974246/video/1"
+      },
+      "ctx_done": 1,
+      "text_zh": "天呐，海底光缆统治世界的时代要结束了，又要见证历史了🤯。。\n马斯克首次公布 Starlink V4 的极端参数：性能直接跳涨一百倍，光速天然快了一点四倍且不用绕大陆架，上千万条激光链路正在把地球通信主干搬上深空。\n\n绝大多数人至今依然以为，星链只是给偏远山区、游艇和飞机提供网络补丁的边缘工具。\n直到马斯克刚刚在最新的投资人会议上摊开底牌，很多人才第一次看懂 SpaceX 真正的阳谋：把构筑人类现代文明的海底光缆网络，从大洋深处连根拔起，彻底搬到太空。\n这里藏着一个极度反直觉的物理常识： 光在太空真空中的传播速度，比在玻璃光纤里整整快了 40%。\n 更致命的是几何路径的差异。海底光缆必须顺着大陆架和海沟蜿蜒曲折地绕远路，而太空中的卫星激光链路，两点之间永远是沿着大圆航线在真空中直线对穿。这意味着在跨洋超长距离通信上，太空激光的延迟天然比地面光缆更低。\n而阻碍这件事过去的唯一瓶颈，是带宽密度。\n马斯克这次直接给出了技术迭代的量化终局： 从 V2 到即将落地的 V4 卫星，单星吞吐能力将直接迎来 100 倍的暴力跃升。 在更长期的宏大蓝图里，超过 10 万颗卫星组成的轨道阵列，每颗都将配备大约 100 个传输速率超 10 Tbps 的光学激光器，在地球外围织成一张百 Exabit 级别的无缝高速网状路由。\n这已经不是在做卫星宽带了，这是在用火箭把全球互联网的核心骨干网整个重写一遍。\n海底光缆容易被地质地震震断、被船锚挂伤，更深陷地缘博弈的物理封锁；而悬在头顶的真空激光网络，既没有折射损耗，也没有无法逾越的地理边界。\n人类用了上百年时间，把铜线和光纤一根根沉入海底来连接彼此；而未来的文明动脉，注定要在没有阻力的星空里以光速奔流。\n\nVideo\n  \n\n\n\n\nAYi (@AYi_AInotes)\n\n马斯克刚刚把全球半导体制造行业最后一点虚伪的遮羞布撕碎了，\n老马透露今年全世界除了他以外生产的所有 AI 芯片加起来大概只有二十吉瓦，而他正在秘密推进的超级芯片工厂 TeraFab，终极目标是把年产量直接干到整整一太瓦，也就是明年全球总产量的三十倍。\n当大多数科技巨头还在为了抢台积电几万片先进封装配额打破头的时候，\n\n马斯克对 TeraFab 这个名字给出的三重拆解，已经把工业狂人的冷血算盘展现得淋漓尽致，它既谐音代表让人毛骨悚然的恐怖，\n\n也代表扎根于这颗星球的土地，但底层最纯粹的本质就是物理学上的太瓦，一个大到超出人类现行半导体常识的超级怪兽。\n\n按照目前的全球供应链节奏，明年全世界哪怕把吃奶的力气用上，全部 AI 芯片的总功耗产能预计也就只能爬坡到三十五到四十五吉瓦，\n\n在传统半导体代工厂眼里这已经算得上是跨越式的军备竞赛，但放在马斯克以太瓦为单位丈量的物理世界里，整个人类现存的芯片制造体系加在一起，弱小得就像是手工作坊在小打小闹。\n\n这其实彻底挑明了软硬件协同演进的一条绝情铁律，任何把通用人工智能挂在嘴边、却把晶圆制造和先进产能全部寄托给外部代工的软件公司，\n\n本质上都是把自家大厦建在了极其脆弱的流沙上，只要产能杠杆的阀门依然被传统供应链卡在几十吉瓦的窄门里，大模型参数狂飙的尽头就必然是一堵无法逾越的物理高墙。\n\n别再觉得一太瓦的超级工厂只是他在麦克风前的随口狂想了，当一个狠人把工业制造的目标定在超出全世界三十倍的极限位置上，他从一开始就没打算跟现有的玩家在同一个棋盘里抢饭吃，他要做的，是用工业怪兽的绝对吨位，把人类文明推进下一个计算纪元。\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/AYi_AInotes/status/2118892954349609282#m"
+    },
+    {
+      "text": "Elon Musk is a free speech champion.",
+      "link": "https://x.com/Edison1HQ/status/2118792729476174089#m",
+      "date": "Fri, 06 Nov 2026 19:48:46 GMT",
+      "tweet_id": "2118792729476174089",
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克是言论自由的捍卫者。"
+    },
+    {
+      "text": "If you’re right wing and you can’t admit liberals (not communists) are way better at art and design and boutique coffee shops and restaurants, you’re not living in reality. \nIf you’re left wing and you can’t admit conservatives are way better at running cities and businesses and police departments, you’re not living in reality. \nYou step inside a beautiful coffee shop in the PNW and think “man, these liberals are great at this stuff…conservatives should take notes.” Then the moment you step outside and trip over a homeless drug zombie shooting up fentanyl on the sidewalk, you think “man these liberals are terrible at this stuff…they should really take notes from conservatives”\nCommunists make disgusting anti-beauty art, but classical liberals aren’t like that. Put the libs in charge of the coffee shops, put the conservatives in charge of city hall. This is how you get a city that is beautiful, clean, and functional. \nIf you can’t accept that, you need to check your tribalism. We are never getting rid of each other, so figure out how we strike a balance or else the communists swoop in and take everything from us while we quarrel over stupid bullshit…which is exactly what’s happening now.",
+      "link": "https://x.com/spencerpratt/status/2118762477060251823#m",
+      "date": "Fri, 06 Nov 2026 17:48:33 GMT",
+      "tweet_id": "2118762477060251823",
+      "quoted": {
+        "user": "spencerpratt",
+        "text": "Conservatives make society functional. Liberals make society beautiful. \n\nWe really do need each other.",
+        "text_zh": "保守派让社会运转起来。自由主义者让社会变得美丽。 \n\n我们确实需要彼此。"
+      },
+      "ctx_done": 1,
+      "text_zh": "如果你是右翼人士，并且不能承认自由主义者（而不是共产主义者）在艺术和设计以及精品咖啡店和餐馆方面做得更好，那么你就没有生活在现实中。 \n如果你是左翼人士，并且不能承认保守派在管理城市、企业和警察部门方面做得更好，那么你就没有生活在现实中。 \n当你走进 PNW 一家漂亮的咖啡馆时，你会想：“伙计，这些自由主义者在这方面很擅长……保守派应该记下笔记。”然后，当你走出去，被一个在人行道上注射芬太尼的无家可归的毒品僵尸绊倒时，你会想“天哪，这些自由主义者在这件事上很糟糕……他们真的应该向保守派做笔记”\n共产主义者制造令人厌恶的反美艺术，但古典自由主义者不是这样的。让自由党负责咖啡店，让保守派负责市政厅。这就是您如何获得一个美丽、干净且功能齐全的城市的方式。 \n如果你不能接受这一点，你需要检查一下你的部落主义。我们永远不会摆脱彼此，所以弄清楚我们如何取得平衡，否则当我们为愚蠢的废话争吵时，共产党会突然介入并夺走我们的一切……这正是现在正在发生的事情。"
+    },
+    {
+      "text": "There is no fact-based argument for a reduction of data center build out due to an already expected split government midterm result or the state voting initiatives. \n\n1. If a local/state gov doesn’t want to make a deal, the cloud/hyperscaler will move to one who will . This isn’t binary, most locals are making deals. The builds over the next 1-1.5yrs are already permitted.\n2. If the US as a whole rejects enough land mass where the demand for AI factories cannot be fulfilled in the US, those AI factories will move offshore repeating the prior 3 decades of globalization and hollowing out of our middle class. It was dumb back then and even dumber now given the geopolitical national security implications of AI sovereignty…\n\n@HalftimeReport @TheJudgeCNBC",
+      "link": "https://x.com/thejefflutz/status/2118757195877925050#m",
+      "date": "Fri, 06 Nov 2026 17:27:34 GMT",
+      "tweet_id": "2118757195877925050",
+      "ctx_done": 1,
+      "text_zh": "由于已经预期的政府中期结果分裂或州投票举措，没有基于事实的论据支持减少数据中心建设。 \n\n1. 如果地方/州政府不想达成协议，云/超大规模将转移给愿意的人。这不是二元的，大多数当地人都在做交易。未来 1-1.5 年的建设已获许可。\n2. 如果美国作为一个整体拒绝提供足够的土地，而美国无法满足人工智能工厂的需求，那么这些人工智能工厂将转移到海外，重复前3年的全球化和中产阶级的空心化。考虑到人工智能主权对地缘政治国家安全的影响，当时的做法很愚蠢，现在更愚蠢……\n\n@HalftimeReport @TheJudgeCNBC"
+    },
+    {
+      "text": "When computers and robots advance enough, legacy governance will look awkwardly quaint.\n\nIf they can build almost everything, why can't residents submit proposals, vote on them, and have them built?\n\nInstead of years of theater, projects can be completed in days.\n\nWant a high-speed railway? It costs X joules and hours to construct and Y joules per day to operate, with options A, B, and C. The full blueprint is attached for verification. No endless fake tax-raising campaign to fund something that does not exist. You pay with the electricity bill. No additional income or property taxes. Obviously, places with cheap electricity would have more build-out than places that don’t.\n\nOnce started, every agent can access the real-time status.\n\nIt may seem like fantasy, but the technology is almost there.",
+      "link": "https://x.com/yunta_tsai/status/2118735799953101194#m",
+      "date": "Fri, 06 Nov 2026 16:02:33 GMT",
+      "tweet_id": "2118735799953101194",
+      "ctx_done": 1,
+      "text_zh": "当计算机和机器人足够先进时，遗留治理就会显得异常古怪。\n\n如果他们几乎可以建造一切，为什么居民不能提交提案、投票并建造它们呢？\n\n项目可以在几天内完成，而不需要花费数年的时间。\n\n想要高铁吗？建造需要花费 X 焦耳和几个小时，每天需要花费 Y 焦耳进行操作，选项有 A、B 和 C。附上完整的蓝图以供验证。没有无休无止的虚假增税活动来资助不存在的东西。您用电费单支付。没有额外的所得税或财产税。显然，拥有廉价电力的地方比没有廉价电力的地方有更多的扩建。\n\n一旦启动，每个座席都可以访问实时状态。\n\n这可能看起来像幻想，但技术已近在眼前。"
+    },
+    {
+      "text": "Tech CEO’s on January 3, 2027",
+      "link": "https://x.com/alifarhat79/status/2118730774182768877#m",
+      "date": "Fri, 06 Nov 2026 15:42:35 GMT",
+      "tweet_id": "2118730774182768877",
+      "ctx_done": 1,
+      "text_zh": "2027 年 1 月 3 日科技首席执行官"
+    },
+    {
+      "text": "Here's some fuel for all the Europoor haters:\n\nGermany just told us we'd have to fire one of our 3 founders to qualify for funding.\n\nI was in talks with a German state-backed fund of fund managing billions, with one single mandate: invest in German funds to drive innovation and economic growth in the country.\n\nThey literally told me they like us a lot and are also impressed by our track record and performance so far, and even though not everyone in their team is a fan of our thesis, they believe in it.\n\nBut they passed for a whole different reason:\n\nBecause our all-male team of 3 people isn't \"diverse enough\" lol.\n\nthey literally told me: hire two more female partners (impossible on the economics of a fund our size), or let one of the three of us go to make room for a quota hire. do that, and they'd strongly consider investing.\n\nI won't even get into how discriminatory this is toward men in the first place. nobody takes that seriously anyway, and honestly I don't care.\n\nbut what actually gets me is something bigger: as a German, I have to face the fact that the whole world continuing to laugh at Germany and overall Europe is completely justified.\n\na system that quietly kills the smallest, hungriest teams, the exact ones this money was created to support. and then everyone acts surprised that talent and capital keep leaving the country.",
+      "link": "https://x.com/sjdedic/status/2118688674548265131#m",
+      "date": "Fri, 06 Nov 2026 12:55:18 GMT",
+      "tweet_id": "2118688674548265131",
+      "ctx_done": 1,
+      "text_zh": "以下是为所有讨厌欧洲穷人的人提供的一些燃料：\n\n德国刚刚告诉我们，我们必须解雇 3 位创始人中的一位才能获得资助。\n\n我正在与一家管理数十亿美元的德国国家支持的基金进行谈判，该基金只有一个任务：投资德国基金以推动该国的创新和经济增长。\n\n他们从字面上告诉我，他们非常喜欢我们，并且对我们迄今为止的记录和表现也印象深刻，尽管不是他们团队中的每个人都喜欢我们的论文，但他们相信它。\n\n但他们通过的原因完全不同：\n\n因为我们的全男性三人团队不够“多元化”哈哈。\n\n他们确实告诉我：再雇用两名女性合伙人（对于我们规模的基金来说，这在经济上是不可能的），或者让我们三个人中的一个去为配额雇用腾出空间。这样做，他们就会强烈考虑投资。\n\n我什至不会首先讨论这对男性有多么歧视。无论如何，没有人认真对待这一点，老实说我不在乎。\n\n但真正令我困扰的是更大的事情：作为一个德国人，我必须面对这样一个事实：全世界继续嘲笑德国和整个欧洲是完全合理的。\n\n这个系统悄悄地杀死了最小、最饥饿的团队，而这些资金正是为了支持这些团队而创建的。然后每个人都对人才和资本不断离开这个国家感到惊讶。"
+    },
+    {
+      "text": "Gavin Baker owned 15% of Nvidia and 10% of Tesla before either was worth $2 billion. He’s 50. And he just admitted Claude Code was too hard for him, so he switched to Grok Bot.\n\n“I glued together all this stuff with Claude Code and, you know, I’m sure it was user error on my part. 50 years old. I’m doing my best.”\n\nThen he tried Grok Bot.\n\n“Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet.”\n\n“It just makes it so easy. I think I’m up to like 17 Grok Bots, and every day I think of a new one to add.”\n\nAnd it’s not a toy for him. It’s how he runs money:\n\n“For the more professional use cases, Grok Bot has just been transformative for me.”\n\n“So much of investing is making sure that the right information gets to the right person at the right time, and Grok Bot is so good at that.”\n\nOne of the best tech investors alive runs his firm on 17 AI agents. And he’s adding a new one every day.\n\nVideo\n  \n\n\n\n\nstark0xbt (@stark0xbt)\n\n\nArticle\n\n\n\nThe Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026\n\nOpening: The Quote That Named a Decade\nIn October 2026, Gavin Baker — the man who owned 15% of Nvidia under a $1B market cap and 10% of Tesla sub-$2B — sat down for a podcast and said one phrase that\n\n\n\n\n— https://nitter.kareem.one/stark0xbt/status/2110060506782253061#m",
+      "link": "https://x.com/stark0xbt/status/2118452360066355485#m",
+      "date": "Thu, 05 Nov 2026 21:16:16 GMT",
+      "tweet_id": "2118452360066355485",
+      "quoted": {
+        "user": "stark0xbt",
+        "text": "https://x.com/i/article/2109986286463234048",
+        "text_zh": "https://x.com/i/article/2109986286463234048"
+      },
+      "ctx_done": 1,
+      "text_zh": "加文·贝克 (Gavin Baker) 拥有 Nvidia 15% 的股份和特斯拉 10% 的股份，此前这两家公司的价值都达到了 20 亿美元。他 50 岁了。他承认 Claude Code 对他来说太难了，所以他改用了 Grok Bot。\n\n“我用 Claude Code 将所有这些东西粘在一起，你知道，我确信这是我的用户错误。我已经 50 岁了。我正在尽力而为。”\n\n然后他尝试了 Grok Bot。\n\n“Grok Bot 对我和我们公司来说是迄今为止最具影响力的人工智能产品。”\n\n“它让事情变得如此简单。我想我最多可以使用 17 个 Grok 机器人，而且每天我都会想添加一个新机器人。”\n\n这对他来说不是一个玩具。这就是他的理财方式：\n\n“对于更专业的用例，Grok Bot 对我来说是变革性的。”\n\n“很多投资都是为了确保在正确的时间将正确的信息传递给正确的人，而 Grok Bot 在这方面非常擅长。”\n\n当今最优秀的科技投资者之一通过 17 名人工智能代理运营着他的公司。而且他每天都会添加一个新的。\n\n视频\n  \n\n\n\n\nstark0xbt (@stark0xbt)\n\n\n文章\n\n\n\n收益中的埃隆时代：15 位蓝筹基金经理对 2026 年马斯克的评价\n\n开场：十年的名言\n2026 年 10 月，加文·贝克 (Gavin Baker) 在播客节目中说了一句话：\n\n\n\n\n— https://nitter.kareem.one/stark0xbt/status/2110060506782253061#m"
+    },
+    {
+      "text": "“They put a pump in the anus of a 12 year old girl to expand it so multiple men could rape her and your country covered that up and then told me Tommy was the bad guy.”\n\nTim Pool pushes back on Piers Morgan demonizing Elon Musk’s defense of Tommy Robinson for exposing the UK police’s grooming gang coverup.\n\nVideo",
+      "link": "https://x.com/DTruthsQ/status/2118434538762432752#m",
+      "date": "Thu, 05 Nov 2026 20:05:27 GMT",
+      "tweet_id": "2118434538762432752",
+      "ctx_done": 1,
+      "text_zh": "“他们在一个 12 岁女孩的肛门里放了一个泵来扩大它，这样多个男人就可以强奸她，而你们的国家掩盖了这一点，然后告诉我汤米是坏人。”\n\n蒂姆·普尔反驳了皮尔斯·摩根妖魔化埃隆·马斯克为汤米·罗宾逊辩护的说法，因为汤米·罗宾逊揭露了英国警方对诱骗团伙的掩盖行为。\n\n视频"
+    },
     {
       "text": "Grok @Bot can call your dentist on the phone!",
       "link": "https://x.com/elonmusk/status/2118251808179323102#m",
@@ -300,6 +498,14 @@
       "tweet_id": "2117950907610784237",
       "ctx_done": 1,
       "text_zh": "突发新闻：越南林同计划将星链网络带到移动信号覆盖较差、导致救援工作更加困难的地区。\n\n山屯嘉北山口周围，山峦叠嶂，山谷深邃，难以保持联系。在发生道路事故、洪水和山体滑坡时，求助电话可能会变得困难。\n\n当地官员正在与 FPT Telecom 合作选择 Starlink 的位置，帮助救援队保持联系并组织应急响应。\n\n视频"
+    },
+    {
+      "text": "JUST IN: Google to invest $15 billion in Malaysia data centers",
+      "link": "https://x.com/Kalshi/status/2117932367587504589#m",
+      "date": "Wed, 04 Nov 2026 10:50:00 GMT",
+      "tweet_id": "2117932367587504589",
+      "ctx_done": 1,
+      "text_zh": "最新消息：谷歌将投资 150 亿美元建设马来西亚数据中心"
     },
     {
       "text": "Guess my election-interfering space lasers didn’t work this time 🤷‍♂️",
@@ -2410,242 +2616,6 @@
       "tweet_id": "2115550022687174677",
       "ctx_done": 1,
       "text_zh": "Movistar 和 Orange 借助 SpaceX 的 Starlink 卫星在周三西班牙托莱多乌尔达附近致命高速列车相撞事故现场保持电话连接 🇪🇸\n\n据 ADSLZone 独家报道，事故发生时，一列 Renfe AVE 列车和一列 Iryo 列车在马德里至塞维利亚高速线上相撞，两家运营商都开启了基于星链的报道。 Orange单独证实，已将移动设备移至该地区，并加强其网络以支持应急人员。"
-    },
-    {
-      "text": "One of the great joys of AI is the ability to mix and match styles however I please.\n\nDo you have any ideas for style combinations that I could try out?\n\nVideo",
-      "link": "https://x.com/dvorahfr/status/2115548879634518449#m",
-      "date": "Wed, 28 Oct 2026 20:58:52 GMT",
-      "tweet_id": "2115548879634518449",
-      "ctx_done": 1,
-      "text_zh": "人工智能的一大乐趣就是能够随心所欲地混合搭配风格。\n\n您对我可以尝试的风格组合有什么想法吗？\n\n视频"
-    },
-    {
-      "text": "The problems Neuralink are solving are almost “biblical in proportion.”\n“The lame can walk. The mute can speak.”\n— Thrive Capital’s Dr. Nworah Ayogu\n@elonmusk\nVideo",
-      "link": "https://x.com/sourceryy/status/2115540638997590333#m",
-      "date": "Wed, 28 Oct 2026 20:26:07 GMT",
-      "tweet_id": "2115540638997590333",
-      "quoted": {
-        "user": "neuralink",
-        "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
-        "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Neuralink 正在解决的问题几乎是“符合圣经的”。\n“瘸子能走路，哑巴能说话。”\n— Thrive Capital 的 Nworah Ayogu 博士\n@埃隆马斯克\n视频"
-    },
-    {
-      "text": "Early Neuralink speech restoration data:\n\nWe are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
-      "link": "https://x.com/neuralink/status/2115534593147187397#m",
-      "date": "Wed, 28 Oct 2026 20:02:06 GMT",
-      "tweet_id": "2115534593147187397",
-      "ctx_done": 1,
-      "text_zh": "早期Neuralink语音恢复数据：\n\n我们正在为 ALS 参与者提供以会话速率进行语音转文本和语音的功能。一名参与者在第一周的 125,000 单词词汇中取得了 75 WPM，WER 为 5.8%。"
-    },
-    {
-      "text": "You can get a used Model 3 for less than a fully loaded 16\" OLED MacBook Pro:\n\n• 2020 Model 3 Standard Range with 95k miles, no accidents/damage & clean title: $14,190\n• Fully loaded 16-inch MacBook Pro: $14,549",
-      "link": "https://x.com/SawyerMerritt/status/2115521949376143486#m",
-      "date": "Wed, 28 Oct 2026 19:11:51 GMT",
-      "tweet_id": "2115521949376143486",
-      "ctx_done": 1,
-      "text_zh": "您可以以低于满载 16 英寸 OLED MacBook Pro 的价格购买二手 Model 3：\n\n• 2020 年 Model 3 标准续航里程 95,000 英里，无事故/损坏且产权干净：14,190 美元\n• 满载的 16 英寸 MacBook Pro：14,549 美元"
-    },
-    {
-      "text": "Impressive",
-      "link": "https://x.com/elonmusk/status/2115503730368061688#m",
-      "date": "Wed, 28 Oct 2026 17:59:28 GMT",
-      "tweet_id": "2115503730368061688",
-      "quoted": {
-        "user": "sundarpichai",
-        "text": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.\n\nFollowing Argon's release just two weeks ago, Carbon shows the pace at which we’re pushing the frontier, it ranks #1 on the recently updated v5.0 of @ArtificialAnlys Intelligence Index at 59. It also leads across key cybersecurity evaluations scoring 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation, and 71.0% on CWE-bench for patching.\n\nWe’re seeing significant improvements in long-horizon tasks even compared to Argon, and we’ve strengthened frontier safeguards.\n\nAs we did with Argon, we’re going to roll it out gradually + responsibly. Some trusted cyber defenders will get access starting this week. We'll be expanding it to more partners through our Fairwind Program, ahead of wider availability soon, so hang tight!",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVu5GHmbUAAppsK.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVu5GHmbUAAppsK.jpg?name=orig",
-            "local": "2115503730368061688q_0.jpg"
-          }
-        ],
-        "text_zh": "我确实说过我们会定期发布我们的型号...介绍 Gemini 4 Carbon，我们的下一个前沿型号。\n\n继 Argon 两周前发布后，Carbon 显示了我们推动前沿的步伐，它在最近更新的 @ArtificialAnlys Intelligence Index v5.0 中排名第一，排名为 59。它还在关键网络安全评估中处于领先地位，在 SEC-bench Pro 上发现漏洞的得分为 88.2%，在 ExploitGym 上的漏洞利用得分为 54.8%，在 CWE-bench 的修补得分为 71.0%。\n\n即使与氩气相比，我们也看到了长期任务的显着改进，并且我们加强了边境保障。\n\n正如我们对 Argon 所做的那样，我们将负责任地逐步推出它。一些值得信赖的网络防御者将从本周开始获得访问权限。我们将通过 Fairwind 计划将其扩展到更多合作伙伴，很快就会更广泛地提供，所以请耐心等待！"
-      },
-      "ctx_done": 1,
-      "text_zh": "感人的"
-    },
-    {
-      "text": "🇺🇸 Robotaxi Houston 🇺🇸",
-      "link": "https://x.com/elonmusk/status/2115501119296463056#m",
-      "date": "Wed, 28 Oct 2026 17:49:05 GMT",
-      "tweet_id": "2115501119296463056",
-      "quoted": {
-        "user": "HPOUTX",
-        "text": "There has never been an excuse to drink and drive. With @Tesla expanding their Cybercab/Robotaxi services area across #Houston, there are more ways than ever to get home safely after a night out.\n\nPlan ahead, make the smart choice, and never get behind the wheel impaired. #DontDrinkAndDrive",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig",
-            "local": "2115501119296463056q_0.jpg"
-          }
-        ],
-        "text_zh": "酒后驾车从来没有任何借口。随着 @Tesla 在 #Houston 扩大他们的 Cyber​​cab/Robotaxi 服务范围，在晚上外出后安全回家的方式比以往任何时候都多。\n\n提前计划，做出明智的选择，永远不会因驾驶而受到影响。 #不要酒后驾车"
-      },
-      "ctx_done": 1,
-      "text_zh": "🇺🇸 休斯顿机器人出租车 🇺🇸"
-    },
-    {
-      "text": "Actual language of Prop I:\n\nShall the City Charter be amended to require an Independent Affordability and Efficiency Initiative on a regular basis and before any tax rate increase election and requiring the independent contractor to identify annual and multi-year savings that exceed the cost of the contractor’s service?\n\nTranslation: “We don’t want to be held accountable for how we spend your tax dollars in Austin” so make it about Elon Musk and Donald Trump.\n\nIt’s exhausting.",
-      "link": "https://x.com/mjboswell/status/2115488001740476808#m",
-      "date": "Wed, 28 Oct 2026 16:56:58 GMT",
-      "tweet_id": "2115488001740476808",
-      "reply_to": "mjboswell",
-      "ctx_done": 1,
-      "text_zh": "提案 I 的实际语言：\n\n是否应修订《城市宪章》，要求在任何税率上调选举之前定期开展独立负担能力和效率计划，并要求独立承包商确定超出承包商服务成本的年度和多年节省额？\n\n翻译：“我们不想对我们如何在奥斯汀花费你的税款负责”，所以把它放在埃隆·马斯克和唐纳德·特朗普身上。\n\n这很累。"
-    },
-    {
-      "text": "Holy. Shit.\n\nThe NYT is reporting that despite their denials, Mary Peltola's staff and Democratic operatives flew all over Alaska in secret to find and recruit a man named Dan Sullivan.\n\nThey put him on the ballot to purposefully steal votes from Republican Dan Sullivan.",
-      "link": "https://x.com/Geiger_Capital/status/2115475472117080366#m",
-      "date": "Wed, 28 Oct 2026 16:07:10 GMT",
-      "tweet_id": "2115475472117080366",
-      "ctx_done": 1,
-      "text_zh": "圣。拉屎。\n\n《纽约时报》报道称，尽管玛丽·佩尔托拉的工作人员和民主党特工否认，但他们还是秘密飞往阿拉斯加各地寻找并招募一名名叫丹·沙利文的男子。\n\n他们让他参与投票，是为了故意窃取共和党人丹·沙利文的选票。"
-    },
-    {
-      "text": "Elon Musk: \"We should really look at anyone who permanently castr*tes a kid as right up there with Josef Mengele. They're mutil*ting children.\"\n\nJoe Rogan: \"And it's thought of as being kind. Would you rather have a live daughter or a dead son?\"\n\nMusk: \"That's the line they use… In fact, the probability of su*cide increases if you trans a kid. Not decreases. By some accounts, it triples. So, that is an evil lie.\" x.com/ElonClipsX/status/2034…\n\nVideo",
-      "link": "https://x.com/ResisttheMS/status/2115474924965875780#m",
-      "date": "Wed, 28 Oct 2026 16:05:00 GMT",
-      "tweet_id": "2115474924965875780",
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克：“我们真的应该将那些永久阉割孩子的人视为与约瑟夫·门格勒一样。他们正在残害儿童。”\n\n乔·罗根：“这被认为是一种善意。你想要一个活着的女儿还是一个死去的儿子？”\n\n马斯克：“这就是他们使用的路线……事实上，如果你是一个孩子，自杀的可能性会增加。而不是减少。根据某些说法，它增加了两倍。所以，这是一个邪恶的谎言。”\n\n视频"
-    },
-    {
-      "text": "They do",
-      "link": "https://x.com/elonmusk/status/2115471764960735355#m",
-      "date": "Wed, 28 Oct 2026 15:52:26 GMT",
-      "tweet_id": "2115471764960735355",
-      "quoted": {
-        "user": "BillboardChris",
-        "text": "Vote like children’s lives depend on it.\n\nBecause they do.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVpuqvEWQAMi6h3.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVpuqvEWQAMi6h3.jpg?name=orig",
-            "local": "2115471764960735355q_0.jpg"
-          }
-        ],
-        "text_zh": "投票就像孩子们的生命取决于它一样。\n\n因为他们确实这么做了。"
-      },
-      "ctx_done": 1,
-      "text_zh": "他们确实"
-    },
-    {
-      "text": "Legacy media will never run this list, so I will.\n\n2018, Flint, Michigan: Elon funded filtration systems for schools with unsafe water. Over $480K.\n\n2018, Thailand: SpaceX engineers built a mini-submarine within days to help rescue a boys' soccer team trapped in a flooded cave.\n\n2020, COVID: He sourced and delivered ventilators and supplies to hospitals for free.\n\n2021: He gave Tesla shares worth about $5.7 billion to charity.\n\n2021: He funded a $100M XPRIZE for carbon removal, one of the largest incentive prizes ever.\n\n2022: Starlink kept Ukrainians connected when their networks went down.\n\n2022, Tonga: Starlink helped reconnect the island after a volcano cut its undersea cable.\n\nWildfires, hurricanes, earthquakes: Starlink terminals keep showing up for rescuers and families.\n\nAnd the biggest one, the one that's easy to miss: he's spent his fortune and 20+ years building clean energy, safer cars, and a future for humanity among the stars.\n\nThey call him a villain. The record says otherwise.",
-      "link": "https://x.com/TheCaptainEli/status/2115461633522757829#m",
-      "date": "Wed, 28 Oct 2026 15:12:11 GMT",
-      "tweet_id": "2115461633522757829",
-      "ctx_done": 1,
-      "text_zh": "传统媒体永远不会运行这个列表，所以我会。\n\n2018 年，密歇根州弗林特：Elon 资助为学校提供不安全用水的过滤系统。超过 48 万美元。\n\n2018 年，泰国：SpaceX 工程师在几天内建造了一艘迷你潜艇，以帮助营救被困在被洪水淹没的洞穴中的男子足球队。\n\n2020 年，新冠肺炎：他免费采购呼吸机和用品并向医院运送。\n\n2021年：他向慈善机构捐赠了价值约57亿美元的特斯拉股票。\n\n2021 年：他资助了 1 亿美元的 XPRIZE，用于碳清除，这是有史以来最大的奖励之一。\n\n2022 年：当乌克兰人的网络出现故障时，星链仍能让他们保持联系。\n\n2022 年，汤加：火山切断海底电缆后，星链帮助该岛重新连接。\n\n野火、飓风、地震：星链终端不断出现在救援人员和家庭面前。\n\n其中最大的一个，也是很容易被忽视的一个：他花费了自己的财富和 20 多年的时间来建设清洁能源、更安全的汽车以及人类在星际中的未来。\n\n他们称他为恶棍。记录却另有说法。"
-    },
-    {
-      "text": "True",
-      "link": "https://x.com/elonmusk/status/2115451044423668045#m",
-      "date": "Wed, 28 Oct 2026 14:30:06 GMT",
-      "tweet_id": "2115451044423668045",
-      "quoted": {
-        "user": "CoFoundersNik",
-        "text": "FSD could literally free up OVER $1.5 trillion/yr... WHY isn't anyone talking about this??\n\nIf Lawmakers were serious about serving the people, they would start focusing on how to speed up FSD adoption.\n\nThe Data:\nFatal & serious crashes cost the U.S. almost $2 trillion per year in total societal harm; including ~$400 billion in direct economic costs in the form of:\n- medical bills\n- property damage \n- lost wages\n- enormous quality-of-life cost of lost years\n- permanent disability\n\nTesla’s latest FSD data shows vehicles with FSD engaged are ~9× SAFER than the average driver. \n\nThat means, if fully adopted, FSD could produce savings the size of any one of these:\n- ~6% of GDP\n- The entire Social Security program\n- Medicare AND Medicaid\n- Roughly 2× the defense budget\n\nAt this scale, FSD (and technologies like it) could be one of the first real steps toward an age of AI \"abundance\" people talk about.\n\n50 years from now, our children and grandchildren will look back in horror at the fact that we ever drove at all.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVpuMM9bkAEAdv8.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVpuMM9bkAEAdv8.jpg?name=orig",
-            "local": "2115451044423668045q_0.jpg"
-          }
-        ],
-        "text_zh": "FSD 每年确实可以释放超过 1.5 万亿美元...为什么没有人谈论这个？\n\n如果立法者认真地为人民服务，他们就会开始关注如何加快 FSD 的采用。\n\n数据：\n致命和严重的车祸每年给美国造成近 2 万亿美元的社会损失；其中包括约 4000 亿美元的直接经济成本，其形式为：\n- 医疗费用\n- 财产损失 \n- 工资损失\n- 因失去岁月而付出巨大的生活质量代价\n- 永久性残疾\n\n特斯拉最新的 FSD 数据显示，启用 FSD 的车辆比普通驾驶员安全约 9 倍。 \n\n这意味着，如果完全采用，FSD 可以节省以下任何一项的费用：\n- 约占 GDP 的 6%\n- 整个社会保障计划\n- 医疗保险和医疗补助\n- 大约是国防预算的两倍\n\n在这种规模上，FSD（以及类似的技术）可能是迈向人们谈论的人工智能“丰富”时代的第一个真正的步骤之一。\n\n50 年后，我们的子孙回想起我们曾经开车的事实，将会感到惊恐。"
-      },
-      "ctx_done": 1,
-      "text_zh": "真的"
-    },
-    {
-      "text": "At Tesla, we even care about the chipmunks\nVideo",
-      "link": "https://x.com/elonmusk/status/2115447957843821013#m",
-      "date": "Wed, 28 Oct 2026 14:17:50 GMT",
-      "tweet_id": "2115447957843821013",
-      "quoted": {
-        "user": "TheChiefNerd",
-        "text": "98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away\n\n“I've been driving it probably 2-3 months, and it's not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not run over the chipmunk … For somebody that's 98-years-old, this is a real treat.”",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115415518186196992/img/9_I9eTHapXcvWD3L.jpg",
-            "local": "2115447957843821013q_0.jpg"
-          }
-        ],
-        "text_zh": "98 岁老人购买了他的第一辆自动驾驶特斯拉 Model Y，并大吃一惊\n\n“我已经开了大概2-3个月了，它的驾驶过程中没有出现任何错误。事实上，前几天它停了下来——一只花栗鼠正在过马路，当时没有其他车辆，它没有碾过花栗鼠……对于98岁的人来说，这真是一种享受。”"
-      },
-      "ctx_done": 1,
-      "text_zh": "在特斯拉，我们甚至关心花栗鼠\n视频"
-    },
-    {
-      "text": "FARM ATTACK: Another South African farmer attacked and brutally tortured on his farm this week.\n\nCattle farmer, Donovan Marx, from the North West province, had his ears cut off on Wednesday morning during a farm attack.\nHe was also shot in the shoulder and stabbed (with a sharp object) in the leg.\n\nAnd, for the umpteenth time, as far as I can determine, not a single article on any English media platform about it. This gross coverage disparity between the Afrikaans and English media when it comes to farm murders is what makes it possible for so many politicians and commentators to get away with their disgusting farm murder denialism.\n\nYou know what's even more infuriating? History and research shows, if the victim was black and the torturers were white, we would see this story on every front page and news channel for weeks. Debates, panel discussions, political party statements - the works! The president would even come out and condemn the attack.\n\nAgain, I refuse to accept the twisted, psychopathic standard that dismisses a farmer having his ears cut off as \"just normal crime.\"",
-      "link": "https://x.com/ConCaracal/status/2115438055498625507#m",
-      "date": "Wed, 28 Oct 2026 13:38:30 GMT",
-      "tweet_id": "2115438055498625507",
-      "ctx_done": 1,
-      "text_zh": "农场袭击：本周，另一名南非农民在他的农场遭到袭击并遭受残酷折磨。\n\n来自西北省的养牛户多诺万·马克思 (Donovan Marx) 在周三早上的一次农场袭击中被割掉了耳朵。\n他的肩膀也中弹，腿部也被刺伤（被尖锐物体刺伤）。\n\n而且，据我所知，无数次，任何英文媒体平台上都没有一篇关于此事的文章。南非荷兰语媒体和英国媒体在农场谋杀案方面的报道存在巨大差异，这使得许多政客和评论员能够摆脱他们令人厌恶的农场谋杀否认主义。\n\n你知道更令人气愤的是什么吗？历史和研究表明，如果受害者是黑人而施虐者是白人，我们会在每个头版和新闻频道上看到这个故事数周。辩论、小组讨论、政党声明——作品！总统甚至会出面谴责这次袭击。\n\n再次，我拒绝接受扭曲的、精神病态的标准，该标准将被割掉耳朵的农民视为“正常犯罪”。"
-    },
-    {
-      "text": "Grok Bot can do a lot more than chat!! 🤖\n\nStarting tomorrow: 30 days, 30 real Grok Bot use cases. A different field every day, from students to traders.\n\nNew one daily at 10 AM PT. Follow and turn on notifications!! 🔔 \n\nWhat do you think?",
-      "link": "https://x.com/nima_owji/status/2115436409788248346#m",
-      "date": "Wed, 28 Oct 2026 13:31:57 GMT",
-      "tweet_id": "2115436409788248346",
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 可以做的不仅仅是聊天！ 🤖\n\n从明天开始：30 天，30 个真实的 Grok Bot 使用案例。从学生到交易员，每天都有不同的领域。\n\n太平洋时间每天上午 10 点发布新一期。关注并开启通知！！ 🔔 \n\n你觉得怎么样？"
-    },
-    {
-      "text": "Driving my @Tesla model Y home from pickup, first ever ride, this car is absolutely amazing. @elonmusk your team has produced a masterpiece, FSD is incredible🙌🏻\n\nVideo",
-      "link": "https://x.com/BuckSexton/status/2115426953582760314#m",
-      "date": "Wed, 28 Oct 2026 12:54:23 GMT",
-      "tweet_id": "2115426953582760314",
-      "ctx_done": 1,
-      "text_zh": "第一次驾驶我的 @Tesla Model Y 从皮卡车回家，这辆车绝对是令人惊叹的。 @elonmusk 你的团队制作了一部杰作，FSD 令人难以置信🙌🏻\n\n视频"
-    },
-    {
-      "text": "RT by @elonmusk: Image",
-      "link": "https://x.com/cb_doge/status/2115410477971026426#m",
-      "date": "Wed, 28 Oct 2026 11:48:55 GMT",
-      "tweet_id": "2115410477971026426",
-      "ctx_done": 1,
-      "text_zh": "RT @elonmusk：图片"
-    },
-    {
-      "text": "some of my \"wtf\" moments with AI so far:\n\n1. Cursor Tab\n2. Claude Code\n3. Codex\n4. Opus 5.5\n5. Grok Bot\n\ni know there's a lot of Grok Bot hype right now but this product is genuinely incredible",
-      "link": "https://x.com/kr0der/status/2115402699080667479#m",
-      "date": "Wed, 28 Oct 2026 11:18:00 GMT",
-      "tweet_id": "2115402699080667479",
-      "ctx_done": 1,
-      "text_zh": "到目前为止，我对人工智能的一些“wtf”时刻：\n\n1. 光标选项卡\n2.克劳德·代码\n3. 法典\n4.作品5.5\n5.Grok 机器人\n\n我知道现在有很多关于 Grok Bot 的炒作，但这个产品确实令人难以置信"
-    },
-    {
-      "text": "Try Grok @Bot\nVideo",
-      "link": "https://x.com/elonmusk/status/2115353441954636214#m",
-      "date": "Wed, 28 Oct 2026 08:02:16 GMT",
-      "tweet_id": "2115353441954636214",
-      "quoted": {
-        "user": "stark0xbt",
-        "text": "Baker on a16z admitted something nobody his age says out loud. 23-year-olds are more fluent in AI than he will ever be. He has been trying hard. He is still behind.\n\nThen he explained how Grok Bot leveled it.\n\n\"We got Claude Code. I built some stuff, did some cool stuff. Then in 3 minutes of creating Grok Bots, I had much better versions of everything I created.\"\n\nPodcast summarizer. 10 seconds in Grok Bot.\nSubstack summarizer, X summarizer, X sentiment tracker. Hours in Claude Code. 7 to 12 seconds in Grok Bot. Better.\n\nHis frame: \"To me, Grok Bot does feel like another ChatGPT moment.\"\n\nBaker runs billions. He is calling Grok Bot a category reset.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114063250505535489/img/BHxtUemgZk7osVfs.jpg",
-            "local": "2115353441954636214q_0.jpg"
-          }
-        ],
-        "text_zh": "贝克在 a16z 上承认了一些他这个年纪没有人大声说出来的事情。 23 岁的年轻人对人工智能的掌握比他以往任何时候都更加熟练。他一直在努力。他仍然落后。\n\n然后他解释了 Grok Bot 如何调平它。\n\n“我们得到了 Claude Code。我构建了一些东西，做了一些很酷的东西。然后在创建 Grok Bots 的 3 分钟内，我有了我创建的所有东西的更好版本。”\n\n播客摘要。 Grok Bot 中的 10 秒。\nSubstack 摘要器、X 摘要器、X 情绪跟踪器。克劳德代码的时间。 Grok Bot 中需要 7 到 12 秒。更好的。\n\n他的框架：“对我来说，Grok Bot 确实感觉像是另一个 ChatGPT 时刻。”\n\n贝克管理着数十亿美元。他称 Grok Bot 为类别重置。"
-      },
-      "ctx_done": 1,
-      "text_zh": "尝试 Grok @Bot\n视频"
     }
   ]
 }

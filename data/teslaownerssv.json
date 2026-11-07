@@ -1,96 +1,491 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-07T09:51:34Z",
+  "updated_at": "2026-11-07T17:39:27Z",
   "count": 200,
   "tweets": [
     {
-      "text": "I love my Cybertruck. I did a whole news story on it.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2118982451641057707#m",
-      "date": "Sat, 07 Nov 2026 08:22:39 GMT",
+      "text": "RT @Teslalightshows: Join a cast of THOUSANDS for The WORLDWIDE CHRISTMAS @Tesla Light Show from NEW ZEALAND 🇳🇿 to HAWAII 🌺 this DECEMBER 1…",
+      "link": "https://x.com/teslaownersSV/status/2119122383529464034",
+      "date": "Sat Nov 07 17:38:42 +0000 2026",
+      "tweet_id": "2119122383529464034",
+      "ctx_done": 1,
+      "text_zh": "RT @Teslalightshows：与数千名演员一起参加 12 月 1 日从新西兰🇳🇿到夏威夷🌺的全球圣诞节 @Tesla 灯光秀……"
+    },
+    {
+      "text": "Join a cast of THOUSANDS for The WORLDWIDE CHRISTMAS @Tesla Light Show from NEW ZEALAND 🇳🇿 to HAWAII 🌺 this DECEMBER 12th 🎄🎁🎅🏻 https://t.co/jVEa29CrN1",
+      "link": "https://x.com/Teslalightshows/status/2119122264486760641",
+      "date": "Sat Nov 07 17:38:13 +0000 2026",
+      "tweet_id": "2119122264486760641",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119122194412326913/vid/avc1/1366x1516/KEEtEIjXbPBautnS.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119122194412326913/img/I6uoT91kZ6Hchpgg.jpg",
+          "local": "2119122264486760641_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119122194412326913/vid/avc1/1366x1516/KEEtEIjXbPBautnS.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119122194412326913/img/I6uoT91kZ6Hchpgg.jpg",
+          "local": "2119122264486760641_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "今年 12 月 12 日，与数千名演员一起参加从新西兰🇳🇿到夏威夷🌺的全球圣诞节@特斯拉灯光秀🎄🎁🎅🏻 https://t.co/jVEa29CrN1"
+    },
+    {
+      "text": "Super Heavy’s Raptor engines lifting the booster off the pad.\n\nFilmed with a high-speed camera so you can see the detail in slow motion. https://t.co/2c7SLqE7Bv",
+      "link": "https://x.com/teslaownersSV/status/2119120008211292352",
+      "date": "Sat Nov 07 17:29:15 +0000 2026",
+      "tweet_id": "2119120008211292352",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119119940708081664/vid/avc1/1080x1920/_9tym-VPiBz5TdxH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119119940708081664/img/kYssxewOJ6EccmZU.jpg",
+          "local": "2119120008211292352_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119119940708081664/vid/avc1/1080x1920/_9tym-VPiBz5TdxH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119119940708081664/img/kYssxewOJ6EccmZU.jpg",
+          "local": "2119120008211292352_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Super Heavy 的猛禽发动机将助推器从发射台上抬起。\n\n使用高速摄像机拍摄，因此您可以看到慢动作的细节。 https://t.co/2c7SLqE7Bv"
+    },
+    {
+      "text": "RT @BenSchafferUP: January 28: Elon said the Cybertruck line would go fully autonomous.\nThis week: it’s being wound down for Cybercab.\n\nWha…",
+      "link": "https://x.com/teslaownersSV/status/2119118932313584082",
+      "date": "Sat Nov 07 17:24:59 +0000 2026",
+      "tweet_id": "2119118932313584082",
+      "ctx_done": 1,
+      "text_zh": "RT @BenSchafferUP：1 月 28 日：Elon 表示 Cyber​​truck 线路将实现完全自动驾驶。\n本周：Cyber​​cab 的活动即将结束。\n\n世界卫生大会…"
+    },
+    {
+      "text": "RT @Newsforce: NEURALINK GIVES ALS PATIENTS THEIR VOICES BACK | THE STACK\n\nWhat if AI could help someone speak to their children again in t…",
+      "link": "https://x.com/teslaownersSV/status/2119118740558417955",
+      "date": "Sat Nov 07 17:24:13 +0000 2026",
+      "tweet_id": "2119118740558417955",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
+            "local": "2119118740558417955q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：NEURALINK 让 ALS 患者回馈他们的声音 |堆栈\n\n如果人工智能可以帮助某人再次与他们的孩子交谈，会怎样……"
+    },
+    {
+      "text": "NEURALINK GIVES ALS PATIENTS THEIR VOICES BACK | THE STACK\n\nWhat if AI could help someone speak to their children again in their own voice?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss how @Neuralink and @Grok are helping people with ALS communicate, https://t.co/9A7piVowvS",
+      "link": "https://x.com/Newsforce/status/2119116419648409714",
+      "date": "Sat Nov 07 17:15:00 +0000 2026",
+      "tweet_id": "2119116419648409714",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118732705252704256/vid/avc1/1920x1080/8JMxRseeNhyCIOUr.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118732705252704256/img/F2wyo5CPZHyWuUKK.jpg",
+          "local": "2119116419648409714_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118732705252704256/vid/avc1/1920x1080/8JMxRseeNhyCIOUr.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118732705252704256/img/F2wyo5CPZHyWuUKK.jpg",
+          "local": "2119116419648409714_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
+            "local": "2119116419648409714q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
+      },
+      "ctx_done": 1,
+      "text_zh": "NEURALINK 让 ALS 患者发出自己的声音 |堆栈\n\n如果人工智能可以帮助人们再次用自己的声音与孩子交谈会怎么样？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 讨论 @Neuralink 和 @Grok 如何帮助 ALS 患者进行沟通，https://t.co/9A7piVowvS"
+    },
+    {
+      "text": "January 28: Elon said the Cybertruck line would go fully autonomous.\nThis week: it’s being wound down for Cybercab.\n\nWhat changed? The Cybertruck line is Tesla’s most autonomy-ready platform. My full analysis below. Tell me my blind spots. https://t.co/uZcwABZzZM",
+      "link": "https://x.com/BenSchafferUP/status/2119112988859007342",
+      "date": "Sat Nov 07 17:01:22 +0000 2026",
+      "tweet_id": "2119112988859007342",
+      "ctx_done": 1,
+      "text_zh": "1 月 28 日：Elon 表示 Cyber​​truck 生产线将实现完全自动驾驶。\n本周：Cyber​​cab 的活动即将结束。\n\n发生了什么变化？ Cyber​​truck 系列是特斯拉最适合自动驾驶的平台。我的完整分析如下。说说我的盲点吧https://t.co/uZcwABZzZM"
+    },
+    {
+      "text": "Tesla’s battery launch was powered by stored sunlight.\n\nIn 2015, Elon revealed that the entire event was running on batteries charged by solar panels on the building’s roof.\n\n“Everything you’re experiencing is stored sunlight.”\n\nApril 30, 2015. https://t.co/vck4GzByFw",
+      "link": "https://x.com/teslaownersSV/status/2119102736369361203",
+      "date": "Sat Nov 07 16:20:38 +0000 2026",
+      "tweet_id": "2119102736369361203",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119102707927801857/vid/avc1/1280x720/4rQpU-VfdbwsZj_1.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119102707927801857/img/W9uzq2SJKcyx9fPr.jpg",
+          "local": "2119102736369361203_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119102707927801857/vid/avc1/1280x720/4rQpU-VfdbwsZj_1.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119102707927801857/img/W9uzq2SJKcyx9fPr.jpg",
+          "local": "2119102736369361203_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉的电池发射是由储存的阳光供电的。\n\n2015 年，埃隆透露，整个活动都是靠建筑物屋顶上的太阳能电池板充电的。\n\n“你所经历的一切都是储存的阳光。”\n\n2015 年 4 月 30 日。https://t.co/vck4GzByFw"
+    },
+    {
+      "text": "BREAKING: SpaceX confirms November 13 at 2:45 PM PST for the first-ever Starship and booster catch.\n\nAre you ready?  https://t.co/4DmbRKaddx",
+      "link": "https://x.com/teslaownersSV/status/2119096755920986199",
+      "date": "Sat Nov 07 15:56:52 +0000 2026",
+      "tweet_id": "2119096755920986199",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2097907823636328448/vid/avc1/1080x1080/HLAjnHIC1RxHkg8b.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097907823636328448/img/1JGhIezxEEgOeHxV.jpg",
+          "local": "2119096755920986199_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2097907823636328448/vid/avc1/1080x1080/HLAjnHIC1RxHkg8b.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097907823636328448/img/1JGhIezxEEgOeHxV.jpg",
+          "local": "2119096755920986199_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "突发新闻：SpaceX 确认太平洋标准时间 11 月 13 日下午 2:45 将首次发射星际飞船和助推器。\n\n你准备好了吗？  https://t.co/4DmbRKaddx"
+    },
+    {
+      "text": "RT @Newsforce: TESLA'S CYBERCAB FACTORY COULD OUTPACE REGULATORS | THE STACK\n\nWhat happens when Tesla can build Cybercabs faster than regul…",
+      "link": "https://x.com/teslaownersSV/status/2119087422525104250",
+      "date": "Sat Nov 07 15:19:46 +0000 2026",
+      "tweet_id": "2119087422525104250",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
+            "local": "2119087422525104250q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：特斯拉的 CYBERCAB 工厂可能会超过监管机构 |堆栈\n\n当特斯拉能够以比常规速度更快的速度建造 Cybercab 时会发生什么……"
+    },
+    {
+      "text": "From 2024.",
+      "link": "https://x.com/teslaownersSV/status/2119087157344362615",
+      "date": "Sat Nov 07 15:18:43 +0000 2026",
+      "tweet_id": "2119087157344362615",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "从 2024 年开始。"
+    },
+    {
+      "text": "TESLA'S CYBERCAB FACTORY COULD OUTPACE REGULATORS | THE STACK\n\nWhat happens when Tesla can build Cybercabs faster than regulators allow them onto the roads?\n\nJohn Stringer (@teslaownersSV) breaks down a behind-the-scenes factory tour revealing a 78% automated production process, https://t.co/nppqtRrCEy",
+      "link": "https://x.com/Newsforce/status/2119071121219727500",
+      "date": "Sat Nov 07 14:15:00 +0000 2026",
+      "tweet_id": "2119071121219727500",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118731177112604672/vid/avc1/1920x1080/Cx7d1P61V1uvwy-h.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118731177112604672/img/dGL4JNa119Aecj6O.jpg",
+          "local": "2119071121219727500_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118731177112604672/vid/avc1/1920x1080/Cx7d1P61V1uvwy-h.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118731177112604672/img/dGL4JNa119Aecj6O.jpg",
+          "local": "2119071121219727500_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
+            "local": "2119071121219727500q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉的 CYBERCAB 工厂可能会超过监管机构堆栈\n\n当特斯拉建造 Cybercab 的速度快于监管机构允许其上路的速度时，会发生什么？\n\nJohn Stringer (@teslaownersSV) 深入参观工厂幕后，揭示了 78% 的自动化生产流程，https://t.co/nppqtRrCEy"
+    },
+    {
+      "text": "I Rode in the Tesla Cybercab AGAIN!\n\nBack in the Tesla Cybercab in Austin, this time with @JoshWest247, the original Cybercab chaser. \n\nWe took a Cybercab across Austin to Starbucks and talked about how fast the network has grown: driving in the rain, why it's cheaper than https://t.co/66oNV7pshm",
+      "link": "https://x.com/teslaownersSV/status/2119067352625242210",
+      "date": "Sat Nov 07 14:00:01 +0000 2026",
+      "tweet_id": "2119067352625242210",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118414106013433856/vid/avc1/1920x1080/cr6m1bIvxsObbwgv.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118414106013433856/img/TFnbNkFeBl2ObogV.jpg",
+          "local": "2119067352625242210_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118414106013433856/vid/avc1/1920x1080/cr6m1bIvxsObbwgv.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118414106013433856/img/TFnbNkFeBl2ObogV.jpg",
+          "local": "2119067352625242210_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我再次乘坐特斯拉 Cyber​​cab！\n\n回到奥斯汀的特斯拉 Cyber​​cab，这次是和最初的 Cyber​​cab 追逐者@JoshWest247 一起。 \n\n我们乘坐 Cyber​​cab 穿过奥斯汀前往星巴克，并讨论了网络发展的速度有多快：在雨中驾驶，为什么它比 https://t.co/66oNV7pshm 便宜"
+    },
+    {
+      "text": "I love my Cybertruck. I did a whole news story on it. https://t.co/L3YegyxRxa",
+      "link": "https://x.com/teslaownersSV/status/2118982451641057707",
+      "date": "Sat Nov 07 08:22:39 +0000 2026",
       "tweet_id": "2118982451641057707",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118982256773722112/vid/avc1/1920x1080/pbfACGcxFdt9VDQ4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118982256773722112/img/0xcr2z8KchbiM41i.jpg",
+          "local": "2118982451641057707_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118982256773722112/vid/avc1/1920x1080/pbfACGcxFdt9VDQ4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118982256773722112/img/0xcr2z8KchbiM41i.jpg",
+          "local": "2118982451641057707_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "我喜欢我的赛博卡车。我对此做了一个完整的新闻报道。\n\n视频"
     },
     {
-      "text": "We may or may not have played a role in these two amazing women meeting 🤪\n@theXtakeover\n\n\nBlackMedia__ (@BlackMedia___)\n\nMaye Musk, mother of X owner and trillionaire Elon Musk, has now subscribed to the First Lady of Hip-Hop, Nicki Minaj, on X.\n\nIf you haven’t subscribed yet, make sure you do! You can see that even people from the wealthiest circles are keeping up with the Queen.\n\n\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/BlackMedia___/status/2118789278746468766#m",
-      "link": "https://x.com/teslaownersSV/status/2118979600328134704#m",
-      "date": "Sat, 07 Nov 2026 08:11:20 GMT",
+      "text": "We may or may not have played a role in these two amazing women meeting 🤪\n@theXtakeover",
+      "link": "https://x.com/teslaownersSV/status/2118979600328134704",
+      "date": "Sat Nov 07 08:11:20 +0000 2026",
       "tweet_id": "2118979600328134704",
       "quoted": {
         "user": "BlackMedia___",
-        "text": "Maye Musk, mother of X owner and trillionaire Elon Musk, has now subscribed to the First Lady of Hip-Hop, Nicki Minaj, on X.\n\nIf you haven’t subscribed yet, make sure you do! You can see that even people from the wealthiest circles are keeping up with the Queen. https://x.com/NICKIMINAJ/status/2109004514313617880/video/1",
+        "text": "Maye Musk, mother of X owner and trillionaire Elon Musk, has now subscribed to the First Lady of Hip-Hop, Nicki Minaj, on X.\n\nIf you haven’t subscribed yet, make sure you do! You can see that even people from the wealthiest circles are keeping up with the Queen. https://t.co/9FRZNugOJs",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?name=orig",
+            "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=large",
             "local": "2118979600328134704q_0.jpg"
           },
           {
             "type": "video",
-            "url": "",
+            "url": "https://video.twimg.com/amplify_video/2109004444410982401/vid/avc1/1080x1920/3Dcr41FKjkUkT3aj.mp4",
             "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109004444410982401/img/sSZ-tgpFLVMr-vYh.jpg",
             "local": "2118979600328134704q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=large",
+            "local": "2118979600328134704q_2.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2109004444410982401/vid/avc1/1080x1920/3Dcr41FKjkUkT3aj.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109004444410982401/img/sSZ-tgpFLVMr-vYh.jpg",
+            "local": "2118979600328134704q_3.jpg"
           }
         ],
-        "text_zh": "X 所有者、亿万富翁埃隆·马斯克 (Elon Musk) 的母亲梅耶·马斯克 (Maye Musk) 现已在 X 上订阅了嘻哈第一夫人妮琪·米娜 (Nicki Minaj) 的节目。\n\n如果您还没有订阅，请务必订阅！你可以看到，即使是来自最富有圈子的人也在跟上女王的脚步。 https://x.com/NICKIMINAJ/status/2109004514313617880/video/1"
+        "text_zh": "X 所有者、亿万富翁埃隆·马斯克 (Elon Musk) 的母亲梅耶·马斯克 (Maye Musk) 现已在 X 上订阅了嘻哈第一夫人妮琪·米娜 (Nicki Minaj) 的节目。\n\n如果您还没有订阅，请务必订阅！你可以看到，即使是来自最富有圈子的人也在跟上女王的步伐。 https://t.co/9FRZNugOJs"
       },
       "ctx_done": 1,
       "text_zh": "我们可能在这两位令人惊叹的女性会面中发挥了作用，也可能没有发挥作用🤪\n@theXtakeover\n\n\nBlackMedia__ (@BlackMedia___)\n\nX 所有者、亿万富翁埃隆·马斯克 (Elon Musk) 的母亲梅耶·马斯克 (Maye Musk) 现已在 X 上订阅了嘻哈第一夫人妮琪·米娜 (Nicki Minaj) 的节目。\n\n如果您还没有订阅，请务必订阅！你可以看到，即使是来自最富有圈子的人也在跟上女王的脚步。\n\n\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/BlackMedia___/status/2118789278746468766#m"
     },
     {
       "text": "Screw you Cancer.",
-      "link": "https://x.com/teslaownersSV/status/2118979057056616888#m",
-      "date": "Sat, 07 Nov 2026 08:09:10 GMT",
+      "link": "https://x.com/teslaownersSV/status/2118979057056616888",
+      "date": "Sat Nov 07 08:09:10 +0000 2026",
       "tweet_id": "2118979057056616888",
       "ctx_done": 1,
       "text_zh": "巨蟹座，去你的吧。"
     },
     {
-      "text": ".@Elonmusk \n\n\"I will do my best to ensure that anything that's within my control maximizes the good outcome for humanity. I think anything else would be shortsighted — because obviously I'm part of humanity. So I like humans. Pro-human.\"\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2118975408838439409#m",
-      "date": "Sat, 07 Nov 2026 07:54:40 GMT",
+      "text": ".@Elonmusk \n\n\"I will do my best to ensure that anything that's within my control maximizes the good outcome for humanity. I think anything else would be shortsighted — because obviously I'm part of humanity. So I like humans. Pro-human.\" https://t.co/q0eCFi8uai",
+      "link": "https://x.com/teslaownersSV/status/2118975408838439409",
+      "date": "Sat Nov 07 07:54:40 +0000 2026",
       "tweet_id": "2118975408838439409",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2019611993091764228/vid/avc1/1920x1080/q2XtCTS9c_lLcC2S.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2019611993091764228/img/wJ-HyFvNHzMtO9Vw.jpg",
+          "local": "2118975408838439409_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2019611993091764228/vid/avc1/1920x1080/q2XtCTS9c_lLcC2S.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2019611993091764228/img/wJ-HyFvNHzMtO9Vw.jpg",
+          "local": "2118975408838439409_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": ".@埃隆马斯克 \n\n“我将尽我所能，确保我控制范围内的任何事情都能最大限度地为人类带来良好的结果。我认为其他任何事情都是短视的——因为显然我是人类的一部分。所以我喜欢人类。亲人类。”\n\n视频"
     },
     {
-      "text": "“Nobody’s ever made a fully reusable orbital rocket… that’s really the critical breakthrough necessary for life to become multi-planetary.”\n― Elon Musk\nStarship is the vehicle to the Moon and Mars",
-      "link": "https://x.com/teslaownersSV/status/2118972476541809096#m",
-      "date": "Sat, 07 Nov 2026 07:43:01 GMT",
+      "text": "“Nobody’s ever made a fully reusable orbital rocket… that’s really the critical breakthrough necessary for life to become multi-planetary.”\n― Elon Musk\nStarship is the vehicle to the Moon and Mars  https://t.co/zS8HmoRvVG",
+      "link": "https://x.com/teslaownersSV/status/2118972476541809096",
+      "date": "Sat Nov 07 07:43:01 +0000 2026",
       "tweet_id": "2118972476541809096",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=large",
+          "local": "2118972476541809096_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=large",
+          "local": "2118972476541809096_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "“没有人制造过完全可重复使用的轨道火箭……这确实是生命走向多行星所必需的关键突破。”\n——埃隆·马斯克\n星舰是前往月球和火星的交通工具"
     },
     {
-      "text": "Getting that work in. Physical health is so important, especially to help through high stress and life difficulties.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2118970561070272724#m",
-      "date": "Sat, 07 Nov 2026 07:35:24 GMT",
+      "text": "RT @ToscaMusk: @teslaownersSV Always great to chat with you.",
+      "link": "https://x.com/teslaownersSV/status/2118970845322485814",
+      "date": "Sat Nov 07 07:36:32 +0000 2026",
+      "tweet_id": "2118970845322485814",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "RT @ToscaMusk：@teslaownersSV 总是很高兴与你聊天。"
+    },
+    {
+      "text": "Getting that work in. Physical health is so important, especially to help through high stress and life difficulties. https://t.co/BoaCQqQfy7",
+      "link": "https://x.com/teslaownersSV/status/2118970561070272724",
+      "date": "Sat Nov 07 07:35:24 +0000 2026",
       "tweet_id": "2118970561070272724",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118970482322243584/vid/avc1/2160x3840/M4QTVY7IsDuAyJR5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118970482322243584/img/6Cah0EQmx_OpWkBm.jpg",
+          "local": "2118970561070272724_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118970482322243584/vid/avc1/2160x3840/M4QTVY7IsDuAyJR5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118970482322243584/img/6Cah0EQmx_OpWkBm.jpg",
+          "local": "2118970561070272724_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "开始工作。身体健康非常重要，特别是可以帮助您度过高压力和生活困难。\n\n视频"
     },
     {
-      "text": "Elon wants AI to seek truth and act in humanity’s best interests.\n\n“That’s why I created xAI.”\n\nHis goal: an AI that is “maximally truth-seeking” and “aspirationally does love humanity.”\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2118970010358153697#m",
-      "date": "Sat, 07 Nov 2026 07:33:13 GMT",
+      "text": "Elon wants AI to seek truth and act in humanity’s best interests.\n\n“That’s why I created xAI.”\n\nHis goal: an AI that is “maximally truth-seeking” and “aspirationally does love humanity.” https://t.co/Ww1XNO7x2p",
+      "link": "https://x.com/teslaownersSV/status/2118970010358153697",
+      "date": "Sat Nov 07 07:33:13 +0000 2026",
       "tweet_id": "2118970010358153697",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118969998387654656/vid/avc1/1370x720/h2xNZRSvh7QFy_eI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969998387654656/img/zwCk8-vVSzMOrjxc.jpg",
+          "local": "2118970010358153697_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118969998387654656/vid/avc1/1370x720/h2xNZRSvh7QFy_eI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969998387654656/img/zwCk8-vVSzMOrjxc.jpg",
+          "local": "2118970010358153697_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "埃隆希望人工智能能够寻求真理并以人类的最大利益为出发点。\n\n“这就是我创建 xAI 的原因。”\n\n他的目标是：打造一个“最大限度地追求真理”和“热衷于热爱人类”的人工智能。\n\n视频"
     },
     {
-      "text": "“@elonmusk’s the one CEO like this who’s able to work with them as a peer on whatever the technology is.”\nMarc Andreessen\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2118969239097032843#m",
-      "date": "Sat, 07 Nov 2026 07:30:09 GMT",
+      "text": "“@elonmusk’s the one CEO like this who’s able to work with them as a peer on whatever the technology is.”\nMarc Andreessen https://t.co/8mds7lKekJ",
+      "link": "https://x.com/teslaownersSV/status/2118969239097032843",
+      "date": "Sat Nov 07 07:30:09 +0000 2026",
       "tweet_id": "2118969239097032843",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118969168733339648/vid/avc1/3840x2160/gstSzIqHgnOW3ePu.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969168733339648/img/KqeQ2lNHg8-SSjaW.jpg",
+          "local": "2118969239097032843_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118969168733339648/vid/avc1/3840x2160/gstSzIqHgnOW3ePu.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969168733339648/img/KqeQ2lNHg8-SSjaW.jpg",
+          "local": "2118969239097032843_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "“@elonmusk 是这样一位首席执行官，无论技术是什么，他都能以同行的身份与他们合作。”\n马克·安德森\n\n视频"
     },
     {
-      "text": "ROBOTAXIS, STARLINK 5G & APPLE'S TOUCHSCREEN REVOLUTION | THE STACK\nFrom Tesla's Robotaxi expansion to Apple's touchscreen MacBook, is the future of tech arriving faster than expected?\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the latest in technology, including Neuralink's Hackathon, Starlink 5G, Grokbot's limitations, and Unitree's humanoid robots taking on the mountains.\nVideo\nVideo",
-      "link": "https://x.com/Newsforce/status/2118965423991624050#m",
-      "date": "Sat, 07 Nov 2026 07:15:00 GMT",
+      "text": "RT @Newsforce: ROBOTAXIS, STARLINK 5G &amp; APPLE'S TOUCHSCREEN REVOLUTION | THE STACK\n\nFrom Tesla's Robotaxi expansion to Apple's touchscreen…",
+      "link": "https://x.com/teslaownersSV/status/2118968738989146536",
+      "date": "Sat Nov 07 07:28:10 +0000 2026",
+      "tweet_id": "2118968738989146536",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
+            "local": "2118968738989146536q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：ROBOTAXIS、STARLINK 5G 和苹果的触摸屏革命 |堆栈\n\n从特斯拉的 Robotaxi 扩张到苹果的触摸屏……"
+    },
+    {
+      "text": "ROBOTAXIS, STARLINK 5G &amp; APPLE'S TOUCHSCREEN REVOLUTION | THE STACK\n\nFrom Tesla's Robotaxi expansion to Apple's touchscreen MacBook, is the future of tech arriving faster than expected?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the latest in https://t.co/Q2Heoj79Y2",
+      "link": "https://x.com/Newsforce/status/2118965423991624050",
+      "date": "Sat Nov 07 07:15:00 +0000 2026",
       "tweet_id": "2118965423991624050",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118722619872600064/vid/avc1/1920x1080/EYWWs5RswRdDksTj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118722619872600064/img/BgcisNyPUXD3nnCB.jpg",
+          "local": "2118965423991624050_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2118722619872600064/vid/avc1/1920x1080/EYWWs5RswRdDksTj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118722619872600064/img/BgcisNyPUXD3nnCB.jpg",
+          "local": "2118965423991624050_1.jpg"
+        }
+      ],
       "quoted": {
         "user": "Newsforce",
         "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
@@ -108,9 +503,17 @@
       "text_zh": "ROBOTAXIS、STARLINK 5G 和苹果的触摸屏革命 |堆栈\n从特斯拉的 Robotaxi 扩展到苹果的触摸屏 MacBook，科技的未来到来的速度是否比预期更快？\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了最新技术，包括 Neuralink 的 Hackathon、Starlink 5G、Grokbot 的局限性以及 Unitree 的人形机器人上山。\n视频\n视频"
     },
     {
+      "text": "RT @nikharris: subscribed to @teslaownersSV to show support. nobody should have to go through that",
+      "link": "https://x.com/teslaownersSV/status/2118935193218384053",
+      "date": "Sat Nov 07 05:14:52 +0000 2026",
+      "tweet_id": "2118935193218384053",
+      "ctx_done": 1,
+      "text_zh": "RT @nikharris：订阅@teslaownersSV 以表示支持。没有人应该经历这个"
+    },
+    {
       "text": "subscribed to @teslaownersSV to show support. nobody should have to go through that",
-      "link": "https://x.com/nikharris/status/2118932421865607291#m",
-      "date": "Sat, 07 Nov 2026 05:03:51 GMT",
+      "link": "https://x.com/nikharris/status/2118932421865607291",
+      "date": "Sat Nov 07 05:03:51 +0000 2026",
       "tweet_id": "2118932421865607291",
       "ctx_done": 1,
       "text_zh": "订阅@teslaownersSV 以表示支持。没有人应该经历这个"
@@ -394,6 +797,40 @@
       ],
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克 (Elon Musk) 表示，Starlink V4 的能力将是 V3 的 10 倍，下一代激光链路的传输速度将达到每秒 10 太比特，是目前每秒约 100 吉比特的 100 倍。\n“我们的下一代激光链路将达到每秒 10 太比特。提高 100 倍。”\n埃隆·马斯克与罗恩 https://t.co/QeJNBvYEKQ"
+    },
+    {
+      "text": "Maye Musk, mother of X owner and trillionaire Elon Musk, has now subscribed to the First Lady of Hip-Hop, Nicki Minaj, on X.\n\nIf you haven’t subscribed yet, make sure you do! You can see that even people from the wealthiest circles are keeping up with the Queen. https://t.co/9FRZNugOJs",
+      "link": "https://x.com/BlackMedia___/status/2118789278746468766",
+      "date": "Fri Nov 06 19:35:03 +0000 2026",
+      "tweet_id": "2118789278746468766",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=large",
+          "local": "2118789278746468766_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2109004444410982401/vid/avc1/1080x1920/3Dcr41FKjkUkT3aj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109004444410982401/img/sSZ-tgpFLVMr-vYh.jpg",
+          "local": "2118789278746468766_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=large",
+          "local": "2118789278746468766_2.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2109004444410982401/vid/avc1/1080x1920/3Dcr41FKjkUkT3aj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109004444410982401/img/sSZ-tgpFLVMr-vYh.jpg",
+          "local": "2118789278746468766_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "X 所有者、亿万富翁埃隆·马斯克 (Elon Musk) 的母亲梅耶·马斯克 (Maye Musk) 现已在 X 上订阅了嘻哈第一夫人妮琪·米娜 (Nicki Minaj) 的节目。\n\n如果您还没有订阅，请务必订阅！你可以看到，即使是来自最富有圈子的人也在跟上女王的步伐。 https://t.co/9FRZNugOJs"
     },
     {
       "text": "Elon Musk says SpaceX will attempt to catch Starship with the tower “in about a week from now.”\n“With Ship 42… we can try to catch it with the tower.”\nThat’s his estimate, not a confirmed launch date.\nElon Musk with Ron Baron, November 6, 2026. https://t.co/lmTsNjUHsj",
@@ -1187,9 +1624,9 @@
       "text_zh": "天哪，我快哭了。 \n\n@mayemusk 刚刚订阅了我。 ??\n\n感谢 Maye 一直以来对我们工作的支持。 https://t.co/NnkkPtBfMs"
     },
     {
-      "text": "Always great to chat with you.",
-      "link": "https://x.com/ToscaMusk/status/2118548907672367548#m",
-      "date": "Fri, 06 Nov 2026 03:39:54 GMT",
+      "text": "@teslaownersSV Always great to chat with you.",
+      "link": "https://x.com/ToscaMusk/status/2118548907672367548",
+      "date": "Fri Nov 06 03:39:54 +0000 2026",
       "tweet_id": "2118548907672367548",
       "reply_to": "teslaownersSV",
       "ctx_done": 1,
@@ -3534,363 +3971,6 @@
       },
       "ctx_done": 1,
       "text_zh": "哇 Neuralink 病人扎克能够用意念控制他的 Matic。"
-    },
-    {
-      "text": "Join our squad ⬇️\n\nhttps://t.co/yflMw6Tlqx",
-      "link": "https://x.com/teslaownersSV/status/2117311378167898394",
-      "date": "Mon Nov 02 17:42:24 +0000 2026",
-      "tweet_id": "2117311378167898394",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "加入我们的队伍⬇️\n\nhttps://t.co/yflMw6Tlqx"
-    },
-    {
-      "text": "This is wild, pretty much march madness.. but for midterms 🤣🤣",
-      "link": "https://x.com/teslaownersSV/status/2117311376322601470",
-      "date": "Mon Nov 02 17:42:24 +0000 2026",
-      "tweet_id": "2117311376322601470",
-      "quoted": {
-        "user": "Polymarket",
-        "text": "Who takes the Senate?\n\nBuild your map: pick the winner of the 7 closest races, lock in your call, &amp; trade your combination. \n\nNow live on Polymarket US👇\nhttps://t.co/5aBTSoozdE https://t.co/VAvplVhgVf",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115459628393791489/vid/avc1/3840x2160/qW7sLVlhUjl4lEKt.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115459628393791489/img/f0FPRs07R4kifCFu.jpg",
-            "local": "2117311376322601470q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2115459628393791489/vid/avc1/3840x2160/qW7sLVlhUjl4lEKt.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115459628393791489/img/f0FPRs07R4kifCFu.jpg",
-            "local": "2117311376322601470q_1.jpg"
-          }
-        ],
-        "text_zh": "谁入主参议院？\n\n建立你的地图：选出 7 场最接近的比赛的获胜者，锁定你的电话，并交易你的组合。 \n\n现已在 Polymarket US 上线👇\nhttps://t.co/5aBTSoozdE https://t.co/VAvplVhgVf"
-      },
-      "ctx_done": 1,
-      "text_zh": "这太疯狂了，几乎是疯狂的三月..但对于期中考试来说🤣🤣"
-    },
-    {
-      "text": "Zach is controlling Matic with his mind 🤯 \n\nNeuralink patient #22 is using his thoughts to move Matic around his home \n\nThis is incredible, @elonmusk @neuralink https://t.co/yOe13PW5Mk",
-      "link": "https://x.com/maticrobots/status/2117311176657059992",
-      "date": "Mon Nov 02 17:41:36 +0000 2026",
-      "tweet_id": "2117311176657059992",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117311064320937984/vid/avc1/2332x1320/w6m8QXxtt7DdhJrF.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117311064320937984/img/sQeL6rJagHLQB0h2.jpg",
-          "local": "2117311176657059992_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117311064320937984/vid/avc1/2332x1320/w6m8QXxtt7DdhJrF.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117311064320937984/img/sQeL6rJagHLQB0h2.jpg",
-          "local": "2117311176657059992_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "扎克用意念控制马蒂奇🤯 \n\nNeuralink 患者 #22 正在用他的思想在家里移动 Matic \n\n这太不可思议了，@elonmusk @neuralink https://t.co/yOe13PW5Mk"
-    },
-    {
-      "text": "RT @teslaownersSV: Check out the @OlightWorld Marauder 3 🔦\n\n25,000 lumen floodlight ☀️\n1,000 meter spotlight ⚪️\n31,900mAh battery 🔋\n30W bid…",
-      "link": "https://x.com/teslaownersSV/status/2117309464432824659",
-      "date": "Mon Nov 02 17:34:48 +0000 2026",
-      "tweet_id": "2117309464432824659",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：看看@OlightWorld Marauder 3 🔦\n\n25,000 流明泛光灯☀️\n1000米聚光灯⚪️\n31,900mAh 电池🔋\n30W出价…"
-    },
-    {
-      "text": "On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.\n\nModel S hadn't shipped a single car yet. The Fremont factory was about 90% tooled up, and first deliveries were promised for no later than July 2012.\n\nToday https://t.co/O7uKoX4Yyk",
-      "link": "https://x.com/teslaownersSV/status/2117297684918976723",
-      "date": "Mon Nov 02 16:48:00 +0000 2026",
-      "tweet_id": "2117297684918976723",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
-          "local": "2117297684918976723_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117282610569498624/vid/avc1/1920x1080/8ddfDJhreB01SGe0.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117282610569498624/img/oK_EceZA4MpM9bEb.jpg",
-          "local": "2117297684918976723_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2011 年的这一天：特斯拉告诉股东，预计全年收入为 1.95 亿至 2 亿美元。\n\nModel S 还没有发货一辆车。弗里蒙特工厂已完成约 90% 的设备安装，并承诺不迟于 2012 年 7 月首批交付。\n\n今天 https://t.co/O7uKoX4Yyk"
-    },
-    {
-      "text": "There a little added extra for everyone joining us for the Year’s BIGGEST @Tesla Light Show in Hyvinkää Finland 🇫🇮 NOVEMBER 28th with @teslaclubfin &amp; @enhauto 🥳🥳🥳 https://t.co/WMUTKc6xSq",
-      "link": "https://x.com/Teslalightshows/status/2117294097950035988",
-      "date": "Mon Nov 02 16:33:45 +0000 2026",
-      "tweet_id": "2117294097950035988",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117293497778577408/vid/avc1/1080x1920/l69X9gDFDBrsra8v.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117293497778577408/img/iEHhq_XFr8C_UC0-.jpg",
-          "local": "2117294097950035988_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117293497778577408/vid/avc1/1080x1920/l69X9gDFDBrsra8v.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117293497778577408/img/iEHhq_XFr8C_UC0-.jpg",
-          "local": "2117294097950035988_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "对于与我们一起参加 11 月 28 日在芬兰 Hyvinkää 举行的年度最大 @Tesla 灯光秀的每个人来说，还有一点额外的好处，@teslaclubfin 和 @enhauto 🥳🥳🥳 https://t.co/WMUTKc6xSq"
-    },
-    {
-      "text": "Elon Musk on where super intelligence compute is headed:\n\n\"Future super intelligence compute will obviously be overwhelmingly in space.\n\nBy \"overwhelmingly\", I mean that it will round up to 100%!\"\n\n@elonmusk https://t.co/d7JltZ7Nh0",
-      "link": "https://x.com/teslaownersSV/status/2117282003641057706",
-      "date": "Mon Nov 02 15:45:41 +0000 2026",
-      "tweet_id": "2117282003641057706",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=large",
-          "local": "2117282003641057706_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWIYsEkbsAAkbkD.jpg?format=jpg&name=large",
-          "local": "2117282003641057706_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈超级智能计算的发展方向：\n\n“未来的超级智能计算显然将绝大多数出现在太空中。\n\n我所说的“压倒性”是指四舍五入到100%！”\n\n@elonmusk https://t.co/d7JltZ7Nh0"
-    },
-    {
-      "text": "JUST IN: SpaceX is in talks to buy EchoStar's Boost Mobile or use its network to launch its own phone service, per The Washington Post\nElon met EchoStar chairman Charlie Ergen personally last month, the report says.\nEchoStar had 7.38 million wireless subscribers at the end of Q2, https://t.co/ZS88qY4GPX",
-      "link": "https://x.com/teslaownersSV/status/2117272500380008542",
-      "date": "Mon Nov 02 15:07:55 +0000 2026",
-      "tweet_id": "2117272500380008542",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=large",
-          "local": "2117272500380008542_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWIQHigbsAA4GJj.jpg?format=jpg&name=large",
-          "local": "2117272500380008542_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "据《华盛顿邮报》报道，SpaceX 正在洽谈收购 EchoStar 的 Boost Mobile 或利用其网络推出自己的电话服务\n报道称，埃隆上个月亲自会见了 EchoStar 董事长查理·埃尔根 (Charlie Ergen)。\n截至第二季度末，EchoStar 拥有 738 万无线用户，https://t.co/ZS88qY4GPX"
-    },
-    {
-      "text": "Check out the @OlightWorld Marauder 3 🔦\n\n25,000 lumen floodlight ☀️\n1,000 meter spotlight ⚪️\n31,900mAh battery 🔋\n30W bidirectional 🔌\n\nUse code TOSV for 10% off\n\n👉🏼 https://t.co/NSjSTlvqeP https://t.co/zZEyGoWIMi",
-      "link": "https://x.com/teslaownersSV/status/2117261674738508145",
-      "date": "Mon Nov 02 14:24:54 +0000 2026",
-      "tweet_id": "2117261674738508145",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117260461284507648/vid/avc1/3840x2160/SZ4eji50kw-MZ9bH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117260461284507648/img/iGXVVQ3j9uX9BejW.jpg",
-          "local": "2117261674738508145_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117260461284507648/vid/avc1/3840x2160/SZ4eji50kw-MZ9bH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117260461284507648/img/iGXVVQ3j9uX9BejW.jpg",
-          "local": "2117261674738508145_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "看看@OlightWorld Marauder 3 🔦\n\n25,000 流明泛光灯☀️\n1000米聚光灯⚪️\n31,900mAh 电池🔋\n30W双向🔌\n\n使用代码 TOSV 享受 10% 折扣\n\n👉🏼 https://t.co/NSjSTlvqeP https://t.co/zZEyGoWIMi"
-    },
-    {
-      "text": "JUST IN: Tesla Robotaxi launches in Fort Worth, Texas tomorrow at 6 AM\n\nRiders in Fort Worth can hail a Tesla Robotaxi starting Monday morning, per the official @robotaxi account.\n\nOne more Texas city on the map.\n\n@Tesla",
-      "link": "https://x.com/teslaownersSV/status/2117254723443274197",
-      "date": "Mon Nov 02 13:57:17 +0000 2026",
-      "tweet_id": "2117254723443274197",
-      "quoted": {
-        "user": "robotaxi",
-        "text": "Robotaxi available in Fort Worth starting tomorrow, 6am https://t.co/Tlk4y3mIf0",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
-            "local": "2117254723443274197q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
-            "local": "2117254723443274197q_1.jpg"
-          }
-        ],
-        "text_zh": "Robotaxi 从明天早上 6 点开始在沃斯堡提供服务 https://t.co/Tlk4y3mIf0"
-      },
-      "ctx_done": 1,
-      "text_zh": "刚刚：特斯拉 Robotaxi 明天早上 6 点在德克萨斯州沃思堡推出\n\n根据官方 @robotaxi 账户，从周一早上开始，沃斯堡的乘客可以搭乘特斯拉 Robotaxi。\n\n地图上又一座德克萨斯州城市。\n\n@特斯拉"
-    },
-    {
-      "text": "Mamesuke\n\nA sweet little Shiba Inu with fluffy golden fur, tiny paws, and an adorable face.\n\nYou can’t forget his iconic green scarf makes him even cuter. 💚\n\nJapan really is wonderful, isn't it? https://t.co/mmorLnwzAI",
-      "link": "https://x.com/MamesukeShow/status/2117227900193878491",
-      "date": "Mon Nov 02 12:10:42 +0000 2026",
-      "tweet_id": "2117227900193878491",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117227849375449088/vid/avc1/1280x720/58tmjR9-GcbmlzuP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117227849375449088/img/ziNI34MeZK5pVUZg.jpg",
-          "local": "2117227900193878491_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117227849375449088/vid/avc1/1280x720/58tmjR9-GcbmlzuP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117227849375449088/img/ziNI34MeZK5pVUZg.jpg",
-          "local": "2117227900193878491_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "豆助\n\n一只可爱的小柴犬，有着蓬松的金色皮毛、小爪子和可爱的脸。\n\n你不能忘记他标志性的绿色围巾让他更加可爱。 💚\n\n日本真的很棒，不是吗？ https://t.co/mmorLnwzAI"
-    },
-    {
-      "text": "Robotaxi available in Fort Worth starting tomorrow, 6am https://t.co/Tlk4y3mIf0",
-      "link": "https://x.com/robotaxi/status/2117128711761985656",
-      "date": "Mon Nov 02 05:36:33 +0000 2026",
-      "tweet_id": "2117128711761985656",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
-          "local": "2117128711761985656_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWGNQvCaoAA4oLb.jpg?format=jpg&name=large",
-          "local": "2117128711761985656_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Robotaxi 从明天早上 6 点开始在沃斯堡提供服务 https://t.co/Tlk4y3mIf0"
-    },
-    {
-      "text": "Elon Musk with his mom Maye: \n\nA mom who believed in him first, and a son who still lights up when she walks in. \n\nElon and Maye, 2021 to 2023 https://t.co/moCAVKb9ut",
-      "link": "https://x.com/teslaownersSV/status/2117108950965604625",
-      "date": "Mon Nov 02 04:18:02 +0000 2026",
-      "tweet_id": "2117108950965604625",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117108914156367872/vid/avc1/1080x1920/l-oZktKr1ZVqrbYG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117108914156367872/img/JCS54bwmXmYPtXuQ.jpg",
-          "local": "2117108950965604625_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117108914156367872/vid/avc1/1080x1920/l-oZktKr1ZVqrbYG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117108914156367872/img/JCS54bwmXmYPtXuQ.jpg",
-          "local": "2117108950965604625_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克和他的妈妈梅耶： \n\n一个首先相信他的妈妈，一个当她走进来时仍然闪闪发光的儿子。 \n\n埃隆和梅耶，2021 年至 2023 年 https://t.co/moCAVKb9ut"
-    },
-    {
-      "text": "JPMorgan CEO Jamie Dimon on Elon: \"The guy is our Einstein.\"\n\nOn CNBC at Davos in January 2025, he said he and Elon had hugged it out and settled some of their differences, then named SpaceX, Tesla and Neuralink.\n\n\"And so I like to be helpful to him and his company as much as we https://t.co/h6t27WfhbS",
-      "link": "https://x.com/teslaownersSV/status/2117071104351314011",
-      "date": "Mon Nov 02 01:47:39 +0000 2026",
-      "tweet_id": "2117071104351314011",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117071071136673792/vid/avc1/1922x1080/5ig0fiWKcipjh1VY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117071071136673792/img/4xYP_sKmRmRMCcg6.jpg",
-          "local": "2117071104351314011_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117071071136673792/vid/avc1/1922x1080/5ig0fiWKcipjh1VY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117071071136673792/img/4xYP_sKmRmRMCcg6.jpg",
-          "local": "2117071104351314011_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "摩根大通首席执行官杰米戴蒙谈埃隆：“这个人就是我们的爱因斯坦。”\n\n2025 年 1 月，他在达沃斯 CNBC 节目中表示，他和埃隆已经坦然接受并解决了一些分歧，随后命名为 SpaceX、Tesla 和 Neuralink。\n\n“所以我喜欢为他和他的公司提供帮助，就像我们一样 https://t.co/h6t27WfhbS"
-    },
-    {
-      "text": "Elon Musk in 2013, telling Sal Khan how his friends tried to talk him out of starting a rocket company. \n\nOne made him watch a video of rockets blowing up.\n\nHe was willing to spend half his PayPal money with no expectation of getting it back. U.S. rockets cost too much, so in https://t.co/xuveH2076R",
-      "link": "https://x.com/teslaownersSV/status/2117070492947628354",
-      "date": "Mon Nov 02 01:45:13 +0000 2026",
-      "tweet_id": "2117070492947628354",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117070467362426880/vid/avc1/1080x1350/4PjkoZKoZUmhwESq.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117070467362426880/img/XeBlyIym6yFlvtzP.jpg",
-          "local": "2117070492947628354_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117070467362426880/vid/avc1/1080x1350/4PjkoZKoZUmhwESq.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117070467362426880/img/XeBlyIym6yFlvtzP.jpg",
-          "local": "2117070492947628354_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2013 年，埃隆·马斯克 (Elon Musk) 告诉萨尔·汗 (Sal Khan)，他的朋友们如何劝说他不要创办一家火箭公司。 \n\n其中一个让他观看了火箭爆炸的视频。\n\n他愿意花掉一半的 PayPal 钱，而不指望能收回来。美国火箭成本太高了，所以在https://t.co/xuveH2076R"
-    },
-    {
-      "text": "Elon on where the smartest people hang out online:\n\n\"Anyone with a brain is on 𝕏\" @elonmusk https://t.co/tj1vkAAjIC",
-      "link": "https://x.com/teslaownersSV/status/2117069859150565448",
-      "date": "Mon Nov 02 01:42:42 +0000 2026",
-      "tweet_id": "2117069859150565448",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWFX0VZakAAUz3r.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWFX0VZakAAUz3r.jpg?format=jpg&name=large",
-          "local": "2117069859150565448_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWFX0VZakAAUz3r.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWFX0VZakAAUz3r.jpg?format=jpg&name=large",
-          "local": "2117069859150565448_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆谈到最聪明的人在网上闲逛的地方：\n\n“任何有头脑的人都在𝕏”@elonmusk https://t.co/tj1vkAAjIC"
-    },
-    {
-      "text": "Elon Musk on why his own Tesla Roadster flew on the first Falcon Heavy instead of \"a chunk of concrete\":\n\n\"We can't put a chunk of concrete, that's going to be super boring.\"\n\nA new rocket's first flight usually carries a dummy weight, because nobody risks an expensive satellite https://t.co/ZtjQfFphp2",
-      "link": "https://x.com/teslaownersSV/status/2117067137282199957",
-      "date": "Mon Nov 02 01:31:53 +0000 2026",
-      "tweet_id": "2117067137282199957",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117067097008488448/vid/avc1/1920x1080/My-5GNsvKxYn8lmP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117067097008488448/img/iVdFM77emQPq2VKU.jpg",
-          "local": "2117067137282199957_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117067097008488448/vid/avc1/1920x1080/My-5GNsvKxYn8lmP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117067097008488448/img/iVdFM77emQPq2VKU.jpg",
-          "local": "2117067137282199957_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克（Elon Musk）解释了为什么他自己的特斯拉跑车在第一架猎鹰重型飞机上飞行，而不是“一块混凝土”：\n\n“我们不能放置一块混凝土，那会非常无聊。”\n\n新火箭的首次飞行通常带有虚拟重量，因为没有人冒昂贵卫星的风险 https://t.co/ZtjQfFphp2"
     }
   ]
 }
