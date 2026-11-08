@@ -1,8 +1,263 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-08T05:29:21Z",
+  "updated_at": "2026-11-08T13:04:39Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "It’s absolutely insane. https://t.co/eWe1GNcXbi",
+      "link": "https://x.com/teslaownersSV/status/2119339300106203466",
+      "date": "Sun Nov 08 08:00:39 +0000 2026",
+      "tweet_id": "2119339300106203466",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119339123563802624/vid/avc1/2160x3840/xxNEXwUH_53n2PTr.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119339123563802624/img/sG-FYab4w7a5Raso.jpg",
+          "local": "2119339300106203466_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119339123538640896/vid/avc1/720x1280/gFUgCfEj5uYD7nwf.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119339123538640896/img/Ri1CryJIdYZz0ADf.jpg",
+          "local": "2119339300106203466_1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119339123563802624/vid/avc1/2160x3840/xxNEXwUH_53n2PTr.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119339123563802624/img/sG-FYab4w7a5Raso.jpg",
+          "local": "2119339300106203466_2.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119339123538640896/vid/avc1/720x1280/gFUgCfEj5uYD7nwf.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119339123538640896/img/Ri1CryJIdYZz0ADf.jpg",
+          "local": "2119339300106203466_3.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "cybertruck",
+        "text": "Armored personnel carrier from the future https://t.co/rb4jl4hnnB",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=large",
+            "local": "2119339300106203466q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=large",
+            "local": "2119339300106203466q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=large",
+            "local": "2119339300106203466q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=large",
+            "local": "2119339300106203466q_3.jpg"
+          }
+        ],
+        "text_zh": "未来的装甲运兵车 https://t.co/rb4jl4hnnB"
+      },
+      "ctx_done": 1,
+      "text_zh": "这绝对是疯了。 https://t.co/eWe1GNcXbi"
+    },
+    {
+      "text": "Cybertruck made every other truck look like it was playing it safe.\n\nThe stainless steel. The shape. The willingness to build something that looked nothing like anything else on the road. \n\nLove it or hate it, nobody could ignore it.\nIf this really is the end of the line, I’m https://t.co/nKGX69S7Ww",
+      "link": "https://x.com/teslaownersSV/status/2119337530235769200",
+      "date": "Sun Nov 08 07:53:37 +0000 2026",
+      "tweet_id": "2119337530235769200",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119337382340427777/vid/avc1/576x1024/tInZswcWA8cAtT39.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119337382340427777/img/cNNSZNQ9WieTGKpo.jpg",
+          "local": "2119337530235769200_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119337382365569025/vid/avc1/720x1280/4Xtn6OK8ndvPt-g3.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119337382365569025/img/RURv65C7c7RpcpzD.jpg",
+          "local": "2119337530235769200_1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119337382373998592/vid/avc1/2160x3840/usNW_2PUulDprX63.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119337382373998592/img/usqjOYwrGXsQQQG6.jpg",
+          "local": "2119337530235769200_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWlmHtcbEAAedIV.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWlmHtcbEAAedIV.jpg?format=jpg&name=large",
+          "local": "2119337530235769200_3.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119337382340427777/vid/avc1/576x1024/tInZswcWA8cAtT39.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119337382340427777/img/cNNSZNQ9WieTGKpo.jpg",
+          "local": "2119337530235769200_4.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119337382365569025/vid/avc1/720x1280/4Xtn6OK8ndvPt-g3.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119337382365569025/img/RURv65C7c7RpcpzD.jpg",
+          "local": "2119337530235769200_5.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119337382373998592/vid/avc1/2160x3840/usNW_2PUulDprX63.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119337382373998592/img/usqjOYwrGXsQQQG6.jpg",
+          "local": "2119337530235769200_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWlmHtcbEAAedIV.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWlmHtcbEAAedIV.jpg?format=jpg&name=large",
+          "local": "2119337530235769200_7.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Cyber​​truck 让其他所有卡车看起来都在谨慎行事。\n\n不锈钢。形状。愿意建造一些与路上的其他东西完全不同的东西。 \n\n爱它或恨它，没有人能忽视它。\n如果这真的是终点，我是 https://t.co/nKGX69S7Ww"
+    },
+    {
+      "text": "Japan 𝕏 takeover. Let’s go",
+      "link": "https://x.com/teslaownersSV/status/2119313429983105068",
+      "date": "Sun Nov 08 06:17:51 +0000 2026",
+      "tweet_id": "2119313429983105068",
+      "quoted": {
+        "user": "TeslaOwners_JP",
+        "text": "【X-Takeover Japan 2026｜出展企業紹介】\n株式会社CARVEX\n\nテスラ専門の中古車販売からカスタム・メンテナンスまで対応。充電設備や太陽光発電・蓄電池など、車と暮らしを幅広く支えます！\n\n公式サイト：https://t.co/jlsejHXbQK https://t.co/nuWkAgYEId",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=large",
+            "local": "2119313429983105068q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=large",
+            "local": "2119313429983105068q_1.jpg"
+          }
+        ],
+        "text_zh": "[X-接管日本 2026 |展商公司介绍】\n卡维克斯有限公司\n\n我们处理从特斯拉专业二手车销售到定制维护的一切事务。我们支持各种汽车和生活方式，包括充电设备、太阳能发电和蓄电池！\n\n官方网站：https://t.co/jlsejHXbQK https://t.co/nuWkAgYEId"
+      },
+      "ctx_done": 1,
+      "text_zh": "日本𝕏接管。我们走吧"
+    },
+    {
+      "text": "Source https://t.co/iDi4531F6x",
+      "link": "https://x.com/teslaownersSV/status/2119312322053472452",
+      "date": "Sun Nov 08 06:13:27 +0000 2026",
+      "tweet_id": "2119312322053472452",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "来源 https://t.co/iDi4531F6x"
+    },
+    {
+      "text": "Self driving is a game changer. \n\nLook what happens when a 99 year old lady gets in a Tesla for the first time. https://t.co/CeDoaJMnRi",
+      "link": "https://x.com/teslaownersSV/status/2119312262062366910",
+      "date": "Sun Nov 08 06:13:12 +0000 2026",
+      "tweet_id": "2119312262062366910",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119312233826340864/vid/avc1/720x1280/r7kQE9s9PUyZj6Ro.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119312233826340864/img/wOTcAYPH2JJtgG_A.jpg",
+          "local": "2119312262062366910_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119312233826340864/vid/avc1/720x1280/r7kQE9s9PUyZj6Ro.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119312233826340864/img/wOTcAYPH2JJtgG_A.jpg",
+          "local": "2119312262062366910_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "自动驾驶改变了游戏规则。 \n\n看看当一位 99 岁的女士第一次坐上特斯拉时会发生什么。 https://t.co/CeDoaJMnRi"
+    },
+    {
+      "text": "Grok Bot changed my life. I now approach every task by asking how Grok agents can handle it. It paid two toll tickets for me using only the photos I took of the bill. @bot  @elonmusk https://t.co/ciwajJf1oE",
+      "link": "https://x.com/teslaownersSV/status/2119306654156255682",
+      "date": "Sun Nov 08 05:50:55 +0000 2026",
+      "tweet_id": "2119306654156255682",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119306580844056576/vid/avc1/1080x1920/jtUinJ7lImlBNp_e.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119306580844056576/img/N4raMNFSG_JdBKFN.jpg",
+          "local": "2119306654156255682_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119306580844056576/vid/avc1/1080x1920/jtUinJ7lImlBNp_e.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119306580844056576/img/N4raMNFSG_JdBKFN.jpg",
+          "local": "2119306654156255682_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 改变了我的生活。 I now approach every task by asking how Grok agents can handle it. It paid two toll tickets for me using only the photos I took of the bill. @bot @elonmusk https://t.co/ciwajJf1oE"
+    },
+    {
+      "text": "Hey @elonmusk when will Grok @bot get a higher package than Ultra? \n\nI’m hitting my max in like 3 days before the weekly reset.",
+      "link": "https://x.com/teslaownersSV/status/2119304013040726128",
+      "date": "Sun Nov 08 05:40:26 +0000 2026",
+      "tweet_id": "2119304013040726128",
+      "ctx_done": 1,
+      "text_zh": "嘿@elonmusk Grok @bot 什么时候会获得比 Ultra 更高的套餐？ \n\n在每周重置之前的大约三天内，我就达到了我的最大值。"
+    },
+    {
+      "text": "Squad @ninjamattic @that1evguyjay https://t.co/yvs3NwJJFe",
+      "link": "https://x.com/teslaownersSV/status/2119303249375498617",
+      "date": "Sun Nov 08 05:37:24 +0000 2026",
+      "tweet_id": "2119303249375498617",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWlHEuHbUAAZdsI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWlHEuHbUAAZdsI.jpg?format=jpg&name=large",
+          "local": "2119303249375498617_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWlHEuHbUAAZdsI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWlHEuHbUAAZdsI.jpg?format=jpg&name=large",
+          "local": "2119303249375498617_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "小队@ninjamattic @that1evguyjay https://t.co/yvs3NwJJFe"
+    },
+    {
+      "text": "“If you need encouragement, don't start a company.”\nElon Musk https://t.co/7eEunWA3D5",
+      "link": "https://x.com/teslaownersSV/status/2119303117888270738",
+      "date": "Sun Nov 08 05:36:52 +0000 2026",
+      "tweet_id": "2119303117888270738",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWlG9GJakAAlnM1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWlG9GJakAAlnM1.jpg?format=jpg&name=large",
+          "local": "2119303117888270738_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWlG9GJakAAlnM1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWlG9GJakAAlnM1.jpg?format=jpg&name=large",
+          "local": "2119303117888270738_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“如果你需要鼓励，就不要创办公司。”\n埃隆·马斯克 https://t.co/7eEunWA3D5"
+    },
     {
       "text": "In 2004, before SpaceX had launched a single rocket, Elon Musk told CNN that what his company was doing was critical to the future of NASA.\n\nHe was 33, two years into SpaceX, sitting down with CNN in California in July 2004. He said cheaper launches were the way to help NASA, https://t.co/SlIUz2qd3S",
       "link": "https://x.com/teslaownersSV/status/2119277941414940853",
@@ -134,6 +389,40 @@
       ],
       "ctx_done": 1,
       "text_zh": "我不制定规则。团队@UnpluggedTesla https://t.co/SyZTC1pH2M"
+    },
+    {
+      "text": "Armored personnel carrier from the future https://t.co/rb4jl4hnnB",
+      "link": "https://x.com/cybertruck/status/2119192487902511230",
+      "date": "Sat Nov 07 22:17:16 +0000 2026",
+      "tweet_id": "2119192487902511230",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=large",
+          "local": "2119192487902511230_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=large",
+          "local": "2119192487902511230_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWYnG7EacAA4QlH.jpg?format=jpg&name=large",
+          "local": "2119192487902511230_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWYnJOTawAAl5Ef.jpg?format=jpg&name=large",
+          "local": "2119192487902511230_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "未来的装甲运兵车 https://t.co/rb4jl4hnnB"
     },
     {
       "text": "RT @xcelerateauto: Production may be ending, but your plans for your Cybertruck don’t have to—with XCare EV Protection.",
@@ -841,6 +1130,28 @@
       ],
       "ctx_done": 1,
       "text_zh": "我再次乘坐特斯拉 Cyber​​cab！\n\n回到奥斯汀的特斯拉 Cyber​​cab，这次是和最初的 Cyber​​cab 追逐者@JoshWest247 一起。 \n\n我们乘坐 Cyber​​cab 穿过奥斯汀前往星巴克，并讨论了网络发展的速度有多快：在雨中驾驶，为什么它比 https://t.co/66oNV7pshm 便宜"
+    },
+    {
+      "text": "【X-Takeover Japan 2026｜出展企業紹介】\n株式会社CARVEX\n\nテスラ専門の中古車販売からカスタム・メンテナンスまで対応。充電設備や太陽光発電・蓄電池など、車と暮らしを幅広く支えます！\n\n公式サイト：https://t.co/jlsejHXbQK https://t.co/nuWkAgYEId",
+      "link": "https://x.com/TeslaOwners_JP/status/2118991857489477863",
+      "date": "Sat Nov 07 09:00:02 +0000 2026",
+      "tweet_id": "2118991857489477863",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=large",
+          "local": "2118991857489477863_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=large",
+          "local": "2118991857489477863_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "[X-接管日本 2026 |展商公司介绍】\n卡维克斯有限公司\n\n我们处理从特斯拉专业二手车销售到定制维护的一切事务。我们支持各种汽车和生活方式，包括充电设备、太阳能发电和蓄电池！\n\n官方网站：https://t.co/jlsejHXbQK https://t.co/nuWkAgYEId"
     },
     {
       "text": "I love my Cybertruck. I did a whole news story on it. https://t.co/L3YegyxRxa",
@@ -3752,207 +4063,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "Cyber​​cab 无处不在 https://t.co/qlvhAdaVzx"
-    },
-    {
-      "text": "Elon Musk on why most people wouldn't really want to be him: \"my mind is a storm.\"\n\n\"My mind is a storm and I don't think most people would want to be me. They may think they would want to be me, but they don't. They don't know, they don't understand.\"\n\nThen look at what that https://t.co/Hh4JEIwAJn",
-      "link": "https://x.com/teslaownersSV/status/2117737390873928078",
-      "date": "Tue Nov 03 21:55:14 +0000 2026",
-      "tweet_id": "2117737390873928078",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117737312004304896/vid/avc1/1920x1080/3oBQoEGcRJNJGu46.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117737312004304896/img/35xsGm7xILNYH3YA.jpg",
-          "local": "2117737390873928078_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117737312004304896/vid/avc1/1920x1080/3oBQoEGcRJNJGu46.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117737312004304896/img/35xsGm7xILNYH3YA.jpg",
-          "local": "2117737390873928078_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈到为什么大多数人并不想成为他：“我的头脑就像一场风暴。”\n\n“我的思想是一场风暴，我认为大多数人都不想成为我。他们可能认为他们想成为我，但他们没有。他们不知道，他们不明白。”\n\n然后看看是什么 https://t.co/Hh4JEIwAJn"
-    },
-    {
-      "text": "Post a photo of your Tesla. \n\nHere’s mine at @UPTeslaFremont https://t.co/pFNiIkodtg",
-      "link": "https://x.com/teslaownersSV/status/2117730251619119491",
-      "date": "Tue Nov 03 21:26:52 +0000 2026",
-      "tweet_id": "2117730251619119491",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=large",
-          "local": "2117730251619119491_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWOwcEgaoAAocG6.jpg?format=jpg&name=large",
-          "local": "2117730251619119491_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "发布您的特斯拉照片。 \n\n这是我的 @UPTeslaFremont https://t.co/pFNiIkodtg"
-    },
-    {
-      "text": "Elon on why Tesla built the new Roadster, a \"hardcore smackdown\" for gasoline cars:\n\n\"People have asked us for a long time, when are you going to make a new Roadster? We are making it now... The point of doing this is to just give a hardcore smackdown to gasoline cars. Driving a https://t.co/eeK3Bc1pLn",
-      "link": "https://x.com/teslaownersSV/status/2117729802853753273",
-      "date": "Tue Nov 03 21:25:05 +0000 2026",
-      "tweet_id": "2117729802853753273",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117729765528612864/vid/avc1/1920x1080/xEFpoFWvbc8U5LA5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117729765528612864/img/jt8lLiM6I8JekXmD.jpg",
-          "local": "2117729802853753273_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117729765528612864/vid/avc1/1920x1080/xEFpoFWvbc8U5LA5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117729765528612864/img/jt8lLiM6I8JekXmD.jpg",
-          "local": "2117729802853753273_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 谈及特斯拉为何打造新款 Roadster，这是对汽油车的“硬核打击”：\n\n“长期以来，人们一直在问我们，你们打算什么时候制造一辆新的 Roadster？我们现在就在制造……这样做的目的是为了给汽油车带来一次硬核打击。驾驶 https://t.co/eeK3Bc1pLn"
-    },
-    {
-      "text": "0-60 mph in 0.81 seconds. Cold gas thrusters on a road car. \n\nTesla said it best: \"From Roadster in a rocket. To rocket in a Roadster.\" @Tesla https://t.co/G3B6YmYrcy",
-      "link": "https://x.com/teslaownersSV/status/2117723091422101823",
-      "date": "Tue Nov 03 20:58:25 +0000 2026",
-      "tweet_id": "2117723091422101823",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117723034639560704/vid/avc1/1080x1350/Dia5zyy_fSFKETr7.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117723034639560704/img/Qm_Q_KXF4Ykpgc0m.jpg",
-          "local": "2117723091422101823_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117723034639560704/vid/avc1/1080x1350/Dia5zyy_fSFKETr7.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117723034639560704/img/Qm_Q_KXF4Ykpgc0m.jpg",
-          "local": "2117723091422101823_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "0-60 英里/小时加速只需 0.81 秒。公路车上的冷气体推进器。 \n\n特斯拉说得最好：“从火箭中的跑车。到跑车中的火箭。” @特斯拉 https://t.co/G3B6YmYrcy"
-    },
-    {
-      "text": "Elon on what changes the world more in 10 years, Full Self-Driving or Optimus:\n\nWe asked him at our 2025 𝕏 Takeover. His answer was one word: \"Optimus.\"\n\n\"Say somebody needs a lot of medical care... like a 24 hour a day nurse or helper. So that's the kind of thing which would be https://t.co/ATASK44MYn",
-      "link": "https://x.com/teslaownersSV/status/2117715584871968973",
-      "date": "Tue Nov 03 20:28:35 +0000 2026",
-      "tweet_id": "2117715584871968973",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117715505889132544/vid/avc1/1920x1080/ReMLA9Z_UVBxGJP_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117715505889132544/img/nI_YCR4TTh9iJB5F.jpg",
-          "local": "2117715584871968973_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117715505889132544/vid/avc1/1920x1080/ReMLA9Z_UVBxGJP_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117715505889132544/img/nI_YCR4TTh9iJB5F.jpg",
-          "local": "2117715584871968973_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 谈 10 年后什么会改变世界，全自动驾驶还是擎天柱：\n\n我们在 2025 年𝕏 接管时询问了他。他的回答只有一个字：“擎天柱”。\n\n“假设有人需要大量的医疗护理......比如一天 24 小时的护士或助手。所以这就是 https://t.co/ATASK44MYn"
-    },
-    {
-      "text": "All my followers who've made me everything I am special shout out to you ! Take a look at this great X account content \n@teslaownersSV give them a like and a follow ! Aloha https://t.co/BEWpIhDkxd",
-      "link": "https://x.com/kauai_renatus/status/2117703684788514890",
-      "date": "Tue Nov 03 19:41:18 +0000 2026",
-      "tweet_id": "2117703684788514890",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117703644846112768/vid/avc1/1920x1080/lZT0VLARoafxsnVt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117703644846112768/img/owooJ5yVYGuCOt0Z.jpg",
-          "local": "2117703684788514890_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117703644846112768/vid/avc1/1920x1080/lZT0VLARoafxsnVt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117703644846112768/img/owooJ5yVYGuCOt0Z.jpg",
-          "local": "2117703684788514890_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "所有让我变得如此特别的追随者向你们大声喊叫！看看这个精彩的 X 帐户内容 \n@teslaownersSV 给他们点赞和关注！阿罗哈 https://t.co/BEWpIhDkxd"
-    },
-    {
-      "text": "Mark Cuban on Elon being the best entrepreneur of our lifetimes:\n\n\"THE BEST ENTREPRENEUR OF OUR LIFETIMES FOR SURE.\"\n\n\"Elon's amazing. He's a brilliant entrepreneur, don't get me wrong.\"\n\n\"He's the best entrepreneur of our lifetimes for sure, but he's a sales guy.\"\n\n\"He has to https://t.co/0oURk9wC2L",
-      "link": "https://x.com/teslaownersSV/status/2117703243635843502",
-      "date": "Tue Nov 03 19:39:32 +0000 2026",
-      "tweet_id": "2117703243635843502",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117703205463457792/vid/avc1/1080x1920/YKOa_IImT8hBpZsS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117703205463457792/img/ms9Juo252o1lxJHy.jpg",
-          "local": "2117703243635843502_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117703205463457792/vid/avc1/1080x1920/YKOa_IImT8hBpZsS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117703205463457792/img/ms9Juo252o1lxJHy.jpg",
-          "local": "2117703243635843502_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "马克·库班 (Mark Cuban) 评价埃隆是我们一生中最好的企业家：\n\n“肯定是我们一生中最好的企业家。”\n\n“埃隆太棒了。他是一位出色的企业家，请不要误会我的意思。”\n\n“他无疑是我们一生中最好的企业家，但他是一名销售人员。”\n\n“他必须 https://t.co/0oURk9wC2L"
-    },
-    {
-      "text": "📹 ⬇️\n\nVideo shot with @insta360 Luna Pro and X6\n\nOrder Luna Pro: https://t.co/iFsz9ium5N\n\nOrder X6: https://t.co/2KbIJdEFiR",
-      "link": "https://x.com/teslaownersSV/status/2117695804022628367",
-      "date": "Tue Nov 03 19:09:59 +0000 2026",
-      "tweet_id": "2117695804022628367",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "📹⬇️\n\n使用 @insta360 Luna Pro 和 X6 拍摄的视频\n\n订购 Luna Pro：https://t.co/iFsz9ium5N\n\n订单 X6：https://t.co/2KbIJdEFiR"
-    },
-    {
-      "text": "RT @teslaownersSV: No steering wheel. No side mirrors. No highways yet. I rode the Tesla Cybercab across Austin, start to finish.\n\nFull rid…",
-      "link": "https://x.com/teslaownersSV/status/2117695231336312962",
-      "date": "Tue Nov 03 19:07:42 +0000 2026",
-      "tweet_id": "2117695231336312962",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：没有方向盘。没有后视镜。还没有高速公路。我乘坐特斯拉 Cyber​​cab 从头到尾穿越奥斯汀。\n\n全面摆脱…"
-    },
-    {
-      "text": "RT @elonmusk: Vote red today!",
-      "link": "https://x.com/teslaownersSV/status/2117692311056605522",
-      "date": "Tue Nov 03 18:56:06 +0000 2026",
-      "tweet_id": "2117692311056605522",
-      "ctx_done": 1,
-      "text_zh": "RT @elonmusk：今天投票红色！"
-    },
-    {
-      "text": "Don't @ me. Yes I’m playing @MariahCarey on Nov 3 drinking Diet Coke with Self Driving in my Cybertruck. https://t.co/JA9CnHwCYf",
-      "link": "https://x.com/teslaownersSV/status/2117692184195735801",
-      "date": "Tue Nov 03 18:55:36 +0000 2026",
-      "tweet_id": "2117692184195735801",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117692094978625536/vid/avc1/1392x1856/KZP0M1X0_97BUJvT.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117692094978625536/img/5i7Bs0p4YhWEH3wM.jpg",
-          "local": "2117692184195735801_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117692094978625536/vid/avc1/1392x1856/KZP0M1X0_97BUJvT.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117692094978625536/img/5i7Bs0p4YhWEH3wM.jpg",
-          "local": "2117692184195735801_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "别@我。是的，我在 11 月 3 日玩@MariahCarey，喝着健怡可乐，并在我的 Cyber​​truck 中进行自动驾驶。 https://t.co/JA9CnHwCYf"
     }
   ]
 }
