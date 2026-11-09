@@ -1,8 +1,436 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-09T02:33:37Z",
+  "updated_at": "2026-11-09T11:10:22Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "RT @AdamLowisz: @teslaownersSV's wife is suffering from cancer. Would anyone happen to know of someone who is currently working with AI/SI…",
+      "link": "https://x.com/teslaownersSV/status/2119700450765402554",
+      "date": "Mon Nov 09 07:55:44 +0000 2026",
+      "tweet_id": "2119700450765402554",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Fam, reaching out to the power of 𝕏 and its network. \n\nDo you have any connections with founders of companies using AI/SI to cure cancer? If so, DM me. \n\nCancer is a piece of crap, and I’m praying SI can cure it.",
+        "text_zh": "Fam，利用 𝕏 及其网络的力量。 \n\n您与使用 AI/SI 治疗癌症的公司创始人有联系吗？如果是这样，请DM我。 \n\n癌症是一坨屎，我祈祷 SI 能治愈它。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @AdamLowisz：@teslaownersSV 的妻子患有癌症。有人碰巧认识目前正在从事 AI/SI 工作的人吗？"
+    },
+    {
+      "text": "@teslaownersSV's wife is suffering from cancer. Would anyone happen to know of someone who is currently working with AI/SI models on cancer therapies?",
+      "link": "https://x.com/AdamLowisz/status/2119700409467957437",
+      "date": "Mon Nov 09 07:55:34 +0000 2026",
+      "tweet_id": "2119700409467957437",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Fam, reaching out to the power of 𝕏 and its network. \n\nDo you have any connections with founders of companies using AI/SI to cure cancer? If so, DM me. \n\nCancer is a piece of crap, and I’m praying SI can cure it.",
+        "text_zh": "Fam，利用 𝕏 及其网络的力量。 \n\n您与使用 AI/SI 治疗癌症的公司创始人有联系吗？如果是这样，请DM我。 \n\n癌症是一坨屎，我祈祷 SI 能治愈它。"
+      },
+      "ctx_done": 1,
+      "text_zh": "@teslaownersSV 的妻子患有癌症。有人碰巧认识目前正在使用 AI/SI 模型进行癌症治疗的人吗？"
+    },
+    {
+      "text": "Fam, reaching out to the power of 𝕏 and its network. \n\nDo you have any connections with founders of companies using AI/SI to cure cancer? If so, DM me. \n\nCancer is a piece of crap, and I’m praying SI can cure it.",
+      "link": "https://x.com/teslaownersSV/status/2119696239935869181",
+      "date": "Mon Nov 09 07:39:00 +0000 2026",
+      "tweet_id": "2119696239935869181",
+      "ctx_done": 1,
+      "text_zh": "Fam，利用 𝕏 及其网络的力量。 \n\n您与使用 AI/SI 治疗癌症的公司创始人有联系吗？如果是这样，请DM我。 \n\n癌症是一坨屎，我祈祷 SI 能治愈它。"
+    },
+    {
+      "text": "Raptor 3 makes about 3x the thrust per tonne of installed hardware that Raptor 1 did.\n\nSpaceX moved most of the plumbing inside the engine itself, which let it drop the heavy heat shield earlier versions needed.\n\nRaptor 1: 185 tf, 3,630 kg installed\nRaptor 2: 230 tf, 2,875 kg https://t.co/y3bv48WaoV",
+      "link": "https://x.com/teslaownersSV/status/2119694877881709000",
+      "date": "Mon Nov 09 07:33:35 +0000 2026",
+      "tweet_id": "2119694877881709000",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqrQh4aUAAKyVi.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqrQh4aUAAKyVi.jpg?format=jpg&name=large",
+          "local": "2119694877881709000_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqrQh4aUAAKyVi.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqrQh4aUAAKyVi.jpg?format=jpg&name=large",
+          "local": "2119694877881709000_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Raptor 3 每吨安装硬件的推力大约是 Raptor 1 的 3 倍。\n\nSpaceX 将大部分管道移至发动机内部，从而放弃了早期版本所需的重型隔热罩。\n\nRaptor 1：185 tf，安装后重量 3,630 kg\n猛禽 2：230 tf，2,875 公斤 https://t.co/y3bv48WaoV"
+    },
+    {
+      "text": "I stand with Elon Musk and I’m unapologetic about it. \n\nWith him, we have an insanely exciting future. https://t.co/3KpAGOomZx",
+      "link": "https://x.com/teslaownersSV/status/2119692972321284250",
+      "date": "Mon Nov 09 07:26:01 +0000 2026",
+      "tweet_id": "2119692972321284250",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119692906831507456/vid/avc1/720x1280/niFvwWMpj-Ibhmji.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119692906831507456/img/ffvDZmHXaYC-D6D5.jpg",
+          "local": "2119692972321284250_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119692906831507456/vid/avc1/720x1280/niFvwWMpj-Ibhmji.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119692906831507456/img/ffvDZmHXaYC-D6D5.jpg",
+          "local": "2119692972321284250_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我与埃隆·马斯克站在一起，对此我并不感到抱歉。 \n\n和他一起，我们将拥有一个令人兴奋的未来。 https://t.co/3KpAGOomZx"
+    },
+    {
+      "text": "RT @elonmusk: The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the l…",
+      "link": "https://x.com/teslaownersSV/status/2119691823660798266",
+      "date": "Mon Nov 09 07:21:27 +0000 2026",
+      "tweet_id": "2119691823660798266",
+      "quoted": {
+        "user": "jamesdouma",
+        "text": "Seriously. It’s incomparable. But cars are going to become robots, their forms and functions will change, and we won’t be coming back to this moment.  Get it while you can.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWnV9q6bAAA7UCD.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWnV9q6bAAA7UCD.jpg?name=orig",
+            "local": "2119691823660798266q_0.jpg"
+          }
+        ],
+        "text_zh": "严重地。这是无与伦比的。但汽车将成为机器人，它们的形式和功能将会改变，我们不会回到这一刻。  趁你还可以的时候去获取它。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：Cyber​​truck 的订单率远远超过了我们的生产率。在关闭工厂之前，我们将尽力生产尽可能多的产品……"
+    },
+    {
+      "text": "The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people.\n\nThis is not a case of Cybertruck being unprofitable, as has been misreported",
+      "link": "https://x.com/elonmusk/status/2119691615774146614",
+      "date": "Mon Nov 09 07:20:37 +0000 2026",
+      "tweet_id": "2119691615774146614",
+      "quoted": {
+        "user": "jamesdouma",
+        "text": "Seriously. It’s incomparable. But cars are going to become robots, their forms and functions will change, and we won’t be coming back to this moment.  Get it while you can.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWnV9q6bAAA7UCD.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWnV9q6bAAA7UCD.jpg?name=orig",
+            "local": "2119691615774146614q_0.jpg"
+          }
+        ],
+        "text_zh": "严重地。这是无与伦比的。但汽车将成为机器人，它们的形式和功能将会改变，我们不会回到这一刻。  趁你还可以的时候去获取它。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Cyber​​truck的订单率远远超过我们的生产率。我们会尽力在8个月左右关闭生产线之前生产尽可能多的产品，但必须退还很多人的押金。\n\n这并不是像误报那样Cyber​​truck无法盈利的情况"
+    },
+    {
+      "text": "Stop caring about what others think. Why not take a crazy chance?",
+      "link": "https://x.com/teslaownersSV/status/2119690874926039233",
+      "date": "Mon Nov 09 07:17:41 +0000 2026",
+      "tweet_id": "2119690874926039233",
+      "ctx_done": 1,
+      "text_zh": "别再关心别人的想法了。为什么不抓住一次疯狂的机会呢？"
+    },
+    {
+      "text": "CANCER = POS",
+      "link": "https://x.com/teslaownersSV/status/2119684789976670414",
+      "date": "Mon Nov 09 06:53:30 +0000 2026",
+      "tweet_id": "2119684789976670414",
+      "ctx_done": 1,
+      "text_zh": "癌症 = POS"
+    },
+    {
+      "text": "BREAKING: Robotaxi network expands to San Antonio Texas.  https://t.co/6iZExYfwpk",
+      "link": "https://x.com/teslaownersSV/status/2119679747601182783",
+      "date": "Mon Nov 09 06:33:28 +0000 2026",
+      "tweet_id": "2119679747601182783",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqcBhAagAArWe1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqcBhAagAArWe1.jpg?format=jpg&name=large",
+          "local": "2119679747601182783_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqcBhAagAArWe1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqcBhAagAArWe1.jpg?format=jpg&name=large",
+          "local": "2119679747601182783_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "突发新闻：Robotaxi 网络扩展到德克萨斯州圣安东尼奥。  https://t.co/6iZExYfwpk"
+    },
+    {
+      "text": "RT @ninjamattic: Just hanging out with an endangered species. https://t.co/xWndglUvda",
+      "link": "https://x.com/teslaownersSV/status/2119673183783858181",
+      "date": "Mon Nov 09 06:07:23 +0000 2026",
+      "tweet_id": "2119673183783858181",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=large",
+          "local": "2119673183783858181_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=large",
+          "local": "2119673183783858181_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=large",
+          "local": "2119673183783858181_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=large",
+          "local": "2119673183783858181_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @ninjamattic：只是和濒临灭绝的物种一起闲逛。 https://t.co/xWndglUvda"
+    },
+    {
+      "text": "Just hanging out with an endangered species. https://t.co/xWndglUvda",
+      "link": "https://x.com/ninjamattic/status/2119672970172145915",
+      "date": "Mon Nov 09 06:06:32 +0000 2026",
+      "tweet_id": "2119672970172145915",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=large",
+          "local": "2119672970172145915_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=large",
+          "local": "2119672970172145915_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKhbYAAfuwY.jpg?format=jpg&name=large",
+          "local": "2119672970172145915_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqXVKlaQAAtb84.jpg?format=jpg&name=large",
+          "local": "2119672970172145915_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "只是和濒临灭绝的物种一起闲逛。 https://t.co/xWndglUvda"
+    },
+    {
+      "text": "People love the Tesla Roadster https://t.co/FxYoENIHL8",
+      "link": "https://x.com/teslaownersSV/status/2119662669041144086",
+      "date": "Mon Nov 09 05:25:36 +0000 2026",
+      "tweet_id": "2119662669041144086",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119662606734766080/vid/avc1/1080x1920/i3Oxf4LHXQkyFu1S.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119662606734766080/img/OoSURiAeOKQ9BVxR.jpg",
+          "local": "2119662669041144086_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119662606734766080/vid/avc1/1080x1920/i3Oxf4LHXQkyFu1S.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119662606734766080/img/OoSURiAeOKQ9BVxR.jpg",
+          "local": "2119662669041144086_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "人们喜欢特斯拉 Roadster https://t.co/FxYoENIHL8"
+    },
+    {
+      "text": "\"Is there any other social media company you trust more than 𝕏?”\n\"Nope.\"\n@elonmusk https://t.co/rtXjoJDXdi",
+      "link": "https://x.com/teslaownersSV/status/2119659719715651954",
+      "date": "Mon Nov 09 05:13:53 +0000 2026",
+      "tweet_id": "2119659719715651954",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119659657258237952/vid/avc1/1920x1080/Ae4uv6Qoe-zNlLVB.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119659657258237952/img/jEadOBQsQIxnqDer.jpg",
+          "local": "2119659719715651954_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119659657258237952/vid/avc1/1920x1080/Ae4uv6Qoe-zNlLVB.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119659657258237952/img/jEadOBQsQIxnqDer.jpg",
+          "local": "2119659719715651954_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“还有比𝕏更值得您信任的其他社交媒体公司吗？”\n“没有。”\n@elonmusk https://t.co/rtXjoJDXdi"
+    },
+    {
+      "text": "RT @teslaownersSV: The drone and light show at @thextakeover was insane. \n\nNothing cooler than bringing 2k people and 300 Teslas together t…",
+      "link": "https://x.com/teslaownersSV/status/2119656856549511306",
+      "date": "Mon Nov 09 05:02:30 +0000 2026",
+      "tweet_id": "2119656856549511306",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：@thextakeover 的无人机和灯光秀太疯狂了。 \n\n没有什么比将 2000 人和 300 辆特斯拉聚集在一起更酷的了……"
+    },
+    {
+      "text": "Elon Musk knew and he warned people about it.",
+      "link": "https://x.com/teslaownersSV/status/2119645749399224810",
+      "date": "Mon Nov 09 04:18:22 +0000 2026",
+      "tweet_id": "2119645749399224810",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "If she’s a 10, you’re an asset 💯😂 https://t.co/Fc9twx1BPp",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/G39ITLeXIAA6tsm.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/G39ITLeXIAA6tsm.jpg?format=jpg&name=large",
+            "local": "2119645749399224810q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/G39ITLeXIAA6tsm.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/G39ITLeXIAA6tsm.jpg?format=jpg&name=large",
+            "local": "2119645749399224810q_1.jpg"
+          }
+        ],
+        "text_zh": "如果她是 10，那么你就是资产 💯😂 https://t.co/Fc9twx1BPp"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克知道这一点，他警告人们这一点。"
+    },
+    {
+      "text": "\"I actually just call myself a humble tech support here... so we are actually tech support. It's ironic, but it's true.\"\n\n@elonmusk https://t.co/Ai6gCBEPQT",
+      "link": "https://x.com/teslaownersSV/status/2119625141105910199",
+      "date": "Mon Nov 09 02:56:29 +0000 2026",
+      "tweet_id": "2119625141105910199",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119625007383056384/vid/avc1/1280x720/3aNUahjoZ-MxAcaZ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119625007383056384/img/nukn7b6XRO9dAGhG.jpg",
+          "local": "2119625141105910199_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119625007383056384/vid/avc1/1280x720/3aNUahjoZ-MxAcaZ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119625007383056384/img/nukn7b6XRO9dAGhG.jpg",
+          "local": "2119625141105910199_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“实际上，我只是称自己为谦虚的技术支持......所以我们实际上是技术支持。这很讽刺，但这是事实。”\n\n@elonmusk https://t.co/Ai6gCBEPQT"
+    },
+    {
+      "text": "When Elon Musk shows up to be Grok @bot support aka Tech Support https://t.co/H2BvPn1cMp",
+      "link": "https://x.com/teslaownersSV/status/2119623588705927658",
+      "date": "Mon Nov 09 02:50:18 +0000 2026",
+      "tweet_id": "2119623588705927658",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWpqZa2a8AA0cIG.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWpqZa2a8AA0cIG.jpg?format=jpg&name=large",
+          "local": "2119623588705927658_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWpqZa2a8AA0cIG.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWpqZa2a8AA0cIG.jpg?format=jpg&name=large",
+          "local": "2119623588705927658_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Just did a round table review with the Grok @Bot engineering team. \n\nFixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, reply to this post and we will address any remaining issues right away.",
+        "text_zh": "刚刚与 Grok @Bot 工程团队进行了圆桌会议审查。 \n\n修复工作正在连夜实施，到明天您应该会注意到显着的改进。如果没有，请回复此帖子，我们将立即解决任何剩余问题。"
+      },
+      "ctx_done": 1,
+      "text_zh": "当埃隆·马斯克 (Elon Musk) 出现时，Grok @bot 支持又名技术支持 https://t.co/H2BvPn1cMp"
+    },
+    {
+      "text": "I miss the Tesla fam from @theXtakeover https://t.co/Y7tUxWU8Jb",
+      "link": "https://x.com/teslaownersSV/status/2119622209509736915",
+      "date": "Mon Nov 09 02:44:50 +0000 2026",
+      "tweet_id": "2119622209509736915",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWppKieb0AA406x.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWppKieb0AA406x.jpg?format=jpg&name=large",
+          "local": "2119622209509736915_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWppKieb0AA406x.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWppKieb0AA406x.jpg?format=jpg&name=large",
+          "local": "2119622209509736915_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我想念 @theXtakeover 的特斯拉家族 https://t.co/Y7tUxWU8Jb"
+    },
+    {
+      "text": "Saturn V took astronauts to the Moon. Starship is designed to do it with a fully reusable rocket.\n\nSpaceX’s published design specs call for more than twice Saturn V’s liftoff thrust—with the booster and ship built to return and be caught, rather than discarded.\n\nStarship’s https://t.co/JvyYJHBiI5",
+      "link": "https://x.com/teslaownersSV/status/2119621743619002444",
+      "date": "Mon Nov 09 02:42:59 +0000 2026",
+      "tweet_id": "2119621743619002444",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWpovNoawAAeajj.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWpovNoawAAeajj.jpg?format=jpg&name=large",
+          "local": "2119621743619002444_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWpovNoawAAeajj.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWpovNoawAAeajj.jpg?format=jpg&name=large",
+          "local": "2119621743619002444_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "土星五号将宇航员带到了月球。 Starship 的设计目的是使用完全可重复使用的火箭来实现这一目标。\n\nSpaceX 公布的设计规格要求土星五号的升空推力超过两倍，而助推器和飞船的设计目的是返回并被捕获，而不是被丢弃。\n\n星舰的 https://t.co/JvyYJHBiI5"
+    },
+    {
+      "text": "“If @elonmusk  had stopped working, we would only have Tesla. We wouldn't have SpaceX. We wouldn't have the Boring Company. We wouldn't have Neuralink, a technology that may enable my daughter to see again or speak again. These are people that we should treasure, people we should https://t.co/7I3ZZVgFAP",
+      "link": "https://x.com/teslaownersSV/status/2119621470204874765",
+      "date": "Mon Nov 09 02:41:53 +0000 2026",
+      "tweet_id": "2119621470204874765",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119621426802237440/vid/avc1/1920x1080/Zex_WRMAUzeM2LWM.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119621426802237440/img/y-BLqO-07ATuFzRn.jpg",
+          "local": "2119621470204874765_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119621426802237440/vid/avc1/1920x1080/Zex_WRMAUzeM2LWM.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119621426802237440/img/y-BLqO-07ATuFzRn.jpg",
+          "local": "2119621470204874765_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“如果 @elonmusk 停止工作，我们就会只有特斯拉。我们不会有 SpaceX。我们不会有 Boring Company。我们不会有 Neuralink，这项技术可以让我的女儿再次看到或再次说话。这些是我们应该珍惜的人，我们应该珍惜的人 https://t.co/7I3ZZVgFAP"
+    },
+    {
+      "text": "Just did a round table review with the Grok @Bot engineering team. \n\nFixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, reply to this post and we will address any remaining issues right away.",
+      "link": "https://x.com/elonmusk/status/2119617455102333206",
+      "date": "Mon Nov 09 02:25:56 +0000 2026",
+      "tweet_id": "2119617455102333206",
+      "ctx_done": 1,
+      "text_zh": "刚刚与 Grok @Bot 工程团队进行了圆桌会议审查。 \n\n修复工作正在连夜实施，到明天您应该会注意到显着的改进。如果没有，请回复此帖子，我们将立即解决任何剩余问题。"
+    },
     {
       "text": "Building the factory is harder than building the prototype.\n\n“The difficulty of designing the machine that makes the machine is vastly harder than the machine itself.”\n\nElon Musk explains why showing a working car and producing it at scale are very different challenges.\n\nTesla https://t.co/GM0jq5wNLP",
       "link": "https://x.com/teslaownersSV/status/2119612122019848278",
@@ -3626,498 +4054,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "首先看看我们的纳维船体验 \n\n你觉得呢？ @navierboat https://t.co/zcy29WlFxH"
-    },
-    {
-      "text": "Elon Musk loves us https://t.co/5xsMQhKgA1",
-      "link": "https://x.com/teslaownersSV/status/2118199778999955619",
-      "date": "Thu Nov 05 04:32:36 +0000 2026",
-      "tweet_id": "2118199778999955619",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118199742819950592/vid/avc1/1920x1080/Q7i_kuFH3kSMoy-a.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118199742819950592/img/0Zo14DlDX40_k8df.jpg",
-          "local": "2118199778999955619_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118199742819950592/vid/avc1/1920x1080/Q7i_kuFH3kSMoy-a.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118199742819950592/img/0Zo14DlDX40_k8df.jpg",
-          "local": "2118199778999955619_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克爱我们 https://t.co/5xsMQhKgA1"
-    },
-    {
-      "text": "Have you ever had friends who started to avoid you because what you were going through was too much for them?",
-      "link": "https://x.com/teslaownersSV/status/2118197777977229743",
-      "date": "Thu Nov 05 04:24:39 +0000 2026",
-      "tweet_id": "2118197777977229743",
-      "ctx_done": 1,
-      "text_zh": "你是否曾经有过朋友因为你所经历的事情让他们承受不了而开始回避你？"
-    },
-    {
-      "text": "In case you didn’t know Chinese Elon Musk likes us the most. \n\n@elonmusk @mayilong0 https://t.co/jS3y2P1Ek2",
-      "link": "https://x.com/teslaownersSV/status/2118188964658164167",
-      "date": "Thu Nov 05 03:49:37 +0000 2026",
-      "tweet_id": "2118188964658164167",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118188923293982720/vid/avc1/720x1280/PkNSDCMbBGoc9uIG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118188923293982720/img/vxdX1QCQvmE8Yr5h.jpg",
-          "local": "2118188964658164167_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118188923293982720/vid/avc1/720x1280/PkNSDCMbBGoc9uIG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118188923293982720/img/vxdX1QCQvmE8Yr5h.jpg",
-          "local": "2118188964658164167_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "如果你不知道中国人埃隆·马斯克最喜欢我们。 \n\n@elonmusk @mayilong0 https://t.co/jS3y2P1Ek2"
-    },
-    {
-      "text": "Nicki Minaj on Grok, \"Using Grok Bot made me feel like I was cheating in life!\" https://t.co/IY2SA7XYx1",
-      "link": "https://x.com/teslaownersSV/status/2118175333585424801",
-      "date": "Thu Nov 05 02:55:27 +0000 2026",
-      "tweet_id": "2118175333585424801",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2109002148302245889/pu/vid/avc1/720x1280/z5CpWB-mC8s0Yo90.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2109002148302245889/pu/img/_hLr2Bwr4Iwma2bL.jpg",
-          "local": "2118175333585424801_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2109002148302245889/pu/vid/avc1/720x1280/z5CpWB-mC8s0Yo90.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2109002148302245889/pu/img/_hLr2Bwr4Iwma2bL.jpg",
-          "local": "2118175333585424801_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "NICKIMINAJ",
-        "text": "Last thing:\n\n14. Elon is STILL a trillionaire and you are STILL posting on his app. I’m sure the shareholders appreciate the dialogue. \n\n15. #GrokBot is a phenomenal product that has significantly changed my life for the better. Thank you, @bot 🩷 https://t.co/zVslOx35tx",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=large",
-            "local": "2118175333585424801q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=large",
-            "local": "2118175333585424801q_1.jpg"
-          }
-        ],
-        "text_zh": "最后一件事：\n\n14. 埃隆仍然是万亿富翁，而你仍然在他的应用程序上发帖。我确信股东们很欣赏这次对话。 \n\n15.#GrokBot 是一款非凡的产品，它极大地改变了我的生活，让我的生活变得更好。谢谢你，@bot 🩷 https://t.co/zVslOx35tx"
-      },
-      "ctx_done": 1,
-      "text_zh": "Nicki Minaj 谈到 Grok，“使用 Grok Bot 让我感觉自己在生活中作弊！” https://t.co/IY2SA7XYx1"
-    },
-    {
-      "text": "Elon Musk: \"Any complicated looking robot demo, it's a canned demo, it's not real.\"\n\nHis test for real AI: \"You show it something it's never seen before and it can still handle that situation.\"\n\nThat's why he says FSD would still work on \"a planet it's never been to.\" He says https://t.co/thu5qnSn6k",
-      "link": "https://x.com/teslaownersSV/status/2118174165614342463",
-      "date": "Thu Nov 05 02:50:49 +0000 2026",
-      "tweet_id": "2118174165614342463",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118174109712654336/vid/avc1/1920x1080/Z5295xGE8ftAPNXM.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118174109712654336/img/4HIz64FrV3rJKjkV.jpg",
-          "local": "2118174165614342463_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118174109712654336/vid/avc1/1920x1080/Z5295xGE8ftAPNXM.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118174109712654336/img/4HIz64FrV3rJKjkV.jpg",
-          "local": "2118174165614342463_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克：“任何看起来很复杂的机器人演示，都是罐装演示，不是真实的。”\n\n他对真正的人工智能的测试是：“你向它展示一些它以前从未见过的东西，它仍然可以处理这种情况。”\n\n这就是为什么他说 FSD 仍然会在“一个它从未去过的星球”上工作。他说 https://t.co/thu5qnSn6k"
-    },
-    {
-      "text": "Last thing:\n\n14. Elon is STILL a trillionaire and you are STILL posting on his app. I’m sure the shareholders appreciate the dialogue. \n\n15. #GrokBot is a phenomenal product that has significantly changed my life for the better. Thank you, @bot 🩷 https://t.co/zVslOx35tx",
-      "link": "https://x.com/NICKIMINAJ/status/2118166367191105884",
-      "date": "Thu Nov 05 02:19:50 +0000 2026",
-      "tweet_id": "2118166367191105884",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=large",
-          "local": "2118166367191105884_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWU9Fc7WQAAEGlj.jpg?format=jpg&name=large",
-          "local": "2118166367191105884_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "最后一件事：\n\n14. 埃隆仍然是万亿富翁，而你仍然在他的应用程序上发帖。我确信股东们很欣赏这次对话。 \n\n15. #GrokBot 是一款非凡的产品，它极大地改变了我的生活，让我的生活变得更好。谢谢你，@bot 🩷 https://t.co/zVslOx35tx"
-    },
-    {
-      "text": "Elon Musk in 2008, minutes after SpaceX finally reached orbit on its fourth try.\n\nFalcon 1 had failed on its first three launches, in 2006, 2007 and August 2008. \n\nOn September 28, 2008, right after the fourth one made it, he walked out to the employees at SpaceX headquarters in https://t.co/yAowzU5mf8",
-      "link": "https://x.com/teslaownersSV/status/2118123394671726983",
-      "date": "Wed Nov 04 23:29:04 +0000 2026",
-      "tweet_id": "2118123394671726983",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118123370495737856/vid/avc1/1080x1350/8X3VWkg9firayCIs.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118123370495737856/img/XRv3598Dd5ppx79g.jpg",
-          "local": "2118123394671726983_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118123370495737856/vid/avc1/1080x1350/8X3VWkg9firayCIs.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118123370495737856/img/XRv3598Dd5ppx79g.jpg",
-          "local": "2118123394671726983_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2008 年，埃隆·马斯克 (Elon Musk)，就在 SpaceX 第四次尝试最终进入轨道几分钟后。\n\n猎鹰 1 号在 2006 年、2007 年和 2008 年 8 月的前三次发射均以失败告终。 \n\n2008 年 9 月 28 日，第四个成功后，他走向 SpaceX 总部的员工 https://t.co/yAowzU5mf8"
-    },
-    {
-      "text": "RT @stevenmarkryan: Welp...\n\nWhat Blue Wave Means For Tesla, SpaceX &amp; Elon Musk https://t.co/D5fzKFe4mZ",
-      "link": "https://x.com/teslaownersSV/status/2118120432616579087",
-      "date": "Wed Nov 04 23:17:18 +0000 2026",
-      "tweet_id": "2118120432616579087",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117835942992191488/vid/avc1/1920x1080/iVibsS57sdO7xeVS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117835942992191488/img/AlOBqa945QvRvLG_.jpg",
-          "local": "2118120432616579087_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117835942992191488/vid/avc1/1920x1080/iVibsS57sdO7xeVS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117835942992191488/img/AlOBqa945QvRvLG_.jpg",
-          "local": "2118120432616579087_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "RT @stevenmarkryan：好吧......\n\n蓝色浪潮对特斯拉、SpaceX 和埃隆·马斯克意味着什么 https://t.co/D5fzKFe4mZ"
-    },
-    {
-      "text": "Elon Musk be like https://t.co/08RTrGD3b9",
-      "link": "https://x.com/teslaownersSV/status/2118118464485503084",
-      "date": "Wed Nov 04 23:09:29 +0000 2026",
-      "tweet_id": "2118118464485503084",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/GiDM8DwXsAAbJ3t.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/GiDM8DwXsAAbJ3t.jpg?format=jpg&name=large",
-          "local": "2118118464485503084_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/GiDM8DwXsAAbJ3t.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/GiDM8DwXsAAbJ3t.jpg?format=jpg&name=large",
-          "local": "2118118464485503084_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克就像 https://t.co/08RTrGD3b9"
-    },
-    {
-      "text": "RT @cobeyluke: @teslaownersSV https://t.co/9EkIQRpTZL",
-      "link": "https://x.com/teslaownersSV/status/2118113988500504972",
-      "date": "Wed Nov 04 22:51:42 +0000 2026",
-      "tweet_id": "2118113988500504972",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=large",
-          "local": "2118113988500504972_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=large",
-          "local": "2118113988500504972_1.jpg"
-        }
-      ],
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "RT @cobeyluke：@teslaownersSV https://t.co/9EkIQRpTZL"
-    },
-    {
-      "text": "@teslaownersSV https://t.co/9EkIQRpTZL",
-      "link": "https://x.com/cobeyluke/status/2118112829328752753",
-      "date": "Wed Nov 04 22:47:05 +0000 2026",
-      "tweet_id": "2118112829328752753",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=large",
-          "local": "2118112829328752753_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWUMZEjXcAA9NaR.jpg?format=jpg&name=large",
-          "local": "2118112829328752753_1.jpg"
-        }
-      ],
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "@teslaownersSV https://t.co/9EkIQRpTZL"
-    },
-    {
-      "text": "Congratulations Cobey. Welcome to the tesla Family",
-      "link": "https://x.com/teslaownersSV/status/2118101491554881906",
-      "date": "Wed Nov 04 22:02:02 +0000 2026",
-      "tweet_id": "2118101491554881906",
-      "quoted": {
-        "user": "cobeyluke",
-        "text": "Speaking of acquisitions, I have officially acquired my Cybertruck. https://t.co/fRjAgSKxcQ",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=large",
-            "local": "2118101491554881906q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=large",
-            "local": "2118101491554881906q_1.jpg"
-          }
-        ],
-        "text_zh": "说到收购，我已经正式收购了我的 Cyber​​truck。 https://t.co/fRjAgSKxcQ"
-      },
-      "ctx_done": 1,
-      "text_zh": "恭喜科比。欢迎加入特斯拉大家庭"
-    },
-    {
-      "text": "Speaking of acquisitions, I have officially acquired my Cybertruck. https://t.co/fRjAgSKxcQ",
-      "link": "https://x.com/cobeyluke/status/2118099063887540343",
-      "date": "Wed Nov 04 21:52:23 +0000 2026",
-      "tweet_id": "2118099063887540343",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=large",
-          "local": "2118099063887540343_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWT_3p1XQAAqVqi.jpg?format=jpg&name=large",
-          "local": "2118099063887540343_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "说到收购，我已经正式收购了我的 Cyber​​truck。 https://t.co/fRjAgSKxcQ"
-    },
-    {
-      "text": "\"There is a clear path to a fully sustainable Earth with abundance... It doesn't require destroying natural habitats. It doesn't require us to be austere and stop using electricity and sort of be in the cold or anything.\"\n\nElon Musk, Tesla Investor Day, Giga Texas, March 1 2023 https://t.co/e1VoySGmmg",
-      "link": "https://x.com/teslaownersSV/status/2118096463238770711",
-      "date": "Wed Nov 04 21:42:03 +0000 2026",
-      "tweet_id": "2118096463238770711",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118096434901975040/vid/avc1/1920x1080/3U5PkbHQ2jLnNRfJ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118096434901975040/img/QWkl5UKT9DH25ppo.jpg",
-          "local": "2118096463238770711_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118096434901975040/vid/avc1/1920x1080/3U5PkbHQ2jLnNRfJ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118096434901975040/img/QWkl5UKT9DH25ppo.jpg",
-          "local": "2118096463238770711_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“有一条通往完全可持续发展、资源丰富的地球的明确道路……它不需要破坏自然栖息地。它不需要我们变得严峻，停止使用电力，或者处于寒冷或任何其他的环境中。”\n\n埃隆·马斯克 (Elon Musk)，特斯拉投资者日，德克萨斯州 Giga，2023 年 3 月 1 日 https://t.co/e1VoySGmmg"
-    },
-    {
-      "text": "Elon on building Terafab: \"I have no idea how to make chips, but we'll figure it out. Gotta start somewhere.\"\n\"I had no idea how to make cars or rockets as well.\"\nHe also called making chips one of the hardest things to do in the world.\n@elonmusk https://t.co/rXShjscI27",
-      "link": "https://x.com/teslaownersSV/status/2118096157289394244",
-      "date": "Wed Nov 04 21:40:50 +0000 2026",
-      "tweet_id": "2118096157289394244",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWT9OosbsAA69y3.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWT9OosbsAA69y3.jpg?format=jpg&name=large",
-          "local": "2118096157289394244_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWT9OosbsAA69y3.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWT9OosbsAA69y3.jpg?format=jpg&name=large",
-          "local": "2118096157289394244_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 在谈到 Terafab 时表示：“我不知道如何制造芯片，但我们会弄清楚的。总得从某个地方开始。”\n“我也不知道如何制造汽车或火箭。”\n他还称制造芯片是世界上最难做的事情之一。\n@elonmusk https://t.co/rXShjscI27"
-    },
-    {
-      "text": "Protect Elon Musk at all costs. https://t.co/o8TA61LNfH",
-      "link": "https://x.com/teslaownersSV/status/2118077961408827454",
-      "date": "Wed Nov 04 20:28:32 +0000 2026",
-      "tweet_id": "2118077961408827454",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/1874494645113356288/vid/avc1/816x720/k4WR2VmUwovQkmx4.mp4?tag=16",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1874494645113356288/img/mnnLvhQCZT6oZPXF.jpg",
-          "local": "2118077961408827454_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/1874494645113356288/vid/avc1/816x720/k4WR2VmUwovQkmx4.mp4?tag=16",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1874494645113356288/img/mnnLvhQCZT6oZPXF.jpg",
-          "local": "2118077961408827454_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "不惜一切代价保护埃隆·马斯克。 https://t.co/o8TA61LNfH"
-    },
-    {
-      "text": "“I will tell you one thing: Elon Musk is the greatest person on the planet right now.”\nSandy Munro https://t.co/HbsKhEOP1Y",
-      "link": "https://x.com/teslaownersSV/status/2118077846900167090",
-      "date": "Wed Nov 04 20:28:05 +0000 2026",
-      "tweet_id": "2118077846900167090",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/1880126370942001152/vid/avc1/1280x720/JvSE8Xh6HITCH3uU.mp4?tag=16",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1880126370942001152/img/NAkeXeQSzqiZ4heX.jpg",
-          "local": "2118077846900167090_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/1880126370942001152/vid/avc1/1280x720/JvSE8Xh6HITCH3uU.mp4?tag=16",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1880126370942001152/img/NAkeXeQSzqiZ4heX.jpg",
-          "local": "2118077846900167090_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“我会告诉你一件事：埃隆·马斯克是目前地球上最伟大的人。”\n桑迪·芒罗 https://t.co/HbsKhEOP1Y"
-    },
-    {
-      "text": "Fall update 🍁 @PassionFlix ❤️\n\n(Next time I’ll brush the hair off my sweater 😂) https://t.co/sO6YWGWf0O",
-      "link": "https://x.com/ToscaMusk/status/2118041533697884667",
-      "date": "Wed Nov 04 18:03:47 +0000 2026",
-      "tweet_id": "2118041533697884667",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118036316092780544/vid/avc1/2160x3840/c8XBh5XxmPitggAP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118036316092780544/img/hU0fUa2rgfTZwwpS.jpg",
-          "local": "2118041533697884667_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118036316092780544/vid/avc1/2160x3840/c8XBh5XxmPitggAP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118036316092780544/img/hU0fUa2rgfTZwwpS.jpg",
-          "local": "2118041533697884667_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "秋季更新🍁@PassionFlix❤️\n\n（下次我会把毛衣上的头发刷掉😂）https://t.co/sO6YWGWf0O"
-    },
-    {
-      "text": "\"No dead zones anywhere in the world.\" Elon called it at Starbase in 2022. Today SpaceX picked Qualcomm to build Starlink Mobile's nationwide 5G network.\n\nElon Musk, announcing Starlink direct to cell with T-Mobile in August 2022:\n\n\"The important thing about this is that it means https://t.co/ERWdSYbrnf",
-      "link": "https://x.com/teslaownersSV/status/2118039842168942724",
-      "date": "Wed Nov 04 17:57:04 +0000 2026",
-      "tweet_id": "2118039842168942724",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118039781875802112/vid/avc1/1920x1080/GvjTDK_dper1H2cw.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118039781875802112/img/qoXLAnQImWpz0AFk.jpg",
-          "local": "2118039842168942724_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118039781875802112/vid/avc1/1920x1080/GvjTDK_dper1H2cw.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118039781875802112/img/qoXLAnQImWpz0AFk.jpg",
-          "local": "2118039842168942724_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“世界上任何地方都没有死亡区。” Elon 于 2022 年在 Starbase 上宣布了这一计划。今天，SpaceX 选择高通来建设 Starlink Mobile 的全国 5G 网络。\n\nElon Musk 于 2022 年 8 月宣布与 T-Mobile 合作推出 Starlink Direct to cell：\n\n“重要的是这意味着 https://t.co/ERWdSYbrnf"
-    },
-    {
-      "text": "https://t.co/PEYLooEeum",
-      "link": "https://x.com/teslaownersSV/status/2118039246413984173",
-      "date": "Wed Nov 04 17:54:42 +0000 2026",
-      "tweet_id": "2118039246413984173",
-      "ctx_done": 1,
-      "text_zh": "https://t.co/PEYLooEeum"
-    },
-    {
-      "text": "Democrats have taken: Senate / House / Governor\n\nThe last time the Democrats have taken all 3 was 20 years ago under Bush! https://t.co/BgzIjs7ql4",
-      "link": "https://x.com/teslaownersSV/status/2118037030508937596",
-      "date": "Wed Nov 04 17:45:53 +0000 2026",
-      "tweet_id": "2118037030508937596",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWTCwg9WEAEfjTG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWTCwg9WEAEfjTG.jpg?format=jpg&name=large",
-          "local": "2118037030508937596_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWTCwhFWoAAFQyJ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWTCwhFWoAAFQyJ.jpg?format=jpg&name=large",
-          "local": "2118037030508937596_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWTCwhBWkAAbcAk.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWTCwhBWkAAbcAk.jpg?format=jpg&name=large",
-          "local": "2118037030508937596_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWTCwg9WEAEfjTG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWTCwg9WEAEfjTG.jpg?format=jpg&name=large",
-          "local": "2118037030508937596_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWTCwhFWoAAFQyJ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWTCwhFWoAAFQyJ.jpg?format=jpg&name=large",
-          "local": "2118037030508937596_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWTCwhBWkAAbcAk.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWTCwhBWkAAbcAk.jpg?format=jpg&name=large",
-          "local": "2118037030508937596_5.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "民主党已拿下：参议院/众议院/州长\n\n上一次民主党包揽全部三项还是 20 年前布什执政时期！ https://t.co/BgzIjs7ql4"
-    },
-    {
-      "text": "RT @teslaownersSV: One of the biggest upgrades to life is a vacuum/mop robot.\n\nThe best is @maticrobots:\n\n• 5 RGB-IR cameras + on-device AI…",
-      "link": "https://x.com/teslaownersSV/status/2118031805022617863",
-      "date": "Wed Nov 04 17:25:08 +0000 2026",
-      "tweet_id": "2118031805022617863",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：生活中最大的升级之一是吸尘器/拖把机器人。\n\n最好的是@maticrobots：\n\n• 5 个 RGB-IR 摄像头 + 设备内置人工智能……"
     }
   ]
 }

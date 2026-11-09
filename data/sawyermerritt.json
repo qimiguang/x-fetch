@@ -1,8 +1,30 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-11-09T02:34:45Z",
+  "updated_at": "2026-11-09T11:10:30Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Tesla's Unsupervised Robotaxi service is now available in 8 cities as of Nov 9th. The expansion into San Antonio today marks @Tesla's largest-ever Robotaxi service area at launch.\n\nUpdated geofence sizes (in square miles):\n• San Antonio: ~275 (launch on Nov 9)\n• Austin: 272\n• https://t.co/rrybN6owbJ",
+      "link": "https://x.com/SawyerMerritt/status/2119684122440302957",
+      "date": "Mon Nov 09 06:50:51 +0000 2026",
+      "tweet_id": "2119684122440302957",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqg5MXXsAA6uRi.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqg5MXXsAA6uRi.jpg?format=jpg&name=large",
+          "local": "2119684122440302957_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWqg5MXXsAA6uRi.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWqg5MXXsAA6uRi.jpg?format=jpg&name=large",
+          "local": "2119684122440302957_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "截至 11 月 9 日，特斯拉无人监督的 Robotaxi 服务现已在 8 个城市推出。今天向圣安东尼奥的扩张标志着特斯拉有史以来最大的 Robotaxi 服务区的启动。\n\n更新的地理围栏大小（以平方英里为单位）：\n• 圣安东尼奥：~275（11 月 9 日发布）\n•奥斯汀：272\n• https://t.co/rrybN6owbJ"
+    },
     {
       "text": "Tesla says it has pushed its Giga Shanghai factory supplier localization to 98% (up from 95%).\n\nTesla has currently signed up more than 400 local tier-1 suppliers in China, with more than 60 of them having entered its global supply chain system.\n\nThe factory currently maintains a production pace of rolling one vehicle off the line every 30-plus seconds on average, with an industrial waste utilization rate kept above 94%. cnevpost.com/2026/11/06/tesl…\n\nLink\n\n\n\nTesla pushes Shanghai plant localization to 98%, bringing joint developments with Chinese suppliers...\n\nOver the past several years, Tesla had always described the Shanghai factory&apos;s parts localization rate as \"over 95%.\"\ncnevpost.com",
       "link": "https://x.com/SawyerMerritt/status/2118620837020406098#m",
@@ -2120,14 +2142,6 @@
       "date": "Wed, 21 Oct 2026 21:56:56 GMT",
       "text_zh": "Elon 表示，特斯拉的下一代 AI5 芯片可能会在 2027 年底开始向客户发货。",
       "tweet_id": "2113026778260205825",
-      "ctx_done": 1
-    },
-    {
-      "text": "Elon Musk on Optimus V3:\n\n\"We may be ready to release a video in about a month or two. I want to release a video where Optimus is doing things that aren't pre-programmed. A demo that you can believe. Another milestone we want to get to is integrating the AI5 chip in Optimus, which will be in April 2027.\"",
-      "link": "https://nitter.kareem.one/SawyerMerritt/status/2113026384977433003#m",
-      "date": "Wed, 21 Oct 2026 21:55:22 GMT",
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈 Optimus V3：\n\n“我们可能准备在大约一两个月内发布一个视频。我想发布一个视频，其中 Optimus 正在做一些未预先编程的事情。一个你可以相信的演示。我们想要实现的另一个里程碑是将 AI5 芯片集成到 Optimus 中，这将在 2027 年 4 月进行。”",
-      "tweet_id": "2113026384977433003",
       "ctx_done": 1
     }
   ]
