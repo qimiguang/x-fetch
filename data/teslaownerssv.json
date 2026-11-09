@@ -1,8 +1,601 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-09T11:10:22Z",
+  "updated_at": "2026-11-09T22:12:25Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Walking into the future like https://t.co/9jbBv0r5x1",
+      "link": "https://x.com/teslaownersSV/status/2119912164911948185",
+      "date": "Mon Nov 09 21:57:00 +0000 2026",
+      "tweet_id": "2119912164911948185",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119912118065700864/vid/avc1/1080x1920/IgswqfzIn9WjiRIY.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119912118065700864/img/ADERNbdJG9gUAHs1.jpg",
+          "local": "2119912164911948185_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119912118065700864/vid/avc1/1080x1920/IgswqfzIn9WjiRIY.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119912118065700864/img/ADERNbdJG9gUAHs1.jpg",
+          "local": "2119912164911948185_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "像 https://t.co/9jbBv0r5x1 一样走进未来"
+    },
+    {
+      "text": "RT @elonmusk: Gwynne is great",
+      "link": "https://x.com/teslaownersSV/status/2119909788046008518",
+      "date": "Mon Nov 09 21:47:34 +0000 2026",
+      "tweet_id": "2119909788046008518",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "\"That's the man (@elonmusk I've worked for for 24 years. I love him.\"\nGwynne Shotwell",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
+            "local": "2119909788046008518q_0.jpg"
+          }
+        ],
+        "text_zh": "“就是这个人（@elonmusk，我为他工作了 24 年。我爱他。”\n格温·肖特韦尔"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：格温很棒"
+    },
+    {
+      "text": "Gwynne is great",
+      "link": "https://x.com/elonmusk/status/2119909709197279420",
+      "date": "Mon Nov 09 21:47:15 +0000 2026",
+      "tweet_id": "2119909709197279420",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "\"That's the man (@elonmusk I've worked for for 24 years. I love him.\"\nGwynne Shotwell",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
+            "local": "2119909709197279420q_0.jpg"
+          }
+        ],
+        "text_zh": "“就是这个人（@elonmusk，我为他工作了 24 年。我爱他。”\n格温·肖特韦尔"
+      },
+      "ctx_done": 1,
+      "text_zh": "格温很棒"
+    },
+    {
+      "text": "RT @TeslaOwners_JP: 【X-Takeover Japan 2026｜出展企業紹介】\nテスラジャパン\n\nテスラジャパンが出展！EVとともに暮らす楽しさや、これからの可能性に触れる機会をお届けします。展示内容の詳細は今後ご案内します。\n\n公式サイト：https:/…",
+      "link": "https://x.com/teslaownersSV/status/2119904229716537429",
+      "date": "Mon Nov 09 21:25:28 +0000 2026",
+      "tweet_id": "2119904229716537429",
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaOwners_JP：[X-接管日本 2026 |展商公司介绍】\n特斯拉日本\n\n特斯拉日本参展！我们将为您提供体验电动汽车生活的乐趣和未来可能性的机会。展览内容详情将于日后公布。\n\n官方网站：https://..."
+    },
+    {
+      "text": "Thank God the Tesla Cybertruck is ending https://t.co/v16TJvKhkM",
+      "link": "https://x.com/teslaownersSV/status/2119903749644882247",
+      "date": "Mon Nov 09 21:23:34 +0000 2026",
+      "tweet_id": "2119903749644882247",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119903596095651840/vid/avc1/1080x1920/mFa0HpkAYvovHG1O.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119903596095651840/img/r_3uFs-3l9dLculy.jpg",
+          "local": "2119903749644882247_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119903596095651840/vid/avc1/1080x1920/mFa0HpkAYvovHG1O.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119903596095651840/img/r_3uFs-3l9dLculy.jpg",
+          "local": "2119903749644882247_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "感谢上帝，特斯拉赛博卡车即将结束 https://t.co/v16TJvKhkM"
+    },
+    {
+      "text": "People will say this is AI  https://t.co/sH4WNiNAfA",
+      "link": "https://x.com/teslaownersSV/status/2119902568839295023",
+      "date": "Mon Nov 09 21:18:52 +0000 2026",
+      "tweet_id": "2119902568839295023",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=large",
+          "local": "2119902568839295023_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=large",
+          "local": "2119902568839295023_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "人们会说这是人工智能 https://t.co/sH4WNiNAfA"
+    },
+    {
+      "text": "RT @ToscaMusk: Thursday",
+      "link": "https://x.com/teslaownersSV/status/2119902427243839615",
+      "date": "Mon Nov 09 21:18:19 +0000 2026",
+      "tweet_id": "2119902427243839615",
+      "quoted": {
+        "user": "PassionFlix",
+        "text": "This week on The Black Dagger Brotherhood...\nEpisode 3 premieres Thursday, only on Passionflix.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119427119667105792/img/nCmf7xjCXDlsQ4sz.jpg",
+            "local": "2119902427243839615q_0.jpg"
+          }
+        ],
+        "text_zh": "本周《黑匕首兄弟会》...\n第三集周四首播，仅在 Passionflix 上播出。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @ToscaMusk：周四"
+    },
+    {
+      "text": "RT @XanderSky: thank you @mayemusk for inspiring my super talented wife https://t.co/rFH7WqysXJ",
+      "link": "https://x.com/teslaownersSV/status/2119902329294278776",
+      "date": "Mon Nov 09 21:17:55 +0000 2026",
+      "tweet_id": "2119902329294278776",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
+          "local": "2119902329294278776_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
+          "local": "2119902329294278776_1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
+          "local": "2119902329294278776_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
+          "local": "2119902329294278776_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @XanderSky：谢谢@mayemusk 激励我超级有才华的妻子 https://t.co/rFH7WqysXJ"
+    },
+    {
+      "text": "Thursday",
+      "link": "https://x.com/ToscaMusk/status/2119899044059447489",
+      "date": "Mon Nov 09 21:04:52 +0000 2026",
+      "tweet_id": "2119899044059447489",
+      "quoted": {
+        "user": "PassionFlix",
+        "text": "This week on The Black Dagger Brotherhood...\nEpisode 3 premieres Thursday, only on Passionflix.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119427119667105792/img/nCmf7xjCXDlsQ4sz.jpg",
+            "local": "2119899044059447489q_0.jpg"
+          }
+        ],
+        "text_zh": "本周《黑匕首兄弟会》...\n第三集周四首播，仅在 Passionflix 上播出。"
+      },
+      "ctx_done": 1,
+      "text_zh": "周四"
+    },
+    {
+      "text": "Starship Cybertruck at Starbase. The Gateway to Mars. https://t.co/NaPphdbcOA",
+      "link": "https://x.com/teslaownersSV/status/2119897888465772706",
+      "date": "Mon Nov 09 21:00:17 +0000 2026",
+      "tweet_id": "2119897888465772706",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119897797503954944/vid/avc1/720x1280/zttigWFOUPMdSzZZ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119897797503954944/img/5Cj8hwZjjBewLoy8.jpg",
+          "local": "2119897888465772706_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119897797503954944/vid/avc1/720x1280/zttigWFOUPMdSzZZ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119897797503954944/img/5Cj8hwZjjBewLoy8.jpg",
+          "local": "2119897888465772706_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Starbase 的 Starship Cyber​​truck。通往火星的门户。 https://t.co/NaPphdbcOA"
+    },
+    {
+      "text": "Hey @MerianneJensen, this is your sign to let @congressdj get a Cybertruck. https://t.co/JsG0pOybs3",
+      "link": "https://x.com/teslaownersSV/status/2119890877615390988",
+      "date": "Mon Nov 09 20:32:25 +0000 2026",
+      "tweet_id": "2119890877615390988",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119890158673858560/vid/avc1/2160x3840/H05lnfzmxrq7IPCo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119890158673858560/img/w3gkqzmBduE6YXce.jpg",
+          "local": "2119890877615390988_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119890158673858560/vid/avc1/2160x3840/H05lnfzmxrq7IPCo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119890158673858560/img/w3gkqzmBduE6YXce.jpg",
+          "local": "2119890877615390988_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "嘿@MerianneJensen，这是你让@congressdj 获得一辆 Cyber​​truck 的标志。 https://t.co/JsG0pOybs3"
+    },
+    {
+      "text": "thank you @mayemusk for inspiring my super talented wife https://t.co/rFH7WqysXJ",
+      "link": "https://x.com/XanderSky/status/2119885861710102645",
+      "date": "Mon Nov 09 20:12:29 +0000 2026",
+      "tweet_id": "2119885861710102645",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
+          "local": "2119885861710102645_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
+          "local": "2119885861710102645_1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
+          "local": "2119885861710102645_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
+          "local": "2119885861710102645_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "谢谢@mayemusk 激励我超级有才华的妻子 https://t.co/rFH7WqysXJ"
+    },
+    {
+      "text": "The Model Y L’s spoiler virtually lengthens the car, helping bring drag down to 0.216 Cd.\n\n\"The ability to get it down to 0.216 CD was like pretty amazing.\"\n— Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: [Jay Leno's Garage](https://t.co/dbkzJ6pT5G) https://t.co/wjT34WqLzw",
+      "link": "https://x.com/teslaownersSV/status/2119877084466319810",
+      "date": "Mon Nov 09 19:37:37 +0000 2026",
+      "tweet_id": "2119877084466319810",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119876688977018883/vid/avc1/1920x1080/XlcvJV_ZRM7_4Aob.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876688977018883/img/4zzKxwuXQ7TzUTj0.jpg",
+          "local": "2119877084466319810_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119876688977018883/vid/avc1/1920x1080/XlcvJV_ZRM7_4Aob.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876688977018883/img/4zzKxwuXQ7TzUTj0.jpg",
+          "local": "2119877084466319810_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Model Y L 的扰流板实际上延长了汽车的长度，有助于将阻力降至 0.216 Cd。\n\n“能够将其降低至 0.216 CD 的能力真是太神奇了。”\n— Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：[Jay Leno 的车库](https://t.co/dbkzJ6pT5G) https://t.co/wjT34WqLzw"
+    },
+    {
+      "text": "Tesla just stopped selling the Model X and stretched this one, so the third row is nicer, with second-row captain’s chairs.\n\n\"We just stopped selling Model X, which was our other three-row vehicle.\"\n— Franz von Holzhausen, Tesla Chief Designer\n\nCredit: [Jay Leno's https://t.co/kCPTmuOVHK",
+      "link": "https://x.com/teslaownersSV/status/2119876240735870988",
+      "date": "Mon Nov 09 19:34:15 +0000 2026",
+      "tweet_id": "2119876240735870988",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119876094883168257/vid/avc1/1920x1080/aYOZhAz-1ymc12V6.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876094883168257/img/NxtPdGSYJe3jeteM.jpg",
+          "local": "2119876240735870988_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119876094883168257/vid/avc1/1920x1080/aYOZhAz-1ymc12V6.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876094883168257/img/NxtPdGSYJe3jeteM.jpg",
+          "local": "2119876240735870988_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉刚刚停止销售 Model X，并延长了这款车型，所以第三排更好，第二排有船长椅。\n\n“我们刚刚停止销售 Model X，这是我们的另一款三排座汽车。”\n——弗兰兹·冯·霍尔茨豪森，特斯拉首席设计师\n\n图片来源：[Jay Leno 的 https://t.co/kCPTmuOVHK"
+    },
+    {
+      "text": "The Model Y L hits 0–60 in 4.4 seconds: 496 horsepower, 405 lb-ft of torque.\n\n\"It goes 0 to 60 in 4.4 seconds, 'cause you know, we don't make slow cars.\"\n— Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: [Jay Leno's Garage](https://t.co/dbkzJ6pT5G) https://t.co/kMqPBOpd3D",
+      "link": "https://x.com/teslaownersSV/status/2119875886879232438",
+      "date": "Mon Nov 09 19:32:51 +0000 2026",
+      "tweet_id": "2119875886879232438",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119875714770178048/vid/avc1/1920x1080/SPwPfUlL4S4gR-dA.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875714770178048/img/6u85t3gRLqtTXkkV.jpg",
+          "local": "2119875886879232438_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119875714770178048/vid/avc1/1920x1080/SPwPfUlL4S4gR-dA.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875714770178048/img/6u85t3gRLqtTXkkV.jpg",
+          "local": "2119875886879232438_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Model Y L 在 4.4 秒内从 0 加速到 60 英里：496 马力，405 磅英尺扭矩。\n\n“它在 4.4 秒内从 0 加速到 60，因为你知道，我们不生产慢车。”\n— Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：[Jay Leno 的车库](https://t.co/dbkzJ6pT5G) https://t.co/kMqPBOpd3D"
+    },
+    {
+      "text": "About 95% of braking is through the motors, and the pads are proving to be lifetime.\n\n\"When we started we thought they'd be lifetime, and I think it's proving pretty true.\"\n— Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: [Jay Leno's Garage] https://t.co/6L2GrogczP",
+      "link": "https://x.com/teslaownersSV/status/2119875565473992884",
+      "date": "Mon Nov 09 19:31:34 +0000 2026",
+      "tweet_id": "2119875565473992884",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119875402709831680/vid/avc1/1920x1080/ioOxzFz5tlHW91L5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875402709831680/img/QXNm3QfmsKmTg1Aq.jpg",
+          "local": "2119875565473992884_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119875402709831680/vid/avc1/1920x1080/ioOxzFz5tlHW91L5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875402709831680/img/QXNm3QfmsKmTg1Aq.jpg",
+          "local": "2119875565473992884_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "大约 95% 的制动是通过电机实现的，事实证明刹车片具有使用寿命。\n\n“当我们开始时，我们以为它们会是终生的，我认为事实证明这是真的。”\n— Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：[Jay Leno 的车库] https://t.co/6L2GrogczP"
+    },
+    {
+      "text": "RT @teslaownersSV: I rode the @navierboat electric hydrofoil out with Sandy Munro. It lifts above the water, glides over wakes, and uses NA…",
+      "link": "https://x.com/teslaownersSV/status/2119861018914628014",
+      "date": "Mon Nov 09 18:33:46 +0000 2026",
+      "tweet_id": "2119861018914628014",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：我和 Sandy Munro 一起骑着@navierboat 电动水翼艇出去。它升到水面之上，在尾流上滑行，并使用 NA……"
+    },
+    {
+      "text": "\"That's the man (@elonmusk I've worked for for 24 years. I love him.\"\nGwynne Shotwell https://t.co/aX6ekUhXGP",
+      "link": "https://x.com/teslaownersSV/status/2119859960217743791",
+      "date": "Mon Nov 09 18:29:34 +0000 2026",
+      "tweet_id": "2119859960217743791",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119859800347676673/vid/avc1/1920x1080/oqL0p49pJX9sezYv.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
+          "local": "2119859960217743791_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119859800347676673/vid/avc1/1920x1080/oqL0p49pJX9sezYv.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
+          "local": "2119859960217743791_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“就是这个人（@elonmusk，我为他工作了 24 年。我爱他。”\n格温·肖特韦尔 https://t.co/aX6ekUhXGP"
+    },
+    {
+      "text": "RT @SERobinsonJr: Tesla has started the Earthworks for Project Crystal Sun!\n\nThis is/was Tesla's proposed area for Project Crystal Sun, a $…",
+      "link": "https://x.com/teslaownersSV/status/2119859345152438525",
+      "date": "Mon Nov 09 18:27:07 +0000 2026",
+      "tweet_id": "2119859345152438525",
+      "ctx_done": 1,
+      "text_zh": "RT @SERobinsonJr：特斯拉已经开始水晶太阳项目的土方工程！\n\n这是/曾经是特斯拉提议的“水晶太阳项目”区域，这是一个价值......"
+    },
+    {
+      "text": "RT @BenSchafferUP: Autonomy saves lives. Nearly 37,000 Americans died on our roads last year. Autonomy’s window is political, and the next…",
+      "link": "https://x.com/teslaownersSV/status/2119859288512618923",
+      "date": "Mon Nov 09 18:26:54 +0000 2026",
+      "tweet_id": "2119859288512618923",
+      "ctx_done": 1,
+      "text_zh": "RT @BenSchafferUP：自治可以拯救生命。去年，近 37,000 名美国人死于道路上。自治的窗口是政治的，而下一个......"
+    },
+    {
+      "text": "RT @teslaenergy: Join us at @REPlusEvents in Las Vegas https://t.co/ngDtT1Agbe",
+      "link": "https://x.com/teslaownersSV/status/2119859203988943226",
+      "date": "Mon Nov 09 18:26:33 +0000 2026",
+      "tweet_id": "2119859203988943226",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=large",
+          "local": "2119859203988943226_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=large",
+          "local": "2119859203988943226_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @teslaenergy：加入我们在拉斯维加斯的@REPlusEvents https://t.co/ngDtT1Agbe"
+    },
+    {
+      "text": "Join us at @REPlusEvents in Las Vegas https://t.co/ngDtT1Agbe",
+      "link": "https://x.com/teslaenergy/status/2119859134074073427",
+      "date": "Mon Nov 09 18:26:17 +0000 2026",
+      "tweet_id": "2119859134074073427",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=large",
+          "local": "2119859134074073427_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?format=jpg&name=large",
+          "local": "2119859134074073427_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "加入我们在拉斯维加斯的@REPlusEvents https://t.co/ngDtT1Agbe"
+    },
+    {
+      "text": "Autonomy saves lives. Nearly 37,000 Americans died on our roads last year. Autonomy’s window is political, and the next two years decide whether it survives. Every brain cell and battery cell should go to Cybercab.\n\nThe Cyberline can wait. Autonomy can’t. https://t.co/JD5hUApbH8",
+      "link": "https://x.com/BenSchafferUP/status/2119843160230912090",
+      "date": "Mon Nov 09 17:22:48 +0000 2026",
+      "tweet_id": "2119843160230912090",
+      "ctx_done": 1,
+      "text_zh": "自治可以拯救生命。去年，近 37,000 名美国人死于道路上。自治的窗口是政治性的，未来两年将决定它能否生存。每个脑细胞和电池都应该进入 Cyber​​cab。\n\n网络线可以等待。自治不能。 https://t.co/JD5hUApbH8"
+    },
+    {
+      "text": "So many memories from @theXtakeover",
+      "link": "https://x.com/teslaownersSV/status/2119835810812002589",
+      "date": "Mon Nov 09 16:53:36 +0000 2026",
+      "tweet_id": "2119835810812002589",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "What a night at @thetakeover GIGA TEXAS by @teslalightshows, @nlds_DroneShows &amp; sponsored by @play_tediddle! 🚀🇺🇸\n\nAn incredible combination of Teslas, lights, music and drones lighting up the Texas sky for #XTakeover 2026!\n\nA night we’ll never forget! 🔥\n\n🎬 Watch the magic https://t.co/0MyvvWcz3K",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2109319237319688192/vid/avc1/3840x2160/w9DSt4mg2G3Lp-1o.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109319237319688192/img/lYRHnkziA38A1_oC.jpg",
+            "local": "2119835810812002589q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2109319237319688192/vid/avc1/3840x2160/w9DSt4mg2G3Lp-1o.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109319237319688192/img/lYRHnkziA38A1_oC.jpg",
+            "local": "2119835810812002589q_1.jpg"
+          }
+        ],
+        "text_zh": "@thetakeover GIGA TEXAS 由 @teslalightshows、@nlds_DroneShows 和 @play_tediddle 赞助，这是一个多么美好的夜晚！ 🚀🇺🇸\n\n特斯拉、灯光、音乐和无人机的令人难以置信的组合照亮了德克萨斯州的天空，迎接 #XTakeover 2026！\n\n一个我们永远不会忘记的夜晚！ 🔥\n\n🎬 观看魔术 https://t.co/0MyvvWcz3K"
+      },
+      "ctx_done": 1,
+      "text_zh": "@theXtakeover 留下了太多回忆"
+    },
+    {
+      "text": "RT @cybrgalaxy: I loved you from the very beginning. https://t.co/hgNFbLNcWJ",
+      "link": "https://x.com/teslaownersSV/status/2119825896672747861",
+      "date": "Mon Nov 09 16:14:12 +0000 2026",
+      "tweet_id": "2119825896672747861",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119794614454431744/vid/avc1/2160x3840/YI-JADxSnXHzp3Yz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119794614454431744/img/tkGWct3aj7dLGbz2.jpg",
+          "local": "2119825896672747861_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119794614454431744/vid/avc1/2160x3840/YI-JADxSnXHzp3Yz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119794614454431744/img/tkGWct3aj7dLGbz2.jpg",
+          "local": "2119825896672747861_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @cybrgalaxy：我从一开始就爱你。 https://t.co/hgNFbLNcWJ"
+    },
+    {
+      "text": "Tesla has started the Earthworks for Project Crystal Sun!\n\nThis is/was Tesla's proposed area for Project Crystal Sun, a $10.1 billion solar-cell and panel factory. It appears Tesla has decided to build here!\n\nThe roughly 3,000-acre project would manufacture everything from https://t.co/QYEBEQgc7r",
+      "link": "https://x.com/SERobinsonJr/status/2119802588841316632",
+      "date": "Mon Nov 09 14:41:35 +0000 2026",
+      "tweet_id": "2119802588841316632",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119790713856557056/vid/avc1/2560x1440/saBut_45d8PCpS9b.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119790713856557056/img/m9_CQ2wc4WROUeQj.jpg",
+          "local": "2119802588841316632_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119790713856557056/vid/avc1/2560x1440/saBut_45d8PCpS9b.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119790713856557056/img/m9_CQ2wc4WROUeQj.jpg",
+          "local": "2119802588841316632_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉已开始水晶太阳项目的土方工程！\n\n这是/曾经是特斯拉拟建水晶太阳项目（Project Crystal Sun）的区域，这是一座耗资 101 亿美元的太阳能电池和面板工厂。看来特斯拉决定在这里建厂了！\n\n这个占地约 3,000 英亩的项目将生产 https://t.co/QYEBEQgc7r 上的所有产品"
+    },
+    {
+      "text": "I loved you from the very beginning. https://t.co/hgNFbLNcWJ",
+      "link": "https://x.com/cybrgalaxy/status/2119794906160136406",
+      "date": "Mon Nov 09 14:11:04 +0000 2026",
+      "tweet_id": "2119794906160136406",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119794614454431744/vid/avc1/2160x3840/YI-JADxSnXHzp3Yz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119794614454431744/img/tkGWct3aj7dLGbz2.jpg",
+          "local": "2119794906160136406_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119794614454431744/vid/avc1/2160x3840/YI-JADxSnXHzp3Yz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119794614454431744/img/tkGWct3aj7dLGbz2.jpg",
+          "local": "2119794906160136406_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我从一开始就爱你。 https://t.co/hgNFbLNcWJ"
+    },
+    {
+      "text": "I rode the @navierboat electric hydrofoil out with Sandy Munro. It lifts above the water, glides over wakes, and uses NACS charging. This is a different kind of electric ride. @sampritibh \n\nWatch our full ride: Navier electric hydrofoil\n\n0:00 Intro\n0:25 First impressions\n0:35 https://t.co/SaMoYSDRXi",
+      "link": "https://x.com/teslaownersSV/status/2119792122341503004",
+      "date": "Mon Nov 09 14:00:00 +0000 2026",
+      "tweet_id": "2119792122341503004",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119639379266420736/vid/avc1/3840x2160/cDHCF3ALOWkZcdZn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119639379266420736/img/imdStnwfQTMl80MS.jpg",
+          "local": "2119792122341503004_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119639379266420736/vid/avc1/3840x2160/cDHCF3ALOWkZcdZn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119639379266420736/img/imdStnwfQTMl80MS.jpg",
+          "local": "2119792122341503004_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我和 Sandy Munro 一起骑着 @navierboat 电动水翼船出去。它升出水面，在尾流上滑行，并使用 NACS 充电。这是一种不同类型的电动游乐设施。 @sampritibh \n\n观看我们的完整旅程：Navier 电动水翼艇\n\n0:00 介绍\n0:25 第一印象\n0:35 https://t.co/SaMoYSDRXi"
+    },
+    {
+      "text": "【X-Takeover Japan 2026｜出展企業紹介】\nテスラジャパン\n\nテスラジャパンが出展！EVとともに暮らす楽しさや、これからの可能性に触れる機会をお届けします。展示内容の詳細は今後ご案内します。\n\n公式サイト：https://t.co/vzi7WCTxtO https://t.co/SSnBEZ64RA",
+      "link": "https://x.com/TeslaOwners_JP/status/2119716623770857616",
+      "date": "Mon Nov 09 09:00:00 +0000 2026",
+      "tweet_id": "2119716623770857616",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWBmYAjaYAAeYkb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWBmYAjaYAAeYkb.jpg?format=jpg&name=large",
+          "local": "2119716623770857616_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWBmYAjaYAAeYkb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWBmYAjaYAAeYkb.jpg?format=jpg&name=large",
+          "local": "2119716623770857616_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "[X-接管日本 2026 |展商公司介绍】\n特斯拉日本\n\n特斯拉日本参展！我们将为您提供体验电动汽车生活的乐趣和未来可能性的机会。展览内容详情将于日后公布。\n\n官网：https://t.co/vzi7WCTxtO https://t.co/SSnBEZ64RA"
+    },
     {
       "text": "RT @AdamLowisz: @teslaownersSV's wife is suffering from cancer. Would anyone happen to know of someone who is currently working with AI/SI…",
       "link": "https://x.com/teslaownersSV/status/2119700450765402554",
@@ -3525,535 +4118,6 @@
       },
       "ctx_done": 1,
       "text_zh": "您知道我们在 2024 年采访过托斯卡吗？ https://t.co/VK5S2gNf0Y"
-    },
-    {
-      "text": "Thank you @ToscaMusk for subscribing. \n\nAppreciate you for the support. https://t.co/iZvYKCWCRG",
-      "link": "https://x.com/teslaownersSV/status/2118544942691967465",
-      "date": "Fri Nov 06 03:24:09 +0000 2026",
-      "tweet_id": "2118544942691967465",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
-          "local": "2118544942691967465_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWaVZepbMAAn3Po.jpg?format=jpg&name=large",
-          "local": "2118544942691967465_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "感谢@ToscaMusk 的订阅。 \n\n感谢您的支持。 https://t.co/iZvYKCWCRG"
-    },
-    {
-      "text": "RT @SjvTesla: Hey Fresno, you up?\n\n777 W Palmdon Dr, Fresno, CA 93704\n\nBring the family — demo drives all day, treats, red light therapy, p…",
-      "link": "https://x.com/teslaownersSV/status/2118542285050978731",
-      "date": "Fri Nov 06 03:13:36 +0000 2026",
-      "tweet_id": "2118542285050978731",
-      "ctx_done": 1,
-      "text_zh": "RT @SjvTesla：嘿弗雷斯诺，你起来了吗？\n\n777 W Palmdon Dr, 弗雷斯诺, CA 93704\n\n带上家人——全天演示驾驶、款待、红光疗法、……"
-    },
-    {
-      "text": "Check out my new podcast with @Newsforce called The Stack with @SjvTesla",
-      "link": "https://x.com/teslaownersSV/status/2118538383752647064",
-      "date": "Fri Nov 06 02:58:05 +0000 2026",
-      "tweet_id": "2118538383752647064",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "Tesla Expands, Neuralink Connects, AI Accelerates, and more | The Stack https://t.co/kN7H0kQXUq",
-        "text_zh": "Tesla 扩张、Neuralink 连接、AI 加速等等 |堆栈 https://t.co/kN7H0kQXUq"
-      },
-      "ctx_done": 1,
-      "text_zh": "与 @Newsforce 一起查看我的新播客，名为 The Stack with @SjvTesla"
-    },
-    {
-      "text": "Hey Fresno, you up?\n\n777 W Palmdon Dr, Fresno, CA 93704\n\nBring the family — demo drives all day, treats, red light therapy, permanent jewelry, balloon animals and face paint for kids, local vendors, and music. Show cars welcome if you want to park and show your Tesla. https://t.co/LpnkPd3SQJ",
-      "link": "https://x.com/SjvTesla/status/2118536727317057621",
-      "date": "Fri Nov 06 02:51:30 +0000 2026",
-      "tweet_id": "2118536727317057621",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=large",
-          "local": "2118536727317057621_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWaN7FkaEAAG5_e.jpg?format=jpg&name=large",
-          "local": "2118536727317057621_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "嘿弗雷斯诺，你起来了吗？\n\n777 W Palmdon Dr, 弗雷斯诺, CA 93704\n\n带上家人——全天演示驾驶、款待、红光疗法、永久珠宝、气球动物和儿童面部彩绘、当地摊贩和音乐。如果您想停车并展示您的特斯拉，请展示欢迎车辆。 https://t.co/LpnkPd3SQJ"
-    },
-    {
-      "text": "Elon Musk on why Starship has to be fully reusable:\n\n\"Nobody's ever made a fully reusable orbital rocket.\"\n\n\"That's really the critical breakthrough necessary for life to become multiplanetary.\"\n\n\"For us to become a true spacefaring civilization, we have to achieve full and rapid https://t.co/hQJFwlmDmP",
-      "link": "https://x.com/teslaownersSV/status/2118518108721906039",
-      "date": "Fri Nov 06 01:37:31 +0000 2026",
-      "tweet_id": "2118518108721906039",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118518056330948608/vid/avc1/1920x1080/uLIZC0WF_tkq4IOz.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118518056330948608/img/lniR0h3qud9tpPLQ.jpg",
-          "local": "2118518108721906039_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118518056330948608/vid/avc1/1920x1080/uLIZC0WF_tkq4IOz.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118518056330948608/img/lniR0h3qud9tpPLQ.jpg",
-          "local": "2118518108721906039_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么星际飞船必须完全可重复使用：\n\n“没有人制造过完全可重复使用的轨道火箭。”\n\n“这确实是生命走向多行星所必需的关键突破。”\n\n“为了让我们成为真正的航天文明，我们必须全面、快速地实现 https://t.co/hQJFwlmDmP"
-    },
-    {
-      "text": "Elon Musk in 2012 on the year both SpaceX and Tesla nearly died.\n\nHe was on stage at PandoMonthly in Santa Monica with Sarah Lacy in July 2012. \n\nFalcon 1 had failed three times in a row. The Tesla financing round fell apart in the financial crisis.\n\n\"So it looked like all three https://t.co/hlQDq4kz5R",
-      "link": "https://x.com/teslaownersSV/status/2118517800138584168",
-      "date": "Fri Nov 06 01:36:18 +0000 2026",
-      "tweet_id": "2118517800138584168",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118517546429317120/vid/avc1/1080x1350/-eMCpe0bmLcwqUS_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517546429317120/img/slrD_o6_RnyUInD7.jpg",
-          "local": "2118517800138584168_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118517546429317120/vid/avc1/1080x1350/-eMCpe0bmLcwqUS_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517546429317120/img/slrD_o6_RnyUInD7.jpg",
-          "local": "2118517800138584168_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 于 2012 年去世，这一年 SpaceX 和特斯拉都差点丧命。\n\n2012 年 7 月，他与 Sarah Lacy 一起登上了圣莫尼卡 PandoMonthly 的舞台。 \n\n猎鹰一号已经连续三次失败。特斯拉的一轮融资在金融危机中宣告失败。\n\n“所以看起来这三个都是 https://t.co/hlQDq4kz5R"
-    },
-    {
-      "text": "Cybercab in Palo Alto https://t.co/rf3a6bbTuw",
-      "link": "https://x.com/teslaownersSV/status/2118517771298578459",
-      "date": "Fri Nov 06 01:36:11 +0000 2026",
-      "tweet_id": "2118517771298578459",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118517694626689024/vid/avc1/2160x3840/RWDXG0elyFI3auYn.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517694626689024/img/V0zNpSlwcq_0LJZ3.jpg",
-          "local": "2118517771298578459_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118517694626689024/vid/avc1/2160x3840/RWDXG0elyFI3auYn.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118517694626689024/img/V0zNpSlwcq_0LJZ3.jpg",
-          "local": "2118517771298578459_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "帕洛阿尔托的 Cyber​​cab https://t.co/rf3a6bbTuw"
-    },
-    {
-      "text": "RT @Newsforce: Tesla Expands, Neuralink Connects, AI Accelerates, and more | The Stack https://t.co/kN7H0kQXUq",
-      "link": "https://x.com/teslaownersSV/status/2118476142076362957",
-      "date": "Thu Nov 05 22:50:46 +0000 2026",
-      "tweet_id": "2118476142076362957",
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：特斯拉扩张、Neuralink 连接、人工智能加速等等 |堆栈 https://t.co/kN7H0kQXUq"
-    },
-    {
-      "text": "Tesla Expands, Neuralink Connects, AI Accelerates, and more | The Stack https://t.co/kN7H0kQXUq",
-      "link": "https://x.com/Newsforce/status/2118474577307197601",
-      "date": "Thu Nov 05 22:44:33 +0000 2026",
-      "tweet_id": "2118474577307197601",
-      "ctx_done": 1,
-      "text_zh": "Tesla 扩张、Neuralink 连接、AI 加速等等 |堆栈 https://t.co/kN7H0kQXUq"
-    },
-    {
-      "text": "“While I'm not a particularly religious person, I do believe that the teachings of Jesus are good and wise, and that there's tremendous wisdom in turning the other cheek.”\nElon Musk https://t.co/1wARaNAwe9",
-      "link": "https://x.com/teslaownersSV/status/2118443097483104591",
-      "date": "Thu Nov 05 20:39:27 +0000 2026",
-      "tweet_id": "2118443097483104591",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2023874823575965696/vid/avc1/640x288/K5gPCrAZ3BJepOa3.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2023874823575965696/img/BM7sajt5f3Jza8zi.jpg",
-          "local": "2118443097483104591_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2023874823575965696/vid/avc1/640x288/K5gPCrAZ3BJepOa3.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2023874823575965696/img/BM7sajt5f3Jza8zi.jpg",
-          "local": "2118443097483104591_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“虽然我不是一个特别有宗教信仰的人，但我确实相信耶稣的教义是美好而明智的，并且转过另一边脸来蕴藏着巨大的智慧。”\n埃隆·马斯克 https://t.co/1wARaNAwe9"
-    },
-    {
-      "text": "Show me your car before buying a Tesla",
-      "link": "https://x.com/teslaownersSV/status/2118442560926712294",
-      "date": "Thu Nov 05 20:37:19 +0000 2026",
-      "tweet_id": "2118442560926712294",
-      "ctx_done": 1,
-      "text_zh": "购买特斯拉之前先给我看看你的车"
-    },
-    {
-      "text": "Starlink keeps working when the towers go down.\n@elonmusk on why the Starlink Mini matters in a disaster:\n\n\"If there's forest fires, floods, natural disasters… you lose the ground fiber and you lose the cell towers, then you still have access to the internet with the Starlink.\" https://t.co/zhTULnQB2m",
-      "link": "https://x.com/teslaownersSV/status/2118433782885986358",
-      "date": "Thu Nov 05 20:02:27 +0000 2026",
-      "tweet_id": "2118433782885986358",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118433713604419584/vid/avc1/1920x1080/_-N1PKbn2flCrjYH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118433713604419584/img/pZKvisRDlt74i4TL.jpg",
-          "local": "2118433782885986358_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118433713604419584/vid/avc1/1920x1080/_-N1PKbn2flCrjYH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118433713604419584/img/pZKvisRDlt74i4TL.jpg",
-          "local": "2118433782885986358_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "当塔楼倒塌时，星链仍能继续工作。\n@elonmusk 解释为什么 Starlink Mini 在灾难中很重要：\n\n“如果发生森林火灾、洪水、自然灾害……你失去了地面光纤和手机信号塔，那么你仍然可以通过星链访问互联网。” https://t.co/zhTULnQB2m"
-    },
-    {
-      "text": "Elon Musk on why Optimus has to be designed from physics first principles:\n\n\"The car is a robot with four wheels... and Optimus is intelligent robot with arms and legs.\"\n\"We have to design every part of the robot from scratch.\"\n\"There are no actuators that you can buy for really https://t.co/CXfYFLFMXC",
-      "link": "https://x.com/teslaownersSV/status/2118425029037986026",
-      "date": "Thu Nov 05 19:27:40 +0000 2026",
-      "tweet_id": "2118425029037986026",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118424943537147904/vid/avc1/1920x1080/ZBFEhnDO2FpvtWbK.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118424943537147904/img/Ezvseu8KFbiE7U71.jpg",
-          "local": "2118425029037986026_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118424943537147904/vid/avc1/1920x1080/ZBFEhnDO2FpvtWbK.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118424943537147904/img/Ezvseu8KFbiE7U71.jpg",
-          "local": "2118425029037986026_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么 Optimus 必须根据物理学第一原理进行设计：\n\n“汽车是一个有四个轮子的机器人......而擎天柱是一个有胳膊和腿的智能机器人。”\n“我们必须从头开始设计机器人的每个部分。”\n“没有真正可以买到的执行器 https://t.co/CXfYFLFMXC"
-    },
-    {
-      "text": "I just want to say thank you from the bottom of my heart for all the messages and comments.\n\nI never thought I would be dealing with something like this so early in life, yet I’d forgotten how big of a community and movement we’ve built. I know we aren’t alone.",
-      "link": "https://x.com/teslaownersSV/status/2118419185504305354",
-      "date": "Thu Nov 05 19:04:26 +0000 2026",
-      "tweet_id": "2118419185504305354",
-      "ctx_done": 1,
-      "text_zh": "我只想从心底对大家的所有留言和评论表示感谢。\n\n我从来没有想过我会这么早就处理这样的事情，但我忘记了我们建立了多大的社区和运动。我知道我们并不孤单。"
-    },
-    {
-      "text": "“@elonmusk, who by common consent is probably the world's most remarkable entrepreneur right now, the world's most remarkable living entrepreneur.” \n\nChris Anderson https://t.co/1s5vLZZdZW",
-      "link": "https://x.com/teslaownersSV/status/2118414041014296949",
-      "date": "Thu Nov 05 18:44:00 +0000 2026",
-      "tweet_id": "2118414041014296949",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118413916908953600/vid/avc1/1280x720/QQp-jgset0a1Rfcr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118413916908953600/img/os76GRXn5qE6ZT-k.jpg",
-          "local": "2118414041014296949_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118413916908953600/vid/avc1/1280x720/QQp-jgset0a1Rfcr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118413916908953600/img/os76GRXn5qE6ZT-k.jpg",
-          "local": "2118414041014296949_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“@elonmusk，众所周知，他可能是目前世界上最杰出的企业家，世界上最杰出的在世企业家。” \n\n克里斯·安德森 https://t.co/1s5vLZZdZW"
-    },
-    {
-      "text": "This is the view from a Falcon 9 booster as its grid fins steer it back down to the landing pad\n\nThen the legs come out and it lands itself so it can fly again https://t.co/KecQ0FgMP1",
-      "link": "https://x.com/teslaownersSV/status/2118395122274681116",
-      "date": "Thu Nov 05 17:28:49 +0000 2026",
-      "tweet_id": "2118395122274681116",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118394992171667456/vid/avc1/1080x1920/AmGR10MH3Bag7NB1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118394992171667456/img/Tgn6rFPXPSbnxaU5.jpg",
-          "local": "2118395122274681116_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118394992171667456/vid/avc1/1080x1920/AmGR10MH3Bag7NB1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118394992171667456/img/Tgn6rFPXPSbnxaU5.jpg",
-          "local": "2118395122274681116_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "这是猎鹰 9 号助推器看到的景象，其网格鳍引导其返回着陆场\n\n然后腿伸出来，它自己着陆，这样它就可以再次飞行 https://t.co/KecQ0FgMP1"
-    },
-    {
-      "text": "\"In the world you will have tribulation. But take heart, I have overcome the world.”",
-      "link": "https://x.com/teslaownersSV/status/2118377663048151366",
-      "date": "Thu Nov 05 16:19:27 +0000 2026",
-      "tweet_id": "2118377663048151366",
-      "ctx_done": 1,
-      "text_zh": "“在世上你们有苦难。但是放心，我已经胜了世界。”"
-    },
-    {
-      "text": "On this day in 2019: Elon walked on stage at an Air Force event and said space really has just one problem, a fully and rapidly reusable rocket. \"This is the holy grail.\"\n\nThat day, no Falcon booster had ever flown more than 3 times.\n\nToday one booster has flown 37 times, and https://t.co/RnFIylOjDQ",
-      "link": "https://x.com/teslaownersSV/status/2118367082094182542",
-      "date": "Thu Nov 05 15:37:24 +0000 2026",
-      "tweet_id": "2118367082094182542",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118367043972165632/vid/avc1/1920x1080/kqpSEvtyBjDHf6M6.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118367043972165632/img/yaARPS7oRyNFKFZY.jpg",
-          "local": "2118367082094182542_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118367043972165632/vid/avc1/1920x1080/kqpSEvtyBjDHf6M6.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118367043972165632/img/yaARPS7oRyNFKFZY.jpg",
-          "local": "2118367082094182542_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2019 年的这一天：埃隆在一次空军活动中走上讲台，表示太空实际上只有一个问题，那就是一枚完全且快速可重复使用的火箭。 “这是圣杯。”\n\n那天，猎鹰助推器的飞行次数还没有超过 3 次。\n\n如今，一枚助推器已飞行 37 次，https://t.co/RnFIylOjDQ"
-    },
-    {
-      "text": "Flying the @Antigravity_HQ feels like.. flying.. \n\nVR flight experience 🦅\n8k 360° recording 🔥\nA1 drone - 249 grams 🪶\n$1,279 (down from  ̶$̶1̶,̶5̶9̶9̶) 💸\n\nCheck it out: https://t.co/U8oyRgTuWW https://t.co/GdBRFtNbiW",
-      "link": "https://x.com/teslaownersSV/status/2118358091024482347",
-      "date": "Thu Nov 05 15:01:40 +0000 2026",
-      "tweet_id": "2118358091024482347",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118356803901652992/vid/avc1/1440x2560/kwiaUzAQBNZy9CWx.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118356803901652992/img/LPMTNrGSjMTLK0r_.jpg",
-          "local": "2118358091024482347_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118356803901652992/vid/avc1/1440x2560/kwiaUzAQBNZy9CWx.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118356803901652992/img/LPMTNrGSjMTLK0r_.jpg",
-          "local": "2118358091024482347_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "飞翔@Antigravity_HQ 感觉就像……飞翔…… \n\nVR飞行体验🦅\n8k 360°录制🔥\nA1 无人机 - 249 克 🪶\n$1,279（低于 ̶$̶1̶,̶5̶9̶9̶）💸\n\n查看：https://t.co/U8oyRgTuWW https://t.co/GdBRFtNbiW"
-    },
-    {
-      "text": "RT @TeslaOwners_JP: 唯一、イーロンマスク喋れると言っても過言ではない…\n\n世界のテスラオーナーの大御所たちが、横浜みなとみらいの地で語ってくれます！ここでしか聞けない話も盛りだくさん💯\nもちろん、翻訳も準備しております。\n\nJohn StringerさんはX…",
-      "link": "https://x.com/teslaownersSV/status/2118337280377340038",
-      "date": "Thu Nov 05 13:38:59 +0000 2026",
-      "tweet_id": "2118337280377340038",
-      "ctx_done": 1,
-      "text_zh": "RT @TeslaOwners_JP：毫不夸张地说，埃隆·马斯克是唯一会说话的人......\n\n全球领先的特斯拉车主将在横滨港未来发表演讲！有很多故事只能在这里听到💯\n当然，我们也准备翻译。\n\n约翰·斯金格是 X…"
-    },
-    {
-      "text": "唯一、イーロンマスク喋れると言っても過言ではない…\n\n世界のテスラオーナーの大御所たちが、横浜みなとみらいの地で語ってくれます！ここでしか聞けない話も盛りだくさん💯\nもちろん、翻訳も準備しております。\n\nJohn StringerさんはXやInstagramで見たことある方も多いのではないでしょうか👀 https://t.co/UzWdrrlIhW",
-      "link": "https://x.com/TeslaOwners_JP/status/2118245140934582723",
-      "date": "Thu Nov 05 07:32:51 +0000 2026",
-      "tweet_id": "2118245140934582723",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWWEuF3agAAmP_N.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWWEuF3agAAmP_N.jpg?format=jpg&name=large",
-          "local": "2118245140934582723_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWWEuF4aAAAH3PG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWWEuF4aAAAH3PG.jpg?format=jpg&name=large",
-          "local": "2118245140934582723_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWWEuF3agAAmP_N.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWWEuF3agAAmP_N.jpg?format=jpg&name=large",
-          "local": "2118245140934582723_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWWEuF4aAAAH3PG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWWEuF4aAAAH3PG.jpg?format=jpg&name=large",
-          "local": "2118245140934582723_3.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "毫不夸张地说，埃隆·马斯克是唯一会说话的人……\n\n全球领先的特斯拉车主将在横滨港未来发表演讲！有很多故事只能在这里听到💯\n当然，我们也准备翻译。\n\n你们中的许多人可能在 X 或 Instagram 上见过 John Stringer https://t.co/UzWdrrlIhW"
-    },
-    {
-      "text": "If Starship doesn’t inspire you, I don’t know what can. https://t.co/qJbCQPVeT7",
-      "link": "https://x.com/teslaownersSV/status/2118238283113329067",
-      "date": "Thu Nov 05 07:05:36 +0000 2026",
-      "tweet_id": "2118238283113329067",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118238210602246144/vid/avc1/1080x1920/6qu2cgijSjnvmLfD.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118238210602246144/img/GRHWFMghNlSKco0s.jpg",
-          "local": "2118238283113329067_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118238210602246144/vid/avc1/1080x1920/6qu2cgijSjnvmLfD.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118238210602246144/img/GRHWFMghNlSKco0s.jpg",
-          "local": "2118238283113329067_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "如果《星际飞船》不能激励你，我不知道还有什么可以激励你。 https://t.co/qJbCQPVeT7"
-    },
-    {
-      "text": "Cybertruck district @theXtakeover https://t.co/aTGHjCVBza",
-      "link": "https://x.com/teslaownersSV/status/2118237882955727238",
-      "date": "Thu Nov 05 07:04:00 +0000 2026",
-      "tweet_id": "2118237882955727238",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118237819852521472/vid/avc1/1080x1920/k09GSh2eeSDALyC5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118237819852521472/img/zY7dDYWO3r6QHUMR.jpg",
-          "local": "2118237882955727238_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118237819852521472/vid/avc1/1080x1920/k09GSh2eeSDALyC5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118237819852521472/img/zY7dDYWO3r6QHUMR.jpg",
-          "local": "2118237882955727238_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Cyber​​truck区@theXtakeover https://t.co/aTGHjCVBza"
-    },
-    {
-      "text": "If you know someone who passed away or is currently struggling with cancer, put their name below and what they had.",
-      "link": "https://x.com/teslaownersSV/status/2118233138027724983",
-      "date": "Thu Nov 05 06:45:09 +0000 2026",
-      "tweet_id": "2118233138027724983",
-      "ctx_done": 1,
-      "text_zh": "如果您认识已去世或目前正在与癌症作斗争的人，请在下面写下他们的名字以及他们患有的疾病。"
-    },
-    {
-      "text": "Starship Cybertruck https://t.co/ymNb0WUaW0",
-      "link": "https://x.com/teslaownersSV/status/2118233038006235335",
-      "date": "Thu Nov 05 06:44:45 +0000 2026",
-      "tweet_id": "2118233038006235335",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118232996352598016/vid/avc1/1080x1920/wzEksOtgHV0vkXAb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118232996352598016/img/9tm0FBNy1I3yARx9.jpg",
-          "local": "2118233038006235335_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118232996352598016/vid/avc1/1080x1920/wzEksOtgHV0vkXAb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118232996352598016/img/9tm0FBNy1I3yARx9.jpg",
-          "local": "2118233038006235335_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星舰赛博卡车 https://t.co/ymNb0WUaW0"
-    },
-    {
-      "text": "Can’t believe it was almost a month ago we did @theXtakeover https://t.co/vtcHMKy9YT",
-      "link": "https://x.com/teslaownersSV/status/2118231260338471211",
-      "date": "Thu Nov 05 06:37:41 +0000 2026",
-      "tweet_id": "2118231260338471211",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118231152440016896/vid/avc1/2160x3840/NRLqO8s4Nb_ZnGSo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118231152440016896/img/FhBo8pp0NB6CgHbm.jpg",
-          "local": "2118231260338471211_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118231152440016896/vid/avc1/2160x3840/NRLqO8s4Nb_ZnGSo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118231152440016896/img/FhBo8pp0NB6CgHbm.jpg",
-          "local": "2118231260338471211_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "不敢相信，差不多一个月前我们就@theXtakeover https://t.co/vtcHMKy9YT"
-    },
-    {
-      "text": "Elon Musk on why civilization is \"a flash in the pan,\" and why that is the reason to make life multiplanetary:\n\n\"The first writings were only about 5,000 years ago.\"\n\n\"Earth has been around for, I don't know, four and a half billion years, five billion-ish. The universe has been https://t.co/pzaHenjCBF",
-      "link": "https://x.com/teslaownersSV/status/2118219537187561921",
-      "date": "Thu Nov 05 05:51:06 +0000 2026",
-      "tweet_id": "2118219537187561921",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118219505197522944/vid/avc1/1920x1080/X2Mnl-EegtH5hWWt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118219505197522944/img/zX3t_wewYsl7TkRN.jpg",
-          "local": "2118219537187561921_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118219505197522944/vid/avc1/1920x1080/X2Mnl-EegtH5hWWt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118219505197522944/img/zX3t_wewYsl7TkRN.jpg",
-          "local": "2118219537187561921_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 阐述了为什么文明是“昙花一现”，以及为什么这是让生命走向多行星的原因：\n\n“最早的文字出现于大约 5000 年前。”\n\n“我不知道，地球已经存在了四十亿年，五十亿年左右。宇宙已经存在了 https://t.co/pzaHenjCBF"
-    },
-    {
-      "text": "The Elon Musk future is awesome https://t.co/2Zpv8p0twa",
-      "link": "https://x.com/teslaownersSV/status/2118214661036486706",
-      "date": "Thu Nov 05 05:31:44 +0000 2026",
-      "tweet_id": "2118214661036486706",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118214636260782080/vid/avc1/1080x1350/l8ATBsXX588nz0RP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118214636260782080/img/k23IbDZhBdP35gaY.jpg",
-          "local": "2118214661036486706_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118214636260782080/vid/avc1/1080x1350/l8ATBsXX588nz0RP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118214636260782080/img/k23IbDZhBdP35gaY.jpg",
-          "local": "2118214661036486706_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克的未来非常棒 https://t.co/2Zpv8p0twa"
-    },
-    {
-      "text": "First look at our Navier boat experience \n\nWhat you think? @navierboat https://t.co/zcy29WlFxH",
-      "link": "https://x.com/teslaownersSV/status/2118200313773748552",
-      "date": "Thu Nov 05 04:34:43 +0000 2026",
-      "tweet_id": "2118200313773748552",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118195163873120256/vid/avc1/3840x2160/cI-lzH3WUdD79QZ5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118195163873120256/img/RhaHvwKEXdSddXNk.jpg",
-          "local": "2118200313773748552_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118195163873120256/vid/avc1/3840x2160/cI-lzH3WUdD79QZ5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118195163873120256/img/RhaHvwKEXdSddXNk.jpg",
-          "local": "2118200313773748552_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "首先看看我们的纳维船体验 \n\n你觉得呢？ @navierboat https://t.co/zcy29WlFxH"
     }
   ]
 }
