@@ -1,8 +1,219 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-08T19:29:49Z",
+  "updated_at": "2026-11-09T00:43:07Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "My favorite whiskey https://t.co/ZXnssgKcDn",
+      "link": "https://x.com/teslaownersSV/status/2119571515394126083",
+      "date": "Sun Nov 08 23:23:23 +0000 2026",
+      "tweet_id": "2119571515394126083",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWo7D15boAAyIKL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWo7D15boAAyIKL.jpg?format=jpg&name=large",
+          "local": "2119571515394126083_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWo7D15boAAyIKL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HWo7D15boAAyIKL.jpg?format=jpg&name=large",
+          "local": "2119571515394126083_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我最喜欢的威士忌 https://t.co/ZXnssgKcDn"
+    },
+    {
+      "text": "We need to get @elonmusk to meet @mayilong0 ASAP. \n\n@theXtakeover https://t.co/t0lehTzHzj",
+      "link": "https://x.com/teslaownersSV/status/2119570086038212722",
+      "date": "Sun Nov 08 23:17:42 +0000 2026",
+      "tweet_id": "2119570086038212722",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119569934196060160/vid/avc1/2160x3840/k33eRsn8nH5nXIf7.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119569934196060160/img/czuHcjaY7MkdPK4A.jpg",
+          "local": "2119570086038212722_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119569934196060160/vid/avc1/2160x3840/k33eRsn8nH5nXIf7.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119569934196060160/img/czuHcjaY7MkdPK4A.jpg",
+          "local": "2119570086038212722_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我们需要尽快让@elonmusk 与@mayilong0 见面。 \n\n@theXtakeover https://t.co/t0lehTzHzj"
+    },
+    {
+      "text": "RT @MatthewDR: If this post gets at least, I don’t know, let’s say 7 likes, I will order Cyberbeast @cybertruck \n\n📐📐📐",
+      "link": "https://x.com/teslaownersSV/status/2119564519844561217",
+      "date": "Sun Nov 08 22:55:35 +0000 2026",
+      "tweet_id": "2119564519844561217",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. \n\nWe will add an extra shift to try to get all orders done in time.",
+        "text_zh": "目前，特斯拉 Cyber​​truck 的积压订单远远超过了我们在明年 6 月/7 月左右拆除用于 Cyber​​cab 扩建的生产线之前所能完成的订单。 \n\n我们将增加一个额外的班次，以尽量及时完成所有订单。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @MatthewDR：如果这篇文章至少获得，我不知道，假设有 7 个喜欢，我会订购 Cyberbeast @cybertruck \n\n📐📐📐"
+    },
+    {
+      "text": "Did you know @elonmusk was an alien? 👽 https://t.co/8mi3f8jSvS",
+      "link": "https://x.com/teslaownersSV/status/2119559563095744518",
+      "date": "Sun Nov 08 22:35:54 +0000 2026",
+      "tweet_id": "2119559563095744518",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1638377664091398146/vid/1080x1920/ftStYYICtjTV1m1i.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1638377664091398146/img/NJ3tJxvqcp08ABJ-.jpg",
+          "local": "2119559563095744518_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1638377664091398146/vid/1080x1920/ftStYYICtjTV1m1i.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1638377664091398146/img/NJ3tJxvqcp08ABJ-.jpg",
+          "local": "2119559563095744518_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "你知道@elonmusk 是外星人吗？ 👽 https://t.co/8mi3f8jSvS"
+    },
+    {
+      "text": "Falcon Heavy. Three cores. 27 Merlin engines.\n\nA slow pass beneath the engine bells inside the hangar at Launch Complex 39A. https://t.co/e2yZYzSurl",
+      "link": "https://x.com/teslaownersSV/status/2119557882496848346",
+      "date": "Sun Nov 08 22:29:13 +0000 2026",
+      "tweet_id": "2119557882496848346",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119557844513259520/vid/avc1/1920x1080/V3hajAxWYXYNQNnJ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119557844513259520/img/lr-78nMK3PeNcaG6.jpg",
+          "local": "2119557882496848346_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119557844513259520/vid/avc1/1920x1080/V3hajAxWYXYNQNnJ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119557844513259520/img/lr-78nMK3PeNcaG6.jpg",
+          "local": "2119557882496848346_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "猎鹰重型。三核。 27 梅林发动机。\n\n缓慢地经过 39A 发射场机库内的发动机罩下方。 https://t.co/e2yZYzSurl"
+    },
+    {
+      "text": "A future of abundance, where there is no poverty.\n\nElon Musk describes what robotics could make possible—in the “hopefully benign scenario.” https://t.co/2sUjolVZXr",
+      "link": "https://x.com/teslaownersSV/status/2119556740442386827",
+      "date": "Sun Nov 08 22:24:41 +0000 2026",
+      "tweet_id": "2119556740442386827",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119556683014017024/vid/avc1/1920x1080/21KL3youLi8ulxSN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119556683014017024/img/DEG7Xc3WOPko68hN.jpg",
+          "local": "2119556740442386827_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119556683014017024/vid/avc1/1920x1080/21KL3youLi8ulxSN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119556683014017024/img/DEG7Xc3WOPko68hN.jpg",
+          "local": "2119556740442386827_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "一个富裕的未来，没有贫穷。\n\n埃隆·马斯克 (Elon Musk) 描述了机器人技术在“希望是良性的情况下”可以实现的目标。 https://t.co/2sUjolVZXr"
+    },
+    {
+      "text": "If this post gets at least, I don’t know, let’s say 7 likes, I will order Cyberbeast @cybertruck \n\n📐📐📐",
+      "link": "https://x.com/MatthewDR/status/2119554597081727426",
+      "date": "Sun Nov 08 22:16:10 +0000 2026",
+      "tweet_id": "2119554597081727426",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. \n\nWe will add an extra shift to try to get all orders done in time.",
+        "text_zh": "目前，特斯拉 Cyber​​truck 的积压订单远远超过了我们在明年 6 月/7 月左右拆除用于 Cyber​​cab 扩建的生产线之前所能完成的订单。 \n\n我们将增加一个额外的班次，以尽量及时完成所有订单。"
+      },
+      "ctx_done": 1,
+      "text_zh": "如果这篇文章至少得到了，我不知道，假设有 7 个赞，我会订购 Cyberbeast @cybertruck \n\n📐📐📐"
+    },
+    {
+      "text": "Starship’s goal isn’t just to fly. \n\nIt’s to be fully and rapidly reusable.\n\n“I think it’s really one of the hardest engineering challenges that exists.”\n@elonmusk https://t.co/xeca6VRBYE",
+      "link": "https://x.com/teslaownersSV/status/2119552118000673085",
+      "date": "Sun Nov 08 22:06:18 +0000 2026",
+      "tweet_id": "2119552118000673085",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119551928673927168/vid/avc1/1078x1920/kP4w5EpKW6K9_Mgm.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119551928673927168/img/ROPcHVjexg6m1ORR.jpg",
+          "local": "2119552118000673085_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119551928673927168/vid/avc1/1078x1920/kP4w5EpKW6K9_Mgm.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119551928673927168/img/ROPcHVjexg6m1ORR.jpg",
+          "local": "2119552118000673085_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰的目标不仅仅是飞行。 \n\n它可以完全、快速地重复使用。\n\n“我认为这确实是现存最困难的工程挑战之一。”\n@elonmusk https://t.co/xeca6VRBYE"
+    },
+    {
+      "text": "Super Heavy’s 33 Raptor engines climbing past the launch tower.\n\nWatch the engine bells emerge from the cloud. \n\nSpaceX captured Flight 14 with high-speed cameras so you can see it in slow motion. https://t.co/05Qf7UoQHA",
+      "link": "https://x.com/teslaownersSV/status/2119549743588397453",
+      "date": "Sun Nov 08 21:56:52 +0000 2026",
+      "tweet_id": "2119549743588397453",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119549578550857728/vid/avc1/3840x2160/LATAjG57O_k2PhXl.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119549578550857728/img/zyVCiZDGNE_cbSug.jpg",
+          "local": "2119549743588397453_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119549578550857728/vid/avc1/3840x2160/LATAjG57O_k2PhXl.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119549578550857728/img/zyVCiZDGNE_cbSug.jpg",
+          "local": "2119549743588397453_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Super Heavy 的 33 台猛禽发动机爬过发射塔。\n\n观看发动机铃声从云中出现。 \n\nSpaceX 使用高速摄像机拍摄了 14 号航班，因此您可以以慢动作观看它。 https://t.co/05Qf7UoQHA"
+    },
+    {
+      "text": "Shout out to @play_tediddle for sponsoring the light and drone show.",
+      "link": "https://x.com/teslaownersSV/status/2119527071898886233",
+      "date": "Sun Nov 08 20:26:47 +0000 2026",
+      "tweet_id": "2119527071898886233",
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "感谢@play_tediddle 赞助灯光和无人机表演。"
+    },
+    {
+      "text": "Cybercab was designed without a steering wheel or pedals from the start.\n\n“It’s really quite a wild experience to just be in a car with no steering wheel, no pedals, no controls. And it feels great.”\n\n@elonmusk at Tesla’s We, Robot event, October 10, 2024. https://t.co/JmgkBZqBph",
+      "link": "https://x.com/teslaownersSV/status/2119515229617008792",
+      "date": "Sun Nov 08 19:39:44 +0000 2026",
+      "tweet_id": "2119515229617008792",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119515156015427584/vid/avc1/1920x1080/uSLsvGlMP_vd_sF5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119515156015427584/img/YElZPw4wimvEl_mz.jpg",
+          "local": "2119515229617008792_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119515156015427584/vid/avc1/1920x1080/uSLsvGlMP_vd_sF5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119515156015427584/img/YElZPw4wimvEl_mz.jpg",
+          "local": "2119515229617008792_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Cyber​​cab 从一开始就没有方向盘或踏板。\n\n“坐在一辆没有方向盘、没有踏板、没有控制装置的汽车里真的是一种非常疯狂的体验。而且感觉很棒。”\n\n@elonmusk 在特斯拉的“我们，机器人”活动中，2024 年 10 月 10 日。https://t.co/JmgkBZqBph"
+    },
     {
       "text": "The drone and light show at @thextakeover was insane. \n\nNothing cooler than bringing 2k people and 300 Teslas together to light up Giga Texas.\n\n@Teslalightshows @NLDS_DroneShows https://t.co/S0Da1OBL6o",
       "link": "https://x.com/teslaownersSV/status/2119507029094220192",
@@ -3898,197 +4109,6 @@
       },
       "ctx_done": 1,
       "text_zh": "你要来𝕏接管日本吗？"
-    },
-    {
-      "text": "Sunsets on Mars are blue https://t.co/Wyh896VKSq",
-      "link": "https://x.com/teslaownersSV/status/2118017344320712914",
-      "date": "Wed Nov 04 16:27:40 +0000 2026",
-      "tweet_id": "2118017344320712914",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWS1jJJaMAMJUnj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWS1jJJaMAMJUnj.jpg?format=jpg&name=large",
-          "local": "2118017344320712914_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWS1jJJaMAMJUnj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWS1jJJaMAMJUnj.jpg?format=jpg&name=large",
-          "local": "2118017344320712914_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "火星上的日落是蓝色的 https://t.co/Wyh896VKSq"
-    },
-    {
-      "text": "JUST IN: SpaceX picked Qualcomm to power Starlink Mobile's nationwide U.S. 5G network.\n\nStarlink Mobile is building one network of satellites plus ground 5G towers, so your phone stays connected anywhere in America.\n• Qualcomm Dragonwing QRU100 and QDU100 chips in the base https://t.co/M4MzFkQIXt",
-      "link": "https://x.com/teslaownersSV/status/2117994870853996866",
-      "date": "Wed Nov 04 14:58:22 +0000 2026",
-      "tweet_id": "2117994870853996866",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWShG_WbAAANKHs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWShG_WbAAANKHs.jpg?format=jpg&name=large",
-          "local": "2117994870853996866_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWShG_WbAAANKHs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWShG_WbAAANKHs.jpg?format=jpg&name=large",
-          "local": "2117994870853996866_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "刚刚：SpaceX 选择高通为 Starlink Mobile 的美国全国 5G 网络提供支持。\n\nStarlink Mobile 正在建设一个由卫星和地面 5G 塔组成的网络，让您的手机在美国任何地方都能保持连接。\n• 底座中的 Qualcomm Dragonwing QRU100 和 QDU100 芯片 https://t.co/M4MzFkQIXt"
-    },
-    {
-      "text": "One of the biggest upgrades to life is a vacuum/mop robot.\n\nThe best is @maticrobots:\n\n• 5 RGB-IR cameras + on-device AI 👀\n• Self-cleaning roller mop 🧹\n• ~55 dB 🤫\n• HEPA bag handles wet + dry 👌🏼\n• WIRED 10/10 🔥\n\nLearn more: https://t.co/PTjgMg2rq4 https://t.co/yl9pz9zKa7",
-      "link": "https://x.com/teslaownersSV/status/2117981828619596118",
-      "date": "Wed Nov 04 14:06:32 +0000 2026",
-      "tweet_id": "2117981828619596118",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117979811985387520/vid/avc1/3840x2160/DioaEauSkXWkLdrQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117979811985387520/img/DUJNeTTm90QMGoLW.jpg",
-          "local": "2117981828619596118_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117979811985387520/vid/avc1/3840x2160/DioaEauSkXWkLdrQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117979811985387520/img/DUJNeTTm90QMGoLW.jpg",
-          "local": "2117981828619596118_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "生活最大的升级之一是吸尘/拖地机器人。\n\n最好的是@maticrobots：\n\n• 5 个 RGB-IR 摄像头 + 设备内置 AI 👀\n• 自清洁滚筒拖把🧹\n• ~55 分贝🤫\n• HEPA 袋可处理湿式+干式👌🏼\n• 有线 10/10 🔥\n\n了解更多：https://t.co/PTjgMg2rq4 https://t.co/yl9pz9zKa7"
-    },
-    {
-      "text": "My daughter drew this @elonmusk \n\nWe should make it real. https://t.co/ZqASCwLkxr",
-      "link": "https://x.com/teslaownersSV/status/2117858902834586022",
-      "date": "Wed Nov 04 05:58:05 +0000 2026",
-      "tweet_id": "2117858902834586022",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?format=jpg&name=large",
-          "local": "2117858902834586022_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?format=jpg&name=large",
-          "local": "2117858902834586022_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我女儿画了这个@elonmusk \n\n我们应该让它成为现实。 https://t.co/ZqASCwLkxr"
-    },
-    {
-      "text": "Elon Musk on AI chips piling up with no power to turn them on:\n\n\"The output of chips is growing pretty much exponentially, but the output of electricity is flat. So how are you going to turn the chips on?\"\n\nElon said this on Dwarkesh Patel's podcast in February 2026. Outside https://t.co/hLWWYmAODC",
-      "link": "https://x.com/teslaownersSV/status/2117853273428574341",
-      "date": "Wed Nov 04 05:35:42 +0000 2026",
-      "tweet_id": "2117853273428574341",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117853196429524992/vid/avc1/1920x1080/a8sYbmL0jVMjH3bY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117853196429524992/img/NagfsRui53vy-WHa.jpg",
-          "local": "2117853273428574341_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117853196429524992/vid/avc1/1920x1080/a8sYbmL0jVMjH3bY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117853196429524992/img/NagfsRui53vy-WHa.jpg",
-          "local": "2117853273428574341_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈人工智能芯片堆积如山却无法启动的问题：\n\n“芯片的产量几乎呈指数级增长，但电力的产量却持平。那么你将如何启动芯片呢？”\n\nElon 于 2026 年 2 月在 Dwarkesh Patel 的播客上说了这番话。外部 https://t.co/hLWWYmAODC"
-    },
-    {
-      "text": "Some of us don’t get the easy road.",
-      "link": "https://x.com/teslaownersSV/status/2117843023967219899",
-      "date": "Wed Nov 04 04:54:59 +0000 2026",
-      "tweet_id": "2117843023967219899",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Damn you, Cancer.",
-        "text_zh": "该死的，巨蟹座。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们中的一些人走的路并不平坦。"
-    },
-    {
-      "text": "RT @teslaownersSV: No steering wheel. No side mirrors. No highways yet. I rode the Tesla Cybercab across Austin, start to finish.\n\nFull rid…",
-      "link": "https://x.com/teslaownersSV/status/2117842743997411628",
-      "date": "Wed Nov 04 04:53:52 +0000 2026",
-      "tweet_id": "2117842743997411628",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：没有方向盘。没有后视镜。还没有高速公路。我乘坐特斯拉 Cyber​​cab 从头到尾穿越奥斯汀。\n\n全面摆脱…"
-    },
-    {
-      "text": "Welp...\n\nWhat Blue Wave Means For Tesla, SpaceX &amp; Elon Musk https://t.co/D5fzKFe4mZ",
-      "link": "https://x.com/stevenmarkryan/status/2117840511696543938",
-      "date": "Wed Nov 04 04:45:00 +0000 2026",
-      "tweet_id": "2117840511696543938",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117835942992191488/vid/avc1/1920x1080/iVibsS57sdO7xeVS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117835942992191488/img/AlOBqa945QvRvLG_.jpg",
-          "local": "2117840511696543938_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117835942992191488/vid/avc1/1920x1080/iVibsS57sdO7xeVS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117835942992191488/img/AlOBqa945QvRvLG_.jpg",
-          "local": "2117840511696543938_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "韦尔普...\n\n蓝色浪潮对特斯拉、SpaceX 和埃隆·马斯克意味着什么 https://t.co/D5fzKFe4mZ"
-    },
-    {
-      "text": "Damn you, Cancer.",
-      "link": "https://x.com/teslaownersSV/status/2117832726527234068",
-      "date": "Wed Nov 04 04:14:04 +0000 2026",
-      "tweet_id": "2117832726527234068",
-      "ctx_done": 1,
-      "text_zh": "该死的，巨蟹座。"
-    },
-    {
-      "text": "Elon on starting Zip2 with $2,000 and one computer, the same day he says he landed in Montreal with about $2,500:\n\n\"And I had like $2,000. More than $100,000 in student debt and one computer.\"\n\"That summer in '95, I wrote the first maps and directions and white pages and yellow https://t.co/e8jei8i96W",
-      "link": "https://x.com/teslaownersSV/status/2117822555860140179",
-      "date": "Wed Nov 04 03:33:39 +0000 2026",
-      "tweet_id": "2117822555860140179",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117822509861212160/vid/avc1/1920x1080/KBkcx2e7ex5LnAS1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117822509861212160/img/yh8JOvR-J22Hu-vS.jpg",
-          "local": "2117822555860140179_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2117822509861212160/vid/avc1/1920x1080/KBkcx2e7ex5LnAS1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117822509861212160/img/yh8JOvR-J22Hu-vS.jpg",
-          "local": "2117822555860140179_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 以 2,000 美元和一台电脑启动 Zip2，同一天他带着大约 2,500 美元抵达蒙特利尔：\n\n“我有大约 2,000 美元。超过 100,000 美元的学生债务和一台电脑。”\n“95 年的那个夏天，我写了第一张地图、方向、白页和黄页 https://t.co/e8jei8i96W"
-    },
-    {
-      "text": "RT @ALScyborg: The Boring Company, this week 🕳️🚇\n\n🖥️ Bastrop, TX: one Ops Center room steering boring machines in Vegas, Nashville &amp; San An…",
-      "link": "https://x.com/teslaownersSV/status/2117820830357053734",
-      "date": "Wed Nov 04 03:26:47 +0000 2026",
-      "tweet_id": "2117820830357053734",
-      "ctx_done": 1,
-      "text_zh": "RT @ALScyborg：无聊的公司，本周🕳️🚇\n\n🖥️ 德克萨斯州巴斯特罗普：位于维加斯、纳什维尔和圣安的一台操作中心房间转向钻孔机……"
     }
   ]
 }
