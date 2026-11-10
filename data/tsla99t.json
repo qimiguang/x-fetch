@@ -1,7 +1,7 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-11-10T16:57:44Z",
-  "count": 68,
+  "updated_at": "2026-11-10T23:10:29Z",
+  "count": 67,
   "tweets": [
     {
       "text": "我也让我的Bot把家里的一台老安卓电视简化了开机界面\n用起来快多了",
@@ -751,19 +751,6 @@
       "text_zh": "更新的太快了吧",
       "tweet_id": "2109083204611137700",
       "ctx_done": 1
-    },
-    {
-      "text": "达拉斯狠狠的部署吧",
-      "link": "http://nitter.meowing.monster/Tsla99T/status/2109023435229921631#m",
-      "date": "Sat, 10 Oct 2026 20:49:05 GMT",
-      "tweet_id": "2109023435229921631",
-      "quoted": {
-        "user": "aelluswamy",
-        "text": "Two years since the 10/10 Cybercab WeRobot event, the cabs are everywhere in Austin now. Dallas soon.",
-        "text_zh": "自 10/10 Cyber​​cab WeRobot 活动两年后，出租车现在在奥斯汀随处可见。达拉斯很快。"
-      },
-      "ctx_done": 1,
-      "text_zh": "达拉斯狠狠的部署吧"
     }
   ]
 }
