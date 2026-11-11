@@ -1,8 +1,696 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-11T13:56:53Z",
+  "updated_at": "2026-11-11T21:52:18Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "A Marine Corps veteran in rural Oklahoma uses Starlink for his doctor's appointments, so he no longer drives an hour each way into town.\n\nHe is 100% disabled through the VA. His wife is earning a nursing degree online on the same connection, and it stayed up through tornado https://t.co/tVL3BqA6dc",
+      "link": "https://x.com/teslaownersSV/status/2120632971447447993",
+      "date": "Wed Nov 11 21:41:14 +0000 2026",
+      "tweet_id": "2120632971447447993",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120632919228403712/vid/avc1/1920x1080/KMbxbsvRWyZAW-kp.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120632919228403712/img/Yr2vcd_fuebPpYKW.jpg",
+          "local": "2120632971447447993_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120632919228403712/vid/avc1/1920x1080/KMbxbsvRWyZAW-kp.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120632919228403712/img/Yr2vcd_fuebPpYKW.jpg",
+          "local": "2120632971447447993_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "俄克拉荷马州乡村的一名海军陆战队老兵使用星链来预约医生，这样他就不用再开车一小时进城了。\n\n通过 VA，他 100% 残疾。他的妻子正在通过同一网络在线获得护理学位，并且在龙卷风中保持了状态 https://t.co/tVL3BqA6dc"
+    },
+    {
+      "text": "Speed of innovation is what decides whether we ever get a city on Mars.\n\n\"Unless we improve our rate of innovation dramatically, then there is no chance of a base on the Moon or a city on Mars... So we're going to improve our pace of innovation a lot.\"\n\nElon Musk, SATELLITE 2020 https://t.co/OHzjMRw7gh",
+      "link": "https://x.com/teslaownersSV/status/2120628915983233327",
+      "date": "Wed Nov 11 21:25:07 +0000 2026",
+      "tweet_id": "2120628915983233327",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120628888909004800/vid/avc1/1920x1080/5XnCWKV0Qs1I4J8b.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120628888909004800/img/VhA_rde_kzQjPDUk.jpg",
+          "local": "2120628915983233327_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120628888909004800/vid/avc1/1920x1080/5XnCWKV0Qs1I4J8b.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120628888909004800/img/VhA_rde_kzQjPDUk.jpg",
+          "local": "2120628915983233327_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "创新的速度决定了我们能否在火星上建立一座城市。\n\n“除非我们大幅提高创新速度，否则就不可能在月球上建立基地或在火星上建立城市……因此我们将大幅提高创新速度。”\n\n埃隆·马斯克，卫星 2020 https://t.co/OHzjMRw7gh"
+    },
+    {
+      "text": "The future of trucking with the Tesla Semi and Amazon https://t.co/XRXFdXJqjs",
+      "link": "https://x.com/teslaownersSV/status/2120628473555485139",
+      "date": "Wed Nov 11 21:23:22 +0000 2026",
+      "tweet_id": "2120628473555485139",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120628439501950976/vid/avc1/720x1280/nWqUgyIyKe0RcSg8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120628439501950976/img/J-VvHogSgAC0cCjC.jpg",
+          "local": "2120628473555485139_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120628439501950976/vid/avc1/720x1280/nWqUgyIyKe0RcSg8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120628439501950976/img/J-VvHogSgAC0cCjC.jpg",
+          "local": "2120628473555485139_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Tesla Semi 和 Amazon 的卡车运输未来 https://t.co/XRXFdXJqjs"
+    },
+    {
+      "text": "RT @mayemusk: Such a wonderful day @theXtakeover It was wonderful to see Tesla fans having so much fun!",
+      "link": "https://x.com/teslaownersSV/status/2120625148458054098",
+      "date": "Wed Nov 11 21:10:09 +0000 2026",
+      "tweet_id": "2120625148458054098",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "@elonmusk @mayemusk @NICKIMINAJ @teslaownersSV @Tesla 🇺🇸 FROM BARBZ TO TESLA FANS!\n\n@PatSchnecker takes you inside the X Takeover at Gigafactory Texas, speaking with attendees and capturing the action.\n\nWatch our coverage 👇",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108942711776571392/img/v1ybXO8THDc7241U.jpg",
+            "local": "2120625148458054098q_0.jpg"
+          }
+        ],
+        "text_zh": "@elonmusk @mayemusk @NICKIMINAJ @teslaownersSV @Tesla 🇺🇸 从 BARBZ 到特斯拉粉丝！\n\n@PatSchnecker 带您走进德克萨斯州 Gigafactory 的 X Takeover，与与会者交谈并捕捉动作。\n\n观看我们的报道👇"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @mayemusk：真是美好的一天@theXtakeover 看到特斯拉粉丝玩得这么开心真是太棒了！"
+    },
+    {
+      "text": "Such a wonderful day @theXtakeover It was wonderful to see Tesla fans having so much fun!",
+      "link": "https://x.com/mayemusk/status/2120623732272033874",
+      "date": "Wed Nov 11 21:04:31 +0000 2026",
+      "tweet_id": "2120623732272033874",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "@elonmusk @mayemusk @NICKIMINAJ @teslaownersSV @Tesla 🇺🇸 FROM BARBZ TO TESLA FANS!\n\n@PatSchnecker takes you inside the X Takeover at Gigafactory Texas, speaking with attendees and capturing the action.\n\nWatch our coverage 👇",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108942711776571392/img/v1ybXO8THDc7241U.jpg",
+            "local": "2120623732272033874q_0.jpg"
+          }
+        ],
+        "text_zh": "@elonmusk @mayemusk @NICKIMINAJ @teslaownersSV @Tesla 🇺🇸 从 BARBZ 到特斯拉粉丝！\n\n@PatSchnecker 带您走进德克萨斯州 Gigafactory 的 X Takeover，与与会者交谈并捕捉动作。\n\n观看我们的报道👇"
+      },
+      "ctx_done": 1,
+      "text_zh": "真是美好的一天@theXtakeover 看到特斯拉粉丝玩得这么开心真是太棒了！"
+    },
+    {
+      "text": "RT @TeslaClubAT: This was just wild 🤯🤯🤯❤️❤️❤️",
+      "link": "https://x.com/teslaownersSV/status/2120607146911916395",
+      "date": "Wed Nov 11 19:58:37 +0000 2026",
+      "tweet_id": "2120607146911916395",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120607146911916395q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaClubAT：这太疯狂了🤯🤯🤯❤️❤️❤️"
+    },
+    {
+      "text": "This was just wild 🤯🤯🤯❤️❤️❤️",
+      "link": "https://x.com/TeslaClubAT/status/2120607018780106773",
+      "date": "Wed Nov 11 19:58:06 +0000 2026",
+      "tweet_id": "2120607018780106773",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120607018780106773q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "这太疯狂了🤯🤯🤯❤️❤️❤️"
+    },
+    {
+      "text": "RT @TeslaYRose: X takeover video is out",
+      "link": "https://x.com/teslaownersSV/status/2120604755512951034",
+      "date": "Wed Nov 11 19:49:07 +0000 2026",
+      "tweet_id": "2120604755512951034",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120604755512951034q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaYRose：X 接管视频已发布"
+    },
+    {
+      "text": "X takeover video is out",
+      "link": "https://x.com/TeslaYRose/status/2120603916627005700",
+      "date": "Wed Nov 11 19:45:47 +0000 2026",
+      "tweet_id": "2120603916627005700",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120603916627005700q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "X收购视频已出"
+    },
+    {
+      "text": "RT @maticrobots: From meeting the Matic team to controlling Matic with his mind\n\nNeuralink Patient #22, Zach, shares how it all came togeth…",
+      "link": "https://x.com/teslaownersSV/status/2120601760071086300",
+      "date": "Wed Nov 11 19:37:13 +0000 2026",
+      "tweet_id": "2120601760071086300",
+      "ctx_done": 1,
+      "text_zh": "RT @maticrobots：从与 Matic 团队见面到用意念控制 Matic\n\nNeuralink 患者 #22，Zach，分享了这一切是如何发生的……"
+    },
+    {
+      "text": "When a flash flood cut power and every phone network to Pertik, a hill village in Aceh, Indonesia, Starlink became its only link to the outside world.\n\n\"Electricity and all regular communication networks are completely down. We are coordinating with the outside using Starlink https://t.co/wXLGfEXnqj",
+      "link": "https://x.com/teslaownersSV/status/2120600252940247318",
+      "date": "Wed Nov 11 19:31:13 +0000 2026",
+      "tweet_id": "2120600252940247318",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=large",
+          "local": "2120600252940247318_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=large",
+          "local": "2120600252940247318_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "当一场山洪切断了印度尼西亚亚齐省佩尔蒂克山村的电力和所有电话网络时，星链成为了该村与外界的唯一联系。\n\n“电力和所有常规通信网络完全瘫痪。我们正在使用星链与外界协调 https://t.co/wXLGfEXnqj"
+    },
+    {
+      "text": "Starship vs Human Scale https://t.co/cT1qumoQNW",
+      "link": "https://x.com/teslaownersSV/status/2120594448010944670",
+      "date": "Wed Nov 11 19:08:09 +0000 2026",
+      "tweet_id": "2120594448010944670",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/1946338335326400512/pu/vid/avc1/720x1280/ZizPuX1njjGqsaaU.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/1946338335326400512/pu/img/mgL2VDtroSjbZVip.jpg",
+          "local": "2120594448010944670_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/1946338335326400512/pu/vid/avc1/720x1280/ZizPuX1njjGqsaaU.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/1946338335326400512/pu/img/mgL2VDtroSjbZVip.jpg",
+          "local": "2120594448010944670_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰与人类规模 https://t.co/cT1qumoQNW"
+    },
+    {
+      "text": "JUST IN: Tesla is extending Cybertruck production through the end of summer 2027.\nElon says it's to work through more of the Cybertruck order backlog. https://t.co/hrMd4GxVCk",
+      "link": "https://x.com/teslaownersSV/status/2120585547915899211",
+      "date": "Wed Nov 11 18:32:47 +0000 2026",
+      "tweet_id": "2120585547915899211",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=large",
+          "local": "2120585547915899211_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=large",
+          "local": "2120585547915899211_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+        "text_zh": "为了解决更多 Cyber​​truck 积压订单，生产将延长至 2027 年夏末"
+      },
+      "ctx_done": 1,
+      "text_zh": "最新消息：特斯拉正在将 Cybertruck 的生产延长至 2027 年夏末。\n埃隆表示，这是为了解决更多的 Cybertruck 积压订单。 https://t.co/hrMd4GxVCk"
+    },
+    {
+      "text": "Barbara Corcoran on Elon Musk:\n\"Any great leader has a strong opinion and isn't so smooth on the edges and drives it home. But that's what you want when you want to reinvent a category, and that's what he has done.\" https://t.co/kQCqAITcUK",
+      "link": "https://x.com/teslaownersSV/status/2120585198924628448",
+      "date": "Wed Nov 11 18:31:24 +0000 2026",
+      "tweet_id": "2120585198924628448",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120585176891998208/vid/avc1/1280x720/UFQ5XjK6q6l4hqeO.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120585176891998208/img/ngRlXb6V6Pf8Pznp.jpg",
+          "local": "2120585198924628448_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120585176891998208/vid/avc1/1280x720/UFQ5XjK6q6l4hqeO.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120585176891998208/img/ngRlXb6V6Pf8Pznp.jpg",
+          "local": "2120585198924628448_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "芭芭拉·科克伦 (Barbara Corcoran) 评价埃隆·马斯克 (Elon Musk)：\n“任何伟大的领导者都会有强烈的观点，但不会那么圆滑，并将其传达到内心。但这就是当你想重新发明一个类别时你想要的，而这就是他所做的。” https://t.co/kQCqAITcUK"
+    },
+    {
+      "text": "RT @Teslalightshows: What an incredible time at @theXtakeover, can’t wait for 2027 🤩🔥🤩🔥",
+      "link": "https://x.com/teslaownersSV/status/2120584940073124019",
+      "date": "Wed Nov 11 18:30:22 +0000 2026",
+      "tweet_id": "2120584940073124019",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120584940073124019q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Teslalightshows：@theXtakeover 度过了一段多么不可思议的时光，等不及 2027 年了🤩🔥🤩🔥"
+    },
+    {
+      "text": "What an incredible time at @theXtakeover, can’t wait for 2027 🤩🔥🤩🔥",
+      "link": "https://x.com/Teslalightshows/status/2120583685640724738",
+      "date": "Wed Nov 11 18:25:23 +0000 2026",
+      "tweet_id": "2120583685640724738",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120583685640724738q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "在 @theXtakeover 度过了多么令人难以置信的时光，等不及 2027 年了🤩🔥🤩🔥"
+    },
+    {
+      "text": "From meeting the Matic team to controlling Matic with his mind\n\nNeuralink Patient #22, Zach, shares how it all came together https://t.co/ZEhsEO4zRv",
+      "link": "https://x.com/maticrobots/status/2120583629063758184",
+      "date": "Wed Nov 11 18:25:10 +0000 2026",
+      "tweet_id": "2120583629063758184",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120583315812237312/vid/avc1/2316x1320/XH2NvyBYEtSFoFCT.mp4",
+          "thumb": "https://pbs.twimg.com/media/HW3TSljaAAAiVcX.jpg",
+          "local": "2120583629063758184_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120583315812237312/vid/avc1/2316x1320/XH2NvyBYEtSFoFCT.mp4",
+          "thumb": "https://pbs.twimg.com/media/HW3TSljaAAAiVcX.jpg",
+          "local": "2120583629063758184_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "从遇见 Matic 团队到用意念控制 Matic\n\nNeuralink 患者 #22，Zach，分享了这一切是如何结合在一起的 https://t.co/ZEhsEO4zRv"
+    },
+    {
+      "text": "RT @theXtakeover: The most memorable 𝕏 takeover yet.",
+      "link": "https://x.com/teslaownersSV/status/2120582880468578799",
+      "date": "Wed Nov 11 18:22:11 +0000 2026",
+      "tweet_id": "2120582880468578799",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120582880468578799q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @theXtakeover：迄今为止最难忘的𝕏收购。"
+    },
+    {
+      "text": "RT @Tryangle: There may never be another Tesla event quite like this one!!! What an incredible time. Still living in the memory every day!…",
+      "link": "https://x.com/teslaownersSV/status/2120582832062083379",
+      "date": "Wed Nov 11 18:22:00 +0000 2026",
+      "tweet_id": "2120582832062083379",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120582832062083379q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Tryangle：可能再也不会有像这次这样的特斯拉活动了！多么令人难以置信的时光啊。每天都还活在记忆里！..."
+    },
+    {
+      "text": "There may never be another Tesla event quite like this one!!! What an incredible time. Still living in the memory every day! https://t.co/ZLsIY8rven",
+      "link": "https://x.com/Tryangle/status/2120582035425366135",
+      "date": "Wed Nov 11 18:18:50 +0000 2026",
+      "tweet_id": "2120582035425366135",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=large",
+          "local": "2120582035425366135_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=large",
+          "local": "2120582035425366135_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120582035425366135q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "可能再也不会有像这次这样的特斯拉活动了！多么令人难以置信的时光啊。每天还活在记忆里！ https://t.co/ZLsIY8rven"
+    },
+    {
+      "text": "The most memorable 𝕏 takeover yet.",
+      "link": "https://x.com/theXtakeover/status/2120581600501248021",
+      "date": "Wed Nov 11 18:17:06 +0000 2026",
+      "tweet_id": "2120581600501248021",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120581600501248021q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "迄今为止最难忘的𝕏收购。"
+    },
+    {
+      "text": "RT @JuleskwWhite: What a great event! So many amazing speakers and participants. 🥰",
+      "link": "https://x.com/teslaownersSV/status/2120581402244829365",
+      "date": "Wed Nov 11 18:16:19 +0000 2026",
+      "tweet_id": "2120581402244829365",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120581402244829365q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @JuleskwWhite：多棒的活动啊！有这么多令人惊叹的演讲者和参与者。 🥰"
+    },
+    {
+      "text": "RT @whataboutfranks: This is the best group in the world.",
+      "link": "https://x.com/teslaownersSV/status/2120581386625220659",
+      "date": "Wed Nov 11 18:16:15 +0000 2026",
+      "tweet_id": "2120581386625220659",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120581386625220659q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @whataboutfranks：这是世界上最好的团体。"
+    },
+    {
+      "text": "RT @bauminater: Was an incredibly fun time and meeting everyone was the best part!",
+      "link": "https://x.com/teslaownersSV/status/2120581377221652890",
+      "date": "Wed Nov 11 18:16:13 +0000 2026",
+      "tweet_id": "2120581377221652890",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120581377221652890q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @bauminator：这是一段非常有趣的时光，与大家见面是最棒的部分！"
+    },
+    {
+      "text": "Starship's heat shield, then vs now.\n\n\"The toughest remaining problem is a reusable orbital heat shield.\" @elonmusk\nFlight 14 reentered from orbit. \n\nFlight 15 brings curved tiles, more tile retention and the first attempt to catch the Ship. https://t.co/piOjfGmg3A",
+      "link": "https://x.com/teslaownersSV/status/2120581377020363015",
+      "date": "Wed Nov 11 18:16:13 +0000 2026",
+      "tweet_id": "2120581377020363015",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120581252516618240/vid/avc1/1920x1080/gAl9l1SCkzC7wnaY.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120581252516618240/img/mJGd_E6riFTotRe5.jpg",
+          "local": "2120581377020363015_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120581252516618240/vid/avc1/1920x1080/gAl9l1SCkzC7wnaY.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120581252516618240/img/mJGd_E6riFTotRe5.jpg",
+          "local": "2120581377020363015_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰的隔热罩，当时与现在。\n\n“剩下的最棘手的问题是可重复使用的轨道隔热罩。” @埃隆马斯克\n14号航班从轨道重新进入。 \n\n15 号航班带来了弯曲的瓷砖、更多的瓷砖保留以及第一次尝试赶上这艘船。 https://t.co/piOjfGmg3A"
+    },
+    {
+      "text": "RT @TeslaHype: X Takeover was a magical experience",
+      "link": "https://x.com/teslaownersSV/status/2120581368308736431",
+      "date": "Wed Nov 11 18:16:11 +0000 2026",
+      "tweet_id": "2120581368308736431",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120581368308736431q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaHype：X 接管是一次神奇的经历"
+    },
+    {
+      "text": "RT @hwfeinstein: This was the greatest event I’ve ever been involved with. Literally. ￼￼🦾📐",
+      "link": "https://x.com/teslaownersSV/status/2120581360100516305",
+      "date": "Wed Nov 11 18:16:09 +0000 2026",
+      "tweet_id": "2120581360100516305",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120581360100516305q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @hwfeinstein：这是我参与过的最伟大的活动。字面上地。 ￼￼🦾📐"
+    },
+    {
+      "text": "X Takeover was a magical experience",
+      "link": "https://x.com/TeslaHype/status/2120572502321639440",
+      "date": "Wed Nov 11 17:40:57 +0000 2026",
+      "tweet_id": "2120572502321639440",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120572502321639440q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "X 接管是一次神奇的经历"
+    },
+    {
+      "text": "Was an incredibly fun time and meeting everyone was the best part!",
+      "link": "https://x.com/bauminater/status/2120569562915561482",
+      "date": "Wed Nov 11 17:29:16 +0000 2026",
+      "tweet_id": "2120569562915561482",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120569562915561482q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "这是一段非常有趣的时光，见到大家是最棒的部分！"
+    },
+    {
+      "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+      "link": "https://x.com/elonmusk/status/2120565056429814073",
+      "date": "Wed Nov 11 17:11:22 +0000 2026",
+      "tweet_id": "2120565056429814073",
+      "ctx_done": 1,
+      "text_zh": "为了解决更多 Cyber​​truck 积压订单，生产将延长至 2027 年夏末"
+    },
+    {
+      "text": "This is the best group in the world.",
+      "link": "https://x.com/whataboutfranks/status/2120562764687266294",
+      "date": "Wed Nov 11 17:02:15 +0000 2026",
+      "tweet_id": "2120562764687266294",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+            "local": "2120562764687266294q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
+      },
+      "ctx_done": 1,
+      "text_zh": "这是世界上最好的团体。"
+    },
+    {
+      "text": "What a great event! So many amazing speakers and participants. 🥰",
+      "link": "https://x.com/JuleskwWhite/status/2120561981635850536",
+      "date": "Wed Nov 11 16:59:09 +0000 2026",
+      "tweet_id": "2120561981635850536",
+      "text_zh": "多么棒的活动啊！有这么多令人惊叹的演讲者和参与者。 🥰"
+    },
+    {
+      "text": "This was the greatest event I’ve ever been involved with. Literally. ￼￼🦾📐",
+      "link": "https://x.com/hwfeinstein/status/2120558565501124944",
+      "date": "Wed Nov 11 16:45:34 +0000 2026",
+      "tweet_id": "2120558565501124944",
+      "text_zh": "这是我参与过的最伟大的活动。字面上地。 ￼￼🦾📐"
+    },
+    {
+      "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck &amp; Customized Teslas\n\n2026, another https://t.co/VD00VeYlRI",
+      "link": "https://x.com/teslaownersSV/status/2120555928894177623",
+      "date": "Wed Nov 11 16:35:06 +0000 2026",
+      "tweet_id": "2120555928894177623",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120549282746933249/vid/avc1/1984x1104/qNWfbGZwoRBaOps8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+          "local": "2120555928894177623_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120549282746933249/vid/avc1/1984x1104/qNWfbGZwoRBaOps8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
+          "local": "2120555928894177623_1.jpg"
+        }
+      ],
+      "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，另一个 https://t.co/VD00VeYlRI"
+    },
     {
       "text": "Jon McNeill on a lesson from @elonmusk that didn't make the book.\n\"Rather than giving all my wealth to a philanthropy, I want to give it to Elon because he's actually going to create jobs.\"\nSource: The Knowledge Project Podcast https://t.co/LiF6mcNGAP",
       "link": "https://x.com/teslaownersSV/status/2120424952780497116",
@@ -3378,754 +4066,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "RT @maticrobots：我们测试过的最好的机器人真空吸尘器，它获得了罕见的 10 分（满分 10 分）。\n\n- 连线 https://t.co/ZrwqRPdDgb"
-    },
-    {
-      "text": "Thankful for these men in my life @that1evguyjay @ninjamattic https://t.co/HAEyBk1rlA",
-      "link": "https://x.com/teslaownersSV/status/2119171355619053726",
-      "date": "Sat Nov 07 20:53:18 +0000 2026",
-      "tweet_id": "2119171355619053726",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWjPHdCacAAKJ70.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWjPHdCacAAKJ70.jpg?format=jpg&name=large",
-          "local": "2119171355619053726_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWjPHdCacAAKJ70.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWjPHdCacAAKJ70.jpg?format=jpg&name=large",
-          "local": "2119171355619053726_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "感谢我生命中的这些人@that1evguyjay @ninjamattic https://t.co/HAEyBk1rlA"
-    },
-    {
-      "text": "RT @Newsforce: NORWAY'S MILITARY TURNS TO STARLINK FOR SATELLITE COMMUNICATIONS | THE STACK\n\nCould @Starlink become essential to military c…",
-      "link": "https://x.com/teslaownersSV/status/2119165131859120480",
-      "date": "Sat Nov 07 20:28:34 +0000 2026",
-      "tweet_id": "2119165131859120480",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119165131859120480q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：挪威军队转向星链卫星通信 |堆栈\n\n@Starlink 能否成为军事领域不可或缺的一部分……"
-    },
-    {
-      "text": "Not sure how much most people understand what it means to receive a 10/10 from WIRED\n\nThat’s inane!!",
-      "link": "https://x.com/teslaownersSV/status/2119164035925184983",
-      "date": "Sat Nov 07 20:24:12 +0000 2026",
-      "tweet_id": "2119164035925184983",
-      "quoted": {
-        "user": "maticrobots",
-        "text": "The best robot vacuum we’ve tested, and it scored a rare 10 out of 10.\n\n— WIRED https://t.co/ZrwqRPdDgb",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2118894708185554944/vid/avc1/1280x720/H7M9bq-4nTSBMc4t.mp4?tag=14",
-            "thumb": "https://pbs.twimg.com/media/HWfT8VZWYAAah0W.jpg",
-            "local": "2119164035925184983q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2118894708185554944/vid/avc1/1280x720/H7M9bq-4nTSBMc4t.mp4?tag=14",
-            "thumb": "https://pbs.twimg.com/media/HWfT8VZWYAAah0W.jpg",
-            "local": "2119164035925184983q_1.jpg"
-          }
-        ],
-        "text_zh": "这是我们测试过的最好的扫地机器人，它获得了罕见的 10 分（满分 10 分）。\n\n- 连线 https://t.co/ZrwqRPdDgb"
-      },
-      "ctx_done": 1,
-      "text_zh": "不确定有多少人理解从《连线》获得 10/10 意味着什么\n\n那太愚蠢了！"
-    },
-    {
-      "text": "NORWAY'S MILITARY TURNS TO STARLINK FOR SATELLITE COMMUNICATIONS | THE STACK\n\nCould @Starlink become essential to military communications worldwide?\n\nJohn Stringer (@teslaownersSV) discusses Norway's satellite communications deal worth up to NOK 450 million, which includes https://t.co/h2RCKakTum",
-      "link": "https://x.com/Newsforce/status/2119161717838029048",
-      "date": "Sat Nov 07 20:15:00 +0000 2026",
-      "tweet_id": "2119161717838029048",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118733909860990976/vid/avc1/1920x1080/YDwHwxe-O-EdZqHp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118733909860990976/img/1x7WBx5aYiBgP6MO.jpg",
-          "local": "2119161717838029048_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118733909860990976/vid/avc1/1920x1080/YDwHwxe-O-EdZqHp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118733909860990976/img/1x7WBx5aYiBgP6MO.jpg",
-          "local": "2119161717838029048_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119161717838029048q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "挪威军方转向星链进行卫星通信堆栈\n\n@Starlink 能否成为全球军事通信的重要组成部分？\n\nJohn Stringer (@teslaownersSV) 讨论了价值高达 4.5 亿挪威克朗的挪威卫星通信交易，其中包括 https://t.co/h2RCKakTum"
-    },
-    {
-      "text": "RT @Newsforce: SPACEX AND QUALCOMM TEAM UP FOR MASSIVE 5G EXPANSION | THE STACK\n\nCould @Starlink Mobile become the world's largest mobile n…",
-      "link": "https://x.com/teslaownersSV/status/2119155837071675588",
-      "date": "Sat Nov 07 19:51:38 +0000 2026",
-      "tweet_id": "2119155837071675588",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119155837071675588q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：SPACEX 和高通联手大规模 5G 扩展 |堆栈\n\n@Starlink Mobile 能否成为全球最大的移动网络……"
-    },
-    {
-      "text": "“I don't think there's a logical argument that @elonmusk is not the greatest entrepreneur of our lifetime, if not history.”\nBrett Oppenheim https://t.co/6opOGfzaJJ",
-      "link": "https://x.com/teslaownersSV/status/2119137905885184485",
-      "date": "Sat Nov 07 18:40:23 +0000 2026",
-      "tweet_id": "2119137905885184485",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119137856157585408/vid/avc1/1920x1080/QfLHYkNvAdnl7z6x.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119137856157585408/img/iwvk8rmIuPsqhb3K.jpg",
-          "local": "2119137905885184485_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119137856157585408/vid/avc1/1920x1080/QfLHYkNvAdnl7z6x.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119137856157585408/img/iwvk8rmIuPsqhb3K.jpg",
-          "local": "2119137905885184485_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“我不认为有逻辑论证可以证明 @elonmusk 不是我们一生中最伟大的企业家，甚至是历史上最伟大的企业家。”\n布雷特·奥本海姆 https://t.co/6opOGfzaJJ"
-    },
-    {
-      "text": "SPACEX AND QUALCOMM TEAM UP FOR MASSIVE 5G EXPANSION | THE STACK\n\nCould @Starlink Mobile become the world's largest mobile network?\n\nJohn Stringer (@teslaownersSV) breaks down SpaceX's multiyear deal with Qualcomm to build a nationwide 5G network, with tens of thousands of sites https://t.co/Miv4dgqzaU",
-      "link": "https://x.com/Newsforce/status/2119131518631039159",
-      "date": "Sat Nov 07 18:15:00 +0000 2026",
-      "tweet_id": "2119131518631039159",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118733462643294208/vid/avc1/1920x1080/K5v91w1Sm3QgU4jm.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118733462643294208/img/j5WBuNa_NkGq-LVZ.jpg",
-          "local": "2119131518631039159_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118733462643294208/vid/avc1/1920x1080/K5v91w1Sm3QgU4jm.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118733462643294208/img/j5WBuNa_NkGq-LVZ.jpg",
-          "local": "2119131518631039159_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119131518631039159q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "SPACEX 和高通联手大规模扩展 5G堆栈\n\n@Starlink Mobile 能否成为全球最大的移动网络？\n\nJohn Stringer (@teslaownersSV) 打破了 SpaceX 与高通的多年协议，以建设覆盖数万个站点的全国性 5G 网络 https://t.co/Miv4dgqzaU"
-    },
-    {
-      "text": "RT @Teslalightshows: Join a cast of THOUSANDS for The WORLDWIDE CHRISTMAS @Tesla Light Show from NEW ZEALAND 🇳🇿 to HAWAII 🌺 this DECEMBER 1…",
-      "link": "https://x.com/teslaownersSV/status/2119122383529464034",
-      "date": "Sat Nov 07 17:38:42 +0000 2026",
-      "tweet_id": "2119122383529464034",
-      "ctx_done": 1,
-      "text_zh": "RT @Teslalightshows：与数千名演员一起参加 12 月 1 日从新西兰🇳🇿到夏威夷🌺的全球圣诞节 @Tesla 灯光秀……"
-    },
-    {
-      "text": "Join a cast of THOUSANDS for The WORLDWIDE CHRISTMAS @Tesla Light Show from NEW ZEALAND 🇳🇿 to HAWAII 🌺 this DECEMBER 12th 🎄🎁🎅🏻 https://t.co/jVEa29CrN1",
-      "link": "https://x.com/Teslalightshows/status/2119122264486760641",
-      "date": "Sat Nov 07 17:38:13 +0000 2026",
-      "tweet_id": "2119122264486760641",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119122194412326913/vid/avc1/1366x1516/KEEtEIjXbPBautnS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119122194412326913/img/I6uoT91kZ6Hchpgg.jpg",
-          "local": "2119122264486760641_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119122194412326913/vid/avc1/1366x1516/KEEtEIjXbPBautnS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119122194412326913/img/I6uoT91kZ6Hchpgg.jpg",
-          "local": "2119122264486760641_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "今年 12 月 12 日，与数千名演员一起参加从新西兰🇳🇿到夏威夷🌺的全球圣诞节@特斯拉灯光秀🎄🎁🎅🏻 https://t.co/jVEa29CrN1"
-    },
-    {
-      "text": "Super Heavy’s Raptor engines lifting the booster off the pad.\n\nFilmed with a high-speed camera so you can see the detail in slow motion. https://t.co/2c7SLqE7Bv",
-      "link": "https://x.com/teslaownersSV/status/2119120008211292352",
-      "date": "Sat Nov 07 17:29:15 +0000 2026",
-      "tweet_id": "2119120008211292352",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119119940708081664/vid/avc1/1080x1920/_9tym-VPiBz5TdxH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119119940708081664/img/kYssxewOJ6EccmZU.jpg",
-          "local": "2119120008211292352_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119119940708081664/vid/avc1/1080x1920/_9tym-VPiBz5TdxH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119119940708081664/img/kYssxewOJ6EccmZU.jpg",
-          "local": "2119120008211292352_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Super Heavy 的猛禽发动机将助推器从发射台上抬起。\n\n使用高速摄像机拍摄，因此您可以看到慢动作的细节。 https://t.co/2c7SLqE7Bv"
-    },
-    {
-      "text": "RT @BenSchafferUP: January 28: Elon said the Cybertruck line would go fully autonomous.\nThis week: it’s being wound down for Cybercab.\n\nWha…",
-      "link": "https://x.com/teslaownersSV/status/2119118932313584082",
-      "date": "Sat Nov 07 17:24:59 +0000 2026",
-      "tweet_id": "2119118932313584082",
-      "ctx_done": 1,
-      "text_zh": "RT @BenSchafferUP：1 月 28 日：Elon 表示 Cyber​​truck 线路将实现完全自动驾驶。\n本周：Cyber​​cab 的活动即将结束。\n\n世界卫生大会…"
-    },
-    {
-      "text": "RT @Newsforce: NEURALINK GIVES ALS PATIENTS THEIR VOICES BACK | THE STACK\n\nWhat if AI could help someone speak to their children again in t…",
-      "link": "https://x.com/teslaownersSV/status/2119118740558417955",
-      "date": "Sat Nov 07 17:24:13 +0000 2026",
-      "tweet_id": "2119118740558417955",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119118740558417955q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：NEURALINK 让 ALS 患者回馈他们的声音 |堆栈\n\n如果人工智能可以帮助某人再次与他们的孩子交谈，会怎样……"
-    },
-    {
-      "text": "NEURALINK GIVES ALS PATIENTS THEIR VOICES BACK | THE STACK\n\nWhat if AI could help someone speak to their children again in their own voice?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss how @Neuralink and @Grok are helping people with ALS communicate, https://t.co/9A7piVowvS",
-      "link": "https://x.com/Newsforce/status/2119116419648409714",
-      "date": "Sat Nov 07 17:15:00 +0000 2026",
-      "tweet_id": "2119116419648409714",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118732705252704256/vid/avc1/1920x1080/8JMxRseeNhyCIOUr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118732705252704256/img/F2wyo5CPZHyWuUKK.jpg",
-          "local": "2119116419648409714_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118732705252704256/vid/avc1/1920x1080/8JMxRseeNhyCIOUr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118732705252704256/img/F2wyo5CPZHyWuUKK.jpg",
-          "local": "2119116419648409714_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119116419648409714q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "NEURALINK 让 ALS 患者发出自己的声音 |堆栈\n\n如果人工智能可以帮助人们再次用自己的声音与孩子交谈会怎么样？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 讨论 @Neuralink 和 @Grok 如何帮助 ALS 患者进行沟通，https://t.co/9A7piVowvS"
-    },
-    {
-      "text": "January 28: Elon said the Cybertruck line would go fully autonomous.\nThis week: it’s being wound down for Cybercab.\n\nWhat changed? The Cybertruck line is Tesla’s most autonomy-ready platform. My full analysis below. Tell me my blind spots. https://t.co/uZcwABZzZM",
-      "link": "https://x.com/BenSchafferUP/status/2119112988859007342",
-      "date": "Sat Nov 07 17:01:22 +0000 2026",
-      "tweet_id": "2119112988859007342",
-      "ctx_done": 1,
-      "text_zh": "1 月 28 日：Elon 表示 Cyber​​truck 生产线将实现完全自动驾驶。\n本周：Cyber​​cab 的活动即将结束。\n\n发生了什么变化？ Cyber​​truck 系列是特斯拉最适合自动驾驶的平台。我的完整分析如下。说说我的盲点吧https://t.co/uZcwABZzZM"
-    },
-    {
-      "text": "Tesla’s battery launch was powered by stored sunlight.\n\nIn 2015, Elon revealed that the entire event was running on batteries charged by solar panels on the building’s roof.\n\n“Everything you’re experiencing is stored sunlight.”\n\nApril 30, 2015. https://t.co/vck4GzByFw",
-      "link": "https://x.com/teslaownersSV/status/2119102736369361203",
-      "date": "Sat Nov 07 16:20:38 +0000 2026",
-      "tweet_id": "2119102736369361203",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119102707927801857/vid/avc1/1280x720/4rQpU-VfdbwsZj_1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119102707927801857/img/W9uzq2SJKcyx9fPr.jpg",
-          "local": "2119102736369361203_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119102707927801857/vid/avc1/1280x720/4rQpU-VfdbwsZj_1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119102707927801857/img/W9uzq2SJKcyx9fPr.jpg",
-          "local": "2119102736369361203_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "特斯拉的电池发射是由储存的阳光供电的。\n\n2015 年，埃隆透露，整个活动都是靠建筑物屋顶上的太阳能电池板充电的。\n\n“你所经历的一切都是储存的阳光。”\n\n2015 年 4 月 30 日。https://t.co/vck4GzByFw"
-    },
-    {
-      "text": "Imagine controlling a computer with just your thoughts.\n\nJoin Tesla Owners Austin for an exclusive fireside chat with Zach McManus @DeadManRolln , Neuralink Patient 22, as he shares his journey living with ALS and how @neuralink is changing what’s possible.\n\nRSVP: https://t.co/CSIY0oD5zL",
-      "link": "https://x.com/AustinTeslaClub/status/2119099497552789912",
-      "date": "Sat Nov 07 16:07:45 +0000 2026",
-      "tweet_id": "2119099497552789912",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWiLPwyWEAAPa4O.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWiLPwyWEAAPa4O.jpg?format=jpg&name=large",
-          "local": "2119099497552789912_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWiLPwyWEAAPa4O.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWiLPwyWEAAPa4O.jpg?format=jpg&name=large",
-          "local": "2119099497552789912_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "想象一下仅用您的意念即可控制计算机。\n\n与 Tesla 车主 Austin 一起与 Neuralink 22 号患者 Zach McManus @DeadManRolln 进行独家炉边谈话，他分享了他与 ALS 的相处历程以及 @neuralink 如何改变一切可能。\n\n回复：https://t.co/CSIY0oD5zL"
-    },
-    {
-      "text": "BREAKING: SpaceX confirms November 13 at 2:45 PM PST for the first-ever Starship and booster catch.\n\nAre you ready?  https://t.co/4DmbRKaddx",
-      "link": "https://x.com/teslaownersSV/status/2119096755920986199",
-      "date": "Sat Nov 07 15:56:52 +0000 2026",
-      "tweet_id": "2119096755920986199",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2097907823636328448/vid/avc1/1080x1080/HLAjnHIC1RxHkg8b.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097907823636328448/img/1JGhIezxEEgOeHxV.jpg",
-          "local": "2119096755920986199_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2097907823636328448/vid/avc1/1080x1080/HLAjnHIC1RxHkg8b.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2097907823636328448/img/1JGhIezxEEgOeHxV.jpg",
-          "local": "2119096755920986199_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "突发新闻：SpaceX 确认太平洋标准时间 11 月 13 日下午 2:45 将首次发射星际飞船和助推器。\n\n你准备好了吗？  https://t.co/4DmbRKaddx"
-    },
-    {
-      "text": "RT @Newsforce: TESLA'S CYBERCAB FACTORY COULD OUTPACE REGULATORS | THE STACK\n\nWhat happens when Tesla can build Cybercabs faster than regul…",
-      "link": "https://x.com/teslaownersSV/status/2119087422525104250",
-      "date": "Sat Nov 07 15:19:46 +0000 2026",
-      "tweet_id": "2119087422525104250",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119087422525104250q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：特斯拉的 CYBERCAB 工厂可能会超过监管机构 |堆栈\n\n当特斯拉能够以比常规速度更快的速度建造 Cybercab 时会发生什么……"
-    },
-    {
-      "text": "From 2024.",
-      "link": "https://x.com/teslaownersSV/status/2119087157344362615",
-      "date": "Sat Nov 07 15:18:43 +0000 2026",
-      "tweet_id": "2119087157344362615",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "从 2024 年开始。"
-    },
-    {
-      "text": "TESLA'S CYBERCAB FACTORY COULD OUTPACE REGULATORS | THE STACK\n\nWhat happens when Tesla can build Cybercabs faster than regulators allow them onto the roads?\n\nJohn Stringer (@teslaownersSV) breaks down a behind-the-scenes factory tour revealing a 78% automated production process, https://t.co/nppqtRrCEy",
-      "link": "https://x.com/Newsforce/status/2119071121219727500",
-      "date": "Sat Nov 07 14:15:00 +0000 2026",
-      "tweet_id": "2119071121219727500",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118731177112604672/vid/avc1/1920x1080/Cx7d1P61V1uvwy-h.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118731177112604672/img/dGL4JNa119Aecj6O.jpg",
-          "local": "2119071121219727500_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118731177112604672/vid/avc1/1920x1080/Cx7d1P61V1uvwy-h.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118731177112604672/img/dGL4JNa119Aecj6O.jpg",
-          "local": "2119071121219727500_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2119071121219727500q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "特斯拉的 CYBERCAB 工厂可能会超过监管机构堆栈\n\n当特斯拉建造 Cybercab 的速度快于监管机构允许其上路的速度时，会发生什么？\n\nJohn Stringer (@teslaownersSV) 深入参观工厂幕后，揭示了 78% 的自动化生产流程，https://t.co/nppqtRrCEy"
-    },
-    {
-      "text": "I Rode in the Tesla Cybercab AGAIN!\n\nBack in the Tesla Cybercab in Austin, this time with @JoshWest247, the original Cybercab chaser. \n\nWe took a Cybercab across Austin to Starbucks and talked about how fast the network has grown: driving in the rain, why it's cheaper than https://t.co/66oNV7pshm",
-      "link": "https://x.com/teslaownersSV/status/2119067352625242210",
-      "date": "Sat Nov 07 14:00:01 +0000 2026",
-      "tweet_id": "2119067352625242210",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118414106013433856/vid/avc1/1920x1080/cr6m1bIvxsObbwgv.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118414106013433856/img/TFnbNkFeBl2ObogV.jpg",
-          "local": "2119067352625242210_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118414106013433856/vid/avc1/1920x1080/cr6m1bIvxsObbwgv.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118414106013433856/img/TFnbNkFeBl2ObogV.jpg",
-          "local": "2119067352625242210_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我再次乘坐特斯拉 Cyber​​cab！\n\n回到奥斯汀的特斯拉 Cyber​​cab，这次是和最初的 Cyber​​cab 追逐者@JoshWest247 一起。 \n\n我们乘坐 Cyber​​cab 穿过奥斯汀前往星巴克，并讨论了网络发展的速度有多快：在雨中驾驶，为什么它比 https://t.co/66oNV7pshm 便宜"
-    },
-    {
-      "text": "【X-Takeover Japan 2026｜出展企業紹介】\n株式会社CARVEX\n\nテスラ専門の中古車販売からカスタム・メンテナンスまで対応。充電設備や太陽光発電・蓄電池など、車と暮らしを幅広く支えます！\n\n公式サイト：https://t.co/jlsejHXbQK https://t.co/nuWkAgYEId",
-      "link": "https://x.com/TeslaOwners_JP/status/2118991857489477863",
-      "date": "Sat Nov 07 09:00:02 +0000 2026",
-      "tweet_id": "2118991857489477863",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=large",
-          "local": "2118991857489477863_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWBlyrzboAAv0tk.jpg?format=jpg&name=large",
-          "local": "2118991857489477863_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "[X-接管日本 2026 |展商公司介绍】\n卡维克斯有限公司\n\n我们处理从特斯拉专业二手车销售到定制维护的一切事务。我们支持各种汽车和生活方式，包括充电设备、太阳能发电和蓄电池！\n\n官方网站：https://t.co/jlsejHXbQK https://t.co/nuWkAgYEId"
-    },
-    {
-      "text": "I love my Cybertruck. I did a whole news story on it. https://t.co/L3YegyxRxa",
-      "link": "https://x.com/teslaownersSV/status/2118982451641057707",
-      "date": "Sat Nov 07 08:22:39 +0000 2026",
-      "tweet_id": "2118982451641057707",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118982256773722112/vid/avc1/1920x1080/pbfACGcxFdt9VDQ4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118982256773722112/img/0xcr2z8KchbiM41i.jpg",
-          "local": "2118982451641057707_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118982256773722112/vid/avc1/1920x1080/pbfACGcxFdt9VDQ4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118982256773722112/img/0xcr2z8KchbiM41i.jpg",
-          "local": "2118982451641057707_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我喜欢我的赛博卡车。我对此做了一个完整的新闻报道。\n\n视频"
-    },
-    {
-      "text": "We may or may not have played a role in these two amazing women meeting 🤪\n@theXtakeover",
-      "link": "https://x.com/teslaownersSV/status/2118979600328134704",
-      "date": "Sat Nov 07 08:11:20 +0000 2026",
-      "tweet_id": "2118979600328134704",
-      "quoted": {
-        "user": "BlackMedia___",
-        "text": "Maye Musk, mother of X owner and trillionaire Elon Musk, has now subscribed to the First Lady of Hip-Hop, Nicki Minaj, on X.\n\nIf you haven’t subscribed yet, make sure you do! You can see that even people from the wealthiest circles are keeping up with the Queen. https://t.co/9FRZNugOJs",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=large",
-            "local": "2118979600328134704q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2109004444410982401/vid/avc1/1080x1920/3Dcr41FKjkUkT3aj.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109004444410982401/img/sSZ-tgpFLVMr-vYh.jpg",
-            "local": "2118979600328134704q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWdznRmWAAE4Xyd.jpg?format=jpg&name=large",
-            "local": "2118979600328134704q_2.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2109004444410982401/vid/avc1/1080x1920/3Dcr41FKjkUkT3aj.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2109004444410982401/img/sSZ-tgpFLVMr-vYh.jpg",
-            "local": "2118979600328134704q_3.jpg"
-          }
-        ],
-        "text_zh": "X 所有者、亿万富翁埃隆·马斯克 (Elon Musk) 的母亲梅耶·马斯克 (Maye Musk) 现已在 X 上订阅了嘻哈第一夫人妮琪·米娜 (Nicki Minaj) 的节目。\n\n如果您还没有订阅，请务必订阅！你可以看到，即使是来自最富有圈子的人也在跟上女王的步伐。 https://t.co/9FRZNugOJs"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们可能在这两位令人惊叹的女性会面中发挥了作用，也可能没有发挥作用🤪\n@theXtakeover\n\n\nBlackMedia__ (@BlackMedia___)\n\nX 所有者、亿万富翁埃隆·马斯克 (Elon Musk) 的母亲梅耶·马斯克 (Maye Musk) 现已在 X 上订阅了嘻哈第一夫人妮琪·米娜 (Nicki Minaj) 的节目。\n\n如果您还没有订阅，请务必订阅！你可以看到，即使是来自最富有圈子的人也在跟上女王的脚步。\n\n\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/BlackMedia___/status/2118789278746468766#m"
-    },
-    {
-      "text": "Screw you Cancer.",
-      "link": "https://x.com/teslaownersSV/status/2118979057056616888",
-      "date": "Sat Nov 07 08:09:10 +0000 2026",
-      "tweet_id": "2118979057056616888",
-      "ctx_done": 1,
-      "text_zh": "巨蟹座，去你的吧。"
-    },
-    {
-      "text": "The best robot vacuum we’ve tested, and it scored a rare 10 out of 10.\n\n— WIRED https://t.co/ZrwqRPdDgb",
-      "link": "https://x.com/maticrobots/status/2118978454192300342",
-      "date": "Sat Nov 07 08:06:46 +0000 2026",
-      "tweet_id": "2118978454192300342",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118894708185554944/vid/avc1/1280x720/H7M9bq-4nTSBMc4t.mp4?tag=14",
-          "thumb": "https://pbs.twimg.com/media/HWfT8VZWYAAah0W.jpg",
-          "local": "2118978454192300342_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118894708185554944/vid/avc1/1280x720/H7M9bq-4nTSBMc4t.mp4?tag=14",
-          "thumb": "https://pbs.twimg.com/media/HWfT8VZWYAAah0W.jpg",
-          "local": "2118978454192300342_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "这是我们测试过的最好的扫地机器人，它获得了罕见的 10 分（满分 10 分）。\n\n- 连线 https://t.co/ZrwqRPdDgb"
-    },
-    {
-      "text": ".@Elonmusk \n\n\"I will do my best to ensure that anything that's within my control maximizes the good outcome for humanity. I think anything else would be shortsighted — because obviously I'm part of humanity. So I like humans. Pro-human.\" https://t.co/q0eCFi8uai",
-      "link": "https://x.com/teslaownersSV/status/2118975408838439409",
-      "date": "Sat Nov 07 07:54:40 +0000 2026",
-      "tweet_id": "2118975408838439409",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2019611993091764228/vid/avc1/1920x1080/q2XtCTS9c_lLcC2S.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2019611993091764228/img/wJ-HyFvNHzMtO9Vw.jpg",
-          "local": "2118975408838439409_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2019611993091764228/vid/avc1/1920x1080/q2XtCTS9c_lLcC2S.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2019611993091764228/img/wJ-HyFvNHzMtO9Vw.jpg",
-          "local": "2118975408838439409_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": ".@埃隆马斯克 \n\n“我将尽我所能，确保我控制范围内的任何事情都能最大限度地为人类带来良好的结果。我认为其他任何事情都是短视的——因为显然我是人类的一部分。所以我喜欢人类。亲人类。”\n\n视频"
-    },
-    {
-      "text": "“Nobody’s ever made a fully reusable orbital rocket… that’s really the critical breakthrough necessary for life to become multi-planetary.”\n― Elon Musk\nStarship is the vehicle to the Moon and Mars  https://t.co/zS8HmoRvVG",
-      "link": "https://x.com/teslaownersSV/status/2118972476541809096",
-      "date": "Sat Nov 07 07:43:01 +0000 2026",
-      "tweet_id": "2118972476541809096",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=large",
-          "local": "2118972476541809096_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HQ7Y-JcaQAAa2z_.jpg?format=jpg&name=large",
-          "local": "2118972476541809096_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“没有人制造过完全可重复使用的轨道火箭……这确实是生命走向多行星所必需的关键突破。”\n——埃隆·马斯克\n星舰是前往月球和火星的交通工具"
-    },
-    {
-      "text": "RT @ToscaMusk: @teslaownersSV Always great to chat with you.",
-      "link": "https://x.com/teslaownersSV/status/2118970845322485814",
-      "date": "Sat Nov 07 07:36:32 +0000 2026",
-      "tweet_id": "2118970845322485814",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "RT @ToscaMusk：@teslaownersSV 总是很高兴与你聊天。"
-    },
-    {
-      "text": "Getting that work in. Physical health is so important, especially to help through high stress and life difficulties. https://t.co/BoaCQqQfy7",
-      "link": "https://x.com/teslaownersSV/status/2118970561070272724",
-      "date": "Sat Nov 07 07:35:24 +0000 2026",
-      "tweet_id": "2118970561070272724",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118970482322243584/vid/avc1/2160x3840/M4QTVY7IsDuAyJR5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118970482322243584/img/6Cah0EQmx_OpWkBm.jpg",
-          "local": "2118970561070272724_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118970482322243584/vid/avc1/2160x3840/M4QTVY7IsDuAyJR5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118970482322243584/img/6Cah0EQmx_OpWkBm.jpg",
-          "local": "2118970561070272724_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "开始工作。身体健康非常重要，特别是可以帮助您度过高压力和生活困难。\n\n视频"
-    },
-    {
-      "text": "Elon wants AI to seek truth and act in humanity’s best interests.\n\n“That’s why I created xAI.”\n\nHis goal: an AI that is “maximally truth-seeking” and “aspirationally does love humanity.” https://t.co/Ww1XNO7x2p",
-      "link": "https://x.com/teslaownersSV/status/2118970010358153697",
-      "date": "Sat Nov 07 07:33:13 +0000 2026",
-      "tweet_id": "2118970010358153697",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118969998387654656/vid/avc1/1370x720/h2xNZRSvh7QFy_eI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969998387654656/img/zwCk8-vVSzMOrjxc.jpg",
-          "local": "2118970010358153697_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118969998387654656/vid/avc1/1370x720/h2xNZRSvh7QFy_eI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969998387654656/img/zwCk8-vVSzMOrjxc.jpg",
-          "local": "2118970010358153697_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆希望人工智能能够寻求真理并以人类的最大利益为出发点。\n\n“这就是我创建 xAI 的原因。”\n\n他的目标是：打造一个“最大限度地追求真理”和“热衷于热爱人类”的人工智能。\n\n视频"
-    },
-    {
-      "text": "“@elonmusk’s the one CEO like this who’s able to work with them as a peer on whatever the technology is.”\nMarc Andreessen https://t.co/8mds7lKekJ",
-      "link": "https://x.com/teslaownersSV/status/2118969239097032843",
-      "date": "Sat Nov 07 07:30:09 +0000 2026",
-      "tweet_id": "2118969239097032843",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118969168733339648/vid/avc1/3840x2160/gstSzIqHgnOW3ePu.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969168733339648/img/KqeQ2lNHg8-SSjaW.jpg",
-          "local": "2118969239097032843_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118969168733339648/vid/avc1/3840x2160/gstSzIqHgnOW3ePu.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118969168733339648/img/KqeQ2lNHg8-SSjaW.jpg",
-          "local": "2118969239097032843_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“@elonmusk 是这样一位首席执行官，无论技术是什么，他都能以同行的身份与他们合作。”\n马克·安德森\n\n视频"
-    },
-    {
-      "text": "RT @Newsforce: ROBOTAXIS, STARLINK 5G &amp; APPLE'S TOUCHSCREEN REVOLUTION | THE STACK\n\nFrom Tesla's Robotaxi expansion to Apple's touchscreen…",
-      "link": "https://x.com/teslaownersSV/status/2118968738989146536",
-      "date": "Sat Nov 07 07:28:10 +0000 2026",
-      "tweet_id": "2118968738989146536",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2118968738989146536q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：ROBOTAXIS、STARLINK 5G 和苹果的触摸屏革命 |堆栈\n\n从特斯拉的 Robotaxi 扩张到苹果的触摸屏……"
-    },
-    {
-      "text": "ROBOTAXIS, STARLINK 5G &amp; APPLE'S TOUCHSCREEN REVOLUTION | THE STACK\n\nFrom Tesla's Robotaxi expansion to Apple's touchscreen MacBook, is the future of tech arriving faster than expected?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the latest in https://t.co/Q2Heoj79Y2",
-      "link": "https://x.com/Newsforce/status/2118965423991624050",
-      "date": "Sat Nov 07 07:15:00 +0000 2026",
-      "tweet_id": "2118965423991624050",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118722619872600064/vid/avc1/1920x1080/EYWWs5RswRdDksTj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118722619872600064/img/BgcisNyPUXD3nnCB.jpg",
-          "local": "2118965423991624050_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2118722619872600064/vid/avc1/1920x1080/EYWWs5RswRdDksTj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118722619872600064/img/BgcisNyPUXD3nnCB.jpg",
-          "local": "2118965423991624050_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: TESLA ROBOTAXIS, NEURALINK & THE AI REVOLUTION\n\nCould the midterm elections threaten @elonmusk's tech empire? Is @Tesla pulling ahead in the Robotaxi race? And could @Neuralink allow people to communicate through thought alone?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Tesla's latest autonomous driving expansion, @SpaceX's growing ambitions, @grok's AI challenges, and @Apple's newest innovations.\n\nFrom brain chips restoring communication to @Starlink challenging America's biggest mobile carriers and humanoid robots racing up mountains, how close are we to a completely transformed world?\n\n01:46 - Midterms: What happens to Tesla and SpaceX?\n08:05 - Tesla's Robotaxi expansion\n17:13 - Neuralink's brain-chip breakthrough\n20:31 - Starlink takes on America's biggest carriers\n24:09 - GrokBot hits its limits\n28:00 - Unitree's robot race\n32:46 - OpenAI's AI-designed hardware\n37:24 - Apple's touchscreen MacBook Pro",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118656787201101824/img/IHW6coiYa00hswpe.jpg",
-            "local": "2118965423991624050q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：特斯拉机器人出租车、Neuralink 和人工智能革命\n\n中期选举会威胁@elonmusk 的科技帝国吗？ @Tesla 在 Robotaxi 竞赛中领先吗？ @Neuralink 能否让人们仅通过思想进行交流？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了特斯拉最新的自动驾驶扩张、@SpaceX 日益增长的雄心、@grok 的人工智能挑战以及 @Apple 的最新创新。\n\n从恢复通讯的脑芯片到@Starlink 挑战美国最大的移动运营商，再到爬山的人形机器人，我们距离一个彻底变革的世界还有多远？\n\n01:46 - 期中考试：特斯拉和 SpaceX 会发生什么？\n08:05 - 特斯拉的 Robotaxi 扩展\n17:13 - Neuralink 的大脑芯片突破\n20:31 - Starlink 挑战美国最大的运营商\n24:09 - GrokBot 达到极限\n28:00 - Unitree 机器人竞赛\n32:46 - OpenAI 的人工智能设计硬件\n37:24 - 苹果的触摸屏MacBook Pro"
-      },
-      "ctx_done": 1,
-      "text_zh": "ROBOTAXIS、STARLINK 5G 和苹果的触摸屏革命 |堆栈\n从特斯拉的 Robotaxi 扩展到苹果的触摸屏 MacBook，科技的未来到来的速度是否比预期更快？\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了最新技术，包括 Neuralink 的 Hackathon、Starlink 5G、Grokbot 的局限性以及 Unitree 的人形机器人上山。\n视频\n视频"
     }
   ]
 }
