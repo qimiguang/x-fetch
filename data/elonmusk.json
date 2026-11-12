@@ -1,8 +1,283 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-11T21:51:13Z",
+  "updated_at": "2026-11-12T06:40:42Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "11 years ago\nVideo",
+      "link": "https://x.com/elonmusk/status/2120761225529168312#m",
+      "date": "Thu, 12 Nov 2026 06:10:52 GMT",
+      "tweet_id": "2120761225529168312",
+      "quoted": {
+        "user": "bowie_HQ",
+        "text": "2015, Colbert: “You’re a billionaire trying to do good things. Superhero or supervillain? You have to choose one.”\n\nElon: shows him a robot snake that plugs itself into your car\n\nColbert: “Is that thing going to attack me in my sleep?”\n\nElon, completely deadpan: “For the prototype, at least, I would recommend not dropping anything when you’re near it.”\n\nTen years later he’s built reusable rockets, humanoid robots and the best-selling EV on the planet, and he’s still the only CEO who can deliver a product safety warning and a punchline in the same sentence.\n\nSuperhero, obviously. Just one with a very dry sense of humor.\n\n@elonmusk",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119819813078061056/img/WtvpIrkw_v2xIpPO.jpg",
+            "local": "2120761225529168312q_0.jpg"
+          }
+        ],
+        "text_zh": "2015 年，科尔伯特：“你是一位试图做好事的亿万富翁。超级英雄还是超级恶棍？你必须选择一个。”\n\n埃隆：向他展示了一条可以插入你汽车的机器蛇\n\n科尔伯特：“那东西会在我睡梦中攻击我吗？”\n\nElon 面无表情：“至少对于原型来说，我建议当你靠近它时不要掉落任何东西。”\n\n十年后，他制造了可重复使用的火箭、人形机器人和地球上最畅销的电动汽车，而他仍然是唯一一位能够在同一句话中发出产品安全警告和妙语的首席执行官。\n\n显然是超级英雄。只是一个非常冷幽默的人。\n\n@埃隆马斯克"
+      },
+      "ctx_done": 1,
+      "text_zh": "11年前\n视频"
+    },
+    {
+      "text": "Chill vibes\nVideo",
+      "link": "https://x.com/elonmusk/status/2120760435813306525#m",
+      "date": "Thu, 12 Nov 2026 06:07:44 GMT",
+      "tweet_id": "2120760435813306525",
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Lofi beats to self-drive to",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120267696961196032/img/yBGZkgqFlvuMyH1M.jpg",
+            "local": "2120760435813306525q_0.jpg"
+          }
+        ],
+        "text_zh": "洛菲节拍自驾前往"
+      },
+      "ctx_done": 1,
+      "text_zh": "寒冷的氛围\n视频"
+    },
+    {
+      "text": "Try Grok @Bot\n\n\nGREG ISENBERG (@gregisenberg)\n\ngrok bot is the BEST AI agent orchestrator right now\n\nand THIS is the best setup i’ve EVER seen\n\ninv.kareem.one/1cWZ7Ekff6E?si=YkcM…\n\nit runs claude code for engineering and paper for design\n\nhere is the FULL setup and how to copy it:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m",
+      "link": "https://x.com/elonmusk/status/2120758305047904548#m",
+      "date": "Thu, 12 Nov 2026 05:59:16 GMT",
+      "tweet_id": "2120758305047904548",
+      "quoted": {
+        "user": "gregisenberg",
+        "text": "grok bot is the BEST AI agent orchestrator right now\n\nand THIS is the best setup i’ve EVER seen\n\nhttps://youtu.be/1cWZ7Ekff6E?si=YkcMxxhffksv48LX\n\nit runs claude code for engineering and paper for design\n\nhere is the FULL setup and how to copy it:",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120593723704643584/img/kwDGEdaSJ6uWQS0i.jpg",
+            "local": "2120758305047904548q_0.jpg"
+          }
+        ],
+        "text_zh": "grok bot 是目前最好的人工智能代理协调器\n\n这是我见过的最好的设置\n\nhttps://youtu.be/1cWZ7Ekff6E?si=YkcMxxhffksv48LX\n\n它运行用于工程的克劳德代码和用于设计的论文\n\n这是完整的设置以及如何复制它："
+      },
+      "ctx_done": 1,
+      "text_zh": "尝试 Grok @Bot\n\n\n格雷格·伊森伯格 (@gregisenberg)\n\ngrok bot 是目前最好的人工智能代理协调器\n\n这是我见过的最好的设置\n\ninv.kareem.one/1cWZ7Ekff6E?si=YkcM…\n\n它运行用于工程的克劳德代码和用于设计的论文\n\n这是完整的设置以及如何复制它：\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m"
+    },
+    {
+      "text": "Robotaxi works 168 hours a week\nVideo",
+      "link": "https://x.com/elonmusk/status/2120746428720988408#m",
+      "date": "Thu, 12 Nov 2026 05:12:04 GMT",
+      "tweet_id": "2120746428720988408",
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Robotaxi now runs 24/7\n\nEvery city we're available in",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120736100151177216/img/IdxK4IGj1PPNYciw.jpg",
+            "local": "2120746428720988408q_0.jpg"
+          }
+        ],
+        "text_zh": "Robotaxi 现在 24/7 运行\n\n我们服务的每个城市"
+      },
+      "ctx_done": 1,
+      "text_zh": "Robotaxi 每周工作 168 小时\n视频"
+    },
+    {
+      "text": "Bot 1.0 is out!\nVideo",
+      "link": "https://x.com/mntruell/status/2120736167385788749#m",
+      "date": "Thu, 12 Nov 2026 04:31:18 GMT",
+      "tweet_id": "2120736167385788749",
+      "quoted": {
+        "user": "bot",
+        "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
+            "local": "2120736167385788749q_0.jpg"
+          }
+        ],
+        "text_zh": "隆重推出 Grok Bot 1.0。与整个团队一起工作的 AI 队友。\n\n共享机器人，在 Slack 和 Teams 中与他们协作，邀请他们参加会议，并观看他们学习并变得更有帮助。"
+      },
+      "ctx_done": 1,
+      "text_zh": "机器人1.0已经出来了！\n视频"
+    },
+    {
+      "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-627 mission from California → spacex.com/launches/ussf627",
+      "link": "https://x.com/SpaceX/status/2120725054933635188#m",
+      "date": "Thu, 12 Nov 2026 03:47:08 GMT",
+      "tweet_id": "2120725054933635188",
+      "ctx_done": 1,
+      "text_zh": "所有系统看起来都很好，天气也有利于升空。猎鹰 9 号从加利福尼亚发射 USSF-627 任务的推进剂装载即将开始 → spacex.com/launches/ussf627"
+    },
+    {
+      "text": "Thanks to @elonmusk & @SpaceX, the City of Memphis finished its Fiscal Year ahead of budget for the first time in a long time. \n\nThe City is tracking roughly $5.6 million ahead for the current year. \n\nMemphis Mayor Paul Young said this week that SpaceX generated $54 million in taxes for the City and County this year.",
+      "link": "https://x.com/KatieMiller/status/2120617686887801175#m",
+      "date": "Wed, 11 Nov 2026 20:40:30 GMT",
+      "tweet_id": "2120617686887801175",
+      "ctx_done": 1,
+      "text_zh": "感谢 @elonmusk 和 @SpaceX，孟菲斯市长期以来首次提前完成了财政年度。 \n\n市政府预计今年的预算约为 560 万美元。 \n\n孟菲斯市市长保罗·杨 (Paul Young) 本周表示，SpaceX 今年为该市和县带来了 5400 万美元的税收。"
+    },
+    {
+      "text": "100GW in space is roughly equal to 800GW on Earth. \n\nMoreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter. \n\nThese are not the same at all.",
+      "link": "https://x.com/elonmusk/status/2120613240707420280#m",
+      "date": "Wed, 11 Nov 2026 20:22:50 GMT",
+      "tweet_id": "2120613240707420280",
+      "reply_to": "TheFlintFace",
+      "ctx_done": 1,
+      "text_zh": "太空中的 100GW 大约等于地球上的 800GW。 \n\n此外，地球上的太阳能必须与大型电池配对，以便在夜间继续为计算供电，并在冬季补充燃烧或核能。 \n\n这些根本不一样。"
+    },
+    {
+      "text": "Russell Brand's longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: \"I said no, and he was a perfect gentleman about it... Not one single person ever warned me to be careful around Russell Brand. So, I don't buy the 'open secret'...”\n\nMore:\ninv.kareem.one/c/MegynKelly/?su…\n\nVideo",
+      "link": "https://x.com/MegynKellyShow/status/2120613021907112358#m",
+      "date": "Wed, 11 Nov 2026 20:21:58 GMT",
+      "tweet_id": "2120613021907112358",
+      "ctx_done": 1,
+      "text_zh": "拉塞尔·布兰德 (Russell Brand) 的老朋友兼一次性情人 @SammiePressdee 向 @MegynKelly 讲述了真相：“我说不，他在这方面是一位完美的绅士......没有人警告过我在拉塞尔·布兰德 (Russell Brand) 周围要小心。所以，我不相信‘公开的秘密’......”\n\n更多：\ninv.kareem.one/c/MegynKelly/?su…\n\n视频"
+    },
+    {
+      "text": "Bot 1.0 is out. Our goal for this release was to make Bots a much more useful part of your team.\nSome new things we're excited about:\n- Bots can now join Zoom, Google Meet, and more. You can ask Bot questions in meetings and even assign it action items. We have ours taking standup notes every day in our shared Google Doc and doing background research on discussion themes. Soon, you'll be able to talk back and forth with it live in a meeting.\n- A new interface for managing your Bots. You can see and steer their responsibilities, what they're learning, and their impact. It's impossible to build trust in an AI teammate if it's a black box, so it should proactively flag when it's blocked or confused, take and learn from feedback across the company, and be able to succinctly summarize its contributions.\n- Better collaboration in Slack and Teams. Bots are more ambiently aware, carry context across conversations, and learn from your team over time. In our Slack, we regularly see threads between members of our team and multiple Bots, handing off work, context, and decisions. Bots should intuit your company's customs and how work gets done, not just execute on the specific tasks they're given.\nVideo",
+      "link": "https://x.com/romanugarte_/status/2120598306585989302#m",
+      "date": "Wed, 11 Nov 2026 19:23:29 GMT",
+      "tweet_id": "2120598306585989302",
+      "quoted": {
+        "user": "bot",
+        "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
+            "local": "2120598306585989302q_0.jpg"
+          }
+        ],
+        "text_zh": "隆重推出 Grok Bot 1.0。与整个团队一起工作的 AI 队友。\n\n共享机器人，在 Slack 和 Teams 中与他们协作，邀请他们参加会议，并观看他们学习并变得更有帮助。"
+      },
+      "ctx_done": 1,
+      "text_zh": "机器人1.0已经出来了。我们此版本的目标是让机器人成为您团队中更有用的一部分。\n我们感到兴奋的一些新事物：\n- 机器人现在可以加入 Zoom、Google Meet 等。您可以在会议中向 Bot 提出问题，甚至可以为其分配操作项。我们每天都会在共享的 Google 文档中做站立笔记，并对讨论主题进行背景研究。很快，您就可以在会议中与其进行实时交流。\n- 用于管理机器人的新界面。您可以查看并指导他们的职责、他们正在学习的内容以及他们的影响。如果它是一个黑匣子，就不可能在人工智能团队成员中建立信任，因此它应该在被阻止或混淆时主动标记，从整个公司的反馈中获取和学习，并能够简洁地总结其贡献。\n- Slack 和 Teams 中更好的协作。机器人具有更强的环境感知能力，可以在对话中传递上下文，并随着时间的推移向您的团队学习。在 Slack 中，我们经常看到团队成员和多个机器人之间的线程，交接工作、上下文和决策。机器人应该凭直觉了解公司的习惯以及工作的完成方式，而不仅仅是执行分配给他们的特定任务。\n视频"
+    },
+    {
+      "text": "grok bot is the BEST AI agent orchestrator right now\nand THIS is the best setup i’ve EVER seen\ninv.kareem.one/1cWZ7Ekff6E?si=YkcM…\nit runs claude code for engineering and paper for design\nhere is the FULL setup and how to copy it:\nVideo\nVideo",
+      "link": "https://x.com/gregisenberg/status/2120594418231398677#m",
+      "date": "Wed, 11 Nov 2026 19:08:02 GMT",
+      "tweet_id": "2120594418231398677",
+      "quoted": {
+        "user": "bot",
+        "text": "Introducing Grok Bot 1.0. AI teammates that work alongside your whole team.\n\nShare Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120580701489889280/img/prTmn-AYcXRsQ0Xa.jpg",
+            "local": "2120594418231398677q_0.jpg"
+          }
+        ],
+        "text_zh": "隆重推出 Grok Bot 1.0。与整个团队一起工作的 AI 队友。\n\n共享机器人，在 Slack 和 Teams 中与他们协作，邀请他们参加会议，并观看他们学习并变得更有帮助。"
+      },
+      "ctx_done": 1,
+      "text_zh": "grok bot 是目前最好的人工智能代理协调器\n这是我见过的最好的设置\ninv.kareem.one/1cWZ7Ekff6E?si=YkcM…\n它运行用于工程的克劳德代码和用于设计的论文\n这是完整的设置以及如何复制它：\n视频\n视频"
+    },
+    {
+      "text": "Person for scale",
+      "link": "https://x.com/elonmusk/status/2120591950961353125#m",
+      "date": "Wed, 11 Nov 2026 18:58:14 GMT",
+      "tweet_id": "2120591950961353125",
+      "ctx_done": 1,
+      "text_zh": "规模的人"
+    },
+    {
+      "text": "Starship Super Heavy rocket booster moved to launch pad",
+      "link": "https://x.com/elonmusk/status/2120590521253126183#m",
+      "date": "Wed, 11 Nov 2026 18:52:33 GMT",
+      "tweet_id": "2120590521253126183",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWyJCAYXcAAFtkn.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWyJCAYXcAAFtkn.jpg?name=orig",
+            "local": "2120590521253126183q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWyJD07XwAANxuA.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWyJD07XwAANxuA.jpg?name=orig",
+            "local": "2120590521253126183q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWyJFLKWIAAOuYn.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWyJFLKWIAAOuYn.jpg?name=orig",
+            "local": "2120590521253126183q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWyJGbQXcAAwXqr.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWyJGbQXcAAwXqr.jpg?name=orig",
+            "local": "2120590521253126183q_3.jpg"
+          }
+        ],
+        "text_zh": "超重型移动到了 Starbase 的发射台。 Booster 22 是第一个计划返回发射场进行捕获的超重型 V3 助推器，用于抵达后的最终捕获测试，包括捕获高度的悬挂挤压测试"
+      },
+      "ctx_done": 1,
+      "text_zh": "星舰超重型火箭助推器移至发射台"
+    },
+    {
+      "text": "Barbara Corcoran on Elon Musk:\n\"Any great leader has a strong opinion and isn't so smooth on the edges and drives it home. But that's what you want when you want to reinvent a category, and that's what he has done.\"\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2120585198924628448#m",
+      "date": "Wed, 11 Nov 2026 18:31:24 GMT",
+      "tweet_id": "2120585198924628448",
+      "ctx_done": 1,
+      "text_zh": "芭芭拉·科克伦 (Barbara Corcoran) 评价埃隆·马斯克 (Elon Musk)：\n“任何伟大的领导者都会有强烈的观点，但不会那么圆滑，并将其传达到内心。但这就是当你想重新发明一个类别时你想要的，而这就是他所做的。”\n\n视频"
+    },
+    {
+      "text": "Introducing Grok Bot 1.0.\n\nBots can be shared and are more collaborative and capable than ever.\n\nVideo",
+      "link": "https://x.com/SpaceXSI/status/2120584928983441826#m",
+      "date": "Wed, 11 Nov 2026 18:30:20 GMT",
+      "tweet_id": "2120584928983441826",
+      "ctx_done": 1,
+      "text_zh": "隆重推出 Grok Bot 1.0。\n\n机器人可以共享，并且比以往更具协作性和能力。\n\n视频"
+    },
+    {
+      "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day!",
+      "link": "https://x.com/SpaceX/status/2120584703082446863#m",
+      "date": "Wed, 11 Nov 2026 18:29:26 GMT",
+      "tweet_id": "2120584703082446863",
+      "ctx_done": 1,
+      "text_zh": "感谢所有曾服役的人员，包括我们自豪地称为 SpaceX 大家庭成员的退伍军人。退伍军人节快乐！"
+    },
+    {
+      "text": "火箭回收成功瞬间，马斯克的反应。\n\nVideo",
+      "link": "https://x.com/laobaishare/status/2120467643320897667#m",
+      "date": "Wed, 11 Nov 2026 10:44:17 GMT",
+      "tweet_id": "2120467643320897667",
+      "ctx_done": 1,
+      "text_zh": "火箭回收成功瞬间，马斯克的反应。\n\nVideo"
+    },
+    {
+      "text": "Grok Bot can now join your personal or company tailnets on Tailscale.\n\nUse it to securely reach private MCP servers, internal tools, and apps on your network.",
+      "link": "https://x.com/bot/status/2120279511707386263#m",
+      "date": "Tue, 10 Nov 2026 22:16:43 GMT",
+      "tweet_id": "2120279511707386263",
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 现在可以在 Tailscale 上加入您的个人或公司尾网。\n\n使用它可以安全地访问网络上的私有 MCP 服务器、内部工具和应用程序。"
+    },
+    {
+      "text": "Lofi beats to self-drive to\n\nVideo",
+      "link": "https://x.com/robotaxi/status/2120268861669007562#m",
+      "date": "Tue, 10 Nov 2026 21:34:23 GMT",
+      "tweet_id": "2120268861669007562",
+      "ctx_done": 1,
+      "text_zh": "洛菲节拍自驾前往\n\n视频"
+    },
     {
       "text": "Insightful\n\n\nuwe boll (@BollFILMS)\n\n\nArticle\n\n\n\nThe Lonely Wolf Killer in Polen and the Status Quo of Reality\n\nThe Shooting Spree in Krakow and the Media’s Interpretation of Reality\n\nThe shooter in Krakow was a classic \"lone wolf\" perpetrator. He killed his family and subsequently attacked random people on the\n\n\n\n\n— http://nitter.mizuki.st/BollFILMS/status/2119736520223453329#m",
       "link": "https://x.com/elonmusk/status/2119742268265640376#m",
@@ -2370,277 +2645,6 @@
       },
       "ctx_done": 1,
       "text_zh": "真实\n\n\nDogeDesigner (@cb_doge)\n\n突发新闻：Cathie Wood 表示 SpaceX 的价值被严重低估。\n\nSpaceX 将人工智能、机器人技术和能源存储结合在一起。但传统的太空、云和人工智能分析师是分开工作的，这使得人们更难理解这些技术如何相互加强。\n\n伍德表示，公司现在正在向 SpaceX 派遣分析师团队。当他们合作并交换意见时，她预计这种低估现象将会消失。\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/cb_doge/status/2116275605272695004#m"
-    },
-    {
-      "text": "You can now find out if any reach limitations have been applied to your account\n\n\nX Open Source (@XOpenSource)\n\nUnder the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: nitterk.kareem.one/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m",
-      "link": "https://x.com/elonmusk/status/2116289989914787912#m",
-      "date": "Fri, 30 Oct 2026 22:03:47 GMT",
-      "tweet_id": "2116289989914787912",
-      "quoted": {
-        "user": "XOpenSource",
-        "text": "Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
-            "local": "2116289989914787912q_0.jpg"
-          }
-        ],
-        "text_zh": "Under the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：https://x.com/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。"
-      },
-      "ctx_done": 1,
-      "text_zh": "您现在可以了解您的帐户是否受到了任何覆盖范围限制\n\n\nX 开源 (@XOpenSource)\n\nUnder the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：nitterk.kareem.one/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m"
-    },
-    {
-      "text": "Even F1 champions love Tesla self-driving",
-      "link": "https://x.com/elonmusk/status/2116287873918140737#m",
-      "date": "Fri, 30 Oct 2026 21:55:22 GMT",
-      "tweet_id": "2116287873918140737",
-      "quoted": {
-        "user": "Tesla",
-        "text": "Even the world's best drivers like being driven",
-        "text_zh": "即使是世界上最好的车手也喜欢被驾驶"
-      },
-      "ctx_done": 1,
-      "text_zh": "就连 F1 冠军也喜欢特斯拉自动驾驶"
-    },
-    {
-      "text": "PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship\n\n\nShaun Maguire (@shaunmmaguire)\n\n\nArticle\n\n\n\nPeople don&apos;t understand SpaceX\n\nCaveats: this is not investment advice. Sequoia Capital has a large position in SpaceX so I&apos;m extremely biased. Also, Past performance is not indicative of future results.\nAfter SpaceX&apos;s earnings call\n\n\n\n\n— https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m",
-      "link": "https://x.com/forwarddeploy/status/2116283109478137946#m",
-      "date": "Fri, 30 Oct 2026 21:36:26 GMT",
-      "tweet_id": "2116283109478137946",
-      "quoted": {
-        "user": "shaunmmaguire",
-        "text": "https://x.com/i/article/2115892265050882048",
-        "text_zh": "https://x.com/i/article/2115892265050882048"
-      },
-      "ctx_done": 1,
-      "text_zh": "PS - 如果您想加入 SpaceXSI 火箭飞船，我们正在招聘优秀人才\n\n\n肖恩·马奎尔 (@shaunmmaguire)\n\n\n文章\n\n\n\n人们不了解 SpaceX\n\n注意事项：这不是投资建议。红杉资本在 SpaceX 拥有大量股份，所以我非常有偏见。此外，过去的表现并不代表未来的结果。\nSpaceX 财报电话会议结束后\n\n\n\n\n— https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m"
-    },
-    {
-      "text": "ngl i still think about this\nVideo",
-      "link": "https://x.com/distributedkv/status/2116275089931170257#m",
-      "date": "Fri, 30 Oct 2026 21:04:34 GMT",
-      "tweet_id": "2116275089931170257",
-      "quoted": {
-        "user": "ns123abc",
-        "text": "BREAKING: Google just proved AI data centers in space actually work\n\nProject Suncatcher's first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. \n\nSpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. \n\nKardashev Type II civilization INCOMING",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116245186216886272/img/xb4Cz21tMEow4NnI.jpg",
-            "local": "2116275089931170257q_0.jpg"
-          }
-        ],
-        "text_zh": "突发新闻：谷歌刚刚证明太空中的人工智能数据中心确实有效\n\nSuncatcher 项目的第一颗卫星由@planet 建造，并在搭载 4 个 TPU 的 SpaceX 火箭上发射，验证了物理原理：谷歌从地球发出提示，轨道上的 TPU 运行 Gemma 推理，然后将完整的答案传回。 \n\nSpaceX 将于 2027 年底在 Starship 上发射配备 NVIDIA GPU 的 StarMind 卫星。 \n\n卡尔达肖夫 II 型文明即将到来"
-      },
-      "ctx_done": 1,
-      "text_zh": "ngl 我还在想这个\n视频"
-    },
-    {
-      "text": "If you have a Tesla and haven't tried FSD in the last year, you need to try it again. Free month trial with this link. (i don't care about the referal credit, I'm posting this as a PSA because FSD is so awesome. )\n tesla.com/get-app/referral?c…",
-      "link": "https://x.com/jhong/status/2116269882530750938#m",
-      "date": "Fri, 30 Oct 2026 20:43:53 GMT",
-      "tweet_id": "2116269882530750938",
-      "ctx_done": 1,
-      "text_zh": "如果您拥有特斯拉并且去年没有尝试过 FSD，那么您需要再试一次。使用此链接免费试用一个月。 （我不在乎推荐信用，我将其作为公益广告发布，因为 FSD 太棒了。）\n tesla.com/get-app/referral?c…"
-    },
-    {
-      "text": "Robert and I are thrilled that our gift of over 2 million shares of SpaceX stock will be distributed to children’s Trump accounts in December!\n \nOur initial gift (shares transferring to escrow as we speak) will go to 11 to 17-year-olds who live in zip codes with median family income (MFI) of $57,000 or less, and to those who live in zip codes with too few residents for an MFI to be reported in the census. These families should receive a notice by Monday. \n \nIn a few weeks, an additional gift will be finalized for eligible 11 to 17-year-old children in military families serving overseas, children in foster care, and more children whose MFI is $90,000 or less living in counties near our home in the great state of Texas.\n \nThank you to the incredible team @SpaceX, @Treasury, @IRS, @DellFdn, @GreaterHorizons, @InvestAmerica24, and the legal firms of Morgan Lewis and Gibson Dunn for working over the past few months to make this happen.\n \nWe are deeply grateful for the groundbreaking work that Brad Gerstner @altcap and @MichaelDell have done for the long-term financial security for millions of kids.\n \nGod Bless America!",
-      "link": "https://x.com/Gwynne_Shotwell/status/2116266502533902586#m",
-      "date": "Fri, 30 Oct 2026 20:30:27 GMT",
-      "tweet_id": "2116266502533902586",
-      "ctx_done": 1,
-      "text_zh": "罗伯特和我很高兴我们赠送的超过 200 万股 SpaceX 股票将于 12 月分发到孩子们的特朗普账户！\n \n我们最初的捐赠（正如我们所说，股份转移到托管）将赠予居住在家庭收入中位数 (MFI) 为 57,000 美元或以下的邮政编码区的 11 至 17 岁青少年，以及居住在居民人数太少而无法在人口普查中报告 MFI 的邮政编码区的人们。 这些家庭应该会在周一之前收到通知。 \n \n几周后，我们将为海外服役的军人家庭中符合条件的 11 至 17 岁儿童、寄养儿童以及居住在我们家乡附近县（德克萨斯州）的 MFI 不超过 90,000 美元的更多儿童确定一份额外的礼物。\n \n感谢 @SpaceX、@Treasury、@IRS、@DellFdn、@GreaterHorizo​​ns、@InvestAmerica24 等令人难以置信的团队，以及 Morgan Lewis 和 Gibson Dunn 律师事务所在过去几个月为实现这一目标所做的努力。\n \n我们非常感谢 Brad Gerstner @altcap 和 @MichaelDell 为数百万儿童的长期财务安全所做的开创性工作。\n \n上帝保佑美国！"
-    },
-    {
-      "text": "My favorite things about this:\n\n- You can see which of your posts have a visibility-limiting label, and decide if you think it's fair\n\n- You can even see if a legal (eg government) demand is limiting one of your posts, and in which country!!\n\nContinuing to deliver unprecedented transparency to the people 💪\n\n\nX Open Source (@XOpenSource)\n\nUnder the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: nitterk.kareem.one/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m",
-      "link": "https://x.com/kcoleman/status/2116263135484989645#m",
-      "date": "Fri, 30 Oct 2026 20:17:04 GMT",
-      "tweet_id": "2116263135484989645",
-      "quoted": {
-        "user": "XOpenSource",
-        "text": "Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/jf/under_the_hood\n\nThis was a top request — thanks for the feedback.\n\nYou’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV54YvEXIAA44eX.jpg?name=orig",
-            "local": "2116263135484989645q_0.jpg"
-          }
-        ],
-        "text_zh": "Under the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：https://x.com/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我最喜欢的事情是：\n\n- 您可以查看您的哪些帖子具有可见性限制标签，并决定您认为这是否公平\n\n- 您甚至可以查看法律（例如政府）要求是否限制您的帖子之一，以及在哪个国家/地区！\n\n继续为人们提供前所未有的透明度 💪\n\n\nX 开源 (@XOpenSource)\n\nUnder the Hood 现在会向您显示哪些帖子收到了可见性限制标签，从而更容易查看受影响的内容：nitterk.kareem.one/i/jf/under_the_hood\n\n这是一个最重要的请求 - 感谢您的反馈。\n\n当报告期内只有不到 5% 的帖子具有该标签时，您将看到列出的特定帖子。\n\n\n\n\n\n— https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m"
-    },
-    {
-      "text": "Article\n\n\n\nPeople don&apos;t understand SpaceX\n\nCaveats: this is not investment advice. Sequoia Capital has a large position in SpaceX so I&apos;m extremely biased. Also, Past performance is not indicative of future results.\nAfter SpaceX&apos;s earnings call",
-      "link": "https://x.com/shaunmmaguire/status/2116260821080973679#m",
-      "date": "Fri, 30 Oct 2026 20:07:52 GMT",
-      "tweet_id": "2116260821080973679",
-      "ctx_done": 1,
-      "text_zh": "文章\n\n\n\n人们不了解 SpaceX\n\n注意事项：这不是投资建议。红杉资本在 SpaceX 拥有大量股份，所以我非常有偏见。此外，过去的表现并不代表未来的结果。\nSpaceX 财报电话会议结束后"
-    },
-    {
-      "text": "Western civilization is going backwards. Canada is just one example. The bigger question is why.\n\nThe American midterms are less than a week away. Go vote and help save your country. \n\nBroken Country is a documentary no one wants you to see. Watch it. Think for yourself.\n\nWatch here : brokencountry.com\n\nVideo",
-      "link": "https://x.com/UpdatingOnRome/status/2116257900075360385#m",
-      "date": "Fri, 30 Oct 2026 19:56:16 GMT",
-      "tweet_id": "2116257900075360385",
-      "ctx_done": 1,
-      "text_zh": "西方文明正在倒退。加拿大只是一个例子。更大的问题是为什么。\n\n距离美国中期选举还有不到一周时间。去投票并帮助拯救你的国家。 \n\n《破碎的国家》是一部没人想让你看的纪录片。留意它。你自己想想吧。\n\n在这里观看：brokencountry.com\n\n视频"
-    },
-    {
-      "text": "If you’re a Texan who doesn’t vote for Paxton because your “conscience won’t allow it,” think about the fact that Talarico will ok mutilating children & the killing of babies in the womb. So put your brain on, and vote for the guy who doesn’t attack your kids.",
-      "link": "https://x.com/heckyessica/status/2116251629372747982#m",
-      "date": "Fri, 30 Oct 2026 19:31:21 GMT",
-      "tweet_id": "2116251629372747982",
-      "quoted": {
-        "user": "PpollingNumbers",
-        "text": "New - Senate and Governor poll - Texas\n\n🔴 Ken Paxton 49%\n🔵 James Talarico 48%\n\nGovernor \n🔴 Greg Abbott 52%\n🔵 Gina Hinojosa 46%\n\nQuantus Insights - LV - 10/28",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV4JHxOXgAA1QAo.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV4JHxOXgAA1QAo.jpg?name=orig",
-            "local": "2116251629372747982q_0.jpg"
-          }
-        ],
-        "text_zh": "新 - 参议院和州长民意调查 - 德克萨斯州\n\n🔴肯·帕克斯顿 49%\n🔵 詹姆斯·塔拉里科 48%\n\n州长 \n🔴格雷格·阿伯特 52%\n🔵 吉娜·伊诺霍萨 46%\n\nQuantus 见解 - LV - 10/28"
-      },
-      "ctx_done": 1,
-      "text_zh": "如果你是一个德克萨斯人，因为你的“良心不允许”而没有投票给帕克斯顿，那么想想塔拉里科会同意残害儿童和杀死子宫内的婴儿。所以，请动动脑子，投票给那些不会攻击你孩子的人。"
-    },
-    {
-      "text": "BREAKING: Google just proved AI data centers in space actually work\n\nProject Suncatcher's first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. \n\nSpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. \n\nKardashev Type II civilization INCOMING\n\nVideo",
-      "link": "https://x.com/ns123abc/status/2116247027335966934#m",
-      "date": "Fri, 30 Oct 2026 19:13:03 GMT",
-      "tweet_id": "2116247027335966934",
-      "ctx_done": 1,
-      "text_zh": "突发新闻：谷歌刚刚证明太空中的人工智能数据中心确实有效\n\nSuncatcher 项目的第一颗卫星由@planet 建造，并在搭载 4 个 TPU 的 SpaceX 火箭上发射，验证了物理原理：谷歌从地球发出提示，轨道上的 TPU 运行 Gemma 推理，然后将完整的答案传回。 \n\nSpaceX 将于 2027 年底在 Starship 上发射配备 NVIDIA GPU 的 StarMind 卫星。 \n\n卡尔达肖夫 II 型文明即将到来\n\n视频"
-    },
-    {
-      "text": "Talarico would abolish democracy in America and institute permanent one-party rule!\n\n\nAmerica (@america)\n\nJames Talarico in his own words:\n\nOn the Filibuster:\n“We should abolish the filibuster in the U.S. Senate…”\n\nOn the Supreme Court:\n“The Supreme Court needs to be overhauled…I’m open to a discussion about expanding the number of justices.”\n\nOn illegal aliens:\n“I think we should have a pathway for those folks to join us as full citizens.”\n\nTexas, get out Vote against this insanity.\n\nThis would be the end of America.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/america/status/2116241580210196794#m",
-      "link": "https://x.com/elonmusk/status/2116242885376974965#m",
-      "date": "Fri, 30 Oct 2026 18:56:36 GMT",
-      "tweet_id": "2116242885376974965",
-      "quoted": {
-        "user": "america",
-        "text": "James Talarico in his own words:\n\nOn the Filibuster:\n“We should abolish the filibuster in the U.S. Senate…”\n\nOn the Supreme Court:\n“The Supreme Court needs to be overhauled…I’m open to a discussion about expanding the number of justices.”\n\nOn illegal aliens:\n“I think we should have a pathway for those folks to join us as full citizens.”\n\nTexas, get out Vote against this insanity.\n\nThis would be the end of America. https://x.com/KanekoaTheGreat/status/2116222104907764086/video/1",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116220681394475008/img/JxzER-D5vjDvNXA3.jpg",
-            "local": "2116242885376974965q_0.jpg"
-          }
-        ],
-        "text_zh": "用詹姆斯·塔拉里科自己的话说：\n\n关于阻挠议事：\n“我们应该废除美国参议院的阻挠议事……”\n\n关于最高法院：\n“最高法院需要进行彻底改革……我愿意就扩大法官人数进行讨论。”\n\n关于非法外国人：\n“我认为我们应该为这些人提供一条途径，让他们作为正式公民加入我们。”\n\n德克萨斯州，出去投票反对这种疯狂行为。\n\n这将是美国的终结。 https://x.com/KanekoaTheGreat/status/2116222104907764086/video/1"
-      },
-      "ctx_done": 1,
-      "text_zh": "塔拉里科将废除美国的民主并建立永久的一党统治！\n\n\n美国（@america）\n\n用詹姆斯·塔拉里科自己的话说：\n\n关于阻挠议事：\n“我们应该废除美国参议院的阻挠议事……”\n\n关于最高法院：\n“最高法院需要进行彻底改革……我愿意就扩大法官人数进行讨论。”\n\n关于非法外国人：\n“我认为我们应该为这些人提供一条途径，让他们作为正式公民加入我们。”\n\n德克萨斯州，出去投票反对这种疯狂行为。\n\n这将是美国的终结。\n\n视频\n  \n\n\n\n\n\n— http://nitter.meowing.monster/america/status/2116241580210196794#m"
-    },
-    {
-      "text": "Good video about @Neuralink\n\n\nSawyer Merritt (@SawyerMerritt)\n\nCleo Abram (15M followers across all platforms) just released a new video about @neuralink. She visited the company's Austin HQ.\n\n\"This is Neuralink’s Next-Gen R1 surgical robot. Its main job is to put a computer chip into people's brains, and this is the first time they're unveiling it.\"\npiped.video/watch?v=Vna0hkq7…\n\nLink\n\n\n\nNeuralink’s Newest Brain Chip Isn’t What You Think\n\nBrain chips don&apos;t read your mind. They do something weirder... Sub...\nyoutube.com\n\n\n\n\n— http://nitter.meowing.monster/SawyerMerritt/status/2116234164600963206#m",
-      "link": "https://x.com/elonmusk/status/2116242462582989090#m",
-      "date": "Fri, 30 Oct 2026 18:54:55 GMT",
-      "tweet_id": "2116242462582989090",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "Cleo Abram (15M followers across all platforms) just released a new video about @neuralink. She visited the company's Austin HQ.\n\n\"This is Neuralink’s Next-Gen R1 surgical robot. Its main job is to put a computer chip into people's brains, and this is the first time they're unveiling it.\"\nhttps://www.youtube.com/watch?v=Vna0hkq7U1g",
-        "text_zh": "Cleo Abram（所有平台上有 1500 万粉丝）刚刚发布了一个关于 @neuralink 的新视频。她参观了该公司位于奥斯汀的总部。\n\n“这是 Neuralink 的下一代 R1 手术机器人。它的主要工作是将计算机芯片放入人的大脑中，这是他们第一次揭晓。”\nhttps://www.youtube.com/watch?v=Vna0hkq7U1g"
-      },
-      "ctx_done": 1,
-      "text_zh": "关于@Neuralink 的好视频\n\n\n索耶·梅里特（@SawyerMerritt）\n\nCleo Abram（所有平台上有 1500 万粉丝）刚刚发布了一个关于 @neuralink 的新视频。她参观了该公司位于奥斯汀的总部。\n\n“这是 Neuralink 的下一代 R1 手术机器人。它的主要工作是将计算机芯片放入人的大脑中，这是他们第一次揭晓。”\nPiped.video/watch?v=Vna0hkq7…\n\n链接\n\n\n\nNeuralink 最新的大脑芯片并不是你想象的那样\n\n大脑芯片不会读懂你的想法。他们做了一些更奇怪的事情......亚......\nyoutube.com\n\n\n\n\n— http://nitter.meowing.monster/SawyerMerritt/status/2116234164600963206#m"
-    },
-    {
-      "text": "This would be the end of democracy in America\nVideo",
-      "link": "https://x.com/elonmusk/status/2116240704393351411#m",
-      "date": "Fri, 30 Oct 2026 18:47:56 GMT",
-      "tweet_id": "2116240704393351411",
-      "quoted": {
-        "user": "KanekoaTheGreat",
-        "text": "James Talarico wants to end the filibuster, is open to packing the Supreme Court, and backs a pathway to citizenship for millions. In his own words:\n\n“We should abolish the filibuster in the U.S. Senate…”\n\n“I’m open to a discussion about expanding the number of justices.”\n\n“I think we should have a pathway for those folks to join us as full citizens.”\n\nTalarico now calls himself a “border security Democrat.”\n\nBut while millions crossed the border under Biden, he voted against border security eight times. \n\nThen in 2025, he voted no again.\n\nEnd the filibuster. Pack the Supreme Court. Open the border. Citizenship for millions.\n\nThat’s what James Talarico will vote for in Washington.\n\nElon Musk is right. Election Day is Nov. 3. Go vote, Texas!",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116220681394475008/img/JxzER-D5vjDvNXA3.jpg",
-            "local": "2116240704393351411q_0.jpg"
-          }
-        ],
-        "text_zh": "詹姆斯·塔拉里科希望结束阻挠，对最高法院的席位持开放态度，并支持数百万人获得公民身份的途径。用他自己的话说：\n\n“我们应该废除美国参议院的阻挠议事……”\n\n“我愿意就扩大法官人数进行讨论。”\n\n“我认为我们应该为这些人提供一条途径，让他们作为正式公民加入我们。”\n\n塔拉里科现在称自己为“边境安全民主党人”。\n\n然而，尽管拜登领导下数百万人越过边境，但他八次投票反对边境安全。 \n\n然后在 2025 年，他再次投了反对票。\n\n结束阻挠议事。包装最高法院。打开边界。数百万人的公民身份。\n\n这就是詹姆斯·塔拉里科将在华盛顿投票支持的。\n\n埃隆·马斯克是对的。选举日是 11 月 3 日。德克萨斯州，去投票吧！"
-      },
-      "ctx_done": 1,
-      "text_zh": "这将是美国民主的终结\n视频"
-    },
-    {
-      "text": "5 minutes of James Talarico in his own words.\n\nSend this to your friends in Texas and let them know today is their last day to Vote Early.\n\nVideo",
-      "link": "https://x.com/america/status/2116227013551796385#m",
-      "date": "Fri, 30 Oct 2026 17:53:32 GMT",
-      "tweet_id": "2116227013551796385",
-      "ctx_done": 1,
-      "text_zh": "詹姆斯·塔拉里科用他自己的话说 5 分钟。\n\n将此信息发送给您在德克萨斯州的朋友，让他们知道今天是提前投票的最后一天。\n\n视频"
-    },
-    {
-      "text": "Our TPUs just phoned home... from space.\n\nICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hardware could operate in space. The initial goal was to see if our chips could turn on, process a prompt, and transmit a response back to Earth.\n\nThis week, we got our answer. ✨\n\nThis milestone brings us one step closer to understanding if space-based compute is possible. We’re sending two more TPU-equipped satellites to orbit in 2027 for our next milestone.\n\nWatch this space 👀 and learn more about the first milestone of our long-term moonshot with Project Suncatcher ↓\n\nVideo",
-      "link": "https://x.com/NewsFromGoogle/status/2116219345215074538#m",
-      "date": "Fri, 30 Oct 2026 17:23:04 GMT",
-      "tweet_id": "2116219345215074538",
-      "ctx_done": 1,
-      "text_zh": "我们的 TPU 刚刚从太空给家里打电话。\n\nICYMI，10 月 1 日，我们将四个 TPU 送入轨道，以测试我们的 AI 硬件是否可以在太空中运行。最初的目标是看看我们的芯片是否可以打开、处理提示并将响应传输回地球。\n\n本周，我们得到了答案。 ✨\n\n这一里程碑使我们距离了解天基计算是否可行又近了一步。我们将于 2027 年将另外两颗配备 TPU 的卫星送入轨道，以实现下一个里程碑。\n\n观看此空间👀，了解更多关于我们与 Suncatcher 项目进行长期登月计划的第一个里程碑的信息 ↓\n\n视频"
-    },
-    {
-      "text": "The Democrat Party is racist against Asians and Whites",
-      "link": "https://x.com/elonmusk/status/2116218370362122746#m",
-      "date": "Fri, 30 Oct 2026 17:19:11 GMT",
-      "tweet_id": "2116218370362122746",
-      "quoted": {
-        "user": "kane",
-        "text": "When Virginia schools were 50% Asian, the state said they were “overrepresented,” not diverse enough, and needed to be “rebalanced” for equity.\n\nNow the governor is saying that a cabinet that is 75% black is “the most diverse”. The double standard is exhausting.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV2jeHPagAANjvv.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV2jeHPagAANjvv.jpg?name=orig",
-            "local": "2116218370362122746q_0.jpg"
-          }
-        ],
-        "text_zh": "当弗吉尼亚州的学校中 50% 是亚裔时，该州表示这些学校“代表性过高”，不够多元化，需要“重新平衡”以实现公平。\n\n现在州长表示，75% 黑人组成的内阁是“最多元化的”。双重标准令人疲惫不堪。"
-      },
-      "ctx_done": 1,
-      "text_zh": "民主党对亚裔和白人存在种族主义"
-    },
-    {
-      "text": "Cool\nVideo",
-      "link": "https://x.com/elonmusk/status/2116215659214561518#m",
-      "date": "Fri, 30 Oct 2026 17:08:25 GMT",
-      "tweet_id": "2116215659214561518",
-      "quoted": {
-        "user": "sundarpichai",
-        "text": "A ‘hello world’ milestone for Project Suncatcher 🚀\n\nAfter launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku!",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116214727835828224/img/b4pQhbjRd5EDKtkl.jpg",
-            "local": "2116215659214561518q_0.jpg"
-          }
-        ],
-        "text_zh": "Suncatcher 项目的“你好世界”里程碑🚀\n\n几周前发射原型卫星后，我们现在已成功向轨道发送命令，启动 TPU，运行提示符，并在地球上收到第一个完整的响应 - 俳句！"
-      },
-      "ctx_done": 1,
-      "text_zh": "酷\n视频"
-    },
-    {
-      "text": "A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com/news/paxton-s…\n\nLink\n\n\n\nPaxton slips past Talarico in latest poll as Senate race enters final days\n\nA new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days.\nfox7austin.com",
-      "link": "https://x.com/fox7austin/status/2116213584132792721#m",
-      "date": "Fri, 30 Oct 2026 17:00:10 GMT",
-      "tweet_id": "2116213584132792721",
-      "ctx_done": 1,
-      "text_zh": "一项新的民意调查发现，随着美国参议院竞选进入最后几天，共和党人肯·帕克斯顿(Ken Paxton)超过了民主党人詹姆斯·塔拉里科(James Talarico)。 Fox7austin.com/news/paxton-s…\n\n链接\n\n\n\n随着参议院竞选进入最后几天，帕克斯顿在最新民意调查中超越塔拉里科\n\n一项新的民意调查发现，随着美国参议院竞选进入最后几天，共和党人肯·帕克斯顿(Ken Paxton)超过了民主党人詹姆斯·塔拉里科(James Talarico)。\nFox7austin.com"
     }
   ]
 }
