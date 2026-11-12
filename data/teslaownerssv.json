@@ -1,8 +1,192 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-12T17:31:35Z",
+  "updated_at": "2026-11-12T23:26:34Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "RT @Newsforce: FSD HITS 11 EU COUNTRIES | The Stack\n\n“It’s 6 to 7 times safer than a human driver. I’ll take my odds on that versus me gett…",
+      "link": "https://x.com/teslaownersSV/status/2121013919322182129",
+      "date": "Thu Nov 12 22:54:59 +0000 2026",
+      "tweet_id": "2121013919322182129",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
+        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：FSD 袭击 11 个欧盟国家 |堆栈\n\n“它比人类驾驶员安全 6 到 7 倍。我会赌这一点，而不是我……”"
+    },
+    {
+      "text": "FSD HITS 11 EU COUNTRIES | The Stack\n\n“It’s 6 to 7 times safer than a human driver. I’ll take my odds on that versus me getting distracted.”\n\n@teslaownersSV notes Finland just became the 11th European country to approve @Tesla FSD, says only 4 more countries are needed to cover https://t.co/NCxYW2xDxK",
+      "link": "https://x.com/Newsforce/status/2121013396732584299",
+      "date": "Thu Nov 12 22:52:54 +0000 2026",
+      "tweet_id": "2121013396732584299",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121012590692241408/vid/avc1/1320x734/QVvUzuF0gqRTjvvk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121012590692241408/img/QMOUDIIMuGFcrZTC.jpg",
+          "local": "2121013396732584299_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121012590692241408/vid/avc1/1320x734/QVvUzuF0gqRTjvvk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121012590692241408/img/QMOUDIIMuGFcrZTC.jpg",
+          "local": "2121013396732584299_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
+        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
+      },
+      "ctx_done": 1,
+      "text_zh": "FSD 袭击 11 个欧盟国家 |堆栈\n\n“它比人类驾驶员安全 6 到 7 倍。我会赌我不会分心。”\n\n@teslaownersSV 指出芬兰刚刚成为第 11 个批准 @Tesla FSD 的欧洲国家，并表示只需要另外 4 个国家即可覆盖 https://t.co/NCxYW2xDxK"
+    },
+    {
+      "text": "RT @Newsforce: CRAZY WEEK IN TECH | The Stack\n\n“We were just here last week and none of this stuff was happening.”\n\n@teslaownersSV and @Sjv…",
+      "link": "https://x.com/teslaownersSV/status/2121010367526838318",
+      "date": "Thu Nov 12 22:40:52 +0000 2026",
+      "tweet_id": "2121010367526838318",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
+        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：科技疯狂周 |堆栈\n\n“我们上周才来这里，但这些事情都没有发生。”\n\n@teslaownersSV 和 @Sjv…"
+    },
+    {
+      "text": "CRAZY WEEK IN TECH | The Stack\n\n“We were just here last week and none of this stuff was happening.”\n\n@teslaownersSV and @SjvTesla are back to break down @AnthropicAI's massive IPO, @Tesla FSD approval in Finland, 24/7 @Robotaxi service, @Cybertruck production extension, Gemini 4, https://t.co/FgIdY7gnho",
+      "link": "https://x.com/Newsforce/status/2121009974956748905",
+      "date": "Thu Nov 12 22:39:19 +0000 2026",
+      "tweet_id": "2121009974956748905",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121009672261963777/vid/avc1/1320x748/S8TeHrVF6WotX_JC.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121009672261963777/img/0xyEqrLywAsMyFbL.jpg",
+          "local": "2121009974956748905_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121009672261963777/vid/avc1/1320x748/S8TeHrVF6WotX_JC.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121009672261963777/img/0xyEqrLywAsMyFbL.jpg",
+          "local": "2121009974956748905_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
+        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
+      },
+      "ctx_done": 1,
+      "text_zh": "科技疯狂周 |堆栈\n\n“我们上周才来这里，但这些事情都没有发生。”\n\n@teslaownersSV 和 @SjvTesla 回来分解 @AnthropicAI 的大规模 IPO、@Tesla FSD 在芬兰的批准、24/7 @Robotaxi 服务、@Cyber​​truck 生产扩展、Gemini 4、https://t.co/FgIdY7gnho"
+    },
+    {
+      "text": "RT @Newsforce: Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://t.co/H6tqZSwLue",
+      "link": "https://x.com/teslaownersSV/status/2121008985507840395",
+      "date": "Thu Nov 12 22:35:23 +0000 2026",
+      "tweet_id": "2121008985507840395",
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://t.co/H6tqZSwLue"
+    },
+    {
+      "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://t.co/H6tqZSwLue",
+      "link": "https://x.com/Newsforce/status/2121007316786934095",
+      "date": "Thu Nov 12 22:28:45 +0000 2026",
+      "tweet_id": "2121007316786934095",
+      "ctx_done": 1,
+      "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://t.co/H6tqZSwLue"
+    },
+    {
+      "text": "Outwork everyone, then bet on yourself while you still can.\n\n\"Work hard every waking hour... If somebody else is working 50 hours and you're working 100, you'll get twice as much done in the course of a year... So I would encourage you to take risks now. Do something bold. You https://t.co/tSHcQHWCRn",
+      "link": "https://x.com/teslaownersSV/status/2120988341185528173",
+      "date": "Thu Nov 12 21:13:21 +0000 2026",
+      "tweet_id": "2120988341185528173",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120988318620082176/vid/avc1/1920x1080/swdz_FD5zJBIs81-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120988318620082176/img/ct-ySy_RSP8YxJpk.jpg",
+          "local": "2120988341185528173_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120988318620082176/vid/avc1/1920x1080/swdz_FD5zJBIs81-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120988318620082176/img/ct-ySy_RSP8YxJpk.jpg",
+          "local": "2120988341185528173_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "超越所有人，然后趁你还可以的时候押注于自己。\n\n“醒着的每个小时都要努力工作......如果别人工作 50 小时，而你工作 100 小时，你一年内完成的工作量会是原来的两倍......所以我鼓励你现在就冒险。做一些大胆的事情。你 https://t.co/tSHcQHWCRn"
+    },
+    {
+      "text": "SpaceX has officially announced more than $74 billion in planned supercomputing investment across Texas and Arizona.\n\nStarbase, Texas: $24B+ supercompute facility that makes its own electricity (no public grid draw), 3,000+ construction jobs already, 500+ permanent jobs, plus https://t.co/3SMvCDf95t",
+      "link": "https://x.com/teslaownersSV/status/2120943547126092191",
+      "date": "Thu Nov 12 18:15:21 +0000 2026",
+      "tweet_id": "2120943547126092191",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=large",
+          "local": "2120943547126092191_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=large",
+          "local": "2120943547126092191_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "SpaceX 已正式宣布计划在德克萨斯州和亚利桑那州投资超过 740 亿美元的超级计算。\n\n德克萨斯州 Starbase：价值 24B 美元以上的超级计算设施，可自行发电（无需公共电网供电），已提供 3,000 多个建筑工作岗位，500 多个永久性工作岗位，加上 https://t.co/3SMvCDf95t"
+    },
+    {
+      "text": "NEWS: Grok Bot 1.0 is here, introducing AI teammates designed to work alongside people and teams.\n\n- Bots can now be shared across teams and collaborate through Slack and Microsoft Teams.\n- They can join meetings, coordinate tasks, send targeted messages, and learn from ongoing https://t.co/EsKEmq9wBO",
+      "link": "https://x.com/teslaownersSV/status/2120934597081084311",
+      "date": "Thu Nov 12 17:39:47 +0000 2026",
+      "tweet_id": "2120934597081084311",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=large",
+          "local": "2120934597081084311_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=large",
+          "local": "2120934597081084311_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：Grok Bot 1.0 现已推出，引入了旨在与人员和团队一起工作的 AI 队友。\n\n- 机器人现在可以跨团队共享，并通过 Slack 和 Microsoft Teams 进行协作。\n- 他们可以参加会议、协调任务、发送有针对性的消息，并从正在进行的活动中学习 https://t.co/EsKEmq9wBO"
+    },
+    {
+      "text": "This is a Falcon 9 booster landing itself on a ship in the Pacific at night\nEight minutes earlier it was launching a mission from California https://t.co/SXnqPiqnFn",
+      "link": "https://x.com/teslaownersSV/status/2120933710170382563",
+      "date": "Thu Nov 12 17:36:16 +0000 2026",
+      "tweet_id": "2120933710170382563",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120933668353167360/vid/avc1/1080x1920/1CK_5nBK1TX7RoW5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120933668353167360/img/AxtdfYkxOK2gY2Q-.jpg",
+          "local": "2120933710170382563_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120933668353167360/vid/avc1/1080x1920/1CK_5nBK1TX7RoW5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120933668353167360/img/AxtdfYkxOK2gY2Q-.jpg",
+          "local": "2120933710170382563_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这是猎鹰 9 号助推器在夜间降落在太平洋的一艘船上\n八分钟前，它从加利福尼亚州发射了一次任务 https://t.co/SXnqPiqnFn"
+    },
     {
       "text": "RT @teslaownersSV: https://t.co/nM06ITy8rp",
       "link": "https://x.com/teslaownersSV/status/2120927739343458815",
@@ -3797,213 +3981,6 @@
       },
       "ctx_done": 1,
       "text_zh": "如果这篇文章至少得到了，我不知道，假设有 7 个赞，我会订购 Cyberbeast @cybertruck \n\n📐📐📐"
-    },
-    {
-      "text": "Starship’s goal isn’t just to fly. \n\nIt’s to be fully and rapidly reusable.\n\n“I think it’s really one of the hardest engineering challenges that exists.”\n@elonmusk https://t.co/xeca6VRBYE",
-      "link": "https://x.com/teslaownersSV/status/2119552118000673085",
-      "date": "Sun Nov 08 22:06:18 +0000 2026",
-      "tweet_id": "2119552118000673085",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119551928673927168/vid/avc1/1078x1920/kP4w5EpKW6K9_Mgm.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119551928673927168/img/ROPcHVjexg6m1ORR.jpg",
-          "local": "2119552118000673085_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119551928673927168/vid/avc1/1078x1920/kP4w5EpKW6K9_Mgm.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119551928673927168/img/ROPcHVjexg6m1ORR.jpg",
-          "local": "2119552118000673085_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星舰的目标不仅仅是飞行。 \n\n它可以完全、快速地重复使用。\n\n“我认为这确实是现存最困难的工程挑战之一。”\n@elonmusk https://t.co/xeca6VRBYE"
-    },
-    {
-      "text": "Super Heavy’s 33 Raptor engines climbing past the launch tower.\n\nWatch the engine bells emerge from the cloud. \n\nSpaceX captured Flight 14 with high-speed cameras so you can see it in slow motion. https://t.co/05Qf7UoQHA",
-      "link": "https://x.com/teslaownersSV/status/2119549743588397453",
-      "date": "Sun Nov 08 21:56:52 +0000 2026",
-      "tweet_id": "2119549743588397453",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119549578550857728/vid/avc1/3840x2160/LATAjG57O_k2PhXl.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119549578550857728/img/zyVCiZDGNE_cbSug.jpg",
-          "local": "2119549743588397453_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119549578550857728/vid/avc1/3840x2160/LATAjG57O_k2PhXl.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119549578550857728/img/zyVCiZDGNE_cbSug.jpg",
-          "local": "2119549743588397453_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Super Heavy 的 33 台猛禽发动机爬过发射塔。\n\n观看发动机铃声从云中出现。 \n\nSpaceX 使用高速摄像机拍摄了 14 号航班，因此您可以以慢动作观看它。 https://t.co/05Qf7UoQHA"
-    },
-    {
-      "text": "Shout out to @play_tediddle for sponsoring the light and drone show.",
-      "link": "https://x.com/teslaownersSV/status/2119527071898886233",
-      "date": "Sun Nov 08 20:26:47 +0000 2026",
-      "tweet_id": "2119527071898886233",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "感谢@play_tediddle 赞助灯光和无人机表演。"
-    },
-    {
-      "text": "Cybercab was designed without a steering wheel or pedals from the start.\n\n“It’s really quite a wild experience to just be in a car with no steering wheel, no pedals, no controls. And it feels great.”\n\n@elonmusk at Tesla’s We, Robot event, October 10, 2024. https://t.co/JmgkBZqBph",
-      "link": "https://x.com/teslaownersSV/status/2119515229617008792",
-      "date": "Sun Nov 08 19:39:44 +0000 2026",
-      "tweet_id": "2119515229617008792",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119515156015427584/vid/avc1/1920x1080/uSLsvGlMP_vd_sF5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119515156015427584/img/YElZPw4wimvEl_mz.jpg",
-          "local": "2119515229617008792_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119515156015427584/vid/avc1/1920x1080/uSLsvGlMP_vd_sF5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119515156015427584/img/YElZPw4wimvEl_mz.jpg",
-          "local": "2119515229617008792_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Cyber​​cab 从一开始就没有方向盘或踏板。\n\n“坐在一辆没有方向盘、没有踏板、没有控制装置的汽车里真的是一种非常疯狂的体验。而且感觉很棒。”\n\n@elonmusk 在特斯拉的“我们，机器人”活动中，2024 年 10 月 10 日。https://t.co/JmgkBZqBph"
-    },
-    {
-      "text": "The drone and light show at @thextakeover was insane. \n\nNothing cooler than bringing 2k people and 300 Teslas together to light up Giga Texas.\n\n@Teslalightshows @NLDS_DroneShows https://t.co/S0Da1OBL6o",
-      "link": "https://x.com/teslaownersSV/status/2119507029094220192",
-      "date": "Sun Nov 08 19:07:08 +0000 2026",
-      "tweet_id": "2119507029094220192",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119506719953088512/vid/avc1/2160x3840/RVOmxeyVGkjwC3lQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119506719953088512/img/3Z2SGiBmcM_ZGHtv.jpg",
-          "local": "2119507029094220192_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119506719953088512/vid/avc1/2160x3840/RVOmxeyVGkjwC3lQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119506719953088512/img/3Z2SGiBmcM_ZGHtv.jpg",
-          "local": "2119507029094220192_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "@thextakeover 的无人机和灯光秀太疯狂了。 \n\n没有什么比让 2000 人和 300 辆特斯拉聚集在一起点亮德克萨斯州千兆城更酷的事情了。\n\n@Teslalightshows @NLDS_DroneShows https://t.co/S0Da1OBL6o"
-    },
-    {
-      "text": "Cybertruck didn’t look like anything else on the road. That was part of why I loved it. \nTesla took a chance on something radically different instead of making another truck that looked like every other truck.\n\nI told The San Francisco Standard it’s the best vehicle I’ve ever https://t.co/hSS5Ios6TH",
-      "link": "https://x.com/teslaownersSV/status/2119500694063583419",
-      "date": "Sun Nov 08 18:41:58 +0000 2026",
-      "tweet_id": "2119500694063583419",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWn6pZ0bYAA__fA.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWn6pZ0bYAA__fA.jpg?format=jpg&name=large",
-          "local": "2119500694063583419_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWn6pZ0bYAA__fA.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWn6pZ0bYAA__fA.jpg?format=jpg&name=large",
-          "local": "2119500694063583419_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "赛博卡车看起来与路上的其他任何东西都不同。这就是我喜欢它的部分原因。 \n特斯拉抓住了机会，尝试了一些完全不同的东西，而不是制造另一辆看起来与其他卡车一样的卡车。\n\n我告诉《旧金山标准报》，这是我用过的最好的车 https://t.co/hSS5Ios6TH"
-    },
-    {
-      "text": "Falcon Heavy has 27 Merlin engines. Super Heavy has 33 Raptors.\n\nJust six more engines. A completely different scale of power.\n\nSpaceX lists over 5 million pounds of liftoff thrust for Falcon Heavy—and 18.1 million for Super Heavy. https://t.co/6C8AtbI6XX",
-      "link": "https://x.com/teslaownersSV/status/2119499085959049586",
-      "date": "Sun Nov 08 18:35:35 +0000 2026",
-      "tweet_id": "2119499085959049586",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWn5L6oacAAGEoA.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWn5L6oacAAGEoA.jpg?format=jpg&name=large",
-          "local": "2119499085959049586_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWn5L6oacAAGEoA.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWn5L6oacAAGEoA.jpg?format=jpg&name=large",
-          "local": "2119499085959049586_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "猎鹰重型火箭拥有 27 台 Merlin 发动机。超重拥有33支猛龙队。\n\n只剩下六台发动机了。完全不同的力量规模。\n\nSpaceX 列出的猎鹰重型火箭的升空推力超过 500 万磅，超重型火箭的升空推力为 1810 万磅。 https://t.co/6C8AtbI6XX"
-    },
-    {
-      "text": "The Tesla Roadster up close at the Petersen Automotive Museum. https://t.co/djRC42dsCj",
-      "link": "https://x.com/teslaownersSV/status/2119480507088138258",
-      "date": "Sun Nov 08 17:21:45 +0000 2026",
-      "tweet_id": "2119480507088138258",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119480418735104000/vid/avc1/1080x1920/Al9_T-BSQme6RB6s.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119480418735104000/img/5WGSEQ6rff8RBcuX.jpg",
-          "local": "2119480507088138258_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119480418735104000/vid/avc1/1080x1920/Al9_T-BSQme6RB6s.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119480418735104000/img/5WGSEQ6rff8RBcuX.jpg",
-          "local": "2119480507088138258_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "彼得森汽车博物馆近距离观看特斯拉跑车。 https://t.co/djRC42dsCj"
-    },
-    {
-      "text": "Dragon’s parachutes open in stages on purpose.\n\nThe canopies are held partly closed before expanding fully, controlling the opening loads instead of taking the whole hit at once.\n\nWatch them grow https://t.co/CIt52YKJoZ",
-      "link": "https://x.com/teslaownersSV/status/2119470581062246635",
-      "date": "Sun Nov 08 16:42:19 +0000 2026",
-      "tweet_id": "2119470581062246635",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119470530713841665/vid/avc1/1920x1080/GnSSaiuDMcMoavcO.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119470530713841665/img/NGXyo7nq9wHPPMJK.jpg",
-          "local": "2119470581062246635_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119470530713841665/vid/avc1/1920x1080/GnSSaiuDMcMoavcO.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119470530713841665/img/NGXyo7nq9wHPPMJK.jpg",
-          "local": "2119470581062246635_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "龙的降落伞是故意分阶段打开的。\n\n顶篷在完全展开之前保持部分关闭，控制打开载荷，而不是立即承受全部撞击。\n\n看着他们成长 https://t.co/CIt52YKJoZ"
-    },
-    {
-      "text": "On this day in 2023, SpaceX launched its 80th mission of the year.\n\n23 more Starlink satellites reached orbit. Falcon 9 came back and landed on a droneship.\n\nSpaceX had already delivered more than 1,000 metric tons to orbit that year.\nLaunch. Land. Repeat. https://t.co/ToRBEN9F9q",
-      "link": "https://x.com/teslaownersSV/status/2119469759117004943",
-      "date": "Sun Nov 08 16:39:03 +0000 2026",
-      "tweet_id": "2119469759117004943",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119469721062178816/vid/avc1/1920x1080/P1CWjGQuFWjTtbvw.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119469721062178816/img/A5o9WiTXrJlu5mxr.jpg",
-          "local": "2119469759117004943_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119469721062178816/vid/avc1/1920x1080/P1CWjGQuFWjTtbvw.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119469721062178816/img/A5o9WiTXrJlu5mxr.jpg",
-          "local": "2119469759117004943_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2023 年的今天，SpaceX 发射了今年的第 80 次任务。\n\n另有 23 颗星链卫星进入轨道。猎鹰 9 号返回并降落在一艘无人机上。\n\n那一年，SpaceX 已经向轨道运送了超过 1,000 吨的货物。\n发射。土地。重复。 https://t.co/ToRBEN9F9q"
     }
   ]
 }
