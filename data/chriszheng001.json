@@ -1,8 +1,66 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-11-13T06:00:26Z",
-  "count": 41,
+  "updated_at": "2026-11-13T14:30:39Z",
+  "count": 47,
   "tweets": [
+    {
+      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— https://nitter.kareem.one/firstadopter/status/2121057719738073420#m",
+      "link": "https://x.com/ChrisZheng001/status/2121078063735968046#m",
+      "date": "Fri, 13 Nov 2026 03:09:52 GMT",
+      "tweet_id": "2121078063735968046",
+      "quoted": {
+        "user": "firstadopter",
+        "text": "Bloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?srnd=homepage-americas",
+        "text_zh": "彭博社：“根据最近几天与他交谈过的人说，黄已经开始悔罪，谴责自己是一个‘混蛋’。”他声称现在并不关心自己会发生什么。他说，他主要关心的是他的妻子，而不是“毁掉公众想象中与他有浪漫关系的多名女性的生活”。” https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?srnd=homepage-americas"
+      },
+      "ctx_done": 1,
+      "text_zh": "他们赢了，他们暂时摧毁了詹森。\n\n\n金泰 (@firstadopter)\n\n彭博社：“根据最近几天与他交谈过的人说，黄已经开始悔罪，谴责自己是一个‘混蛋’。”他声称现在并不关心自己会发生什么。他说，他主要关心的是他的妻子，而不是“毁掉公众想象中与他有浪漫关系的多名女性的生活”。” Bloomberg.com/news/articles/…\n\n链接\n\n\n\n“我是个混蛋”：黄仁勋作为 Nvidia 首席执行官的最后几个小时\n\n最后，黄仁勋看起来支离破碎，传奇能量耗尽。在花了数周时间否认不忠指控并努力保住英伟达公司首席执行官的职位后……\n彭博社\n\n\n\n\n— https://nitter.kareem.one/firstadopter/status/2121057719738073420#m"
+    },
+    {
+      "text": "Everyone believes CUDA is NVIDIA's moat, the reason we've maintained our dominance in the AI era. I've never believed that.\n\nNVIDIA has only one true moat: its people. And the most important of them is Jensen Huang.\n\nI've worked on CUDA compilers, libraries, and DSLs for eight years, from Volta to Rubin. I think I've earned the right to share my perspective on what NVIDIA's moat really is. I hope you'll bear with me.\n\n1. What is CUDA?\n\nMany people think CUDA is just a programming language and its compiler, and that NVIDIA's moat comes from the massive amount of software written in CUDA, making it impossible for developers to leave NVIDIA GPUs.\n\nThis is completely wrong. It's an incredibly naive understanding of CUDA.\n\nTo me, CUDA is everything NVIDIA does.\n\nCUDA isn't just a language, software, or hardware architecture. It's a product defined by a unique customer experience.\n\nWhen you find GPU programming too difficult, CUDA gives you an easier way. When your GPU code isn't fast enough, NVIDIA engineers respond and help you solve it. When a handful of GPUs can no longer push your technology forward, NVIDIA has already scaled its computing platform from desktops to massive data centers. When you need more data centers than anyone else can supply, NVIDIA has already secured wafer and HBM capacity years in advance to meet your demand.\n\nThat experience is CUDA.\n\nIt's made possible by the relentless, day-to-day work of everyone at NVIDIA. And the person who brings all these people together, who gives them a shared vision and purpose, is Jensen Huang.\n\n2. What made CUDA possible?\n\nPatience. Perseverance. An unwavering commitment to a vision.\n\nAround 2006, NVIDIA bet that the future would demand far more computing power, and began transforming GPUs from graphics processors into a platform for general-purpose computing. Initially, it was a commercial disaster. The added costs hurt margins, the market wasn't ready, and the strategy faced enormous skepticism and pressure, including questions from the board.\n\nBut Jensen persisted.\n\nFor roughly a decade, NVIDIA kept investing in CUDA, building its hardware, software, and developer ecosystem long before the commercial payoff became clear.\n\nEventually, deep learning arrived. And NVIDIA was ready.\n\nToday, this sounds like an inspiring story. But for those who lived through it, it meant a decade of perseverance, doubt, and being misunderstood.\n\nLooking back at the history of technology, how many people could have done the same?\n\nThis is what I've always loved most about NVIDIA.\n\nAnd now, Jensen has been pushed out.\n\nThis won't kill NVIDIA. The company can still create tremendous commercial value. But it has killed NVIDIA's soul. And how far can a body go without its soul?\n\nIf this is how Jensen Huang is treated today, how will those of us who built CUDA be treated tomorrow?\n\nI love NVIDIA deeply, but I have to say it: NVIDIA is dead.",
+      "link": "https://x.com/fiigii/status/2121055679259840982#m",
+      "date": "Fri, 13 Nov 2026 01:40:55 GMT",
+      "tweet_id": "2121055679259840982",
+      "ctx_done": 1,
+      "text_zh": "每个人都认为 CUDA 是 NVIDIA 的护城河，是我们在 AI 时代保持主导地位的原因。我从来不相信这一点。\n\nNVIDIA 只有一条真正的护城河：员工。其中最重要的是黄仁勋。\n\n我在 CUDA 编译器、库和 DSL 方面工作了八年，从 Volta 到 Rubin。我认为我已经获得了分享我对 NVIDIA 护城河到底是什么的看法的权利。我希望你能容忍我。\n\n1.什么是CUDA？\n\n很多人认为CUDA只是一种编程语言及其编译器，而NVIDIA的护城河来自于用CUDA编写的海量软件，让开发者无法离开NVIDIA GPU。\n\n这是完全错误的。这是对 CUDA 的极其幼稚的理解。\n\n对我来说，CUDA 就是 NVIDIA 所做的一切。\n\nCUDA 不仅仅是一种语言、软件或硬件架构。这是一款由独特的客户体验定义的产品。\n\n当您发现 GPU 编程太困难时，CUDA 为您提供了一种更简单的方法。当您的 GPU 代码不够快时，NVIDIA 工程师会做出响应并帮助您解决问题。当少数 GPU 无法再推动您的技术进步时，NVIDIA 已将其计算平台从台式机扩展到大型数据中心。当您需要比其他任何人都能提供的更多数据中心时，NVIDIA 已经提前数年确保了晶圆和 HBM 产能，以满足您的需求。\n\n这种体验就是 CUDA。\n\n这是 NVIDIA 每个人坚持不懈的日常工作才得以实现的。而将所有这些人聚集在一起、赋予他们共同愿景和目标的人就是黄仁勋。\n\n2. 是什么让 CUDA 成为可能？\n\n耐心。毅力。对愿景坚定不移的承诺。\n\n2006 年左右，NVIDIA 押注未来将需要更多的计算能力，并开始将 GPU 从图形处理器转变为通用计算平台。最初，这是一场商业灾难。增加的成本损害了利润率，市场还没有准备好，该战略面临着巨大的怀疑和压力，包括来自董事会的质疑。\n\n但詹森坚持了下来。\n\n大约十年来，早在商业回报变得清晰之前，NVIDIA 就一直对 CUDA 进行投资，构建其硬件、软件和开发者生态系统。\n\n最终，深度学习到来了。 NVIDIA 已做好准备。\n\n今天，这听起来像是一个鼓舞人心的故事。但对于那些经历过它的人来说，这意味着十年的坚持、怀疑和被误解。\n\n回顾科技发展史，有多少人能做到同样的事情呢？\n\n这就是我一直最喜欢 NVIDIA 的一点。\n\n而现在，Jensen已经被赶了出去。\n\n这不会杀死 NVIDIA。公司仍能创造巨大的商业价值。但它却扼杀了NVIDIA的灵魂。没有灵魂的身体能走多远？\n\n如果黄仁勋今天受到这样的待遇，那么我们这些构建 CUDA 的人明天又会受到怎样的待遇呢？\n\n我深爱NVIDIA，但我不得不说：NVIDIA已经死了。"
+    },
+    {
+      "text": "Sam Altman 有问题，Ilya 的材料详实有据，最终结局却是 Sam 推翻了董事会；Jensen 仅仅是私德问题，最终却依然是董事会推翻了 Jensen。\n\n英伟达是一家 60 个 VP/SVP/EVP 向 CEO 汇报的公司。NVIDIA 核心员工应该发起集体签名，NVIDIA is nothing without Jensen’s leadership.",
+      "link": "https://x.com/ChrisZheng001/status/2120894931233656971#m",
+      "date": "Thu, 12 Nov 2026 15:02:10 GMT",
+      "tweet_id": "2120894931233656971",
+      "ctx_done": 1,
+      "text_zh": "Sam Altman 有问题，Ilya 的材料详实有据，最终结局却是 Sam 推翻了董事会；Jensen 仅仅是私德问题，最终却依然是董事会推翻了 Jensen。\n\n英伟达是一家 60 个 VP/SVP/EVP 向 CEO 汇报的公司。NVIDIA 核心员工应该发起集体签名，NVIDIA is nothing without Jensen’s leadership."
+    },
+    {
+      "text": "This country doesn't deserve Jensen",
+      "link": "https://x.com/LiangchenLuo/status/2120893382637863135#m",
+      "date": "Thu, 12 Nov 2026 14:56:01 GMT",
+      "tweet_id": "2120893382637863135",
+      "ctx_done": 1,
+      "text_zh": "这个国家不值得詹森"
+    },
+    {
+      "text": "Steve Jobs、Travis Kalanick、Jensen Huang、Elon Musk，你没法用职业经理人强行取代一直战争模式的创始人。",
+      "link": "https://x.com/ChrisZheng001/status/2120797419046867297#m",
+      "date": "Thu, 12 Nov 2026 08:34:41 GMT",
+      "tweet_id": "2120797419046867297",
+      "quoted": {
+        "user": "naval",
+        "text": "You’d think we’d have learned from Steve Jobs and Travis Kalanick that one does not just simply replace the founder…",
+        "text_zh": "你可能认为我们会从史蒂夫·乔布斯和特拉维斯·卡兰尼克那里学到，一个人不仅仅是取代创始人……"
+      },
+      "ctx_done": 1,
+      "text_zh": "Steve Jobs、Travis Kalanick、Jensen Huang、Elon Musk，你没法用职业经理人强行取代一直战争模式的创始人。"
+    },
+    {
+      "text": "如果最讽刺也最不可能的结果真的发生， Elon 可以把 Terafab 交给 Jensen，他自己手里仍有 Optimus、CyberCab、Starlink、星舰以及两个 100 GW 级别的太阳能工厂。\n\n这个组合如何？",
+      "link": "https://x.com/ChrisZheng001/status/2120663469490049499#m",
+      "date": "Wed, 11 Nov 2026 23:42:25 GMT",
+      "tweet_id": "2120663469490049499",
+      "ctx_done": 1,
+      "text_zh": "如果最讽刺也最不可能的结果真的发生， Elon 可以把 Terafab 交给 Jensen，他自己手里仍有 Optimus、CyberCab、Starlink、星舰以及两个 100 GW 级别的太阳能工厂。\n\n这个组合如何？"
+    },
     {
       "text": "哦...学到了。。还有执行全球抽奖交付的代理公司，这么看全球平台抽奖确实综合成本（不仅指物流成本）更高一些。",
       "link": "https://x.com/ChrisZheng001/status/2120090272801714232#m",
@@ -161,7 +219,7 @@
       "text_zh": "这背后是一个重大的产品理念的分歧：这个产品的终点是「驾驶 Agent」还是辅助驾驶员的「Co-work Agent」。最早的特斯拉 Autopilot 就不支持驾驶员接管 - 系统 hold - 自动恢复，德系都支持。特斯拉的产品理念边界清晰，要么人驾驶，要么 Agent 驾驶，没有合作，没有辅助。\nVideo"
     },
     {
-      "text": "不算厂房、电力，只算计算系统耗资大约 800 亿美元左右，按照 FP8 稠密计算等效 300 万张 H100...\n\n\nElon Musk (@elonmusk)\n\nThere will be a total of around 1.2M Blackwells at Colossus 2 by end of year\n\n\n\n— http://nitter.mizuki.st/elonmusk/status/2116596535433871630#m",
+      "text": "不算厂房、电力，只算计算系统耗资大约 800 亿美元左右，按照 FP8 稠密计算等效 300 万张 H100...\n\n\nElon Musk (@elonmusk)\n\nThere will be a total of around 1.2M Blackwells at Colossus 2 by end of year\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2116596535433871630#m",
       "link": "https://x.com/ChrisZheng001/status/2116713568217485323#m",
       "date": "Sun, 01 Nov 2026 02:06:55 GMT",
       "tweet_id": "2116713568217485323",
