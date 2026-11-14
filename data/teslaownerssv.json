@@ -1,8 +1,739 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-13T21:22:53Z",
+  "updated_at": "2026-11-14T05:51:58Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to. https://t.co/kmrXpnMLZn",
+      "link": "https://x.com/teslaownersSV/status/2121479296556662961",
+      "date": "Sat Nov 14 05:44:14 +0000 2026",
+      "tweet_id": "2121479296556662961",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121479200859475968/vid/avc1/1080x1920/Fpezgi88zMw0mE-V.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121479200859475968/img/pI2DqiGK5CdPb_25.jpg",
+          "local": "2121479296556662961_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121479200859475968/vid/avc1/1080x1920/Fpezgi88zMw0mE-V.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121479200859475968/img/pI2DqiGK5CdPb_25.jpg",
+          "local": "2121479296556662961_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "一辆没有方向盘的汽车售价 29,990 美元。我浏览了特斯拉的 Cyber​​cab 订单页面，所以您不必这样做。 https://t.co/kmrXpnMLZn"
+    },
+    {
+      "text": "Hey @bot, you need more guardrails around disk space? The bots shouldn’t stop working at full disk capacity. I’ve set up a bot but it didn’t stop it from getting full. @elonmusk @mattyp",
+      "link": "https://x.com/teslaownersSV/status/2121464413551268247",
+      "date": "Sat Nov 14 04:45:05 +0000 2026",
+      "tweet_id": "2121464413551268247",
+      "ctx_done": 1,
+      "text_zh": "嘿@bot，您需要在磁盘空间周围设置更多护栏吗？机器人不应停止以满磁盘容量工作。我已经设置了一个机器人，但它并没有阻止它变满。 @elonmusk @mattyp"
+    },
+    {
+      "text": "Farzad needs to shave his head",
+      "link": "https://x.com/teslaownersSV/status/2121462515930693963",
+      "date": "Sat Nov 14 04:37:33 +0000 2026",
+      "tweet_id": "2121462515930693963",
+      "quoted": {
+        "user": "farzyness",
+        "text": "Ok I officially retract my steering wheel and pedals hypothesis.\n\nY’all won.\n\nThe bastards are actually doing it.",
+        "text_zh": "好吧，我正式收回我的方向盘和踏板假设。\n\n你们都赢了。\n\n混蛋们确实在这么做。"
+      },
+      "ctx_done": 1,
+      "text_zh": "法扎德需要剃光头"
+    },
+    {
+      "text": "RT @Newsforce: ELON MUSK EXTENDS CYBERTRUCK PRODUCTION AFTER TESLA COMMUNITY BACKLASH | THE STACK\n\n“This is not the smartest move from a pr…",
+      "link": "https://x.com/teslaownersSV/status/2121458737617723667",
+      "date": "Sat Nov 14 04:22:32 +0000 2026",
+      "tweet_id": "2121458737617723667",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2121458737617723667q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：在特斯拉社区强烈反对后，埃隆·马斯克扩大了 CYBERTRUCK 的生产 |堆栈\n\n“这不是公关中最明智的举动……"
+    },
+    {
+      "text": "ELON MUSK EXTENDS CYBERTRUCK PRODUCTION AFTER TESLA COMMUNITY BACKLASH | THE STACK\n\n“This is not the smartest move from a profit-maximizing standpoint, by the way, but there must be some room in this world for sentimentality, or what's the point?”\n\nJohn Stringer (@teslaownersSV) https://t.co/oCzP6vRo7r",
+      "link": "https://x.com/Newsforce/status/2121456840697602132",
+      "date": "Sat Nov 14 04:15:00 +0000 2026",
+      "tweet_id": "2121456840697602132",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121275945076035585/vid/avc1/1920x1080/KUBGSW9_VkF-HTZk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121275945076035585/img/st9YVxgjuLf7CDsJ.jpg",
+          "local": "2121456840697602132_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121275945076035585/vid/avc1/1920x1080/KUBGSW9_VkF-HTZk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121275945076035585/img/st9YVxgjuLf7CDsJ.jpg",
+          "local": "2121456840697602132_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2121456840697602132q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "在特斯拉社区强烈反对后，埃隆·马斯克扩大了赛博卡车的生产堆栈\n\n“顺便说一句，从利润最大化的角度来看，这不是最明智的举动，但这个世界上一定有感伤的空间，否则有什么意义呢？”\n\n约翰·斯金格 (@teslaownersSV) https://t.co/oCzP6vRo7r"
+    },
+    {
+      "text": "All 26 Starlink V3 satellites are in orbit after Day 1 of Starship Flight 15. \n\nLiftoff from Pad 2, Max Q, hot staging, Super Heavy splashdown in the Gulf, orbit insertion and payload deploy. \n\nStarship now coasts about 21 hours in orbit. https://t.co/GozHLfExyO",
+      "link": "https://x.com/teslaownersSV/status/2121451211132203360",
+      "date": "Sat Nov 14 03:52:38 +0000 2026",
+      "tweet_id": "2121451211132203360",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121451127837540352/vid/avc1/1920x1080/_SlD3lllqkd8ZEr5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121451127837540352/img/uoKB6shY6FPPuKpm.jpg",
+          "local": "2121451211132203360_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121451127837540352/vid/avc1/1920x1080/_SlD3lllqkd8ZEr5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121451127837540352/img/uoKB6shY6FPPuKpm.jpg",
+          "local": "2121451211132203360_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰第 15 次飞行的第一天后，所有 26 颗星链 V3 卫星均进入轨道。 \n\n从 2 号发射台升空、Max Q、热升级、超重型在海湾溅落、轨道插入和有效载荷部署。 \n\n星舰现在在轨道上滑行约 21 小时。 https://t.co/GozHLfExyO"
+    },
+    {
+      "text": "Launch and landing, side by side, on Starship Flight 15. \n\nSuper Heavy leaves Pad 2 at Starbase, then lights its landing burn and splashes down in the Gulf instead of a tower catch. https://t.co/mRZsfybL4q",
+      "link": "https://x.com/teslaownersSV/status/2121449615748993217",
+      "date": "Sat Nov 14 03:46:17 +0000 2026",
+      "tweet_id": "2121449615748993217",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121449590973169664/vid/avc1/1920x1080/yns6YNz_MSz-YmT3.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121449590973169664/img/JqrwZ-qE9e7G6pIH.jpg",
+          "local": "2121449615748993217_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121449590973169664/vid/avc1/1920x1080/yns6YNz_MSz-YmT3.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121449590973169664/img/JqrwZ-qE9e7G6pIH.jpg",
+          "local": "2121449615748993217_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "在 Starship Flight 15 上并排发射和着陆。 \n\n超级重型将 2 号基地留在 Starbase，然后点燃着陆燃烧器并溅入海湾，而不是被塔捕获。 https://t.co/mRZsfybL4q"
+    },
+    {
+      "text": "Lex Fridman to @elonmusk : \"One of the things you do for me, for the world, is to inspire us with what the future could be.\" \n\nNeuralink is that future. https://t.co/Kc94Zs1pR4",
+      "link": "https://x.com/teslaownersSV/status/2121445667285746145",
+      "date": "Sat Nov 14 03:30:36 +0000 2026",
+      "tweet_id": "2121445667285746145",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121445631273398272/vid/avc1/1920x1080/-pYPx22SHmZUlo8L.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121445631273398272/img/nWmss1DIkD2hx7sL.jpg",
+          "local": "2121445667285746145_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121445631273398272/vid/avc1/1920x1080/-pYPx22SHmZUlo8L.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121445631273398272/img/nWmss1DIkD2hx7sL.jpg",
+          "local": "2121445667285746145_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Lex Fridman 对 @elonmusk 说：“你为我、为世界所做的事情之一，就是激励我们了解未来。” \n\nNeuralink 就是这样的未来。 https://t.co/Kc94Zs1pR4"
+    },
+    {
+      "text": "RT @Newsforce: TESLA CYBERTRUCK OWNERS DEFEND THE POLARIZING ELECTRIC PICKUP | THE STACK\n\n“It is literally the best vehicle I've ever drive…",
+      "link": "https://x.com/teslaownersSV/status/2121442004668407897",
+      "date": "Sat Nov 14 03:16:03 +0000 2026",
+      "tweet_id": "2121442004668407897",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2121442004668407897q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：特斯拉赛博卡车车主捍卫极化电动皮卡 |堆栈\n\n“这确实是我驾驶过的最好的车辆......"
+    },
+    {
+      "text": "TESLA CYBERTRUCK OWNERS DEFEND THE POLARIZING ELECTRIC PICKUP | THE STACK\n\n“It is literally the best vehicle I've ever driven.”\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss the Cybertruck's mixed reception, with owners praising its off-road https://t.co/yBQQJJRQo9",
+      "link": "https://x.com/Newsforce/status/2121441741240734120",
+      "date": "Sat Nov 14 03:15:00 +0000 2026",
+      "tweet_id": "2121441741240734120",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121274657823223808/vid/avc1/1920x1080/77ZYRs2xEMZSdblQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121274657823223808/img/fA0gBNL7j3VFxaas.jpg",
+          "local": "2121441741240734120_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121274657823223808/vid/avc1/1920x1080/77ZYRs2xEMZSdblQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121274657823223808/img/fA0gBNL7j3VFxaas.jpg",
+          "local": "2121441741240734120_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2121441741240734120q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉赛博卡车车主捍卫偏光电动皮卡堆栈\n\n“这确实是我驾驶过的最好的车辆。”\n\n约翰·斯金格 (@teslaownersSV) 和约瑟夫·杰斐逊 (@SjvTesla) 讨论了 Cyber​​truck 的褒贬不一，车主称赞其越野能力 https://t.co/yBQQJJRQo9"
+    },
+    {
+      "text": "RT @MattHolm3: Cybercab ordered! https://t.co/d4hFpuUApy",
+      "link": "https://x.com/teslaownersSV/status/2121441472289628400",
+      "date": "Sat Nov 14 03:13:56 +0000 2026",
+      "tweet_id": "2121441472289628400",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121403009934503936/vid/avc1/1080x1920/DJyL2D_EcY2-ZGsU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121403009934503936/img/BaNF9t6BuNVE-18t.jpg",
+          "local": "2121441472289628400_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121403009934503936/vid/avc1/1080x1920/DJyL2D_EcY2-ZGsU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121403009934503936/img/BaNF9t6BuNVE-18t.jpg",
+          "local": "2121441472289628400_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @MattHolm3：已订购 Cyber​​cab！ https://t.co/d4hFpuUApy"
+    },
+    {
+      "text": "RT @Newsforce: TESLA SELF-DRIVING COULD BE 7 TIMES SAFER THAN HUMAN DRIVERS | THE STACK\n\n“It's not something that gets tired. It's not some…",
+      "link": "https://x.com/teslaownersSV/status/2121427922154311841",
+      "date": "Sat Nov 14 02:20:05 +0000 2026",
+      "tweet_id": "2121427922154311841",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2121427922154311841q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：特斯拉自动驾驶可能比人类驾驶员安全 7 倍 |堆栈\n\n“这不是让人感到疲倦的事情。这不是一些......"
+    },
+    {
+      "text": "TESLA SELF-DRIVING COULD BE 7 TIMES SAFER THAN HUMAN DRIVERS | THE STACK\n\n“It's not something that gets tired. It's not something that gets drunk. It's not something that gets frustrated or mad.”\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss Tesla's https://t.co/sKADL1kLQ7",
+      "link": "https://x.com/Newsforce/status/2121426641679216701",
+      "date": "Sat Nov 14 02:15:00 +0000 2026",
+      "tweet_id": "2121426641679216701",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121274350867189760/vid/avc1/1920x1080/GwIdMWJR0D-RN6uz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121274350867189760/img/_cXCL_A8kYhkW2_k.jpg",
+          "local": "2121426641679216701_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121274350867189760/vid/avc1/1920x1080/GwIdMWJR0D-RN6uz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121274350867189760/img/_cXCL_A8kYhkW2_k.jpg",
+          "local": "2121426641679216701_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2121426641679216701q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉自动驾驶比人类驾驶员安全 7 倍堆栈\n\n“这不是让人感到疲倦的东西。这不是让人喝醉的东西。这不是让人沮丧或生气的东西。”\n\n约翰·斯金格 (@teslaownersSV) 和约瑟夫·杰斐逊 (@SjvTesla) 讨论特斯拉的 https://t.co/sKADL1kLQ7"
+    },
+    {
+      "text": "RT @teslaownersSV: Tesla Cybercab Is On Sale for $29,990 w/ @futureaza https://t.co/KGD21Ucw1M",
+      "link": "https://x.com/teslaownersSV/status/2121424197390086334",
+      "date": "Sat Nov 14 02:05:17 +0000 2026",
+      "tweet_id": "2121424197390086334",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：特斯拉 Cyber​​cab 售价 29,990 美元 @futureaza https://t.co/KGD21Ucw1M"
+    },
+    {
+      "text": "Tesla Cybercab Is On Sale for $29,990 w/ @futureaza https://t.co/KGD21Ucw1M",
+      "link": "https://x.com/teslaownersSV/status/2121416555774804286",
+      "date": "Sat Nov 14 01:34:55 +0000 2026",
+      "tweet_id": "2121416555774804286",
+      "ctx_done": 1,
+      "text_zh": "Tesla Cyber​​cab 售价 29,990 美元 @futureaza https://t.co/KGD21Ucw1M"
+    },
+    {
+      "text": "Going live with @futureaza in 8 minutes. https://t.co/Wa8eAqFioE",
+      "link": "https://x.com/teslaownersSV/status/2121413480435822845",
+      "date": "Sat Nov 14 01:22:42 +0000 2026",
+      "tweet_id": "2121413480435822845",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXDGSy_asAA3l8i.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXDGSy_asAA3l8i.jpg?format=jpg&name=large",
+          "local": "2121413480435822845_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXDGSy_asAA3l8i.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXDGSy_asAA3l8i.jpg?format=jpg&name=large",
+          "local": "2121413480435822845_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "8 分钟内即可与@futureaza 一起上线。 https://t.co/Wa8eAqFioE"
+    },
+    {
+      "text": "You ready to shave your head? https://t.co/u7M9oBtJEs",
+      "link": "https://x.com/teslaownersSV/status/2121408240605131257",
+      "date": "Sat Nov 14 01:01:53 +0000 2026",
+      "tweet_id": "2121408240605131257",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXDBjUaacAEyrXl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXDBjUaacAEyrXl.jpg?format=jpg&name=large",
+          "local": "2121408240605131257_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXDBjUaacAEyrXl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXDBjUaacAEyrXl.jpg?format=jpg&name=large",
+          "local": "2121408240605131257_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "MKBHD",
+        "text": "Hm. Interesting 😅 https://t.co/zfHPewuVCy",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=large",
+            "local": "2121408240605131257q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=large",
+            "local": "2121408240605131257q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=large",
+            "local": "2121408240605131257q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=large",
+            "local": "2121408240605131257q_3.jpg"
+          }
+        ],
+        "text_zh": "嗯。有趣😅 https://t.co/zfHPewuVCy"
+      },
+      "ctx_done": 1,
+      "text_zh": "你准备好剃光头了吗？ https://t.co/u7M9oBtJEs"
+    },
+    {
+      "text": "RT @SjvTesla: Diabolical @elonmusk attacked @MKBHD on FRIDAY THE 13TH https://t.co/4zjs4IFfiI",
+      "link": "https://x.com/teslaownersSV/status/2121407374313525367",
+      "date": "Sat Nov 14 00:58:26 +0000 2026",
+      "tweet_id": "2121407374313525367",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=large",
+          "local": "2121407374313525367_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=large",
+          "local": "2121407374313525367_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Select customers are now being invited to purchase Cybercab for personal use",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig",
+            "local": "2121407374313525367q_0.jpg"
+          }
+        ],
+        "text_zh": "现邀请部分客户购买 Cyber​​cab 供个人使用"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @SjvTesla：恶魔 @elonmusk 在 13 号星期五攻击了 @MKBHD https://t.co/4zjs4IFfiI"
+    },
+    {
+      "text": "Diabolical @elonmusk attacked @MKBHD on FRIDAY THE 13TH https://t.co/4zjs4IFfiI",
+      "link": "https://x.com/SjvTesla/status/2121403262180135411",
+      "date": "Sat Nov 14 00:42:06 +0000 2026",
+      "tweet_id": "2121403262180135411",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=large",
+          "local": "2121403262180135411_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC9BaYaoAASp8Y.jpg?format=jpg&name=large",
+          "local": "2121403262180135411_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Select customers are now being invited to purchase Cybercab for personal use",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig",
+            "local": "2121403262180135411q_0.jpg"
+          }
+        ],
+        "text_zh": "现邀请部分客户购买 Cyber​​cab 供个人使用"
+      },
+      "ctx_done": 1,
+      "text_zh": "恶魔@elonmusk 在 13 号星期五攻击了 @MKBHD https://t.co/4zjs4IFfiI"
+    },
+    {
+      "text": "Cybercab ordered! https://t.co/d4hFpuUApy",
+      "link": "https://x.com/MattHolm3/status/2121403259332018338",
+      "date": "Sat Nov 14 00:42:05 +0000 2026",
+      "tweet_id": "2121403259332018338",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121403009934503936/vid/avc1/1080x1920/DJyL2D_EcY2-ZGsU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121403009934503936/img/BaNF9t6BuNVE-18t.jpg",
+          "local": "2121403259332018338_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121403009934503936/vid/avc1/1080x1920/DJyL2D_EcY2-ZGsU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121403009934503936/img/BaNF9t6BuNVE-18t.jpg",
+          "local": "2121403259332018338_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "网约车已下单！ https://t.co/d4hFpuUApy"
+    },
+    {
+      "text": "Hm. Interesting 😅 https://t.co/zfHPewuVCy",
+      "link": "https://x.com/MKBHD/status/2121401946112483519",
+      "date": "Sat Nov 14 00:36:52 +0000 2026",
+      "tweet_id": "2121401946112483519",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=large",
+          "local": "2121401946112483519_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=large",
+          "local": "2121401946112483519_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC702NX0AAv0gm.jpg?format=jpg&name=large",
+          "local": "2121401946112483519_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXC702KWQAAtLMC.jpg?format=jpg&name=large",
+          "local": "2121401946112483519_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "嗯。有趣😅 https://t.co/zfHPewuVCy"
+    },
+    {
+      "text": "In October 2024, after Tesla unveiled Cybercab, MKBHD said he would shave his head on camera if Tesla got the vehicle out for $30,000 before 2027.\n\n\"I will shave my head on camera because I'm that confident they won't do it.\"\nToday Tesla opened $29,990 Cybercab orders to select https://t.co/j8zoWyOfKV",
+      "link": "https://x.com/teslaownersSV/status/2121398726862512460",
+      "date": "Sat Nov 14 00:24:04 +0000 2026",
+      "tweet_id": "2121398726862512460",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121398673259274240/vid/avc1/1920x1080/PRZbkwP7lKJttrKM.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121398673259274240/img/pbK2d-qsJzVbiLBQ.jpg",
+          "local": "2121398726862512460_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121398673259274240/vid/avc1/1920x1080/PRZbkwP7lKJttrKM.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121398673259274240/img/pbK2d-qsJzVbiLBQ.jpg",
+          "local": "2121398726862512460_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "2024 年 10 月，特斯拉推出 Cybercab 后，MKBHD 表示，如果特斯拉在 2027 年之前以 3 万美元的价格推出这款车，他将在镜头前剃光头。\n\n“我会在镜头前剃光头，因为我确信他们不会这么做。”\n今天特斯拉开放了价值 29,990 美元的 Cyber​​cab 订单供选择 https://t.co/j8zoWyOfKV"
+    },
+    {
+      "text": "BREAKING: Tesla is now inviting select customers to order a Cybercab for personal use at $29,990. A $1,000 non-refundable deposit is due at order, and a $299/month Autonomy Subscription is required after the first month (included with purchase). \n\nDeliveries estimated for",
+      "link": "https://x.com/teslaownersSV/status/2121394464602104260",
+      "date": "Sat Nov 14 00:07:08 +0000 2026",
+      "tweet_id": "2121394464602104260",
+      "quoted": {
+        "user": "Polymarket",
+        "text": "JUST IN: Tesla begins offering its Cybercab for personal use to select customers at $29,990, with a $1,000 deposit due at order &amp; a required $299/mo subscription after the first month. https://t.co/4NQaVzR6Mz",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=large",
+            "local": "2121394464602104260q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=large",
+            "local": "2121394464602104260q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=large",
+            "local": "2121394464602104260q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=large",
+            "local": "2121394464602104260q_3.jpg"
+          }
+        ],
+        "text_zh": "刚刚：特斯拉开始向特定客户提供个人使用的 Cyber​​cab，价格为 29,990 美元，订购时需支付 1,000 美元押金，第一个月后需支付 299 美元/月的订阅费用。 https://t.co/4NQaVzR6Mz"
+      },
+      "ctx_done": 1,
+      "text_zh": "突发新闻：特斯拉现邀请部分客户订购一辆供个人使用的 Cyber​​cab，价格为 29,990 美元。订购时需支付 1,000 美元的不可退还押金，第一个月后需要每月 299 美元的 Autonomy 订阅（包含在购买中）。 \n\n预计交货量为"
+    },
+    {
+      "text": "Why selling Cybercab to individuals is a big move for Tesla:\nIt's the first car Tesla sells with no steering wheel and no pedals. Owners are buying the autonomy itself, not a car with autonomy added on.\nAt $29,990 it's cheaper than any car Tesla sells today, so many more people",
+      "link": "https://x.com/teslaownersSV/status/2121394099173687506",
+      "date": "Sat Nov 14 00:05:41 +0000 2026",
+      "tweet_id": "2121394099173687506",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?format=jpg&name=large",
+          "local": "2121394099173687506_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?format=jpg&name=large",
+          "local": "2121394099173687506_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "为什么向个人出售 Cybercab 对特斯拉来说是一个重大举措：\n这是特斯拉销售的第一款没有方向盘和踏板的汽车。车主购买的是自动驾驶本身，而不是带有自动驾驶功能的汽车。\n它的售价为 29,990 美元，比特斯拉目前销售的任何汽车都便宜，因此购买的人更多"
+    },
+    {
+      "text": "Watching the booster come into the ocean is 🤯 https://t.co/KOeYRVTQ5z",
+      "link": "https://x.com/teslaownersSV/status/2121393796089016427",
+      "date": "Sat Nov 14 00:04:29 +0000 2026",
+      "tweet_id": "2121393796089016427",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121377395911380992/vid/avc1/720x1280/EyldDWs-JToRRnNx.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121377395911380992/img/n_tBHJlGn1Gc3Nt3.jpg",
+          "local": "2121393796089016427_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121377395911380992/vid/avc1/720x1280/EyldDWs-JToRRnNx.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121377395911380992/img/n_tBHJlGn1Gc3Nt3.jpg",
+          "local": "2121393796089016427_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "看着助推器进入海洋是🤯 https://t.co/KOeYRVTQ5z"
+    },
+    {
+      "text": "RT @MattHolm3: Cybercab opening up sales! https://t.co/fEIC1fPuzS",
+      "link": "https://x.com/teslaownersSV/status/2121391220534767670",
+      "date": "Fri Nov 13 23:54:15 +0000 2026",
+      "tweet_id": "2121391220534767670",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=large",
+          "local": "2121391220534767670_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=large",
+          "local": "2121391220534767670_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=large",
+          "local": "2121391220534767670_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=large",
+          "local": "2121391220534767670_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @MattHolm3：Cyber​​cab 开放销售！ https://t.co/fEIC1fPuzS"
+    },
+    {
+      "text": "JUST IN: Tesla begins offering its Cybercab for personal use to select customers at $29,990, with a $1,000 deposit due at order &amp; a required $299/mo subscription after the first month. https://t.co/4NQaVzR6Mz",
+      "link": "https://x.com/Polymarket/status/2121390154208383290",
+      "date": "Fri Nov 13 23:50:00 +0000 2026",
+      "tweet_id": "2121390154208383290",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=large",
+          "local": "2121390154208383290_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=large",
+          "local": "2121390154208383290_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCww6eXQAMuFwk.jpg?format=jpg&name=large",
+          "local": "2121390154208383290_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCw8MuXwAAqGdW.png?format=jpg&name=large",
+          "local": "2121390154208383290_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "刚刚：特斯拉开始向特定客户提供个人使用的 Cyber​​cab，价格为 29,990 美元，订购时需支付 1,000 美元押金，第一个月后需支付 299 美元/月的订阅费用。 https://t.co/4NQaVzR6Mz"
+    },
+    {
+      "text": "Ok I officially retract my steering wheel and pedals hypothesis.\n\nY’all won.\n\nThe bastards are actually doing it.",
+      "link": "https://x.com/farzyness/status/2121384582532546875",
+      "date": "Fri Nov 13 23:27:52 +0000 2026",
+      "tweet_id": "2121384582532546875",
+      "ctx_done": 1,
+      "text_zh": "好吧，我正式收回我的方向盘和踏板假设。\n\n你们都赢了。\n\n混蛋们确实在这么做。"
+    },
+    {
+      "text": "Cybercab opening up sales! https://t.co/fEIC1fPuzS",
+      "link": "https://x.com/MattHolm3/status/2121374384178758102",
+      "date": "Fri Nov 13 22:47:21 +0000 2026",
+      "tweet_id": "2121374384178758102",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=large",
+          "local": "2121374384178758102_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=large",
+          "local": "2121374384178758102_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoDWMAA59EM.jpg?format=jpg&name=large",
+          "local": "2121374384178758102_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXCiwoEXQAARmLf.jpg?format=jpg&name=large",
+          "local": "2121374384178758102_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Cyber​​cab 开放销售！ https://t.co/fEIC1fPuzS"
+    },
     {
       "text": "Thank you @XCreators for inviting me to the 𝕏 Creator event in SF. https://t.co/5TKzsnkGRB",
       "link": "https://x.com/teslaownersSV/status/2121327554435199069",
@@ -3359,605 +4090,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "特斯拉拥有激光雨刷器专利，不是清洁整个挡风玻璃，而是清洁自动摄像头前面的区域。\n\n“我们拥有激光雨刷器的专利。”\n- Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：杰·雷诺的车库\nhttps://t.co/dbkzJ6pT5G https://t.co/2923SfF9MA"
-    },
-    {
-      "text": "The new Model Y L is in self-driving, hands off, and the car pulls over for an ambulance coming the other way.\n\n\"Here's a good test. Ambulance coming the other way and the car is pulling over.\"\n- Jay Leno, with Lars Moravy\n\nCredit: Jay Leno's Garage\nhttps://t.co/dbkzJ6pT5G https://t.co/RvrH6ppySp",
-      "link": "https://x.com/teslaownersSV/status/2119961675373937014",
-      "date": "Tue Nov 10 01:13:45 +0000 2026",
-      "tweet_id": "2119961675373937014",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119961622433452032/vid/avc1/1920x1080/r24oXR4g7BcvqHxI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119961622433452032/img/xnyPP5maCIbZJ6Zw.jpg",
-          "local": "2119961675373937014_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119961622433452032/vid/avc1/1920x1080/r24oXR4g7BcvqHxI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119961622433452032/img/xnyPP5maCIbZJ6Zw.jpg",
-          "local": "2119961675373937014_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新款 Model Y L 处于自动驾驶状态，无需干预，汽车会靠边停车，等待对面驶来的救护车。\n\n“这是一个很好的测试。救护车从另一个方向驶来，汽车靠边停车。”\n- 杰·雷诺 (Jay Leno) 和拉斯·莫拉维 (Lars Moravy)\n\n图片来源：杰·雷诺的车库\nhttps://t.co/dbkzJ6pT5G https://t.co/RvrH6ppySp"
-    },
-    {
-      "text": "Tesla Model Y L uses in-cabin radar plus seat sensors and a cabin camera to tell a real person from a bag of cement, and to spot a child or pet left in the second row.\n\n\"We put on the safety alerts to let you know.\"\n- Lars Moravy, Tesla VP of Vehicle Engineering, with Jay Leno https://t.co/zeHXG3cx4a",
-      "link": "https://x.com/teslaownersSV/status/2119961197470683557",
-      "date": "Tue Nov 10 01:11:51 +0000 2026",
-      "tweet_id": "2119961197470683557",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119961006436917248/vid/avc1/1920x1080/vW326SK7W4SmofQE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119961006436917248/img/HPdmrLnEU0Z6VVY3.jpg",
-          "local": "2119961197470683557_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119961006436917248/vid/avc1/1920x1080/vW326SK7W4SmofQE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119961006436917248/img/HPdmrLnEU0Z6VVY3.jpg",
-          "local": "2119961197470683557_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "特斯拉 Model Y L 使用车内雷达、座椅传感器和车内摄像头来区分真人和一袋水泥，并发现留在第二排的儿童或宠物。\n\n“我们发布了安全警报，让您知道。”\n- Lars Moravy，特斯拉车辆工程副总裁，与 Jay Leno https://t.co/zeHXG3cx4a"
-    },
-    {
-      "text": "Elon says you're already a cyborg. Your phone is the proof.\n\n@elonmusk at Neuralink's Summer 2025 update:\n\n\"So people actually are already a cyborg.\"\nHis test: notice how much you miss your phone when you leave it behind. The bottleneck is the connection: \"A human bandwidth https://t.co/YqsMTZHVe0",
-      "link": "https://x.com/teslaownersSV/status/2119954842127143002",
-      "date": "Tue Nov 10 00:46:35 +0000 2026",
-      "tweet_id": "2119954842127143002",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119954813131923456/vid/avc1/1920x1080/bfnPJnpPE2vv2oDd.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119954813131923456/img/jn2DPBkIOeYeVWCM.jpg",
-          "local": "2119954842127143002_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119954813131923456/vid/avc1/1920x1080/bfnPJnpPE2vv2oDd.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119954813131923456/img/jn2DPBkIOeYeVWCM.jpg",
-          "local": "2119954842127143002_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆说你已经是一个机器人了。你的手机就是证据。\n\n@elonmusk 在 Neuralink 的 2025 年夏季更新中：\n\n“所以人们实际上已经是一个赛博格了。”\n他的测试是：注意当你忘记手机时，你有多么想念它。瓶颈是连接：“人类带宽 https://t.co/YqsMTZHVe0"
-    },
-    {
-      "text": "Elon Musk in 1999, standing in the street while a $1 million McLaren F1 comes off a delivery truck, right after selling his first company.\n\nCompaq had just bought Zip2, the startup he and his brother Kimbal began in 1995, for $307 million in cash. Elon's share was $22 million. https://t.co/mbGtBdaOfw",
-      "link": "https://x.com/teslaownersSV/status/2119942454086656016",
-      "date": "Mon Nov 09 23:57:22 +0000 2026",
-      "tweet_id": "2119942454086656016",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119942424990814208/vid/avc1/1080x1350/fqFS7vi_Am8c7KcA.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119942424990814208/img/0OhSH7BMONRxl7pq.jpg",
-          "local": "2119942454086656016_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119942424990814208/vid/avc1/1080x1350/fqFS7vi_Am8c7KcA.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119942424990814208/img/0OhSH7BMONRxl7pq.jpg",
-          "local": "2119942454086656016_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "1999 年，埃隆·马斯克 (Elon Musk) 站在街上，一辆价值 100 万美元的迈凯伦 F1 从运货卡车上卸下，当时他刚卖掉了自己的第一家公司。\n\n康柏刚刚以 3.07 亿美元现金收购了他和兄弟 Kimbal 于 1995 年创办的初创公司 Zip2。埃隆的份额为 2200 万美元。 https://t.co/mbGtBdaOfw"
-    },
-    {
-      "text": "We’re excited to be at RE+ this year - stop by our booth to experience our latest product features like Powershare - redefining the residential energy ecosystem and what’s possible for homes, vehicles, and the grid.",
-      "link": "https://x.com/colby_energy/status/2119937338885513657",
-      "date": "Mon Nov 09 23:37:02 +0000 2026",
-      "tweet_id": "2119937338885513657",
-      "quoted": {
-        "user": "teslaenergy",
-        "text": "Join us at @REPlusEvents in Las Vegas",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?name=orig",
-            "local": "2119937338885513657q_0.jpg"
-          }
-        ],
-        "text_zh": "加入我们在拉斯维加斯的@REPlusEvents"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们很高兴今年能参加 RE+ - 请前往我们的展位体验我们最新的产品功能，例如 Powershare - 重新定义住宅能源生态系统以及家庭、车辆和电网的可能性。"
-    },
-    {
-      "text": "Starship is the vehicle to making us multi planetary. https://t.co/MDzc5nwfeE",
-      "link": "https://x.com/teslaownersSV/status/2119934056204996616",
-      "date": "Mon Nov 09 23:24:00 +0000 2026",
-      "tweet_id": "2119934056204996616",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119933989846982656/vid/avc1/1080x1920/1Tt01L5oR3yb8OIi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119933989846982656/img/9ihTVfJrRmdfr4i2.jpg",
-          "local": "2119934056204996616_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119933989846982656/vid/avc1/1080x1920/1Tt01L5oR3yb8OIi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119933989846982656/img/9ihTVfJrRmdfr4i2.jpg",
-          "local": "2119934056204996616_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星际飞船是让我们进入多行星的交通工具。 https://t.co/MDzc5nwfeE"
-    },
-    {
-      "text": "RT @navierboat: We had a blast with @teslaownersSV! Great video 🚀🌊",
-      "link": "https://x.com/teslaownersSV/status/2119922409608479139",
-      "date": "Mon Nov 09 22:37:43 +0000 2026",
-      "tweet_id": "2119922409608479139",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "I rode the @navierboat electric hydrofoil out with Sandy Munro. It lifts above the water, glides over wakes, and uses NACS charging. This is a different kind of electric ride. @sampritibh \n\nWatch our full ride: Navier electric hydrofoil\n\n0:00 Intro\n0:25 First impressions\n0:35 What makes Navier different\n1:08 Battery size and range\n1:50 Mid-lake boat transfer\n2:45 Inside the cabin and bow\n3:50 Lifting onto the hydrofoils\n5:22 Drone footage over the water\n6:38 NACS charging discussion\n7:53 Sandy Munro’s review\n9:35 Guest reactions\n10:38 Smooth, quiet and electric\n11:00 Final guest reaction",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119639379266420736/img/imdStnwfQTMl80MS.jpg",
-            "local": "2119922409608479139q_0.jpg"
-          }
-        ],
-        "text_zh": "我和 Sandy Munro 一起骑着 @navierboat 电动水翼船出去。它升出水面，在尾流上滑行，并使用 NACS 充电。这是一种不同类型的电动游乐设施。 @sampritibh \n\n观看我们的完整旅程：Navier 电动水翼艇\n\n0:00 介绍\n0:25 第一印象\n0:35 是什么让纳维尔与众不同\n1:08 电池尺寸和范围\n1:50 湖心游船接送\n2:45 船舱内并鞠躬\n3:50 提升到水翼上\n5:22 无人机在水面上拍摄的镜头\n6:38 NACS充电讨论\n7:53 桑迪·芒罗的评论\n9:35 嘉宾反应\n10:38 平稳、安静、电动\n11:00 最后嘉宾反应"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @navierboat：我们和@teslaownersSV 玩得很开心！很棒的视频🚀🌊"
-    },
-    {
-      "text": "We had a blast with @teslaownersSV! Great video 🚀🌊",
-      "link": "https://x.com/navierboat/status/2119922252510830647",
-      "date": "Mon Nov 09 22:37:05 +0000 2026",
-      "tweet_id": "2119922252510830647",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "I rode the @navierboat electric hydrofoil out with Sandy Munro. It lifts above the water, glides over wakes, and uses NACS charging. This is a different kind of electric ride. @sampritibh \n\nWatch our full ride: Navier electric hydrofoil\n\n0:00 Intro\n0:25 First impressions\n0:35 What makes Navier different\n1:08 Battery size and range\n1:50 Mid-lake boat transfer\n2:45 Inside the cabin and bow\n3:50 Lifting onto the hydrofoils\n5:22 Drone footage over the water\n6:38 NACS charging discussion\n7:53 Sandy Munro’s review\n9:35 Guest reactions\n10:38 Smooth, quiet and electric\n11:00 Final guest reaction",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119639379266420736/img/imdStnwfQTMl80MS.jpg",
-            "local": "2119922252510830647q_0.jpg"
-          }
-        ],
-        "text_zh": "我和 Sandy Munro 一起骑着 @navierboat 电动水翼船出去。它升出水面，在尾流上滑行，并使用 NACS 充电。这是一种不同类型的电动游乐设施。 @sampritibh \n\n观看我们的完整旅程：Navier 电动水翼艇\n\n0:00 介绍\n0:25 第一印象\n0:35 是什么让纳维尔与众不同\n1:08 电池尺寸和范围\n1:50 湖心游船接送\n2:45 船舱内并鞠躬\n3:50 提升到水翼上\n5:22 无人机在水面上拍摄的镜头\n6:38 NACS充电讨论\n7:53 桑迪·芒罗的评论\n9:35 嘉宾反应\n10:38 平稳、安静、电动\n11:00 最后嘉宾反应"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们和@teslaownersSV 玩得很开心！很棒的视频🚀🌊"
-    },
-    {
-      "text": "Roadster is the best manually driven car Ever to be made https://t.co/vQzlk98he5",
-      "link": "https://x.com/teslaownersSV/status/2119921310801568069",
-      "date": "Mon Nov 09 22:33:21 +0000 2026",
-      "tweet_id": "2119921310801568069",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119921269231747072/vid/avc1/1080x1920/-bi1HAqLqr3lwTh8.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119921269231747072/img/sIT-kGLloEZUChqS.jpg",
-          "local": "2119921310801568069_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119921269231747072/vid/avc1/1080x1920/-bi1HAqLqr3lwTh8.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119921269231747072/img/sIT-kGLloEZUChqS.jpg",
-          "local": "2119921310801568069_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Roadster 是有史以来最好的手动驾驶汽车 https://t.co/vQzlk98he5"
-    },
-    {
-      "text": "Walking into the future like https://t.co/9jbBv0r5x1",
-      "link": "https://x.com/teslaownersSV/status/2119912164911948185",
-      "date": "Mon Nov 09 21:57:00 +0000 2026",
-      "tweet_id": "2119912164911948185",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119912118065700864/vid/avc1/1080x1920/IgswqfzIn9WjiRIY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119912118065700864/img/ADERNbdJG9gUAHs1.jpg",
-          "local": "2119912164911948185_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119912118065700864/vid/avc1/1080x1920/IgswqfzIn9WjiRIY.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119912118065700864/img/ADERNbdJG9gUAHs1.jpg",
-          "local": "2119912164911948185_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "像 https://t.co/9jbBv0r5x1 一样走进未来"
-    },
-    {
-      "text": "RT @elonmusk: Gwynne is great",
-      "link": "https://x.com/teslaownersSV/status/2119909788046008518",
-      "date": "Mon Nov 09 21:47:34 +0000 2026",
-      "tweet_id": "2119909788046008518",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "\"That's the man (@elonmusk I've worked for for 24 years. I love him.\"\nGwynne Shotwell",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
-            "local": "2119909788046008518q_0.jpg"
-          }
-        ],
-        "text_zh": "“就是这个人（@elonmusk，我为他工作了 24 年。我爱他。”\n格温·肖特韦尔"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @elonmusk：格温很棒"
-    },
-    {
-      "text": "Gwynne is great",
-      "link": "https://x.com/elonmusk/status/2119909709197279420",
-      "date": "Mon Nov 09 21:47:15 +0000 2026",
-      "tweet_id": "2119909709197279420",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "\"That's the man (@elonmusk I've worked for for 24 years. I love him.\"\nGwynne Shotwell",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
-            "local": "2119909709197279420q_0.jpg"
-          }
-        ],
-        "text_zh": "“就是这个人（@elonmusk，我为他工作了 24 年。我爱他。”\n格温·肖特韦尔"
-      },
-      "ctx_done": 1,
-      "text_zh": "格温很棒"
-    },
-    {
-      "text": "RT @TeslaOwners_JP: 【X-Takeover Japan 2026｜出展企業紹介】\nテスラジャパン\n\nテスラジャパンが出展！EVとともに暮らす楽しさや、これからの可能性に触れる機会をお届けします。展示内容の詳細は今後ご案内します。\n\n公式サイト：https:/…",
-      "link": "https://x.com/teslaownersSV/status/2119904229716537429",
-      "date": "Mon Nov 09 21:25:28 +0000 2026",
-      "tweet_id": "2119904229716537429",
-      "ctx_done": 1,
-      "text_zh": "RT @TeslaOwners_JP：[X-接管日本 2026 |展商公司介绍】\n特斯拉日本\n\n特斯拉日本参展！我们将为您提供体验电动汽车生活的乐趣和未来可能性的机会。展览内容详情将于日后公布。\n\n官方网站：https://..."
-    },
-    {
-      "text": "Thank God the Tesla Cybertruck is ending https://t.co/v16TJvKhkM",
-      "link": "https://x.com/teslaownersSV/status/2119903749644882247",
-      "date": "Mon Nov 09 21:23:34 +0000 2026",
-      "tweet_id": "2119903749644882247",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119903596095651840/vid/avc1/1080x1920/mFa0HpkAYvovHG1O.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119903596095651840/img/r_3uFs-3l9dLculy.jpg",
-          "local": "2119903749644882247_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119903596095651840/vid/avc1/1080x1920/mFa0HpkAYvovHG1O.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119903596095651840/img/r_3uFs-3l9dLculy.jpg",
-          "local": "2119903749644882247_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "感谢上帝，特斯拉赛博卡车即将结束 https://t.co/v16TJvKhkM"
-    },
-    {
-      "text": "People will say this is AI  https://t.co/sH4WNiNAfA",
-      "link": "https://x.com/teslaownersSV/status/2119902568839295023",
-      "date": "Mon Nov 09 21:18:52 +0000 2026",
-      "tweet_id": "2119902568839295023",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=large",
-          "local": "2119902568839295023_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWsjT_FaUAAH0YG.jpg?format=jpg&name=large",
-          "local": "2119902568839295023_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "人们会说这是人工智能 https://t.co/sH4WNiNAfA"
-    },
-    {
-      "text": "RT @ToscaMusk: Thursday",
-      "link": "https://x.com/teslaownersSV/status/2119902427243839615",
-      "date": "Mon Nov 09 21:18:19 +0000 2026",
-      "tweet_id": "2119902427243839615",
-      "quoted": {
-        "user": "PassionFlix",
-        "text": "This week on The Black Dagger Brotherhood...\nEpisode 3 premieres Thursday, only on Passionflix.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119427119667105792/img/nCmf7xjCXDlsQ4sz.jpg",
-            "local": "2119902427243839615q_0.jpg"
-          }
-        ],
-        "text_zh": "本周《黑匕首兄弟会》...\n第三集周四首播，仅在 Passionflix 上播出。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @ToscaMusk：周四"
-    },
-    {
-      "text": "RT @XanderSky: thank you @mayemusk for inspiring my super talented wife https://t.co/rFH7WqysXJ",
-      "link": "https://x.com/teslaownersSV/status/2119902329294278776",
-      "date": "Mon Nov 09 21:17:55 +0000 2026",
-      "tweet_id": "2119902329294278776",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
-          "local": "2119902329294278776_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
-          "local": "2119902329294278776_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
-          "local": "2119902329294278776_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
-          "local": "2119902329294278776_3.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "RT @XanderSky：谢谢@mayemusk 激励我超级有才华的妻子 https://t.co/rFH7WqysXJ"
-    },
-    {
-      "text": "Thursday",
-      "link": "https://x.com/ToscaMusk/status/2119899044059447489",
-      "date": "Mon Nov 09 21:04:52 +0000 2026",
-      "tweet_id": "2119899044059447489",
-      "quoted": {
-        "user": "PassionFlix",
-        "text": "This week on The Black Dagger Brotherhood...\nEpisode 3 premieres Thursday, only on Passionflix.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119427119667105792/img/nCmf7xjCXDlsQ4sz.jpg",
-            "local": "2119899044059447489q_0.jpg"
-          }
-        ],
-        "text_zh": "本周《黑匕首兄弟会》...\n第三集周四首播，仅在 Passionflix 上播出。"
-      },
-      "ctx_done": 1,
-      "text_zh": "周四"
-    },
-    {
-      "text": "Starship Cybertruck at Starbase. The Gateway to Mars. https://t.co/NaPphdbcOA",
-      "link": "https://x.com/teslaownersSV/status/2119897888465772706",
-      "date": "Mon Nov 09 21:00:17 +0000 2026",
-      "tweet_id": "2119897888465772706",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119897797503954944/vid/avc1/720x1280/zttigWFOUPMdSzZZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119897797503954944/img/5Cj8hwZjjBewLoy8.jpg",
-          "local": "2119897888465772706_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119897797503954944/vid/avc1/720x1280/zttigWFOUPMdSzZZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119897797503954944/img/5Cj8hwZjjBewLoy8.jpg",
-          "local": "2119897888465772706_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Starbase 的 Starship Cyber​​truck。通往火星的门户。 https://t.co/NaPphdbcOA"
-    },
-    {
-      "text": "Hey @MerianneJensen, this is your sign to let @congressdj get a Cybertruck. https://t.co/JsG0pOybs3",
-      "link": "https://x.com/teslaownersSV/status/2119890877615390988",
-      "date": "Mon Nov 09 20:32:25 +0000 2026",
-      "tweet_id": "2119890877615390988",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119890158673858560/vid/avc1/2160x3840/H05lnfzmxrq7IPCo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119890158673858560/img/w3gkqzmBduE6YXce.jpg",
-          "local": "2119890877615390988_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119890158673858560/vid/avc1/2160x3840/H05lnfzmxrq7IPCo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119890158673858560/img/w3gkqzmBduE6YXce.jpg",
-          "local": "2119890877615390988_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "嘿@MerianneJensen，这是你让@congressdj 获得一辆 Cyber​​truck 的标志。 https://t.co/JsG0pOybs3"
-    },
-    {
-      "text": "thank you @mayemusk for inspiring my super talented wife https://t.co/rFH7WqysXJ",
-      "link": "https://x.com/XanderSky/status/2119885861710102645",
-      "date": "Mon Nov 09 20:12:29 +0000 2026",
-      "tweet_id": "2119885861710102645",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
-          "local": "2119885861710102645_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
-          "local": "2119885861710102645_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119885797075935232/vid/avc1/1920x1080/P1NIztBREl_ayYU_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119885797075935232/img/Z0e9UpM2uUme7GKw.jpg",
-          "local": "2119885861710102645_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWtY5pbbcAAg5O8.jpg?format=jpg&name=large",
-          "local": "2119885861710102645_3.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "谢谢@mayemusk 激励我超级有才华的妻子 https://t.co/rFH7WqysXJ"
-    },
-    {
-      "text": "The Model Y L’s spoiler virtually lengthens the car, helping bring drag down to 0.216 Cd.\n\n\"The ability to get it down to 0.216 CD was like pretty amazing.\"\n— Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: [Jay Leno's Garage](https://t.co/dbkzJ6pT5G) https://t.co/wjT34WqLzw",
-      "link": "https://x.com/teslaownersSV/status/2119877084466319810",
-      "date": "Mon Nov 09 19:37:37 +0000 2026",
-      "tweet_id": "2119877084466319810",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119876688977018883/vid/avc1/1920x1080/XlcvJV_ZRM7_4Aob.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876688977018883/img/4zzKxwuXQ7TzUTj0.jpg",
-          "local": "2119877084466319810_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119876688977018883/vid/avc1/1920x1080/XlcvJV_ZRM7_4Aob.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876688977018883/img/4zzKxwuXQ7TzUTj0.jpg",
-          "local": "2119877084466319810_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Model Y L 的扰流板实际上延长了汽车的长度，有助于将阻力降至 0.216 Cd。\n\n“能够将其降低至 0.216 CD 的能力真是太神奇了。”\n— Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：[Jay Leno 的车库](https://t.co/dbkzJ6pT5G) https://t.co/wjT34WqLzw"
-    },
-    {
-      "text": "Tesla just stopped selling the Model X and stretched this one, so the third row is nicer, with second-row captain’s chairs.\n\n\"We just stopped selling Model X, which was our other three-row vehicle.\"\n— Franz von Holzhausen, Tesla Chief Designer\n\nCredit: [Jay Leno's https://t.co/kCPTmuOVHK",
-      "link": "https://x.com/teslaownersSV/status/2119876240735870988",
-      "date": "Mon Nov 09 19:34:15 +0000 2026",
-      "tweet_id": "2119876240735870988",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119876094883168257/vid/avc1/1920x1080/aYOZhAz-1ymc12V6.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876094883168257/img/NxtPdGSYJe3jeteM.jpg",
-          "local": "2119876240735870988_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119876094883168257/vid/avc1/1920x1080/aYOZhAz-1ymc12V6.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119876094883168257/img/NxtPdGSYJe3jeteM.jpg",
-          "local": "2119876240735870988_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "特斯拉刚刚停止销售 Model X，并延长了这款车型，所以第三排更好，第二排有船长椅。\n\n“我们刚刚停止销售 Model X，这是我们的另一款三排座汽车。”\n——弗兰兹·冯·霍尔茨豪森，特斯拉首席设计师\n\n图片来源：[Jay Leno 的 https://t.co/kCPTmuOVHK"
-    },
-    {
-      "text": "The Model Y L hits 0–60 in 4.4 seconds: 496 horsepower, 405 lb-ft of torque.\n\n\"It goes 0 to 60 in 4.4 seconds, 'cause you know, we don't make slow cars.\"\n— Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: [Jay Leno's Garage](https://t.co/dbkzJ6pT5G) https://t.co/kMqPBOpd3D",
-      "link": "https://x.com/teslaownersSV/status/2119875886879232438",
-      "date": "Mon Nov 09 19:32:51 +0000 2026",
-      "tweet_id": "2119875886879232438",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119875714770178048/vid/avc1/1920x1080/SPwPfUlL4S4gR-dA.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875714770178048/img/6u85t3gRLqtTXkkV.jpg",
-          "local": "2119875886879232438_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119875714770178048/vid/avc1/1920x1080/SPwPfUlL4S4gR-dA.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875714770178048/img/6u85t3gRLqtTXkkV.jpg",
-          "local": "2119875886879232438_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Model Y L 在 4.4 秒内从 0 加速到 60 英里：496 马力，405 磅英尺扭矩。\n\n“它在 4.4 秒内从 0 加速到 60，因为你知道，我们不生产慢车。”\n— Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：[Jay Leno 的车库](https://t.co/dbkzJ6pT5G) https://t.co/kMqPBOpd3D"
-    },
-    {
-      "text": "About 95% of braking is through the motors, and the pads are proving to be lifetime.\n\n\"When we started we thought they'd be lifetime, and I think it's proving pretty true.\"\n— Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: [Jay Leno's Garage] https://t.co/6L2GrogczP",
-      "link": "https://x.com/teslaownersSV/status/2119875565473992884",
-      "date": "Mon Nov 09 19:31:34 +0000 2026",
-      "tweet_id": "2119875565473992884",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119875402709831680/vid/avc1/1920x1080/ioOxzFz5tlHW91L5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875402709831680/img/QXNm3QfmsKmTg1Aq.jpg",
-          "local": "2119875565473992884_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119875402709831680/vid/avc1/1920x1080/ioOxzFz5tlHW91L5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119875402709831680/img/QXNm3QfmsKmTg1Aq.jpg",
-          "local": "2119875565473992884_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "大约 95% 的制动是通过电机实现的，事实证明刹车片具有使用寿命。\n\n“当我们开始时，我们以为它们会是终生的，我认为事实证明这是真的。”\n— Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：[Jay Leno 的车库] https://t.co/6L2GrogczP"
-    },
-    {
-      "text": "RT @teslaownersSV: I rode the @navierboat electric hydrofoil out with Sandy Munro. It lifts above the water, glides over wakes, and uses NA…",
-      "link": "https://x.com/teslaownersSV/status/2119861018914628014",
-      "date": "Mon Nov 09 18:33:46 +0000 2026",
-      "tweet_id": "2119861018914628014",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：我和 Sandy Munro 一起骑着@navierboat 电动水翼艇出去。它升到水面之上，在尾流上滑行，并使用 NA……"
-    },
-    {
-      "text": "\"That's the man (@elonmusk I've worked for for 24 years. I love him.\"\nGwynne Shotwell https://t.co/aX6ekUhXGP",
-      "link": "https://x.com/teslaownersSV/status/2119859960217743791",
-      "date": "Mon Nov 09 18:29:34 +0000 2026",
-      "tweet_id": "2119859960217743791",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119859800347676673/vid/avc1/1920x1080/oqL0p49pJX9sezYv.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
-          "local": "2119859960217743791_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119859800347676673/vid/avc1/1920x1080/oqL0p49pJX9sezYv.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119859800347676673/img/cKwttnwiAmBBu9Ft.jpg",
-          "local": "2119859960217743791_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“就是这个人（@elonmusk，我为他工作了 24 年。我爱他。”\n格温·肖特韦尔 https://t.co/aX6ekUhXGP"
-    },
-    {
-      "text": "RT @SERobinsonJr: Tesla has started the Earthworks for Project Crystal Sun!\n\nThis is/was Tesla's proposed area for Project Crystal Sun, a $…",
-      "link": "https://x.com/teslaownersSV/status/2119859345152438525",
-      "date": "Mon Nov 09 18:27:07 +0000 2026",
-      "tweet_id": "2119859345152438525",
-      "ctx_done": 1,
-      "text_zh": "RT @SERobinsonJr：特斯拉已经开始水晶太阳项目的土方工程！\n\n这是/曾经是特斯拉提议的“水晶太阳项目”区域，这是一个价值......"
-    },
-    {
-      "text": "RT @BenSchafferUP: Autonomy saves lives. Nearly 37,000 Americans died on our roads last year. Autonomy’s window is political, and the next…",
-      "link": "https://x.com/teslaownersSV/status/2119859288512618923",
-      "date": "Mon Nov 09 18:26:54 +0000 2026",
-      "tweet_id": "2119859288512618923",
-      "ctx_done": 1,
-      "text_zh": "RT @BenSchafferUP：自治可以拯救生命。去年，近 37,000 名美国人死于道路上。自治的窗口是政治的，而下一个......"
     }
   ]
 }
