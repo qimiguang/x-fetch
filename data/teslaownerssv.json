@@ -1,21 +1,478 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-14T13:18:29Z",
+  "updated_at": "2026-11-14T19:52:28Z",
   "count": 200,
   "tweets": [
     {
-      "text": "Elon Musk on why his own Tesla Roadster flew on the first Falcon Heavy instead of \"a chunk of concrete\":\n\n\"We can't put a chunk of concrete, that's going to be super boring.\"\n\nA new rocket's first flight usually carries a dummy weight, because nobody risks an expensive satellite on it. A friend suggested a Tesla, and Elon used the one in his garage.\n\n\"This is literally the car that I was driving around LA, is now in orbit around Earth and Mars.\"\n\nHis reaction when it all worked: \"Holy crap, I can't believe it all worked. This is insane.\"\n\n@elonmusk\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121517845968519225#m",
-      "date": "Sat, 14 Nov 2026 08:17:25 GMT",
+      "text": "People often wait until retirement to do what they want, but you're not guaranteed to live that long.",
+      "link": "https://x.com/teslaownersSV/status/2121691728541532346",
+      "date": "Sat Nov 14 19:48:21 +0000 2026",
+      "tweet_id": "2121691728541532346",
+      "ctx_done": 1,
+      "text_zh": "人们常常等到退休后才做自己想做的事，但并不能保证你能活那么久。"
+    },
+    {
+      "text": "At Common Craft Coffee https://t.co/LWihjZbSLL",
+      "link": "https://x.com/teslaownersSV/status/2121691645842477258",
+      "date": "Sat Nov 14 19:48:02 +0000 2026",
+      "tweet_id": "2121691645842477258",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121691470335967232/vid/avc1/2160x3840/cbuLrRgB1sarzt57.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121691470335967232/img/2cpzRmveWiiaJu2R.jpg",
+          "local": "2121691645842477258_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121691470335967232/vid/avc1/2160x3840/cbuLrRgB1sarzt57.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121691470335967232/img/2cpzRmveWiiaJu2R.jpg",
+          "local": "2121691645842477258_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "在 Common Craft Coffee https://t.co/LWihjZbSLL"
+    },
+    {
+      "text": "We are getting a Starship catch",
+      "link": "https://x.com/teslaownersSV/status/2121685163428208830",
+      "date": "Sat Nov 14 19:22:16 +0000 2026",
+      "tweet_id": "2121685163428208830",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Teams have polled go to return Starship to the launch site at Starbase https://t.co/BsrI3nLXFe",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2121683901575999488/vid/avc1/3840x2160/CraB4TfXCGyDiUs5.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121683901575999488/img/gqe4meIrgBJPUNAp.jpg",
+            "local": "2121685163428208830q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2121683901575999488/vid/avc1/3840x2160/CraB4TfXCGyDiUs5.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121683901575999488/img/gqe4meIrgBJPUNAp.jpg",
+            "local": "2121685163428208830q_1.jpg"
+          }
+        ],
+        "text_zh": "各团队已投票决定将 Starship 送回 Starbase 的发射场 https://t.co/BsrI3nLXFe"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们正在捕获一艘星舰"
+    },
+    {
+      "text": "Two words of wisdom that will change your life\n\n1) lead with humility (Christ is the best example)\n2) hang out with people who inspire you https://t.co/0W01OGaxsY",
+      "link": "https://x.com/teslaownersSV/status/2121684665891500336",
+      "date": "Sat Nov 14 19:20:18 +0000 2026",
+      "tweet_id": "2121684665891500336",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121684263389257728/vid/avc1/2160x3840/bx-xDRTnlB7po056.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121684263389257728/img/oLMH1yjKTAPSrEIL.jpg",
+          "local": "2121684665891500336_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121684263389257728/vid/avc1/2160x3840/bx-xDRTnlB7po056.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121684263389257728/img/oLMH1yjKTAPSrEIL.jpg",
+          "local": "2121684665891500336_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "两句智慧的话将改变你的生活\n\n1）谦卑地领导（基督是最好的榜样）\n2）与那些激励你的人一起出去玩 https://t.co/0W01OGaxsY"
+    },
+    {
+      "text": "Teams have polled go to return Starship to the launch site at Starbase https://t.co/BsrI3nLXFe",
+      "link": "https://x.com/SpaceX/status/2121684113526858011",
+      "date": "Sat Nov 14 19:18:06 +0000 2026",
+      "tweet_id": "2121684113526858011",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121683901575999488/vid/avc1/3840x2160/CraB4TfXCGyDiUs5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121683901575999488/img/gqe4meIrgBJPUNAp.jpg",
+          "local": "2121684113526858011_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121683901575999488/vid/avc1/3840x2160/CraB4TfXCGyDiUs5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121683901575999488/img/gqe4meIrgBJPUNAp.jpg",
+          "local": "2121684113526858011_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "各团队已投票决定将 Starship 送回 Starbase 的发射场 https://t.co/BsrI3nLXFe"
+    },
+    {
+      "text": "RT @rebeccaperrotto: Ten months ago today since I last held you. I wish you were in Starbase with us today. 💔 https://t.co/8i8KhBns0D",
+      "link": "https://x.com/teslaownersSV/status/2121683900745576592",
+      "date": "Sat Nov 14 19:17:15 +0000 2026",
+      "tweet_id": "2121683900745576592",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=large",
+          "local": "2121683900745576592_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=large",
+          "local": "2121683900745576592_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @rebeccaperrotto：十个月前的今天，自从我上次抱着你以来。我希望你今天和我们一起在 Starbase。 💔 https://t.co/8i8KhBns0D"
+    },
+    {
+      "text": "Maye Musk is one of the bravest and strongest women I’ve ever known.",
+      "link": "https://x.com/teslaownersSV/status/2121675436275196254",
+      "date": "Sat Nov 14 18:43:37 +0000 2026",
+      "tweet_id": "2121675436275196254",
+      "quoted": {
+        "user": "Nasdaq",
+        "text": "“Reinvention isn’t reserved for the young; it’s reserved for the brave.” \n\nAt Nasdaq MarketSite, @mayemusk shared readings from TIMELESS and her perspective on resilience, reinvention, and embracing possibility at every age. https://t.co/o4akuayTpf",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2121277034533953536/vid/avc1/1080x1920/hccweJEjYhtf1T5w.mp4?tag=16",
+            "thumb": "https://pbs.twimg.com/media/HXBKR5NXMAAChfw.png",
+            "local": "2121675436275196254q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2121277034533953536/vid/avc1/1080x1920/hccweJEjYhtf1T5w.mp4?tag=16",
+            "thumb": "https://pbs.twimg.com/media/HXBKR5NXMAAChfw.png",
+            "local": "2121675436275196254q_1.jpg"
+          }
+        ],
+        "text_zh": "“重塑不是年轻人的专利，而是勇敢者的专利。” \n\n在纳斯达克 MarketSite，@mayemusk 分享了《TIMELESS》的读物以及她对每个年龄段的韧性、重塑和拥抱可能性的看法。 https://t.co/o4akuayTpf"
+      },
+      "ctx_done": 1,
+      "text_zh": "梅耶·马斯克是我所认识的最勇敢、最坚强的女性之一。"
+    },
+    {
+      "text": "Ten months ago today since I last held you. I wish you were in Starbase with us today. 💔 https://t.co/8i8KhBns0D",
+      "link": "https://x.com/rebeccaperrotto/status/2121673718871044340",
+      "date": "Sat Nov 14 18:36:48 +0000 2026",
+      "tweet_id": "2121673718871044340",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=large",
+          "local": "2121673718871044340_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGy_7kW4AAhGYD.jpg?format=jpg&name=large",
+          "local": "2121673718871044340_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "十个月前的今天，自从我上次拥抱你以来。我希望你今天和我们一起在 Starbase。 💔 https://t.co/8i8KhBns0D"
+    },
+    {
+      "text": "Starship is go for catch. SpaceX says the ship is healthy in orbit and the pad and tower systems are ready for a return to Starbase today, around 1:20 PM PT. \n\nIt would be the first ship ever caught.\n\nVideo: @SpaceX https://t.co/rbklIyDE8B",
+      "link": "https://x.com/teslaownersSV/status/2121657135880925266",
+      "date": "Sat Nov 14 17:30:54 +0000 2026",
+      "tweet_id": "2121657135880925266",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121657112124403712/vid/avc1/1920x1080/wzOCR--WIYyNs009.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121657112124403712/img/CwW0e2wXB8WGZT3_.jpg",
+          "local": "2121657135880925266_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121657112124403712/vid/avc1/1920x1080/wzOCR--WIYyNs009.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121657112124403712/img/CwW0e2wXB8WGZT3_.jpg",
+          "local": "2121657135880925266_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰正在捕捉。 SpaceX 表示，该飞船在轨道上运行状况良好，发射台和塔架系统已准备好返回 Starbase，太平洋时间今天下午 1 点 20 分左右。 \n\n这将是第一艘被捕获的船。\n\n视频：@SpaceX https://t.co/rbklIyDE8B"
+    },
+    {
+      "text": "Falcon 9 only knows one direction.\nUp. 🔥\n\nNo landing. No slowing down. Just pure climb energy on loop. https://t.co/jKbD0IR0NP",
+      "link": "https://x.com/teslaownersSV/status/2121655730424193093",
+      "date": "Sat Nov 14 17:25:19 +0000 2026",
+      "tweet_id": "2121655730424193093",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121655633263075328/vid/avc1/1920x1080/kC91QVsMIADtNvOI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121655633263075328/img/VT-8lPjIvLgqdV6s.jpg",
+          "local": "2121655730424193093_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121655633263075328/vid/avc1/1920x1080/kC91QVsMIADtNvOI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121655633263075328/img/VT-8lPjIvLgqdV6s.jpg",
+          "local": "2121655730424193093_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "猎鹰 9 号只知道一个方向。\n向上。 🔥\n\n没有着陆。没有减速。环路上只有纯粹的攀登能量。 https://t.co/jKbD0IR0NP"
+    },
+    {
+      "text": "RT @AJamesMcCarthy: I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. \n\nCan you spot the moon? h…",
+      "link": "https://x.com/teslaownersSV/status/2121652952448541035",
+      "date": "Sat Nov 14 17:14:16 +0000 2026",
+      "tweet_id": "2121652952448541035",
+      "ctx_done": 1,
+      "text_zh": "RT @AJamesMcCarthy：我在发射台旁边放置了一个相机，以慢动作捕捉星舰的升空。 \n\n你能看到月亮吗？嗯……"
+    },
+    {
+      "text": "RT @teslaownersSV: Starship Flight 15 just keeps climbing 🚀\n\nSuccessful liftoff and a beautiful climb into orbit. The future is already up…",
+      "link": "https://x.com/teslaownersSV/status/2121649495368949847",
+      "date": "Sat Nov 14 17:00:32 +0000 2026",
+      "tweet_id": "2121649495368949847",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：Starship Flight 15 一直在爬升🚀\n\n成功升空并漂亮地爬入轨道。未来已然来临……"
+    },
+    {
+      "text": "NEWS: Tesla is inviting select customers to order the Cybercab for personal ownership, starting at $29,990.\n\n- Customers must place a $1,000 non-refundable deposit, with a mandatory $299 monthly autonomy subscription. The first month is included.\n- The two-seat vehicle has no https://t.co/KpVQj4cNWK",
+      "link": "https://x.com/teslaownersSV/status/2121631676501778939",
+      "date": "Sat Nov 14 15:49:44 +0000 2026",
+      "tweet_id": "2121631676501778939",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGMxBDa4AAqx-q.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGMxBDa4AAqx-q.jpg?format=jpg&name=large",
+          "local": "2121631676501778939_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGMxBDa4AAqx-q.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGMxBDa4AAqx-q.jpg?format=jpg&name=large",
+          "local": "2121631676501778939_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：特斯拉邀请部分客户订购 Cyber​​cab 以供个人拥有，起价 29,990 美元。\n\n- 客户必须缴纳 1,000 美元的不可退还押金，并强制每月支付 299 美元的自主订阅费。包括第一个月。\n- 两座车辆没有 https://t.co/KpVQj4cNWK"
+    },
+    {
+      "text": "Starship Flight 15 just keeps climbing 🚀\n\nSuccessful liftoff and a beautiful climb into orbit. The future is already up there and it’s only going higher. https://t.co/B5ElgiNxPP",
+      "link": "https://x.com/teslaownersSV/status/2121631501146337312",
+      "date": "Sat Nov 14 15:49:02 +0000 2026",
+      "tweet_id": "2121631501146337312",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121631452253306880/vid/avc1/1920x1080/8TAKs0ICtUEUElaT.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121631452253306880/img/LMgdq1ZUAEYSg-7T.jpg",
+          "local": "2121631501146337312_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121631452253306880/vid/avc1/1920x1080/8TAKs0ICtUEUElaT.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121631452253306880/img/LMgdq1ZUAEYSg-7T.jpg",
+          "local": "2121631501146337312_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰 15 号航班一直在爬升 🚀\n\n成功升空并漂亮地爬入轨道。未来已经在那里，而且只会更高。 https://t.co/B5ElgiNxPP"
+    },
+    {
+      "text": "When wildfires knocked out cell towers across Ávila, Madrid and Toledo in Spain this July, ordinary phones started connecting straight to Starlink satellites.\n\nWithin 48 hours, the pilot was opened free to every MasOrange and Movistar customer. There was no dish. Compatible https://t.co/JthKSAYyAT",
+      "link": "https://x.com/teslaownersSV/status/2121630632363385003",
+      "date": "Sat Nov 14 15:45:35 +0000 2026",
+      "tweet_id": "2121630632363385003",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGL0L3bgAAcE7u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGL0L3bgAAcE7u.jpg?format=jpg&name=large",
+          "local": "2121630632363385003_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXGL0L3bgAAcE7u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXGL0L3bgAAcE7u.jpg?format=jpg&name=large",
+          "local": "2121630632363385003_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "今年七月，当野火摧毁了西班牙阿维拉、马德里和托莱多的手机信号塔时，普通电话开始直接连接到星链卫星。\n\n48 小时内，该试点项目向每位 MasOrange 和 Movistar 客户免费开放。没有菜。兼容 https://t.co/JthKSAYyAT"
+    },
+    {
+      "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. \n\nCan you spot the moon? https://t.co/LDQy9t889q",
+      "link": "https://x.com/AJamesMcCarthy/status/2121608679837368375",
+      "date": "Sat Nov 14 14:18:21 +0000 2026",
+      "tweet_id": "2121608679837368375",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/1080x1920/D7nQSEwDRvE9WWC-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121608549499273216/img/UkcrThuvmmkGsRFW.jpg",
+          "local": "2121608679837368375_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121608549499273216/vid/avc1/1080x1920/D7nQSEwDRvE9WWC-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121608549499273216/img/UkcrThuvmmkGsRFW.jpg",
+          "local": "2121608679837368375_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我在发射台旁边放置了一个相机，以慢动作捕捉星舰的升空。 \n\n你能看到月亮吗？ https://t.co/LDQy9t889q"
+    },
+    {
+      "text": "We hopped in a Cybercab in Austin for the @thextakeover wrap-up with @JoshWest247.\n\nJohn sits down with Josh West of Tesla Owners Austin to recap the first X Takeover at Giga Texas: @NICKIMINAJ @elonmusk @mayemusk stage, 150 extra Cybercabs, 600 factory tours, and a show that https://t.co/2wGWFBkrz4",
+      "link": "https://x.com/teslaownersSV/status/2121608088268447926",
+      "date": "Sat Nov 14 14:16:00 +0000 2026",
+      "tweet_id": "2121608088268447926",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121501614339194880/vid/avc1/1920x1080/SLJoSuLv6YQ6tTso.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121501614339194880/img/nCPYwvNdXEmBbOST.jpg",
+          "local": "2121608088268447926_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121501614339194880/vid/avc1/1920x1080/SLJoSuLv6YQ6tTso.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121501614339194880/img/nCPYwvNdXEmBbOST.jpg",
+          "local": "2121608088268447926_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我们跳进奥斯汀的一辆 Cyber​​cab，与 @JoshWest247 一起进行 @thextakeover 的总结。\n\n约翰与特斯拉车主奥斯汀的乔什·韦斯特 (Josh West) 坐下来回顾了 Giga Texas 的第一次 X 收购：@NICKIMINAJ @elonmusk @mayemusk 舞台、150 辆额外的 Cyber​​cabs、600 次工厂参观以及一场表演 https://t.co/2wGWFBkrz4"
+    },
+    {
+      "text": "RT @teslaownersSV: A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to. https://t.c…",
+      "link": "https://x.com/teslaownersSV/status/2121604562432016420",
+      "date": "Sat Nov 14 14:01:59 +0000 2026",
+      "tweet_id": "2121604562432016420",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：一辆没有方向盘的汽车，售价 29,990 美元。我浏览了特斯拉的 Cyber​​cab 订单页面，所以您不必这样做。 https://t.c..."
+    },
+    {
+      "text": "Elon Musk on why his own Tesla Roadster flew on the first Falcon Heavy instead of \"a chunk of concrete\":\n\n\"We can't put a chunk of concrete, that's going to be super boring.\"\n\nA new rocket's first flight usually carries a dummy weight, because nobody risks an expensive satellite",
+      "link": "https://x.com/teslaownersSV/status/2121517845968519225",
+      "date": "Sat Nov 14 08:17:25 +0000 2026",
       "tweet_id": "2121517845968519225",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117067097008488448/vid/avc1/1920x1080/My-5GNsvKxYn8lmP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117067097008488448/img/iVdFM77emQPq2VKU.jpg",
+          "local": "2121517845968519225_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2117067097008488448/vid/avc1/1920x1080/My-5GNsvKxYn8lmP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117067097008488448/img/iVdFM77emQPq2VKU.jpg",
+          "local": "2121517845968519225_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "埃隆·马斯克（Elon Musk）解释了为什么他自己的特斯拉跑车在第一架猎鹰重型飞机上飞行，而不是“一块混凝土”：\n\n“我们不能放置一块混凝土，那会非常无聊。”\n\n新火箭的首次飞行通常会携带一个虚拟重量，因为没有人会冒险搭载昂贵的卫星。一位朋友推荐了一辆特斯拉，埃隆在他的车库里使用了这辆。\n\n“这实际上就是我在洛杉矶周围驾驶的汽车，现在正在绕地球和火星运行。”\n\n当这一切奏效时，他的反应是：“天哪，我不敢相信这一切都奏效了。这太疯狂了。”\n\n@埃隆马斯克\n\n视频"
     },
     {
-      "text": "Going to Starbase is one thing you have to do in your lifetime.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121496628129653048#m",
-      "date": "Sat, 14 Nov 2026 06:53:06 GMT",
+      "text": "RT @TeslaTakesOver: I'm so in ❤️ with Cybertruck https://t.co/xwdNNhFYaZ",
+      "link": "https://x.com/teslaownersSV/status/2121516854971920893",
+      "date": "Sat Nov 14 08:13:28 +0000 2026",
+      "tweet_id": "2121516854971920893",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=large",
+          "local": "2121516854971920893_9.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaTakesOver：我非常喜欢 Cyber​​truck https://t.co/xwdNNhFYaZ"
+    },
+    {
+      "text": "RT @elonmusk: @MKBHD It will be available nationwide, as we receive regulatory approval. \n\nBut the monthly fee is too high. Should match th…",
+      "link": "https://x.com/teslaownersSV/status/2121513531510337594",
+      "date": "Sat Nov 14 08:00:16 +0000 2026",
+      "tweet_id": "2121513531510337594",
+      "reply_to": "MKBHD",
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：@MKBHD 当我们获得监管部门的批准后，它将在全国范围内上市。 \n\n但月费太高了。应该匹配…"
+    },
+    {
+      "text": "Going to Starbase is one thing you have to do in your lifetime.  https://t.co/VVQ6XyAm5T",
+      "link": "https://x.com/teslaownersSV/status/2121496628129653048",
+      "date": "Sat Nov 14 06:53:06 +0000 2026",
       "tweet_id": "2121496628129653048",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120981277071286272/vid/avc1/2160x3840/LXZtMdwU0PO_SCQ4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120981277071286272/img/RZWuFwGmE7h845lG.jpg",
+          "local": "2121496628129653048_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2120981277071286272/vid/avc1/2160x3840/LXZtMdwU0PO_SCQ4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120981277071286272/img/RZWuFwGmE7h845lG.jpg",
+          "local": "2121496628129653048_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "去Starbase是你一生中必须要做的一件事。\n\n视频"
     },
@@ -41,18 +498,18 @@
       "text_zh": "Grok @bot 是一个游戏规则改变者。它创建了整个脚本并编辑了该视频。 @埃隆马斯克\n视频"
     },
     {
-      "text": "It will be available nationwide, as we receive regulatory approval. \n\nBut the monthly fee is too high. Should match the cost of Tesla FSD and connectivity for other models, which is more like ~$115/month.",
-      "link": "https://x.com/elonmusk/status/2121492849002987844#m",
-      "date": "Sat, 14 Nov 2026 06:38:05 GMT",
+      "text": "@MKBHD It will be available nationwide, as we receive regulatory approval. \n\nBut the monthly fee is too high. Should match the cost of Tesla FSD and connectivity for other models, which is more like ~$115/month.",
+      "link": "https://x.com/elonmusk/status/2121492849002987844",
+      "date": "Sat Nov 14 06:38:05 +0000 2026",
       "tweet_id": "2121492849002987844",
       "reply_to": "MKBHD",
       "ctx_done": 1,
       "text_zh": "当我们获得监管部门的批准后，它将在全国范围内推出。 \n\n但月费太高了。应该与特斯拉 FSD 和其他车型的连接成本相匹配，大约为每月 115 美元。"
     },
     {
-      "text": "A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121479296556662961#m",
-      "date": "Sat, 14 Nov 2026 05:44:14 GMT",
+      "text": "A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to. https://t.co/kmrXpnMLZn",
+      "link": "https://x.com/teslaownersSV/status/2121479296556662961",
+      "date": "Sat Nov 14 05:44:14 +0000 2026",
       "tweet_id": "2121479296556662961",
       "media": [
         {
@@ -986,10 +1443,72 @@
       "text_zh": "请举报@johnstringerSV \n\n这是假的。 https://t.co/UnmzCF7oN3"
     },
     {
-      "text": "I'm so in ❤️ with Cybertruck",
-      "link": "https://x.com/TeslaTakesOver/status/2121294259982573946#m",
-      "date": "Fri, 13 Nov 2026 17:28:57 GMT",
+      "text": "I'm so in ❤️ with Cybertruck https://t.co/xwdNNhFYaZ",
+      "link": "https://x.com/TeslaTakesOver/status/2121294259982573946",
+      "date": "Fri Nov 13 17:28:57 +0000 2026",
       "tweet_id": "2121294259982573946",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ2waXkAAmvhR.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3NsXIAA47Rv.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ3oIWcAAF5rx.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4HIWkAAdKao.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXBZ4gsXsAA_Mci.jpg?format=jpg&name=large",
+          "local": "2121294259982573946_9.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "我非常喜欢 Cyber​​truck"
     },
@@ -1030,6 +1549,28 @@
       "tweet_id": "2121279997881242017",
       "ctx_done": 1,
       "text_zh": "RT @teslaownersSV：Cyber​​truck 的去年夏天、Starship Double Catch 和 Robotaxi 通过了 Waymo：Tesla Beat #169 w/ @sjvtesla @futureaza @matthe…"
+    },
+    {
+      "text": "“Reinvention isn’t reserved for the young; it’s reserved for the brave.” \n\nAt Nasdaq MarketSite, @mayemusk shared readings from TIMELESS and her perspective on resilience, reinvention, and embracing possibility at every age. https://t.co/o4akuayTpf",
+      "link": "https://x.com/Nasdaq/status/2121277099449233873",
+      "date": "Fri Nov 13 16:20:46 +0000 2026",
+      "tweet_id": "2121277099449233873",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121277034533953536/vid/avc1/1080x1920/hccweJEjYhtf1T5w.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/media/HXBKR5NXMAAChfw.png",
+          "local": "2121277099449233873_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121277034533953536/vid/avc1/1080x1920/hccweJEjYhtf1T5w.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/media/HXBKR5NXMAAChfw.png",
+          "local": "2121277099449233873_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“重塑不是年轻人的专利，而是勇敢者的专利。” \n\n在纳斯达克 MarketSite，@mayemusk 分享了《TIMELESS》的读物以及她对每个年龄段的韧性、重塑和拥抱可能性的看法。 https://t.co/o4akuayTpf"
     },
     {
       "text": "RT @Teslalightshows: Why did we spend SIX MONTH and HUNDREDS OF HOURS creating @theXtakeover 2026 @Tesla Light Show? SIMPLE... The COMMUNIT…",
@@ -3592,434 +4133,6 @@
       },
       "ctx_done": 1,
       "text_zh": "RT @bubbadangerous：这是有史以来最好的体验。我很高兴认识了这么多可爱的 Barbz 和 Nicki！我一直被排除在外，但是……"
-    },
-    {
-      "text": "This was the best experience ever. I'm so glad I met so many lovely Barbz and Nicki! I've always been counted out, but not this time. Bless. 🎀\n\nSo much love for the Tesla community 🩷",
-      "link": "https://x.com/bubbadangerous/status/2120235536980066377",
-      "date": "Tue Nov 10 19:21:58 +0000 2026",
-      "tweet_id": "2120235536980066377",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "\"On behalf of the Tesla community, we have enjoyed interacting and engaging with the Barbz, and we are here to support you @NICKIMINAJ\" \n\n@theXtakeover",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120038847002329088/img/uOu5vtipS6fy3N7i.jpg",
-            "local": "2120235536980066377q_0.jpg"
-          }
-        ],
-        "text_zh": "“代表 Tesla 社区，我们很享受与 Barbz 的互动和参与，我们在这里为您提供支持@NICKIMINAJ” \n\n@theXtakeover"
-      },
-      "ctx_done": 1,
-      "text_zh": "这是有史以来最好的体验。我很高兴认识了这么多可爱的 Barbz 和 Nicki！我一直都被排除在外，但这次不是。保佑。 🎀\n\n对 Tesla 社区的热爱🩷"
-    },
-    {
-      "text": "What a ship catch is supposed to look like, next to a real Super Heavy catch.\n\nNo Starship has been caught yet. The ship side is SpaceX's official animation of the Flight 15 plan. \n\nThe booster side is the real Flight 8 catch on March 6, 2025.\n\nFlight 15 is the first attempt to https://t.co/BumIicoWvv",
-      "link": "https://x.com/teslaownersSV/status/2120232120505540939",
-      "date": "Tue Nov 10 19:08:24 +0000 2026",
-      "tweet_id": "2120232120505540939",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120232102184763392/vid/avc1/1920x1080/4iUZOoqbmeDAYpdb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120232102184763392/img/cNYRGufx_v191r9r.jpg",
-          "local": "2120232120505540939_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120232102184763392/vid/avc1/1920x1080/4iUZOoqbmeDAYpdb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120232102184763392/img/cNYRGufx_v191r9r.jpg",
-          "local": "2120232120505540939_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "船舶渔获物与真正的超重型渔获量应该是什么样子。\n\n尚未捕获任何星舰。船侧是 SpaceX 的 Flight 15 计划的官方动画。 \n\n助推器侧是 2025 年 3 月 6 日捕获的真正的 Flight 8。\n\n15 号航班是第一次尝试 https://t.co/BumIicoWvv"
-    },
-    {
-      "text": "Starlink just unveiled Mini 2, with a built-in battery and built-in Wi-Fi.\n\nIt runs up to 4.5 hours on a quick-swap battery or plugs in with USB-C, and it can get you online in about 60 seconds with a clear view of the sky.\n\nIt's 23.1 mm thin and IP67 rated, and Wi-Fi 6 covers up https://t.co/hGHVEnCDHw",
-      "link": "https://x.com/teslaownersSV/status/2120224539032625623",
-      "date": "Tue Nov 10 18:38:16 +0000 2026",
-      "tweet_id": "2120224539032625623",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWyM-4saMAA-mkS.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWyM-4saMAA-mkS.jpg?format=jpg&name=large",
-          "local": "2120224539032625623_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWyM-4saMAA-mkS.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWyM-4saMAA-mkS.jpg?format=jpg&name=large",
-          "local": "2120224539032625623_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "BREAKING: Starlink just unveiled Mini 2, a portable dish that can run up to 4.5 hours on a quick-swap battery, or plug in with USB-C.\n\nIt has built-in Wi-Fi 6 and can get you online in about 60 seconds with a clear view of the sky.\n\nThe new Mini is 23.1 mm thin, IP67 rated, and https://t.co/6vqwKukaVc",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=large",
-            "local": "2120224539032625623q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=large",
-            "local": "2120224539032625623q_1.jpg"
-          }
-        ],
-        "text_zh": "突发新闻：Starlink 刚刚推出了 Mini 2，这是一款便携式碟形天线，可使用快速更换电池或通过 USB-C 插入，运行长达 4.5 小时。\n\n它内置 Wi-Fi 6，可在约 60 秒内让你上网，并且可以看到清晰的天空。\n\n新款 Mini 厚度为 23.1 毫米，防护等级为 IP67，https://t.co/6vqwKukaVc"
-      },
-      "ctx_done": 1,
-      "text_zh": "Starlink just unveiled Mini 2, with a built-in battery and built-in Wi-Fi.\n\n使用可快速更换的电池或通过 USB-C 插入时，它的运行时间长达 4.5 小时，并且可以在大约 60 秒内让您上网并欣赏清晰的天空。\n\nIt's 23.1 mm thin and IP67 rated, and Wi-Fi 6 covers up https://t.co/hGHVEnCDHw"
-    },
-    {
-      "text": "BREAKING: Starlink just unveiled Mini 2, a portable dish that can run up to 4.5 hours on a quick-swap battery, or plug in with USB-C.\n\nIt has built-in Wi-Fi 6 and can get you online in about 60 seconds with a clear view of the sky.\n\nThe new Mini is 23.1 mm thin, IP67 rated, and https://t.co/6vqwKukaVc",
-      "link": "https://x.com/teslaownersSV/status/2120211224650797302",
-      "date": "Tue Nov 10 17:45:22 +0000 2026",
-      "tweet_id": "2120211224650797302",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=large",
-          "local": "2120211224650797302_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWyA31bbwAACpSh.jpg?format=jpg&name=large",
-          "local": "2120211224650797302_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "突发新闻：Starlink 刚刚推出了 Mini 2，这是一款便携式碟形天线，可使用快速更换电池或通过 USB-C 插入，运行长达 4.5 小时。\n\n它内置 Wi-Fi 6，可在约 60 秒内让你上网，并且可以看到清晰的天空。\n\n新款 Mini 厚度为 23.1 毫米，防护等级为 IP67，https://t.co/6vqwKukaVc"
-    },
-    {
-      "text": "You woke up this morning feeling Mount Everest is in front of you. \n\nGet up and do this. \n\nStay consistent and never stop.\n\nTake my journey and I pray it’s an encouragement in your journey.",
-      "link": "https://x.com/teslaownersSV/status/2120194340677099840",
-      "date": "Tue Nov 10 16:38:16 +0000 2026",
-      "tweet_id": "2120194340677099840",
-      "ctx_done": 1,
-      "text_zh": "今天早上你醒来时感觉珠穆朗玛峰就在你面前。 \n\n站起来做这个。 \n\n保持一致，永不停止。\n\n以我的旅程为例，我祈祷它能成为你旅程中的鼓励。"
-    },
-    {
-      "text": "RT @teslaownersSV: A few weeks w/ @eightsleep Pod 6 👀\n\nComing from Pod 5, upgrades are noticeable:\n\n• 50% smaller Hub\n• 9x more biometric s…",
-      "link": "https://x.com/teslaownersSV/status/2120193642224820397",
-      "date": "Tue Nov 10 16:35:30 +0000 2026",
-      "tweet_id": "2120193642224820397",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：使用 @eightsleep Pod 6 几周👀\n\n从 Pod 5 开始，升级非常明显：\n\n• 集线器小 50%\n• 生物识别技术增加 9 倍……"
-    },
-    {
-      "text": "Thank you Tesla for ending the Cybertruck. \n\nI applaud the move. 👏🫡 https://t.co/hcy0gIqfDU",
-      "link": "https://x.com/teslaownersSV/status/2120193490370044138",
-      "date": "Tue Nov 10 16:34:54 +0000 2026",
-      "tweet_id": "2120193490370044138",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120193320626589696/vid/avc1/1080x1920/W2KQ0aFLImnqnkis.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120193320626589696/img/9YXgdUScz3ad8A0X.jpg",
-          "local": "2120193490370044138_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120193320626589696/vid/avc1/1080x1920/W2KQ0aFLImnqnkis.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120193320626589696/img/9YXgdUScz3ad8A0X.jpg",
-          "local": "2120193490370044138_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "感谢特斯拉终结了赛博卡车。 \n\n我对此举表示赞赏。 👏🫡 https://t.co/hcy0gIqfDU"
-    },
-    {
-      "text": "Drove over to Tesla's Megafactory Texas in Brookshire and found Megapack 3 units on site! This is the first time we have seen MP3s since the production announcement. I counted over 20! \n\nIt was a very busy Sunday. Here are some the new updates:\n\n- Five red COMBiLIFTs are now on https://t.co/m51Ubrr7L8",
-      "link": "https://x.com/SERobinsonJr/status/2120187842328486013",
-      "date": "Tue Nov 10 16:12:27 +0000 2026",
-      "tweet_id": "2120187842328486013",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120182145540886528/vid/avc1/2560x1440/6OlCDiJGCFjZhCMb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120182145540886528/img/_l7cIJlGuYR8bqvH.jpg",
-          "local": "2120187842328486013_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120182145540886528/vid/avc1/2560x1440/6OlCDiJGCFjZhCMb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120182145540886528/img/_l7cIJlGuYR8bqvH.jpg",
-          "local": "2120187842328486013_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "开车前往特斯拉位于布鲁克郡的德克萨斯州 Megafactory，现场发现了 Megapack 3 单元！自宣布生产以来，这是我们第一次看到 MP3。我数了数，有20多个！ \n\n这是一个非常忙碌的周日。以下是一些新的更新：\n\n- 五台红色 COMBiLIFT 现已上线 https://t.co/m51Ubrr7L8"
-    },
-    {
-      "text": "Starlink connected a remote clinic in Papua New Guinea to a doctor miles away, and it helped save a man whose chest wound had exposed his lung.\n\nNo doctor on site. \nNo evacuation until morning. \n\nAt Indagen Health Centre in Kabwum, Morobe, officer-in-charge Cathy Nasim had one https://t.co/K4E144Q2RG",
-      "link": "https://x.com/teslaownersSV/status/2120181369167106090",
-      "date": "Tue Nov 10 15:46:44 +0000 2026",
-      "tweet_id": "2120181369167106090",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWxluCQbkAAUZmp.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWxluCQbkAAUZmp.jpg?format=jpg&name=large",
-          "local": "2120181369167106090_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWxluCQbkAAUZmp.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWxluCQbkAAUZmp.jpg?format=jpg&name=large",
-          "local": "2120181369167106090_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星链将巴布亚新几内亚的一家偏远诊所与几英里外的医生连接起来，帮助挽救了一名胸部伤口暴露肺部的男子。\n\n现场没有医生。 \n直到早上才疏散。 \n\n在莫罗贝 Kabwum 的 Indagen 健康中心，负责人 Cathy Nasim 做了一个 https://t.co/K4E144Q2RG"
-    },
-    {
-      "text": "Every Starship launch, from Flight 1 to the first orbital flight.\n\nFlight 1 lifted off on April 20, 2023. Flight 14 lifted off on Sept 28, 2026, reached orbit for the first time and deployed 26 Starlink V3 satellites.\n\nFlight 15 is next.\n\nVideo: @SpaceX https://t.co/d6SAmrqeEN",
-      "link": "https://x.com/teslaownersSV/status/2120171197887635834",
-      "date": "Tue Nov 10 15:06:19 +0000 2026",
-      "tweet_id": "2120171197887635834",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120171135711211520/vid/avc1/1920x1080/AY7iWIvjw5L9L5zI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120171135711211520/img/zAwVZZsFkTuNdJ8S.jpg",
-          "local": "2120171197887635834_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120171135711211520/vid/avc1/1920x1080/AY7iWIvjw5L9L5zI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120171135711211520/img/zAwVZZsFkTuNdJ8S.jpg",
-          "local": "2120171197887635834_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "每次星际飞船发射，从第一次飞行到第一次轨道飞行。\n\n1号航班于2023年4月20日升空。14号航班于2026年9月28日升空，首次进入轨道，部署了26颗星链V3卫星。\n\n下一个航班是 15 号航班。\n\n视频：@SpaceX https://t.co/d6SAmrqeEN"
-    },
-    {
-      "text": "Inside a Raptor's thrust chamber it's about half the surface temperature of the Sun. On the outside, you can see frost.\n\nSpaceX lead propulsion engineer Jake Berkowitz explains why that huge temperature difference is where Raptor gets a lot of its performance, over real test https://t.co/P7fOBdEVR7",
-      "link": "https://x.com/teslaownersSV/status/2120170744403673423",
-      "date": "Tue Nov 10 15:04:30 +0000 2026",
-      "tweet_id": "2120170744403673423",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120170675981942784/vid/avc1/1920x1080/MJXTKIQ8LnJAiOKZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120170675981942784/img/91eFs6TQ_I2LJ2vx.jpg",
-          "local": "2120170744403673423_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120170675981942784/vid/avc1/1920x1080/MJXTKIQ8LnJAiOKZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120170675981942784/img/91eFs6TQ_I2LJ2vx.jpg",
-          "local": "2120170744403673423_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "猛禽推力室内部的温度约为太阳表面温度的一半。在外面，你可以看到霜。\n\nSpaceX 首席推进工程师 Jake Berkowitz 解释了为什么 Raptor 在实际测试中通过巨大的温差获得大量性能 https://t.co/P7fOBdEVR7"
-    },
-    {
-      "text": "A few weeks w/ @eightsleep Pod 6 👀\n\nComing from Pod 5, upgrades are noticeable:\n\n• 50% smaller Hub\n• 9x more biometric sensors\n• 20% faster temperature relief\n\nPod 6 starts at $1,999\n\nUse code TOSV at https://t.co/N9Y4EKZnD2 now through 11/30 for up to $400 off the Pod 6 https://t.co/huuZkMc5bb",
-      "link": "https://x.com/teslaownersSV/status/2120159670878802341",
-      "date": "Tue Nov 10 14:20:30 +0000 2026",
-      "tweet_id": "2120159670878802341",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120159097425195008/vid/avc1/1440x2560/aKAZefY7geWe_pnb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120159097425195008/img/TfrkCEZj2_Wj5BMA.jpg",
-          "local": "2120159670878802341_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120159097425195008/vid/avc1/1440x2560/aKAZefY7geWe_pnb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120159097425195008/img/TfrkCEZj2_Wj5BMA.jpg",
-          "local": "2120159670878802341_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "与 @eightsleep Pod 6 一起度过几周👀\n\n从 Pod 5 开始，升级非常明显：\n\n• 集线器小 50%\n• 生物识别传感器数量增加 9 倍\n• 温度释放速度加快 20%\n\nPod 6 起价为 1,999 美元\n\n即日起至 11 月 30 日，使用 https://t.co/N9Y4EKZnD2 上的代码 TOSV 购买 Pod 6 最高可享受 400 美元优惠 https://t.co/huuZkMc5bb"
-    },
-    {
-      "text": "NEWS: Elon Musk is expected to travel with President Trump to China for the APEC summit in Shenzhen, Nov. 18–19. https://t.co/9GjbGOuYJ9",
-      "link": "https://x.com/teslaownersSV/status/2120157177616953644",
-      "date": "Tue Nov 10 14:10:36 +0000 2026",
-      "tweet_id": "2120157177616953644",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWxPt3saYAAee_Y.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWxPt3saYAAee_Y.jpg?format=jpg&name=large",
-          "local": "2120157177616953644_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWxPt3saYAAee_Y.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWxPt3saYAAee_Y.jpg?format=jpg&name=large",
-          "local": "2120157177616953644_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：埃隆·马斯克预计将与特朗普总统一起前往中国，参加 11 月 18 日至 19 日在深圳举行的 APEC 峰会。 https://t.co/9GjbGOuYJ9"
-    },
-    {
-      "text": "1 month after X Takeover, and I am still thinking about it. I asked my Art Producer bot to make a digital scrapbook for me. 💕 Miss y'all. https://t.co/JIYGwrDlX6",
-      "link": "https://x.com/MyTeslaMoonship/status/2120128588523692056",
-      "date": "Tue Nov 10 12:17:00 +0000 2026",
-      "tweet_id": "2120128588523692056",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119554986594140160/vid/avc1/1920x1080/NBHLW4LtIvQNltAj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119554986594140160/img/uotG2CuEm9mZhR1N.jpg",
-          "local": "2120128588523692056_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119554986594140160/vid/avc1/1920x1080/NBHLW4LtIvQNltAj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119554986594140160/img/uotG2CuEm9mZhR1N.jpg",
-          "local": "2120128588523692056_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "X收购后1个月了，我还在想这件事。我要求我的艺术制作机器人为我制作一本数字剪贴簿。 💕想念你们。 https://t.co/JIYGwrDlX6"
-    },
-    {
-      "text": "Guy wasted 1/4 of his life on that truck.  😢 @wmorrill3",
-      "link": "https://x.com/JustonBrazda/status/2120121626746638705",
-      "date": "Tue Nov 10 11:49:20 +0000 2026",
-      "tweet_id": "2120121626746638705",
-      "quoted": {
-        "user": "MemeWarrior069",
-        "text": "I can’t imagine the work @wmorrill3 put into this Truck and now it’s going to be canned. He literally just posted about all the upgrades they made over the years. \n\nMakes me think they had no idea it was about to be killed. \n\nChange your mind @elonmusk",
-        "text_zh": "我无法想象 @wmorrill3 在这辆卡车上投入了多少工作，现在它要被罐装了。他实际上只是发布了他们多年来所做的所有升级。 \n\n让我觉得他们不知道它会被杀死。 \n\n改变主意@elonmusk"
-      },
-      "ctx_done": 1,
-      "text_zh": "盖伊在那辆卡车上浪费了 1/4 的生命。  😢@wmorrill3"
-    },
-    {
-      "text": "Elon Musk in 2002 vs now https://t.co/8BF9UI8uBf",
-      "link": "https://x.com/teslaownersSV/status/2120119376326308012",
-      "date": "Tue Nov 10 11:40:23 +0000 2026",
-      "tweet_id": "2120119376326308012",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2059000893069238272/vid/avc1/1080x1080/5fwN7jnuv78-7YEq.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2059000893069238272/img/SJe9A2tUOInk_gzm.jpg",
-          "local": "2120119376326308012_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2059000893069238272/vid/avc1/1080x1080/5fwN7jnuv78-7YEq.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2059000893069238272/img/SJe9A2tUOInk_gzm.jpg",
-          "local": "2120119376326308012_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2002 年的埃隆·马斯克与现在的对比 https://t.co/8BF9UI8uBf"
-    },
-    {
-      "text": "Share a picture of your Tesla Cybertruck.",
-      "link": "https://x.com/teslaownersSV/status/2120057915814076800",
-      "date": "Tue Nov 10 07:36:10 +0000 2026",
-      "tweet_id": "2120057915814076800",
-      "ctx_done": 1,
-      "text_zh": "分享您的 Tesla Cyber​​truck 的照片。"
-    },
-    {
-      "text": "A low pass along the Tesla Roadster at the Petersen Automotive Museum. https://t.co/aEPJozELcm",
-      "link": "https://x.com/teslaownersSV/status/2120042002767306832",
-      "date": "Tue Nov 10 06:32:56 +0000 2026",
-      "tweet_id": "2120042002767306832",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120041875470213120/vid/avc1/1080x1920/s2_kYHqRErLrF-aV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120041875470213120/img/9iYc1ZboRFKeOVI9.jpg",
-          "local": "2120042002767306832_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120041875470213120/vid/avc1/1080x1920/s2_kYHqRErLrF-aV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120041875470213120/img/9iYc1ZboRFKeOVI9.jpg",
-          "local": "2120042002767306832_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "沿着彼得森汽车博物馆的特斯拉跑车低空行驶。 https://t.co/aEPJozELcm"
-    },
-    {
-      "text": "\"On behalf of the Tesla community, we have enjoyed interacting and engaging with the Barbz, and we are here to support you @NICKIMINAJ\" \n\n@theXtakeover https://t.co/pCocfouxHz",
-      "link": "https://x.com/teslaownersSV/status/2120039006864093579",
-      "date": "Tue Nov 10 06:21:02 +0000 2026",
-      "tweet_id": "2120039006864093579",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120038847002329088/vid/avc1/1920x1080/EgivPOaPdfERsO9m.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120038847002329088/img/uOu5vtipS6fy3N7i.jpg",
-          "local": "2120039006864093579_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120038847002329088/vid/avc1/1920x1080/EgivPOaPdfERsO9m.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120038847002329088/img/uOu5vtipS6fy3N7i.jpg",
-          "local": "2120039006864093579_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“代表 Tesla 社区，我们很享受与 Barbz 的互动和参与，我们在这里为您提供支持@NICKIMINAJ” \n\n@theXtakeover https://t.co/pCocfouxHz"
-    },
-    {
-      "text": "Tesla crews have set more than 30 Megapacks in a single day. This is how a grid-scale battery goes up.\n\nAt Giga Texas, Tesla is installing a 133 MW, 266 MWh Megapack project that provides backup power for the data center on site. Each unit rolls in on a flatbed from the Lathrop https://t.co/ONhCTYGgUX",
-      "link": "https://x.com/teslaownersSV/status/2120037424202215511",
-      "date": "Tue Nov 10 06:14:44 +0000 2026",
-      "tweet_id": "2120037424202215511",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120037305792733184/vid/avc1/1920x1080/f5fny1-UKJ5HVaw6.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120037305792733184/img/DzpRtq5YnshsItfS.jpg",
-          "local": "2120037424202215511_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120037305792733184/vid/avc1/1920x1080/f5fny1-UKJ5HVaw6.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120037305792733184/img/DzpRtq5YnshsItfS.jpg",
-          "local": "2120037424202215511_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Tesla 工作人员一天内就安装了 30 多个 Megapack。这就是电网规模电池的升起方式。\n\n在德克萨斯州 Giga，特斯拉正在安装一个 133 MW、266 MWh Megapack 项目，为现场数据中心提供备用电源。每个单元都从 Lathrop 滚入平板 https://t.co/ONhCTYGgUX"
-    },
-    {
-      "text": "RT @colby_energy: We’re excited to be at RE+ this year - stop by our booth to experience our latest product features like Powershare - rede…",
-      "link": "https://x.com/teslaownersSV/status/2120036487760859560",
-      "date": "Tue Nov 10 06:11:01 +0000 2026",
-      "tweet_id": "2120036487760859560",
-      "quoted": {
-        "user": "teslaenergy",
-        "text": "Join us at @REPlusEvents in Las Vegas",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWtAe64awAAd2G7.jpg?name=orig",
-            "local": "2120036487760859560q_0.jpg"
-          }
-        ],
-        "text_zh": "加入我们在拉斯维加斯的@REPlusEvents"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @colby_energy：我们很高兴今年能参加 RE+ - 请来我们的展位体验我们最新的产品功能，例如 Powershare - rede..."
     }
   ]
 }

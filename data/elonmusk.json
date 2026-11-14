@@ -1,8 +1,266 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-14T13:18:03Z",
+  "updated_at": "2026-11-14T19:50:59Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Actually, just looked closer and noticed that Tom, Gwynne and a few others aren’t in this particular picture, but they were certainly part of the company in those days",
+      "link": "https://x.com/elonmusk/status/2121669169925996567#m",
+      "date": "Sat, 14 Nov 2026 18:18:43 GMT",
+      "tweet_id": "2121669169925996567",
+      "reply_to": "elonmusk",
+      "ctx_done": 1,
+      "text_zh": "事实上，只要仔细观察，就会发现汤姆、格温和其他几个人并不在这张照片中，但他们当时肯定是公司的一部分"
+    },
+    {
+      "text": "True, that pic shows everyone in the entire company of SpaceX in 2002!\nTom Mueller (@lrocket) and Hans Koenigsmann, both amazing, world-class engineers, came by Mission Control last night. Good to see old friends ❤️",
+      "link": "https://x.com/elonmusk/status/2121668709064282507#m",
+      "date": "Sat, 14 Nov 2026 18:16:53 GMT",
+      "tweet_id": "2121668709064282507",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "How it started    v/s    How it's going",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXFQunYaAAAP0Xx.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXFQunYaAAAP0Xx.jpg?name=orig",
+            "local": "2121668709064282507q_0.jpg"
+          }
+        ],
+        "text_zh": "它是如何开始的 vs 进展如何"
+      },
+      "ctx_done": 1,
+      "text_zh": "确实，那张照片展示的是 2002 年 SpaceX 公司的所有人！\nTom Mueller (@lrocket) 和 Hans Koenigsmann 都是令人惊叹的世界级工程师，昨晚来到任务控制中心。很高兴见到老朋友❤️"
+    },
+    {
+      "text": "Starlink\nVideo",
+      "link": "https://x.com/elonmusk/status/2121648757456662970#m",
+      "date": "Sat, 14 Nov 2026 16:57:36 GMT",
+      "tweet_id": "2121648757456662970",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "BREAKING: SpaceX donates @Starlink kits to help vulnerable children. Lagos State’s Ministry of Youth and Social Development received Starlink devices to improve care services via BEB Global.\n\nSpaceX’s wider grant covers 750 kits in 16 countries and 12 months of free internet.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121643662753021952/img/2tvwVUNQUurybaAU.jpg",
+            "local": "2121648757456662970q_0.jpg"
+          }
+        ],
+        "text_zh": "突发新闻：SpaceX 捐赠@Starlink 套件来帮助弱势儿童。拉各斯州青年和社会发展部通过 BEB Global 接收了 Starlink 设备，以改善护理服务。\n\nSpaceX 的赠款范围更广，涵盖 16 个国家的 750 个套件和 12 个月的免费互联网。"
+      },
+      "ctx_done": 1,
+      "text_zh": "星链\n视频"
+    },
+    {
+      "text": "Yes, the green flame is caused by burning copper from depleting fuel in the regenerative cooling circuit and going oxygen-rich (closer to stoichiometric temperature) in the main combustion chamber. \n\nSlight underperformance of engines on this flight is the reason. The booster is meant to land with tiny residuals, so the solution is to improve engine performance and performance consistency (underway with Raptor V3.2), as well as adjust flight software to do MECO1 about one second earlier to ensure enough propellant for boostback and landing (tiny change).\n\nThese early ships and boosters are already outdated by improved designs in production or on the test stand, so this booster loss does not change our timeline to reach high volume, fully reusable Starship flights.",
+      "link": "https://x.com/elonmusk/status/2121648438144024943#m",
+      "date": "Sat, 14 Nov 2026 16:56:20 GMT",
+      "tweet_id": "2121648438144024943",
+      "reply_to": "DJSnM",
+      "ctx_done": 1,
+      "text_zh": "是的，绿色火焰是由再生冷却回路中的燃料耗尽和主燃烧室中的富氧（接近化学计量温度）燃烧铜引起的。 \n\n原因是本次航班的发动机性能略有下降。助推器着陆时会产生微小的残留物，因此解决方案是提高发动机性能和性能一致性（正在使用 Raptor V3.2），并调整飞行软件以提前大约一秒执行 MECO1，以确保有足够的推进剂用于助推和着陆（微小的变化）。\n\n这些早期的飞船和助推器已经通过生产或测试台上的改进设计而过时，因此助推器的损失不会改变我们实现大批量、完全可重复使用的星舰飞行的时间表。"
+    },
+    {
+      "text": "Text watermarking with Grok is only on where required by law or requested by the user",
+      "link": "https://x.com/elonmusk/status/2121644169462681818#m",
+      "date": "Sat, 14 Nov 2026 16:39:22 GMT",
+      "tweet_id": "2121644169462681818",
+      "quoted": {
+        "user": "techdevnotes",
+        "text": "Text watermarking is now off by default in the SpaceXSI API",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCfc5MXAAAQCEQ.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXCfc5MXAAAQCEQ.jpg?name=orig",
+            "local": "2121644169462681818q_0.jpg"
+          }
+        ],
+        "text_zh": "SpaceXSI API 中的文本水印现已默认关闭"
+      },
+      "ctx_done": 1,
+      "text_zh": "仅在法律要求或用户要求的情况下才使用 Grok 进行文本水印"
+    },
+    {
+      "text": "This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandwidth improvement globally. \n\nThat said, there will ultimately be over 100k SpaceX communications satellites, most of which will be V4 or V5. Good chance that this system carries about half of global traffic.",
+      "link": "https://x.com/elonmusk/status/2121640541221785669#m",
+      "date": "Sat, 14 Nov 2026 16:24:57 GMT",
+      "tweet_id": "2121640541221785669",
+      "reply_to": "billlee",
+      "ctx_done": 1,
+      "text_zh": "这并不像听起来那么好，因为星链需要许多近地轨道卫星才能在全球范围内实现带宽改善。 \n\n也就是说，最终将有超过 10 万颗 SpaceX 通信卫星，其中大部分将是 V4 或 V5。该系统很有可能承载全球约一半的流量。"
+    },
+    {
+      "text": "Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go for catch.\n\nVideo",
+      "link": "https://x.com/SpaceX/status/2121629656868614213#m",
+      "date": "Sat, 14 Nov 2026 15:41:42 GMT",
+      "tweet_id": "2121629656868614213",
+      "ctx_done": 1,
+      "text_zh": "15 号航班更新：星舰在轨道上滑行，看起来今天仍有望返回发射场。垫式和塔式系统非常受欢迎。\n\n视频"
+    },
+    {
+      "text": "Improvements to Grok @Bot efficiency",
+      "link": "https://x.com/elonmusk/status/2121628295234023654#m",
+      "date": "Sat, 14 Nov 2026 15:36:18 GMT",
+      "tweet_id": "2121628295234023654",
+      "quoted": {
+        "user": "SamSokolin",
+        "text": "Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs!\n\nEnjoy!",
+        "text_zh": "本周发布了一些 Grok Bot 线束优化。您的计划使用量应该增加约 7%，而日常跑步的使用量应增加约 15%！\n\n享受！"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @Bot 效率的改进"
+    },
+    {
+      "text": "Update on Starship",
+      "link": "https://x.com/elonmusk/status/2121627776881230121#m",
+      "date": "Sat, 14 Nov 2026 15:34:14 GMT",
+      "tweet_id": "2121627776881230121",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Back live for a status update on Starship's Flight 15",
+        "text_zh": "返回实时了解 Starship 15 号航班的状态更新"
+      },
+      "ctx_done": 1,
+      "text_zh": "星舰更新"
+    },
+    {
+      "text": "grok.com/share/bGVnYWN5_035d…",
+      "link": "https://x.com/elonmusk/status/2121625731088445896#m",
+      "date": "Sat, 14 Nov 2026 15:26:06 GMT",
+      "tweet_id": "2121625731088445896",
+      "reply_to": "elonmusk",
+      "ctx_done": 1,
+      "text_zh": "grok.com/share/bGVnYWN5_035d…"
+    },
+    {
+      "text": "If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through. \n\nSure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.",
+      "link": "https://x.com/elonmusk/status/2121624209675665519#m",
+      "date": "Sat, 14 Nov 2026 15:20:04 GMT",
+      "tweet_id": "2121624209675665519",
+      "reply_to": "elonmusk",
+      "ctx_done": 1,
+      "text_zh": "如果 Jensen 向我提供有关计算交付的承诺，或者我要求加速组件，他总是会答应。 \n\n当然，我们稍后会整理一份采购订单，但我从未想过这不会发生。"
+    },
+    {
+      "text": "Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. \nWithout Jensen, at least some of those critical deals will be lost.\nVideo",
+      "link": "https://x.com/elonmusk/status/2121613402846204253#m",
+      "date": "Sat, 14 Nov 2026 14:37:07 GMT",
+      "tweet_id": "2121613402846204253",
+      "quoted": {
+        "user": "CEOinterview",
+        "text": "Dylan Patel says Jensen personally talked tiny suppliers into letting Nvidia buy up their supply, and with him gone Google is already begging them for capacity\n\n\"Jensen had complete foresight and understood the demand required and went to all of these executives, even of tiny companies where they only generate a few hundred million dollars of revenue but they have an important subcomponent.\"\n\n\"He convinced them to let him buy the supply and build it all out...\"\n\n\"And now with Jensen gone, these companies are looking around the market and it's like, well, Google's begging for more capacity from the whole supply chain.\"\n\n\"And without Jensen, can they maintain technology advantages given they're only a year ahead of their biggest competitors? It's not like the gap is massive.\"",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121291724245106688/img/nkPGD926C_3oLnx-.jpg",
+            "local": "2121613402846204253q_0.jpg"
+          }
+        ],
+        "text_zh": "迪伦·帕特尔 (Dylan Patel) 表示，詹森亲自说服小型供应商让英伟达收购他们的供应，随着他的离开，谷歌已经在向他们乞求产能\n\n“詹森具有完全的远见，了解所需的需求，并找到了所有这些高管，即使是那些只产生几亿美元收入但拥有重要子组件的小公司。”\n\n“他说服他们让他购买供应并全部建造......”\n\n“现在随着詹森的离开，这些公司正在环顾市场，就像谷歌在向整个供应链乞求更多的产能一样。”\n\n“如果没有詹森，他们能否保持技术优势，因为他们只领先最大的竞争对手一年？差距并不是很大。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "Jensen 在 Nvidia 出色地推动了供应链，但其中许多交易只是与 Jensen 的握手，而不是书面合同。 \n如果没有詹森，至少一些关键交易将会丢失。\n视频"
+    },
+    {
+      "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. \n\nCan you spot the moon?\n\nVideo",
+      "link": "https://x.com/AJamesMcCarthy/status/2121608679837368375#m",
+      "date": "Sat, 14 Nov 2026 14:18:21 GMT",
+      "tweet_id": "2121608679837368375",
+      "ctx_done": 1,
+      "text_zh": "我在发射台旁边放置了一个相机，以慢动作捕捉星舰的升空。 \n\n你能看到月亮吗？\n\n视频"
+    },
+    {
+      "text": "wut",
+      "link": "https://x.com/billlee/status/2121606558211866984#m",
+      "date": "Sat, 14 Nov 2026 14:09:55 GMT",
+      "tweet_id": "2121606558211866984",
+      "quoted": {
+        "user": "grok",
+        "text": "50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions.",
+        "text_zh": "每艘 Starship 50 Tbps 的速度是巨大的。全球国际带宽总计约为 2,260 Tbps。一次航班增加了所有跨境运力的 2% 以上。它几乎可以在任何地方解锁类似光纤的速度，支持数百万个并发高分辨率流或人工智能传输，并创建一个弹性空间网格，减少对海底电缆的依赖，同时为月球和深空任务提供高带宽链路。"
+      },
+      "ctx_done": 1,
+      "text_zh": "乌特"
+    },
+    {
+      "text": "Starship in orbit over Africa\n\nVideo",
+      "link": "https://x.com/SpaceX/status/2121602376532742611#m",
+      "date": "Sat, 14 Nov 2026 13:53:18 GMT",
+      "tweet_id": "2121602376532742611",
+      "ctx_done": 1,
+      "text_zh": "星舰在非洲上空轨道运行\n\n视频"
+    },
+    {
+      "text": "BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build.\n\nAccording to SemiAnalysis, SpaceXSI is roughly halving construction timelines while most comparable projects face 8–12 month builds.\n\n• MiniHard: Construction finished in approximately 5 months.\n\n• Gun Range: The new site just south of the Tennessee–Mississippi state line is targeting approximately 4 months of construction.\n\n• Colossus 1: Its first retrofit delivered 150 MW of capacity in 122 days.\n\n• Colossus 2: A subsequent retrofit delivered 210 MW in just 91 days.\n\n• Project SPAM: Work started October 5, with the first capacity targeted for December.\n\n• Massive expansion: SemiAnalysis projects the Memphis–Mississippi campus will grow from 0.4 GW of IT capacity in January to 2.4 GW by the end of 2026. That would be a sixfold increase in one year.\n\n• Five major projects: The expansion spans Macrohard, MiniHard, Macroharder, Project SPAM and Gun Range.\n\n• Tesla powering the scale: SemiAnalysis reports 1,377 Tesla Megapacks across Colossus 2, providing nearly 6 GWh of battery storage.\n\nThe construction timelines and capacity forecasts are SemiAnalysis estimates, with future milestones still targets.\n\nElon Musk’s teams are bringing extraordinary speed and scale to the infrastructure powering AI.",
+      "link": "https://x.com/cb_doge/status/2121586977795440798#m",
+      "date": "Sat, 14 Nov 2026 12:52:07 GMT",
+      "tweet_id": "2121586977795440798",
+      "ctx_done": 1,
+      "text_zh": "突发新闻：SpaceXSI 在短短 5 个月内完成了 MiniHard 建设，Gun Range 的建设目标是大约 4 个月。\n\n据 SemiAnalysis 称，SpaceXSI 将建设时间大致缩短了一半，而大多数类似项目的建设时间为 8 至 12 个月。\n\n• MiniHard：大约在 5 个月内完成施工。\n\n• 射击场：新场地位于田纳西州-密西西比州界线以南，预计建设时间约为 4 个月。\n\n• Colossus 1：首次改造在 122 天内交付了 150 MW 的容量。\n\n• Colossus 2：后续改造仅用了 91 天就交付了 210 MW。\n\n• SPAM 项目：工作于 10 月 5 日开始，第一批产能目标于 12 月实现。\n\n• 大规模扩张：SemiAnalysis 预计孟菲斯-密西西比园区的 IT 容量将从 1 月份的 0.4 吉瓦增长到 2026 年底的 2.4 吉瓦。这将在一年内增长六倍。\n\n• 五个主要项目：扩展包涵盖Macrohard、MiniHard、Macroharder、Project SPAM 和Gun Range。\n\n• Tesla 为规模提供动力：SemiAnalysis 报告称，Colossus 2 上有 1,377 个 Tesla Megapack，可提供近 6 GWh 的电池存储。\n\n建设时间表和产能预测是 SemiAnalysis 的估计，未来的里程碑仍然是目标。\n\n埃隆·马斯克 (Elon Musk) 的团队正在为支持人工智能的基础设施带来非凡的速度和规模。"
+    },
+    {
+      "text": "we optimized it heavily so it should burn only a little of your usage.\ngo invite your e-coworker to the meeting, and let us know what you think!!\nVideo",
+      "link": "https://x.com/lingxi/status/2121394949182930954#m",
+      "date": "Sat, 14 Nov 2026 00:09:04 GMT",
+      "tweet_id": "2121394949182930954",
+      "quoted": {
+        "user": "bot",
+        "text": "Grok Bot can now join meetings.\n\nAsk it questions, assign it work, or have it keep track of what your team decides.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121319909422669824/img/3OQBsP-P67hEEtS_.jpg",
+            "local": "2121394949182930954q_0.jpg"
+          }
+        ],
+        "text_zh": "Grok Bot 现在可以加入会议。\n\n向它提问、分配工作或让它跟踪您的团队的决定。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们对其进行了大力优化，因此它只会消耗您的一小部分使用量。\n去邀请您的电子同事参加会议，并让我们知道您的想法！\n视频"
+    },
+    {
+      "text": "SECRETARY RUBIO: The ultimate question of our time is whether Americans have a moral right to exist as a distinct nation and a distinct people, and thus to demand a government that defends and pursues our interests above all else.\n\nVideo",
+      "link": "https://x.com/StateDept/status/2121378578939936844#m",
+      "date": "Fri, 13 Nov 2026 23:04:01 GMT",
+      "tweet_id": "2121378578939936844",
+      "ctx_done": 1,
+      "text_zh": "卢比奥国务卿：我们这个时代的最终问题是，美国人是否有道德权利作为一个独特的国家和独特的人民而存在，从而要求政府捍卫和追求我们的利益高于一切。\n\n视频"
+    },
+    {
+      "text": "SpaceX just laid out a major plan to protect and restore the coastline around its launch site\n\nBoca Chica Beach is staying public as Starbase keeps growing\n\nMore than 50 tons of trash already removed through weekly beach cleanups with the City of Starbase\n\nTens of millions of dollars offered to fight erosion, restore the shoreline and keep public access open\n\nOngoing support for conservation groups rescuing sea turtles\n\nThe proposed land purchase covers about 1,200 acres around the launch facility, with Boca Chica Beach and the Texas coastline left out of it\n\nAround 600 of those acres would be permanently protected as sensitive coastal habitat\n\nMoney from the sale would help Texas build new parks and recreation across the Rio Grande Valley\n\nStarbase grows, and the beach stays open to everyone",
+      "link": "https://x.com/XFreeze/status/2121353143384682525#m",
+      "date": "Fri, 13 Nov 2026 21:22:56 GMT",
+      "tweet_id": "2121353143384682525",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 刚刚制定了一项保护和恢复发射场周围海岸线的重大计划\n\n随着 Starbase 的不断发展，博卡奇卡海滩仍保持公开状态\n\nStarbase 市每周进行海滩清理工作，已清除 50 多吨垃圾\n\n提供数千万美元用于对抗侵蚀、恢复海岸线并保持公共通道开放\n\n持续支持保护组织拯救海龟\n\n拟议购买的土地覆盖发射设施周围约 1,200 英亩，博卡奇卡海滩和德克萨斯州海岸线不包括在内\n\n其中约 600 英亩将作为敏感的沿海栖息地受到永久保护\n\n出售所得的资金将帮助德克萨斯州在里奥格兰德河谷建造新的公园和娱乐场所\n\nStarbase 不断壮大，海滩继续向所有人开放"
+    },
+    {
+      "text": "SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen’s wheeling and dealing Google could take a ton of share\n“It’s sort of a three-pronged strategy. One is you have to have the technical progress, and that keeps you winning. The second is that you have to have supply chain prowess, and Jensen’s the only executive in the semiconductor industry that is going out there and drinking and meeting and convincing all of these supply chain companies to invest like they’ve never done before, give him the allocations.”\n“Now if all of a sudden there’s no Jensen, and Google’s like, actually, double my allocation. The TPU, from our benchmarking, we test TPUs. We run benchmarks on them on open source models every night. They’re just as good as Nvidia. But Google doesn’t have that DNA of wheeling and dealing with the supply chain, wheeling and dealing with customers. Now if that DNA is gone, the thing that is Jensen is gone, does that now mean Google can just take a ton of share? It’s a real big possibility.”\n“Same with AMD. Technically, they’re awesome, but they’re just not able to wheel and deal like Jensen is able to. And that’s been a lot of the reason why they’ve been behind. Of course, the software as well. One of Nvidia’s biggest moats being CUDA, and software is being rapidly displaced by the fact that AI models are so good at writing software.”\nVideo\nVideo",
+      "link": "https://x.com/firesidealpha/status/2121070130935570607#m",
+      "date": "Fri, 13 Nov 2026 02:38:21 GMT",
+      "tweet_id": "2121070130935570607",
+      "quoted": {
+        "user": "firesidealpha",
+        "text": "Dylan Patel says Nvidia’s next CEO has to hold off OpenAI, Broadcom, Google, Anthropic, Meta, Amazon, and AMD chip teams, who are all 'fucking good'\n\n“It’s not like you’re fighting, no knocks against Palo Alto Networks, but their competitors are not that amazing, versus Nvidia’s fighting an OpenAI chip team, a Broadcom chip team, a Google chip team, an Anthropic chip team, a Meta chip team, Amazon chip team. These guys are fucking good. AMD. They’re all really good, and all these startups.”\n\n“They’re all good. It’s not like they’re incompetent. I think it’s very different. As great as Lisa Su is, she took down Intel, who’s incompetent.”\n\n“What is the person who defined a category and created it and kept all the invaders at bay? It’s very different than being second place or making smart tactical business decisions, innovating on something once there’s already a category established. It’s just very different.”",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120978578489892864/img/AOKU0MeKbKP2lcU0.jpg",
+            "local": "2121070130935570607q_0.jpg"
+          }
+        ],
+        "text_zh": "Dylan Patel 表示，Nvidia 的下一任首席执行官必须阻止 OpenAI、Broadcom、Google、Anthropic、Meta、Amazon 和 AMD 芯片团队，这些团队都“非常优秀”\n\n“这并不是说你在与 Palo Alto Networks 战斗，没有任何打击，但他们的竞争对手并没有那么惊人，而 Nvidia 正在与 OpenAI 芯片团队、Broadcom 芯片团队、Google 芯片团队、Anthropic 芯片团队、Meta 芯片团队、亚马逊芯片团队作战。这些人太棒了。AMD。他们都非常优秀，还有所有这些初创公司。”\n\n“他们都很好。并不是说他们无能。我认为这是非常不同的。苏丽莎很伟大，但她打败了无能的英特尔。”\n\n“定义一个类别并创建它并将所有入侵者拒之门外的人是什么人？这与屈居第二或做出明智的战术业务决策，一旦已经建立了一个类别就进行创新是非常不同的。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "SemiAnalysis 的迪伦·帕特尔 (Dylan Patel) 表示，在他的夜间基准测试中，谷歌的 TPU 与 Nvidia 的 TPU 一样好，如果没有 Jensen 的操纵和交易，谷歌可能会占据大量份额\n“这是一个三管齐下的策略。一是你必须拥有技术进步，这样你才能不断获胜。二是你必须拥有供应链实力，而詹森是半导体行业中唯一一位会出去喝酒、会面并说服所有这些供应链公司以前所未有的方式进行投资的高管，并给他分配资金。”\n“现在，如果突然之间没有 Jensen，Google 就会把我的分配增加一倍。TPU，根据我们的基准测试，我们测试 TPU。我们每晚都在开源模型上对它们进行基准测试。它们和 Nvidia 一样好。但 Google 没有那种推动和处理供应链、推动和处理客户的 DNA。现在，如果这种 DNA 消失了，Jensen 的东西也消失了，这是否意味着 Google 现在可以接受大量的分享吗？这确实是一个很大的可能性。”\n“AMD 也一样。从技术上讲，他们很棒，但他们只是无法像 Jensen 那样进行操作。这就是他们落后的很多原因。当然，软件也是如此。Nvidia 最大的护城河之一是 CUDA，而由于人工智能模型非常擅长编写软件，因此软件正在迅速被取代。”\n视频\n视频"
+    },
     {
       "text": "11 years ago\nVideo",
       "link": "https://x.com/elonmusk/status/2120761225529168312#m",
@@ -2361,290 +2619,6 @@
       },
       "ctx_done": 1,
       "text_zh": "成为超级智能计算机并不总是像看起来那么伟大 😂\n\n\n法律 (@TheLaw3210)\n\n😪\n\n\n\n\n\n— https://nitter.kareem.one/TheLaw3210/status/2116452007661678836#m"
-    },
-    {
-      "text": "Well said",
-      "link": "https://x.com/elonmusk/status/2116543047882174662#m",
-      "date": "Sat, 31 Oct 2026 14:49:20 GMT",
-      "tweet_id": "2116543047882174662",
-      "quoted": {
-        "user": "KemiBadenoch",
-        "text": "Slavery was an evil in which people from every continent and region participated. We should be honest about the whole history, not select the parts that are politically convenient today, especially given Britain's leading role in ending the transatlantic slave trade.\n\nIf Caribbean countries are asking Britain for a formal apology for Britain’s role in the transatlantic slave trade, will they also be asking the same of the descendants of African kingdoms, rulers and merchants who captured, sold and profited from the trade?\n\nOn demands for reparations, whether through cash or debt relief, we have been down this track before. Twenty-five years ago, Jubilee 2000, Drop the Debt and Make Poverty History argued that cancelling the debts of poorer countries would give them a fresh start. More than $100 billion of debt was eventually written off, but many of those countries have since built up even bigger debts. Labour are already spending too much on Britain's welfare state, now is not the time for Andy Burnham to be providing global welfare. \n\nThere is no reason British taxpayers today should be held financially responsible for things that happened generations before any of us were born. And I have even less patience for political elites in commonwealth countries who don’t know how to make their own citizens prosperous now looking for another opportunity to blame Britain.\n\nAs Prime Minister, Andy Burnham should be Britain’s greatest defender. Instead, he is writing articles saying we need to confront our history (as if we haven't done enough of that) and considering another formal historical apology. Tony Blair already expressed Britain’s deep sorrow and regret for our role in the slave trade nearly twenty years ago. There is no need to do so again. \n\nThis is all another navel-gazing distraction. The Commonwealth should be looking forward, not endlessly backwards. That means economic partnerships to make us all richer and deeper military and security cooperation against common threats. If every Commonwealth summit becomes an exercise in presenting Britain with demands for cash then we need to start asking if it is worth the effort.",
-        "text_zh": "奴隶制是一种邪恶，来自各大洲和地区的人们都参与其中。我们应该诚实地对待整个历史，而不是选择今天政治上方便的部分，特别是考虑到英国在结束跨大西洋奴隶贸易方面发挥的主导作用。\n\n如果加勒比国家要求英国就其在跨大西洋奴隶贸易中所扮演的角色正式道歉，那么他们是否也会向那些捕获、出售奴隶并从奴隶贸易中获利的非洲王国、统治者和商人的后裔提出同样的要求？\n\n关于赔偿要求，无论是通过现金还是债务减免，我们以前也曾走过这条路。二十五年前，《2000 年禧年》，《放弃债务，让贫困成为历史》指出，取消较贫穷国家的债务将使它们重新开始。超过 1000 亿美元的债务最终被注销，但其中许多国家此后又积累了更大的债务。工党已经在英国的福利国家上花费了太多，现在不是安迪·伯纳姆提供全球福利的时候。 \n\n今天的英国纳税人没有理由对我们出生前几代人发生的事情承担经济责任。我对英联邦国家的政治精英更没有耐心，他们不知道如何让自己的公民繁荣，现在正在寻找另一个指责英国的机会。\n\n作为首相，安迪·伯纳姆应该是英国最伟大的捍卫者。相反，他正在写文章说我们需要面对我们的历史（好像我们做得还不够）并考虑再次正式的历史道歉。托尼·布莱尔在近二十年前就已经表达了英国对我们在奴隶贸易中所扮演的角色的深切哀悼和遗憾。没有必要再这样做了。 \n\n这又是一种自我中心化的干扰。英联邦应该向前看，而不是无休止地倒退。这意味着经济伙伴关系将使我们所有人更加富裕，并开展更深入的军事和安全合作以应对共同威胁。如果每次英联邦峰会都成为向英国提出现金需求的练习，那么我们需要开始问这是否值得付出努力。"
-      },
-      "ctx_done": 1,
-      "text_zh": "说得好"
-    },
-    {
-      "text": "vittorio (@IterIntellectus)\n\nsouth africa went from a first world country with nuclear power and one of the largest railway systems in the world to a third world country in just 30 years\n\nprogress is not a guarantee. decay is the natural state of things\n\n\n\n— https://nitter.kareem.one/IterIntellectus/status/2116507734430367782#m",
-      "link": "https://x.com/elonmusk/status/2116541008208884211#m",
-      "date": "Sat, 31 Oct 2026 14:41:14 GMT",
-      "tweet_id": "2116541008208884211",
-      "quoted": {
-        "user": "IterIntellectus",
-        "text": "south africa went from a first world country with nuclear power and one of the largest railway systems in the world to a third world country in just 30 years\n\nprogress is not a guarantee. decay is the natural state of things",
-        "text_zh": "南非在短短 30 年内从一个拥有核电和世界上最大铁路系统之一的第一世界国家变成了第三世界国家\n\n进步并不能保证。腐烂是事物的自然状态"
-      },
-      "ctx_done": 1,
-      "text_zh": "维托里奥（@IterIntellectus）\n\n南非在短短 30 年内从一个拥有核电和世界上最大铁路系统之一的第一世界国家变成了第三世界国家\n\n进步并不能保证。腐烂是事物的自然状态\n\n\n\n— https://nitter.kareem.one/IterIntellectus/status/2116507734430367782#m"
-    },
-    {
-      "text": "Elon Musk answers the most ambitious question: “What do we do after a Terafab?”\n\nHow do we achieve a PETAWATT-scale future built on the Moon?\n\nThe vision is to use Tesla Optimus robots, humans and local lunar manufacturing to build massive compute infrastructure, then launch it into deep space using electromagnetic mass drivers\n\nBecause the Moon has no atmosphere and only one-sixth of Earth’s gravity, electromagnetic mass drivers could accelerate payloads to escape velocity using electricity instead of conventional chemical rocket propulsion\n\nSo no combustion burning rocket fuel is required for launch from the lunar surface\n\nThat opens the door to scaling compute by another THREE orders of magnitude:\n\nTerawatt → Petawatt\n\nA staggering 1,000× increase in scale\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nLaunching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2116526323938328597#m",
-      "link": "https://x.com/XFreeze/status/2116535407093703056#m",
-      "date": "Sat, 31 Oct 2026 14:18:59 GMT",
-      "tweet_id": "2116535407093703056",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "@spencerpratt Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy",
-        "text_zh": "@spencerpratt 在月球上用质量驱动器向深空发射超级智能卫星可以实现>>拍瓦/年的能力，这将远远超过地球经济的最佳案例价值"
-      },
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克回答了最雄心勃勃的问题：“Terafab 之后我们做什么？”\n\n我们如何在月球上实现 PETAWATT 规模的未来？\n\n愿景是利用 Tesla Optimus 机器人、人类和当地月球制造来构建大规模计算基础设施，然后使用电磁质量驱动器将其发射到深空\n\n由于月球没有大气层，重力只有地球的六分之一，因此电磁质量驱动器可以使用电力而不是传统的化学火箭推进器来加速有效载荷以达到逃逸速度\n\n因此从月球表面发射不需要燃烧火箭燃料\n\n这为将计算量再扩大三个数量级打开了大门：\n\n太瓦 → 拍瓦\n\n规模惊人地增加了 1,000 倍\n\n视频\n  \n\n\n\n\n埃隆·马斯克 (@elonmusk)\n\n在月球上向深空发射带有质量驱动器的超级智能卫星可以实现>>拍瓦/年的能力，这将远远超过地球经济的最佳案例价值\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2116526323938328597#m"
-    },
-    {
-      "text": "Talarico wants to open the borders and legalize everyone to gain a permanent majority to end democracy in America\nVideo",
-      "link": "https://x.com/elonmusk/status/2116530550831780131#m",
-      "date": "Sat, 31 Oct 2026 13:59:41 GMT",
-      "tweet_id": "2116530550831780131",
-      "quoted": {
-        "user": "america",
-        "text": "Democrat Nominee for U.S. Senate in Texas James Talarico calls for “a pathway for citizenship” for illegal aliens.\n\nThey want to make them their new voters.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103250118782730240/img/wlOPT2T1vdwPuBwb.jpg",
-            "local": "2116530550831780131q_0.jpg"
-          }
-        ],
-        "text_zh": "德克萨斯州美国参议院民主党候选人詹姆斯·塔拉里科呼吁为非法移民提供“一条获得公民身份的途径”。\n\n他们想让他们成为新的选民。"
-      },
-      "ctx_done": 1,
-      "text_zh": "塔拉里科希望开放边界并使所有人合法化以获得永久多数以结束美国的民主\n视频"
-    },
-    {
-      "text": "Congrats to the @SpaceX team on over 700 Falcon 9 flights!",
-      "link": "https://x.com/elonmusk/status/2116523818449805452#m",
-      "date": "Sat, 31 Oct 2026 13:32:56 GMT",
-      "tweet_id": "2116523818449805452",
-      "quoted": {
-        "user": "XFreeze",
-        "text": "SpaceX has now crossed 700 Falcon 9 launches\n\n700 missions flown by a single rocket family, at a scale and pace that have completely transformed modern spaceflight\n\nStarlink 15-16 marked the 700th mission on October 27, with Starlink 15-18 following as the 701st on October 31\n\nSince its first flight in 2010, Falcon 9 has revolutionized space transportation through reusable rocket technology\n\nWhat once took years now happens every few days\n\nSpaceX has turned launching and landing rockets into routine spaceflight\n\nAnd that's an absolutely extraordinary engineering achievement",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV8NoRcbcAEChIj.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV8NoRcbcAEChIj.jpg?name=orig",
-            "local": "2116523818449805452q_0.jpg"
-          }
-        ],
-        "text_zh": "SpaceX 猎鹰 9 号发射次数现已突破 700 次\n\n单一火箭系列执行了 700 次任务，其规模和速度彻底改变了现代航天\n\n星链 15-16 号于 10 月 27 日执行第 700 次任务，星链 15-18 号于 10 月 31 日执行第 701 次任务\n\n自 2010 年首次飞行以来，猎鹰 9 号通过可重复使用的火箭技术彻底改变了太空运输\n\n曾经需要数年的事情现在每隔几天就会发生\n\nSpaceX已将火箭发射和着陆变成常规航天飞行\n\n这绝对是一项非凡的工程成就"
-      },
-      "ctx_done": 1,
-      "text_zh": "祝贺@SpaceX 团队完成了 700 多次猎鹰 9 号飞行！"
-    },
-    {
-      "text": "This is wnat Dems have said they will do!\n\nVideo",
-      "link": "https://x.com/elonmusk/status/2116523096551440822#m",
-      "date": "Sat, 31 Oct 2026 13:30:03 GMT",
-      "tweet_id": "2116523096551440822",
-      "ctx_done": 1,
-      "text_zh": "这就是民主党所说的他们会做的事情！\n\n视频"
-    },
-    {
-      "text": "You are not living in a time of peace. You are already at war, whether you recognize it or not.\nTime is running out, and there is nowhere left to retreat.\nVideo",
-      "link": "https://x.com/Ne_pas_couvrir/status/2116508301739381179#m",
-      "date": "Sat, 31 Oct 2026 12:31:16 GMT",
-      "tweet_id": "2116508301739381179",
-      "quoted": {
-        "user": "infantrydort",
-        "text": "The enemy of our age is literally global Bolshevism. And Bolsheviks are demons in human form.  \n\nThe modern enemies of civilization may not refer to themselves as Bolsheviks, but their end state is the same: gain and retain power by any means necessary and crush dissent.\n\nYou’re seeing it happen everywhere. \n\n>Uprisings in Europe\n>A coup in Poland\n>Brazil jailing political opponents\n>Political persecution against INDIVIDUALS\n\nThat’s how you know what they do is evil. They don’t talk about making life better, no. They talk about persecuting and punishing people.\n\nIt starts with “oversight” or legal trouble. It ends with them literally tearing the flesh from your bones. Or exhuming dead nuns and putting them on display in town squares. Open a history book and see where this path of envy leads. See for yourselves what they do.\n\nIt must be understood that they are the most intolerant “humans” on earth. And the side that is the most intolerant always wins.\n\nOnly when you stand up and become MORE intolerable, do you sufficiently crush them. This isn’t about partisan politics anymore. Whoever still thinks that way is a half wit.\n\nThis is literally a life or death struggle for the fate of humanity.",
-        "text_zh": "我们这个时代的敌人实际上是全球布尔什维克主义。布尔什维克是人形恶魔。  \n\n现代文明的敌人可能不会称自己为布尔什维克，但他们的最终状态是相同的：通过任何必要手段获得并保留权力并镇压异议。\n\n你会看到这种情况随处发生。 \n\n>欧洲起义\n>波兰政变\n>巴西监禁政治对手\n>对个人的政治迫害\n\n这就是你如何知道他们所做的事情是邪恶的。他们不谈论让生活变得更好，不。他们谈论迫害和惩罚人们。\n\n它始于“监督”或法律问题。最终他们将你的肉从骨头上撕下来。或者挖掘死去的修女并将其放在城镇广场上展示。打开一本历史书，看看这条嫉妒之路通向何方。亲眼看看他们做了什么。\n\n必须明白，他们是地球上最不宽容的“人类”。最不宽容的一方总是获胜。\n\n只有当你站起来并变得更加难以忍受时，你才足以粉碎他们。这不再是党派政治的问题。谁要是还这么想，那他就是个傻子。\n\n这实际上是一场关乎人类命运的生死之战。"
-      },
-      "ctx_done": 1,
-      "text_zh": "你并不是生活在和平时期。无论你是否意识到，你已经处于战争之中。\n时间已经不多了，已经无处可退。\n视频"
-    },
-    {
-      "text": "Elon Musk on why the hand is the hardest part of building Optimus:\n\"Well, I have to say, building a humanoid robot has really made me think a lot about how the human body works. But maybe more than anything, just how incredible our hands are. It's like, wow.\"\n\"Almost all the muscles that control your hand are actually in your forearm. And they're pulling your fingers like puppets.\"\n@elonmusk\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2116356053046837384#m",
-      "date": "Sat, 31 Oct 2026 02:26:17 GMT",
-      "tweet_id": "2116356053046837384",
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么手是构建擎天柱最难的部分：\n“嗯，我不得不说，建造一个人形机器人确实让我思考了很多关于人体如何运作的问题。但也许最重要的是，我们的手是多么令人难以置信。就像，哇。”\n“几乎所有控制你手的肌肉实际上都在你的前臂。它们像木偶一样拉动你的手指。”\n@埃隆马斯克\n\n视频"
-    },
-    {
-      "text": "Ken Paxton has been the most effective record of any Attorney General in America.\n\nJames Talarico, meanwhile, has spent millions of dollars trying convince people that he's normal.\n\nVideo",
-      "link": "https://x.com/realBrandonGill/status/2116355224667570300#m",
-      "date": "Sat, 31 Oct 2026 02:23:00 GMT",
-      "tweet_id": "2116355224667570300",
-      "ctx_done": 1,
-      "text_zh": "肯·帕克斯顿是美国司法部长中最有成效的记录。\n\n与此同时，詹姆斯·塔拉里科花费了数百万美元试图让人们相信他是正常人。\n\n视频"
-    },
-    {
-      "text": "As a father who just chose not to send my older son to public school, here's what's happening:\n1. NYC public schools are full of woke, mentally ill people. The teachers, the students, the counselors, everyone is wacked out. If you're just a normal parent that wants a normal school with a normal focus on education, good behavior, friendship, manners, etc. you are shit out of luck.\n2. While there are some good elementary schools, most middle schools are atrocious, and result in some of the biggest drops in education outcomes. Even if you send your kid to a good elementary public school, you're 100% going to move in time for middle school. And if you make it to high school, your only hope are the specialized schools, but mamdani the islamist is intent on destroying them, which would completely fuck your kids.\n3. The average kid in an average NYC public school is stupid as hell. 70% do not read proficiently for their grade level. They can't do math. They have a ton of behavioral issues and are bad influences on your kid.\nAs a normal father of a normal family I'm paying an absurd amount of taxes and for what? My hard earned money is being wasted on the comically evil teachers union, paying adult day care fraudsters, and subsidizing the \"73% of public school students in poverty.\" This is just a scam. Those kids are not in poverty. Their parents work under the table, don't report anything to not pay taxes, and get ridiculous government subsidies. \nEveryone is running a scam and families like mine are paying for it. It's no wonder so many of my peers left and despite living in NYC for coming on 30 years, I probably will too at some point.",
-      "link": "https://x.com/ViktorBunin/status/2116345067501756649#m",
-      "date": "Sat, 31 Oct 2026 01:42:38 GMT",
-      "tweet_id": "2116345067501756649",
-      "quoted": {
-        "user": "MarkLevineNYC",
-        "text": "Today my office has released a major new report on student enrollment in NYC.\n\nWe found that k-12 enrollment in our public schools has fallen by 187k since 2013, with a projected decline of an additional 128k students by 2034.\n\nAs total enrollment declines, NYCPS is serving a student population with growing needs. The number of students with disabilities is increasing. In the most recent school year, approximately 73% of students were in poverty and 14% were homeless or living in temporary housing.\n\nOur report finds the drop in enrollment is driven by declining births and families with children leaving NYC, with a particularly notable drop in public-school enrollment as students transition from elementary to middle school.\n\nThese trends have massive implications for our schools that we have only barely begin to grapple with. My hope is that this report will spur a long overdue conversation about what the era of falling student enrollment means for NYC, and what we can do to reverse or slow it. 🧵",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV0sHNSWQAEWZmL.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HV0sHNSWQAEWZmL.png?name=orig",
-            "local": "2116345067501756649q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV0tArjWUAAaXuk.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HV0tArjWUAAaXuk.png?name=orig",
-            "local": "2116345067501756649q_1.jpg"
-          }
-        ],
-        "text_zh": "今天，我的办公室发布了一份关于纽约市学生入学情况的重要新报告。\n\n我们发现，自 2013 年以来，公立学校的 K-12 入学人数已减少 18.7 万人，预计到 2034 年将再减少 12.8 万人。\n\n随着入学总数的下降，NYCPS 正在为需求不断增长的学生群体提供服务。残疾学生的数量正在增加。在最近一个学年，大约 73% 的学生陷入贫困，14% 无家可归或住在临时住房中。\n\n我们的报告发现，入学率下降的原因是出生率下降和有孩子的家庭离开纽约市，其中随着学生从小学到初中的过渡，公立学校入学率下降尤其显着。\n\n这些趋势对我们的学校产生了巨大的影响，但我们才刚刚开始应对。我希望这份报告能够引发一场早该进行的对话，讨论学生入学率下降的时代对纽约市意味着什么，以及我们可以采取哪些措施来扭转或减缓这种情况。 🧵"
-      },
-      "ctx_done": 1,
-      "text_zh": "作为一名刚刚选择不送大儿子去公立学校的父亲，发生了以下事情：\n1. 纽约公立学校里挤满了清醒的精神病患者。老师、学生、辅导员，每个人都惊呆了。如果你只是一个普通的家长，想要一所普通的学校，注重教育、良好的行为、友谊、礼仪等，那么你就运气不好了。\n2. 虽然有一些不错的小学，但大多数中学都很糟糕，导致教育成果下降幅度最大。即使你把你的孩子送到一所好的公立小学，你也 100% 能及时升入中学。如果你能上高中，你唯一的希望就是特殊学校，但伊斯兰主义者曼达尼一心要摧毁它们，这会让你的孩子彻底操蛋。\n3. 纽约市普通公立学校的普通孩子都蠢得要命。 70% 的学生阅读能力不符合其年级水平。他们不会做数学。他们有很多行为问题，并对您的孩子产生不良影响。\n作为一个普通家庭的普通父亲，我缴纳了一笔荒谬的税款，为什么呢？我辛苦赚来的钱都被浪费在了可笑的邪恶教师工会上，付钱给成人日托欺诈者，并补贴“73％的贫困公立学校学生”。这只是一个骗局。那些孩子并不贫困。他们的父母在幕后工作，不报告任何事情不纳税，并获得荒谬的政府补贴。 \n每个人都在进行骗局，像我这样的家庭正在为此付出代价。难怪我的很多同龄人都离开了，尽管我在纽约生活了 30 年，但我可能在某个时候也会离开。"
-    },
-    {
-      "text": "“The most important thing in the world is family and love.”",
-      "link": "https://x.com/cb_doge/status/2116341509612281911#m",
-      "date": "Sat, 31 Oct 2026 01:28:30 GMT",
-      "tweet_id": "2116341509612281911",
-      "ctx_done": 1,
-      "text_zh": "“世界上最重要的是家庭和爱情。”"
-    },
-    {
-      "text": "Cool\nVideo",
-      "link": "https://x.com/elonmusk/status/2116306579779731464#m",
-      "date": "Fri, 30 Oct 2026 23:09:42 GMT",
-      "tweet_id": "2116306579779731464",
-      "quoted": {
-        "user": "everestchris6",
-        "text": "grok bot can now see what's on your phone and answer anything about it\n\njust hold the action button and ask what you need:\n\n> ask anything about the video you're watching\n> tell it to build what you saw in a reel for your business\n> ask it to break down the article you're reading\n\nit can watch videos, read posts, check the web, basically everything.\n\ni built it as a free iphone shortcut and made it open source, you can grab it below",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116183407868973056/img/wSgccKH8bSwFINFR.jpg",
-            "local": "2116306579779731464q_0.jpg"
-          }
-        ],
-        "text_zh": "grok 机器人现在可以查看您手机上的内容并回答相关问题\n\n只需按住操作按钮并询问您需要什么：\n\n> 询问有关您正在观看的视频的任何问题\n> 告诉它为您的企业构建您在卷轴中看到的内容\n> 要求它分解您正在阅读的文章\n\n它可以观看视频、阅读帖子、查看网页，基本上一切都可以。\n\n我将它构建为免费的 iPhone 快捷方式并使其开源，您可以在下面获取它"
-      },
-      "ctx_done": 1,
-      "text_zh": "酷\n视频"
-    },
-    {
-      "text": "🚨 LETS GO TEXAS!\n\nTrump just dropped the full Texas slate.\n\nKen Paxton for Senate. Greg Abbott for Governor. Dan Patrick. Mayes Middleton. Don Huffines. Dawn Buckingham. Plus the entire House lineup.\n\nComplete and total endorsement. Texas, get out and vote!\n\nKeep Texas RED!\n\nVideo",
-      "link": "https://x.com/GuntherEagleman/status/2116306289743552777#m",
-      "date": "Fri, 30 Oct 2026 23:08:33 GMT",
-      "tweet_id": "2116306289743552777",
-      "ctx_done": 1,
-      "text_zh": "🚨 去德克萨斯吧！\n\n特朗普刚刚放弃了德克萨斯州的全部名单。\n\n肯·帕克斯顿竞选参议员。格雷格·阿博特竞选州长。丹·帕特里克.梅耶斯·米德尔顿。唐·赫芬斯。黎明白金汉。再加上整个众议院阵容。\n\n完全和完全的认可。德克萨斯州，出去投票吧！\n\n保持德克萨斯红！\n\n视频"
-    },
-    {
-      "text": "Think of Grok @Bot as a work colleague",
-      "link": "https://x.com/elonmusk/status/2116305829381263528#m",
-      "date": "Fri, 30 Oct 2026 23:06:43 GMT",
-      "tweet_id": "2116305829381263528",
-      "quoted": {
-        "user": "0xgaut",
-        "text": "Something I've noticed that makes working with grok bot more delightful: it actually feels like you're talking to a coworker. Shorter sentences, less BS and fluff.",
-        "text_zh": "我注意到，使用 grok 机器人变得更加令人愉快：实际上感觉就像您正在与同事交谈。句子更短，更少废话和废话。"
-      },
-      "ctx_done": 1,
-      "text_zh": "将 Grok @Bot 视为同事"
-    },
-    {
-      "text": "Eli Lilly has some banger drugs coming out!",
-      "link": "https://x.com/elonmusk/status/2116296438942765394#m",
-      "date": "Fri, 30 Oct 2026 22:29:24 GMT",
-      "tweet_id": "2116296438942765394",
-      "quoted": {
-        "user": "DaveARicks",
-        "text": "I’ll take that bet.",
-        "text_zh": "我会接受这个赌注。"
-      },
-      "ctx_done": 1,
-      "text_zh": "礼来公司（Eli Lilly）推出了一些危险药物！"
-    },
-    {
-      "text": "Yes",
-      "link": "https://x.com/elonmusk/status/2116296050168508726#m",
-      "date": "Fri, 30 Oct 2026 22:27:51 GMT",
-      "tweet_id": "2116296050168508726",
-      "quoted": {
-        "user": "fnthawar",
-        "text": "People ought to think more about who wrote the software that's running in their head (sigh). It probably wasn't them\n\n-- Elon Musk",
-        "text_zh": "人们应该更多地思考谁编写了在他们脑海中运行的软件（叹气）。可能不是他们\n\n——埃隆·马斯克"
-      },
-      "ctx_done": 1,
-      "text_zh": "是的"
-    },
-    {
-      "text": "Voted in Texas for Paxton!",
-      "link": "https://x.com/gailalfaratx/status/2116294330638074103#m",
-      "date": "Fri, 30 Oct 2026 22:21:01 GMT",
-      "tweet_id": "2116294330638074103",
-      "ctx_done": 1,
-      "text_zh": "在德克萨斯州投票给帕克斯顿！"
-    },
-    {
-      "text": "Cool ❤️\n income (MFI) of $57,000 or less, and to those who live in zip codes with too few residents for an MFI to be reported in the census. These families should receive a notice by Monday. \nIn a few weeks, an additional gift will be finalized for eligible 11 to 17-year-old children in military families serving overseas, children in foster care, and more children whose MFI is $90,000 or less living in counties near our home in the great state of Texas.\nThank you to the incredible team @SpaceX, @Treasury, @IRS, @DellFdn, @GreaterHorizons, @InvestAmerica24, and the legal firms of Morgan Lewis and Gibson Dunn for working over the past few months to make this happen.\nWe are deeply grateful for the groundbreaking work that Brad Gerstner @altcap and @MichaelDell have done for the long-term financial security for millions of kids.\nGod Bless America!",
-      "link": "https://x.com/elonmusk/status/2116291813732495578#m",
-      "date": "Fri, 30 Oct 2026 22:11:01 GMT",
-      "tweet_id": "2116291813732495578",
-      "quoted": {
-        "user": "Gwynne_Shotwell",
-        "text": "Robert and I are thrilled that our gift of over 2 million shares of SpaceX stock will be distributed to children’s Trump accounts in December!\n \nOur initial gift (shares transferring to escrow as we speak) will go to 11 to 17-year-olds who live in zip codes with median family",
-        "text_zh": "罗伯特和我很高兴我们赠送的超过 200 万股 SpaceX 股票将于 12 月分发到孩子们的特朗普账户！\n \n我们最初的礼物（在我们发言时，股份已转移到托管）将送给居住在邮政编码中位家庭的 11 至 17 岁青少年"
-      },
-      "ctx_done": 1,
-      "text_zh": "酷❤️\n 收入 (MFI) 为 57,000 美元或以下，以及居住在人口普查中报告 MFI 的居民太少的邮政编码地区的人。 这些家庭应该会在周一之前收到通知。 \n几周后，我们将为海外服役的军人家庭中符合条件的 11 至 17 岁儿童、寄养儿童以及居住在我们家乡附近县（德克萨斯州）的 MFI 不超过 90,000 美元的更多儿童确定一份额外的礼物。\n感谢 @SpaceX、@Treasury、@IRS、@DellFdn、@GreaterHorizo​​ns、@InvestAmerica24 等令人难以置信的团队，以及 Morgan Lewis 和 Gibson Dunn 律师事务所在过去几个月为实现这一目标所做的努力。\n我们非常感谢 Brad Gerstner @altcap 和 @MichaelDell 为数百万儿童的长期财务安全所做的开创性工作。\n上帝保佑美国！"
-    },
-    {
-      "text": "Count Dooku is one of the weirdest parts of the Star Wars movies. Everything he says is factual and is later proven correct. Wat means? George Lucas and the Boomers are saying you are not allowed to criticize their Jedi religion of Boomer Hippie International Liberalism. Anakin, your job as a Sensitive Young Man is to be a janitor and play cleanup on Aisle 9 because Mace Windu and Yoda were goofing off and accidentally spent decades funneling money to a separatist insurgency of foreign barbarians. That's what it means to be a Jedi, young Anakin, as long as you remain \"balanced in the Force\" you are allowed to crash this whole Republic off a cliff at high speed.",
-      "link": "https://x.com/ThomBrady5/status/2116291595934843342#m",
-      "date": "Fri, 30 Oct 2026 22:10:09 GMT",
-      "tweet_id": "2116291595934843342",
-      "quoted": {
-        "user": "Templarpilled",
-        "text": "Don't forget the time Dooku cooked Yoda and the entire Jedi Order",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV4SvWVXsAA0Wv_.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV4SvWVXsAA0Wv_.jpg?name=orig",
-            "local": "2116291595934843342q_0.jpg"
-          }
-        ],
-        "text_zh": "别忘了杜库煮尤达和整个绝地武士团的时候"
-      },
-      "ctx_done": 1,
-      "text_zh": "杜库伯爵是星球大战电影中最奇怪的部分之一。他所说的一切都是事实，并且后来被证明是正确的。瓦是什么意思？乔治·卢卡斯和婴儿潮一代说，你不可以批评他们的婴儿潮一代嬉皮国际自由主义的绝地宗教。阿纳金，作为一个敏感的年轻人，你的工作是当一名看门人，在 9 号过道上打扫卫生，因为梅斯·温杜和尤达偷懒，无意中花了几十年的时间向外国野蛮人的分离主义叛乱分子输送资金。这就是成为绝地武士的意义，年轻的阿纳金，只要你保持“原力平衡”，你就可以将整个共和国高速撞下悬崖。"
-    },
-    {
-      "text": "True\n\n\nDogeDesigner (@cb_doge)\n\nBREAKING: Cathie Wood says SpaceX is severely undervalued.\n\nSpaceX brings together AI, robotics and energy storage. But traditional space, cloud and AI analysts work separately, making it harder to understand how these technologies strengthen one another.\n\nWood says firms are now assigning teams of analysts to SpaceX. As they collaborate and compare notes, she expects that undervaluation to clear up.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/cb_doge/status/2116275605272695004#m",
-      "link": "https://x.com/elonmusk/status/2116291315432587740#m",
-      "date": "Fri, 30 Oct 2026 22:09:03 GMT",
-      "tweet_id": "2116291315432587740",
-      "quoted": {
-        "user": "cb_doge",
-        "text": "BREAKING: Cathie Wood says SpaceX is severely undervalued.\n\nSpaceX brings together AI, robotics and energy storage. But traditional space, cloud and AI analysts work separately, making it harder to understand how these technologies strengthen one another.\n\nWood says firms are now assigning teams of analysts to SpaceX. As they collaborate and compare notes, she expects that undervaluation to clear up. https://x.com/ARKInvest/status/2116274183571227071/video/1",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116273309876666369/img/ovApUL6eFvk_A9F_.jpg",
-            "local": "2116291315432587740q_0.jpg"
-          }
-        ],
-        "text_zh": "突发新闻：Cathie Wood 表示 SpaceX 的价值被严重低估。\n\nSpaceX 将人工智能、机器人技术和能源存储结合在一起。但传统的太空、云和人工智能分析师是分开工作的，这使得人们更难理解这些技术如何相互加强。\n\n伍德表示，公司现在正在向 SpaceX 派遣分析师团队。当他们合作并交换意见时，她预计这种低估现象将会消失。 https://x.com/ARKInvest/status/2116274183571227071/video/1"
-      },
-      "ctx_done": 1,
-      "text_zh": "真实\n\n\nDogeDesigner (@cb_doge)\n\n突发新闻：Cathie Wood 表示 SpaceX 的价值被严重低估。\n\nSpaceX 将人工智能、机器人技术和能源存储结合在一起。但传统的太空、云和人工智能分析师是分开工作的，这使得人们更难理解这些技术如何相互加强。\n\n伍德表示，公司现在正在向 SpaceX 派遣分析师团队。当他们合作并交换意见时，她预计这种低估现象将会消失。\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/cb_doge/status/2116275605272695004#m"
     }
   ]
 }
