@@ -1,12 +1,58 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-14T05:51:58Z",
+  "updated_at": "2026-11-14T13:18:29Z",
   "count": 200,
   "tweets": [
     {
-      "text": "A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to. https://t.co/kmrXpnMLZn",
-      "link": "https://x.com/teslaownersSV/status/2121479296556662961",
-      "date": "Sat Nov 14 05:44:14 +0000 2026",
+      "text": "Elon Musk on why his own Tesla Roadster flew on the first Falcon Heavy instead of \"a chunk of concrete\":\n\n\"We can't put a chunk of concrete, that's going to be super boring.\"\n\nA new rocket's first flight usually carries a dummy weight, because nobody risks an expensive satellite on it. A friend suggested a Tesla, and Elon used the one in his garage.\n\n\"This is literally the car that I was driving around LA, is now in orbit around Earth and Mars.\"\n\nHis reaction when it all worked: \"Holy crap, I can't believe it all worked. This is insane.\"\n\n@elonmusk\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121517845968519225#m",
+      "date": "Sat, 14 Nov 2026 08:17:25 GMT",
+      "tweet_id": "2121517845968519225",
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克（Elon Musk）解释了为什么他自己的特斯拉跑车在第一架猎鹰重型飞机上飞行，而不是“一块混凝土”：\n\n“我们不能放置一块混凝土，那会非常无聊。”\n\n新火箭的首次飞行通常会携带一个虚拟重量，因为没有人会冒险搭载昂贵的卫星。一位朋友推荐了一辆特斯拉，埃隆在他的车库里使用了这辆。\n\n“这实际上就是我在洛杉矶周围驾驶的汽车，现在正在绕地球和火星运行。”\n\n当这一切奏效时，他的反应是：“天哪，我不敢相信这一切都奏效了。这太疯狂了。”\n\n@埃隆马斯克\n\n视频"
+    },
+    {
+      "text": "Going to Starbase is one thing you have to do in your lifetime.\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121496628129653048#m",
+      "date": "Sat, 14 Nov 2026 06:53:06 GMT",
+      "tweet_id": "2121496628129653048",
+      "ctx_done": 1,
+      "text_zh": "去Starbase是你一生中必须要做的一件事。\n\n视频"
+    },
+    {
+      "text": "Grok @bot is a game changer. It created the whole script and edited this video. @elonmusk\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121495360598417728#m",
+      "date": "Sat, 14 Nov 2026 06:48:04 GMT",
+      "tweet_id": "2121495360598417728",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121479200859475968/img/pI2DqiGK5CdPb_25.jpg",
+            "local": "2121495360598417728q_0.jpg"
+          }
+        ],
+        "text_zh": "一辆没有方向盘的汽车售价 29,990 美元。我浏览了特斯拉的 Cyber​​cab 订单页面，所以您不必这样做。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @bot 是一个游戏规则改变者。它创建了整个脚本并编辑了该视频。 @埃隆马斯克\n视频"
+    },
+    {
+      "text": "It will be available nationwide, as we receive regulatory approval. \n\nBut the monthly fee is too high. Should match the cost of Tesla FSD and connectivity for other models, which is more like ~$115/month.",
+      "link": "https://x.com/elonmusk/status/2121492849002987844#m",
+      "date": "Sat, 14 Nov 2026 06:38:05 GMT",
+      "tweet_id": "2121492849002987844",
+      "reply_to": "MKBHD",
+      "ctx_done": 1,
+      "text_zh": "当我们获得监管部门的批准后，它将在全国范围内推出。 \n\n但月费太高了。应该与特斯拉 FSD 和其他车型的连接成本相匹配，大约为每月 115 美元。"
+    },
+    {
+      "text": "A car with no steering wheel for $29,990. I walked through Tesla's Cybercab order page so you don't have to.\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121479296556662961#m",
+      "date": "Sat, 14 Nov 2026 05:44:14 GMT",
       "tweet_id": "2121479296556662961",
       "media": [
         {
@@ -27,16 +73,16 @@
     },
     {
       "text": "Hey @bot, you need more guardrails around disk space? The bots shouldn’t stop working at full disk capacity. I’ve set up a bot but it didn’t stop it from getting full. @elonmusk @mattyp",
-      "link": "https://x.com/teslaownersSV/status/2121464413551268247",
-      "date": "Sat Nov 14 04:45:05 +0000 2026",
+      "link": "https://x.com/teslaownersSV/status/2121464413551268247#m",
+      "date": "Sat, 14 Nov 2026 04:45:05 GMT",
       "tweet_id": "2121464413551268247",
       "ctx_done": 1,
       "text_zh": "嘿@bot，您需要在磁盘空间周围设置更多护栏吗？机器人不应停止以满磁盘容量工作。我已经设置了一个机器人，但它并没有阻止它变满。 @elonmusk @mattyp"
     },
     {
       "text": "Farzad needs to shave his head",
-      "link": "https://x.com/teslaownersSV/status/2121462515930693963",
-      "date": "Sat Nov 14 04:37:33 +0000 2026",
+      "link": "https://x.com/teslaownersSV/status/2121462515930693963#m",
+      "date": "Sat, 14 Nov 2026 04:37:33 GMT",
       "tweet_id": "2121462515930693963",
       "quoted": {
         "user": "farzyness",
@@ -68,9 +114,9 @@
       "text_zh": "RT @Newsforce：在特斯拉社区强烈反对后，埃隆·马斯克扩大了 CYBERTRUCK 的生产 |堆栈\n\n“这不是公关中最明智的举动……"
     },
     {
-      "text": "ELON MUSK EXTENDS CYBERTRUCK PRODUCTION AFTER TESLA COMMUNITY BACKLASH | THE STACK\n\n“This is not the smartest move from a profit-maximizing standpoint, by the way, but there must be some room in this world for sentimentality, or what's the point?”\n\nJohn Stringer (@teslaownersSV) https://t.co/oCzP6vRo7r",
-      "link": "https://x.com/Newsforce/status/2121456840697602132",
-      "date": "Sat Nov 14 04:15:00 +0000 2026",
+      "text": "ELON MUSK EXTENDS CYBERTRUCK PRODUCTION AFTER TESLA COMMUNITY BACKLASH | THE STACK\n“This is not the smartest move from a profit-maximizing standpoint, by the way, but there must be some room in this world for sentimentality, or what's the point?”\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss Tesla's decision to extend Cybertruck production through summer 2027 following widespread disappointment among owners, with Musk prioritizing community sentiment over profitability.\nVideo\nVideo",
+      "link": "https://x.com/Newsforce/status/2121456840697602132#m",
+      "date": "Sat, 14 Nov 2026 04:15:00 GMT",
       "tweet_id": "2121456840697602132",
       "media": [
         {
@@ -100,12 +146,12 @@
         "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
       },
       "ctx_done": 1,
-      "text_zh": "在特斯拉社区强烈反对后，埃隆·马斯克扩大了赛博卡车的生产堆栈\n\n“顺便说一句，从利润最大化的角度来看，这不是最明智的举动，但这个世界上一定有感伤的空间，否则有什么意义呢？”\n\n约翰·斯金格 (@teslaownersSV) https://t.co/oCzP6vRo7r"
+      "text_zh": "在特斯拉社区强烈反对后，埃隆·马斯克扩大了赛博卡车的生产堆栈\n“顺便说一句，从利润最大化的角度来看，这不是最明智的举动，但这个世界上一定有感伤的空间，否则有什么意义呢？”\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 讨论了特斯拉决定将 Cyber​​truck 生产延长至 2027 年夏季，因为车主们普遍感到失望，马斯克将社区情绪置于盈利之上。\n视频\n视频"
     },
     {
-      "text": "All 26 Starlink V3 satellites are in orbit after Day 1 of Starship Flight 15. \n\nLiftoff from Pad 2, Max Q, hot staging, Super Heavy splashdown in the Gulf, orbit insertion and payload deploy. \n\nStarship now coasts about 21 hours in orbit. https://t.co/GozHLfExyO",
-      "link": "https://x.com/teslaownersSV/status/2121451211132203360",
-      "date": "Sat Nov 14 03:52:38 +0000 2026",
+      "text": "All 26 Starlink V3 satellites are in orbit after Day 1 of Starship Flight 15. \n\nLiftoff from Pad 2, Max Q, hot staging, Super Heavy splashdown in the Gulf, orbit insertion and payload deploy. \n\nStarship now coasts about 21 hours in orbit.\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121451211132203360#m",
+      "date": "Sat, 14 Nov 2026 03:52:38 GMT",
       "tweet_id": "2121451211132203360",
       "media": [
         {
@@ -125,9 +171,9 @@
       "text_zh": "星舰第 15 次飞行的第一天后，所有 26 颗星链 V3 卫星均进入轨道。 \n\n从 2 号发射台升空、Max Q、热升级、超重型在海湾溅落、轨道插入和有效载荷部署。 \n\n星舰现在在轨道上滑行约 21 小时。 https://t.co/GozHLfExyO"
     },
     {
-      "text": "Launch and landing, side by side, on Starship Flight 15. \n\nSuper Heavy leaves Pad 2 at Starbase, then lights its landing burn and splashes down in the Gulf instead of a tower catch. https://t.co/mRZsfybL4q",
-      "link": "https://x.com/teslaownersSV/status/2121449615748993217",
-      "date": "Sat Nov 14 03:46:17 +0000 2026",
+      "text": "Launch and landing, side by side, on Starship Flight 15. \n\nSuper Heavy leaves Pad 2 at Starbase, then lights its landing burn and splashes down in the Gulf instead of a tower catch.\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121449615748993217#m",
+      "date": "Sat, 14 Nov 2026 03:46:17 GMT",
       "tweet_id": "2121449615748993217",
       "media": [
         {
@@ -147,9 +193,9 @@
       "text_zh": "在 Starship Flight 15 上并排发射和着陆。 \n\n超级重型将 2 号基地留在 Starbase，然后点燃着陆燃烧器并溅入海湾，而不是被塔捕获。 https://t.co/mRZsfybL4q"
     },
     {
-      "text": "Lex Fridman to @elonmusk : \"One of the things you do for me, for the world, is to inspire us with what the future could be.\" \n\nNeuralink is that future. https://t.co/Kc94Zs1pR4",
-      "link": "https://x.com/teslaownersSV/status/2121445667285746145",
-      "date": "Sat Nov 14 03:30:36 +0000 2026",
+      "text": "Lex Fridman to @elonmusk : \"One of the things you do for me, for the world, is to inspire us with what the future could be.\" \n\nNeuralink is that future.\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121445667285746145#m",
+      "date": "Sat, 14 Nov 2026 03:30:36 GMT",
       "tweet_id": "2121445667285746145",
       "media": [
         {
@@ -190,9 +236,9 @@
       "text_zh": "RT @Newsforce：特斯拉赛博卡车车主捍卫极化电动皮卡 |堆栈\n\n“这确实是我驾驶过的最好的车辆......"
     },
     {
-      "text": "TESLA CYBERTRUCK OWNERS DEFEND THE POLARIZING ELECTRIC PICKUP | THE STACK\n\n“It is literally the best vehicle I've ever driven.”\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss the Cybertruck's mixed reception, with owners praising its off-road https://t.co/yBQQJJRQo9",
-      "link": "https://x.com/Newsforce/status/2121441741240734120",
-      "date": "Sat Nov 14 03:15:00 +0000 2026",
+      "text": "TESLA CYBERTRUCK OWNERS DEFEND THE POLARIZING ELECTRIC PICKUP | THE STACK\n“It is literally the best vehicle I've ever driven.”\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss the Cybertruck's mixed reception, with owners praising its off-road capabilities and cutting-edge technology despite its controversial design.\nVideo\nVideo",
+      "link": "https://x.com/Newsforce/status/2121441741240734120#m",
+      "date": "Sat, 14 Nov 2026 03:15:00 GMT",
       "tweet_id": "2121441741240734120",
       "media": [
         {
@@ -222,7 +268,7 @@
         "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
       },
       "ctx_done": 1,
-      "text_zh": "特斯拉赛博卡车车主捍卫偏光电动皮卡堆栈\n\n“这确实是我驾驶过的最好的车辆。”\n\n约翰·斯金格 (@teslaownersSV) 和约瑟夫·杰斐逊 (@SjvTesla) 讨论了 Cyber​​truck 的褒贬不一，车主称赞其越野能力 https://t.co/yBQQJJRQo9"
+      "text_zh": "特斯拉赛博卡车车主捍卫偏光电动皮卡堆栈\n“这确实是我驾驶过的最好的车辆。”\n约翰·斯金格 (@teslaownersSV) 和约瑟夫·杰斐逊 (@SjvTesla) 讨论了 Cyber​​truck 的褒贬不一的评价，车主称赞其越野能力和尖端技术，尽管其设计颇具争议。\n视频\n视频"
     },
     {
       "text": "RT @MattHolm3: Cybercab ordered! https://t.co/d4hFpuUApy",
@@ -268,9 +314,9 @@
       "text_zh": "RT @Newsforce：特斯拉自动驾驶可能比人类驾驶员安全 7 倍 |堆栈\n\n“这不是让人感到疲倦的事情。这不是一些......"
     },
     {
-      "text": "TESLA SELF-DRIVING COULD BE 7 TIMES SAFER THAN HUMAN DRIVERS | THE STACK\n\n“It's not something that gets tired. It's not something that gets drunk. It's not something that gets frustrated or mad.”\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss Tesla's https://t.co/sKADL1kLQ7",
-      "link": "https://x.com/Newsforce/status/2121426641679216701",
-      "date": "Sat Nov 14 02:15:00 +0000 2026",
+      "text": "TESLA SELF-DRIVING COULD BE 7 TIMES SAFER THAN HUMAN DRIVERS | THE STACK\n“It's not something that gets tired. It's not something that gets drunk. It's not something that gets frustrated or mad.”\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) discuss Tesla's potential FSD expansion across Europe, arguing that autonomous driving could save countless lives by eliminating human distractions and fatigue.\nVideo\nVideo",
+      "link": "https://x.com/Newsforce/status/2121426641679216701#m",
+      "date": "Sat, 14 Nov 2026 02:15:00 GMT",
       "tweet_id": "2121426641679216701",
       "media": [
         {
@@ -300,7 +346,7 @@
         "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
       },
       "ctx_done": 1,
-      "text_zh": "特斯拉自动驾驶比人类驾驶员安全 7 倍堆栈\n\n“这不是让人感到疲倦的东西。这不是让人喝醉的东西。这不是让人沮丧或生气的东西。”\n\n约翰·斯金格 (@teslaownersSV) 和约瑟夫·杰斐逊 (@SjvTesla) 讨论特斯拉的 https://t.co/sKADL1kLQ7"
+      "text_zh": "特斯拉自动驾驶比人类驾驶员安全 7 倍堆栈\n“这不是让人感到疲倦的东西。这不是让人喝醉的东西。这不是让人沮丧或生气的东西。”\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 讨论了特斯拉在欧洲潜在的 FSD 扩张，认为自动驾驶可以通过消除人类分心和疲劳来拯救无数生命。\n视频\n视频"
     },
     {
       "text": "RT @teslaownersSV: Tesla Cybercab Is On Sale for $29,990 w/ @futureaza https://t.co/KGD21Ucw1M",
@@ -311,9 +357,9 @@
       "text_zh": "RT @teslaownersSV：特斯拉 Cyber​​cab 售价 29,990 美元 @futureaza https://t.co/KGD21Ucw1M"
     },
     {
-      "text": "Tesla Cybercab Is On Sale for $29,990 w/ @futureaza https://t.co/KGD21Ucw1M",
-      "link": "https://x.com/teslaownersSV/status/2121416555774804286",
-      "date": "Sat Nov 14 01:34:55 +0000 2026",
+      "text": "Tesla Cybercab Is On Sale for $29,990 w/ @futureaza nitter.mizuki.st/i/broadcasts/2EmPVeOOA…\n\nLink\n\n\n\nTesla Owners Silicon Valley\n\nTesla Cybercab Is On Sale for $29,990 w/ @futureaza\nhttp://nitter.mizuki.st/i/broadcasts/2EmPVeOOAzNapV",
+      "link": "https://x.com/teslaownersSV/status/2121416555774804286#m",
+      "date": "Sat, 14 Nov 2026 01:34:55 GMT",
       "tweet_id": "2121416555774804286",
       "ctx_done": 1,
       "text_zh": "Tesla Cyber​​cab 售价 29,990 美元 @futureaza https://t.co/KGD21Ucw1M"
@@ -464,9 +510,9 @@
       "text_zh": "恶魔@elonmusk 在 13 号星期五攻击了 @MKBHD https://t.co/4zjs4IFfiI"
     },
     {
-      "text": "Cybercab ordered! https://t.co/d4hFpuUApy",
-      "link": "https://x.com/MattHolm3/status/2121403259332018338",
-      "date": "Sat Nov 14 00:42:05 +0000 2026",
+      "text": "Cybercab ordered!\n\nVideo",
+      "link": "https://x.com/MattHolm3/status/2121403259332018338#m",
+      "date": "Sat, 14 Nov 2026 00:42:05 GMT",
       "tweet_id": "2121403259332018338",
       "media": [
         {
@@ -659,6 +705,14 @@
       "text_zh": "RT @MattHolm3：Cyber​​cab 开放销售！ https://t.co/fEIC1fPuzS"
     },
     {
+      "text": "Launch and landing, side by side, on Starship Flight 15. \n\nSuper Heavy leaves Pad 2 at Starbase, then lights its landing burn and splashes down in the Gulf instead of a tower catch.\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121390967026778317#m",
+      "date": "Fri, 13 Nov 2026 23:53:14 GMT",
+      "tweet_id": "2121390967026778317",
+      "ctx_done": 1,
+      "text_zh": "在 Starship Flight 15 上并排发射和着陆。 \n\n超级重型将 2 号基地留在 Starbase，然后点燃着陆燃烧器并溅入海湾，而不是被塔捕获。\n\n视频"
+    },
+    {
       "text": "JUST IN: Tesla begins offering its Cybercab for personal use to select customers at $29,990, with a $1,000 deposit due at order &amp; a required $299/mo subscription after the first month. https://t.co/4NQaVzR6Mz",
       "link": "https://x.com/Polymarket/status/2121390154208383290",
       "date": "Fri Nov 13 23:50:00 +0000 2026",
@@ -699,6 +753,14 @@
       "tweet_id": "2121384582532546875",
       "ctx_done": 1,
       "text_zh": "好吧，我正式收回我的方向盘和踏板假设。\n\n你们都赢了。\n\n混蛋们确实在这么做。"
+    },
+    {
+      "text": "Every Starship launch, from Flight 1 to Flight 15.\n\nFlight 1 lifted off on April 20, 2023. Flight 14 lifted off on Sept 28, 2026, reached orbit for the first time and deployed 26 Starlink V3 satellites.\n\nFlight 15 lifted off on Nov 13, 2026. @elonmusk\n\nVideo",
+      "link": "https://x.com/teslaownersSV/status/2121379917254549990#m",
+      "date": "Fri, 13 Nov 2026 23:09:20 GMT",
+      "tweet_id": "2121379917254549990",
+      "ctx_done": 1,
+      "text_zh": "每次 Starship 发射，从 Flight 1 到 Flight 15。\n\n1号航班于2023年4月20日升空。14号航班于2026年9月28日升空，首次进入轨道，部署了26颗星链V3卫星。\n\n15 号航班于 2026 年 11 月 13 日起飞。@elonmusk\n\n视频"
     },
     {
       "text": "Cybercab opening up sales! https://t.co/fEIC1fPuzS",
@@ -922,6 +984,14 @@
       ],
       "ctx_done": 1,
       "text_zh": "请举报@johnstringerSV \n\n这是假的。 https://t.co/UnmzCF7oN3"
+    },
+    {
+      "text": "I'm so in ❤️ with Cybertruck",
+      "link": "https://x.com/TeslaTakesOver/status/2121294259982573946#m",
+      "date": "Fri, 13 Nov 2026 17:28:57 GMT",
+      "tweet_id": "2121294259982573946",
+      "ctx_done": 1,
+      "text_zh": "我非常喜欢 Cyber​​truck"
     },
     {
       "text": "This is Starship 42 up close on its way to the launch pad The plan for Flight 15 is to catch this ship with the tower when it comes back from orbit\n https://t.co/LIXjfbLyWU",
@@ -3950,146 +4020,6 @@
       },
       "ctx_done": 1,
       "text_zh": "RT @colby_energy：我们很高兴今年能参加 RE+ - 请来我们的展位体验我们最新的产品功能，例如 Powershare - rede..."
-    },
-    {
-      "text": "Investor Ron Baron compares Elon Musk to da Vinci.\n\n\"This guy is like da Vinci and an artist.\" https://t.co/tkf3pQK1DJ",
-      "link": "https://x.com/teslaownersSV/status/2120000272902869366",
-      "date": "Tue Nov 10 03:47:07 +0000 2026",
-      "tweet_id": "2120000272902869366",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120000177159503873/vid/avc1/1920x1080/fR8r7rxyX2iQ9CL1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120000177159503873/img/DppNV8mefs6ufGwx.jpg",
-          "local": "2120000272902869366_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120000177159503873/vid/avc1/1920x1080/fR8r7rxyX2iQ9CL1.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120000177159503873/img/DppNV8mefs6ufGwx.jpg",
-          "local": "2120000272902869366_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "投资者罗恩·巴伦将埃隆·马斯克比作达·芬奇。\n\n“这家伙就像达芬奇一样，也是一位艺术家。” https://t.co/tkf3pQK1DJ"
-    },
-    {
-      "text": "One Starship flight adds about as much Starlink capacity as 10 Falcon 9 launches.\n\nOn Flight 15, as soon as Friday, Starship is set to deploy 26 Starlink V3 satellites. Each one adds about 1 Tbps, roughly 10x a V2 Mini. A full load of 60 is designed to add 60 Tbps in a single https://t.co/XZHMm8uKOU",
-      "link": "https://x.com/teslaownersSV/status/2119995767888957885",
-      "date": "Tue Nov 10 03:29:13 +0000 2026",
-      "tweet_id": "2119995767888957885",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWu86liacAAITgy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWu86liacAAITgy.jpg?format=jpg&name=large",
-          "local": "2119995767888957885_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWu86liacAAITgy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWu86liacAAITgy.jpg?format=jpg&name=large",
-          "local": "2119995767888957885_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "一次星舰飞行增加的星链容量大约相当于 10 次猎鹰 9 号发射的容量。\n\nStarship 最快将于周五在 15 号航班上部署 26 颗 Starlink V3 卫星。每个增加约 1 Tbps，大约是 V2 Mini 的 10 倍。 60 的满载旨在在单个 https://t.co/XZHMm8uKOU 中增加 60 Tbps"
-    },
-    {
-      "text": "Everything is coming up @elonmusk \n\nOn today’s @FoxNews The Five, Jesse Watters:\n\n“Everything is coming up Elon. So he’s untouchable.”\n\n“There’s two pillars of wealth in this country. It’s oil and gas, and there’s Elon Musk.” https://t.co/ufJwLk3wMr",
-      "link": "https://x.com/teslaownersSV/status/2119971513239740428",
-      "date": "Tue Nov 10 01:52:50 +0000 2026",
-      "tweet_id": "2119971513239740428",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119971236344467456/vid/avc1/1920x1080/cnr1qDE9rLgHTLrp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119971236344467456/img/3Oe5dkTLROBMKwtw.jpg",
-          "local": "2119971513239740428_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119971236344467456/vid/avc1/1920x1080/cnr1qDE9rLgHTLrp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119971236344467456/img/3Oe5dkTLROBMKwtw.jpg",
-          "local": "2119971513239740428_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "一切都在发生@elonmusk \n\n在今天的 @FoxNews 五人组节目中，杰西·沃特斯 (Jesse Watters) 表示：\n\n“埃隆一切都在发生。所以他是不可触碰的。”\n\n“这个国家有两大财富支柱。一是石油和天然气，二是埃隆·马斯克。” https://t.co/ufJwLk3wMr"
-    },
-    {
-      "text": "People still guess Tesla builds about 10,000 cars a year. They just hit 10 million total.\n\n\"A lot of people don't realize that Tesla is the largest selling luxury vehicle in the world now.\"\n- Jay Leno, with Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: Jay Leno's Garage https://t.co/EAZ1PfLYQ5",
-      "link": "https://x.com/teslaownersSV/status/2119962830464299336",
-      "date": "Tue Nov 10 01:18:20 +0000 2026",
-      "tweet_id": "2119962830464299336",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119962768543780864/vid/avc1/1920x1080/Jz2vgg0RoRjOIG7r.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119962768543780864/img/jWwu7ivb2u_5Gfbi.jpg",
-          "local": "2119962830464299336_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119962768543780864/vid/avc1/1920x1080/Jz2vgg0RoRjOIG7r.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119962768543780864/img/jWwu7ivb2u_5Gfbi.jpg",
-          "local": "2119962830464299336_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "人们仍然猜测特斯拉每年生产约 10,000 辆汽车。他们的总数刚刚达到 1000 万。\n\n“很多人没有意识到特斯拉是目前世界上销量最大的豪华汽车。”\n- Jay Leno 和 Tesla 车辆工程副总裁 Lars Moravy\n\n图片来源：Jay Leno 的车库 https://t.co/EAZ1PfLYQ5"
-    },
-    {
-      "text": "RT @CyberOdysseyUSA: Epic trail lightshow! @tesla @cybertruck @elonmusk @UnpluggedTesla https://t.co/xbVN8ucI6K",
-      "link": "https://x.com/teslaownersSV/status/2119962136575410400",
-      "date": "Tue Nov 10 01:15:35 +0000 2026",
-      "tweet_id": "2119962136575410400",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119674472273973248/vid/avc1/1206x586/CfEEs6zeTUMOhTQ-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119674472273973248/img/7QJSLmM6I5gyd5kQ.jpg",
-          "local": "2119962136575410400_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119674472273973248/vid/avc1/1206x586/CfEEs6zeTUMOhTQ-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119674472273973248/img/7QJSLmM6I5gyd5kQ.jpg",
-          "local": "2119962136575410400_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "RT @Cyber​​OdysseyUSA：史诗般的步道灯光秀！ @tesla @cybertruck @elonmusk @UnpluggedTesla https://t.co/xbVN8ucI6K"
-    },
-    {
-      "text": "RT @CyberOdysseyUSA: Shout out to every one of you who keeps showing up for Odyssey adventures. Here’s the view from above as our massive E…",
-      "link": "https://x.com/teslaownersSV/status/2119962112479084660",
-      "date": "Tue Nov 10 01:15:29 +0000 2026",
-      "tweet_id": "2119962112479084660",
-      "ctx_done": 1,
-      "text_zh": "RT @Cyber​​OdysseyUSA：向每一位不断出现在奥德赛冒险中的人大声喊叫。这是我们巨大的 E 的俯视图……"
-    },
-    {
-      "text": "Tesla has a patent for laser wipers, not to clean the whole windshield, but the area in front of the autonomy cameras.\n\n\"We have this patent for laser wipers.\"\n- Lars Moravy, Tesla VP of Vehicle Engineering\n\nCredit: Jay Leno's Garage\nhttps://t.co/dbkzJ6pT5G https://t.co/2923SfF9MA",
-      "link": "https://x.com/teslaownersSV/status/2119961959277977960",
-      "date": "Tue Nov 10 01:14:52 +0000 2026",
-      "tweet_id": "2119961959277977960",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119961876310409216/vid/avc1/1920x1080/jcF1YvIZUzxJTisP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119961876310409216/img/MPwC3oYtuRtaejcK.jpg",
-          "local": "2119961959277977960_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2119961876310409216/vid/avc1/1920x1080/jcF1YvIZUzxJTisP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2119961876310409216/img/MPwC3oYtuRtaejcK.jpg",
-          "local": "2119961959277977960_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "特斯拉拥有激光雨刷器专利，不是清洁整个挡风玻璃，而是清洁自动摄像头前面的区域。\n\n“我们拥有激光雨刷器的专利。”\n- Lars Moravy，特斯拉车辆工程副总裁\n\n图片来源：杰·雷诺的车库\nhttps://t.co/dbkzJ6pT5G https://t.co/2923SfF9MA"
     }
   ]
 }
