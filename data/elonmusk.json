@@ -1,8 +1,204 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-15T10:37:11Z",
+  "updated_at": "2026-11-15T18:40:10Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "5 years ago\nVideo",
+      "link": "https://x.com/elonmusk/status/2121875758704370144#m",
+      "date": "Sun, 15 Nov 2026 07:59:38 GMT",
+      "tweet_id": "2121875758704370144",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "Elon posted this in 2021.\n\nNow a Starship has returned from orbit straight into giant robot chopsticks.\n\nWhat a time to be alive.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750115656536064/img/ZFBIgfivMXxrQz3P.jpg",
+            "local": "2121875758704370144q_0.jpg"
+          }
+        ],
+        "text_zh": "Elon 在 2021 年发布了这篇文章。\n\n现在，一艘星际飞船从轨道返回，直接进入了巨型机器人筷子。\n\n活着是多么美好的时光啊。"
+      },
+      "ctx_done": 1,
+      "text_zh": "5年前\n视频"
+    },
+    {
+      "text": "This gives a clear sense of the catch maneuver",
+      "link": "https://x.com/elonmusk/status/2121875600906592260#m",
+      "date": "Sun, 15 Nov 2026 07:59:00 GMT",
+      "tweet_id": "2121875600906592260",
+      "quoted": {
+        "user": "johnkrausphotos",
+        "text": "Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating this image for years... and today it became real.\n\nCongrats, SpaceX team!",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXINgdXWoAAxi9y.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXINgdXWoAAxi9y.jpg?name=orig",
+            "local": "2121875600906592260q_0.jpg"
+          }
+        ],
+        "text_zh": "42 号船返回德克萨斯州 Starbase，在 15 号航班期间首次捕获 Starship 塔！多年来我一直梦想创造这个形象……今天它变成了现实。\n\n恭喜 SpaceX 团队！"
+      },
+      "ctx_done": 1,
+      "text_zh": "这给出了接球动作的清晰感觉"
+    },
+    {
+      "text": "Great day",
+      "link": "https://x.com/elonmusk/status/2121875056817328621#m",
+      "date": "Sun, 15 Nov 2026 07:56:50 GMT",
+      "tweet_id": "2121875056817328621",
+      "quoted": {
+        "user": "demishassabis",
+        "text": "One of the coolest things I've ever seen!! Loved the thunderclap as the starship dropped out of the heavens, before the catch. True alien tech. Huge congrats @elonmusk and the @SpaceX team! the whole stack is now proven out. Ad Astra!  🚀",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXINYhaWIAAXIXG.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXINYhaWIAAXIXG.jpg?name=orig",
+            "local": "2121875056817328621q_0.jpg"
+          }
+        ],
+        "text_zh": "我见过的最酷的事情之一！喜欢在捕捉之前星舰从天而降时的雷鸣声。真正的外星科技。热烈祝贺@elonmusk 和@SpaceX 团队！现在整个堆栈已经被证明是可行的。广告阿斯特拉！  🚀"
+      },
+      "ctx_done": 1,
+      "text_zh": "美好的一天"
+    },
+    {
+      "text": "In my opinion... we have achieved AGI.\n\nWithout a shadow of a doubt.\n\nThe combination of Grok Bot + Opus/Fable + Argon is a do-anything digital stack.\n\nWhatever Fable/Opus suck at, Argon is an incredible filler. And vice-versa. Grok Bot orchestrates them all.\n\nOverpowered.",
+      "link": "https://x.com/farzyness/status/2121821420137423101#m",
+      "date": "Sun, 15 Nov 2026 04:23:42 GMT",
+      "tweet_id": "2121821420137423101",
+      "ctx_done": 1,
+      "text_zh": "在我看来……我们已经实现了 AGI。\n\n毫无疑问。\n\nGrok Bot + Opus/Fable + Argon 的组合是一个无所不能的数字堆栈。\n\n无论《寓言/作品》有何糟糕之处，氩气都是一种令人难以置信的填充物。反之亦然。 Grok Bot 精心策划了这一切。\n\n压倒性的。"
+    },
+    {
+      "text": "Starship Flight 15 mission in one timelapse\n\nLaunched from the tower → around Earth 14 times → caught by the tower\n\nVideo",
+      "link": "https://x.com/XFreeze/status/2121817193579163893#m",
+      "date": "Sun, 15 Nov 2026 04:06:55 GMT",
+      "tweet_id": "2121817193579163893",
+      "ctx_done": 1,
+      "text_zh": "一次延时拍摄 Starship Flight 15 任务\n\n从塔上发射 → 绕地球 14 圈 → 被塔抓住\n\n视频"
+    },
+    {
+      "text": "Will the future that you want",
+      "link": "https://x.com/elonmusk/status/2121802527524164015#m",
+      "date": "Sun, 15 Nov 2026 03:08:38 GMT",
+      "tweet_id": "2121802527524164015",
+      "quoted": {
+        "user": "Geiger_Capital",
+        "text": "Choose your path Western man.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXIKd3-W8AAVH8q.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXIKd3-W8AAVH8q.jpg?name=orig",
+            "local": "2121802527524164015q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXIKd4FXYAAlGVc.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXIKd4FXYAAlGVc.jpg?name=orig",
+            "local": "2121802527524164015q_1.jpg"
+          }
+        ],
+        "text_zh": "选择你的西方男人之路。"
+      },
+      "ctx_done": 1,
+      "text_zh": "未来会是你想要的吗"
+    },
+    {
+      "text": "MADE ON EARTH \nBY HUMANS\nVideo",
+      "link": "https://x.com/anabology/status/2121783840695787904#m",
+      "date": "Sun, 15 Nov 2026 01:54:23 GMT",
+      "tweet_id": "2121783840695787904",
+      "quoted": {
+        "user": "Jason",
+        "text": "Best remix / AI slop / music video / inspo / whatever o the StarShip landing gets $420.69 in XMONEY!",
+        "text_zh": "最佳混音/AI slop/音乐视频/inspo/StarShip 登陆的任何内容均可在 XMONEY 中获得 420.69 美元！"
+      },
+      "ctx_done": 1,
+      "text_zh": "地球制造 \n由人类\n视频"
+    },
+    {
+      "text": "If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or many other viewing locations open to the public. \n\nSad to miss this one, great day for 🇺🇸",
+      "link": "https://x.com/GavinSBaker/status/2121777788797718785#m",
+      "date": "Sun, 15 Nov 2026 01:30:20 GMT",
+      "tweet_id": "2121777788797718785",
+      "ctx_done": 1,
+      "text_zh": "如果您有孩子，我强烈建议带他们去参加发布会。您可以在玛格丽塔维尔、城镇海滩或许多其他向公众开放的观看地点观看。 \n\n遗憾错过这一天，对🇺🇸来说是美好的一天"
+    },
+    {
+      "text": "Everything has changed.",
+      "link": "https://x.com/AJamesMcCarthy/status/2121773877395181778#m",
+      "date": "Sun, 15 Nov 2026 01:14:47 GMT",
+      "tweet_id": "2121773877395181778",
+      "ctx_done": 1,
+      "text_zh": "一切都变了。"
+    },
+    {
+      "text": "Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating this image for years... and today it became real.\n\nCongrats, SpaceX team!",
+      "link": "https://x.com/johnkrausphotos/status/2121773282919649324#m",
+      "date": "Sun, 15 Nov 2026 01:12:25 GMT",
+      "tweet_id": "2121773282919649324",
+      "ctx_done": 1,
+      "text_zh": "42 号船返回德克萨斯州 Starbase，在 15 号航班期间首次捕获 Starship 塔！多年来我一直梦想创造这个形象……今天它变成了现实。\n\n恭喜 SpaceX 团队！"
+    },
+    {
+      "text": "Choose your path Western man.",
+      "link": "https://x.com/Geiger_Capital/status/2121769886770778182#m",
+      "date": "Sun, 15 Nov 2026 00:58:56 GMT",
+      "tweet_id": "2121769886770778182",
+      "ctx_done": 1,
+      "text_zh": "选择你的西方男人之路。"
+    },
+    {
+      "text": "Wow, así se vio el catch de la Ship vista desde Matamoros, México. FUE UNA LOCURAAA 🚀❤️ #Starship #SpaceX\n\nVideo",
+      "link": "https://x.com/Pedroascenbell/status/2121751082531463566#m",
+      "date": "Sat, 14 Nov 2026 23:44:12 GMT",
+      "tweet_id": "2121751082531463566",
+      "ctx_done": 1,
+      "text_zh": "哇，这就是这艘船从墨西哥马塔莫罗斯捕获的鱼的样子。太疯狂了🚀❤️#Starship #SpaceX\n\n视频"
+    },
+    {
+      "text": "Amidst all the chaos that happened in the past few days, this makes me feel proud of humanity.\nVideo",
+      "link": "https://x.com/DannyLimanseta/status/2121750430619480211#m",
+      "date": "Sat, 14 Nov 2026 23:41:37 GMT",
+      "tweet_id": "2121750430619480211",
+      "quoted": {
+        "user": "AJamesMcCarthy",
+        "text": "After careful consideration I’ve decided I’m quite bullish on civilization\n\nKARDASHEV II HERE WE COME!",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121719416966508544/img/H1zsxa4bKYvYU0kn.jpg",
+            "local": "2121750430619480211q_0.jpg"
+          }
+        ],
+        "text_zh": "经过深思熟虑，我决定我相当看好文明\n\n卡尔达肖夫二世我们来了！"
+      },
+      "ctx_done": 1,
+      "text_zh": "在过去几天发生的所有混乱中，这让我为人类感到自豪。\n视频"
+    },
+    {
+      "text": "After careful consideration I’ve decided I’m quite bullish on civilization\n\nKARDASHEV II HERE WE COME!\n\nVideo",
+      "link": "https://x.com/AJamesMcCarthy/status/2121719522549973133#m",
+      "date": "Sat, 14 Nov 2026 21:38:48 GMT",
+      "tweet_id": "2121719522549973133",
+      "ctx_done": 1,
+      "text_zh": "经过深思熟虑，我决定我相当看好文明\n\n卡尔达肖夫二世我们来了！\n\n视频"
+    },
+    {
+      "text": "I’m lost for words\n\nVideo",
+      "link": "https://x.com/_MaxQ_/status/2121717584085045677#m",
+      "date": "Sat, 14 Nov 2026 21:31:06 GMT",
+      "tweet_id": "2121717584085045677",
+      "ctx_done": 1,
+      "text_zh": "我无言以对\n\n视频"
+    },
     {
       "text": "Actually, just looked closer and noticed that Tom, Gwynne and a few others aren’t in this particular picture, but they were certainly part of the company in those days",
       "link": "https://x.com/elonmusk/status/2121669169925996567#m",
@@ -32,6 +228,14 @@
       },
       "ctx_done": 1,
       "text_zh": "确实，那张照片展示的是 2002 年 SpaceX 公司的所有人！\nTom Mueller (@lrocket) 和 Hans Koenigsmann 都是令人惊叹的世界级工程师，昨晚来到任务控制中心。很高兴见到老朋友❤️"
+    },
+    {
+      "text": "Grok Bot is the only one that stuck\n\nChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying prompts to approve. Plus no independent app. \n\nClaude Duet: was excited, didn’t do much at all, way too early hope probably the sleeper",
+      "link": "https://x.com/robinebers/status/2121656933002408008#m",
+      "date": "Sat, 14 Nov 2026 17:30:05 GMT",
+      "tweet_id": "2121656933002408008",
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 是唯一一个卡住的机器人\n\nChatGPT Dots：由于错误和不断拒绝或烦人的批准提示，我实际上已经暂停了我的工作。再加上没有独立的应用程序。 \n\nClaude Duet：很兴奋，根本没有做太多事情，太早了希望可能是沉睡者"
     },
     {
       "text": "Starlink\nVideo",
@@ -196,6 +400,19 @@
       "text_zh": "星舰在非洲上空轨道运行\n\n视频"
     },
     {
+      "text": "그록봇에 화상회의에 초대할수 있는데 토큰을 거의 먹지 않는다고 합니다. \n이건 엄청난 기능인데,제가 우려한 유일한 점은 토큰 소모 였습니다. \n오늘 업데이트 되자마자 사용했습니다. \n성능은 대박이었습니다. \n여기에 음성 대화까지 가능해진다면 아마 큰 파장이 일어날것으로 예상됩니다. \n@lingxi",
+      "link": "https://x.com/minheo93698092/status/2121587902841020922#m",
+      "date": "Sat, 14 Nov 2026 12:55:47 GMT",
+      "tweet_id": "2121587902841020922",
+      "quoted": {
+        "user": "lingxi",
+        "text": "we optimized it heavily so it should burn only a little of your usage.\n\ngo invite your e-coworker to the meeting, and let us know what you think!!",
+        "text_zh": "我们对其进行了大力优化，因此它只会消耗您的一小部分使用量。\n\n去邀请您的电子同事参加会议，并让我们知道您的想法！"
+      },
+      "ctx_done": 1,
+      "text_zh": "你可以邀请人们参加 Grockbot 进行视频会议，但他们说这很少需要代币。 \n这是一个很棒的功能，我唯一关心的是代币消耗。 \n今天更新后我就用了。 \n表演棒极了。 \n如果语音通信成为可能，预计将产生巨大影响。 \n@灵曦"
+    },
+    {
       "text": "BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build.\n\nAccording to SemiAnalysis, SpaceXSI is roughly halving construction timelines while most comparable projects face 8–12 month builds.\n\n• MiniHard: Construction finished in approximately 5 months.\n\n• Gun Range: The new site just south of the Tennessee–Mississippi state line is targeting approximately 4 months of construction.\n\n• Colossus 1: Its first retrofit delivered 150 MW of capacity in 122 days.\n\n• Colossus 2: A subsequent retrofit delivered 210 MW in just 91 days.\n\n• Project SPAM: Work started October 5, with the first capacity targeted for December.\n\n• Massive expansion: SemiAnalysis projects the Memphis–Mississippi campus will grow from 0.4 GW of IT capacity in January to 2.4 GW by the end of 2026. That would be a sixfold increase in one year.\n\n• Five major projects: The expansion spans Macrohard, MiniHard, Macroharder, Project SPAM and Gun Range.\n\n• Tesla powering the scale: SemiAnalysis reports 1,377 Tesla Megapacks across Colossus 2, providing nearly 6 GWh of battery storage.\n\nThe construction timelines and capacity forecasts are SemiAnalysis estimates, with future milestones still targets.\n\nElon Musk’s teams are bringing extraordinary speed and scale to the infrastructure powering AI.",
       "link": "https://x.com/cb_doge/status/2121586977795440798#m",
       "date": "Sat, 14 Nov 2026 12:52:07 GMT",
@@ -239,6 +456,14 @@
       "tweet_id": "2121353143384682525",
       "ctx_done": 1,
       "text_zh": "SpaceX 刚刚制定了一项保护和恢复发射场周围海岸线的重大计划\n\n随着 Starbase 的不断发展，博卡奇卡海滩仍保持公开状态\n\nStarbase 市每周进行海滩清理工作，已清除 50 多吨垃圾\n\n提供数千万美元用于对抗侵蚀、恢复海岸线并保持公共通道开放\n\n持续支持保护组织拯救海龟\n\n拟议购买的土地覆盖发射设施周围约 1,200 英亩，博卡奇卡海滩和德克萨斯州海岸线不包括在内\n\n其中约 600 英亩将作为敏感的沿海栖息地受到永久保护\n\n出售所得的资金将帮助德克萨斯州在里奥格兰德河谷建造新的公园和娱乐场所\n\nStarbase 不断壮大，海滩继续向所有人开放"
+    },
+    {
+      "text": "SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 400-foot rocket ahead of Friday’s planned test flight.\n\nThe test is a key step in SpaceX’s goal of making Starship fully reusable for future missions, including expanding its Starlink network and eventually carrying astronauts to the Moon and Mars, @JasonAllenLive reports.\n\nVideo",
+      "link": "https://x.com/CBSNews/status/2121344495266455814#m",
+      "date": "Fri, 13 Nov 2026 20:48:35 GMT",
+      "tweet_id": "2121344495266455814",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 正在准备从德克萨斯州南部进行第 15 次星舰发射，在周五计划的试飞之前，观众聚集在这艘 400 英尺火箭的街对面。\n\n据 @JasonAllenLive 报道，这次测试是 SpaceX 实现使 Starship 完全可重复用于未来任务的目标的关键一步，包括扩大其 Starlink 网络并最终将宇航员运送到月球和火星。\n\n视频"
     },
     {
       "text": "SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen’s wheeling and dealing Google could take a ton of share\n“It’s sort of a three-pronged strategy. One is you have to have the technical progress, and that keeps you winning. The second is that you have to have supply chain prowess, and Jensen’s the only executive in the semiconductor industry that is going out there and drinking and meeting and convincing all of these supply chain companies to invest like they’ve never done before, give him the allocations.”\n“Now if all of a sudden there’s no Jensen, and Google’s like, actually, double my allocation. The TPU, from our benchmarking, we test TPUs. We run benchmarks on them on open source models every night. They’re just as good as Nvidia. But Google doesn’t have that DNA of wheeling and dealing with the supply chain, wheeling and dealing with customers. Now if that DNA is gone, the thing that is Jensen is gone, does that now mean Google can just take a ton of share? It’s a real big possibility.”\n“Same with AMD. Technically, they’re awesome, but they’re just not able to wheel and deal like Jensen is able to. And that’s been a lot of the reason why they’ve been behind. Of course, the software as well. One of Nvidia’s biggest moats being CUDA, and software is being rapidly displaced by the fact that AI models are so good at writing software.”\nVideo\nVideo",
@@ -2211,6 +2436,14 @@
       "text_zh": "这是真的。 \n我告诉每个尝试 Grok Bot 的人：\n- “天哪，这真的太好了”\n- 开始告诉其他人尝试 Grok Bot"
     },
     {
+      "text": "It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂\n\nVideo",
+      "link": "https://x.com/Cyborg21/status/2117044016621748292#m",
+      "date": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "tweet_id": "2117044016621748292",
+      "ctx_done": 1,
+      "text_zh": "就在这里。克劳迪娅的《ALLOW ALWAYS》全球首映。由一个患有肌萎缩侧索硬化症（ALS）、大脑植入物和太多人工智能朋友的人制作。 😂\n\n视频"
+    },
+    {
       "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state. \n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined. \n\nNew York added $3 million. \n\nMassachusetts another $2.1 million. \n\nPaxton’s campaign is 73% Texas money. \n\nTalarico’s is a coastal donor operation. \n\nThe left can’t win Texas on the merits, so they flooded the race with blue state cash instead. \n\nSo no, nothing “grassroots” about him.\n\n\n\n\nRothmus 🏴 (@Rothmus)\n\n>be Talarico\n>call yourself a devout Christian\n>say “God is nonbinary” on the House floor to defend boys in girls’ sports\n>church hangs the trans flag and has ministers who say most members are atheists or agnostics\n>Instagram follows a pile of OnlyFans models, porn stars, and escorts\n>like their pics\n>campaign says you “don’t judge them” and that’s what your faith calls you to do\n>claim you never subscribed or used them\n>now your old email shows up in a 2011 Fling.com data leak\n>profile lists interests in FETISH, GROUPSEX, SEXUAL RELATIONS, ONLINE FLIRTING\n>email was validated\n>IP matches one tied to your sister’s email from the same household network\n>lawyers say someone hacked the email and a bot made the account\n>mismatched birth date and zip so it can’t be you\n>your team already follows hookers and camgirls “without investigating”\n\nNot the most religious person, but I’m pretty sure Jesus told people to leave their sin and follow him so they could be forgiven, not keep the fetish profiles and OnlyFans follows and pretend that inviting degeneracy is Christian acceptance.\n\nAnd don’t lie.\n\n\n\n\n\n— https://nitter.kareem.one/Rothmus/status/2116988785145548909#m",
       "link": "https://x.com/Rothmus/status/2117043924690747428#m",
       "date": "Sun, 01 Nov 2026 23:59:39 GMT",
@@ -2351,274 +2584,6 @@
       },
       "ctx_done": 1,
       "text_zh": "😂\n视频"
-    },
-    {
-      "text": "Dopamine does not spike highest for guaranteed rewards. It spikes highest at reward prediction error. If you want to have fun in life, you should stop avoiding risk and uncertainty.",
-      "link": "https://x.com/fchollet/status/2116627718347591988#m",
-      "date": "Sat, 31 Oct 2026 20:25:47 GMT",
-      "tweet_id": "2116627718347591988",
-      "ctx_done": 1,
-      "text_zh": "多巴胺不会达到最高的保证奖励。它在奖励预测错误时达到最高峰值。如果你想在生活中获得乐趣，你就应该停止逃避风险和不确定性。"
-    },
-    {
-      "text": "Men are twice as likely to ace SAT math, yet women are twice as likely to get in to MIT.\nPut differently, 1 in 3 men who worked their ass off to get into MIT lost their seat because they were born the wrong gender.",
-      "link": "https://x.com/profstonge/status/2116623747306414310#m",
-      "date": "Sat, 31 Oct 2026 20:10:00 GMT",
-      "tweet_id": "2116623747306414310",
-      "quoted": {
-        "user": "anish_koka",
-        "text": "17,000 men apply to MIT\n8900 women apply to MIT\n600 men were accepted \n612 women were accepted \n\nIf we assume male and female applicants to MIT are roughly the same, the probability this happens by chance, let alone every year for a while \n\nThe probability of a sex blind admission process creating this result is 1 in 4 × 10³¹",
-        "text_zh": "17,000 名男性申请麻省理工学院\n8900 名女性申请麻省理工学院\n600名男子被录取 \n612名女性被录取 \n\n如果我们假设麻省理工学院的男性和女性申请者大致相同，那么这种情况发生的可能性是偶然的，更不用说每年都会发生一段时间了 \n\n性别盲入院过程产生此结果的概率为 4 × 10^1 中的 1"
-      },
-      "ctx_done": 1,
-      "text_zh": "男性在 SAT 数学考试中取得优异成绩的可能性是男性的两倍，而女性进入麻省理工学院的可能性是女性的两倍。\n换句话说，三分之一的努力进入麻省理工学院的男性因为出生性别错误而失去了席位。"
-    },
-    {
-      "text": "BREAKING: Today, my office arrested convicted felons for voting illegally in Texas.",
-      "link": "https://x.com/KenPaxtonTX/status/2116623015626871137#m",
-      "date": "Sat, 31 Oct 2026 20:07:06 GMT",
-      "tweet_id": "2116623015626871137",
-      "ctx_done": 1,
-      "text_zh": "突发新闻：今天，我的办公室逮捕了因在德克萨斯州非法投票而被定罪的重罪犯。"
-    },
-    {
-      "text": "This will happen again\nVideo",
-      "link": "https://x.com/elonmusk/status/2116617926472016007#m",
-      "date": "Sat, 31 Oct 2026 19:46:53 GMT",
-      "tweet_id": "2116617926472016007",
-      "quoted": {
-        "user": "skdh",
-        "text": "The dinosaurs probably died much faster -- and much more horribly -- than we thought.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116546879022346240/img/nysAIKH5rIISVTl_.jpg",
-            "local": "2116617926472016007q_0.jpg"
-          }
-        ],
-        "text_zh": "恐龙的死亡速度可能比我们想象的要快得多，也更加可怕。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这会再次发生\n视频"
-    },
-    {
-      "text": "Neuralink deep dive\nVideo",
-      "link": "https://x.com/elonmusk/status/2116614579136635120#m",
-      "date": "Sat, 31 Oct 2026 19:33:35 GMT",
-      "tweet_id": "2116614579136635120",
-      "quoted": {
-        "user": "cleoabram",
-        "text": "Full HUGE* If True episode on Neuralink and the future of brain computer interfaces\n\nI toured @neuralink and got a close up view of their new R1 surgical robot, to see the future they and @elonmusk are building and how it is already changing lives... \n\n00:00 What if you put a chip in your brain?\n01:02 What does a human brain feel like?\n02:17 How does your brain work?\n03:58 Can a brain computer interface read your thoughts?\n05:19 How do you get a chip into your brain?\n08:07 What’s inside Neuralink’s implant?\n10:06 How do you build a brain implant?\n11:07 How does robot do brain surgery?\n12:20 What could you do with a brain chip?\n15:05 How are brain computer interfaces already being used today?\n16:07 How are brain chips huge if true?",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116583027560124418/img/7daOuJgaAkXL97sl.jpg",
-            "local": "2116614579136635120q_0.jpg"
-          }
-        ],
-        "text_zh": "关于 Neuralink 和脑机接口的未来的完整 HUGE* If True 剧集\n\n我参观了 @neuralink，近距离观察了他们的新型 R1 手术机器人，了解他们和 @elonmusk 正在建设的未来以及它如何改变生活...... \n\n00:00 如果你在大脑中放入芯片会怎样？\n01:02 人脑感觉如何？\n02:17 你的大脑是如何工作的？\n03:58 脑机接口可以读取你的想法吗？\n05:19 如何将芯片植入你的大脑？\n08:07 Neuralink 的植入物里面有什么？\n10:06 如何构建大脑植入物？\n11:07 机器人如何进行脑部手术？\n12:20 你可以用大脑芯片做什么？\n15:05 脑机接口如今的应用情况如何？\n16:07 如果属实的话，脑芯片有多大？"
-      },
-      "ctx_done": 1,
-      "text_zh": "Neuralink 深入研究\n视频"
-    },
-    {
-      "text": "Grok Bot is the most useful app on my phone right now.",
-      "link": "https://x.com/cb_doge/status/2116610983997460897#m",
-      "date": "Sat, 31 Oct 2026 19:19:17 GMT",
-      "tweet_id": "2116610983997460897",
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 是我手机上目前最有用的应用程序。"
-    },
-    {
-      "text": "Of course. \nGay men have far too much taste for such a laboriously ugly pride flag! Fashion crime beyond belief.",
-      "link": "https://x.com/elonmusk/status/2116608316776571063#m",
-      "date": "Sat, 31 Oct 2026 19:08:42 GMT",
-      "tweet_id": "2116608316776571063",
-      "quoted": {
-        "user": "AlexToughTakes",
-        "text": "As a gay man, I'll say what a lot of us are thinking.\n\nWe fought to be left alone. To marry the man we love, keep our jobs, and live a quiet life.\n\nWe won.\n\nThen woke activists took our letters, stapled on a dozen causes we never signed up for, and started calling us bigots for saying sex is real.\n\nThat isn't our movement anymore.",
-        "text_zh": "作为一名同性恋者，我会说出我们很多人的想法。\n\n我们奋力争取独处。嫁给我们爱的人，保住工作，过平静的生活。\n\n我们赢了。\n\n然后醒来的活动人士拿走了我们的信，钉在我们从未签署过的十几个事业上，并开始称我们为顽固分子，因为我们说性是真实的。\n\n那不再是我们的运动了。"
-      },
-      "ctx_done": 1,
-      "text_zh": "当然。 \n男同性恋者对于如此费力丑陋的骄傲旗帜实在是太有品味了！时尚犯罪令人难以置信。"
-    },
-    {
-      "text": "Bill Ackman says Neuralink and other brain-computer interfaces will let the blind see again within \"not too many years\"\n“And you know, my daughter, who lost pretty much basic function, ability to walk, ability to speak, ability to see, is regaining function. She’s cognitively, as far as I can tell, fine. She’s relearning how to speak, and she’s learning again how to walk. And I’m confident we’re going to get her back.\"\n\"Biggest challenge right now is that the optic nerve damage from the pressure on the brain has caused her to lose probably 98% of her vision.\"\n\"But even there I’m optimistic. Spent a lot of time in the last few months meeting with all these brain computer interface companies, obviously Neuralink being the most famous, but there’s some other very promising lower intervention technologies.\"\n\"And this will be a period, you know, AI is going to enable us. We’re going to be able to get more signal from the brain, and we’re going to be able to interpret that signal much more effectively than we had before. And the blind will see again, and people who have not been able to walk, so to speak, paraplegics, I believe will walk again. It’s a matter of not months but years, but not too many years.”\nVideo\nVideo",
-      "link": "https://x.com/firesidealpha/status/2116597322498834660#m",
-      "date": "Sat, 31 Oct 2026 18:25:00 GMT",
-      "tweet_id": "2116597322498834660",
-      "quoted": {
-        "user": "firesidealpha",
-        "text": "Bill Ackman says Elon Musk might have to borrow a trillion dollars to open gigawatts of data centers, keeping rates persistently high, and that neoclouds are like levered real estate developers sensitive to the cost of capital\n\n“So, I think it is sustainable because, you know, intelligence is again an enormously valuable asset. And I think the demand therefore for the compute that enables intelligence, I think, is going to be sustained.\"\n\n\"And, you know, the companies that are, you know, the hyperscalers that are building out a lot of this infrastructure have the financial resources, the creditworthiness in order to access the capital.\"\n\n\"I worry more about the pure play neocloud companies that are a bit like highly levered real estate developers playing a theme. I think they’re much more at risk. They’re much more sensitive to the cost of capital.\"\n\n\"But you have, I mean, SpaceX, Elon on the earnings call gave some projections for how many gigawatts of data centers he was going to open. If he meets his objective, he might have to borrow a trillion dollars of capital.\"\n\n\"So, you have companies competing at sovereign levels for debt. And the result is, you know, this massive, you know, more and more supply of debt. So, I don’t see a world in which, you know, there’s a dramatic, you know, there’s a lot of demand for capital and a finite supply. So, I think that makes rates persistently high.”",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116573167066234880/img/5gI4QafH2cv4sFkG.jpg",
-            "local": "2116597322498834660q_0.jpg"
-          }
-        ],
-        "text_zh": "比尔·阿克曼 (Bill Ackman) 表示，埃隆·马斯克 (Elon Musk) 可能需要借一万亿美元来开设千兆瓦的数据中心，从而使利率持续居高不下，而新云就像对资本成本敏感的杠杆房地产开发商\n\n“所以，我认为它是可持续的，因为，你知道，智能再次成为一项非常有价值的资产。因此，我认为，对实现智能的计算的需求将会持续下去。”\n\n“而且，你知道，那些正在建设大量基础设施的超大规模企业拥有获得资本的财务资源和信誉。”\n\n“我更担心纯粹的新云公司，它们有点像高杠杆的房地产开发商在玩一个主题。我认为他们面临的风险要大得多。他们对资本成本更加敏感。”\n\n“但我的意思是，SpaceX、埃隆在财报电话会议上对他将开设多少吉瓦的数据中心进行了一些预测。如果他实现了他的目标，他可能需要借一万亿美元的资金。”\n\n“所以，公司在主权层面上争夺债务。结果是，你知道，债务供应如此巨大，你知道，越来越多。所以，我不认为世界上有一个巨大的，你知道的，对资本的需求很大，但供应却有限。所以，我认为这会导致利率持续走高。”"
-      },
-      "ctx_done": 1,
-      "text_zh": "比尔·阿克曼（Bill Ackman）表示，Neuralink 和其他脑机接口将让盲人在“几年之内”重见光明\n“你知道，我的女儿失去了几乎基本的功能，行走的能力，说话的能力，视觉的能力，正在恢复功能。据我所知，她的认知能力很好。她正在重新学习如何说话，她正在重新学习如何走路。我相信我们会让她回来。”\n“目前最大的挑战是大脑压力造成的视神经损伤导致她失去了大约 98% 的视力。”\n“但即使在那里，我也很乐观。在过去的几个月里，我花了很多时间与所有这些脑机接口公司会面，显然 Neuralink 是最著名的，但还有其他一些非常有前途的低干预技术。”\n“这将是一个时期，你知道，人工智能将使我们成为可能。我们将能够从大脑获得更多信号，并且我们将能够比以前更有效地解释该信号。盲人会再次看到东西，而那些无法行走的人，可以说，截瘫者，我相信会再次行走。这不是几个月的问题，而是几年的问题，但不会太多年。”\n视频\n视频"
-    },
-    {
-      "text": "In 2018, Elon Musk tweeted that he would fund the replacement of lead contaminated water pipes in Flint, Michigan for any home that still had unsafe water. He said to just tell him which houses needed help and he would fix them. The response from Flint's officials was near silence.\n\nThe offer was genuine. Elon followed up. He donated $480,000 to install UV filtration systems in Flint schools. He offered to continue funding until every household had clean water. Local officials thanked him publicly and then largely stopped responding. The project stalled not because of money but because of bureaucracy, local politics, and the same institutional inertia that had allowed the crisis to happen in the first place.\n\nThe detail that makes this story devastating is not the donation. It is the disconnect between the speed at which Elon operates and the speed at which a municipal government can accept help. He offered. He funded. He followed up. The system he was trying to help could not process the help at the speed it was offered. The man who can build a factory in 6 months could not get a city to accept pipe replacements because the approval process, the contractor bids, the environmental reviews, and the political negotiations moved at a pace that made SpaceX look like light speed by comparison.\n\nHe has described the Flint experience as one of the most frustrating of his career. Not because the problem was hard. Because the problem was easy and the system designed to solve easy problems was broken. The water needed clean pipes. The pipes needed money. The money was offered. And the space between offered and installed was filled with a bureaucracy that moved at the speed of government while children drank contaminated water.\n\nThe man who solves engineering problems for a living encountered a problem that was not engineering. It was institutional. The pipes were simple. The politics were not. The money was present. The will was present. The system that was supposed to connect money and will to pipes could not function at the speed the crisis demanded.\n\nHe fixed the schools. The broader offer faded. The city eventually replaced most of its pipes through federal and state funding years later. The man who offered to fix it in months watched it take years. The frustration of the man who moves fast encountering a world that doesn't is the frustration that defines his relationship with every institution he touches. The rockets are faster because they don't require a city council vote.",
-      "link": "https://x.com/multiplanet1/status/2116582472754344327#m",
-      "date": "Sat, 31 Oct 2026 17:26:00 GMT",
-      "tweet_id": "2116582472754344327",
-      "ctx_done": 1,
-      "text_zh": "2018 年，埃隆·马斯克 (Elon Musk) 在推特上表示，他将资助密歇根州弗林特市所有仍然使用不安全用水的家庭更换受铅污染的水管。他说只要告诉他哪些房屋需要帮助，他就会修复它们。弗林特官员的反应几乎是沉默。\n\n这个报价是真实的。伊隆紧随其后。他捐赠 48 万美元为弗林特学校安装紫外线过滤系统。他提出继续提供资金，直到每个家庭都有干净的水。当地官员公开感谢他，然后基本上不再回应。该项目的停滞不是因为资金，而是因为官僚主义、地方政治以及最初导致危机发生的制度惰性。\n\n让这个故事变得毁灭性的细节并不是捐赠。这是埃隆运作的速度与市政府接受帮助的速度之间的脱节。他提出。他资助。他跟了上去。他试图提供帮助的系统无法以所提供的速度处理帮助。能够在 6 个月内建造一座工厂的人无法让一个城市接受管道更换，因为审批程序、承包商投标、环境审查和政治谈判的进展速度使得 SpaceX 相比之下看起来像是光速。\n\n他将弗林特的经历描述为他职业生涯中最令人沮丧的经历之一。并不是因为这个问题很难。因为问题很简单，而为解决简单问题而设​​计的系统却被破坏了。水需要清洁的管道。管道需要钱。钱被提供了。在提供和安装之间的空间里充满了官僚机构，他们以政府的速度行动，而孩子们却喝着受污染的水。\n\n以解决工程问题为生的人遇到了一个不属于工程的问题。这是制度化的。管道很简单。政治则不然。钱已经到了。遗嘱已经存在。原本应该将金钱和意志与管道连接起来的系统无法按照危机要求的速度运行。\n\n他修复了学校。更广泛的报价逐渐消失。几年后，该市最终通过联邦和州的资助更换了大部分管道。那个提出在几个月内修复它的人却花了几年时间。一个快速行动的人遇到一个不存在的世界时所感到的挫败感，也决定了他与他所接触的每一个机构的关系。火箭速度更快，因为它们不需要市议会投票。"
-    },
-    {
-      "text": "The scale of Starlink is almost impossible to comprehend\n\nOut of 16,848 active satellites in orbit as of October 31, 2026, 11,184 are Starlink\n\nThat's 66% of every active satellite humanity has in orbit\n\nJust look at the numbers:\n\n• Starlink: 11,184\n• OneWeb: 651\n• Amazon Kuiper: 391\n• Qianfan (China): 257\n• Iridium: 80\n\nStarlink alone has nearly 2 TIMES more active satellites than every other operator on Earth COMBINED\n\nAnd what's even more insane is how fast SpaceX built this\n\nOn May 24, 2019, Falcon 9 launched the first batch of 60 Starlink satellites\n\nJust 2,717 days later, SpaceX is still launching batches of 27 satellites, including another mission on October 31\n\nSpaceX has built the largest satellite constellation in human history, at a scale no other operator comes close to matching\n\nAnd this is just the beginning",
-      "link": "https://x.com/XFreeze/status/2116579225914519759#m",
-      "date": "Sat, 31 Oct 2026 17:13:06 GMT",
-      "tweet_id": "2116579225914519759",
-      "ctx_done": 1,
-      "text_zh": "星链的规模几乎无法理解\n\n截至 2026 年 10 月 31 日，在轨运行的 16,848 颗活跃卫星中，有 11,184 颗是星链卫星\n\n这相当于人类在轨道上运行的每一颗活跃卫星的 66%\n\n看看数字：\n\n•星链：11,184\n•OneWeb：651\n•亚马逊柯伊伯：391\n• 千帆（中国）：257\n• 铱：80\n\n仅 Starlink 就拥有比地球上所有其他运营商加起来的活跃卫星多近 2 倍的卫星\n\n更疯狂的是 SpaceX 建造这个的速度有多快\n\n2019年5月24日，猎鹰9号发射首批60颗星链卫星\n\n仅仅 2,717 天后，SpaceX 仍在批量发射 27 颗卫星，其中包括 10 月 31 日的另一次任务\n\nSpaceX 建造了人类历史上最大的卫星星座，其规模是其他运营商无法比拟的\n\n而这仅仅是开始"
-    },
-    {
-      "text": "AUSTIN MAN slams into a stopped minivan at 103 mph on Mother's Day, right in front of a cop, and kills a fire captain hours after his fifth son was born. DA Jose Garza's office asked him to pay a small fine.\n\nMarvin Taylor was on his way to pick up his four other boys so they could meet their new baby brother. He was sitting at a red light on Koenig Lane when a Dodge Durango doing 103 in a 45 zone slammed into him and threw his van 150 feet. He died pinned inside.\n\nThe officer found the driver, Rodney Bremby, with bloodshot eyes and slurred speech and stench of alcohol. \n\nHe was charged with intoxication manslaughter, which carries up to 20 years in prison. A judge revoked his bond twice while the case was pending, and both times he was back out within two weeks.\n\nOn Monday he got 10 years of probation, community service, and $535 in fees.\n\nFive boys have lost their father, and the man who killed him just had to pay a small fine and promise not do it again before going back home.",
-      "link": "https://x.com/AustinJustice/status/2116574145550983574#m",
-      "date": "Sat, 31 Oct 2026 16:52:55 GMT",
-      "tweet_id": "2116574145550983574",
-      "ctx_done": 1,
-      "text_zh": "母亲节那天，奥斯汀·曼在一名警察面前以每小时 103 英里的速度撞上了一辆停着的小型货车，并在他的第五个儿子出生几小时后杀死了一名消防队长。地方检察官何塞·加尔萨的办公室要求他缴纳小额罚款。\n\n马文·泰勒正在去接他的另外四个男孩的路上，以便他们能够见到他们的新生弟弟。当时他正坐在 Koenig Lane 等红灯时，一辆在 45 区内行驶 103 英里的道奇杜兰戈 (Dodge Durango) 撞上了他，把他的面包车甩出了 150 英尺。他被钉在里面死了。\n\n警察发现司机罗德尼·布雷比 (Rodney Bremby) 眼睛布满血丝，言语不清，浑身散发着酒味。 \n\n他被控醉酒过失杀人罪，最高可判处20年监禁。在案件悬而未决期间，一名法官两次撤销了他的保释，而且两次他都在两周内退出。\n\n周一，他获得 10 年缓刑、社区服务和 535 美元的费用。\n\n五个男孩失去了父亲，杀害父亲的人只需支付一笔小额罚款，并承诺在回家之前不再这样做。"
-    },
-    {
-      "text": "This is why Democrats orchestrated a border invasion.\nThis is why Democrats want more people dependent on the government.\nThis isn’t about helping others.\nIt’s about helping Democrats—and only Democrats—establish permanent political control.\nVote Republican.",
-      "link": "https://x.com/BasedMikeLee/status/2116572935561630161#m",
-      "date": "Sat, 31 Oct 2026 16:48:06 GMT",
-      "tweet_id": "2116572935561630161",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "Once you understand the incentive, the reason for the behavior becomes obvious: they are importing a left-voting bloc that depends on government handouts.\n\nA prominent example of this in America is Ilhan Omar and her Somali voting bloc in Minnesota, an area which used to be primarily Nordic-German.\n\nImporting voters is a CERTAIN path to a single-party supermajority and has ALREADY happened at the state level in California and New York. It also explains why those states have BANNED VOTER ID in order to accelerate a permanent socialist supermajority, destroying any semblance of democracy.\n\nWe stand on the precipice of disaster, an end to America.",
-        "text_zh": "一旦你了解了动机，这种行为的原因就变得显而易见：他们正在引入一个依赖政府施舍的左翼投票集团。\n\n美国的一个突出例子是伊尔汗·奥马尔和她在明尼苏达州的索马里投票集团，该地区曾经主要是北欧德国人。\n\n输入选民是实现单党绝对多数的必经之路，并且已经在加利福尼亚州和纽约州的州一级发生了这种情况。它还解释了为什么这些州禁止选民身份识别，以加速实现社会主义永久多数，从而破坏民主的任何表象。\n\n我们正站在灾难的边缘，美国的末日。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这就是民主党策划边境入侵的原因。\n这就是为什么民主党希望更多的人依赖政府。\n这不是为了帮助别人。\n这是为了帮助民主党——而且只有民主党——建立永久的政治控制。\n投票共和党。"
-    },
-    {
-      "text": "\"He's a con man. He's a deceiver.\"\n\nTexas Attorney General Ken Paxton takes aim at Democratic challenger James Talarico during an interview with @kayleighmcenany on @SatAmericaFNC.\n\nPaxton accuses Talarico of misleading Texas voters about his political beliefs, claiming he knows his actual positions would hurt his chances of winning.\n\n\"He’s lying to Texans about his real views,\" Paxton says.\n\nStay up to date with the latest headlines and breaking news — download the FOX News app:\nfoxnews.onelink.me/xLDS/z2jy…\n\nVideo",
-      "link": "https://x.com/FoxNews/status/2116561740896801195#m",
-      "date": "Sat, 31 Oct 2026 16:03:37 GMT",
-      "tweet_id": "2116561740896801195",
-      "ctx_done": 1,
-      "text_zh": "“他是个骗子。他是个骗子。”\n\n德克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 在 @SatAmericaFNC 接受 @kayleighmcenany 采访时将矛头指向了民主党挑战者詹姆斯·塔拉里科 (James Talarico)。\n\n帕克斯顿指责塔拉里科在他的政治信仰上误导德克萨斯州选民，声称他知道他的实际立场会损害他获胜的机会。\n\n“他在真实观点上向德克萨斯人撒谎，”帕克斯顿说。\n\n及时了解最新头条新闻和突发新闻 — 下载 FOX News 应用程序：\nFoxnews.onelink.me/xLDS/z2jy…\n\n视频"
-    },
-    {
-      "text": "Text your friends in Texas and make sure they vote on Election Day\n\n\nPolitics & Poll Tracker 📡 (@PollTracker2024)\n\n#TexasSenate \n\nNYT: James Talarico’s internals are within the margin of error. \n\nSome recent public surveys show Talarico either tied with Paxton or within the margin of error with a 2-point lead.\n\nThe candidate’s internal polls match those tighter surveys, people close to Talarico said, and may not be fully capturing the sentiments of rural conservative voters who support Trump.\n\nLink to article: nytimes.com/2026/10/31/us/po…\n\n\n\n\n\n— https://nitter.kareem.one/PollTracker2024/status/2116540398982091027#m",
-      "link": "https://x.com/alx/status/2116560722469810622#m",
-      "date": "Sat, 31 Oct 2026 15:59:34 GMT",
-      "tweet_id": "2116560722469810622",
-      "quoted": {
-        "user": "PollTracker2024",
-        "text": "#TexasSenate \n\nNYT: James Talarico’s internals are within the margin of error. \n\nSome recent public surveys show Talarico either tied with Paxton or within the margin of error with a 2-point lead.\n\nThe candidate’s internal polls match those tighter surveys, people close to Talarico said, and may not be fully capturing the sentiments of rural conservative voters who support Trump.\n\nLink to article: https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html?eafs_enabled=false",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV92C8UXwAAlKWp.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV92C8UXwAAlKWp.jpg?name=orig",
-            "local": "2116560722469810622q_0.jpg"
-          }
-        ],
-        "text_zh": "#德克萨斯州参议院 \n\n纽约时报：詹姆斯·塔拉里科的内部结构在误差范围内。 \n\n最近的一些公开调查显示，塔拉里科要么与帕克斯顿打成平手，要么在误差范围内领先 2 分。\n\n接近塔拉里科的人士表示，这位候选人的内部民意调查与那些更严格的调查相符，可能无法完全反映支持特朗普的农村保守派选民的情绪。\n\n文章链接：https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html?eafs_enabled=false"
-      },
-      "ctx_done": 1,
-      "text_zh": "给您在德克萨斯州的朋友发短信，确保他们在选举日投票\n\n\n政治与民意调查追踪器📡 (@PollTracker2024)\n\n#德克萨斯州参议院 \n\n纽约时报：詹姆斯·塔拉里科的内部结构在误差范围内。 \n\n最近的一些公开调查显示，塔拉里科要么与帕克斯顿打成平手，要么在误差范围内领先 2 分。\n\n接近塔拉里科的人士表示，这位候选人的内部民意调查与那些更严格的调查相符，可能无法完全反映支持特朗普的农村保守派选民的情绪。\n\n文章链接：nytimes.com/2026/10/31/us/po...\n\n\n\n\n\n— https://nitter.kareem.one/PollTracker2024/status/2116540398982091027#m"
-    },
-    {
-      "text": "💯\nVideo",
-      "link": "https://x.com/elonmusk/status/2116553547986935826#m",
-      "date": "Sat, 31 Oct 2026 15:31:04 GMT",
-      "tweet_id": "2116553547986935826",
-      "quoted": {
-        "user": "Rothmus",
-        "text": "James Talarico wants to kill the filibuster so Democrats can pack the Supreme Court and make DC a state.\n\nWhen Manchin and Sinema saved the 60 vote rule in 2022, they blocked DC statehood, a bigger Court, and mass legalization. \n\nHe is running as the vote that ends it. \n\nHe even told Semafor the rule stops voters from judging the next election. \n\nHe is open to expanding the number of justices, backs citizenship for long term illegal immigrants, and called ICE a secret police force terrorizing communities. \n\nBtw, Abdul El Sayed and Peggy Flanagan support packing the Court too. \n\nTexas votes Tuesday.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116216613724659712/img/xzjt-77P9OgiA7Oa.jpg",
-            "local": "2116553547986935826q_0.jpg"
-          }
-        ],
-        "text_zh": "詹姆斯·塔拉里科（James Talarico）希望废除阻挠议事，以便民主党人能够挤满最高法院，使华盛顿特区成为一个州。\n\n当 Manchin 和 Sinema 在 2022 年挽救了 60 票规则时，他们阻止了华盛顿州的建州、更大的法院和大规模合法化。 \n\n他正在竞选结束它的投票。 \n\n他甚至告诉 Semafor，这条规则阻止选民评判下一次选举。 \n\n他对扩大法官人数持开放态度，支持长期非法移民获得公民身份，并称 ICE 是一支恐吓社区的秘密警察部队。 \n\n顺便说一句，阿卜杜勒·埃尔·赛义德和佩吉·弗拉纳根也支持填充法院。 \n\n德克萨斯州周二投票。"
-      },
-      "ctx_done": 1,
-      "text_zh": "💯\n视频"
-    },
-    {
-      "text": "All true",
-      "link": "https://x.com/elonmusk/status/2116552766772666796#m",
-      "date": "Sat, 31 Oct 2026 15:27:57 GMT",
-      "tweet_id": "2116552766772666796",
-      "quoted": {
-        "user": "WallStreetMav",
-        "text": "James Talarico is the most left wing, extreme radical candidate imaginable. Every single position he has taken would be considered far left even in California. Yet this guy is running in Texas. \n\nTalarico wants to shutdown the oil industry in Texas, he wants to trans children and he believes there are 6 genders. It is bizarre that he is even competitive in Texas.",
-        "text_zh": "詹姆斯·塔拉里科是可以想象到的最左翼、最激进的候选人。即使在加利福尼亚州，他所采取的每一个立场都会被视为极左。然而这个人正在德克萨斯州竞选。 \n\n塔拉里科想要关闭德克萨斯州的石油工业，他想要跨性别儿童，他相信世界上有 6 种性别。奇怪的是他甚至在德克萨斯州也很有竞争力。"
-      },
-      "ctx_done": 1,
-      "text_zh": "都是真的"
-    },
-    {
-      "text": "Tesla and SpaceX have created meaningful wealth for hundreds of thousands of employees over time and improved the retirement savings of hundreds of millions of people\n\n\nLarry Goldberg (@TeslaLarry)\n\n\nArticle\n\n\n\nElon Musk Helps Feed Nearly a Million Families\n\nWhenever Bernie Sanders and others on the left hold Elon up as the face of everything wrong with billionaires they omit some very pertinent facts: about 158,500 people draw a paycheck directly from\n\n\n\n\n— https://nitter.kareem.one/TeslaLarry/status/2105773551915548693#m",
-      "link": "https://x.com/elonmusk/status/2116551882219090231#m",
-      "date": "Sat, 31 Oct 2026 15:24:27 GMT",
-      "tweet_id": "2116551882219090231",
-      "quoted": {
-        "user": "TeslaLarry",
-        "text": "https://x.com/i/article/2105766271497175040",
-        "text_zh": "https://x.com/i/article/2105766271497175040"
-      },
-      "ctx_done": 1,
-      "text_zh": "随着时间的推移，特斯拉和 SpaceX 为数十万员工创造了可观的财富，并提高了数亿人的退休储蓄\n\n\n拉里·戈德堡（@TeslaLarry）\n\n\n文章\n\n\n\n埃隆·马斯克帮助养活近百万家庭\n\n每当伯尼·桑德斯和其他左翼人士将埃隆视为亿万富翁一切问题的代言人时，他们都会忽略一些非常相关的事实：大约 158,500 人直接从\n\n\n\n\n— https://nitter.kareem.one/TeslaLarry/status/2105773551915548693#m"
-    },
-    {
-      "text": "14 years ago\nVideo",
-      "link": "https://x.com/elonmusk/status/2116551206239694990#m",
-      "date": "Sat, 31 Oct 2026 15:21:45 GMT",
-      "tweet_id": "2116551206239694990",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk on 60 Minutes in 2012, inside the SpaceX factory, on Falcon 1 failing three times in a row and his own heroes testifying against commercial spaceflight.\n\nFalcon 1 failed on its first three launches. Elon said that if the fourth had failed too, SpaceX would not have had the resources to try a fifth.\n\n\"I'm probably not the guy that most people would bet on.\"\n\nTwo months after it aired, Dragon became the first commercial spacecraft to reach the space station. In 2020, SpaceX flew NASA astronauts there, the first crew launch from American soil since 2011.\n\nVideo: CBS 60 Minutes",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116299285117722624/img/SVCyBOead5-dvg5L.jpg",
-            "local": "2116551206239694990q_0.jpg"
-          }
-        ],
-        "text_zh": "2012 年，埃隆·马斯克 (Elon Musk) 在 60 分钟节目中，在 SpaceX 工厂内，讲述了猎鹰 1 号连续三次失败以及他自己的英雄们作证反对商业航天。\n\n猎鹰 1 号前三次发射都失败了。埃隆表示，如果第四次也失败了，SpaceX 将没有资源尝试第五次。\n\n“我可能不是大多数人会下注的人。”\n\n播出两个月后，龙号成为第一艘抵达空间站的商业航天器。 2020 年，SpaceX 将 NASA 宇航员送往那里，这是自 2011 年以来首次从美国本土进行载人发射。\n\n视频：CBS 60 分钟"
-      },
-      "ctx_done": 1,
-      "text_zh": "14年前\n视频"
-    },
-    {
-      "text": "Being a super intelligent computer is not always as great as it may seem 😂\n\n\nTheLaw (@TheLaw3210)\n\n😪\n\n\n\n\n\n— https://nitter.kareem.one/TheLaw3210/status/2116452007661678836#m",
-      "link": "https://x.com/elonmusk/status/2116547860716212313#m",
-      "date": "Sat, 31 Oct 2026 15:08:28 GMT",
-      "tweet_id": "2116547860716212313",
-      "quoted": {
-        "user": "TheLaw3210",
-        "text": "@Risky_5l @grok 😪",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV8l4ZUXUAESKTP.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV8l4ZUXUAESKTP.jpg?name=orig",
-            "local": "2116547860716212313q_0.jpg"
-          }
-        ],
-        "text_zh": "@Risky_5l @grok 😪"
-      },
-      "ctx_done": 1,
-      "text_zh": "成为超级智能计算机并不总是像看起来那么伟大 😂\n\n\n法律 (@TheLaw3210)\n\n😪\n\n\n\n\n\n— https://nitter.kareem.one/TheLaw3210/status/2116452007661678836#m"
     }
   ]
 }

@@ -1,8 +1,16 @@
 {
   "username": "raines1220",
-  "updated_at": "2026-11-15T10:38:31Z",
-  "count": 1,
+  "updated_at": "2026-11-15T18:41:13Z",
+  "count": 2,
   "tweets": [
+    {
+      "text": "SpaceX has just officially received regulatory approval from the FAA for Starship flight 15. Launch is a go for today!\n\nThis is the first time SpaceX will attempt to return both the booster and the ship to the launch site for catch. If successful, this will mark the first full recovery of an orbital launch system.",
+      "link": "https://x.com/SawyerMerritt/status/2121317058436882895#m",
+      "date": "Fri, 13 Nov 2026 18:59:33 GMT",
+      "tweet_id": "2121317058436882895",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 刚刚正式获得美国联邦航空管理局 (FAA) 的监管批准，进行 Starship 15 次飞行。今天就开始发射吧！\n\n这是 SpaceX 首次尝试将助推器和飞船送回发射场进行捕获。如果成功，这将标志着轨道发射系统的首次完全恢复。"
+    },
     {
       "text": "FSD saved me AGAIN from a maniac. This was the second crash it helped me avoid this year.\nVideo\nVideo\nVideo",
       "link": "https://x.com/raines1220/status/2111663771597021404#m",
