@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-11-15T00:56:35Z",
-  "count": 106,
+  "updated_at": "2026-11-15T10:37:15Z",
+  "count": 105,
   "tweets": [
     {
       "text": "Throughout the years, we've spoken to some incredible teams in the EV and Tesla space and few are as exemplary as Unplugged Performance / @UnpluggedTesla.\n\nIf anyone could execute on this offer and properly handle a Cybertruck line, it would be their team.\n\nWe fully support this.",
@@ -1178,14 +1178,6 @@
         "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1",
         "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。在此处查看此更新的推出：https://teslascope.com/software/2026.38.5.1"
       },
-      "ctx_done": 1
-    },
-    {
-      "text": "New quality-of-life feature added for all paid subscribers on our platform; charging cost calculations for home and destination charging can now be automated, similar to Supercharger sessions.\n\nOpt-in via the Charging Plans page, which has also been heavily redesigned based on community feedback.",
-      "link": "http://nitter.meowing.monster/teslascope/status/2110575021475406201#m",
-      "date": "Thu, 15 Oct 2026 03:34:32 GMT",
-      "text_zh": "为我们平台上的所有付费订户添加了新的生活质量功能；现在可以自动计算家庭和目的地充电的充电成本，类似于超级充电会话。\n\n通过“充电计划”页面选择加入，该页面也根据社区反馈进行了大量重新设计。",
-      "tweet_id": "2110575021475406201",
       "ctx_done": 1
     }
   ]
