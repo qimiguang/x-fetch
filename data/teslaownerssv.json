@@ -1,8 +1,473 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-14T19:52:28Z",
+  "updated_at": "2026-11-15T00:57:07Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Starship heat shield after reentry, Flight 10 through Flight 15.\nFlights 10 and 11 flew V2 ships. Flights 12 through 15 flew V3. https://t.co/dgLZc5K0qP",
+      "link": "https://x.com/teslaownersSV/status/2121767624971628904",
+      "date": "Sun Nov 15 00:49:56 +0000 2026",
+      "tweet_id": "2121767624971628904",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=large",
+          "local": "2121767624971628904_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=large",
+          "local": "2121767624971628904_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "再入后的星舰隔热罩，航班 10 至航班 15。\n10 号和 11 号航班飞行的是 V2 舰艇。 12 至 15 号航班使用 V3。 https://t.co/dgLZc5K0qP"
+    },
+    {
+      "text": "How it started vs how it's going.\n\n2019: Starhopper, one Raptor engine and a water tower shape, hops 150 meters in South Texas.\n2026: Mechazilla catches Starship out of the air on Flight 15. https://t.co/sLgf8IIZSb",
+      "link": "https://x.com/teslaownersSV/status/2121764888238522565",
+      "date": "Sun Nov 15 00:39:04 +0000 2026",
+      "tweet_id": "2121764888238522565",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121764844525559808/vid/avc1/1920x1080/iaFJRbY9aA0-1j-o.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121764844525559808/img/lCLIDvmhLFNmV1ic.jpg",
+          "local": "2121764888238522565_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121764844525559808/vid/avc1/1920x1080/iaFJRbY9aA0-1j-o.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121764844525559808/img/lCLIDvmhLFNmV1ic.jpg",
+          "local": "2121764888238522565_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "它是如何开始的与它是如何进行的。\n\n2019 年：Starhopper，一台猛禽发动机和水塔形状，在德克萨斯州南部跳跃 150 米。\n2026 年：Mechazilla 在 15 号航班上捕获了空中的星舰。https://t.co/sLgf8IIZSb"
+    },
+    {
+      "text": "RT @MelissaCohoon: Congrats @SpaceX team! \n\nAgain, what a time to be alive. 🤯",
+      "link": "https://x.com/teslaownersSV/status/2121753294657962213",
+      "date": "Sat Nov 14 23:53:00 +0000 2026",
+      "tweet_id": "2121753294657962213",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
+            "local": "2121753294657962213q_0.jpg"
+          }
+        ],
+        "text_zh": "机甲齐拉抓住星舰！祝贺整个 SpaceX 团队取得这一令人难以置信的成就！"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @MelissaCohoon：恭喜@SpaceX 团队！ \n\n再说一次，活着是多么美好的时光啊。 🤯"
+    },
+    {
+      "text": "Elon Musk and SpaceX Did it. \n\nStarship catch secured. https://t.co/5sS96bQO4y",
+      "link": "https://x.com/teslaownersSV/status/2121750969721749767",
+      "date": "Sat Nov 14 23:43:46 +0000 2026",
+      "tweet_id": "2121750969721749767",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121750783804981248/vid/avc1/1920x1080/5qH6OQGiVTS2aaHQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750783804981248/img/TGPm4qfyYq2RM4lr.jpg",
+          "local": "2121750969721749767_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121750783804981248/vid/avc1/1920x1080/5qH6OQGiVTS2aaHQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750783804981248/img/TGPm4qfyYq2RM4lr.jpg",
+          "local": "2121750969721749767_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@tobyliiiiiiiiii @Erdayastronaut @NASASpaceflight Might just catch the ship with the launch tower, same as booster",
+        "text_zh": "@tobyliiiiiiiiii @Erdayastronaut @NASASpaceflight 可能会用发射塔赶上飞船，与助推器相同"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克和 SpaceX 做到了。 \n\n星舰卡扣固定。 https://t.co/5sS96bQO4y"
+    },
+    {
+      "text": "Starship looks like science fiction, and Elon gives the credit for making it real to the people who build it.\n\n\"It looks like CGI... If this was a movie, you'd be like, no way. Come on. Too implausible, but it's real. And it's due to you guys.\" @elonmusk https://t.co/DkH9ZNOXRY",
+      "link": "https://x.com/teslaownersSV/status/2121740840465059964",
+      "date": "Sat Nov 14 23:03:31 +0000 2026",
+      "tweet_id": "2121740840465059964",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121740779098165248/vid/avc1/1920x1080/M4RepmfCZF0Wobrw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121740779098165248/img/ymexgQUc_w8I2vv9.jpg",
+          "local": "2121740840465059964_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121740779098165248/vid/avc1/1920x1080/M4RepmfCZF0Wobrw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121740779098165248/img/ymexgQUc_w8I2vv9.jpg",
+          "local": "2121740840465059964_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星际飞船看起来就像科幻小说一样，埃隆将其变为现实的功劳归功于建造它的人们。\n\n“它看起来像 CGI……如果这是一部电影，你会说，不可能。得了吧。太难以置信了，但它是真实的。这要归功于你们。” @elonmusk https://t.co/DkH9ZNOXRY"
+    },
+    {
+      "text": "How big is this catch? Starship is 52 m (171 ft) tall, more than half the height of the Statue of Liberty, and the tower that caught it stands about 145 m (475 ft). \n\nFlight 15, the first ship ever caught by the tower. https://t.co/vilrQlTm1r",
+      "link": "https://x.com/teslaownersSV/status/2121740411018649968",
+      "date": "Sat Nov 14 23:01:48 +0000 2026",
+      "tweet_id": "2121740411018649968",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121740383600381952/vid/avc1/1920x1080/iVHpyD1j2Vw_eB1K.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121740383600381952/img/EiosqY5-qOQ-hgL1.jpg",
+          "local": "2121740411018649968_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121740383600381952/vid/avc1/1920x1080/iVHpyD1j2Vw_eB1K.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121740383600381952/img/EiosqY5-qOQ-hgL1.jpg",
+          "local": "2121740411018649968_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这个渔获量有多大？星舰高 52 m（171 英尺），超过自由女神像高度的一半，捕获它的塔楼高约 145 m（475 英尺）。 \n\n15 号航班，第一艘被塔台捕获的船只。 https://t.co/vilrQlTm1r"
+    },
+    {
+      "text": "Turn your sound on. This is what it sounds like when a tower catches a Starship. Flight 15 at Starbase, the first ship catch ever. https://t.co/F4wFecDEan",
+      "link": "https://x.com/teslaownersSV/status/2121740180575129849",
+      "date": "Sat Nov 14 23:00:53 +0000 2026",
+      "tweet_id": "2121740180575129849",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121740148828405760/vid/avc1/1920x1080/X_YoUqcqtpX1qTOs.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121740148828405760/img/XotEaiFF4plM_leh.jpg",
+          "local": "2121740180575129849_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121740148828405760/vid/avc1/1920x1080/X_YoUqcqtpX1qTOs.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121740148828405760/img/XotEaiFF4plM_leh.jpg",
+          "local": "2121740180575129849_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "打开声音。这就是塔抓住星舰时的感觉。 Starbase 的 15 号航班，有史以来第一艘船捕获。 https://t.co/F4wFecDEan"
+    },
+    {
+      "text": "The moment the tower caught Starship, slowed down 4x. Flight 15 came home to Starbase and the chopsticks closed on the ship for the first time ever. https://t.co/IFkzQxNMgl",
+      "link": "https://x.com/teslaownersSV/status/2121740029030707566",
+      "date": "Sat Nov 14 23:00:17 +0000 2026",
+      "tweet_id": "2121740029030707566",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121739993060417536/vid/avc1/1920x1080/rRM2vryIcCvHavFR.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121739993060417536/img/Elr0fHGQyG0bAyID.jpg",
+          "local": "2121740029030707566_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121739993060417536/vid/avc1/1920x1080/rRM2vryIcCvHavFR.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121739993060417536/img/Elr0fHGQyG0bAyID.jpg",
+          "local": "2121740029030707566_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "塔抓住星舰的那一刻，速度减慢了四倍。 15 号航班回到 Starbase，筷子第一次在船上闭合。 https://t.co/IFkzQxNMgl"
+    },
+    {
+      "text": "Flight 5: the tower caught the booster. Flight 15: the tower caught the ship. Next: both on the same flight? https://t.co/XEyjRvCTyE",
+      "link": "https://x.com/teslaownersSV/status/2121738676992622751",
+      "date": "Sat Nov 14 22:54:55 +0000 2026",
+      "tweet_id": "2121738676992622751",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121738641370476544/vid/avc1/1080x1920/EU1FAxlwQCQdnJnI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121738641370476544/img/EGynS1KsEqzif1Eu.jpg",
+          "local": "2121738676992622751_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121738641370476544/vid/avc1/1080x1920/EU1FAxlwQCQdnJnI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121738641370476544/img/EGynS1KsEqzif1Eu.jpg",
+          "local": "2121738676992622751_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "5号航班：塔台抓住了助推器。 15号航班：塔台抓住了那艘船。下一篇： 两人乘坐同一航班？ https://t.co/XEyjRvCTyE"
+    },
+    {
+      "text": "EVERY STARSHIP LANDING\n\nFrom SN15 sticking the landing in 2021 to the tower catching a ship today.\n\nSN15, booster catches on Flights 5, 7 and 8, ship splashdowns on Flights 10 through 14, and Flight 15 caught at Starbase. https://t.co/7h9EBC21iZ",
+      "link": "https://x.com/teslaownersSV/status/2121738568116978058",
+      "date": "Sat Nov 14 22:54:29 +0000 2026",
+      "tweet_id": "2121738568116978058",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121738331948265472/vid/avc1/1920x1080/bEc3WR9BXXs6LcBg.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121738331948265472/img/Z14SDLLJAxptosHh.jpg",
+          "local": "2121738568116978058_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121738331948265472/vid/avc1/1920x1080/bEc3WR9BXXs6LcBg.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121738331948265472/img/Z14SDLLJAxptosHh.jpg",
+          "local": "2121738568116978058_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "每艘星舰着陆\n\n从2021年SN15坚持登陆到今天塔台抓船。\n\nSN15，助推器在 5、7 和 8 号航班上捕获，船舶在 10 至 14 号航班上溅落，15 号航班在 Starbase 捕获。 https://t.co/7h9EBC21iZ"
+    },
+    {
+      "text": "In May 2025, Elon said the next thing SpaceX needed to do was catch the ship. Today the tower caught it.\n\n\"The next thing we need to do is catch the ship too. So we haven't done this yet, but we will.\" @elonmusk, Starship update at Starbase, May 2025\n\nElon today: \"Congratulations https://t.co/4CPWlRrXbE",
+      "link": "https://x.com/teslaownersSV/status/2121738128792891484",
+      "date": "Sat Nov 14 22:52:44 +0000 2026",
+      "tweet_id": "2121738128792891484",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121738071842639872/vid/avc1/1920x1080/1XVW_YXOWnyotDXj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121738071842639872/img/5CDH3nBiCQcgfMcL.jpg",
+          "local": "2121738128792891484_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121738071842639872/vid/avc1/1920x1080/1XVW_YXOWnyotDXj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121738071842639872/img/5CDH3nBiCQcgfMcL.jpg",
+          "local": "2121738128792891484_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "2025 年 5 月，埃隆表示 SpaceX 下一步要做的就是赶上这艘船。今天塔抓住了它。\n\n“我们接下来要做的就是赶上这艘船。所以我们还没有这样做，但我们会的。” @elonmusk，Starbase 的 Starship 更新，2025 年 5 月\n\n埃隆今天：“恭喜 https://t.co/4CPWlRrXbE"
+    },
+    {
+      "text": "Starship Flight 15 coming home, sped up: from reentry plasma to the first-ever ship catch at Starbase https://t.co/o3FVlP2fzT",
+      "link": "https://x.com/teslaownersSV/status/2121734460068729308",
+      "date": "Sat Nov 14 22:38:09 +0000 2026",
+      "tweet_id": "2121734460068729308",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121734387842863104/vid/avc1/1920x1080/uqna4RqNnO5u5-38.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121734387842863104/img/VWxt71o0aQT_QhMr.jpg",
+          "local": "2121734460068729308_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121734387842863104/vid/avc1/1920x1080/uqna4RqNnO5u5-38.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121734387842863104/img/VWxt71o0aQT_QhMr.jpg",
+          "local": "2121734460068729308_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰 15 号航班加速返航：从再入等离子体到 Starbase 首次捕获飞船 https://t.co/o3FVlP2fzT"
+    },
+    {
+      "text": "Falcon 9 only knows one direction.\nUp. 🔥\n\nNo landing. No slowing down. Just pure climb energy on loop. https://t.co/6vBTlVbFlj",
+      "link": "https://x.com/teslaownersSV/status/2121730803260604598",
+      "date": "Sat Nov 14 22:23:38 +0000 2026",
+      "tweet_id": "2121730803260604598",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121730380965568512/vid/avc1/1920x1080/XHC2IhLECFHn3omX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121730380965568512/img/wcPKYi74cyA2X8cL.jpg",
+          "local": "2121730803260604598_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121730380965568512/vid/avc1/1920x1080/XHC2IhLECFHn3omX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121730380965568512/img/wcPKYi74cyA2X8cL.jpg",
+          "local": "2121730803260604598_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "猎鹰 9 号只知道一个方向。\n向上。 🔥\n\n没有着陆。没有减速。环路上只有纯粹的攀登能量。 https://t.co/6vBTlVbFlj"
+    },
+    {
+      "text": "What did you accomplish last week?\n\n@elonmusk be like https://t.co/0jXJhbwz72",
+      "link": "https://x.com/teslaownersSV/status/2121728891014553623",
+      "date": "Sat Nov 14 22:16:02 +0000 2026",
+      "tweet_id": "2121728891014553623",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121728841517617152/vid/avc1/1920x1080/56zZlwPAVgpTcl2y.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121728841517617152/img/azrRgTxSuGXnX05Q.jpg",
+          "local": "2121728891014553623_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121728841517617152/vid/avc1/1920x1080/56zZlwPAVgpTcl2y.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121728841517617152/img/azrRgTxSuGXnX05Q.jpg",
+          "local": "2121728891014553623_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "上周你完成了什么？\n\n@elonmusk 就像 https://t.co/0jXJhbwz72"
+    },
+    {
+      "text": "No one is inspiring humanity like Elon Musk https://t.co/blJAV8a4Cj",
+      "link": "https://x.com/teslaownersSV/status/2121728702841246181",
+      "date": "Sat Nov 14 22:15:17 +0000 2026",
+      "tweet_id": "2121728702841246181",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121728628627238912/vid/avc1/2160x3840/FzGxa9CyY8paD_D3.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121728628627238912/img/fpZ2LbelXD1XCl8r.jpg",
+          "local": "2121728702841246181_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121728628627238912/vid/avc1/2160x3840/FzGxa9CyY8paD_D3.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121728628627238912/img/fpZ2LbelXD1XCl8r.jpg",
+          "local": "2121728702841246181_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "没有人像埃隆·马斯克那样激励人类 https://t.co/blJAV8a4Cj"
+    },
+    {
+      "text": "Elon Musk is creating an exciting future.  https://t.co/Aw2Ac08xmj",
+      "link": "https://x.com/teslaownersSV/status/2121728299101725177",
+      "date": "Sat Nov 14 22:13:40 +0000 2026",
+      "tweet_id": "2121728299101725177",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121719182022557696/vid/avc1/1080x1920/mVWvkHGP0Huni8u0.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121719182022557696/img/AT0fIkJ1dyN2mcRc.jpg",
+          "local": "2121728299101725177_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121719182022557696/vid/avc1/1080x1920/mVWvkHGP0Huni8u0.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121719182022557696/img/AT0fIkJ1dyN2mcRc.jpg",
+          "local": "2121728299101725177_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克正在创造一个令人兴奋的未来。  https://t.co/Aw2Ac08xmj"
+    },
+    {
+      "text": "Starship Flight 15, all at once: liftoff from Starbase, Super Heavy splashing down in the Gulf, and the tower catching Starship for the first time. https://t.co/NdwKqH8tEy",
+      "link": "https://x.com/teslaownersSV/status/2121727293169316282",
+      "date": "Sat Nov 14 22:09:41 +0000 2026",
+      "tweet_id": "2121727293169316282",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121727249301012480/vid/avc1/1920x1080/KkrPFksqw9LDFolk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121727249301012480/img/x-BeKNKLfTzpJeRx.jpg",
+          "local": "2121727293169316282_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121727249301012480/vid/avc1/1920x1080/KkrPFksqw9LDFolk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121727249301012480/img/x-BeKNKLfTzpJeRx.jpg",
+          "local": "2121727293169316282_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰 15 号航班同时发生：从 Starbase 升空，超重型飞机溅落到海湾，塔楼首次捕捉到星舰。 https://t.co/NdwKqH8tEy"
+    },
+    {
+      "text": "Flight 15, both vehicles at once: Super Heavy splashing down in the Gulf and Starship caught by the tower at Starbase. https://t.co/cX13HlrFSQ",
+      "link": "https://x.com/teslaownersSV/status/2121726672190013711",
+      "date": "Sat Nov 14 22:07:13 +0000 2026",
+      "tweet_id": "2121726672190013711",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121726615961157632/vid/avc1/1080x1920/J0QDF6cicEbl3T6K.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121726615961157632/img/31Ob3PRB_00FLtUT.jpg",
+          "local": "2121726672190013711_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121726615961157632/vid/avc1/1080x1920/J0QDF6cicEbl3T6K.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121726615961157632/img/31Ob3PRB_00FLtUT.jpg",
+          "local": "2121726672190013711_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "15 号航班，两辆车同时出现：超重型飞机在海湾中溅落，而星舰则被 Starbase 的塔捕获。 https://t.co/cX13HlrFSQ"
+    },
+    {
+      "text": "Starship Flight 15 lifted off from Starbase, Super Heavy splashed down in the Gulf, and today the tower caught the ship. https://t.co/h7Z0D9D18K",
+      "link": "https://x.com/teslaownersSV/status/2121724356736979041",
+      "date": "Sat Nov 14 21:58:01 +0000 2026",
+      "tweet_id": "2121724356736979041",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121724264441319424/vid/avc1/1920x1080/aUFfrq6P2tzwapS0.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121724264441319424/img/hBVPAmLnJh-0RL2q.jpg",
+          "local": "2121724356736979041_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121724264441319424/vid/avc1/1920x1080/aUFfrq6P2tzwapS0.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121724264441319424/img/hBVPAmLnJh-0RL2q.jpg",
+          "local": "2121724356736979041_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰 15 号航班从 Starbase 升空，超重型飞机溅落在海湾，今天塔台抓住了飞船。 https://t.co/h7Z0D9D18K"
+    },
+    {
+      "text": "Every official catch so far, all at once: Super Heavy on Flights 5, 7 and 8, and Starship on Flight 15, the first ship catch.\n\nCongrats to @spacex @elonmusk for all these accomplishments. https://t.co/wqpLSBNiNd",
+      "link": "https://x.com/teslaownersSV/status/2121723434883600568",
+      "date": "Sat Nov 14 21:54:21 +0000 2026",
+      "tweet_id": "2121723434883600568",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121723378671423488/vid/avc1/1080x1920/_L-7mSmgKyKT-boi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121723378671423488/img/SeInpzAHzJnUiLcK.jpg",
+          "local": "2121723434883600568_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121723378671423488/vid/avc1/1080x1920/_L-7mSmgKyKT-boi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121723378671423488/img/SeInpzAHzJnUiLcK.jpg",
+          "local": "2121723434883600568_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "到目前为止，官方捕获的每艘船都是一次性捕获的：5、7 和 8 号航班上的 Super Heavy，以及 15 号航班上的 Starship，这是第一艘船捕获的船。\n\n祝贺 @spacex @elonmusk 取得的所有这些成就。 https://t.co/wqpLSBNiNd"
+    },
+    {
+      "text": "Congrats @SpaceX team! \n\nAgain, what a time to be alive. 🤯",
+      "link": "https://x.com/MelissaCohoon/status/2121715983585005612",
+      "date": "Sat Nov 14 21:24:44 +0000 2026",
+      "tweet_id": "2121715983585005612",
+      "quoted": {
+        "user": "SpaceX",
+        "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
+            "local": "2121715983585005612q_0.jpg"
+          }
+        ],
+        "text_zh": "机甲齐拉抓住星舰！祝贺整个 SpaceX 团队取得这一令人难以置信的成就！"
+      },
+      "ctx_done": 1,
+      "text_zh": "恭喜@SpaceX 团队！ \n\n再说一次，活着是多么美好的时光啊。 🤯"
+    },
     {
       "text": "People often wait until retirement to do what they want, but you're not guaranteed to live that long.",
       "link": "https://x.com/teslaownersSV/status/2121691728541532346",
@@ -3778,361 +4243,6 @@
       "tweet_id": "2120399852878352716",
       "ctx_done": 1,
       "text_zh": "RT @MyTeslaMoonship：X 接管 1 个月后，我仍在考虑这件事。我要求我的艺术制作机器人制作一本数字剪贴簿......"
-    },
-    {
-      "text": "RT @Dogetothemoon: lmao, the Elon Musk documentary by Alex Gibney used the footage of me driving my Cyberquad during the \n@teslaownersSV ev…",
-      "link": "https://x.com/teslaownersSV/status/2120399309078454305",
-      "date": "Wed Nov 11 06:12:45 +0000 2026",
-      "tweet_id": "2120399309078454305",
-      "ctx_done": 1,
-      "text_zh": "RT @Dogetothemoon：lmao，亚历克斯·吉布尼 (Alex Gibney) 拍摄的埃隆·马斯克 (Elon Musk) 纪录片，使用了我在 \n@teslaownersSV ev…"
-    },
-    {
-      "text": "lmao, the Elon Musk documentary by Alex Gibney used the footage of me driving my Cyberquad during the \n@teslaownersSV event, and called us the cult of Elon.\n\n\"It's about the cult of Elon, we can't beat cult Elon.\"🤣 https://t.co/vripvfsKHL",
-      "link": "https://x.com/Dogetothemoon/status/2120399079519953355",
-      "date": "Wed Nov 11 06:11:50 +0000 2026",
-      "tweet_id": "2120399079519953355",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120398058383163393/vid/avc1/2880x1440/58uTKfUCeeu_Ve3G.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120398058383163393/img/ynz_GRAzjvHmf4n9.jpg",
-          "local": "2120399079519953355_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120398058383163393/vid/avc1/2880x1440/58uTKfUCeeu_Ve3G.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120398058383163393/img/ynz_GRAzjvHmf4n9.jpg",
-          "local": "2120399079519953355_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "lmao，亚历克斯·吉布尼 (Alex Gibney) 拍摄的埃隆·马斯克 (Elon Musk) 纪录片，使用了我在 \n@teslaownersSV 事件，并称我们为埃隆崇拜。\n\n“这是对埃隆的崇拜，我们无法击败埃隆崇拜。”🤣 https://t.co/vripvfsKHL"
-    },
-    {
-      "text": "SpaceX pulled heat shield tiles off a Starship that had already flown to space and put them on the next ship to fly again.\n\nTwo tiles from Ship 40 came back from the Indian Ocean after Flight 13 and flew again on Ship 41 in September. A Starship heat shield carries about 20,000 https://t.co/ciUTip6atb",
-      "link": "https://x.com/teslaownersSV/status/2120364667583500381",
-      "date": "Wed Nov 11 03:55:05 +0000 2026",
-      "tweet_id": "2120364667583500381",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120364600000655360/vid/avc1/1920x1080/kACZNMqIW2swYUKh.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120364600000655360/img/R7yPs6HwbwEvXEeH.jpg",
-          "local": "2120364667583500381_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120364600000655360/vid/avc1/1920x1080/kACZNMqIW2swYUKh.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120364600000655360/img/R7yPs6HwbwEvXEeH.jpg",
-          "local": "2120364667583500381_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "SpaceX 从一艘已经飞向太空的星际飞船上取下隔热板，并将其安装到下一艘再次飞行的飞船上。\n\n40号船的两块飞机在13号航班之后从印度洋返回，并于9月再次乘坐41号船飞行。 Starship 隔热罩可承载约 20,000 个 https://t.co/ciUTip6atb"
-    },
-    {
-      "text": "Elon Musk wants to double the thrust on the outer ring of Super Heavy.\n\n\"It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster\" @elonmusk\n\nThat's the ring you see lighting up here on Flight 14. On Friday, https://t.co/n8jTFdBCP9",
-      "link": "https://x.com/teslaownersSV/status/2120364095979598128",
-      "date": "Wed Nov 11 03:52:49 +0000 2026",
-      "tweet_id": "2120364095979598128",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120364036772737024/vid/avc1/1920x1080/Blb6ag2GBtLW0nr8.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120364036772737024/img/vDLpgHNBFpW8n5v9.jpg",
-          "local": "2120364095979598128_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120364036772737024/vid/avc1/1920x1080/Blb6ag2GBtLW0nr8.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120364036772737024/img/vDLpgHNBFpW8n5v9.jpg",
-          "local": "2120364095979598128_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克希望将超重型外环的推力加倍。\n\n“用 500 吨推力的 Raptor 4 代替 250 吨 Raptor 3 作为星舰助推器的外环真是太诱人了”@elonmusk\n\n这就是您在 14 号航班上看到的亮起的圆环。周五，https://t.co/n8jTFdBCP9"
-    },
-    {
-      "text": "Can't believe Grok @bot can make phone calls. Booking a flight to avoid the lousy experience—it'll bring me on when the agent's ready. https://t.co/VoqxCvwZ5t",
-      "link": "https://x.com/teslaownersSV/status/2120345729755729949",
-      "date": "Wed Nov 11 02:39:50 +0000 2026",
-      "tweet_id": "2120345729755729949",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWz7NEmbIAA4DoT.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWz7NEmbIAA4DoT.jpg?format=jpg&name=large",
-          "local": "2120345729755729949_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWz7NEmbIAA4DoT.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWz7NEmbIAA4DoT.jpg?format=jpg&name=large",
-          "local": "2120345729755729949_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "不敢相信 Grok @bot 可以打电话。预订航班以避免糟糕的经历——当代理人准备好时，它会带我登机。 https://t.co/VoqxCvwZ5t"
-    },
-    {
-      "text": "RT @sampritibh: It was so great spending some time with @NASAKennedy Director @brianhughes at UP.Summit. \n\nBrian has the coolest full-circl…",
-      "link": "https://x.com/teslaownersSV/status/2120333720100249856",
-      "date": "Wed Nov 11 01:52:07 +0000 2026",
-      "tweet_id": "2120333720100249856",
-      "ctx_done": 1,
-      "text_zh": "RT @sampritibh：在 UP.Summit 与 @NASAKennedy 总监 @brianhughes 共度时光真是太棒了。 \n\n布莱恩拥有最酷的全循环……"
-    },
-    {
-      "text": "Larry Page on Elon Musk: \"He wants to go to Mars, to back up humanity. That's a worthy goal.\" \n\nStarship Flight 15 is targeting Friday. https://t.co/hIWZxZobVN",
-      "link": "https://x.com/teslaownersSV/status/2120326199385989383",
-      "date": "Wed Nov 11 01:22:14 +0000 2026",
-      "tweet_id": "2120326199385989383",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120326128208601088/vid/avc1/1920x1080/h3diD-9TnEs3nQrl.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120326128208601088/img/OqtTee5KwOSN6pn9.jpg",
-          "local": "2120326199385989383_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120326128208601088/vid/avc1/1920x1080/h3diD-9TnEs3nQrl.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120326128208601088/img/OqtTee5KwOSN6pn9.jpg",
-          "local": "2120326199385989383_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "拉里·佩奇评价埃隆·马斯克：“他想去火星，支持人类。这是一个值得实现的目标。” \n\n星舰 15 号航班的目标是周五。 https://t.co/hIWZxZobVN"
-    },
-    {
-      "text": "Elon Musk in December 2010, the same day SpaceX became the first private company to send a spacecraft to orbit and bring it back.\n\nHe called a reusable rocket \"the holy grail of orbital spaceflight\" and said some out there thought it was impossible.\n\nHe gave himself two to three https://t.co/1iQaYttOaS",
-      "link": "https://x.com/teslaownersSV/status/2120314466630066579",
-      "date": "Wed Nov 11 00:35:37 +0000 2026",
-      "tweet_id": "2120314466630066579",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120314434866610176/vid/avc1/1080x1350/yjrAEx53wFcYM1wi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120314434866610176/img/1eytZgXkS0dQAqnN.jpg",
-          "local": "2120314466630066579_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120314434866610176/vid/avc1/1080x1350/yjrAEx53wFcYM1wi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120314434866610176/img/1eytZgXkS0dQAqnN.jpg",
-          "local": "2120314466630066579_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2010 年 12 月，埃隆·马斯克 (Elon Musk)，同一天 SpaceX 成为第一家将航天器送入轨道并将其带回的私人公司。\n\n他将可重复使用的火箭称为“轨道航天的圣杯”，并表示有些人认为这是不可能的。\n\n他给了自己两到三个 https://t.co/1iQaYttOaS"
-    },
-    {
-      "text": "It was so great spending some time with @NASAKennedy Director @brianhughes at UP.Summit. \n\nBrian has the coolest full-circle story- from visiting Kennedy Space Center as a 3 yr old to running it today. Beats mine! \n\nBrian, I hope you share your story with young people everywhere. https://t.co/UnzYZP6uAw",
-      "link": "https://x.com/sampritibh/status/2120308779808072166",
-      "date": "Wed Nov 11 00:13:01 +0000 2026",
-      "tweet_id": "2120308779808072166",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWzZmMcaAAEQ00T.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWzZmMcaAAEQ00T.jpg?format=jpg&name=large",
-          "local": "2120308779808072166_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWzZmMcaAAEQ00T.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWzZmMcaAAEQ00T.jpg?format=jpg&name=large",
-          "local": "2120308779808072166_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "与 @NASAKennedy 总监 @brianhughes 在 UP.Summit 共度时光真是太棒了。 \n\n布莱恩有一个最酷的完整故事——从三岁时参观肯尼迪航天中心到今天经营它。胜过我的！ \n\n布莱恩，我希望你与世界各地的年轻人分享你的故事。 https://t.co/UnzYZP6uAw"
-    },
-    {
-      "text": "Shout out to @BeardedTesla for the drone footage.",
-      "link": "https://x.com/teslaownersSV/status/2120291021343150185",
-      "date": "Tue Nov 10 23:02:27 +0000 2026",
-      "tweet_id": "2120291021343150185",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "向@BeardedTesla 的无人机镜头大喊大叫。"
-    },
-    {
-      "text": "RT @navierboat: 2,100 nautical miles at 20 knots. 105 continuous hours on foil. On a 30-foot hydrofoiling vessel.\n\nThat’s what we engineere…",
-      "link": "https://x.com/teslaownersSV/status/2120290930007945341",
-      "date": "Tue Nov 10 23:02:05 +0000 2026",
-      "tweet_id": "2120290930007945341",
-      "ctx_done": 1,
-      "text_zh": "RT @navierboat：20 节速度 2,100 海里。铝箔连续 105 小时。在 30 英尺长的水翼船上。\n\n这就是我们设计的……"
-    },
-    {
-      "text": "In 2015, @elonmusk called the sun \"this handy fusion reactor in the sky.\"\nIn 2023 he did the math: roughly a gigawatt of sunlight per square kilometer, and less than 0.2% of Earth's land for wind and solar (Tesla Master Plan 3 estimate).\n\nThis week: Tesla: site work is underway https://t.co/h8oIZ858IO",
-      "link": "https://x.com/teslaownersSV/status/2120289198200778787",
-      "date": "Tue Nov 10 22:55:12 +0000 2026",
-      "tweet_id": "2120289198200778787",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120289159046901760/vid/avc1/1920x1080/XbtPXV8Y4uLQ2Ttt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120289159046901760/img/spqUzq2RRJSkFVeR.jpg",
-          "local": "2120289198200778787_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120289159046901760/vid/avc1/1920x1080/XbtPXV8Y4uLQ2Ttt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120289159046901760/img/spqUzq2RRJSkFVeR.jpg",
-          "local": "2120289198200778787_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2015 年，@elonmusk 将太阳称为“天空中这个方便的聚变反应堆”。\n2023 年，他做了这样的计算：每平方公里大约有 1 吉瓦的阳光，不到地球陆地面积的 0.2% 用于风能和太阳能（特斯拉总体规划 3 估计）。\n\n本周：特斯拉：现场工作正在进行中 https://t.co/h8oIZ858IO"
-    },
-    {
-      "text": "Fully reusable rockets will do for space what airplanes did for travel, and we can't even imagine the uses yet.\n\n\"Once we make this work, it's an utterly profound breakthrough in access to orbit... When aircraft first came along, aircraft were viewed as toys... And we really https://t.co/htZFhLn1bT",
-      "link": "https://x.com/teslaownersSV/status/2120289095540949470",
-      "date": "Tue Nov 10 22:54:48 +0000 2026",
-      "tweet_id": "2120289095540949470",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120289064452861952/vid/avc1/1920x1080/vzXGeGJy92lyrtUH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120289064452861952/img/1VCKvS79oWs_p3zJ.jpg",
-          "local": "2120289095540949470_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120289064452861952/vid/avc1/1920x1080/vzXGeGJy92lyrtUH.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120289064452861952/img/1VCKvS79oWs_p3zJ.jpg",
-          "local": "2120289095540949470_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "完全可重复使用的火箭在太空中的作用就像飞机在旅行中的作用一样，我们甚至无法想象其用途。\n\n“一旦我们完成这项工作，这将是进入轨道方面的一个彻底的突破......当飞机第一次出现时，飞机被视为玩具......而我们真的https://t.co/htZFhLn1bT"
-    },
-    {
-      "text": "All 14 Starship launches. \n\n15 is happening this week. https://t.co/y84ryLaEGC",
-      "link": "https://x.com/teslaownersSV/status/2120285192325832790",
-      "date": "Tue Nov 10 22:39:17 +0000 2026",
-      "tweet_id": "2120285192325832790",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120285134779981825/vid/avc1/1920x1080/fVFvnyByNrAwVH4f.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120285134779981825/img/nMDfsgixyXWkIye_.jpg",
-          "local": "2120285192325832790_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120285134779981825/vid/avc1/1920x1080/fVFvnyByNrAwVH4f.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120285134779981825/img/nMDfsgixyXWkIye_.jpg",
-          "local": "2120285192325832790_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "全部 14 艘星舰发射。 \n\n15 号将于本周发生。 https://t.co/y84ryLaEGC"
-    },
-    {
-      "text": "RT @SERobinsonJr: Drove over to Tesla's Megafactory Texas in Brookshire and found Megapack 3 units on site! This is the first time we have…",
-      "link": "https://x.com/teslaownersSV/status/2120283086781100054",
-      "date": "Tue Nov 10 22:30:55 +0000 2026",
-      "tweet_id": "2120283086781100054",
-      "ctx_done": 1,
-      "text_zh": "RT @SERobinsonJr：开车前往特斯拉位于布鲁克郡的德克萨斯州 Megafactory，现场发现了 Megapack 3 单元！这是我们第一次……"
-    },
-    {
-      "text": "Industry experts saw a photo of Raptor 3 and said the engine was not complete. Then SpaceX showed it firing.\n\n@elonmusk at Starbase, May 2025:\n\"Raptor 3 is really, I'd say, kind of alien technology rocket engine.\"\n\"Even industry experts, when we showed a picture of the Raptor 3, https://t.co/ZCR1GEqoWa",
-      "link": "https://x.com/teslaownersSV/status/2120276828510421444",
-      "date": "Tue Nov 10 22:06:03 +0000 2026",
-      "tweet_id": "2120276828510421444",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120276803541676032/vid/avc1/1920x1080/9cZOjEKqq4F3yjlZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120276803541676032/img/oJ2HeXyhRLijS2da.jpg",
-          "local": "2120276828510421444_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120276803541676032/vid/avc1/1920x1080/9cZOjEKqq4F3yjlZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120276803541676032/img/oJ2HeXyhRLijS2da.jpg",
-          "local": "2120276828510421444_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "行业专家看到了猛禽3的照片，并表示发动机并不完整。然后 SpaceX 展示了它的发射情况。\n\n@elonmusk 在 Starbase，2025 年 5 月：\n“我想说，Raptor 3 确实是一种外星技术火箭发动机。”\n“即使是行业专家，当我们展示 Raptor 3 的图片时，https://t.co/ZCR1GEqoWa"
-    },
-    {
-      "text": "RT @UnpluggedTesla: An open offer to Tesla: We fully support putting Cybercab first, and we’d be glad to take the Cybertruck line off your…",
-      "link": "https://x.com/teslaownersSV/status/2120276346861658371",
-      "date": "Tue Nov 10 22:04:08 +0000 2026",
-      "tweet_id": "2120276346861658371",
-      "ctx_done": 1,
-      "text_zh": "RT @UnpluggedTesla：向特斯拉提出公开报价：我们完全支持将 Cyber​​cab 放在第一位，我们很高兴将 Cyber​​truck 线从您的……"
-    },
-    {
-      "text": "An open offer to Tesla: We fully support putting Cybercab first, and we’d be glad to take the Cybertruck line off your hands.\nWe’d fund it with a consortium of investors and run it at no cost to Tesla’s floor space, headcount, or focus. All of that goes to Cybercab. Cybercab gets",
-      "link": "https://x.com/UnpluggedTesla/status/2120260506904846421",
-      "date": "Tue Nov 10 21:01:12 +0000 2026",
-      "tweet_id": "2120260506904846421",
-      "ctx_done": 1,
-      "text_zh": "向特斯拉提出的公开报价：我们完全支持将 Cyber​​cab 放在首位，并且我们很高兴将 Cyber​​truck 产品线从您手中夺走。\n我们将与投资者财团一起为其提供资金，并在不影响特斯拉占地面积、员工数量或重点的情况下运行它。所有这些都归Cyber​​cab所有。网络出租车得到"
-    },
-    {
-      "text": "2,100 nautical miles at 20 knots. 105 continuous hours on foil. On a 30-foot hydrofoiling vessel.\n\nThat’s what we engineered our unmanned Quanta-D to do. It foils in Sea State 4, where our benchmarks put its range at roughly 4–5× that of comparable boats.\n\nYes, you read that https://t.co/soGWEfrKa7",
-      "link": "https://x.com/navierboat/status/2120253742599782887",
-      "date": "Tue Nov 10 20:34:19 +0000 2026",
-      "tweet_id": "2120253742599782887",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWynitHagAAkWRy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWynitHagAAkWRy.jpg?format=jpg&name=large",
-          "local": "2120253742599782887_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HWynitHagAAkWRy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HWynitHagAAkWRy.jpg?format=jpg&name=large",
-          "local": "2120253742599782887_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "以 20 节速度行驶 2,100 海里。铝箔连续 105 小时。在 30 英尺长的水翼船上。\n\n这就是我们设计无人驾驶 Quanta-D 的目的。它在海况 4 中表现不佳，我们的基准测试显示其航程约为同类船只的 4-5 倍。\n\n是的，您读过 https://t.co/soGWEfrKa7"
-    },
-    {
-      "text": "Spoken like someone who has never worked in tech. \n\nTesla created the most unique and best vehicle ever made: the Cybertruck. \n\nTo make an abundant future, Tesla is pivoting.",
-      "link": "https://x.com/teslaownersSV/status/2120236258500952169",
-      "date": "Tue Nov 10 19:24:50 +0000 2026",
-      "tweet_id": "2120236258500952169",
-      "quoted": {
-        "user": "JustonBrazda",
-        "text": "Guy wasted 1/4 of his life on that truck.  😢 @wmorrill3",
-        "text_zh": "盖伊在那辆卡车上浪费了 1/4 的生命。  😢@wmorrill3"
-      },
-      "ctx_done": 1,
-      "text_zh": "说话就像从未在科技行业工作过的人一样。 \n\n特斯拉创造了有史以来最独特、最好的车辆：Cyber​​truck。 \n\n为了创造一个丰富的未来，特斯拉正在转型。"
-    },
-    {
-      "text": "RT @bubbadangerous: This was the best experience ever. I'm so glad I met so many lovely Barbz and Nicki! I've always been counted out, but…",
-      "link": "https://x.com/teslaownersSV/status/2120235629758058522",
-      "date": "Tue Nov 10 19:22:20 +0000 2026",
-      "tweet_id": "2120235629758058522",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "\"On behalf of the Tesla community, we have enjoyed interacting and engaging with the Barbz, and we are here to support you @NICKIMINAJ\" \n\n@theXtakeover",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120038847002329088/img/uOu5vtipS6fy3N7i.jpg",
-            "local": "2120235629758058522q_0.jpg"
-          }
-        ],
-        "text_zh": "“代表 Tesla 社区，我们很享受与 Barbz 的互动和参与，我们在这里为您提供支持@NICKIMINAJ” \n\n@theXtakeover"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @bubbadangerous：这是有史以来最好的体验。我很高兴认识了这么多可爱的 Barbz 和 Nicki！我一直被排除在外，但是……"
     }
   ]
 }
