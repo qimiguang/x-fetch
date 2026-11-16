@@ -1,8 +1,16 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-15T18:41:36Z",
+  "updated_at": "2026-11-16T00:58:12Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Subscriber spaces in 90 minutes! Come join, there’s a LOT to talk about https://t.co/MYPsf9kVFf",
+      "link": "https://x.com/wholemars/status/2122119284977791119",
+      "date": "Mon Nov 16 00:07:19 +0000 2026",
+      "tweet_id": "2122119284977791119",
+      "ctx_done": 1,
+      "text_zh": "90 分钟内就有订阅者空间！快来加入，有很多话可聊 https://t.co/MYPsf9kVFf"
+    },
     {
       "text": "Tesla is not going to stop selling cars within the next 5 years and they haven’t said they are. This is just people making a speculative leap.\n\n\nMichael Black (@MichaelBlack_78)\n\nThe issue isn't the Cybertruck. The issue is that Tesla looks like it's moving away from the consumer market. People want to own their car, not an app with a service agreement.\n\n\n\n— http://nitter.meowing.monster/MichaelBlack_78/status/2119120608667853283#m",
       "link": "https://x.com/wholemars/status/2119121097249759298#m",
@@ -2498,14 +2506,6 @@
         "text": "🚗 Tesla Robotaxi just registered 8 new 2026 Model Ys with the Texas DMV — now 462 Model Ys in its 811-vehicle TX fleet. https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc",
         "text_zh": "🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 8 辆全新 2026 年款 Y 型车，目前其 811 辆 TX 车队中有 462 辆 Model Y。 https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc"
       },
-      "ctx_done": 1
-    },
-    {
-      "text": "\"When customers come into the Tesla showroom, they're asking 'Can I have an FSD test ride?'. They're not asking for 3, Y or Cybertruck. They're asking to try FSD\"\n\n— Tesla CFO $TSLA",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113029306880589880#m",
-      "date": "Wed, 21 Oct 2026 22:06:59 GMT",
-      "text_zh": "“当顾客走进 Tesla 展厅时，他们会问‘我可以试乘 FSD 吗？’。他们不是要求 3、Y 或 Cybertruck。他们要求尝试一下 FSD”\n\n— 特斯拉首席财务官 $TSLA",
-      "tweet_id": "2113029306880589880",
       "ctx_done": 1
     }
   ]

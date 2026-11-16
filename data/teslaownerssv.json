@@ -1,8 +1,462 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-15T18:40:54Z",
+  "updated_at": "2026-11-16T00:56:38Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "One month of @elonmusk \n\nThe new Roadster flew, SpaceX caught Starship coming back from orbit, Cybercab opened for personal ownership, Robotaxi went 24/7, Optimus production started in Fremont, and Grok Bot hit 1.0.\n\nWhich one is the biggest deal to you? https://t.co/iMlzCbPzk9",
+      "link": "https://x.com/teslaownersSV/status/2122126713710846291",
+      "date": "Mon Nov 16 00:36:50 +0000 2026",
+      "tweet_id": "2122126713710846291",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122126620043706368/vid/avc1/1080x1920/Ou7VogJcbNFwXG9m.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122126620043706368/img/kkOGoQ6Y27jgv1f8.jpg",
+          "local": "2122126713710846291_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122126620043706368/vid/avc1/1080x1920/Ou7VogJcbNFwXG9m.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122126620043706368/img/kkOGoQ6Y27jgv1f8.jpg",
+          "local": "2122126713710846291_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "@elonmusk 一个月 \n\n新的 Roadster 飞了起来，SpaceX 捕获了从轨道返回的 Starship，Cybercab 向个人开放，Robotaxi 实现了 24/7，Optimus 在弗里蒙特开始生产，Grok Bot 达到了 1.0。\n\n哪一项对您来说最重要？ https://t.co/iMlzCbPzk9"
+    },
+    {
+      "text": "RT @GagCityResident: OMG @teslaownersSV 🥹🥹🥹🥹🥹@NICKIMINAJ 🔥🔥🔥🔥♥️♥️♥️♥️",
+      "link": "https://x.com/teslaownersSV/status/2122120478194327688",
+      "date": "Mon Nov 16 00:12:03 +0000 2026",
+      "tweet_id": "2122120478194327688",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New York driving past like a wall.\" Her message to the wrap team: \"A plus plus plus.\"\n\nWrapped by @diywrapclub. BARBZ, Street Queen Noir, Gag City. Thanks @Tryangle for letting us use your truck. \n\n0:00 Coming up\n0:16 A surprise for Nicki\n0:30 The reveal and Nicki's reaction\n0:49 Full on Gag City\n1:12 Up close with the truck\n1:26 Nicki's first thoughts\n1:50 Nicki thanks the Tesla community\n2:10 A plus plus plus for the wrap\n2:20 A closer look at the wrap",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+            "local": "2122120478194327688q_0.jpg"
+          }
+        ],
+        "text_zh": "我们在 Giga Texas 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在纽约，就像一堵墙一样开车经过。”她向包装团队传达的信息是：“加分加分。”\n\n由@diywrapclub 包装。 BARBZ、黑色街头女王、搞笑之城。感谢@Tryangle 让我们使用您的卡车。 \n\n0:00 即将到来\n0:16 给 Nicki 一个惊喜\n0:30 揭露和尼基的反应\n0:49 全面畅玩堵嘴城\n1:12 近距离接触卡车\n1:26 Nicki的第一个想法\n1:50 Nicki 感谢特斯拉社区\n2:10 包裹的加号加号\n2:20 仔细观察包装"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @GagCityResident：天啊@teslaownersSV 🥹🥹🥹🥹🥹@NICKIMINAJ 🔥🔥🔥🔥♥️♥️♥️♥️"
+    },
+    {
+      "text": "RT @teslaownersSV: We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @the…",
+      "link": "https://x.com/teslaownersSV/status/2122120457499574289",
+      "date": "Mon Nov 16 00:11:58 +0000 2026",
+      "tweet_id": "2122120457499574289",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：我们在@the…"
+    },
+    {
+      "text": "OMG @teslaownersSV 🥹🥹🥹🥹🥹@NICKIMINAJ 🔥🔥🔥🔥♥️♥️♥️♥️",
+      "link": "https://x.com/GagCityResident/status/2122119402024001694",
+      "date": "Mon Nov 16 00:07:47 +0000 2026",
+      "tweet_id": "2122119402024001694",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New York driving past like a wall.\" Her message to the wrap team: \"A plus plus plus.\"\n\nWrapped by @diywrapclub. BARBZ, Street Queen Noir, Gag City. Thanks @Tryangle for letting us use your truck. \n\n0:00 Coming up\n0:16 A surprise for Nicki\n0:30 The reveal and Nicki's reaction\n0:49 Full on Gag City\n1:12 Up close with the truck\n1:26 Nicki's first thoughts\n1:50 Nicki thanks the Tesla community\n2:10 A plus plus plus for the wrap\n2:20 A closer look at the wrap",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+            "local": "2122119402024001694q_0.jpg"
+          }
+        ],
+        "text_zh": "我们在 Giga Texas 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在纽约，就像一堵墙一样开车经过。”她向包装团队传达的信息是：“加分加分。”\n\n由@diywrapclub 包装。 BARBZ、黑色街头女王、搞笑之城。感谢@Tryangle 让我们使用您的卡车。 \n\n0:00 即将到来\n0:16 给 Nicki 一个惊喜\n0:30 揭露和尼基的反应\n0:49 全面畅玩堵嘴城\n1:12 近距离接触卡车\n1:26 Nicki的第一个想法\n1:50 Nicki 感谢特斯拉社区\n2:10 包裹的加号加号\n2:20 仔细观察包装"
+      },
+      "ctx_done": 1,
+      "text_zh": "天哪@teslaownersSV🥹🥹🥹🥹🥹@NICKIMINAJ 🔥🔥🔥🔥♥️♥️♥️♥️"
+    },
+    {
+      "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New https://t.co/bJJbf3GPMI",
+      "link": "https://x.com/teslaownersSV/status/2122115802468159634",
+      "date": "Sun Nov 15 23:53:28 +0000 2026",
+      "tweet_id": "2122115802468159634",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+          "local": "2122115802468159634_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+          "local": "2122115802468159634_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我们在 Giga Texas 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在新 https://t.co/bJJbf3GPMI"
+    },
+    {
+      "text": "In 1995, @elonmusk  applied for a job at Netscape and never got a reply. He went and stood in their lobby, too shy to talk to anyone, then left.\n\nHere he is in 2012 at the Tesla factory telling the story. He put Stanford on hold, started Zip2 with his brother, and never went https://t.co/ZpVPlVEMkU",
+      "link": "https://x.com/teslaownersSV/status/2122114264546820396",
+      "date": "Sun Nov 15 23:47:22 +0000 2026",
+      "tweet_id": "2122114264546820396",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122114161408880640/vid/avc1/1920x1080/U4TtHKecJzZEHBgj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114161408880640/img/7P_0hzMe1e3R8Ut0.jpg",
+          "local": "2122114264546820396_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122114161408880640/vid/avc1/1920x1080/U4TtHKecJzZEHBgj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114161408880640/img/7P_0hzMe1e3R8Ut0.jpg",
+          "local": "2122114264546820396_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "1995 年，@elonmusk 向 Netscape 申请了一份工作，但从未得到回复。他走到他们的大厅里，害羞得不敢和任何人说话，然后就离开了。\n\n2012 年，他在特斯拉工厂讲述了这个故事。他搁置了斯坦福大学，与他的兄弟一起创办了 Zip2，但从未去过 https://t.co/ZpVPlVEMkU"
+    },
+    {
+      "text": "Elon's Cybercab math from 2024: a city bus costs about a dollar a mile to run. Cybercab's operating cost, around 20 cents a mile.\n\nHe said the cost of autonomous transport would be so low \"that you can think of it like individualized mass transit.\"\n\nThen he promised: \"And you https://t.co/0CqYzj6Dox",
+      "link": "https://x.com/teslaownersSV/status/2122103388339139022",
+      "date": "Sun Nov 15 23:04:09 +0000 2026",
+      "tweet_id": "2122103388339139022",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122103286505574400/vid/avc1/1920x1080/snuHXGJakVUtMIe-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122103286505574400/img/iMRu3jYQm1PTHtM7.jpg",
+          "local": "2122103388339139022_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122103286505574400/vid/avc1/1920x1080/snuHXGJakVUtMIe-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122103286505574400/img/iMRu3jYQm1PTHtM7.jpg",
+          "local": "2122103388339139022_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon 对 2024 年 Cyber​​cab 的计算：城市公交车每英里的运行成本约为 1 美元。 Cyber​​cab的运营成本约为每英里20美分。\n\n他表示，自动驾驶交通的成本非常低，“你可以把它想象成个性化的公共交通。”\n\n然后他承诺：“而你 https://t.co/0CqYzj6Dox"
+    },
+    {
+      "text": "Elon Musk called full reusability the holy grail. Now the tower has caught the booster and the ship.\n\nAt Starbase in Feb 2022, @elonmusk said: \"The essential technology, the holy grail breakthrough that's needed, is a rapid and completely reusable rocket system. So this has never https://t.co/00pSi9DW2G",
+      "link": "https://x.com/teslaownersSV/status/2122096579066867905",
+      "date": "Sun Nov 15 22:37:05 +0000 2026",
+      "tweet_id": "2122096579066867905",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122096509416263680/vid/avc1/1920x1080/2esmVmiSTVZZu05k.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122096509416263680/img/pcBLcxg1jed_L4nj.jpg",
+          "local": "2122096579066867905_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122096509416263680/vid/avc1/1920x1080/2esmVmiSTVZZu05k.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122096509416263680/img/pcBLcxg1jed_L4nj.jpg",
+          "local": "2122096579066867905_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 将完全可重用性称为圣杯。现在塔已经抓住了助推器和船。\n\n2022 年 2 月，@elonmusk 在 Starbase 上表示：“所需的基本技术、圣杯突破是一种快速且完全可重复使用的火箭系统。所以这从来没有 https://t.co/00pSi9DW2G"
+    },
+    {
+      "text": "Post a photo of you and someone you\nMet from 𝕏. https://t.co/tQvAlkqWoI",
+      "link": "https://x.com/teslaownersSV/status/2122086712776302791",
+      "date": "Sun Nov 15 21:57:53 +0000 2026",
+      "tweet_id": "2122086712776302791",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=large",
+          "local": "2122086712776302791_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=large",
+          "local": "2122086712776302791_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "发布您和您的某人的照片\n从𝕏认识。 https://t.co/tQvAlkqWoI"
+    },
+    {
+      "text": "Elon's case for Optimus isn't really about robots. It's about what happens to the economy.\n\n\"It's not clear what an economy even means at that point. An economy becomes quasi-infinite.\"\n\nTaken to fruition, he said, \"this means a future of abundance, a future where there is no https://t.co/oG06kTQynl",
+      "link": "https://x.com/teslaownersSV/status/2122086621285961782",
+      "date": "Sun Nov 15 21:57:31 +0000 2026",
+      "tweet_id": "2122086621285961782",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122086435121664000/vid/avc1/1920x1080/RHw5J-dlv7BOptTj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122086435121664000/img/0TKam_MRI_iM1KpM.jpg",
+          "local": "2122086621285961782_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122086435121664000/vid/avc1/1920x1080/RHw5J-dlv7BOptTj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122086435121664000/img/0TKam_MRI_iM1KpM.jpg",
+          "local": "2122086621285961782_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆的擎天柱案例实际上并不是关于机器人。这是关于经济发生的事情。\n\n“当时还不清楚经济意味着什么。经济变得准无限。”\n\n他说，一旦实现，“这意味着一个富裕的未来，一个没有任何东西的未来 https://t.co/oG06kTQynl"
+    },
+    {
+      "text": "Elon Musk still working on a Sunday \n\nHe never stops.  https://t.co/haHEOPhFuV",
+      "link": "https://x.com/teslaownersSV/status/2122079341425332303",
+      "date": "Sun Nov 15 21:28:35 +0000 2026",
+      "tweet_id": "2122079341425332303",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122062922968879105/vid/avc1/2160x3840/W57Shr90QNa61w3x.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122062922968879105/img/IOpCPSb0Yrz-3xtJ.jpg",
+          "local": "2122079341425332303_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122062922968879105/vid/avc1/2160x3840/W57Shr90QNa61w3x.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122062922968879105/img/IOpCPSb0Yrz-3xtJ.jpg",
+          "local": "2122079341425332303_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克周日仍在工作 \n\n他从不停止。  https://t.co/haHEOPhFuV"
+    },
+    {
+      "text": "RT @sdlocke1: Thought I would test out uploading multiple pictures by posting a few of my photos from the X Takeover 2026. I know they are…",
+      "link": "https://x.com/teslaownersSV/status/2122059281222828531",
+      "date": "Sun Nov 15 20:08:53 +0000 2026",
+      "tweet_id": "2122059281222828531",
+      "ctx_done": 1,
+      "text_zh": "RT @sdlocke1：我想通过发布 X Takeover 2026 中的一些照片来测试上传多张照片。我知道它们是……"
+    },
+    {
+      "text": "Thought I would test out uploading multiple pictures by posting a few of my photos from the X Takeover 2026. I know they are a little delayed but such is life!\n\n@teslaownersSV @theXtakeover @LandonoftheWest @mayemusk @NICKIMINAJ @SjvTesla https://t.co/11XWLl0mTe",
+      "link": "https://x.com/sdlocke1/status/2122059139245396468",
+      "date": "Sun Nov 15 20:08:19 +0000 2026",
+      "tweet_id": "2122059139245396468",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_9.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_10.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_11.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_12.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_13.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_14.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_15.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_16.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_17.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_18.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_19.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_20.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_21.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_22.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=large",
+          "local": "2122059139245396468_23.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我想通过发布一些来自 X Takeover 2026 的照片来测试上传多张照片。我知道它们有点延迟，但这就是生活！\n\n@teslaownersSV @theXtakeover @LandonoftheWest @mayemusk @NICKIMINAJ @SjvTesla https://t.co/11XWLl0mTe"
+    },
+    {
+      "text": "Elon Musk is creating an exciting future. https://t.co/F7LOlQTnyh",
+      "link": "https://x.com/teslaownersSV/status/2122045091527405816",
+      "date": "Sun Nov 15 19:12:30 +0000 2026",
+      "tweet_id": "2122045091527405816",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122045035210571776/vid/avc1/1920x1080/z2bPdbV_LOju06bG.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122045035210571776/img/91ZgaOTIlALerkMt.jpg",
+          "local": "2122045091527405816_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122045035210571776/vid/avc1/1920x1080/z2bPdbV_LOju06bG.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122045035210571776/img/91ZgaOTIlALerkMt.jpg",
+          "local": "2122045091527405816_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克正在创造一个令人兴奋的未来。 https://t.co/F7LOlQTnyh"
+    },
+    {
+      "text": "Elon Musk is inspiring so many future generations  https://t.co/I3idxhsGLw",
+      "link": "https://x.com/teslaownersSV/status/2122043654294606011",
+      "date": "Sun Nov 15 19:06:47 +0000 2026",
+      "tweet_id": "2122043654294606011",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=large",
+          "local": "2122043654294606011_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=large",
+          "local": "2122043654294606011_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克激励着许多后代 https://t.co/I3idxhsGLw"
+    },
+    {
+      "text": "Legacy media titles of the Starship catch \n\nProbably the most positive I’ve ever seen. https://t.co/nuaFqofPSz",
+      "link": "https://x.com/teslaownersSV/status/2122043518487343371",
+      "date": "Sun Nov 15 19:06:15 +0000 2026",
+      "tweet_id": "2122043518487343371",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=large",
+          "local": "2122043518487343371_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=large",
+          "local": "2122043518487343371_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Legacy media titles of the Starship catch \n\nProbably the most positive I’ve ever seen. https://t.co/nuaFqofPSz"
+    },
     {
       "text": "\"In a certain sense, entrepreneurs sacrifice their peace of mind in order to contribute to the world around them. And @elonmusk is a great example of that.\"\nPavel Durov https://t.co/E1w6TEB298",
       "link": "https://x.com/teslaownersSV/status/2122035008940748807",
@@ -3937,355 +4391,6 @@
       },
       "ctx_done": 1,
       "text_zh": "这太疯狂了🤯🤯🤯❤️❤️❤️"
-    },
-    {
-      "text": "@ninjamattic Beep bop Boop https://t.co/xD7uFlcWbf",
-      "link": "https://x.com/Smokehbear/status/2120606415194657255",
-      "date": "Wed Nov 11 19:55:43 +0000 2026",
-      "tweet_id": "2120606415194657255",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3oRGeWwAEMDiK.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3oRGeWwAEMDiK.jpg?format=jpg&name=large",
-          "local": "2120606415194657255_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3oRGeWwAEMDiK.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3oRGeWwAEMDiK.jpg?format=jpg&name=large",
-          "local": "2120606415194657255_1.jpg"
-        }
-      ],
-      "reply_to": "ninjamattic",
-      "ctx_done": 1,
-      "text_zh": "@ninjamattic Beep bop Boop https://t.co/xD7uFlcWbf"
-    },
-    {
-      "text": "RT @TeslaYRose: X takeover video is out",
-      "link": "https://x.com/teslaownersSV/status/2120604755512951034",
-      "date": "Wed Nov 11 19:49:07 +0000 2026",
-      "tweet_id": "2120604755512951034",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120604755512951034q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @TeslaYRose：X 接管视频已发布"
-    },
-    {
-      "text": "X takeover video is out",
-      "link": "https://x.com/TeslaYRose/status/2120603916627005700",
-      "date": "Wed Nov 11 19:45:47 +0000 2026",
-      "tweet_id": "2120603916627005700",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120603916627005700q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "X收购视频已出"
-    },
-    {
-      "text": "RT @maticrobots: From meeting the Matic team to controlling Matic with his mind\n\nNeuralink Patient #22, Zach, shares how it all came togeth…",
-      "link": "https://x.com/teslaownersSV/status/2120601760071086300",
-      "date": "Wed Nov 11 19:37:13 +0000 2026",
-      "tweet_id": "2120601760071086300",
-      "ctx_done": 1,
-      "text_zh": "RT @maticrobots：从与 Matic 团队见面到用意念控制 Matic\n\nNeuralink 患者 #22，Zach，分享了这一切是如何发生的……"
-    },
-    {
-      "text": "When a flash flood cut power and every phone network to Pertik, a hill village in Aceh, Indonesia, Starlink became its only link to the outside world.\n\n\"Electricity and all regular communication networks are completely down. We are coordinating with the outside using Starlink https://t.co/wXLGfEXnqj",
-      "link": "https://x.com/teslaownersSV/status/2120600252940247318",
-      "date": "Wed Nov 11 19:31:13 +0000 2026",
-      "tweet_id": "2120600252940247318",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=large",
-          "local": "2120600252940247318_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3isR8bcAADBjd.jpg?format=jpg&name=large",
-          "local": "2120600252940247318_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "当一场山洪切断了印度尼西亚亚齐省佩尔蒂克山村的电力和所有电话网络时，星链成为了该村与外界的唯一联系。\n\n“电力和所有常规通信网络完全瘫痪。我们正在使用星链与外界协调 https://t.co/wXLGfEXnqj"
-    },
-    {
-      "text": "Starship vs Human Scale https://t.co/cT1qumoQNW",
-      "link": "https://x.com/teslaownersSV/status/2120594448010944670",
-      "date": "Wed Nov 11 19:08:09 +0000 2026",
-      "tweet_id": "2120594448010944670",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/1946338335326400512/pu/vid/avc1/720x1280/ZizPuX1njjGqsaaU.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/1946338335326400512/pu/img/mgL2VDtroSjbZVip.jpg",
-          "local": "2120594448010944670_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/1946338335326400512/pu/vid/avc1/720x1280/ZizPuX1njjGqsaaU.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/1946338335326400512/pu/img/mgL2VDtroSjbZVip.jpg",
-          "local": "2120594448010944670_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星舰与人类规模 https://t.co/cT1qumoQNW"
-    },
-    {
-      "text": "JUST IN: Tesla is extending Cybertruck production through the end of summer 2027.\nElon says it's to work through more of the Cybertruck order backlog. https://t.co/hrMd4GxVCk",
-      "link": "https://x.com/teslaownersSV/status/2120585547915899211",
-      "date": "Wed Nov 11 18:32:47 +0000 2026",
-      "tweet_id": "2120585547915899211",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=large",
-          "local": "2120585547915899211_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3VUVObwAAfNWU.jpg?format=jpg&name=large",
-          "local": "2120585547915899211_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
-        "text_zh": "为了解决更多 Cyber​​truck 积压订单，生产将延长至 2027 年夏末"
-      },
-      "ctx_done": 1,
-      "text_zh": "最新消息：特斯拉正在将 Cybertruck 的生产延长至 2027 年夏末。\n埃隆表示，这是为了解决更多的 Cybertruck 积压订单。 https://t.co/hrMd4GxVCk"
-    },
-    {
-      "text": "Barbara Corcoran on Elon Musk:\n\"Any great leader has a strong opinion and isn't so smooth on the edges and drives it home. But that's what you want when you want to reinvent a category, and that's what he has done.\" https://t.co/kQCqAITcUK",
-      "link": "https://x.com/teslaownersSV/status/2120585198924628448",
-      "date": "Wed Nov 11 18:31:24 +0000 2026",
-      "tweet_id": "2120585198924628448",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120585176891998208/vid/avc1/1280x720/UFQ5XjK6q6l4hqeO.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120585176891998208/img/ngRlXb6V6Pf8Pznp.jpg",
-          "local": "2120585198924628448_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120585176891998208/vid/avc1/1280x720/UFQ5XjK6q6l4hqeO.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120585176891998208/img/ngRlXb6V6Pf8Pznp.jpg",
-          "local": "2120585198924628448_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "芭芭拉·科克伦 (Barbara Corcoran) 评价埃隆·马斯克 (Elon Musk)：\n“任何伟大的领导者都会有强烈的观点，但不会那么圆滑，并将其传达到内心。但这就是当你想重新发明一个类别时你想要的，而这就是他所做的。” https://t.co/kQCqAITcUK"
-    },
-    {
-      "text": "RT @Teslalightshows: What an incredible time at @theXtakeover, can’t wait for 2027 🤩🔥🤩🔥",
-      "link": "https://x.com/teslaownersSV/status/2120584940073124019",
-      "date": "Wed Nov 11 18:30:22 +0000 2026",
-      "tweet_id": "2120584940073124019",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120584940073124019q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Teslalightshows：@theXtakeover 度过了一段多么不可思议的时光，等不及 2027 年了🤩🔥🤩🔥"
-    },
-    {
-      "text": "What an incredible time at @theXtakeover, can’t wait for 2027 🤩🔥🤩🔥",
-      "link": "https://x.com/Teslalightshows/status/2120583685640724738",
-      "date": "Wed Nov 11 18:25:23 +0000 2026",
-      "tweet_id": "2120583685640724738",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120583685640724738q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "在 @theXtakeover 度过了多么令人难以置信的时光，等不及 2027 年了🤩🔥🤩🔥"
-    },
-    {
-      "text": "From meeting the Matic team to controlling Matic with his mind\n\nNeuralink Patient #22, Zach, shares how it all came together https://t.co/ZEhsEO4zRv",
-      "link": "https://x.com/maticrobots/status/2120583629063758184",
-      "date": "Wed Nov 11 18:25:10 +0000 2026",
-      "tweet_id": "2120583629063758184",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120583315812237312/vid/avc1/2316x1320/XH2NvyBYEtSFoFCT.mp4",
-          "thumb": "https://pbs.twimg.com/media/HW3TSljaAAAiVcX.jpg",
-          "local": "2120583629063758184_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120583315812237312/vid/avc1/2316x1320/XH2NvyBYEtSFoFCT.mp4",
-          "thumb": "https://pbs.twimg.com/media/HW3TSljaAAAiVcX.jpg",
-          "local": "2120583629063758184_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "从遇见 Matic 团队到用意念控制 Matic\n\nNeuralink 患者 #22，Zach，分享了这一切是如何结合在一起的 https://t.co/ZEhsEO4zRv"
-    },
-    {
-      "text": "RT @theXtakeover: The most memorable 𝕏 takeover yet.",
-      "link": "https://x.com/teslaownersSV/status/2120582880468578799",
-      "date": "Wed Nov 11 18:22:11 +0000 2026",
-      "tweet_id": "2120582880468578799",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120582880468578799q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @theXtakeover：迄今为止最难忘的𝕏收购。"
-    },
-    {
-      "text": "RT @Tryangle: There may never be another Tesla event quite like this one!!! What an incredible time. Still living in the memory every day!…",
-      "link": "https://x.com/teslaownersSV/status/2120582832062083379",
-      "date": "Wed Nov 11 18:22:00 +0000 2026",
-      "tweet_id": "2120582832062083379",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120582832062083379q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Tryangle：可能再也不会有像这次这样的特斯拉活动了！多么令人难以置信的时光啊。每天都还活在记忆里！..."
-    },
-    {
-      "text": "There may never be another Tesla event quite like this one!!! What an incredible time. Still living in the memory every day! https://t.co/ZLsIY8rven",
-      "link": "https://x.com/Tryangle/status/2120582035425366135",
-      "date": "Wed Nov 11 18:18:50 +0000 2026",
-      "tweet_id": "2120582035425366135",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=large",
-          "local": "2120582035425366135_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW3SGsLXYAAU2RK.jpg?format=jpg&name=large",
-          "local": "2120582035425366135_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120582035425366135q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "可能再也不会有像这次这样的特斯拉活动了！多么令人难以置信的时光啊。每天还活在记忆里！ https://t.co/ZLsIY8rven"
-    },
-    {
-      "text": "The most memorable 𝕏 takeover yet.",
-      "link": "https://x.com/theXtakeover/status/2120581600501248021",
-      "date": "Wed Nov 11 18:17:06 +0000 2026",
-      "tweet_id": "2120581600501248021",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120581600501248021q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "迄今为止最难忘的𝕏收购。"
-    },
-    {
-      "text": "RT @JuleskwWhite: What a great event! So many amazing speakers and participants. 🥰",
-      "link": "https://x.com/teslaownersSV/status/2120581402244829365",
-      "date": "Wed Nov 11 18:16:19 +0000 2026",
-      "tweet_id": "2120581402244829365",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk | Maye Musk | Nicki Minaj | Franz von Holzhausen | Eric Earley\n\nTesla Global HQ – Gigafactory Texas\n\n2,500 guests from around the world\n10 field expert panelists\n30+ exhibitors\n1,000 drones w/ 150+ Tesla light show\n55 Cybertruck & Customized Teslas\n\n2026, another successful event in the books – @theXtakeover\n\nWrap-up video sponsor: @Newsforce",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120549282746933249/img/dkxMWFl7xs6dYxXI.jpg",
-            "local": "2120581402244829365q_0.jpg"
-          }
-        ],
-        "text_zh": "埃隆·马斯克 |梅耶·马斯克 |妮琪·米娜 | 妮琪·米娜弗朗茨·冯·霍尔茨豪森 |埃里克·厄利\n\n特斯拉全球总部——德克萨斯州超级工厂\n\n来自世界各地的 2,500 名嘉宾\n10位现场专家小组成员\n30+参展商\n1,000 架无人机和 150 多个 Tesla 灯光秀\n55 辆赛博卡车和定制特斯拉\n\n2026 年，又一成功的事件 – @theXtakeover\n\n总结视频赞助商：@Newsforce"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @JuleskwWhite：多棒的活动啊！有这么多令人惊叹的演讲者和参与者。 🥰"
     }
   ]
 }

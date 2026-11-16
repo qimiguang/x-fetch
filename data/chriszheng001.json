@@ -1,10 +1,89 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-11-15T18:41:06Z",
-  "count": 47,
+  "updated_at": "2026-11-16T00:57:34Z",
+  "count": 54,
   "tweets": [
     {
-      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— https://nitter.kareem.one/firstadopter/status/2121057719738073420#m",
+      "text": "1954 年 5 月，美国原子能委员会主席 Lewis Strauss 精心策划的 Oppenheimer 安全许可听证会得逞，吊销了 Oppenheimer 的安全许可之后，美国科学界作何反应？\n\n全国各地上千名科学家发起联名抗议，许多顶尖物理学家从此拒绝再担任美国政府或军方的技术顾问，爆发出了惊人的凝聚力。\n\n而 2026 年 11 月，Marco Rubio（ or Jack Clark，历史会弄清中究竟是他们中的哪位）发起对黄仁勋的攻击，许多基于 NVIDIA 发展起来的美国 AI 界的顶尖公司和顶尖科学家却沉默了。\n\n除了 SpaceXSI 的代表 Elon Musk。",
+      "link": "https://x.com/ChrisZheng001/status/2121850372839109016#m",
+      "date": "Sun, 15 Nov 2026 06:18:45 GMT",
+      "tweet_id": "2121850372839109016",
+      "ctx_done": 1,
+      "text_zh": "1954 年 5 月，美国原子能委员会主席 Lewis Strauss 精心策划的 Oppenheimer 安全许可听证会得逞，吊销了 Oppenheimer 的安全许可之后，美国科学界作何反应？\n\n全国各地上千名科学家发起联名抗议，许多顶尖物理学家从此拒绝再担任美国政府或军方的技术顾问，爆发出了惊人的凝聚力。\n\n而 2026 年 11 月，Marco Rubio（ or Jack Clark，历史会弄清中究竟是他们中的哪位）发起对黄仁勋的攻击，许多基于 NVIDIA 发展起来的美国 AI 界的顶尖公司和顶尖科学家却沉默了。\n\n除了 SpaceXSI 的代表 Elon Musk。"
+    },
+    {
+      "text": "30 个月过去，CyberCab 开售、Model S/X/Cybertruck 停产，Tesla is all about Robotaxi now.",
+      "link": "https://x.com/ChrisZheng001/status/2121609796273275083#m",
+      "date": "Sat, 14 Nov 2026 14:22:47 GMT",
+      "tweet_id": "2121609796273275083",
+      "quoted": {
+        "user": "ChrisZheng001",
+        "text": "I told you that Elon has re-entered wartime CEO mode. This scene is familiar to the veterans of the Tesla community. Today Elon decided to bet the entire company on Robotaxi. I don’t know if all in Robotaxi is right or wrong. I don’t have the answer.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/GLPuUtzaIAEGsBX.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/GLPuUtzaIAEGsBX.jpg?name=orig",
+            "local": "2121609796273275083q_0.jpg"
+          }
+        ],
+        "text_zh": "我告诉过你埃隆已经重新进入战时CEO模式。这一幕对于特斯拉社区的资深人士来说并不陌生。今天，埃隆决定将整个公司的赌注押在 Robotaxi 上。我不知道Robotaxi的一切是对还是错。我没有答案。"
+      },
+      "ctx_done": 1,
+      "text_zh": "30 个月过去，CyberCab 开售、Model S/X/Cybertruck 停产，Tesla is all about Robotaxi now."
+    },
+    {
+      "text": "3 个小时过去，签名人数翻倍了，大量的 NVIDIA 员工在签名。\n\n但不做验证也有问题...现在有 9 位 Jack Ma, 4 个自称是阿里的 CEO，还有一个腾讯的 CEO。🤥",
+      "link": "https://x.com/ChrisZheng001/status/2121450281322103014#m",
+      "date": "Sat, 14 Nov 2026 03:48:56 GMT",
+      "tweet_id": "2121450281322103014",
+      "ctx_done": 1,
+      "text_zh": "3 个小时过去，签名人数翻倍了，大量的 NVIDIA 员工在签名。\n\n但不做验证也有问题...现在有 9 位 Jack Ma, 4 个自称是阿里的 CEO，还有一个腾讯的 CEO。🤥"
+    },
+    {
+      "text": "所以，接下来 FSD supervised OTA 成了 FSD unsupervised，订阅会从 99 涨到 299？",
+      "link": "https://x.com/ChrisZheng001/status/2121393151957246278#m",
+      "date": "Sat, 14 Nov 2026 00:01:55 GMT",
+      "tweet_id": "2121393151957246278",
+      "quoted": {
+        "user": "robotaxi",
+        "text": "Select customers are now being invited to purchase Cybercab for personal use",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXCrorcbwAAQTq0.jpg?name=orig",
+            "local": "2121393151957246278q_0.jpg"
+          }
+        ],
+        "text_zh": "现邀请部分客户购买 Cyber​​cab 供个人使用"
+      },
+      "ctx_done": 1,
+      "text_zh": "所以，接下来 FSD supervised OTA 成了 FSD unsupervised，订阅会从 99 涨到 299？"
+    },
+    {
+      "text": "如今的 X、Grok Web 和 Grok Bot 的设计都好了很多。我有时候好奇 @benjitaylor 能否去特斯拉「交换」半年，并非用特斯拉 App 和中控设计遇到了什么问题，只是新鲜的血液本身就会带来新的体验。",
+      "link": "https://x.com/ChrisZheng001/status/2121392384017854688#m",
+      "date": "Fri, 13 Nov 2026 23:58:52 GMT",
+      "tweet_id": "2121392384017854688",
+      "ctx_done": 1,
+      "text_zh": "如今的 X、Grok Web 和 Grok Bot 的设计都好了很多。我有时候好奇 @benjitaylor 能否去特斯拉「交换」半年，并非用特斯拉 App 和中控设计遇到了什么问题，只是新鲜的血液本身就会带来新的体验。"
+    },
+    {
+      "text": "真正的朋友\n\n\nElon Musk (@elonmusk)\n\nA petition is underway to reinstate Jensen and I’m signing it too\n\n\n\n— https://nohup.cz/elonmusk/status/2121345211959804234#m",
+      "link": "https://x.com/ChrisZheng001/status/2121389046664728659#m",
+      "date": "Fri, 13 Nov 2026 23:45:36 GMT",
+      "tweet_id": "2121389046664728659",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
+        "text_zh": "@yunta_tsai 一份恢复詹森职位的请愿书正在进行中，我也签署了它"
+      },
+      "ctx_done": 1,
+      "text_zh": "真正的朋友\n\n\n埃隆·马斯克 (@elonmusk)\n\n一份恢复詹森职位的请愿书正在进行中，我也签署了它\n\n\n\n— https://nohup.cz/elonmusk/status/2121345211959804234#m"
+    },
+    {
+      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— https://nohup.cz/firstadopter/status/2121057719738073420#m",
       "link": "https://x.com/ChrisZheng001/status/2121078063735968046#m",
       "date": "Fri, 13 Nov 2026 03:09:52 GMT",
       "tweet_id": "2121078063735968046",
@@ -129,6 +208,27 @@
       },
       "ctx_done": 1,
       "text_zh": "碉堡！"
+    },
+    {
+      "text": "@elonmusk : The biggest thing most people fail to understand is that there are a very limited number of smart, dedicated people! They can only do so many things.",
+      "link": "https://x.com/ChrisZheng001/status/2119207260530602031#m",
+      "date": "Sat, 07 Nov 2026 23:15:58 GMT",
+      "tweet_id": "2119207260530602031",
+      "quoted": {
+        "user": "ChrisZheng001",
+        "text": "我的 X 时间线上依然有人在不断讨论 Cybertruck 的停产，再开一条说说我的看法。\n\n特斯拉的整车开发，我称之为单线程。即在任何不同的时期，重要的汽车产品只有一款。\n\n2009 之前是 Roadster\n2009 - 2015 是 Model S/X\n2016 - 2020 是 Model 3/Y\n2021 - 2023 是 Cybertruck\n2023 至今是 CyberCab\n\n尽管产品线会增增减减，但整车产品开发团队主力开发的产品永远保持在一款，在任意时间都是。\n\n我没有证据，但怀疑 @larsmoravy 的工程团队规模在很长一段时间里是没有太大变化的。\n\n在这个过程中，特斯拉横向扩展了很多产品，其中一些已经非常成功，比如 FSD 模型、FSD 芯片；一些虽说不上大成但解决了供应链可持续性的风险，比如 4680 电池；还有一些还不明朗，比如 Optimus 机器人。\n\n这个策略的优势在于，整个公司只对一个人，即 Elon 的带宽有要求。在任何时期，Elon 都不得不盯所有的新业务。\n\n在另一个平行时空，假设特斯拉同时维护着 S/3/X/Y/Cybertruck/CyberCab，也许还有 CyberSUV 和 Model 2，所有这些车型都升级到了 48V + 800V、线控、4680...会有哪些可以预见的风险？\n\n扩展汽车产品线要求的是对整个公司太多人带宽的挑战，我不是说 100%，但会有很大概率出现许多商业不成功的产品。\n\n大部分车企的产品线都是少数赚钱的爆款 + 大量不赚钱亦不走量的产品组成的。\n\n最终，特斯拉财务报表上整车研发的投入会大很多，但商业效率是很可能无法维持的。\n\n依此推演，我也不觉得 Model 3/Y 在未来 3 年的逐步减产是开玩笑式的预言。\n\nModel 3 平台发布于 2017 年，马上满十年了。2012 年发布的 Model S 最后一次重大更新是 2021 年，由于每 5 年左右的全球各地碰撞法规的更新，老平台最终会因为无法兼容最新的碰撞规则而不得不推倒重来。\n\nModel 3/Y 要么重做，要么砍掉，很难有中间选项。",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWhmqJNa4AA3UFC.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HWhmqJNa4AA3UFC.jpg?name=orig",
+            "local": "2119207260530602031q_0.jpg"
+          }
+        ],
+        "text_zh": "我的 X 时间线上依然有人在不断讨论 Cybertruck 的停产，再开一条说说我的看法。\n\n特斯拉的整车开发，我称之为单线程。即在任何不同的时期，重要的汽车产品只有一款。\n\n2009 之前是 Roadster\n2009 - 2015 是 Model S/X\n2016 - 2020 是 Model 3/Y\n2021 - 2023 是 Cybertruck\n2023 至今是 CyberCab\n\n尽管产品线会增增减减，但整车产品开发团队主力开发的产品永远保持在一款，在任意时间都是。\n\n我没有证据，但怀疑 @larsmoravy 的工程团队规模在很长一段时间里是没有太大变化的。\n\n在这个过程中，特斯拉横向扩展了很多产品，其中一些已经非常成功，比如 FSD 模型、FSD 芯片；一些虽说不上大成但解决了供应链可持续性的风险，比如 4680 电池；还有一些还不明朗，比如 Optimus 机器人。\n\n这个策略的优势在于，整个公司只对一个人，即 Elon 的带宽有要求。在任何时期，Elon 都不得不盯所有的新业务。\n\n在另一个平行时空，假设特斯拉同时维护着 S/3/X/Y/Cybertruck/CyberCab，也许还有 CyberSUV 和 Model 2，所有这些车型都升级到了 48V + 800V、线控、4680...会有哪些可以预见的风险？\n\n扩展汽车产品线要求的是对整个公司太多人带宽的挑战，我不是说 100%，但会有很大概率出现许多商业不成功的产品。\n\n大部分车企的产品线都是少数赚钱的爆款 + 大量不赚钱亦不走量的产品组成的。\n\n最终，特斯拉财务报表上整车研发的投入会大很多，但商业效率是很可能无法维持的。\n\n依此推演，我也不觉得 Model 3/Y 在未来 3 年的逐步减产是开玩笑式的预言。\n\nModel 3 平台发布于 2017 年，马上满十年了。2012 年发布的 Model S 最后一次重大更新是 2021 年，由于每 5 年左右的全球各地碰撞法规的更新，老平台最终会因为无法兼容最新的碰撞规则而不得不推倒重来。\n\nModel 3/Y 要么重做，要么砍掉，很难有中间选项。"
+      },
+      "ctx_done": 1,
+      "text_zh": "@elonmusk：大多数人无法理解的最大的事情是，聪明、专注的人数量非常有限！他们只能做这么多事情。"
     },
     {
       "text": "我的 X 时间线上依然有人在不断讨论 Cybertruck 的停产，再开一条说说我的看法。\n\n特斯拉的整车开发，我称之为单线程。即在任何不同的时期，重要的汽车产品只有一款。\n\n2009 之前是 Roadster\n2009 - 2015 是 Model S/X\n2016 - 2020 是 Model 3/Y\n2021 - 2023 是 Cybertruck\n2023 至今是 CyberCab\n\n尽管产品线会增增减减，但整车产品开发团队主力开发的产品永远保持在一款，在任意时间都是。\n\n我没有证据，但怀疑 @larsmoravy 的工程团队规模在很长一段时间里是没有太大变化的。\n\n在这个过程中，特斯拉横向扩展了很多产品，其中一些已经非常成功，比如 FSD 模型、FSD 芯片；一些虽说不上大成但解决了供应链可持续性的风险，比如 4680 电池；还有一些还不明朗，比如 Optimus 机器人。\n\n这个策略的优势在于，整个公司只对一个人，即 Elon 的带宽有要求。在任何时期，Elon 都不得不盯所有的新业务。\n\n在另一个平行时空，假设特斯拉同时维护着 S/3/X/Y/Cybertruck/CyberCab，也许还有 CyberSUV 和 Model 2，所有这些车型都升级到了 48V + 800V、线控、4680...会有哪些可以预见的风险？\n\n扩展汽车产品线要求的是对整个公司太多人带宽的挑战，我不是说 100%，但会有很大概率出现许多商业不成功的产品。\n\n大部分车企的产品线都是少数赚钱的爆款 + 大量不赚钱亦不走量的产品组成的。\n\n最终，特斯拉财务报表上整车研发的投入会大很多，但商业效率是很可能无法维持的。\n\n依此推演，我也不觉得 Model 3/Y 在未来 3 年的逐步减产是开玩笑式的预言。\n\nModel 3 平台发布于 2017 年，马上满十年了。2012 年发布的 Model S 最后一次重大更新是 2021 年，由于每 5 年左右的全球各地碰撞法规的更新，老平台最终会因为无法兼容最新的碰撞规则而不得不推倒重来。\n\nModel 3/Y 要么重做，要么砍掉，很难有中间选项。",
