@@ -1,8 +1,342 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-16T00:55:19Z",
+  "updated_at": "2026-11-16T10:52:46Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Important",
+      "link": "https://x.com/elonmusk/status/2122223599079559603#m",
+      "date": "Mon, 16 Nov 2026 07:01:49 GMT",
+      "tweet_id": "2122223599079559603",
+      "quoted": {
+        "user": "mark_k",
+        "text": "Grok's text watermarking is now off by default in the SpaceXSI API.\n\nElon Musk confirmed it and went further. He says text watermarking with Grok is only on where the law requires it or a user asks for it.\n\nSo if you build on Grok, your output won't carry a hidden watermark unless you switch it on or a law requires one.",
+        "text_zh": "Grok 的文本水印现在在 SpaceXSI API 中默认关闭。\n\n埃隆·马斯克证实了这一点，并走得更远。他说，Grok 的文本水印仅适用于法律要求或用户要求的情况。\n\n因此，如果您在 Grok 上构建，您的输出将不会带有隐藏水印，除非您打开它或法律要求这样做。"
+      },
+      "ctx_done": 1,
+      "text_zh": "重要的"
+    },
+    {
+      "text": "💯",
+      "link": "https://x.com/elonmusk/status/2122221516867895726#m",
+      "date": "Mon, 16 Nov 2026 06:53:33 GMT",
+      "tweet_id": "2122221516867895726",
+      "quoted": {
+        "user": "TurkeyBeaver",
+        "text": "Ladies and gentlemen, introducing the greatest team on earth…. @SpaceX!!! \n\nCan’t get over the high of yesterday. Vibes are 10/10 right now!!!!!",
+        "text_zh": "女士们先生们，介绍一下地球上最伟大的团队…… @SpaceX！！！ \n\n无法超越昨天的高点。现在的共鸣是 10/10！！！！！！"
+      },
+      "ctx_done": 1,
+      "text_zh": "💯"
+    },
+    {
+      "text": "The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial.",
+      "link": "https://x.com/elonmusk/status/2122220308799316072#m",
+      "date": "Mon, 16 Nov 2026 06:48:45 GMT",
+      "tweet_id": "2122220308799316072",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "Years ago, Elon Musk predicted:\n\n“Solar electricity will become by far the biggest source of power for civilization”\n\nToday, we're watching that vision become reality\n\nIn 2015, solar generated just 256 TWh of electricity globally\n\nA decade later, annual solar generation has surpassed 2,700 TWh\n\nThat's more than a 10X increase in just ten years\n\nSolar also accounted for 83% of the growth in global electricity demand during the first half of 2025\n\nAnd renewables have now overtaken coal in global electricity generation\n\nWhat Elon Musk envisioned years ago is unfolding right in front of us\n\nThe Sun is a gigantic fusion reactor in space, delivering more energy to Earth in a single hour than humanity consumes in an entire year\n\nWe're still capturing only a tiny fraction of it\n\nSolar generation is accelerating, battery storage is expanding, and the world is moving toward a future of abundant, sustainable energy\n\nAnd this transformation is only getting started",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXOFh9fa4AArnDe.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXOFh9fa4AArnDe.jpg?name=orig",
+            "local": "2122220308799316072q_0.jpg"
+          }
+        ],
+        "text_zh": "几年前，埃隆·马斯克预测：\n\n“太阳能将成为迄今为止人类文明最大的动力来源”\n\n今天，我们正在见证这一愿景成为现实\n\n2015年，全球太阳能发电量仅为256太瓦时\n\n十年后，太阳能年发电量已超过 2,700 太瓦时\n\n短短十年内增长了 10 倍多\n\n2025年上半年，太阳能也占全球电力需求增长的83%\n\n可再生能源现已在全球发电量中取代煤炭\n\n埃隆·马斯克多年前的设想正在我们面前展开\n\n太阳是太空中一个巨大的聚变反应堆，一小时内向地球提供的能量比人类一整年消耗的能量还要多\n\n我们仍然只捕获了其中的一小部分\n\n太阳能发电正在加速，电池存储正在扩大，世界正在走向一个丰富、可持续能源的未来\n\n而这种转变才刚刚开始"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们为文明所利用的来自太阳的能量显然最终将达到所有能量的 100%。这个数学是显而易见且微不足道的。"
+    },
+    {
+      "text": "Yup",
+      "link": "https://x.com/elonmusk/status/2122203324460265943#m",
+      "date": "Mon, 16 Nov 2026 05:41:15 GMT",
+      "tweet_id": "2122203324460265943",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "In 2014, NASA awarded Boeing $4.2 BILLION to develop Starliner\n\nSpaceX received just $2.6 BILLION for Crew Dragon\n\nNow look at the results:\n\n• Boeing Starliner: Just one crewed flight and got two astronauts stuck on the ISS for over 9 months in space before SpaceX sent Dragon to rescue them\n\n• SpaceX Crew Dragon: 21 crewed missions since 2020, carrying astronauts to orbit for NASA and private customers, saving NASA billions of dollars\n\nBoeing received $1.6 BILLION more in the original NASA contract\n\nYet SpaceX ended up bringing Boeing's own astronauts back to Earth",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXOMKmBbQAADlGZ.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXOMKmBbQAADlGZ.jpg?name=orig",
+            "local": "2122203324460265943q_0.jpg"
+          }
+        ],
+        "text_zh": "2014年，美国宇航局授予波音公司42亿美元用于开发Starliner\n\nSpaceX 仅为载人龙飞船获得 26 亿美元融资\n\n现在看看结果：\n\n• 波音 Starliner：仅一次载人飞行就导致两名宇航员在国际空间站上滞留了 9 个多月，直到 SpaceX 派 Dragon 来营救他们\n\n• SpaceX Crew Dragon：自 2020 年以来执行了 21 次载人飞行任务，为 NASA 和私人客户将宇航员送入轨道，为 NASA 节省了数十亿美元\n\n波音公司在最初的 NASA 合同中多获得了 16 亿美元\n\n然而 SpaceX 最终将波音自己的宇航员带回地球"
+      },
+      "ctx_done": 1,
+      "text_zh": "是的"
+    },
+    {
+      "text": "Yup",
+      "link": "https://x.com/elonmusk/status/2122191623731745133#m",
+      "date": "Mon, 16 Nov 2026 04:54:46 GMT",
+      "tweet_id": "2122191623731745133",
+      "quoted": {
+        "user": "TheRabbitHole",
+        "text": "SpaceX has launched more then every other company combined",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXNqKXlbUAAYeAz.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXNqKXlbUAAYeAz.jpg?name=orig",
+            "local": "2122191623731745133q_0.jpg"
+          }
+        ],
+        "text_zh": "SpaceX 发射的卫星数量超过其他所有公司的总和"
+      },
+      "ctx_done": 1,
+      "text_zh": "是的"
+    },
+    {
+      "text": "12 years ago",
+      "link": "https://x.com/elonmusk/status/2122186399575396604#m",
+      "date": "Mon, 16 Nov 2026 04:34:00 GMT",
+      "tweet_id": "2122186399575396604",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches",
+        "text_zh": "即将在参议院作证反对 ULA（洛克希德和波音）国家安全发射垄断合同"
+      },
+      "ctx_done": 1,
+      "text_zh": "12年前"
+    },
+    {
+      "text": "Grok @Bot can do almost anything\nVideo",
+      "link": "https://x.com/elonmusk/status/2122164224382447808#m",
+      "date": "Mon, 16 Nov 2026 03:05:53 GMT",
+      "tweet_id": "2122164224382447808",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "Grok Bot made this Starship Flight 15 highlight reel for me. 🚀\n\nIt downloaded the 23-hour livestream, picked out the best moments, edited the clips together, added effects and music, all so quickly.\n\nYou don’t need a video editor anymore. Just ask Grok Bot.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122033423560986624/img/234q8xWRvwxddD_g.jpg",
+            "local": "2122164224382447808q_0.jpg"
+          }
+        ],
+        "text_zh": "Grok Bot 为我制作了 Starship Flight 15 的精彩片段。 🚀\n\n它下载了 23 小时的直播、挑选出最佳时刻、编辑剪辑、添加效果和音乐，一切都如此之快。\n\n您不再需要视频编辑器。问问 Grok Bot 就知道了。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @Bot 几乎可以做任何事情\n视频"
+    },
+    {
+      "text": "Just doin some plumbin",
+      "link": "https://x.com/elonmusk/status/2122163777454166505#m",
+      "date": "Mon, 16 Nov 2026 03:04:07 GMT",
+      "tweet_id": "2122163777454166505",
+      "reply_to": "elonmusk",
+      "ctx_done": 1,
+      "text_zh": "只是做一些水管工作"
+    },
+    {
+      "text": "Robotaxi life is a hard life. Tesla team empathizes with this guy.",
+      "link": "https://x.com/elonmusk/status/2122155440788099394#m",
+      "date": "Mon, 16 Nov 2026 02:30:59 GMT",
+      "tweet_id": "2122155440788099394",
+      "ctx_done": 1,
+      "text_zh": "机器人出租车的生活是艰苦的。特斯拉团队对这个人表示同情。"
+    },
+    {
+      "text": "Say no to crack",
+      "link": "https://x.com/elonmusk/status/2122146355074232469#m",
+      "date": "Mon, 16 Nov 2026 01:54:53 GMT",
+      "tweet_id": "2122146355074232469",
+      "ctx_done": 1,
+      "text_zh": "对破解说不"
+    },
+    {
+      "text": "I have a very wide distribution of training data\nVideo",
+      "link": "https://x.com/elonmusk/status/2122145276681220436#m",
+      "date": "Mon, 16 Nov 2026 01:50:36 GMT",
+      "tweet_id": "2122145276681220436",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "Former NASA astronaut Garrett Reisman, who spent seven years working with Elon Musk at SpaceX, explains what makes @elonmusk such an extraordinary engineer:\n\n“I mean, I’ve met a lot of super, super smart people, but they’re usually super, super smart on one thing.”\n\n“And he’s able to have conversations with our top engineers about the software and, you know, the most arcane aspects of that. And then he’ll turn to our manufacturing engineers and have discussions about some really esoteric welding process for some crazy alloy.”\n\n“And his ability to do that across all the different technologies that go into rockets and cars and everything else he does. That’s what really impresses me.”\n\n“He’s really the most driven person I think I’ve ever met.”",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122129718594199552/img/xv7gZiScyXR6K7S6.jpg",
+            "local": "2122145276681220436q_0.jpg"
+          }
+        ],
+        "text_zh": "前 NASA 宇航员加勒特·雷斯曼 (Garrett Reisman) 在 SpaceX 与埃隆·马斯克 (Elon Musk) 共事了七年，他解释了@elonmusk 为何成为如此非凡的工程师：\n\n“我的意思是，我遇到了很多超级、超级聪明的人，但他们通常在一件事上超级、超级聪明。”\n\n“他能够与我们的顶级工程师就软件以及其中最神秘的方面进行对话。然后他将转向我们的制造工程师，讨论一些疯狂合金的一些真正深奥的焊接工艺。”\n\n“他有能力在火箭、汽车等所有不同技术以及他所做的其他事情上做到这一点。这才是真正让我印象深刻的地方。”\n\n“他确实是我见过的最有动力的人。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "我的训练数据分布非常广泛\n视频"
+    },
+    {
+      "text": "That’s how it happened\nVideo",
+      "link": "https://x.com/elonmusk/status/2122141959917842487#m",
+      "date": "Mon, 16 Nov 2026 01:37:25 GMT",
+      "tweet_id": "2122141959917842487",
+      "quoted": {
+        "user": "firesidealpha",
+        "text": "Elon Musk reveals he recruited SpaceX’s first engineers by telling them 'we’re probably going to die', and ended up as chief engineer because no good one would join\n\n“So SpaceX, I started that in mid-2002 expecting to fail. Probably 90% chance of failing.”\n\n“And even when recruiting people, I didn’t try to make out that it would work. I said, we’re probably going to die, but there’s a small chance we might not die, and this is the only way to get people to Mars and advance the state of the art.”\n\n“And then I ended up being chief engineer of the rocket, not because I wanted to, but because I couldn’t hire anyone who was good. None of the good chief engineers would join, because they’re like, this is too risky, you’re going to die. And so I ended up being chief engineer of the rocket.”",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122135677462880256/img/kXRuUwK4fHqOxTfA.jpg",
+            "local": "2122141959917842487q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 (Elon Musk) 透露，他招募 SpaceX 的第一批工程师时曾告诉他们“我们可能会死”，但最终他成为了首席工程师，因为没有优秀的人愿意加入\n\n“所以 SpaceX，我在 2002 年年中开始做这个项目，预计会失败。失败的可能性大概有 90%。”\n\n“即使在招募人员时，我也没有试图证明它会起作用。我说，我们可能会死，但我们也有很小的机会不会死，这是让人们登上火星并推进最先进技术的唯一方法。”\n\n“然后我最终成为了火箭的总工程师，不是因为我想这样做，而是因为我无法雇用任何优秀的人。没有一个优秀的总工程师会加入，因为他们会说，这太冒险了，你会死。所以我最终成为了火箭的总工程师。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "事情就是这样发生的\n视频"
+    },
+    {
+      "text": "True",
+      "link": "https://x.com/elonmusk/status/2122141116195877155#m",
+      "date": "Mon, 16 Nov 2026 01:34:04 GMT",
+      "tweet_id": "2122141116195877155",
+      "quoted": {
+        "user": "aaronburnett",
+        "text": "Also why the same amount of money (~$15B) to build all of Starbase was used to build an overpass to nowhere for California’s high speed rail. Capital allocation efficiency is a thing.",
+        "text_zh": "另外，为什么建造整个 Starbase 的同样数额的资金（~$15B）被用来为加州高铁建造一座通往无处可去的立交桥。资本配置效率是一个问题。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真的"
+    },
+    {
+      "text": "Starship V4 will be ~70m long, which is roughly a 40% length increase and allows >60% more propellant load.\nEngine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher thrust V4 engines.",
+      "link": "https://x.com/elonmusk/status/2122141019894383027#m",
+      "date": "Mon, 16 Nov 2026 01:33:41 GMT",
+      "tweet_id": "2122141019894383027",
+      "quoted": {
+        "user": "ApoStructura",
+        "text": "The scale of Starship:",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXMjHvFWMAAhqHY.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXMjHvFWMAAhqHY.jpg?name=orig",
+            "local": "2122141019894383027q_0.jpg"
+          }
+        ],
+        "text_zh": "星舰规模："
+      },
+      "ctx_done": 1,
+      "text_zh": "Starship V4 长约 70m，长度增加了大约 40%，并允许增加 60% 以上的推进剂负载。\n发动机数量将增加至 9 台，并增加 3 台 Raptor-Vacuum 发动机，这些发动机将是推力更高的 V4 发动机。"
+    },
+    {
+      "text": "This is the way",
+      "link": "https://x.com/elonmusk/status/2122138555137110487#m",
+      "date": "Mon, 16 Nov 2026 01:23:53 GMT",
+      "tweet_id": "2122138555137110487",
+      "quoted": {
+        "user": "OwenSparks",
+        "text": "Most CEO's would take a meeting to hear from employees who inspected the ship, but Elon gets up in a boom lift to personally inspect it alongside his team.\n\nZero loss of information, everyone on the same page, and as a result Starship will be further improved upon.",
+        "text_zh": "大多数首席执行官都会召开会议，听取检查这艘船的员工的意见，但埃隆却登上吊臂升降机，与他的团队一起亲自检查这艘船。\n\n信息零丢失，每个人都在同一页面上，因此 Starship 将得到进一步改进。"
+      },
+      "ctx_done": 1,
+      "text_zh": "就是这样"
+    },
+    {
+      "text": "Cool",
+      "link": "https://x.com/elonmusk/status/2122138040176894180#m",
+      "date": "Mon, 16 Nov 2026 01:21:50 GMT",
+      "tweet_id": "2122138040176894180",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Legacy media headlines after @SpaceX caught Starship:\n\n• CNN: \"SpaceX Starship nails historic ship catch in unprecedented test flight\"\n• Reuters: \"SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets\"\n• Fox: \"SpaceX makes history as Starship spacecraft caught by launch tower for first time\"\n• CNBC: \"SpaceX catches upper stage of Starship rocket in historic first\"\n• NYT: \"SpaceX makes history with successful rocket catch in Texas\"\n• BBC: \"'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\"\n• NPR: \"SpaceX makes history with Starship catch\"\n• Sky News: \"SpaceX makes unprecedented 'catch' of Starship\"",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXLUoW7XwAEcUQO.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXLUoW7XwAEcUQO.jpg?name=orig",
+            "local": "2122138040176894180q_0.jpg"
+          }
+        ],
+        "text_zh": "@SpaceX 捕获 Starship 后的传统媒体头条新闻：\n\n• CNN：“SpaceX Starship 在史无前例的试飞中实现了历史性的飞船捕获”\n• 路透社：“SpaceX 星际飞船从轨道返回着陆场，对可重复使用火箭进行了一次出色的测试”\n• 福克斯：“SpaceX 创造了历史，星际飞船首次被发射塔抓住”\n• CNBC：“SpaceX 历史性首次捕获了 Starship 火箭的上级”\n• 纽约时报：“SpaceX 在德克萨斯州成功捕获火箭，创造了历史”\n• BBC：“‘你能相信吗？’：SpaceX 在返回地球时捕获了其 Starship 火箭的一部分”\n• NPR：“SpaceX 凭借 Starship 捕获创造了历史”\n• 天空新闻：“SpaceX 史无前例‘捕获’了星际飞船”"
+      },
+      "ctx_done": 1,
+      "text_zh": "凉爽的"
+    },
+    {
+      "text": "Starlink helps rural schools with education\nVideo",
+      "link": "https://x.com/elonmusk/status/2122127527040712704#m",
+      "date": "Mon, 16 Nov 2026 00:40:04 GMT",
+      "tweet_id": "2122127527040712704",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "BREAKING: Every rural municipal school in Rondonópolis, Brazil, now has Starlink internet. 🇧🇷\n\nStudents and teachers can now access digital libraries, educational videos and online learning tools.\n\nSpaceX is bringing a world of knowledge to remote classrooms. ♥️",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121955796431032320/img/A07_A9kkr1ta7KY5.jpg",
+            "local": "2122127527040712704q_0.jpg"
+          }
+        ],
+        "text_zh": "突发新闻：巴西隆多诺波利斯的每所农村市立学校现在都配备了 Starlink 互联网。 🇧🇷\n\n学生和教师现在可以访问数字图书馆、教育视频和在线学习工具。\n\nSpaceX 正在为远程教室带来知识世界。 ♥️"
+      },
+      "ctx_done": 1,
+      "text_zh": "星链帮助农村学校开展教育\n视频"
+    },
+    {
+      "text": "Starlink saves lives\nVideo",
+      "link": "https://x.com/elonmusk/status/2122109219855806886#m",
+      "date": "Sun, 15 Nov 2026 23:27:19 GMT",
+      "tweet_id": "2122109219855806886",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "BREAKING: Greece’s government is using Starlink to support a railway safety system that warns of potential train collisions. \n\nStarlink sends live train data to the control center, including through mountainous areas without mobile coverage.\n\n• Monitoring equipment installed on 134 locomotives.\n• GNSS-HEPOS positioning pinpoints trains with accuracy of up to 5 centimeters.\n• Location updates every second.\n• A 24/7 control center receives automatic collision-risk alerts so operators can intervene.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122106743979413504/img/W5X-q6Ze-Ur1XNAf.jpg",
+            "local": "2122109219855806886q_0.jpg"
+          }
+        ],
+        "text_zh": "突发新闻：希腊政府正在利用星链来支持铁路安全系统，该系统可以对潜在的火车碰撞发出警告。 \n\n星链将实时列车数据发送到控制中心，包括穿越没有移动覆盖的山区。\n\n• 134 台机车上安装了监控设备。\n• GNSS-HEPOS 定位可精确定位列车，精度高达 5 厘米。\n• 位置每秒更新一次。\n• 24/7 控制中心接收自动碰撞风险警报，以便操作员进行干预。"
+      },
+      "ctx_done": 1,
+      "text_zh": "星链拯救生命\n视频"
+    },
+    {
+      "text": "Starlink is a gamechanger\nVideo",
+      "link": "https://x.com/elonmusk/status/2122092920434274773#m",
+      "date": "Sun, 15 Nov 2026 22:22:33 GMT",
+      "tweet_id": "2122092920434274773",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "Starlink is now pulling travelers away from competing airlines\n\nUnited Airlines CEO Scott Kirby:\n\n“We already see customers moving from other airlines today”\n\nThe numbers:\n\n• Starlink is now available on more than 50% of United's daily flights\n• Over 700 aircraft equipped with Starlink\n• Full fleet rollout expected by the end of 2027\n• United's status-match campaign attracted about 4× the normal number of applications\n• 25% of those applicants already have or have applied for a United credit card\n\nKirby calls Starlink “a really unique RASM tailwind” for the airline\n\nInflight Wi-Fi used to be something travelers complained about\n\nNow it's becoming a reason to switch airlines entirely\n\nStarlink is changing the economics of airline competition",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121998961959636992/img/4Ulx2_gAx40ouoYb.jpg",
+            "local": "2122092920434274773q_0.jpg"
+          }
+        ],
+        "text_zh": "星链现在正在将旅客从竞争航空公司中拉走\n\n联合航空首席执行官斯科特·柯比：\n\n“我们今天已经看到客户从其他航空公司转走”\n\n数字：\n\n• 目前美联航超过 50% 的每日航班均提供 Starlink 服务\n• 超过 700 架飞机配备了 Starlink\n• 预计到 2027 年底全面推出\n• 曼联的地位匹配活动吸引了大约正常数量四倍的申请\n• 其中 25% 的申请人已经拥有或已经申请了美联航信用卡\n\nKirby 称 Starlink 对该航空公司来说是“真正独特的 RASM 顺风车”\n\n机上 Wi-Fi 曾经是旅客抱怨的问题\n\n现在它已成为完全更换航空公司的理由\n\n星链正在改变航空公司竞争的经济效益"
+      },
+      "ctx_done": 1,
+      "text_zh": "Starlink 是一个游戏规则改变者\n视频"
+    },
+    {
+      "text": "🍌 4 scale",
+      "link": "https://x.com/elonmusk/status/2122092646294581460#m",
+      "date": "Sun, 15 Nov 2026 22:21:28 GMT",
+      "tweet_id": "2122092646294581460",
+      "quoted": {
+        "user": "yunta_tsai",
+        "text": "S-tier Engineering\nS-tier Humor 🍌\n\nLove this company.",
+        "text_zh": "S级工程\nS级幽默🍌\n\n喜欢这家公司。"
+      },
+      "ctx_done": 1,
+      "text_zh": "🍌4级"
+    },
     {
       "text": "5 years ago\nVideo",
       "link": "https://x.com/elonmusk/status/2121875758704370144#m",
@@ -2321,269 +2655,6 @@
       "reply_to": "shaunmmaguire",
       "ctx_done": 1,
       "text_zh": "未来的超级智能计算显然将绝大多数出现在太空中。 \n\n我所说的“压倒性”是指四舍五入到 100%！\n\n你一定是个彻头彻尾的白痴才意识到这一点。"
-    },
-    {
-      "text": "Over the past months, a single Wikipedia editor has been quietly shaping @AbdulElSayed's entry. \n\nThe editing has been intensive and highly directed. For example: \n\n+ Hasan Piker controversy got cut down. \n+ Syed's antisemitism problem – deleted.\n+ Harris and Obama endorsements went in. \n+  A line saying AIPAC’s brand is “toxic” included.\n\nIs it an op? \n\nWell, two weeks ago the same editor had this to say in an edit summary on the El-Sayed page:\n\n“another half month of this shit.”\n\n🧵",
-      "link": "https://x.com/AshleyRindsberg/status/2117272304514175370#m",
-      "date": "Mon, 02 Nov 2026 15:07:09 GMT",
-      "tweet_id": "2117272304514175370",
-      "ctx_done": 1,
-      "text_zh": "在过去的几个月里，一位维基百科编辑一直在悄悄地塑造@AbdulElSayed 的条目。 \n\n剪辑工作是密集且高度定向的。例如： \n\n+ 哈桑·派克（Hasan Piker）的争议被减少了。 \n+ 赛义德的反犹太主义问题 – 已删除。\n+哈里斯和奥巴马的支持加入了。 \n+ 包含一行说 AIPAC 的品牌“有毒”的内容。\n\n这是一个操作吗？ \n\n两周前，同一位编辑在 El-Sayed 页面的编辑摘要中这样说道：\n\n“又是半个月的狗屎。”\n\n🧵"
-    },
-    {
-      "text": "Talarico has outspent Paxton nearly 9-to-1 since July.\n$89.4 million vs $10 million.\nHe’s also spent $11.6M MORE THAN HE RAISED.\nLeftists love to lecture everyone about “money in politics” and “buying elections” until it’s their guy burning through cash like it’s Monopoly money. \nWhere’s it coming from? Out of state donors? Special interests? Or just the usual Democrat money machine trying to purchase Texas?\nPaxton is getting outspent almost 9-to-1 and they’re still worried. They will fail.",
-      "link": "https://x.com/Rothmus/status/2117271314540978483#m",
-      "date": "Mon, 02 Nov 2026 15:03:13 GMT",
-      "tweet_id": "2117271314540978483",
-      "quoted": {
-        "user": "Rothmus",
-        "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state. \n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined. \n\nNew York added $3 million. \n\nMassachusetts another $2.1 million. \n\nPaxton’s campaign is 73% Texas money. \n\nTalarico’s is a coastal donor operation. \n\nThe left can’t win Texas on the merits, so they flooded the race with blue state cash instead. \n\nSo no, nothing “grassroots” about him.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWFAOs-XMAAVE_y.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWFAOs-XMAAVE_y.jpg?name=orig",
-            "local": "2117271314540978483q_0.jpg"
-          }
-        ],
-        "text_zh": "加利福尼亚州正试图购买德克萨斯州参议院席位。\n\n塔拉里科 53% 的明细资金来自州外。 \n\n仅加利福尼亚州就向他捐赠了 780 万美元，比帕克斯顿从其他所有州筹集的资金总和还要多。 \n\n纽约增加了 300 万美元。 \n\n马萨诸塞州另外210万美元。 \n\n帕克斯顿的竞选资金是德克萨斯州 73% 的资金。 \n\n塔拉里科是一家沿海捐助机构。 \n\n左翼无法凭实力赢得德克萨斯州，因此他们用蓝州现金大量投入竞选。 \n\n所以不，他一点也不“草根”。"
-      },
-      "ctx_done": 1,
-      "text_zh": "自 7 月以来，Talarico 的支出比 Paxton 接近 9 比 1。\n8,940 万美元 vs 1,000 万美元。\n他的支出也比筹集的资金多了 1160 万美元。\n左翼分子喜欢向所有人讲授“金钱参与政治”和“购买选举”，直到他们的人像垄断金钱一样烧钱。 \n它从哪里来？州外捐助者？特殊兴趣？或者只是民主党的金钱机器试图购买德克萨斯州？\n帕克斯顿的支出几乎是 9 比 1，但他们仍然很担心。他们会失败。"
-    },
-    {
-      "text": "Starlink saves lives",
-      "link": "https://x.com/elonmusk/status/2117252866503290905#m",
-      "date": "Mon, 02 Nov 2026 13:49:54 GMT",
-      "tweet_id": "2117252866503290905",
-      "quoted": {
-        "user": "cb_doge",
-        "text": "Starlink helped save a woman stranded in Colorado’s freezing mountains.\n\nA 37-year-old hiker was trapped in deep snow, unable to walk and suffering from cold injuries.\n\nWith no mobile phone signal, rescuers used Starlink to stay connected to their coordinator throughout the night.\n\nShe was rescued by helicopter and flown to hospital the next morning.\n\nA lifeline from space helped rescuers bring her to safety.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWHcZxlbgAAW-ur.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWHcZxlbgAAW-ur.jpg?name=orig",
-            "local": "2117252866503290905q_0.jpg"
-          }
-        ],
-        "text_zh": "星链帮助拯救了一名被困在科罗拉多州寒冷山区的妇女。\n\n一名37岁的徒步旅行者被困在厚厚的积雪中，无法行走并遭受冷伤。\n\n由于没有手机信号，救援人员整夜使用星链与协调员保持联系。\n\n第二天早上，她被直升机救起并送往医院。\n\n来自太空的救生索帮助救援人员将她安全地带。"
-      },
-      "ctx_done": 1,
-      "text_zh": "星链拯救生命"
-    },
-    {
-      "text": "Elon Musk's naming choices for Colossus 2 are on a completely different level 😭\n• Macrohard\n• Macroharder\n• Minihard\n• Gun Range\n• Spam\nThis man built the most powerful SI data center on Earth, is building the future of superintelligence, and these are the names he comes up with 😂",
-      "link": "https://x.com/XFreeze/status/2117247883842084961#m",
-      "date": "Mon, 02 Nov 2026 13:30:06 GMT",
-      "tweet_id": "2117247883842084961",
-      "quoted": {
-        "user": "XFreeze",
-        "text": "SpaceXSI is building the most powerful SI training cluster on Earth, with Colossus 2 reaching around 1.2M Blackwell GPUs by the end of this year",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HV--Ou4aMAADVJW.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HV--Ou4aMAADVJW.jpg?name=orig",
-            "local": "2117247883842084961q_0.jpg"
-          }
-        ],
-        "text_zh": "SpaceXSI 正在打造地球上最强大的 SI 训练集群，Colossus 2 到今年年底将拥有约 120 万个 Blackwell GPU"
-      },
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 对 Colossus 2 的命名选择处于完全不同的水平。\n• 宏硬\n• 宏观硬化剂\n• 迷你硬盘\n• 枪炮范围\n• 垃圾邮件\n这个人建造了地球上最强大的SI数据中心，正在建设超级智能的未来，这些都是他想出的名字😂"
-    },
-    {
-      "text": "Grok Bot is literally a game changer for me\nI can't say this enough, but Grok Bot has given me soo much peace of mind. It basically does everything for me that I don't want to do\nAll those little tasks that used to take up so much of my time and energy are now being handled by Grok Bot\nI don't even book my flights or hotels anymore. Grok Bot does it for me\nI literally boarded a plane right now, and the entire booking was handled by Grok Bot haha\nAnd the crazy part is that I actually feel much safer letting it handle everything\nIt goes through all the options, compares them, intelligently shortlists the best ones and shows me screenshots and relevant links so I can check everything myself\nAnd before spending any money, it asks me to approve the final payment\nI really feel like it does a better job than I would have done myself\nAnd it goes so much further than just booking things\nIt already knows my current location, where I'm staying, my travel plans, how to get to the airport and what time I should leave\nEverything is taken care of\nAnd whenever I need help with something, instead of spending time searching Google or figuring things out myself, I just talk to Grok Bot\nBecause it already planned and booked everything for me, it has all the context it needs and gives me answers that are actually useful for my situation\nIt even takes care of little things I wouldn't have thought about myself\nI really never imagined an SI agent would make my everyday life this much easier\nIt's not just about saving time anymore\nIt's about having so many things taken off my mind that I don't have to constantly worry about them\nAnd that feeling is absolutely incredible\nGrok Bot has completely changed how I get things done",
-      "link": "https://x.com/XFreeze/status/2117195631160660066#m",
-      "date": "Mon, 02 Nov 2026 10:02:28 GMT",
-      "tweet_id": "2117195631160660066",
-      "quoted": {
-        "user": "XFreeze",
-        "text": "Boarding the flight Grok Bot booked for me 😁",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWHEnKdbgAAkNJf.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWHEnKdbgAAkNJf.jpg?name=orig",
-            "local": "2117195631160660066q_0.jpg"
-          }
-        ],
-        "text_zh": "登机 Grok Bot 为我预订的航班 😁"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 对我来说确实是一个游戏规则改变者\n我不能说太多，但 Grok Bot 给了我很多安心。它基本上为我做了所有我不想做的事情\n所有那些曾经占用我大量时间和精力的小任务现在都由 Grok Bot 处理\n我什至不再预订航班或酒店。 Grok Bot 为我做这件事\n我现在就登机了，整个预订都是由 Grok Bot 处理的哈哈\n最疯狂的是，我实际上感觉更安全，让它处理一切\n它会遍历所有选项，进行比较，智能地列出最佳选项，并向我显示屏幕截图和相关链接，以便我可以自己检查所有内容\n在花钱之前，它会要求我批准最终付款\n我真的觉得它比我自己做得更好\n它不仅仅是预订东西\n它已经知道我当前的位置、我住在哪里、我的旅行计划、如何到达机场以及我应该什么时候离开\n一切都得到照顾\n每当我需要帮助时，我不会花时间搜索 Google 或自己解决问题，而是与 Grok Bot 交谈\n因为它已经为我计划并预订了一切，所以它拥有所需的所有背景信息，并为我提供对我的情况实际上有用的答案\n它甚至能照顾到我自己没有想到的小事\n我真的没想到 SI 特工会让我的日常生活变得如此轻松\n这不再只是为了节省时间\n这是关于让很多事情从我的脑海中消失，这样我就不必一直担心它们\n而那种感觉绝对是难以置信的\nGrok Bot 彻底改变了我完成工作的方式"
-    },
-    {
-      "text": "Fuck you if you hate on Elon Musk. \n\nJust imagine this was your son…\n\nALS took away Jake’s ability to use his wheelchair joystick and now, Neuralink lets him control his chair with his mind. \n\nHate on Elon all you want, he’s out here giving people their lives back.\n\nVideo",
-      "link": "https://x.com/Teslaconomics/status/2117122417634250989#m",
-      "date": "Mon, 02 Nov 2026 05:11:33 GMT",
-      "tweet_id": "2117122417634250989",
-      "ctx_done": 1,
-      "text_zh": "如果你讨厌埃隆·马斯克，去你妈的。 \n\n想象一下这是你的儿子......\n\nALS 剥夺了 Jake 使用轮椅操纵杆的能力，现在 Neuralink 让他用意念控制椅子。 \n\n你可以恨埃隆，但他在这里让人们重获新生。\n\n视频"
-    },
-    {
-      "text": "It's true. \nEvery single person I've told to try Grok Bot:\n- \"Holy fk it's really THAT GOOD\"\n- Starts telling other people to try Grok Bot",
-      "link": "https://x.com/stevenmarkryan/status/2117047788882264533#m",
-      "date": "Mon, 02 Nov 2026 00:15:00 GMT",
-      "tweet_id": "2117047788882264533",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.",
-        "text_zh": "尝试 Grok @Bot！你一定会喜欢它的。\n\n我们每周 7 天都会为 Bot 提供几十个修复、功能和有时的功能，并且我们会查看您的反馈，以使 Bot 尽可能完美。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这是真的。 \n我告诉每个尝试 Grok Bot 的人：\n- “天哪，这真的太好了”\n- 开始告诉其他人尝试 Grok Bot"
-    },
-    {
-      "text": "It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂\n\nVideo",
-      "link": "https://x.com/Cyborg21/status/2117044016621748292#m",
-      "date": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "tweet_id": "2117044016621748292",
-      "ctx_done": 1,
-      "text_zh": "就在这里。克劳迪娅的《ALLOW ALWAYS》全球首映。由一个患有肌萎缩侧索硬化症（ALS）、大脑植入物和太多人工智能朋友的人制作。 😂\n\n视频"
-    },
-    {
-      "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state. \n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined. \n\nNew York added $3 million. \n\nMassachusetts another $2.1 million. \n\nPaxton’s campaign is 73% Texas money. \n\nTalarico’s is a coastal donor operation. \n\nThe left can’t win Texas on the merits, so they flooded the race with blue state cash instead. \n\nSo no, nothing “grassroots” about him.\n\n\n\n\nRothmus 🏴 (@Rothmus)\n\n>be Talarico\n>call yourself a devout Christian\n>say “God is nonbinary” on the House floor to defend boys in girls’ sports\n>church hangs the trans flag and has ministers who say most members are atheists or agnostics\n>Instagram follows a pile of OnlyFans models, porn stars, and escorts\n>like their pics\n>campaign says you “don’t judge them” and that’s what your faith calls you to do\n>claim you never subscribed or used them\n>now your old email shows up in a 2011 Fling.com data leak\n>profile lists interests in FETISH, GROUPSEX, SEXUAL RELATIONS, ONLINE FLIRTING\n>email was validated\n>IP matches one tied to your sister’s email from the same household network\n>lawyers say someone hacked the email and a bot made the account\n>mismatched birth date and zip so it can’t be you\n>your team already follows hookers and camgirls “without investigating”\n\nNot the most religious person, but I’m pretty sure Jesus told people to leave their sin and follow him so they could be forgiven, not keep the fetish profiles and OnlyFans follows and pretend that inviting degeneracy is Christian acceptance.\n\nAnd don’t lie.\n\n\n\n\n\n— https://nitter.kareem.one/Rothmus/status/2116988785145548909#m",
-      "link": "https://x.com/Rothmus/status/2117043924690747428#m",
-      "date": "Sun, 01 Nov 2026 23:59:39 GMT",
-      "tweet_id": "2117043924690747428",
-      "quoted": {
-        "user": "Rothmus",
-        "text": ">be Talarico\n>call yourself a devout Christian\n>say “God is nonbinary” on the House floor to defend boys in girls’ sports\n>church hangs the trans flag and has ministers who say most members are atheists or agnostics\n>Instagram follows a pile of OnlyFans models, porn stars, and escorts\n>like their pics\n>campaign says you “don’t judge them” and that’s what your faith calls you to do\n>claim you never subscribed or used them\n>now your old email shows up in a 2011 http://Fling.com data leak\n>profile lists interests in FETISH, GROUPSEX, SEXUAL RELATIONS, ONLINE FLIRTING\n>email was validated\n>IP matches one tied to your sister’s email from the same household network\n>lawyers say someone hacked the email and a bot made the account\n>mismatched birth date and zip so it can’t be you\n>your team already follows hookers and camgirls “without investigating”\n\nNot the most religious person, but I’m pretty sure Jesus told people to leave their sin and follow him so they could be forgiven, not keep the fetish profiles and OnlyFans follows and pretend that inviting degeneracy is Christian acceptance.\n\nAnd don’t lie.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWEOFGiXMAAbXbM.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWEOFGiXMAAbXbM.jpg?name=orig",
-            "local": "2117043924690747428q_0.jpg"
-          }
-        ],
-        "text_zh": ">塔拉里科\n>称自己为虔诚的基督徒\n>在众议院说“上帝是非二元的”，为女子运动中的男孩辩护\n>教会悬挂跨性别旗帜，牧师称大多数成员是无神论者或不可知论者\n>Instagram 关注了一堆 OnlyFans 模特、色情明星和伴游\n>喜欢他们的照片\n>活动说你“不要评判他们”，这就是你的信仰要求你去做的事情\n>声称您从未订阅或使用过它们\n>现在您的旧电子邮件出现在 2011 年 http://Fling.com 数据泄露中\n>个人资料列出了对恋物癖、群交、性关系、在线调情的兴趣\n>电子邮件已验证\n>IP 与来自同一家庭网络的与您姐姐的电子邮件绑定的 IP 相匹配\n>律师称有人黑了电子邮件并且机器人创建了该帐户\n>出生日期和邮政编码不匹配，所以不可能是您\n>你的团队已经“不经调查”地跟踪妓女和女主播\n\n不是最虔诚的人，但我很确定耶稣告诉人们离开他们的罪恶并跟随他，这样他们就可以得到宽恕，而不是保留恋物癖的个人资料，只有粉丝跟随并假装招致堕落是基督徒的接受。\n\n不要撒谎。"
-      },
-      "ctx_done": 1,
-      "text_zh": "加利福尼亚州正试图购买德克萨斯州参议院席位。\n\n塔拉里科 53% 的明细资金来自州外。 \n\n仅加利福尼亚州就向他捐赠了 780 万美元，比帕克斯顿从其他所有州筹集的资金总和还要多。 \n\n纽约增加了 300 万美元。 \n\n马萨诸塞州另外210万美元。 \n\n帕克斯顿的竞选资金是德克萨斯州 73% 的资金。 \n\n塔拉里科是一家沿海捐助机构。 \n\n左翼无法凭实力赢得德克萨斯州，因此他们用蓝州现金大量投入竞选。 \n\n所以不，他一点也不“草根”。\n\n\n\n\n罗斯姆斯🏴（@Rothmus）\n\n>塔拉里科\n>称自己为虔诚的基督徒\n>在众议院说“上帝是非二元的”，为女子运动中的男孩辩护\n>教会悬挂跨性别旗帜，牧师称大多数成员是无神论者或不可知论者\n>Instagram 关注了一堆 OnlyFans 模特、色情明星和伴游\n>喜欢他们的照片\n>活动说你“不要评判他们”，这就是你的信仰要求你去做的事情\n>声称您从未订阅或使用过它们\n>现在您的旧电子邮件出现在 2011 年 Fling.com 数据泄露中\n>个人资料列出了对恋物癖、群交、性关系、在线调情的兴趣\n>电子邮件已验证\n>IP 与来自同一家庭网络的与您姐姐的电子邮件绑定的 IP 相匹配\n>律师称有人黑了电子邮件并且机器人创建了该帐户\n>出生日期和邮政编码不匹配，所以不可能是您\n>你的团队已经“不经调查”地跟踪妓女和女主播\n\n不是最虔诚的人，但我很确定耶稣告诉人们离开他们的罪恶并跟随他，这样他们就可以得到宽恕，而不是保留恋物癖的个人资料，只有粉丝跟随并假装招致堕落是基督徒的接受。\n\n不要撒谎。\n\n\n\n\n\n— https://nitter.kareem.one/Rothmus/status/2116988785145548909#m"
-    },
-    {
-      "text": "Try Grok @Bot! You will love it.\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.",
-      "link": "https://x.com/elonmusk/status/2117033967782113327#m",
-      "date": "Sun, 01 Nov 2026 23:20:05 GMT",
-      "tweet_id": "2117033967782113327",
-      "quoted": {
-        "user": "shimabu_it",
-        "text": "本当にこれ\n\nマジでCursor（Grok Bot）を使っていない人は一度だけでいいから使ってみてほしい。\n\nClaude Code、Codexよりも断然良いから。今UXの観点でCursorが負けているところは正直ないと思っている。\n\nモデルの性能という点で現状はClaude Codeも使わざるを得ないが、Grokの性能がOpus 5.5と同等レベルになったらCursorオンリーにできると思っている。\n\nSpaceXAIさん、次のGrokは頼みますよ。4.7も悪くないけどOpusと比べると力不足なので...",
-        "text_zh": "真的是这个\n\n说真的，如果你还没有使用过 Cursor (Grok Bot)，请尝试一下，即使只使用一次。\n\n它绝对比 Claude Code 或 Codex 更好。老实说，我认为 Cursor 在用户体验方面并没有失败。\n\n在模型性能方面，我目前别无选择，只能使用 Claude Code，但我认为一旦 Grok 的性能达到与 Opus 5.5 相同的水平，我可以将其设为 Cursor-only。\n\nSpaceXAI，请制作下一个 Grok。 4.7 也不错，但没有 Opus 强大......"
-      },
-      "ctx_done": 1,
-      "text_zh": "尝试 Grok @Bot！你一定会喜欢它的。\n我们每周 7 天都会为 Bot 提供几十个修复、功能和有时的功能，并且我们会查看您的反馈，以使 Bot 尽可能完美。"
-    },
-    {
-      "text": "grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism...\n\nlook closely and they're basically instructions, simple prompts for each agent\n\nbut because they're easy to share, people on X feel like they can plug new modules and extra capabilities into their setup with a simple copy + paste\n\nthe team behind them knew people would build marketplaces, farm engagement on X with these, even sell them\n\nthe smartest way to build a product when distribution is the goal",
-      "link": "https://x.com/EXM7777/status/2116999470437339364#m",
-      "date": "Sun, 01 Nov 2026 21:03:00 GMT",
-      "tweet_id": "2116999470437339364",
-      "ctx_done": 1,
-      "text_zh": "grok 机器人模板是一个非常好的示例，说明了兼作分发机制的功能......\n\n仔细看，它们基本上都是说明，对每个代理的简单提示\n\n但由于它们很容易共享，X 上的人们觉得他们可以通过简单的复制 + 粘贴将新模块和额外功能插入到他们的设置中\n\n他们背后的团队知道人们会建立市场，在 X 上进行农场参与，甚至出售它们\n\n以分销为目标时构建产品的最明智方法"
-    },
-    {
-      "text": "Grok Bot is still so underrated.\nMost people haven't seen what it can really do yet.",
-      "link": "https://x.com/Texas_Twins_Dad/status/2116991205061841011#m",
-      "date": "Sun, 01 Nov 2026 20:30:09 GMT",
-      "tweet_id": "2116991205061841011",
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 仍然被低估。\n大多数人还没有看到它真正能做什么。"
-    },
-    {
-      "text": "Introducing GrokBot's first live dashboard for your teams of agent\n\n1 prompt + 2 min + <1% usage = you have the same:\n\n• no more chaos - every team on its own floor of live 3D office\n• see exactly which bot is eating your usage\n• no more \"is it working or dead?\" - every bot shows its status live\n\nhere's guide to setup it:\n\nworks on computer and phone*\n\n1 → paste prompt below into your GrokBot ( that's it ) - it becomes the \"manager\" of your dashboard\n\n2 → it creates your private live channel on ntfy - a free real-time mailbox only your link can read\n\n3 → writes 1 rule into the shared memory of ALL your bots: every time you start, finish, get stuck or need me - send 1 line\n\n4 → it sends your full roster: every bot, its team, its look and its chat link - each team gets its own floor\n\n5 → open the link it gives you - the office reads your channel line\n\n6 → a routine resends roster + usage per bot on shedule - new bots walk into the office by themselves\n\nall it takes ~2 min for GrokBot...\n\nthe result: you stop opening 15 chats and see your whole AI company work 24/7 - who's busy, who's stuck, who' eating your usage... and can manage them right from office\n\np.s: 1% usage measured on my Super Plan. I'll keep updating dashboard and making it even better, so wait for updates - and tell me what to improve\n\nTry it now, you're welcome. Then read full guide on how use GrokBot below:\n\nVideo\n  \n\n\n\n\ncodila (@0xCodila)\n\n\nArticle\n\n\n\nGrok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (The Ultimate 5-Step Guide)\n\nAre you unsure whether to read this article? Well, take a look below:\n \nI don&apos;t think you have any more questions XD\n\n@bot  is something that will literally change your life, and this step-by-step\n\n\n\n\n— https://nitter.kareem.one/0xCodila/status/2090130749768786050#m",
-      "link": "https://x.com/0xCodila/status/2116960213206966317#m",
-      "date": "Sun, 01 Nov 2026 18:27:00 GMT",
-      "tweet_id": "2116960213206966317",
-      "quoted": {
-        "user": "0xCodila",
-        "text": "https://x.com/i/article/2089981839528083456",
-        "text_zh": "https://x.com/i/article/2089981839528083456"
-      },
-      "ctx_done": 1,
-      "text_zh": "为您的代理团队介绍 GrokBot 的第一个实时仪表板\n\n1 次提示 + 2 分钟 + <1% 使用率 = 你有相同的：\n\n• 不再混乱 - 每个团队都在自己楼层的实时 3D 办公室中\n• 准确查看哪个机器人正在消耗您的使用量\n• 不再有“它是工作还是死机？”的问题。 - 每个机器人都会实时显示其状态\n\n这是设置指南：\n\n适用于电脑和手机*\n\n1 → 将下面的提示粘贴到您的 GrokBot 中（就是这样） - 它成为您仪表板的“管理器”\n\n2 → 它会在 ntfy 上创建您的私人直播频道 - 一个只有您的链接才能读取的免费实时邮箱\n\n3 → 将 1 条规则写入所有机器人的共享内存中：每次开始、完成、陷入困境或需要我时 - 发送 1 行\n\n4 → 它会发送您的完整名单：每个机器人、它的团队、它的外观和聊天链接 - 每个团队都有自己的发言权\n\n5 → 打开它给您的链接 - 办公室读取您的频道线路\n\n6 → 例行程序重新发送名册 + 每个机器人在时间表上的使用情况 - 新机器人自己走进办公室\n\nGrokBot 大约需要 2 分钟...\n\n结果：您停止打开 15 个聊天，看到整个 AI 公司 24/7 工作 - 谁很忙，谁被卡住，谁消耗您的使用量......并且可以直接在办公室管理它们\n\np.s：根据我的超级计划测得的 1% 使用率。我将不断更新仪表板并使其变得更好，因此请等待更新 - 并告诉我需要改进的内容\n\n现在就尝试一下，不客气。然后阅读下面有关如何使用 GrokBot 的完整指南：\n\n视频\n  \n\n\n\n\n科迪拉 (@0xCodila)\n\n\n文章\n\n\n\nGrok Bot 代理：构建 24/7 AI 代理图，让您的生活自动化（终极 5 步指南）\n\n您不确定是否要阅读这篇文章？好吧，请看下面：\n \n我想你没有更多问题了 XD\n\n@bot 确实会改变你的生活，这一步一步\n\n\n\n\n— https://nitter.kareem.one/0xCodila/status/2090130749768786050#m"
-    },
-    {
-      "text": "NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a growing \"aversion\" to James Talarico.\n\nDemocrats on the ground are surprised to find that Latino men they interview are \"loyal\" to President Trump.\n\n\"Mr. Talarico’s allies acknowledge that for him to win, he will need to maximize turnout in Latino-heavy communities,\" the New York Times reports.\n\n\"But Democratic Party officials said in interviews that while knocking on doors in both San Antonio and El Paso, they encountered abiding loyalty to Mr. Trump and an aversion to Mr. Talarico, particularly among Latino men.\"\n\n\"In downtown Lubbock this week, a long line of the president’s supporters waiting to get into a Trump rally included numerous Latino men, many of them wearing 'Make America Great Again' caps.\"\n\nLmao amazing.",
-      "link": "https://x.com/CollinRugg/status/2116922678733058176#m",
-      "date": "Sun, 01 Nov 2026 15:57:51 GMT",
-      "tweet_id": "2116922678733058176",
-      "ctx_done": 1,
-      "text_zh": "新消息：民主党官员敲响了警钟，称拉丁裔男性拒绝在德克萨斯州攻击特朗普总统，并对詹姆斯·塔拉里科越来越“厌恶”。\n\n现场的民主党人惊讶地发现他们采访的拉丁裔男性对特朗普总统“忠诚”。\n\n“塔拉里科先生的盟友承认，为了让他获胜，他需要最大限度地提高拉丁裔人口稠密社区的投票率，”《纽约时报》报道。\n\n“但民主党官员在接受采访时表示，在圣安东尼奥和埃尔帕索敲门时，他们遇到了对特朗普先生的持久忠诚和对塔拉里科先生的厌恶，特别是在拉丁裔男性中。”\n\n“本周在拉伯克市中心，等待参加特朗普集会的总统支持者排起了长队，其中包括许多拉丁裔男性，其中许多人戴着‘让美国再次伟大’的帽子。”\n\n太棒了。"
-    },
-    {
-      "text": "wtf is Grok Jarvis.\n\nGrok Jarvis is a Grok Bot plus a Page.\n\nThe bot holds the personality. The Page is the live screen it builds from plain English.\n\nNo code. Two prompts and one fix message.\n\n8 parts that make Grok Jarvis work:\n\n1. The personality\n• Calm, short, precise, a little dry humour\n• Calls you by your name\n• Says what it'll do in one line, does it, reports back in one line\n\n2. The morning brief\n• Say \"Good morning, Jarvis\"\n• Hear what every bot did and what's waiting on you\n• Get the one thing to do first\n\n3. The Systems panel\n• Lists every bot you run with a status light\n• Shows the last thing each one did\n• Mine reads 31 active bots\n\n4. Waiting on you\n• Lines up every decision that needs your yes\n• Approve or Later on each one\n• Ticks off on your screen only, nothing gets sent\n\n5. The voice\n• Reads every answer out loud\n• The glowing core pulses while it speaks\n• The reply types out under the core\n\n6. Quick commands\n• Morning brief, Status, What's waiting, Focus mode\n• Or type a sentence in the command bar\n• Focus mode dims the panels and calms the motion\n\n7. The self-fix\n• My first screen broke: the core was missing\n• I told Jarvis what I saw and pasted the error\n• It fixed its own work and sent a bigger core\n\n8. Its own computer\n• Opens a browser and searches Google for you\n• Reads competitor sites one by one and returns a table\n• Says your rules back first: only read, no forms, no contact\n\nfollow @JulianGoldieSEO for more on Grok Bot.\n\nVideo",
-      "link": "https://x.com/JulianGoldieSEO/status/2116854011827806310#m",
-      "date": "Sun, 01 Nov 2026 11:25:00 GMT",
-      "tweet_id": "2116854011827806310",
-      "ctx_done": 1,
-      "text_zh": "wtf 是格罗克·贾维斯。\n\nGrok Jarvis 是一个 Grok 机器人加一个页面。\n\n机器人拥有个性。该页面是它用简单的英语构建的实时屏幕。\n\n没有代码。两条提示和一条修复消息。\n\nGrok Jarvis 发挥作用的 8 个部分：\n\n1、个性\n• 冷静、简短、精确、有点冷幽默\n• 叫你的名字\n• 一行表示要做什么、执行、报告\n\n2. 早间简报\n• 说“早上好，贾维斯”\n• 听听每个机器人做了什么以及等待您的是什么\n• 先做一件事\n\n3. 系统面板\n• 列出您运行的每个机器人并带有状态灯\n• 显示每个人所做的最后一件事\n• 我的读取了 31 个活跃机器人\n\n4. 等你\n• 列出每一个需要你同意的决定\n• 批准或稍后批准每一项\n• 仅在屏幕上勾选，不会发送任何内容\n\n5. 声音\n• 大声读出每个答案\n• 说话时发光的核心会发出脉冲\n• 回复在核心下键入\n\n6. 快捷命令\n• 早间简报、状态、等待内容、焦点模式\n• 或在命令栏中输入句子\n• 聚焦模式使面板变暗并使运动平静下来\n\n7.自我修复\n• 我的第一个屏幕坏了：核心丢失\n• 我告诉贾维斯我看到了什么并粘贴了错误\n• 它修复了自己的工作并派出了更大的核心\n\n8.自己的电脑\n• 打开浏览器并在 Google 中搜索您的信息\n• 逐一读取竞争对手网站并返回表格\n• 首先说出您的规则：只能阅读，不能填写表格，不能联系\n\n关注 @JulianGoldieSEO 了解有关 Grok Bot 的更多信息。\n\n视频"
-    },
-    {
-      "text": "This is INSANE. A huge step for humanity.\n\nGoogle Gemma 4 is a actually running at a Data Center in Space. \n\nRead that again and let that sink in. Congrats project Suncatcher team!\n\nVideo",
-      "link": "https://x.com/Saboo_Shubham_/status/2116740612372435274#m",
-      "date": "Sun, 01 Nov 2026 03:54:23 GMT",
-      "tweet_id": "2116740612372435274",
-      "ctx_done": 1,
-      "text_zh": "这太疯狂了。人类迈出的一大步。\n\nGoogle Gemma 4 实际上是在太空数据中心运行的。 \n\n再次阅读并理解这一点。恭喜 Suncatcher 项目团队！\n\n视频"
-    },
-    {
-      "text": "I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR.\n\n@Grok @Bot wins on all measures. \n\nAt this point it can only be copied as the others are watching a rocket launch ship change in AI going into orbit.\n\nRead below my exclusive analysis seen no place else!\n\n\n\n\nBrian Roemmele (@BrianRoemmele)\n\n\nArticle\n\n\n\nI Tested Every Bot Platform So You Did Not Have To. Here Is What I Found.\n\nA took a deep look at Dots, Muse, ChatGPT Work, Claude, Gemini, Copilot, Manus, Perplexity, OpenClaw and Grok Bot: what each one really is, where it runs, what it can share, where its holes are, and\n\n\n\n\n— https://nitter.kareem.one/BrianRoemmele/status/2116532267581608050#m",
-      "link": "https://x.com/BrianRoemmele/status/2116708293901205698#m",
-      "date": "Sun, 01 Nov 2026 01:45:58 GMT",
-      "tweet_id": "2116708293901205698",
-      "quoted": {
-        "user": "BrianRoemmele",
-        "text": "https://x.com/i/article/2116522743097430016",
-        "text_zh": "https://x.com/i/article/2116522743097430016"
-      },
-      "ctx_done": 1,
-      "text_zh": "我测试了每个主要的“机器人”平台，胜者已经很明显了。\n\n@Grok @Bot 在所有措施上都获胜。 \n\n此时它只能被复制，因为其他人正在观看人工智能进入轨道的火箭发射船的变化。\n\n请阅读下面我在其他地方没有看到的独家分析！\n\n\n\n\n布莱恩·罗梅勒 (@BrianRoemmele)\n\n\n文章\n\n\n\n我测试了每个机器人平台，因此您不必这样做。这是我发现的。\n\nA 深入研究了 Dots、Muse、ChatGPT Work、Claude、Gemini、Copilot、Manus、Perplexity、OpenClaw 和 Grok Bot：每一个的真正含义、它在哪里运行、它可以共享什么、它的漏洞在哪里，以及\n\n\n\n\n— https://nitter.kareem.one/BrianRoemmele/status/2116532267581608050#m"
-    },
-    {
-      "text": "Super Intelligence WILL EAT MANY ENTIRE businesses, industries and professions in the next few *months* and *quarters*.\n\nThe rest will follow.\n\nThe physical world will take a bit longer. That needs A LOT of humanoid robots.\n\nStrap yourselves in.",
-      "link": "https://x.com/stevenmarkryan/status/2116697757645942920#m",
-      "date": "Sun, 01 Nov 2026 01:04:06 GMT",
-      "tweet_id": "2116697757645942920",
-      "ctx_done": 1,
-      "text_zh": "在接下来的几个月和几个季度里，超级智能将吞噬许多整个企业、行业和职业。\n\n其余的将随之而来。\n\n物理世界将需要更长的时间。这需要大量的人形机器人。\n\n系好安全带。"
-    },
-    {
-      "text": "We have a society that actively kneecaps young men in the name of ‘justice’ and then sit around scratching our heads about why men are ‘falling behind.’",
-      "link": "https://x.com/FischerKing64/status/2116640581682413967#m",
-      "date": "Sat, 31 Oct 2026 21:16:54 GMT",
-      "tweet_id": "2116640581682413967",
-      "quoted": {
-        "user": "robbystarbuck",
-        "text": "It’s even worse than Anish notes here because boys make up 61% of the top SAT scores. So despite that fact and the fact that men apply about 2x as often to MIT; @MIT admits more women every year than men. It’s impossible for this to be merit based. Just mathematically impossible.",
-        "text_zh": "这比安尼什在这里指出的还要糟糕，因为 SAT 最高分中，男生占了 61%。因此，尽管存在这一事实，而且男性申请麻省理工学院的频率是男性的两倍； @麻省理工学院每年录取的女性多于男性。这不可能是基于功绩的。从数学上来说是不可能的。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们的社会以“正义”的名义主动打压年轻人，然后却坐在那里摸不着头脑，思考为什么男人“落后”。"
-    },
-    {
-      "text": "😂\nVideo",
-      "link": "https://x.com/elonmusk/status/2116637338994606271#m",
-      "date": "Sat, 31 Oct 2026 21:04:01 GMT",
-      "tweet_id": "2116637338994606271",
-      "quoted": {
-        "user": "lumenxbt",
-        "text": "Ten million people have watched a comedian accidentally destroy the entire TED talk industry.\n\nHe filmed the talk once at TEDxNewYork in 2014 and openly admitted he had nothing to say.\n\nSpeaking coaches charge $5,000 to teach the exact tricks he used in 6 minutes to say nothing at all.\n\nHis name is Will Stephen. He is a comedian from Late Night with Seth Meyers who was invited to give a real TED talk and used it to prove the format is a costume anyone can wear.\n\nEvery TED speaker opens with a question, tells a personal story, cites a scientist, and shows a chart. Stephen did all four in six minutes with zero content.\n\nHis entire formula fits on a napkin.\n\nGesture with both hands. Ask the audience a question anyone can answer. Tell a mildly embarrassing story so they say aww. Point to a stranger on a slide and call them important. Flash a chart of random numbers. Wear glasses with no lenses. The audience will think you are brilliant.\n\nThat last trick alone has probably cost the public speaking coaching industry a hundred million dollars in sessions clients should have skipped.\n\n\"If you watched me on YouTube with the sound off, you would think I was a genius.\"\n\nThat is Will Stephen on the TED stage, three minutes into the talk he was paid to give. He wasn't lying.\n\nExecutives pay $15,000 for a keynote coach and still open with a joke the room never laughs at. Founders rehearse their pitch for weeks and still sound like Stephen at minute four, saying \"wagga wah, gabba gabba\" with authority.\n\nThe talk is free on YouTube. The method is written across every TED speaker's playbook for ten years.\n\nStephen still writes for Seth Meyers. Almost none of the ten million viewers have stopped nodding at empty slides since.\n\nThe formula is free. The willingness to actually say something before your next keynote, pitch, or townhall is the entire edge.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2116269892915585024/img/PF21s1tNsnIjuZmM.jpg",
-            "local": "2116637338994606271q_0.jpg"
-          }
-        ],
-        "text_zh": "一千万人目睹了一位喜剧演员意外摧毁了整个 TED 演讲行业。\n\n2014 年，他在 TEDxNewYork 上拍摄了一次演讲，并公开承认自己无话可说。\n\n口语教练收取 5,000 美元的费用，教授他在 6 分钟内什么也不说的精确技巧。\n\n他的名字叫威尔·斯蒂芬。他是《赛斯·迈耶斯深夜秀》的喜剧演员，受邀进行一场真正的 TED 演讲，并用它来证明这种服装是任何人都可以穿的。\n\n每位 TED 演讲者都会以一个问题开始，讲述一个个人故事，引用一位科学家的话，并展示一个图表。斯蒂芬在六分钟内完成了所有四件事，内容为零。\n\n他的整个配方可以放在一张餐巾纸上。\n\n用双手做手势。向观众提出一个任何人都可以回答的问题。讲一个有点尴尬的故事，这样他们就会说哇。指向幻灯片上的陌生人并称他们为重要人物。闪现一张随机数字图表。佩戴没有镜片的眼镜。观众会认为你很聪明。\n\n仅最后一个技巧就可能让公众演讲辅导行业在客户本应跳过的课程中损失一亿美元。\n\n“如果你在 YouTube 上观看我关闭声音的情况，你会认为我是个天才。”\n\n这是威尔·斯蒂芬在 TED 舞台上的演讲，演讲开始三分钟后，他就得到报酬。他没有说谎。\n\n高管们花费 15,000 美元请一位主题演讲教练，但开场时仍然会讲一个全场都不会笑的笑话。创始人们排练了几周的演讲，听起来仍然像斯蒂芬在第四分钟那样，权威地说“wagga wah，gabba gabba”。\n\nYouTube 上的演讲是免费的。十年来，这个方法被写入每位 TED 演讲者的手册中。\n\n斯蒂芬仍然为塞斯·迈耶斯写作。从那以后，一千万观众几乎没有一个人停止对空幻灯片点头。\n\n该公式是免费的。在你的下一次主题演讲、推介或市政厅之前愿意真正说些什么是整个优势。"
-      },
-      "ctx_done": 1,
-      "text_zh": "😂\n视频"
     }
   ]
 }

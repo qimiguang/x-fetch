@@ -1,8 +1,69 @@
 {
   "username": "elonchron",
-  "updated_at": "2026-11-16T01:01:39Z",
-  "count": 28,
+  "updated_at": "2026-11-16T10:56:37Z",
+  "count": 34,
   "tweets": [
+    {
+      "text": "👀",
+      "link": "https://x.com/elonchron/status/2121789885887471995#m",
+      "date": "Sun, 15 Nov 2026 02:18:24 GMT",
+      "tweet_id": "2121789885887471995",
+      "quoted": {
+        "user": "SERobinsonJr",
+        "text": "Just took my next Starship metal print! 🌙 😍",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXIQfDGWcAAmerH.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXIQfDGWcAAmerH.jpg?name=orig",
+            "local": "2121789885887471995q_0.jpg"
+          }
+        ],
+        "text_zh": "刚刚拍摄了我的下一张星舰金属印刷品！ 🌙😍"
+      },
+      "ctx_done": 1,
+      "text_zh": "👀"
+    },
+    {
+      "text": "Just took my next Starship metal print! 🌙 😍",
+      "link": "https://x.com/SERobinsonJr/status/2121776508301676687#m",
+      "date": "Sun, 15 Nov 2026 01:25:14 GMT",
+      "tweet_id": "2121776508301676687",
+      "ctx_done": 1,
+      "text_zh": "刚刚拍摄了我的下一张星舰金属印刷品！ 🌙😍"
+    },
+    {
+      "text": "Next stop, Moon.\n\nSpaceX Starship 42",
+      "link": "https://x.com/SERobinsonJr/status/2121768506954064145#m",
+      "date": "Sun, 15 Nov 2026 00:53:27 GMT",
+      "tweet_id": "2121768506954064145",
+      "ctx_done": 1,
+      "text_zh": "下一站，月亮。\n\nSpaceX 星际飞船 42"
+    },
+    {
+      "text": "My God,  Ship 42 is looking so clean!",
+      "link": "https://x.com/SERobinsonJr/status/2121766342533517707#m",
+      "date": "Sun, 15 Nov 2026 00:44:51 GMT",
+      "tweet_id": "2121766342533517707",
+      "ctx_done": 1,
+      "text_zh": "天哪，42号船看起来好干净啊！"
+    },
+    {
+      "text": "Road is open. Here is Starship 42 after catch.",
+      "link": "https://x.com/SERobinsonJr/status/2121756734091821467#m",
+      "date": "Sun, 15 Nov 2026 00:06:40 GMT",
+      "tweet_id": "2121756734091821467",
+      "ctx_done": 1,
+      "text_zh": "道路畅通。这是捕获后的 Starship 42。"
+    },
+    {
+      "text": "Flight 15 launch of Starship 42 and the return of Super Heavy Booster 22 from Rocket Ranch.\n\nVideo",
+      "link": "https://x.com/SERobinsonJr/status/2121393127478952295#m",
+      "date": "Sat, 14 Nov 2026 00:01:49 GMT",
+      "tweet_id": "2121393127478952295",
+      "ctx_done": 1,
+      "text_zh": "Starship 42 的 15 号航班发射以及 Super Heavy Booster 22 从 Rocket Ranch 的返回。\n\n视频"
+    },
     {
       "text": "New Starbase Louisiana flyover!\nVideo",
       "link": "https://x.com/elonchron/status/2119239080898601308#m",
