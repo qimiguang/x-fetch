@@ -1,8 +1,239 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-16T21:52:24Z",
+  "updated_at": "2026-11-17T07:23:21Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "I found a pic of “the long game”",
+      "link": "https://x.com/elonmusk/status/2122589089702813944#m",
+      "date": "Tue, 17 Nov 2026 07:14:09 GMT",
+      "tweet_id": "2122589089702813944",
+      "reply_to": "XFreeze",
+      "ctx_done": 1,
+      "text_zh": "我找到了一张“长期游戏”的照片"
+    },
+    {
+      "text": "Was good to see @lrocket & @HansKoenigsmann at the first ship catch\nVideo",
+      "link": "https://x.com/elonmusk/status/2122587577274237129#m",
+      "date": "Tue, 17 Nov 2026 07:08:08 GMT",
+      "tweet_id": "2122587577274237129",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "\"@elonmusk really gets the best out of everybody, and that's why that company is so incredible.\"\nTom Mueller",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
+            "local": "2122587577274237129q_0.jpg"
+          }
+        ],
+        "text_zh": "“@elonmusk 确实让每个人都发挥出了最好的水平，这就是为什么这家公司如此令人难以置信。”\n汤姆·穆勒"
+      },
+      "ctx_done": 1,
+      "text_zh": "很高兴在第一艘船捕获时看到@lrocket 和@HansKoenigsmann\n视频"
+    },
+    {
+      "text": "Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence",
+      "link": "https://x.com/elonmusk/status/2122577169863885235#m",
+      "date": "Tue, 17 Nov 2026 06:26:47 GMT",
+      "tweet_id": "2122577169863885235",
+      "ctx_done": 1,
+      "text_zh": "无情的强化学习对于超级智能来说肯定就像是“明日边缘”"
+    },
+    {
+      "text": "Starship 42\n\nVideo",
+      "link": "https://x.com/elonmusk/status/2122576221846253837#m",
+      "date": "Tue, 17 Nov 2026 06:23:01 GMT",
+      "tweet_id": "2122576221846253837",
+      "ctx_done": 1,
+      "text_zh": "星舰42号\n\n视频"
+    },
+    {
+      "text": "How can Grok @Bot be more helpful?",
+      "link": "https://x.com/elonmusk/status/2122572107116642664#m",
+      "date": "Tue, 17 Nov 2026 06:06:40 GMT",
+      "tweet_id": "2122572107116642664",
+      "quoted": {
+        "user": "parkersmith",
+        "text": "👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits.\n\nIf this is you, please reply to this thread with how you use Bot and DM me your email!",
+        "text_zh": "👋 希望从使用 Bot 自动化大部分工作的人们那里获得一些反馈，以换取一些积分。\n\n如果是您，请回复此帖子并说明您如何使用 Bot，并通过 DM 我发送您的电子邮件！"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @Bot 如何更有帮助？"
+    },
+    {
+      "text": "Jensen was demanding of his executives, yet consistently kind and supportive to individual contributors like me. Too many companies coddle their executives and shield them from accountability when things go wrong. Jensen did the opposite.\n\nI didn’t mind that my boss was demanding. All my previous bosses held me to the highest standards. Without them, I would not be where I am today.",
+      "link": "https://x.com/yunta_tsai/status/2122563749668167851#m",
+      "date": "Tue, 17 Nov 2026 05:33:27 GMT",
+      "tweet_id": "2122563749668167851",
+      "ctx_done": 1,
+      "text_zh": "詹森对他的高管要求很高，但对像我这样的个人贡献者始终友善和支持。太多的公司溺爱他们的高管，在出现问题时不让他们承担责任。詹森却反其道而行之。\n\n我不介意老板的要求。我以前的所有老板都以最高标准要求我。没有他们，我不会有今天的成绩。"
+    },
+    {
+      "text": "Grok @Bot",
+      "link": "https://x.com/elonmusk/status/2122560774073901341#m",
+      "date": "Tue, 17 Nov 2026 05:21:38 GMT",
+      "tweet_id": "2122560774073901341",
+      "quoted": {
+        "user": "congressdj",
+        "text": "Grok Bot just got off a 90 minute phone call with AT&T handling a complex issue for me. Unfortunately, that’s the time limit for Grok Bot calls.\n\nHowever.\n\nAT&T called me back and the agent was STUNNED that she had been talking to a bot for 90minutes. She’d had other bots call before, but “nothing like this”. She downloaded Grok Bot while talking to me.\n\nThis sh— is gonna change the world.",
+        "text_zh": "Grok Bot 刚刚与 AT&T 通了 90 分钟的电话，为我处理一个复杂的问题。不幸的是，这是 Grok Bot 通话的时间限制。\n\n然而。\n\nAT&T 给我回了电话，客服人员惊讶地发现她已经与机器人交谈了 90 分钟。她之前也曾接到过其他机器人的电话，但“没有这样的”。她在跟我说话的时候下载了 Grok Bot。\n\n这个嘘——将会改变世界。"
+      },
+      "ctx_done": 1,
+      "text_zh": "格洛克@Bot"
+    },
+    {
+      "text": "I remember\n\n\nanabology (@anabology)\n\nAnnouncing the new solana:2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM @XMoney contest winners!\n\nAt #1, winning $420.69 -\n\n\"You're Too Young to Remember\" by @DTM_lab\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/anabology/status/2122378146120880429#m",
+      "link": "https://x.com/elonmusk/status/2122546702112735233#m",
+      "date": "Tue, 17 Nov 2026 04:25:43 GMT",
+      "tweet_id": "2122546702112735233",
+      "quoted": {
+        "user": "anabology",
+        "text": "Announcing the new solana:2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM @XMoney contest winners!\n\nAt #1, winning $420.69 -\n\n\"You're Too Young to Remember\" by @DTM_lab ",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121427830106128384/img/N5VRBD75Cwy0oET5.jpg",
+            "local": "2122546702112735233q_0.jpg"
+          }
+        ],
+        "text_zh": "宣布新的 solana:2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM @XMoney 竞赛获奖者！\n\n位居第一，赢得 420.69 美元 -\n\n@DTM_lab 的“你太年轻了，不记得”"
+      },
+      "ctx_done": 1,
+      "text_zh": "我记得\n\n\n合成学（@anabology）\n\n宣布新的 solana:2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM @XMoney 竞赛获奖者！\n\n位居第一，赢得 420.69 美元 -\n\n@DTM_lab 的“你太年轻了，不记得”\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/anabology/status/2122378146120880429#m"
+    },
+    {
+      "text": "LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.”\n\nVideo",
+      "link": "https://x.com/cb_doge/status/2122529345902350362#m",
+      "date": "Tue, 17 Nov 2026 03:16:45 GMT",
+      "tweet_id": "2122529345902350362",
+      "ctx_done": 1,
+      "text_zh": "利奥·博泽尔：“每个人都会同意星链对于南非来说是一个好主意。星链对于地球上的每个国家来说都是一个好主意，因为它能够做到这一点。......政府说，我们想要这家公司的 30％，这当然是荒谬的。埃隆·马斯克永远不会这样做。......他们说，不，我们想要你公司 30％ 的股份。所以他说，去砸沙子。我会去地球上所有其他国家。地球。”\n\n视频"
+    },
+    {
+      "text": "😂",
+      "link": "https://x.com/elonmusk/status/2122511154455134253#m",
+      "date": "Tue, 17 Nov 2026 02:04:28 GMT",
+      "tweet_id": "2122511154455134253",
+      "quoted": {
+        "user": "RealOtisCrune",
+        "text": "For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance.\n\nSpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized.",
+        "text_zh": "对于许多左翼人士来说，SpaceX 存在于认知失调的奇异量子叠加中。\n\nSpaceX既是一个无耻、毫无价值的骗局，又是至关重要的国家基础设施，必须将其国有化。"
+      },
+      "ctx_done": 1,
+      "text_zh": "😂"
+    },
+    {
+      "text": "BREAKING: The Government of Burundi is rolling out 435 Starlink kits to connect rural schools and health centers. 🇧🇮\n\nThe deployment is part of the Government of Burundi’s World Bank-funded Soleil-Nyakiriza project, serving rural communities.\n\nVideo",
+      "link": "https://x.com/cb_doge/status/2122508406879895871#m",
+      "date": "Tue, 17 Nov 2026 01:53:33 GMT",
+      "tweet_id": "2122508406879895871",
+      "ctx_done": 1,
+      "text_zh": "突发新闻：布隆迪政府正在推出 435 个 Starlink 套件，用于连接农村学校和医疗中心。 🇧🇮\n\n此次部署是布隆迪政府世界银行资助的 Soleil-Nyakiriza 项目的一部分，该项目为农村社区提供服务。\n\n视频"
+    },
+    {
+      "text": "NASA chief Jared Isaacman after SpaceX’s Starship catch: “This really changes everything.” \n\n“They’re doing all of this for a reason, not for this one and done demonstration you’re seeing now, but to build a world where you have lots of Starships that are flying routinely, almost on an hourly basis.”\n\n“You can experiment, build out a grand orbital economy, build lots of commercial space stations.”\n\nVideo",
+      "link": "https://x.com/cb_doge/status/2122490851129774345#m",
+      "date": "Tue, 17 Nov 2026 00:43:47 GMT",
+      "tweet_id": "2122490851129774345",
+      "ctx_done": 1,
+      "text_zh": "NASA 局长 Jared Isaacman 在 SpaceX 的 Starship 捕获后表示：“这确实改变了一切。” \n\n“他们做这一切都是有原因的，不是为了你现在看到的这个和完成的演示，而是为了建立一个拥有大量星舰的世界，这些星舰几乎每小时都在例行飞行。”\n\n“你可以进行实验，建立一个宏伟的轨道经济，建造许多商业空间站。”\n\n视频"
+    },
+    {
+      "text": "RT by @elonmusk: Image",
+      "link": "https://x.com/BrendanCarrFCC/status/2122466131894231467#m",
+      "date": "Mon, 16 Nov 2026 23:05:34 GMT",
+      "tweet_id": "2122466131894231467",
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：图片"
+    },
+    {
+      "text": "Grok @bot will do whatever it takes to get a task done for you, even make a phone call.",
+      "link": "https://x.com/JasonBud/status/2122433424010924139#m",
+      "date": "Mon, 16 Nov 2026 20:55:35 GMT",
+      "tweet_id": "2122433424010924139",
+      "quoted": {
+        "user": "mitchellwright",
+        "text": "my grok bot got me a refund of $1,511 today because the sauna i bought was on sale for cheaper than what i bought it for.\n\nit sent an email and after no response it called them today and secured the refund",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXRe4G9aAAA4F_3.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXRe4G9aAAA4F_3.jpg?name=orig",
+            "local": "2122433424010924139q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXRe4rXaQAA4w9R.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXRe4rXaQAA4w9R.jpg?name=orig",
+            "local": "2122433424010924139q_1.jpg"
+          }
+        ],
+        "text_zh": "我的 grok 机器人今天给我退款了 1,511 美元，因为我购买的桑拿房正在打折，价格比我购买时便宜。\n\n它发送了一封电子邮件，在没有回复后，今天打电话给他们并获得了退款"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @bot 会尽一切努力为您完成任务，甚至打电话。"
+    },
+    {
+      "text": "Starlink helped rescue teams bring 211 stranded tourists to safety in Argentina’s remote mountains. ❤️🇦🇷\n\nA snowstorm trapped dozens of vehicles near Balcón del Pissis, Catamarca. Snow blocked the roads, leaving tourists stranded in freezing conditions.\n\nSatellite phones and @Starlink helped raise the alarm. Telecentro also supplied Starlink connectivity to strengthen communications between teams working in the mountains, where conventional networks were limited.\n\nFirefighters, police, medical teams and local rescuers joined the operation as heavy machinery cleared paths through the snow.\n\nAuthorities confirmed 211 people were rescued, with 39 sheltered at a mining camp until they could descend safely.\n\nA life-saving effort on the ground, supported by connectivity from space.\n\nVideo",
+      "link": "https://x.com/cb_doge/status/2122423529769763225#m",
+      "date": "Mon, 16 Nov 2026 20:16:16 GMT",
+      "tweet_id": "2122423529769763225",
+      "ctx_done": 1,
+      "text_zh": "Starlink 帮助救援队将 211 名滞留游客带到阿根廷偏远山区的安全地带。 ❤️🇦🇷\n\n卡塔马卡Balcón del Pissis附近遭遇暴风雪，数十辆汽车被困。大雪堵塞了道路，导致游客被困在寒冷的环境中。\n\n卫星电话和@Starlink 帮助拉响了警报。 Telecentro 还提供 Starlink 连接，以加强在传统网络有限的山区工作的团队之间的通信。\n\n消防队员、警察、医疗队和当地救援人员加入了行动，重型机械在积雪中清理道路。\n\n当局证实，已有 211 人获救，其中 39 人在采矿营地避难，直到安全下降。\n\n在太空连接的支持下，在地面上拯救生命的努力。\n\n视频"
+    },
+    {
+      "text": "A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individuals. \nSo they think about Elon Musk as an individual. Maybe they think that he must be retarded, because they need that for emotional reasons. Or maybe they think he is a talented rocket designer. \nBut even if they realize he understands rockets, they can only think about him as an individual doing tasks. Not about his impact on what the whole company does. \nIf Elon Musk is just a talented rocket designer, then he can spend all day, every day, improving rocket designs. \nBut he is just one of 7000 engineers. So even if did a perfect job, he would only improve progress by about .014% \nSo, when a midwit looks at SpaceX, he sees 7000 engineers, and says to himself \"Elon Musk cannot possibly be designing the whole damn rocket himself. These people are giving him too much credit.\"\nThis would be absolutely true if Musk were just a some random SpaceX engineer. But he isn't. He's the absolute dictator of the whole damn company. \nHe decides, with absolute and unquestionable authority, which behaviors are punished and which are rewarded. \nWhy is this important? \nWhen I worked at Boeing, on various classified projects, I naively came in with the assumption that I was a software engineer, employed to design and build functional software as quickly and cheaply as possible. \nBecause of this, I focused on functionality and efficiency, for example suggesting changes that would obviate the need for entire projects and software components. \nAnd I very rapidly became persona non grata. \nAt first, this caused me to adopt an air of aggrieved innocence. I was just trying to do my job well, and I was being punished for it. \nThen I gradually came to realize that I hadn't properly understood what my job was, or what the actual mission of Boeing Defense, Space, and Security was. \nBoeing DSS was not an aerospace company. Boeing DSS was a fraud company. \nIts goal was twofold. First, to maximize transfer of public tax dollars to stockholder pockets. Second, to maintain the appearance of being an aerospace company, to prevent the fraud from being exposed. \nWhich meant that my real job was twofold. First, to generate billable hours. Second, to look busy. \nThis is why Space Launch System sucks. Why it is always late when it doesn't fail outright. Why it is at 300% of its target budget. Why it leaves American astronauts stranded and needing a lift from SpaceX. \nThat's because, for Boeing, building rockets is a side quest. Something they have to do to look busy. Yes, a rocket does occasionally fly, but that's just happening so programs don't get shut down. \nFor Boeing, coming in early and under budget would actually be failure. The system is functioning exactly as designed. \nThe cost, not the rocket, is the goal. \nMusk and SpaceX don't work like that. \nUnlike Boeing executives, Musk is not a useless grifter asshole. He is an entirely different kind of asshole... a rocket obsessed sperg. \nSo, at SpaceX, engineers do not get rewarded for generating billable hours. They get rewarded for making rockets fly. And for all the subtasks of this, like figuring out how to make rockets lighter, figuring out how to make engines reignite better, figuring out how to make rocket exhaust not destroy launch pads, etc. \nAnd this attracts engineers who care about rockets. You've seen them on broadcasts, crying on open microphones because they dedicated their lives to something and it just flew. \nAs a rocket engineer, who designs rockets, Musk is probably replaceable. As a rocket company engineer, who designs rocket companies, he is not. \nFor over 50 years, the US space industry stagnated precisely for the lack of a Musk-like figure, who could not only create an effective aerospace company, but who could thereby demonstrate what an effective aerospace company looks like. \nWhich makes it much more difficult for fraudsters to get away with fraud. \nI'm envious. I wish I could have worked for an aerospace company instead of a fraud company. \nBut what's more important is that some of us now no longer have to play \"who gets the most cheese?\". \nThey get to play \"What can we build today?\".",
+      "link": "https://x.com/Devon_Eriksen_/status/2122373284813742579#m",
+      "date": "Mon, 16 Nov 2026 16:56:37 GMT",
+      "tweet_id": "2122373284813742579",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon.\n\nPerhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably?\n\nAlso, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit?\n\nI am genuinely curious about these questions.",
+        "text_zh": "让我们从表面上理解这位先生的论点，即任何人都可以向火箭扔钱并获得诸如星舰、猎鹰或龙之类的东西。\n\n也许他可以向大家解释一下，SpaceX如何能够用筷子从轨道上捕获巨型星舰，并用猎鹰将地球上85%的有效载荷送入轨道，而在SpaceX之前成立、由巨富杰夫·贝佐斯资助的蓝色起源却还无法可靠地发射？\n\n另外，为什么波音和洛克希德公司从政府那里获得的火箭和航天器开发费用是 SpaceX 的几倍，但波音太空舱仍然无法运行，ULA 将不到 SpaceX 有效载荷的 5% 送入轨道？\n\n我真的对这些问题感到好奇。"
+      },
+      "ctx_done": 1,
+      "text_zh": "很多人在思考群体的总体行为时确实遇到困难。他们只能考虑个人。 \n所以他们将埃隆·马斯克视为一个个体。也许他们认为他一定是弱智，因为他们出于情感原因需要这样。或者也许他们认为他是一位才华横溢的火箭设计师。 \n但即使他们意识到他了解火箭，他们也​​只能将他视为一个执行任务的个人。不是关于他对整个公司的影响。 \n如果埃隆·马斯克只是一位才华横溢的火箭设计师，那么他可以花一整天、每一天的时间来改进火箭设计。 \n但他只是 7000 名工程师之一。所以即使做得很完美，他也只能提高大约 0.014% 的进度 \n所以，当一个助产士看到 SpaceX 时，他看到了 7000 名工程师，并对自己说“埃隆·马斯克不可能自己设计整个该死的火箭。这些人给了他太多的信任。”\n如果马斯克只是一位随机的 SpaceX 工程师，这绝对是正确的。但他不是。他是整个公司的绝对独裁者。 \n他以绝对且不容置疑的权威来决定哪些行为受到惩罚，哪些行为受到奖励。 \n为什么这很重要？ \n当我在波音公司从事各种机密项目时，我天真地假设自己是一名软件工程师，负责尽可能快速、廉价地设计和构建功能软件。 \n因此，我专注于功能和效率，例如建议进行更改以消除对整个项目和软件组件的需求。 \n我很快就成了不受欢迎的人。 \n起初，这让我表现出一种委屈无辜的样子。我只是想做好我的工作，却因此受到了惩罚。 \n然后我逐渐意识到我没有正确理解我的工作是什么，或者波音防务、太空和安全部门的实际使命是什么。 \n波音 DSS 不是一家航空航天公司。波音 DSS 是一家欺诈公司。 \n它的目标是双重的。首先，最大限度地将公共税款转移到股东的腰包。其次，维护航天公司的形象，防止造假行为被揭露。 \n这意味着我的真正工作是双重的。首先，产生计费时间。第二，看起来很忙。 \n这就是太空发射系统糟糕的原因。为什么在没有彻底失败的情况下总是迟到。为什么它达到了目标预算的 300%。为什么它让美国宇航员陷入困境并需要 SpaceX 的搭车。 \n这是因为，对于波音公司来说，制造火箭是一个副业。他们必须做一些事情才能看起来很忙。是的，火箭偶尔会飞，但这只是发生，所以项目不会被关闭。 \n对于波音公司来说，提早投入并低于预算实际上就是失败。该系统完全按照设计运行。 \n目标是成本，而不是火箭。 \n马斯克和 SpaceX 并不是这样运作的。 \n与波音公司的高管不同，马斯克并不是一个无用的骗子混蛋。他是一个完全不同的混蛋……一个痴迷于火箭的精灵。 \n因此，在 SpaceX，工程师不会因为产生计费时间而获得奖励。他们因使火箭飞翔而获得奖励。对于其中的所有子任务，例如弄清楚如何使火箭更轻，弄清楚如何使发动机更好地重新点火，弄清楚如何使火箭排气不破坏发射台等。 \n这吸引了关心火箭的工程师。你在广播中见过他们，对着麦克风哭泣，因为他们将自己的一生奉献给了某件事，而它却飞速发展。 \n作为设计火箭的火箭工程师，马斯克可能是可以替代的。作为设计火箭公司的火箭公司工程师，他不是。 \n50多年来，美国航天工业停滞不前，正是因为缺乏像马斯克这样的人物，他不仅能够创建一家有效的航空航天公司，而且能够借此展示有效的航空航天公司是什么样子。 \n这使得欺诈者更难逃脱欺诈。\n我很羡慕。我希望我能在一家航空航天公司工作，而不是在一家欺诈公司工作。 \n但更重要的是，我们中的一些人现在不再需要玩“谁得到最多奶酪？”的游戏。 \n他们开始玩“我们今天可以建造什么？”。"
+    },
+    {
+      "text": "Giga Berlin is expanding - Cybercab production is coming to Europe\n\n\nAndré Thierig (@AndrThie)\n\nIf you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  \n\nWe are expanding! Cybercab production is coming to Giga Berlin! \n\nToday we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029! It will have the most advanced technology of any Tesla factory!  \n\nAnd we are hiring 👉 tesla.com/careers/search/?si…\n\n\n\n\n\n— https://nitter.kareem.one/AndrThie/status/2122363982627389528#m",
+      "link": "https://x.com/gigafactories/status/2122366870187851813#m",
+      "date": "Mon, 16 Nov 2026 16:31:08 GMT",
+      "tweet_id": "2122366870187851813",
+      "quoted": {
+        "user": "AndrThie",
+        "text": "If you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  \n\nWe are expanding! Cybercab production is coming to Giga Berlin! \n\nToday we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029! It will have the most advanced technology of any Tesla factory!  \n\nAnd we are hiring 👉 https://www.tesla.com/careers/search/?site=DE&query=cybercab",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXQmqFNXcAAQ10A.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXQmqFNXcAAQ10A.jpg?name=orig",
+            "local": "2122366870187851813q_0.jpg"
+          }
+        ],
+        "text_zh": "如果您想知道，我们将利用我们拥有的所有土地在 Giga Berlin 做什么……  \n\n我们正在扩张！ Cyber​​cab 生产即将来到 Giga Berlin！ \n\n今天，我们宣布首次投资约 3 亿欧元建造新的制造大楼，预计于 2029 年开始生产！它将拥有特斯拉工厂中最先进的技术！  \n\n我们正在招聘 👉 https://www.tesla.com/careers/search/?site=DE&query=cybercab"
+      },
+      "ctx_done": 1,
+      "text_zh": "Giga Berlin 正在扩张——Cybercab 生产将移至欧洲\n\n\n安德烈·泰里格 (@AndrThie)\n\n如果您想知道，我们将利用我们拥有的所有土地在 Giga Berlin 做什么……  \n\n我们正在扩张！ Cyber​​cab 生产即将来到 Giga Berlin！ \n\n今天，我们宣布首次投资约 3 亿欧元建造新的制造大楼，预计于 2029 年开始生产！它将拥有特斯拉工厂中最先进的技术！  \n\n我们正在招聘 👉 tesla.com/careers/search/?si...\n\n\n\n\n\n— https://nitter.kareem.one/AndrThie/status/2122363982627389528#m"
+    },
+    {
+      "text": "If you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  \n\nWe are expanding! Cybercab production is coming to Giga Berlin! \n\nToday we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029! It will have the most advanced technology of any Tesla factory!  \n\nAnd we are hiring 👉 tesla.com/careers/search/?si…",
+      "link": "https://x.com/AndrThie/status/2122363982627389528#m",
+      "date": "Mon, 16 Nov 2026 16:19:39 GMT",
+      "tweet_id": "2122363982627389528",
+      "ctx_done": 1,
+      "text_zh": "如果您想知道，我们将利用我们拥有的所有土地在 Giga Berlin 做什么……  \n\n我们正在扩张！ Cyber​​cab 生产即将来到 Giga Berlin！ \n\n今天，我们宣布首次投资约 3 亿欧元建造新的制造大楼，预计于 2029 年开始生产！它将拥有特斯拉工厂中最先进的技术！  \n\n我们正在招聘 👉 tesla.com/careers/search/?si..."
+    },
+    {
+      "text": "For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance.\n\nSpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized.",
+      "link": "https://x.com/RealOtisCrune/status/2122359530705358859#m",
+      "date": "Mon, 16 Nov 2026 16:01:58 GMT",
+      "tweet_id": "2122359530705358859",
+      "ctx_done": 1,
+      "text_zh": "对于许多左翼人士来说，SpaceX 存在于认知失调的奇异量子叠加中。\n\nSpaceX既是一个无耻、毫无价值的骗局，又是至关重要的国家基础设施，必须将其国有化。"
+    },
     {
       "text": "Important",
       "link": "https://x.com/elonmusk/status/2122223599079559603#m",
@@ -399,6 +630,27 @@
       },
       "ctx_done": 1,
       "text_zh": "美好的一天"
+    },
+    {
+      "text": "FSD knowledge is slowly matriculating down to the dumbest members of society.\nVideo\nVideo",
+      "link": "https://x.com/Cyber_Trailer/status/2121840684294611324#m",
+      "date": "Sun, 15 Nov 2026 05:40:15 GMT",
+      "tweet_id": "2121840684294611324",
+      "quoted": {
+        "user": "Cyber_Trailer",
+        "text": "In our next episode of ‘FSD chat time”\nVanessa wants to make it clear,\nTesla redefined luxury. \n\n🎥  vanessalegrow on TT",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121364124882112512/img/jfQYbAS9xGojC7gI.jpg",
+            "local": "2121840684294611324q_0.jpg"
+          }
+        ],
+        "text_zh": "在我们的下一集“FSD 聊天时间”中\n凡妮莎想要澄清的是，\n特斯拉重新定义了奢华。 \n\n🎥 TT 上的 VanessaleGrow"
+      },
+      "ctx_done": 1,
+      "text_zh": "FSD 知识正在慢慢地渗透到社会中最愚蠢的成员中。\n视频\n视频"
     },
     {
       "text": "In my opinion... we have achieved AGI.\n\nWithout a shadow of a doubt.\n\nThe combination of Grok Bot + Opus/Fable + Argon is a do-anything digital stack.\n\nWhatever Fable/Opus suck at, Argon is an incredible filler. And vice-versa. Grok Bot orchestrates them all.\n\nOverpowered.",
@@ -2371,290 +2623,6 @@
       "tweet_id": "2117644656469033331",
       "ctx_done": 1,
       "text_zh": "繁荣：今天早上，随着选民涌入，德克萨斯州的投票站周围排起了长队。\n\n德克萨斯人不会为了他们不关心的事情排长队。\n\n如果您排队，请留在那儿。德克萨斯州的投票开放至晚上 7 点，7 点前排队的每个人都可以投票。"
-    },
-    {
-      "text": "Democrat Nominee for U.S. Senate Abdul El-Sayed calls for amnesty for illegal aliens: “We need a pathway to citizenship for folks stuck in limbo right now. This tough guy attitude to immigration is not keeping us safe.”\n\n10 million illegal aliens entered the U.S. in just four years under Biden alone.\n\nVote Republican.\n\nVideo",
-      "link": "https://x.com/america/status/2117640446830948453#m",
-      "date": "Tue, 03 Nov 2026 15:30:01 GMT",
-      "tweet_id": "2117640446830948453",
-      "ctx_done": 1,
-      "text_zh": "美国参议院民主党候选人阿卜杜勒·赛义德呼吁对非法移民进行大赦：“我们需要为目前陷入困境的人提供一条获得公民身份的途径。这种对移民的强硬态度并不能保证我们的安全。”\n\n仅拜登执政四年内，就有 1000 万非法移民进入美国。\n\n投票共和党。\n\n视频"
-    },
-    {
-      "text": "Voted today to keep Florida red. \n\nI left the failed politics from New York in New York.",
-      "link": "https://x.com/ZeekArkham/status/2117619294813171762#m",
-      "date": "Tue, 03 Nov 2026 14:05:58 GMT",
-      "tweet_id": "2117619294813171762",
-      "ctx_done": 1,
-      "text_zh": "今天投票决定保留佛罗里达为红色。 \n\n我把失败的政治从纽约留在了纽约。"
-    },
-    {
-      "text": "Greg Abbott’s odds rise with reports of high election day turnout in Texas \n\nTexas Governor Race Per Kalshi\n🔴 Greg Abbott: 66% (+6)\n🔵 Gina Hinojosa: 34% (-6)\n\n(+/- vs poll opening)",
-      "link": "https://x.com/OpenSourceZone/status/2117618217502085518#m",
-      "date": "Tue, 03 Nov 2026 14:01:41 GMT",
-      "tweet_id": "2117618217502085518",
-      "ctx_done": 1,
-      "text_zh": "有报道称德克萨斯州选举日投票率很高，格雷格·阿博特的胜算上升 \n\n德克萨斯州州长赛佩·卡尔希\n🔴格雷格·阿伯特：66% (+6)\n🔵 吉娜·伊诺霍萨：34% (-6)\n\n（+/- 与投票开始）"
-    },
-    {
-      "text": "Starlink saves lives",
-      "link": "https://x.com/elonmusk/status/2117479668768981376#m",
-      "date": "Tue, 03 Nov 2026 04:51:08 GMT",
-      "tweet_id": "2117479668768981376",
-      "quoted": {
-        "user": "cb_doge",
-        "text": "Starlink helped save FIVE lives in the Atlantic. ♥️\n\nTheir boat, Karolina Viking, was filling with water. Its power systems were failing. Rescuers couldn’t reach them by radio or satellite phone.\n\nThe sailors shared their location with rescuers through Starlink, helping another yacht find them.\n\nAll five were rescued from their liferaft and brought safely aboard.\n\nStarlink helped turn a desperate situation into five lives saved. This is what a lifeline from space looks like.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWLAD1ca4AAkE6u.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWLAD1ca4AAkE6u.jpg?name=orig",
-            "local": "2117479668768981376q_0.jpg"
-          }
-        ],
-        "text_zh": "星链帮助拯救了大西洋上的五条生命。 ♥️\n\n他们的船卡罗琳娜维京号已经注满了水。它的电力系统出现故障。救援人员无法通过无线电或卫星电话联系到他们。\n\n水手们通过星链与救援人员分享了他们的位置，帮助另一艘游艇找到了他们。\n\n五人全部从救生筏上被救出并安全带上船。\n\n星链帮助扭转了绝望的局面，挽救了 5 条生命。这就是太空生命线的样子。"
-      },
-      "ctx_done": 1,
-      "text_zh": "星链拯救生命"
-    },
-    {
-      "text": "A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is impossible.\nAll they’ve really guaranteed is that they’ll never get a job at SpaceX.\nIt used to be:\n“You can’t build an EV that performs as well as an ICE vehicle.”\n“You can’t build EV batteries at scale.”\n“You can’t solve autonomous driving with cameras and vision alone.”\n“You can’t land and reuse an orbital-class rocket.”\n“You can’t build an electric semi.”\n“You can’t manufacture cars at that scale.”\nNow it’s:\n“You can’t build a space-based AI compute satellite.”\n“You can’t scale terrestrial compute that fast.”\n“You can’t manufacture advanced AI chips at scale.”\n“You can’t build AI models that challenge the frontier labs.”\n“You can’t build a general-purpose humanoid robot that works at scale.”\n“You can’t get to Mars.”",
-      "link": "https://x.com/pbeisel/status/2117471098820587582#m",
-      "date": "Tue, 03 Nov 2026 04:17:05 GMT",
-      "tweet_id": "2117471098820587582",
-      "quoted": {
-        "user": "pbeisel",
-        "text": "Here we have the necessary 'I am smarter than Elon' post.\n\nI wonder if Jan realizes that there are 11,184 Starlink satellites in space, 'cooling' right now through their radiative structures.\n\nNot the same heat dissipation requirements as the Starmind sats, but I think it's reasonable to say Elon knows a thing or two about satellite thermal management.\n\nJan got his impression count, though I am not sure that was his objective.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWJN6hSbQAAJEG4.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWJN6hSbQAAJEG4.jpg?name=orig",
-            "local": "2117471098820587582q_0.jpg"
-          }
-        ],
-        "text_zh": "这里我们有必要的“我比埃隆聪明”的帖子。\n\n我想知道简是否意识到太空中有 11,184 颗星链卫星，现在通过它们的辐射结构“冷却”。\n\n与 Starmind sat 的散热要求不同，但我认为可以合理地说 Elon 对卫星热管理略知一二。\n\n简得到了他的印象数，尽管我不确定那是他的目标。"
-      },
-      "ctx_done": 1,
-      "text_zh": "许多非常聪明的人都在绞尽脑汁地试图解释为什么计算卫星的散热是不可能的。\n他们真正保证的是他们永远不会在 SpaceX 找到工作。\n过去是：\n“你无法制造出性能与内燃机汽车一样好的电动汽车。”\n“你无法大规模生产电动汽车电池。”\n“仅靠摄像头和视觉无法解决自动驾驶问题。”\n“你无法着陆并重复使用轨道级火箭。”\n“你无法建造电动半挂车。”\n“你无法制造那种规模的汽车。”\n现在是：\n“你无法建造天基人工智能计算卫星。”\n“你无法那么快地扩展地面计算。”\n“你无法大规模制造先进的人工智能芯片。”\n“你无法构建挑战前沿实验室的人工智能模型。”\n“你无法建造一个大规模工作的通用人形机器人。”\n“你无法到达火星。”"
-    },
-    {
-      "text": "Space datacenters actually make sense",
-      "link": "https://x.com/MillionInt/status/2117465116858052725#m",
-      "date": "Tue, 03 Nov 2026 03:53:19 GMT",
-      "tweet_id": "2117465116858052725",
-      "quoted": {
-        "user": "eliebakouch",
-        "text": "distributed training in space ❤️‍🔥",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWIlxVZWIAE-ogF.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWIlxVZWIAE-ogF.jpg?name=orig",
-            "local": "2117465116858052725q_0.jpg"
-          }
-        ],
-        "text_zh": "太空分布式训练❤️‍🔥"
-      },
-      "ctx_done": 1,
-      "text_zh": "太空数据中心确实有意义"
-    },
-    {
-      "text": "Grok @Bot\nVideo",
-      "link": "https://x.com/elonmusk/status/2117463822332314036#m",
-      "date": "Tue, 03 Nov 2026 03:48:10 GMT",
-      "tweet_id": "2117463822332314036",
-      "quoted": {
-        "user": "dkmitc",
-        "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person. \n\nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done. \n\nMy mind is thoroughly blown!",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117374805699653632/img/LUQ7GilJPD9Df83y.jpg",
-            "local": "2117463822332314036q_0.jpg"
-          }
-        ],
-        "text_zh": "我的 Grok Bot 商店围绕着新的汽车保险。它找不到有关渐进式玻璃覆盖范围的信息，并且所有特斯拉车主都知道挡风玻璃更换可能很昂贵。当我接孩子放学时，我让 Grok Bot 打电话给 Progressive，为我获取更多信息，而无需与人交谈。 \n\n这是通话的文字记录和实际录音。个人信息被窃听，有些部分因时间原因被剪掉。虽然还有一些可以改进的地方，但它已经完成了工作。 \n\n我的心彻底被震撼了！"
-      },
-      "ctx_done": 1,
-      "text_zh": "格洛克@Bot\n视频"
-    },
-    {
-      "text": "Yeah, much easier to cool in space. \n\n~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero!\n\nSolar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels.",
-      "link": "https://x.com/elonmusk/status/2117462581371719779#m",
-      "date": "Tue, 03 Nov 2026 03:43:14 GMT",
-      "tweet_id": "2117462581371719779",
-      "reply_to": "shaunmmaguire",
-      "ctx_done": 1,
-      "text_zh": "是的，在太空中更容易冷却。 \n\n对于远离太阳的铝散热器来说，~1300 W/m^2 很容易实现，因为它大多只是看到绝对零以上~3 度的宇宙背景辐射！\n\n太阳能电池板产生约 250 W/m^2 的功率，因此您应该预计它们的面积约为散热器面积的 5 倍。卫星的大部分质量是太阳能电池板。"
-    },
-    {
-      "text": "Wow",
-      "link": "https://x.com/elonmusk/status/2117450915875852697#m",
-      "date": "Tue, 03 Nov 2026 02:56:53 GMT",
-      "tweet_id": "2117450915875852697",
-      "quoted": {
-        "user": "Rothmus",
-        "text": "31% of the EU budget is farm subsidies. \n\nDefense gets 1.2%. \nBorders get 2%.\n\nFarm handouts get 25x what defense gets and 15x what borders get. \n\nEurope faces a land war on its eastern flank and years of uncontrolled migration. The response is a giant welfare machine, while actual security is ignored.\n\nThey’re not preparing for the next decade.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWJuhxLa8AApkzE.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWJuhxLa8AApkzE.jpg?name=orig",
-            "local": "2117450915875852697q_0.jpg"
-          }
-        ],
-        "text_zh": "欧盟预算的31%是农业补贴。 \n\n防守获得1.2%。 \n边境获得2%。\n\n农场的施舍是国防的 25 倍，边境的 15 倍。 \n\n欧洲东翼面临着陆地战争和多年不受控制的移民。回应是一个巨大的福利机器，而实际的安全却被忽视了。\n\n他们没有为下一个十年做好准备。"
-      },
-      "ctx_done": 1,
-      "text_zh": "哇"
-    },
-    {
-      "text": "It’s the same thing every time:\n1. A black person has the courage to point the objective truth about slavery.\n2. Person gets personally attacked with subjective opinions - “you hate black people, you’re a coon”\n3. But that person is saying what is needed to emancipate both black people and white people from the mental slavery that black victimhood and white guilt has us all in.\nNo, black people who say the truth do not hate black people.\nSomeone who loves you will tell you what you need to hear, even if you don’t want to hear it.\nGood video from @chadojackson\nVideo",
-      "link": "https://x.com/thatsKAIZEN/status/2117436285824463021#m",
-      "date": "Tue, 03 Nov 2026 01:58:45 GMT",
-      "tweet_id": "2117436285824463021",
-      "quoted": {
-        "user": "chadojackson",
-        "text": "Full episode drops layered today.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117189804798414848/img/OJJML9bgyBeQImtV.jpg",
-            "local": "2117436285824463021q_0.jpg"
-          }
-        ],
-        "text_zh": "完整剧集今天分层发布。"
-      },
-      "ctx_done": 1,
-      "text_zh": "每次都是同样的事情：\n1. 黑人有勇气指出奴隶制的客观真相。\n2. 某人受到主观意见的人身攻击——“你讨厌黑人，你是个浣熊”\n3. 但那个人所说的是如何将黑人和白人从黑人受害者和白人罪恶感所造成的精神奴役中解放出来。\n不，说真话的黑人并不讨厌黑人。\n爱你的人会告诉你你需要听的话，即使你不想听。\n来自 @chadojackson 的好视频\n视频"
-    },
-    {
-      "text": "9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN.\nJordan takes $1.74 billion and votes against America 52-24.\nEthiopia, Somalia, Nigeria, Kenya, same thing. \nBillions of our money, then they stab us in the back every chance they get.\nLiterally funding our own opposition.",
-      "link": "https://x.com/Rothmus/status/2117431727689720217#m",
-      "date": "Tue, 03 Nov 2026 01:40:38 GMT",
-      "tweet_id": "2117431727689720217",
-      "quoted": {
-        "user": "Rothmus",
-        "text": "$329 BILLION in aid and they’re POORER than they were in 1960.\n\nThe “not enough aid” politicians and NGOs have poured more than enough cash into places with rotten institutions, elite theft, and zero accountability.\n\nAnd instead of building prosperity, your taxes subsidized failure.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWKUVq8WAAAPZ2_.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWKUVq8WAAAPZ2_.jpg?name=orig",
-            "local": "2117431727689720217q_0.jpg"
-          }
-        ],
-        "text_zh": "援助金额为 3,290 亿美元，但他们比 1960 年还穷。\n\n“援助不足”的政客和非政府组织向机构腐败、精英盗窃和零问责的地方投入了足够多的资金。\n\n你的税收非但没有创造繁荣，反而补贴了失败。"
-      },
-      "ctx_done": 1,
-      "text_zh": "美国十大外国援助接受国中有九个对我们投反对票，比在联合国投票支持我们还要多。\n约旦获得 17.4 亿美元，并以 52 比 24 投票反对美国。\n埃塞俄比亚、索马里、尼日利亚、肯尼亚，也是如此。 \n我们花了数十亿的钱，然后他们一有机会就在背后捅我们一刀。\n从字面上看是资助我们自己的反对派。"
-    },
-    {
-      "text": "Grok @Bot improvements\nVideo",
-      "link": "https://x.com/elonmusk/status/2117422818648555595#m",
-      "date": "Tue, 03 Nov 2026 01:05:14 GMT",
-      "tweet_id": "2117422818648555595",
-      "quoted": {
-        "user": "mattyp",
-        "text": "What's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/media/HWIcU5pbIAIQ15R.jpg",
-            "local": "2117422818648555595q_0.jpg"
-          }
-        ],
-        "text_zh": "Grok 机器人的新功能\n\n00:14 购物卡\n00:27 产品页面\n00:39 订单追踪\n00:53 付款\n01:33 自定义模式\n01:52 Team Bot 登录和设置\n02:09 分享并查找团队机器人\n02:51 连接器在 Slack 中询问\n03:12 保险库中的联系人\n03:31 速射"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 改进\n视频"
-    },
-    {
-      "text": "Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built:\n\n\"When we first started talking about Starship, people thought this was impossible. In fact, even within the company, we sort of thought it was impossible.\"\n\nHe says it had what he calls a \"giggle factor.\" People laughed at the idea.\n\n\"I guess I specialize in going from the impossible to the merely late. So that's my skill.\"\n\"It wasn't possible, now it's just late.\"\n@elonmusk\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2117415528449065099#m",
-      "date": "Tue, 03 Nov 2026 00:36:16 GMT",
-      "tweet_id": "2117415528449065099",
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克（Elon Musk）谈到“从不可能到迟到”，他自己对星际飞船的建造过程进行了描述：\n\n“当我们第一次开始谈论 Starship 时，人们认为这是不可能的。事实上，即使在公司内部，我们也认为这是不可能的。”\n\n他说这有他所说的“咯咯笑的因素”。人们嘲笑这个想法。\n\n“我想我的专长是从不可能到最后。所以这就是我的技能。”\n“不可能，现在已经晚了。”\n@埃隆马斯克\n\n视频"
-    },
-    {
-      "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person. \nHere is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done. \nMy mind is thoroughly blown!\nVideo",
-      "link": "https://x.com/dkmitc/status/2117375502285721792#m",
-      "date": "Mon, 02 Nov 2026 21:57:13 GMT",
-      "tweet_id": "2117375502285721792",
-      "quoted": {
-        "user": "dkmitc",
-        "text": "Using Grok Bot to make calls to Progressive for additional info before I buy new insurance.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWJfAD5WgAA99cx.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWJfAD5WgAA99cx.jpg?name=orig",
-            "local": "2117375502285721792q_0.jpg"
-          }
-        ],
-        "text_zh": "在购买新保险之前，使用 Grok Bot 致电 Progressive 以获取更多信息。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我的 Grok Bot 商店围绕着新的汽车保险。它找不到有关渐进式玻璃覆盖范围的信息，并且所有特斯拉车主都知道挡风玻璃更换可能很昂贵。当我接孩子放学时，我让 Grok Bot 打电话给 Progressive，为我获取更多信息，而无需与人交谈。 \n这是通话的文字记录和实际录音。个人信息被窃听，有些部分因时间原因被剪掉。虽然还有一些可以改进的地方，但它已经完成了工作。 \n我的心彻底被震撼了！\n视频"
-    },
-    {
-      "text": "There is nothing moderate about James Talarico.\n\nTalarico is a left-wing extremist.\n\nJust listen to him in his own words.\n\nTexas, defeat this radical and elect @KenPaxtonTX!\n\nVideo",
-      "link": "https://x.com/karolineleavitt/status/2117366124010709390#m",
-      "date": "Mon, 02 Nov 2026 21:19:57 GMT",
-      "tweet_id": "2117366124010709390",
-      "ctx_done": 1,
-      "text_zh": "詹姆斯·塔拉里科一点也不温和。\n\n塔拉里科是一名左翼极端分子。\n\n就听听他自己的话吧。\n\n德克萨斯州，击败这个激进分子并选举@KenPaxtonTX！\n\n视频"
-    },
-    {
-      "text": "This is the way",
-      "link": "https://x.com/elonmusk/status/2117360990119506022#m",
-      "date": "Mon, 02 Nov 2026 20:59:33 GMT",
-      "tweet_id": "2117360990119506022",
-      "quoted": {
-        "user": "JasonBud",
-        "text": "Treat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire.",
-        "text_zh": "像对待队友一样对待 Grok Bot，并给 @bot 一项通常会交给新员工的雄心勃勃的任务。"
-      },
-      "ctx_done": 1,
-      "text_zh": "就是这样"
-    },
-    {
-      "text": "Steven Bartlett asks James Talarico how Texas chases “equality” without chasing off figures like @ElonMusk.\n\nTalarico’s answer: Musk’s net worth is a “spiritual sickness,” and the rich should pay something closer to the 1950s rate of 90%.\n\nBARTLETT: “What would you have done to stop [Elon from becoming a trillionaire]?”\n\nTALARICO: “We at one point in this country, we had, I think it was in the 1950s, had a top marginal tax rate of 90%. I don’t think it needs to be that high, but we used to have a political system and an economic system that more fairly distributed the fruits of our labor.”\n\n“And I think the thing that really upsets people, particularly about the Elon example, is that Tesla was successful because of taxpayer dollars, right? Tesla got investment from the federal government, which is why it has been so successful.”\n\nCONTEXT: The taxpayer dollars Tesla received were a LOAN from the Department of Energy in 2010. Ford got $5,900,000,000, and Nissan got $1,400,000,000 from the same program.\n\nBut Tesla did something those automakers hadn’t. It repaid the full $465,000,000 it had borrowed, with interest, 9 years ahead of schedule, becoming the first automaker in the program to pay its loan back in full.\n\nVideo",
-      "link": "https://x.com/VigilantFox/status/2117347709510181319#m",
-      "date": "Mon, 02 Nov 2026 20:06:47 GMT",
-      "tweet_id": "2117347709510181319",
-      "ctx_done": 1,
-      "text_zh": "史蒂文·巴特利特（Steven Bartlett）问詹姆斯·塔拉里科（James Talarico），德克萨斯州如何在不追赶@ElonMusk这样的人物的情况下追求“平等”。\n\n塔拉里科的回答是：马斯克的净资产是一种“精神疾病”，富人应该支付接近 20 世纪 50 年代 90% 的水平。\n\n巴特利特：“你会采取什么措施来阻止[埃隆成为万亿富翁]？”\n\nTALARICO：“我们国家曾经有过，我认为是在 20 世纪 50 年代，最高边际税率为 90%。我认为不需要那么高，但我们曾经有一个更公平地分配我们劳动成果的政治体系和经济体系。”\n\n“我认为真正让人们感到不安的事情，特别是埃隆的例子，是特斯拉的成功是因为纳税人的钱，对吧？特斯拉得到了联邦政府的投资，这就是它如此成功的原因。”\n\n背景：特斯拉收到的纳税人资金是 2010 年能源部的贷款。福特从同一计划中获得了 59 亿美元，日产汽车获得了 14 亿美元。\n\n但特斯拉做了一些汽车制造商没有做过的事情。该公司提前 9 年全额偿还了 4.65 亿美元借款及利息，成为该计划中第一家全额偿还贷款的汽车制造商。\n\n视频"
-    },
-    {
-      "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP\nswampthevoteusa.com/texas/",
-      "link": "https://x.com/realDonaldTrump/status/2117340433294807338#m",
-      "date": "Mon, 02 Nov 2026 19:37:52 GMT",
-      "tweet_id": "2117340433294807338",
-      "ctx_done": 1,
-      "text_zh": "伟大的德克萨斯州人民，请走出去，为这些伟大的爱国者投票！他们得到了我的完全认可，永远不会让您失望！唐纳德·J·特朗普总统\nswampthevoteusa.com/texas/"
-    },
-    {
-      "text": "The single most important thing I can share with you going into Election Day is the following website: \n\nprotectthevote.com/report-fr…\n\nIf you encounter ANY problems related to voting, submit a report immediately.",
-      "link": "https://x.com/ScottPresler/status/2117280015179985030#m",
-      "date": "Mon, 02 Nov 2026 15:37:47 GMT",
-      "tweet_id": "2117280015179985030",
-      "ctx_done": 1,
-      "text_zh": "在选举日之前，我可以与您分享的最重要的事情是以下网站： \n\nprotectedthevote.com/report-fr…\n\n如果您遇到任何与投票相关的问题，请立即提交报告。"
-    },
-    {
-      "text": "Future super intelligence compute will obviously be overwhelmingly in space. \n\nBy “overwhelmingly”, I mean that it will round up to 100%!\n\nYou have to be an utter moron not to realize this.",
-      "link": "https://x.com/elonmusk/status/2117272748112154651#m",
-      "date": "Mon, 02 Nov 2026 15:08:54 GMT",
-      "tweet_id": "2117272748112154651",
-      "reply_to": "shaunmmaguire",
-      "ctx_done": 1,
-      "text_zh": "未来的超级智能计算显然将绝大多数出现在太空中。 \n\n我所说的“压倒性”是指四舍五入到 100%！\n\n你一定是个彻头彻尾的白痴才意识到这一点。"
     }
   ]
 }

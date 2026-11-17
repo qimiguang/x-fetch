@@ -1,8 +1,439 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-16T21:54:26Z",
+  "updated_at": "2026-11-17T07:26:44Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Peter Diamandis calls @elonmusk \"arguably the greatest entrepreneur of our time, perhaps the greatest entrepreneur ever.\" https://t.co/9owoyBFeHo",
+      "link": "https://x.com/teslaownersSV/status/2122590213465899189",
+      "date": "Tue Nov 17 07:18:37 +0000 2026",
+      "tweet_id": "2122590213465899189",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122590152438771712/vid/avc1/1920x1080/JYd2HVXUNM3NsxEH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122590152438771712/img/gmuPFRea0CobREDS.jpg",
+          "local": "2122590213465899189_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122590152438771712/vid/avc1/1920x1080/JYd2HVXUNM3NsxEH.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122590152438771712/img/gmuPFRea0CobREDS.jpg",
+          "local": "2122590213465899189_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Peter Diamandis 称@elonmusk“可以说是我们这个时代最伟大的企业家，也许是有史以来最伟大的企业家。” https://t.co/9owoyBFeHo"
+    },
+    {
+      "text": "If you could ask Elon Musk one question, what would it be? https://t.co/ckvphvb3nw",
+      "link": "https://x.com/teslaownersSV/status/2122589022082253149",
+      "date": "Tue Nov 17 07:13:53 +0000 2026",
+      "tweet_id": "2122589022082253149",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXTzd4aasAATFLd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXTzd4aasAATFLd.jpg?format=jpg&name=large",
+          "local": "2122589022082253149_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXTzd4aasAATFLd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXTzd4aasAATFLd.jpg?format=jpg&name=large",
+          "local": "2122589022082253149_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "如果你可以问埃隆·马斯克一个问题，你会问什么？ https://t.co/ckvphvb3nw"
+    },
+    {
+      "text": "RT @elonmusk: Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch",
+      "link": "https://x.com/teslaownersSV/status/2122588324020031998",
+      "date": "Tue Nov 17 07:11:06 +0000 2026",
+      "tweet_id": "2122588324020031998",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "\"@elonmusk really gets the best out of everybody, and that's why that company is so incredible.\"\nTom Mueller",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
+            "local": "2122588324020031998q_0.jpg"
+          }
+        ],
+        "text_zh": "“@elonmusk 确实让每个人都发挥出了最好的水平，这就是为什么这家公司如此令人难以置信。”\n汤姆·穆勒"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：很高兴在第一艘船捕获时看到@lrocket 和@HansKoenigsmann"
+    },
+    {
+      "text": "The first Starship ever caught, seen from the tower that caught it. https://t.co/SWrBhCgI1d",
+      "link": "https://x.com/teslaownersSV/status/2122588241283191060",
+      "date": "Tue Nov 17 07:10:47 +0000 2026",
+      "tweet_id": "2122588241283191060",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122588159825559552/vid/avc1/1920x1080/XKZu0FcxMTldwLDD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122588159825559552/img/zATHDr3tAxY0CF6R.jpg",
+          "local": "2122588241283191060_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122588159825559552/vid/avc1/1920x1080/XKZu0FcxMTldwLDD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122588159825559552/img/zATHDr3tAxY0CF6R.jpg",
+          "local": "2122588241283191060_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "从捕获它的塔上看到的第一艘星舰。 https://t.co/SWrBhCgI1d"
+    },
+    {
+      "text": "Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch",
+      "link": "https://x.com/elonmusk/status/2122587577274237129",
+      "date": "Tue Nov 17 07:08:08 +0000 2026",
+      "tweet_id": "2122587577274237129",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "\"@elonmusk really gets the best out of everybody, and that's why that company is so incredible.\"\nTom Mueller",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
+            "local": "2122587577274237129q_0.jpg"
+          }
+        ],
+        "text_zh": "“@elonmusk 确实让每个人都发挥出了最好的水平，这就是为什么这家公司如此令人难以置信。”\n汤姆·穆勒"
+      },
+      "ctx_done": 1,
+      "text_zh": "很高兴在第一艘船捕获时看到@lrocket 和@HansKoenigsmann"
+    },
+    {
+      "text": "RT @teslaownersSV: \"@elonmusk is probably one of the most unintelligent billionaires I have ever met or seen.\" @AOC \n\nMeanwhile, SpaceX jus…",
+      "link": "https://x.com/teslaownersSV/status/2122577575478464795",
+      "date": "Tue Nov 17 06:28:24 +0000 2026",
+      "tweet_id": "2122577575478464795",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：“@elonmusk 可能是我见过或见过的最愚蠢的亿万富翁之一。” @AOC \n\n与此同时，SpaceX 刚刚……"
+    },
+    {
+      "text": "RT @MatthewDR: NEEDS MORE LiDAR!\n\nNew Waymo Ojai self destructs its own LiDAR sensor while reversing into a train track barrier. \n\nThis wou…",
+      "link": "https://x.com/teslaownersSV/status/2122550562772423052",
+      "date": "Tue Nov 17 04:41:03 +0000 2026",
+      "tweet_id": "2122550562772423052",
+      "quoted": {
+        "user": "MatthewDR",
+        "text": "NEEDS MORE LIDAR.\n\nWaymo LiDAR",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092991662389932033/img/3m9wTMsXIVIHjPWd.jpg",
+            "local": "2122550562772423052q_0.jpg"
+          }
+        ],
+        "text_zh": "需要更多激光雷达。\n\nWaymo 激光雷达"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @MatthewDR：需要更多激光雷达！\n\n新 Waymo Ojai 在倒车撞上火车轨道障碍物时会自毁其自己的激光雷达传感器。 \n\n这将..."
+    },
+    {
+      "text": "NEEDS MORE LiDAR!\n\nNew Waymo Ojai self destructs its own LiDAR sensor while reversing into a train track barrier. \n\nThis would be front page news globally if it was a Tesla Robotaxi. https://t.co/j4potcomZM",
+      "link": "https://x.com/MatthewDR/status/2122550138564648967",
+      "date": "Tue Nov 17 04:39:22 +0000 2026",
+      "tweet_id": "2122550138564648967",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122550067500646400/vid/avc1/854x1162/P26ZLUm8b0ukhO1_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122550067500646400/img/cK3E2cIslCXGGtrG.jpg",
+          "local": "2122550138564648967_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122550067500646400/vid/avc1/854x1162/P26ZLUm8b0ukhO1_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122550067500646400/img/cK3E2cIslCXGGtrG.jpg",
+          "local": "2122550138564648967_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "MatthewDR",
+        "text": "NEEDS MORE LIDAR.\n\nWaymo LiDAR",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2092991662389932033/img/3m9wTMsXIVIHjPWd.jpg",
+            "local": "2122550138564648967q_0.jpg"
+          }
+        ],
+        "text_zh": "需要更多激光雷达。\n\nWaymo 激光雷达"
+      },
+      "ctx_done": 1,
+      "text_zh": "需要更多激光雷达！\n\n新 Waymo Ojai 在倒车撞上火车轨道障碍物时会自毁其自己的激光雷达传感器。 \n\n如果是特斯拉机器人出租车，这将成为全球头条新闻。 https://t.co/j4potcomZM"
+    },
+    {
+      "text": "Elon really likes the world “hopefully” https://t.co/M4dss3mDsZ",
+      "link": "https://x.com/teslaownersSV/status/2122533063771189412",
+      "date": "Tue Nov 17 03:31:31 +0000 2026",
+      "tweet_id": "2122533063771189412",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122532986944143360/vid/avc1/1920x1080/uUw_ZmffSLSqu9qa.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122532986944143360/img/0nI8BhJ2132fBm7D.jpg",
+          "local": "2122533063771189412_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122532986944143360/vid/avc1/1920x1080/uUw_ZmffSLSqu9qa.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122532986944143360/img/0nI8BhJ2132fBm7D.jpg",
+          "local": "2122533063771189412_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆真的“希望”喜欢这个世界 https://t.co/M4dss3mDsZ"
+    },
+    {
+      "text": "Please keep my wife Evelyn in your prayers. Received heavy news today.",
+      "link": "https://x.com/teslaownersSV/status/2122530209950048502",
+      "date": "Tue Nov 17 03:20:11 +0000 2026",
+      "tweet_id": "2122530209950048502",
+      "ctx_done": 1,
+      "text_zh": "请为我的妻子伊芙琳祈祷。今天收到重磅消息。"
+    },
+    {
+      "text": "Grok Bot read my wife's medical records, researched the latest cancer treatments and trials, found the top specialist at Stanford and drafted the emails.\n\nHours later, Stanford called us to start intake.\n\n@elonmusk, Grok is giving families like mine a path forward. 🙏",
+      "link": "https://x.com/teslaownersSV/status/2122512355062161744",
+      "date": "Tue Nov 17 02:09:14 +0000 2026",
+      "tweet_id": "2122512355062161744",
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 阅读了我妻子的医疗记录，研究了最新的癌症治疗和试验，找到了斯坦福大学的顶级专家并起草了电子邮件。\n\n几个小时后，斯坦福大学打电话给我们开始招生。\n\n@elonmusk，Grok 正在为像我这样的家庭提供一条前进的道路。 🙏"
+    },
+    {
+      "text": "You are the Media on 𝕏. \n\nElon Musk reporting live about Starship 15. https://t.co/blLmUALFRo",
+      "link": "https://x.com/teslaownersSV/status/2122508434960757099",
+      "date": "Tue Nov 17 01:53:39 +0000 2026",
+      "tweet_id": "2122508434960757099",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXSqKnBbcAAngv7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXSqKnBbcAAngv7.jpg?format=jpg&name=large",
+          "local": "2122508434960757099_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXSqKnBbcAAngv7.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXSqKnBbcAAngv7.jpg?format=jpg&name=large",
+          "local": "2122508434960757099_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "您是 𝕏 上的媒体。 \n\n埃隆·马斯克 (Elon Musk) 现场报道 Starship 15。https://t.co/blLmUALFRo"
+    },
+    {
+      "text": "\"@elonmusk is probably one of the most unintelligent billionaires I have ever met or seen.\" @AOC \n\nMeanwhile, SpaceX just caught Starship with the tower arms. https://t.co/jjiy3BpekD",
+      "link": "https://x.com/teslaownersSV/status/2122508129607032991",
+      "date": "Tue Nov 17 01:52:27 +0000 2026",
+      "tweet_id": "2122508129607032991",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122508098397253632/vid/avc1/1080x1080/7LIMtiV79lNBd0dG.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122508098397253632/img/0usKRFBd1WIfR99I.jpg",
+          "local": "2122508129607032991_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122508098397253632/vid/avc1/1080x1080/7LIMtiV79lNBd0dG.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122508098397253632/img/0usKRFBd1WIfR99I.jpg",
+          "local": "2122508129607032991_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“@elonmusk 可能是我见过或见过的最不聪明的亿万富翁之一。” @AOC \n\n与此同时，SpaceX 刚刚用塔臂抓住了 Starship。 https://t.co/jjiy3BpekD"
+    },
+    {
+      "text": "The Tesla community loves @NICKIMINAJ \n\n@diywrapclub @Tryangle https://t.co/YrYkve02BJ",
+      "link": "https://x.com/teslaownersSV/status/2122484369457881369",
+      "date": "Tue Nov 17 00:18:02 +0000 2026",
+      "tweet_id": "2122484369457881369",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122484120781815808/vid/avc1/2160x3840/FE3xFUlxx5fC8mjZ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122484120781815808/img/L_JcaOPHglgrHufh.jpg",
+          "local": "2122484369457881369_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122484120781815808/vid/avc1/2160x3840/FE3xFUlxx5fC8mjZ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122484120781815808/img/L_JcaOPHglgrHufh.jpg",
+          "local": "2122484369457881369_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New https://t.co/bJJbf3GPMI",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+            "local": "2122484369457881369q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+            "local": "2122484369457881369q_1.jpg"
+          }
+        ],
+        "text_zh": "我们在德克萨斯州 Giga 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在新 https://t.co/bJJbf3GPMI"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉社区喜欢@NICKIMINAJ \n\n@diywrapclub @Tryangle https://t.co/YrYkve02BJ"
+    },
+    {
+      "text": "RT @AndrThie: If you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  \n\nWe are expanding! Cybercab pro…",
+      "link": "https://x.com/teslaownersSV/status/2122460830293971236",
+      "date": "Mon Nov 16 22:44:30 +0000 2026",
+      "tweet_id": "2122460830293971236",
+      "ctx_done": 1,
+      "text_zh": "RT @AndrThie：如果你想知道，我们会用我们拥有的所有土地在 Giga Berlin 做什么……  \n\n我们正在扩张！网络出租车专业…"
+    },
+    {
+      "text": "Sheesh Elon Musk is a life hack",
+      "link": "https://x.com/teslaownersSV/status/2122460748752519562",
+      "date": "Mon Nov 16 22:44:10 +0000 2026",
+      "tweet_id": "2122460748752519562",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "One month of @elonmusk \n\nThe new Roadster flew, SpaceX caught Starship coming back from orbit, Cybercab opened for personal ownership, Robotaxi went 24/7, Optimus production started in Fremont, and Grok Bot hit 1.0.\n\nWhich one is the biggest deal to you? https://t.co/iMlzCbPzk9",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122126620043706368/vid/avc1/1080x1920/Ou7VogJcbNFwXG9m.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122126620043706368/img/kkOGoQ6Y27jgv1f8.jpg",
+            "local": "2122460748752519562q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122126620043706368/vid/avc1/1080x1920/Ou7VogJcbNFwXG9m.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122126620043706368/img/kkOGoQ6Y27jgv1f8.jpg",
+            "local": "2122460748752519562q_1.jpg"
+          }
+        ],
+        "text_zh": "@elonmusk 一个月 \n\n新的 Roadster 飞了起来，SpaceX 捕获了从轨道返回的 Starship，Cybercab 向个人开放，Robotaxi 实现了 24/7，Optimus 在弗里蒙特开始生产，Grok Bot 达到了 1.0。\n\n哪一项对您来说最重要？ https://t.co/iMlzCbPzk9"
+      },
+      "ctx_done": 1,
+      "text_zh": "Sheesh Elon Musk 是一个生活黑客"
+    },
+    {
+      "text": "9 years ago today, Elon unveiled Tesla Semi.\n\nNov 16, 2017, he opened with \"So, 500 mile range.\" Then: \"We designed the Tesla truck to be like a bullet. So whereas a normal diesel truck is designed more like a barn wall, this is a bullet.\"\n\nAnd the promise: \"From day one, having https://t.co/Aaip8IPHJF",
+      "link": "https://x.com/teslaownersSV/status/2122456724238213282",
+      "date": "Mon Nov 16 22:28:11 +0000 2026",
+      "tweet_id": "2122456724238213282",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122456605187002369/vid/avc1/1920x1080/CtKMDx6shO7OWSut.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122456605187002369/img/r7iaMV_J0JaQPGUN.jpg",
+          "local": "2122456724238213282_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122456605187002369/vid/avc1/1920x1080/CtKMDx6shO7OWSut.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122456605187002369/img/r7iaMV_J0JaQPGUN.jpg",
+          "local": "2122456724238213282_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "9 年前的今天，埃隆推出了 Tesla Semi。\n\n2017 年 11 月 16 日，他以“所以，500 英里范围”开场。然后：“我们将特斯拉卡车设计得像一颗子弹。因此，普通柴油卡车的设计更像是谷仓墙，而这是一颗子弹。”\n\n并承诺：“从第一天起，就拥有 https://t.co/Aaip8IPHJF"
+    },
+    {
+      "text": "In case you missed it!",
+      "link": "https://x.com/teslaownersSV/status/2122455317724479776",
+      "date": "Mon Nov 16 22:22:35 +0000 2026",
+      "tweet_id": "2122455317724479776",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New https://t.co/bJJbf3GPMI",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+            "local": "2122455317724479776q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
+            "local": "2122455317724479776q_1.jpg"
+          }
+        ],
+        "text_zh": "我们在德克萨斯州 Giga 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在新 https://t.co/bJJbf3GPMI"
+      },
+      "ctx_done": 1,
+      "text_zh": "万一你错过了！"
+    },
+    {
+      "text": "Making something useful that people enjoy is an honest day's work, and the people who do it deserve real respect.\n\n\"I have a lot of respect for makers... I have huge respect for people who make things and provide useful services. And it's an honest day's work.\" @elonmusk https://t.co/GSY2VdEFGW",
+      "link": "https://x.com/teslaownersSV/status/2122455240792490010",
+      "date": "Mon Nov 16 22:22:17 +0000 2026",
+      "tweet_id": "2122455240792490010",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122455168294006786/vid/avc1/1920x1080/X3ATBaoAyjba5iM8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122455168294006786/img/hqED_JAzW3nMs1Qx.jpg",
+          "local": "2122455240792490010_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122455168294006786/vid/avc1/1920x1080/X3ATBaoAyjba5iM8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122455168294006786/img/hqED_JAzW3nMs1Qx.jpg",
+          "local": "2122455240792490010_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "制作人们喜欢的有用的东西是诚实的一天的工作，而做这件事的人应该得到真正的尊重。\n\n“我非常尊重创客……我非常尊重那些制造东西并提供有用服务的人。这是诚实的一天工作。” @elonmusk https://t.co/GSY2VdEFGW"
+    },
+    {
+      "text": "\"@elonmusk really gets the best out of everybody, and that's why that company is so incredible.\"\nTom Mueller https://t.co/KxlldEmWnO",
+      "link": "https://x.com/teslaownersSV/status/2122452622519230711",
+      "date": "Mon Nov 16 22:11:53 +0000 2026",
+      "tweet_id": "2122452622519230711",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122452224093937664/vid/avc1/1920x1080/IfmF2GJWktLZClQi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
+          "local": "2122452622519230711_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2122452224093937664/vid/avc1/1920x1080/IfmF2GJWktLZClQi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
+          "local": "2122452622519230711_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“@elonmusk 确实让每个人都发挥出了最好的水平，这就是为什么这家公司如此令人难以置信。”\n汤姆·穆勒 https://t.co/KxlldEmWnO"
+    },
+    {
+      "text": "https://t.co/O7oFdqaHpf",
+      "link": "https://x.com/teslaownersSV/status/2122449476665172473",
+      "date": "Mon Nov 16 21:59:23 +0000 2026",
+      "tweet_id": "2122449476665172473",
+      "ctx_done": 1,
+      "text_zh": "https://t.co/O7oFdqaHpf"
+    },
     {
       "text": "“AI is a supersonic tsunami.” – @elonmusk \n\nThe world is truly not prepared. https://t.co/UcNolEyURR",
       "link": "https://x.com/teslaownersSV/status/2122429146538357171",
@@ -196,6 +627,28 @@
       ],
       "ctx_done": 1,
       "text_zh": "我们希望 SpaceX 在 GTA 6 中发射🚀 \n\n谁同意？ https://t.co/RcQYispH5s"
+    },
+    {
+      "text": "If you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  \n\nWe are expanding! Cybercab production is coming to Giga Berlin! \n\nToday we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of https://t.co/vpcDdxoqlW",
+      "link": "https://x.com/AndrThie/status/2122363982627389528",
+      "date": "Mon Nov 16 16:19:39 +0000 2026",
+      "tweet_id": "2122363982627389528",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXQmqFNXcAAQ10A.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXQmqFNXcAAQ10A.jpg?format=jpg&name=large",
+          "local": "2122363982627389528_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXQmqFNXcAAQ10A.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXQmqFNXcAAQ10A.jpg?format=jpg&name=large",
+          "local": "2122363982627389528_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "如果您想知道，我们将利用我们拥有的所有土地在 Giga Berlin 做什么……  \n\n我们正在扩张！ Cyber​​cab 生产即将来到 Giga Berlin！ \n\n今天，我们宣布对新制造大楼进行首笔投资，投资额约为 30 亿欧元，预计开业 https://t.co/vpcDdxoqlW"
     },
     {
       "text": "Starlink turned the primary school on a tiny Tongan island into its link to the rest of the world.\n\nOn Hunga, an outer island in Tonga's Vava'u group, people used to stand by the school fence hoping to catch a weak 3G signal.\n\nIn 2025 a Digital Hub opened inside the school, https://t.co/2h4Lg3gjXr",
@@ -3893,445 +4346,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "看到 @allegrajacchia 在 SF 启动𝕏 Creator 活动 https://t.co/IzHM09t8b3"
-    },
-    {
-      "text": "Starbase is the future\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121081929282081197#m",
-      "date": "Fri, 13 Nov 2026 03:25:14 GMT",
-      "tweet_id": "2121081929282081197",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121081851477708800/vid/avc1/1080x1920/-KxgsCv_InONsZ5e.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121081851477708800/img/x6xfQXvFUTU6Hzlj.jpg",
-          "local": "2121081929282081197_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121081851477708800/vid/avc1/1080x1920/-KxgsCv_InONsZ5e.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121081851477708800/img/x6xfQXvFUTU6Hzlj.jpg",
-          "local": "2121081929282081197_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Starbase 是未来 https://t.co/a3qhlhTBBT"
-    },
-    {
-      "text": "𝕏 is everywhere",
-      "link": "https://x.com/teslaownersSV/status/2121080873076617435#m",
-      "date": "Fri, 13 Nov 2026 03:21:02 GMT",
-      "tweet_id": "2121080873076617435",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW-Xz_QbMAAsSMx.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW-Xz_QbMAAsSMx.jpg?format=jpg&name=large",
-          "local": "2121080873076617435_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW-Xz_QbMAAsSMx.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW-Xz_QbMAAsSMx.jpg?format=jpg&name=large",
-          "local": "2121080873076617435_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "𝕏 无处不在 https://t.co/mT6k9jfFKC"
-    },
-    {
-      "text": "Workshop at 𝕏 Creator event in SF\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121078278568165502#m",
-      "date": "Fri, 13 Nov 2026 03:10:43 GMT",
-      "tweet_id": "2121078278568165502",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121078186637402112/vid/avc1/2160x3840/oeKE6FrJ2ycJwcjE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121078186637402112/img/_HYDXrRBCNjdKDDj.jpg",
-          "local": "2121078278568165502_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121078186637402112/vid/avc1/2160x3840/oeKE6FrJ2ycJwcjE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121078186637402112/img/_HYDXrRBCNjdKDDj.jpg",
-          "local": "2121078278568165502_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "旧金山 𝕏 创作者活动研讨会 https://t.co/EL3cFePCZM"
-    },
-    {
-      "text": "Won a Starship hat at the 𝕏 Creator event in SF\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121070907389309382#m",
-      "date": "Fri, 13 Nov 2026 02:41:26 GMT",
-      "tweet_id": "2121070907389309382",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121070889638957056/vid/avc1/720x1280/hrBv7eEJ47UHW2OF.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121070889638957056/img/Qj-obzZPouzr_-AO.jpg",
-          "local": "2121070907389309382_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121070889638957056/vid/avc1/720x1280/hrBv7eEJ47UHW2OF.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121070889638957056/img/Qj-obzZPouzr_-AO.jpg",
-          "local": "2121070907389309382_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "在 SF 的𝕏 Creator 活动中赢得了 Starship 帽子 https://t.co/c6I1dpUPHj"
-    },
-    {
-      "text": "𝕏 Creator spot is a vibe in SF\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2121068043346604238#m",
-      "date": "Fri, 13 Nov 2026 02:30:03 GMT",
-      "tweet_id": "2121068043346604238",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121067928275804160/vid/avc1/2160x3840/y2EngGPl7YDGp22l.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121067928275804160/img/iUF3O7Pgg2yAY3XJ.jpg",
-          "local": "2121068043346604238_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121067928275804160/vid/avc1/2160x3840/y2EngGPl7YDGp22l.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121067928275804160/img/iUF3O7Pgg2yAY3XJ.jpg",
-          "local": "2121068043346604238_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "𝕏 创作者现场是旧金山的一种氛围 https://t.co/mGp1ZQQwkF"
-    },
-    {
-      "text": "Made it onto Media and entertainment 𝕏 creators at the event tonight. https://t.co/zOIPLDopCb",
-      "link": "https://x.com/teslaownersSV/status/2121067412024094840",
-      "date": "Fri Nov 13 02:27:33 +0000 2026",
-      "tweet_id": "2121067412024094840",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121067345515089920/vid/avc1/2160x3840/Yw5c7gUHGC0YKcYI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121067345515089920/img/LSIiyUV56lLkUDW1.jpg",
-          "local": "2121067412024094840_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121067345515089920/vid/avc1/2160x3840/Yw5c7gUHGC0YKcYI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121067345515089920/img/LSIiyUV56lLkUDW1.jpg",
-          "local": "2121067412024094840_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "在今晚的活动中成为媒体和娱乐𝕏创作者。 https://t.co/zOIPLDopCb"
-    },
-    {
-      "text": "Met @Nate_Esparza https://t.co/AEomojn4CJ",
-      "link": "https://x.com/teslaownersSV/status/2121066734593736741",
-      "date": "Fri Nov 13 02:24:51 +0000 2026",
-      "tweet_id": "2121066734593736741",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW-K9D7asAAELor.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW-K9D7asAAELor.jpg?format=jpg&name=large",
-          "local": "2121066734593736741_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW-K9D7asAAELor.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW-K9D7asAAELor.jpg?format=jpg&name=large",
-          "local": "2121066734593736741_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "𝕏 Creator event in San Francisco https://t.co/t5a9TJyoqv",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2121066251917422592/vid/avc1/2160x3840/Ft7GO6svY6YHYhnK.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121066251917422592/img/C6tMNQPv16Wnccu1.jpg",
-            "local": "2121066734593736741q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2121066251917422592/vid/avc1/2160x3840/Ft7GO6svY6YHYhnK.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121066251917422592/img/C6tMNQPv16Wnccu1.jpg",
-            "local": "2121066734593736741q_1.jpg"
-          }
-        ],
-        "text_zh": "𝕏 旧金山创作者活动 https://t.co/t5a9TJyoqv"
-      },
-      "ctx_done": 1,
-      "text_zh": "遇见@Nate_Esparza https://t.co/AEomojn4CJ"
-    },
-    {
-      "text": "𝕏 Creator event in San Francisco https://t.co/t5a9TJyoqv",
-      "link": "https://x.com/teslaownersSV/status/2121066372470112686",
-      "date": "Fri Nov 13 02:23:25 +0000 2026",
-      "tweet_id": "2121066372470112686",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121066251917422592/vid/avc1/2160x3840/Ft7GO6svY6YHYhnK.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121066251917422592/img/C6tMNQPv16Wnccu1.jpg",
-          "local": "2121066372470112686_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121066251917422592/vid/avc1/2160x3840/Ft7GO6svY6YHYhnK.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121066251917422592/img/C6tMNQPv16Wnccu1.jpg",
-          "local": "2121066372470112686_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "𝕏 旧金山创作者活动 https://t.co/t5a9TJyoqv"
-    },
-    {
-      "text": "RT @Newsforce: FSD HITS 11 EU COUNTRIES | The Stack\n\n“It’s 6 to 7 times safer than a human driver. I’ll take my odds on that versus me gett…",
-      "link": "https://x.com/teslaownersSV/status/2121013919322182129",
-      "date": "Thu Nov 12 22:54:59 +0000 2026",
-      "tweet_id": "2121013919322182129",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
-        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：FSD 袭击 11 个欧盟国家 |堆栈\n\n“它比人类驾驶员安全 6 到 7 倍。我会赌这一点，而不是我……”"
-    },
-    {
-      "text": "FSD HITS 11 EU COUNTRIES | The Stack\n\n“It’s 6 to 7 times safer than a human driver. I’ll take my odds on that versus me getting distracted.”\n\n@teslaownersSV notes Finland just became the 11th European country to approve @Tesla FSD, says only 4 more countries are needed to cover https://t.co/NCxYW2xDxK",
-      "link": "https://x.com/Newsforce/status/2121013396732584299",
-      "date": "Thu Nov 12 22:52:54 +0000 2026",
-      "tweet_id": "2121013396732584299",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121012590692241408/vid/avc1/1320x734/QVvUzuF0gqRTjvvk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121012590692241408/img/QMOUDIIMuGFcrZTC.jpg",
-          "local": "2121013396732584299_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121012590692241408/vid/avc1/1320x734/QVvUzuF0gqRTjvvk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121012590692241408/img/QMOUDIIMuGFcrZTC.jpg",
-          "local": "2121013396732584299_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
-        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
-      },
-      "ctx_done": 1,
-      "text_zh": "FSD 袭击 11 个欧盟国家 |堆栈\n\n“它比人类驾驶员安全 6 到 7 倍。我会赌我不会分心。”\n\n@teslaownersSV 指出芬兰刚刚成为第 11 个批准 @Tesla FSD 的欧洲国家，并表示只需要另外 4 个国家即可覆盖 https://t.co/NCxYW2xDxK"
-    },
-    {
-      "text": "RT @Newsforce: CRAZY WEEK IN TECH | The Stack\n\n“We were just here last week and none of this stuff was happening.”\n\n@teslaownersSV and @Sjv…",
-      "link": "https://x.com/teslaownersSV/status/2121010367526838318",
-      "date": "Thu Nov 12 22:40:52 +0000 2026",
-      "tweet_id": "2121010367526838318",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
-        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：科技疯狂周 |堆栈\n\n“我们上周才来这里，但这些事情都没有发生。”\n\n@teslaownersSV 和 @Sjv…"
-    },
-    {
-      "text": "CRAZY WEEK IN TECH | The Stack\n\n“We were just here last week and none of this stuff was happening.”\n\n@teslaownersSV and @SjvTesla are back to break down @AnthropicAI's massive IPO, @Tesla FSD approval in Finland, 24/7 @Robotaxi service, @Cybertruck production extension, Gemini 4, https://t.co/FgIdY7gnho",
-      "link": "https://x.com/Newsforce/status/2121009974956748905",
-      "date": "Thu Nov 12 22:39:19 +0000 2026",
-      "tweet_id": "2121009974956748905",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121009672261963777/vid/avc1/1320x748/S8TeHrVF6WotX_JC.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121009672261963777/img/0xyEqrLywAsMyFbL.jpg",
-          "local": "2121009974956748905_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121009672261963777/vid/avc1/1320x748/S8TeHrVF6WotX_JC.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121009672261963777/img/0xyEqrLywAsMyFbL.jpg",
-          "local": "2121009974956748905_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://x.com/i/broadcasts/2AMPEmKnEXLWLV",
-        "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://x.com/i/broadcasts/2AMPEmKnEXLWLV"
-      },
-      "ctx_done": 1,
-      "text_zh": "科技疯狂周 |堆栈\n\n“我们上周才来这里，但这些事情都没有发生。”\n\n@teslaownersSV 和 @SjvTesla 回来分解 @AnthropicAI 的大规模 IPO、@Tesla FSD 在芬兰的批准、24/7 @Robotaxi 服务、@Cyber​​truck 生产扩展、Gemini 4、https://t.co/FgIdY7gnho"
-    },
-    {
-      "text": "RT @Newsforce: Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://t.co/H6tqZSwLue",
-      "link": "https://x.com/teslaownersSV/status/2121008985507840395",
-      "date": "Thu Nov 12 22:35:23 +0000 2026",
-      "tweet_id": "2121008985507840395",
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://t.co/H6tqZSwLue"
-    },
-    {
-      "text": "Tesla Robotaxi Goes 24/7, Anthropic's Massive IPO, Gemini, SpaceX and more | The Stack https://t.co/H6tqZSwLue",
-      "link": "https://x.com/Newsforce/status/2121007316786934095",
-      "date": "Thu Nov 12 22:28:45 +0000 2026",
-      "tweet_id": "2121007316786934095",
-      "ctx_done": 1,
-      "text_zh": "Tesla Robotaxi 24/7、Anthropic 大规模 IPO、Gemini、SpaceX 等 |堆栈 https://t.co/H6tqZSwLue"
-    },
-    {
-      "text": "Outwork everyone, then bet on yourself while you still can.\n\n\"Work hard every waking hour... If somebody else is working 50 hours and you're working 100, you'll get twice as much done in the course of a year... So I would encourage you to take risks now. Do something bold. You https://t.co/tSHcQHWCRn",
-      "link": "https://x.com/teslaownersSV/status/2120988341185528173",
-      "date": "Thu Nov 12 21:13:21 +0000 2026",
-      "tweet_id": "2120988341185528173",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120988318620082176/vid/avc1/1920x1080/swdz_FD5zJBIs81-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120988318620082176/img/ct-ySy_RSP8YxJpk.jpg",
-          "local": "2120988341185528173_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120988318620082176/vid/avc1/1920x1080/swdz_FD5zJBIs81-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120988318620082176/img/ct-ySy_RSP8YxJpk.jpg",
-          "local": "2120988341185528173_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "超越所有人，然后趁你还可以的时候押注于自己。\n\n“醒着的每个小时都要努力工作......如果别人工作 50 小时，而你工作 100 小时，你一年内完成的工作量会是原来的两倍......所以我鼓励你现在就冒险。做一些大胆的事情。你 https://t.co/tSHcQHWCRn"
-    },
-    {
-      "text": "SpaceX has officially announced more than $74 billion in planned supercomputing investment across Texas and Arizona.\n\nStarbase, Texas: $24B+ supercompute facility that makes its own electricity (no public grid draw), 3,000+ construction jobs already, 500+ permanent jobs, plus https://t.co/3SMvCDf95t",
-      "link": "https://x.com/teslaownersSV/status/2120943547126092191",
-      "date": "Thu Nov 12 18:15:21 +0000 2026",
-      "tweet_id": "2120943547126092191",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=large",
-          "local": "2120943547126092191_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8a6pAbEAAyQX1.jpg?format=jpg&name=large",
-          "local": "2120943547126092191_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "SpaceX 已正式宣布计划在德克萨斯州和亚利桑那州投资超过 740 亿美元的超级计算。\n\n德克萨斯州 Starbase：价值 24B 美元以上的超级计算设施，可自行发电（无需公共电网供电），已提供 3,000 多个建筑工作岗位，500 多个永久性工作岗位，加上 https://t.co/3SMvCDf95t"
-    },
-    {
-      "text": "NEWS: Grok Bot 1.0 is here, introducing AI teammates designed to work alongside people and teams.\n\n- Bots can now be shared across teams and collaborate through Slack and Microsoft Teams.\n- They can join meetings, coordinate tasks, send targeted messages, and learn from ongoing https://t.co/EsKEmq9wBO",
-      "link": "https://x.com/teslaownersSV/status/2120934597081084311",
-      "date": "Thu Nov 12 17:39:47 +0000 2026",
-      "tweet_id": "2120934597081084311",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=large",
-          "local": "2120934597081084311_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8Sxs4aMAAreYx.jpg?format=jpg&name=large",
-          "local": "2120934597081084311_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：Grok Bot 1.0 现已推出，引入了旨在与人员和团队一起工作的 AI 队友。\n\n- 机器人现在可以跨团队共享，并通过 Slack 和 Microsoft Teams 进行协作。\n- 他们可以参加会议、协调任务、发送有针对性的消息，并从正在进行的活动中学习 https://t.co/EsKEmq9wBO"
-    },
-    {
-      "text": "This is a Falcon 9 booster landing itself on a ship in the Pacific at night\nEight minutes earlier it was launching a mission from California https://t.co/SXnqPiqnFn",
-      "link": "https://x.com/teslaownersSV/status/2120933710170382563",
-      "date": "Thu Nov 12 17:36:16 +0000 2026",
-      "tweet_id": "2120933710170382563",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120933668353167360/vid/avc1/1080x1920/1CK_5nBK1TX7RoW5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120933668353167360/img/AxtdfYkxOK2gY2Q-.jpg",
-          "local": "2120933710170382563_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2120933668353167360/vid/avc1/1080x1920/1CK_5nBK1TX7RoW5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2120933668353167360/img/AxtdfYkxOK2gY2Q-.jpg",
-          "local": "2120933710170382563_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "这是猎鹰 9 号助推器在夜间降落在太平洋的一艘船上\n八分钟前，它从加利福尼亚州发射了一次任务 https://t.co/SXnqPiqnFn"
-    },
-    {
-      "text": "RT @teslaownersSV: https://t.co/nM06ITy8rp",
-      "link": "https://x.com/teslaownersSV/status/2120927739343458815",
-      "date": "Thu Nov 12 17:12:32 +0000 2026",
-      "tweet_id": "2120927739343458815",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：https://t.co/nM06ITy8rp"
-    },
-    {
-      "text": "NEWS: SpaceX is highlighting how its Starbase operations aim to benefit local communities while supporting environmental stewardship.\n\n- A new video showcases ongoing construction at Starbase, Texas, with heavy cranes, steel structures, and workers building out the facility.\n- https://t.co/o1UDu7UusJ",
-      "link": "https://x.com/teslaownersSV/status/2120920726874300897",
-      "date": "Thu Nov 12 16:44:40 +0000 2026",
-      "tweet_id": "2120920726874300897",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8GKWMbsAYNoMM.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8GKWMbsAYNoMM.jpg?format=jpg&name=large",
-          "local": "2120920726874300897_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8GKWMbsAYNoMM.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8GKWMbsAYNoMM.jpg?format=jpg&name=large",
-          "local": "2120920726874300897_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：SpaceX 强调其 Starbase 运营旨在造福当地社区，同时支持环境管理。\n\n- 一段新视频展示了德克萨斯州 Starbase 正在进行的建设工作，包括重型起重机、钢结构和工人正在建设该设施。\n- https://t.co/o1UDu7UusJ"
-    },
-    {
-      "text": "#NewProfilePic https://t.co/PkMcVXd4Rh",
-      "link": "https://x.com/teslaownersSV/status/2120919425969008667",
-      "date": "Thu Nov 12 16:39:30 +0000 2026",
-      "tweet_id": "2120919425969008667",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8E-oXbsAYQgo2.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8E-oXbsAYQgo2.jpg?format=jpg&name=large",
-          "local": "2120919425969008667_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HW8E-oXbsAYQgo2.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HW8E-oXbsAYQgo2.jpg?format=jpg&name=large",
-          "local": "2120919425969008667_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "#NewProfilePic https://t.co/PkMcVXd4Rh"
-    },
-    {
-      "text": "https://t.co/nM06ITy8rp",
-      "link": "https://x.com/teslaownersSV/status/2120913520350892437",
-      "date": "Thu Nov 12 16:16:02 +0000 2026",
-      "tweet_id": "2120913520350892437",
-      "ctx_done": 1,
-      "text_zh": "https://t.co/nM06ITy8rp"
     }
   ]
 }

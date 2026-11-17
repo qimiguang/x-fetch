@@ -1,8 +1,29 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-11-16T21:54:48Z",
-  "count": 55,
+  "updated_at": "2026-11-17T07:26:59Z",
+  "count": 56,
   "tweets": [
+    {
+      "text": "奔驰没有提到这套 MB. Drive Pro 的计算平台，这是有意为之。Ta 的计算平台是英伟达 Orin，稀疏算力 254 TOPS，稠密算力 127 TOPS，和特斯拉 HW3.0 平台算力基本相当，这可以反映其未来的迭代潜力。另外，尽管有 radar，但这套系统是纯视觉方案。\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMercedes has unveiled its new \"point-to-point\" driving assistance system that it will launch in the U.S. in 2027, allowing vehicles to navigate from start to destination, including through city streets.\n\nThe system can:\n• Turn at intersections\n• Stop & accelerate at traffic lights\n• Change lanes and merge into traffic\n• Navigate highway exits\n• Follow a route through dense urban traffic\n\nThe system uses 10 cameras, 5 radar sensors, 12 ultrasonic sensors. The required hardware is already installed in certain eligible 2027 vehicles.\n\nMercedes is also launching hands-free highway driving at speeds up to 85 mph.\n\nSelect California customers will get early access to both starting next month, with a broader U.S. rollout in 2027.\n\nVideo below of this new MB.DRIVE ASSIST PRO system being used in San Francisco:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2122364934160064747#m",
+      "link": "https://x.com/ChrisZheng001/status/2122571195556221197#m",
+      "date": "Tue, 17 Nov 2026 06:03:03 GMT",
+      "tweet_id": "2122571195556221197",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Mercedes has unveiled its new \"point-to-point\" driving assistance system that it will launch in the U.S. in 2027, allowing vehicles to navigate from start to destination, including through city streets.\n\nThe system can:\n• Turn at intersections\n• Stop & accelerate at traffic lights\n• Change lanes and merge into traffic\n• Navigate highway exits\n• Follow a route through dense urban traffic\n\nThe system uses 10 cameras, 5 radar sensors, 12 ultrasonic sensors. The required hardware is already installed in certain eligible 2027 vehicles.\n\nMercedes is also launching hands-free highway driving at speeds up to 85 mph.\n\nSelect California customers will get early access to both starting next month, with a broader U.S. rollout in 2027.\n\nVideo below of this new http://MB.DRIVE ASSIST PRO system being used in San Francisco:",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122363960439504896/img/XeYcTW6-Vqtj0WiY.jpg",
+            "local": "2122571195556221197q_0.jpg"
+          }
+        ],
+        "text_zh": "梅赛德斯推出了全新的“点对点”驾驶辅助系统，该系统将于 2027 年在美国推出，允许车辆从出发地导航到目的地，包括穿过城市街道。\n\n该系统可以：\n• 在十字路口转弯\n• 在红绿灯处停车和加速\n• 变更车道并汇入车流\n• 导航高速公路出口\n• 沿着拥挤的城市交通路线行驶\n\n该系统使用10个摄像头、5个雷达传感器、12个超声波传感器。所需的硬件已安装在某些符合条件的 2027 车辆中。\n\n梅赛德斯还推出了高速公路免提驾驶功能，时速可达 85 英里/小时。\n\n部分加州客户将从下个月开始抢先使用这两种服务，并于 2027 年在美国范围内推广。\n\n下面的视频展示了旧金山使用的这个新的 http://MB.DRIVE ASSIST PRO 系统："
+      },
+      "ctx_done": 1,
+      "text_zh": "奔驰没有提到这套 MB. Drive Pro 的计算平台，这是有意为之。Ta 的计算平台是英伟达 Orin，稀疏算力 254 TOPS，稠密算力 127 TOPS，和特斯拉 HW3.0 平台算力基本相当，这可以反映其未来的迭代潜力。另外，尽管有 radar，但这套系统是纯视觉方案。\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMercedes has unveiled its new \"point-to-point\" driving assistance system that it will launch in the U.S. in 2027, allowing vehicles to navigate from start to destination, including through city streets.\n\nThe system can:\n• Turn at intersections\n• Stop & accelerate at traffic lights\n• Change lanes and merge into traffic\n• Navigate highway exits\n• Follow a route through dense urban traffic\n\nThe system uses 10 cameras, 5 radar sensors, 12 ultrasonic sensors. The required hardware is already installed in certain eligible 2027 vehicles.\n\nMercedes is also launching hands-free highway driving at speeds up to 85 mph.\n\nSelect California customers will get early access to both starting next month, with a broader U.S. rollout in 2027.\n\nVideo below of this new MB.DRIVE ASSIST PRO system being used in San Francisco:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2122364934160064747#m"
+    },
     {
       "text": "这张照片我认为是星舰 15 发射最好的照片，我不记得这是谁拍的。\n\n左边这个是星舰最早的原型机 Starhopper， 2019 年 4 月在拴着安全绳索的情况下首次点火测试，飞起来离地高度不到 1 米。\n\n一群人 7 年时间可以走多远。",
       "link": "https://x.com/ChrisZheng001/status/2122210447193739699#m",
@@ -78,7 +99,7 @@
       "text_zh": "如今的 X、Grok Web 和 Grok Bot 的设计都好了很多。我有时候好奇 @benjitaylor 能否去特斯拉「交换」半年，并非用特斯拉 App 和中控设计遇到了什么问题，只是新鲜的血液本身就会带来新的体验。"
     },
     {
-      "text": "真正的朋友\n\n\nElon Musk (@elonmusk)\n\nA petition is underway to reinstate Jensen and I’m signing it too\n\n\n\n— http://nitter.mizuki.st/elonmusk/status/2121345211959804234#m",
+      "text": "真正的朋友\n\n\nElon Musk (@elonmusk)\n\nA petition is underway to reinstate Jensen and I’m signing it too\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2121345211959804234#m",
       "link": "https://x.com/ChrisZheng001/status/2121389046664728659#m",
       "date": "Fri, 13 Nov 2026 23:45:36 GMT",
       "tweet_id": "2121389046664728659",
@@ -91,7 +112,7 @@
       "text_zh": "真正的朋友\n\n\n埃隆·马斯克 (@elonmusk)\n\n一份恢复詹森职位的请愿书正在进行中，我也签署了它\n\n\n\n— https://nohup.cz/elonmusk/status/2121345211959804234#m"
     },
     {
-      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— http://nitter.mizuki.st/firstadopter/status/2121057719738073420#m",
+      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— https://nitter.kareem.one/firstadopter/status/2121057719738073420#m",
       "link": "https://x.com/ChrisZheng001/status/2121078063735968046#m",
       "date": "Fri, 13 Nov 2026 03:09:52 GMT",
       "tweet_id": "2121078063735968046",
