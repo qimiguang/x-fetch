@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-11-17T07:26:06Z",
-  "count": 110,
+  "updated_at": "2026-11-17T18:22:46Z",
+  "count": 109,
   "tweets": [
     {
       "text": "Tesla software update 2026.38.5.13 is now rolling out to ~17,380 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (100%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.13 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.13 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.13.\nteslascope.com\n\n\n\n\n— http://nitter.mizuki.st/teslascope/status/2121385910604354004#m",
@@ -1222,19 +1222,6 @@
       "date": "Sat, 17 Oct 2026 20:55:06 GMT",
       "text_zh": "罕见的评论：\n\n我们已经看到了大量关于新款@Tesla Roadster 的讨论，以及我们认为被误导的其他观点文章。也有很多错误信息。\n\n人们会将特定功能或产品如何融入我们自己的生活等同起来。然而，当我们这样做时，很容易丢弃其他人的用例和经验。\n\n大多数评论都围绕推力层和火箭层及其相关功能。在许多超级跑车和超级跑车的范围内，这些级别预计将非常昂贵。在这些价格范围内，这些车辆很少是日常驾驶，几乎仅用于在赛道或专用道路上行驶。\n\n人们期望此类车辆需要特殊考虑，包括维护和通常的每月费用。对您来说没有意义的事情，对于追踪司机来说可能完全有意义。我们已经看到无数关于下压力吸力“毫无意义”的评论，而全电动 McMurtry 已经证明该技术是一个改变行业（和科学）的突破。\n\n最后，新推出和重新设计的 Roadster 并没有因为增加推进器而延迟。埃隆大约八年前就曾公开表示，该飞行器将配备推进器，甚至在多个帖子中确认该飞行器将能够悬停。\n\n自 Roadster 诞生之初起，这种情绪就已融入到其计划中。不是事后钉上的次要概念。\n\n最终，我们欣赏@woodhaus2 的设计考虑以及它带来的许多好处。之前的迭代受到了很多人的喜爱，但我们认为重新设计是特斯拉独有的。\n\n一如既往，我们会喜欢您的想法。",
       "tweet_id": "2111561664634200553",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla software update 2026.38.5.1 is now rolling out to ~10,120 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.12 for eligible AI4 vehicles (62%) and V14.3 Lite for eligible HW3 vehicles (38%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.1.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
-      "link": "http://nitter.meowing.monster/teslascope/status/2111340223896441251#m",
-      "date": "Sat, 17 Oct 2026 06:15:10 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.5.1 现在将在过去五分钟内向另外约 10,120 辆车辆推出。\n\n此更新包括适用于符合条件的 AI4 车辆 (62%) 的全自动驾驶 V14.3.12 和适用于符合条件的 HW3 车辆 (38%) 的 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.5.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.5.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2110120446691549603#m",
-      "tweet_id": "2111340223896441251",
-      "quoted": {
-        "user": "teslascope",
-        "text": "We noticed a new Tesla software update 2026.38.5.1 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.1",
-        "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的 Tesla 软件更新 2026.38.5.1。在此处查看此更新的推出：https://teslascope.com/software/2026.38.5.1"
-      },
       "ctx_done": 1
     }
   ]
