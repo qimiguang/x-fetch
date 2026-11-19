@@ -1,8 +1,172 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-19T02:29:07Z",
+  "updated_at": "2026-11-19T11:26:51Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "We have reusable rockets, personally owned autonomous vehicles, and grand theft auto VI. the future is awesome",
+      "link": "https://x.com/wholemars/status/2123338384613769317#m",
+      "date": "Thu, 19 Nov 2026 08:51:35 GMT",
+      "tweet_id": "2123338384613769317",
+      "ctx_done": 1,
+      "text_zh": "我们有可重复使用的火箭、个人拥有的自动驾驶汽车和侠盗猎车手VI。未来是美好的"
+    },
+    {
+      "text": "I’d like to order one please",
+      "link": "https://x.com/wholemars/status/2123310662533394892#m",
+      "date": "Thu, 19 Nov 2026 07:01:25 GMT",
+      "tweet_id": "2123310662533394892",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Tesla has invited a couple more people in Texas to order Cybercabs for personal use. This is the first time we've seen the specs page:\n\n• Price: $29,990\n• 279 mile range\n• 20.1 cu ft of storage space\n• 176\" long\n• Warranty: The Basic Limited Vehicle Warranty provides coverage up to 4 years or 50,000 miles, whichever comes first. Battery and Drive Unit Limited Warranty is 8 years or 100,000 miles, whichever comes first, with minimum 70% retention of battery capacity over the warranty period.\n• Adds 123 miles of range in 15 mins at a Supercharger\n• 100W USB power delivery\n• 21\" center touchscreen",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXeA6zyXgAA9kuK.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXeA6zyXgAA9kuK.jpg?name=orig",
+            "local": "2123310662533394892q_0.jpg"
+          }
+        ],
+        "text_zh": "特斯拉已邀请更多德克萨斯州的人订购 Cyber​​cab 供个人使用。这是我们第一次看到规格页面：\n\n• 价格：29,990 美元\n• 279 英里范围\n• 20.1 立方英尺的存储空间\n• 176 英寸长\n• 保修：基本有限车辆保修提供长达 4 年或 50,000 英里的保修期，以先到者为准。电池和驱动装置有限保修期为 8 年或 100,000 英里（以先到者为准），并且在保修期内至少保留 70% 的电池容量。\n• 使用超级充电桩在 15 分钟内增加 123 英里的续航里程\n• 100W USB 供电\n• 21 英寸中央触摸屏"
+      },
+      "ctx_done": 1,
+      "text_zh": "我想订购一份"
+    },
+    {
+      "text": "Tesla Insurance is available for purchase through the app but not required… what does that mean",
+      "link": "https://x.com/wholemars/status/2123308626005885140#m",
+      "date": "Thu, 19 Nov 2026 06:53:20 GMT",
+      "tweet_id": "2123308626005885140",
+      "ctx_done": 1,
+      "text_zh": "特斯拉保险可以通过应用程序购买，但不是必需的……这是什么意思"
+    },
+    {
+      "text": "Cybercab has 279 miles of range",
+      "link": "https://x.com/wholemars/status/2123302916731879441#m",
+      "date": "Thu, 19 Nov 2026 06:30:39 GMT",
+      "tweet_id": "2123302916731879441",
+      "quoted": {
+        "user": "sa_futurist",
+        "text": "279 mi range!!!  Incredible! 🦾",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXd4juNXEAA7F-S.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXd4juNXEAA7F-S.jpg?name=orig",
+            "local": "2123302916731879441q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXd4juTXgAA9VdI.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXd4juTXgAA9VdI.jpg?name=orig",
+            "local": "2123302916731879441q_1.jpg"
+          }
+        ],
+        "text_zh": "279英里范围！！！  极好的！ 🦾"
+      },
+      "ctx_done": 1,
+      "text_zh": "Cyber​​cab 的续航里程为 279 英里"
+    },
+    {
+      "text": "Who is ready for Grand Theft Auto VI?",
+      "link": "https://x.com/wholemars/status/2123276527752417503#m",
+      "date": "Thu, 19 Nov 2026 04:45:47 GMT",
+      "tweet_id": "2123276527752417503",
+      "ctx_done": 1,
+      "text_zh": "谁准备好玩侠盗猎车手 VI 了？"
+    },
+    {
+      "text": "4 years ago\n\n\nElon Musk (@elonmusk)\n\nWe gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack.\n\nWhat have you done besides tweet?\n\n\n\n— http://nitter.mizuki.st/elonmusk/status/1577081450263769089#m",
+      "link": "https://x.com/elonmusk/status/2123272422719967730#m",
+      "date": "Thu, 19 Nov 2026 04:29:28 GMT",
+      "tweet_id": "2123272422719967730",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@Kasparov63 We gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack.\n\nWhat have you done besides tweet?",
+        "text_zh": "@Kasparov63 我们向乌克兰提供了 Starlinks，并因此损失了超过 8000 万美元，同时使 SpaceX 和我自己面临俄罗斯网络攻击的严重风险。\n\n除了推特你还做了什么？"
+      },
+      "ctx_done": 1,
+      "text_zh": "4年前\n\n\n埃隆·马斯克 (@elonmusk)\n\n我们向乌克兰提供了 Starlinks，为此损失了超过 8000 万美元，同时让 SpaceX 和我自己面临俄罗斯网络攻击的严重风险。\n\n除了推特你还做了什么？\n\n\n\n— http://nitter.mizuki.st/elonmusk/status/1577081450263769089#m"
+    },
+    {
+      "text": "1 hour",
+      "link": "https://x.com/XGaming/status/2123265355380564007#m",
+      "date": "Thu, 19 Nov 2026 04:01:23 GMT",
+      "tweet_id": "2123265355380564007",
+      "ctx_done": 1,
+      "text_zh": "1小时"
+    },
+    {
+      "text": "I’m going to become the joker",
+      "link": "https://x.com/ethanteicher/status/2123263811297661226#m",
+      "date": "Thu, 19 Nov 2026 03:55:15 GMT",
+      "tweet_id": "2123263811297661226",
+      "quoted": {
+        "user": "rcobooth",
+        "text": "this is shameful stuff for D.C.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXdNGzAXgAAm0YE.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXdNGzAXgAAm0YE.jpg?name=orig",
+            "local": "2123263811297661226q_0.jpg"
+          }
+        ],
+        "text_zh": "这对华盛顿来说是可耻的事情"
+      },
+      "ctx_done": 1,
+      "text_zh": "我要成为小丑"
+    },
+    {
+      "text": "The one time I worked for a AAA company, they wanted me to synch up the walking speed to the animation.\nThat's the complete inverse way of how to do it, so I quit.\n\nThey asked me \"if I thought I knew how to make games better than they did\". I said yes.\n\nThen I made Minecraft.",
+      "link": "https://x.com/notch/status/2123263699016466748#m",
+      "date": "Thu, 19 Nov 2026 03:54:48 GMT",
+      "tweet_id": "2123263699016466748",
+      "ctx_done": 1,
+      "text_zh": "有一次我在一家 AAA 公司工作，他们希望我将步行速度与动画同步。\n这与如何做到这一点完全相反，所以我退出了。\n\n他们问我“我是否认为我知道如何比他们做得更好”。我说是的。\n\n然后我制作了《我的世界》。"
+    },
+    {
+      "text": "hope hopes hoping (@hopes_revenge)\n\nDrive through  floodwater !  you will make it ! You will be  fine !!!  you’re  not like other people\n\n\n\n— http://nitter.mizuki.st/hopes_revenge/status/2123147439234531644#m",
+      "link": "https://x.com/paularambles/status/2123249138821411099#m",
+      "date": "Thu, 19 Nov 2026 02:56:57 GMT",
+      "tweet_id": "2123249138821411099",
+      "quoted": {
+        "user": "hopes_revenge",
+        "text": "Drive through  floodwater !  you will make it ! You will be  fine !!!  you’re  not like other people",
+        "text_zh": "开车穿过洪水！  你会成功的！你会没事的！  你和其他人不一样"
+      },
+      "ctx_done": 1,
+      "text_zh": "希望希望希望（@hopes_revenge）\n\n开车穿过洪水！  你会成功的！你会没事的！  你和其他人不一样\n\n\n\n— http://nitter.mizuki.st/hopes_revenge/status/2123147439234531644#m"
+    },
+    {
+      "text": "RT @TaylorLorenz: At the SpaceX Grok Bot creator pickleball tournament\n\nVideo",
+      "link": "https://x.com/wholemars/status/2123247439323038077#m",
+      "date": "Thu, 19 Nov 2026 02:50:12 GMT",
+      "tweet_id": "2123247439323038077",
+      "ctx_done": 1,
+      "text_zh": "RT @TaylorLorenz：在 SpaceX Grok Bot 创造者匹克球锦标赛上\n\n视频"
+    },
+    {
+      "text": "Demand must be off the charts. This is really the first quarter they’re delivering them in the US",
+      "link": "https://x.com/wholemars/status/2123239197368840520#m",
+      "date": "Thu, 19 Nov 2026 02:17:27 GMT",
+      "tweet_id": "2123239197368840520",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Tesla is still only selling the $62k Launch Series version of the Model Y L in the U.S., more than 4.5 months after its introduction. That's more than twice as long as the smaller Model Y Launch Series was available for in early 2025.\n\nModel Y L estimated what times are Feb 2027-Apr 2027 for new orders, so demand is strong. Elon said today that the Model Y L is currently Tesla's most popular model, and this is despite only one trim being available at the higher $62k price.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXc-7ouXEAAtdlP.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXc-7ouXEAAtdlP.jpg?name=orig",
+            "local": "2123239197368840520q_0.jpg"
+          }
+        ],
+        "text_zh": "在推出 4.5 个多月后，特斯拉在美国仍然只销售售价 6.2 万美元的 Model Y L 首发系列版本。这比 2025 年初推出的小型 Model Y 系列的续航时间长了一倍多。\n\nModel Y L 估计了 2027 年 2 月至 2027 年 4 月新订单的时间，因此需求强劲。 Elon 今天表示，Model Y L 是目前特斯拉最受欢迎的车型，尽管只有一款车型售价高达 6.2 万美元。"
+      },
+      "ctx_done": 1,
+      "text_zh": "需求一定会超出预期。这实际上是他们在美国交付的第一季度"
+    },
     {
       "text": "Looking for hardcore engineers to join Terafab!\nVideo",
       "link": "https://x.com/elonmusk/status/2123229344936173890#m",
@@ -120,6 +284,22 @@
       },
       "ctx_done": 1,
       "text_zh": "天哪\n\n\n亚伦帕特森（@tenderlove）\n\n大家好，Ruby 4.0.10 已经发布了！它包含一个关键的安全修复程序。立即更新！ ruby-lang.org/en/news/2026/1…\n\n链接\n\n\n\nRuby 4.0.10 发布 |红宝石\n\nRuby 4.0.10 已发布。\nruby-lang.org\n\n\n\n\n— http://nitter.mizuki.st/tenderlove/status/2123204646449934352#m"
+    },
+    {
+      "text": "It feels like the whole Elon empire is on the verge of a 10X",
+      "link": "https://x.com/Gfilche/status/2123212524502012101#m",
+      "date": "Thu, 19 Nov 2026 00:31:27 GMT",
+      "tweet_id": "2123212524502012101",
+      "ctx_done": 1,
+      "text_zh": "感觉整个埃隆帝国正处于 10 倍的边缘"
+    },
+    {
+      "text": "$SPCX: Satya Nadella says Microsoft would rent SpaceX compute.\n\nAsked at DealBook whether Musk is right about data centers in space:\n\"If he has SpaceX capacity that I can lease, I would lease it.\"",
+      "link": "https://x.com/SpaceInvestor_D/status/2123211962289176891#m",
+      "date": "Thu, 19 Nov 2026 00:29:13 GMT",
+      "tweet_id": "2123211962289176891",
+      "ctx_done": 1,
+      "text_zh": "$SPCX：萨蒂亚·纳德拉 (Satya Nadella) 表示，微软将租用 SpaceX 的计算机。\n\n在 DealBook 上被问到马斯克对于太空数据中心的看法是否正确时：\n“如果他有我可以租用的 SpaceX 产能，我就会租用。”"
     },
     {
       "text": "Responding in my personal capacity, but wanted to share my perspective..\nWe are in a great-power competition with so much at stake in the years ahead. There is no one in America who has lived during a time when the United States wasn't the preeminent superpower and, despite our imperfections, a force for good in the world. A nation that fought and helped end wars on behalf of those who couldn't, pioneered powered flight, put humanity on the Moon, led revolutions in medicine and technology that improved billions of lives and distributed hundreds of billions in aid around the world. \nI don't know how handicapping this nation by going after one of its largest employers, a company that has created wealth for millions, ushered in electric cars, rockets that don't need to be thrown away, satellites that connect the disconnected and have unquestionably saved lives, not to mention access to information that is pretty foundational to solving many of the world's problems, biotech to restore function to those with disabilities, and so much more, serves America's interests. Without the contributions of these companies, there is little question America would be behind in a competition where the outcome is far from certain and the consequence so great. \nNow, maybe I am just a bit new to this, but from the billboards, TV and digital ads, spam texts, and fundraising calls, it would seem both parties have no issue raising money, including from billionaires, with the aim of influencing and buying votes. And if that means campaign reform, maybe include dialing back the spam calls and texts..But with all that is going on in the world, and so much at stake for our country, I question the priorities reflected in the post below.",
@@ -326,6 +506,14 @@
       },
       "ctx_done": 1,
       "text_zh": "Jensen Huang 离开 NVIDIA 后的首次驱动程序更新。"
+    },
+    {
+      "text": "Hogwarts will not reinstate Harry Potter",
+      "link": "https://x.com/TimSweeneyEpic/status/2122879624745009374#m",
+      "date": "Wed, 18 Nov 2026 02:28:38 GMT",
+      "tweet_id": "2122879624745009374",
+      "ctx_done": 1,
+      "text_zh": "霍格沃茨不会恢复哈利·波特"
     },
     {
       "text": "Subscriber spaces in 90 minutes! Come join, there’s a LOT to talk about https://t.co/MYPsf9kVFf",
@@ -2361,264 +2549,6 @@
       },
       "ctx_done": 1,
       "text_zh": "对于自动驾驶汽车，我们对碰撞的定义非常宽松。走过坑洼不是车祸😂\n特斯拉已向美国国家公路交通安全管理局 (NHTSA) 报告了第一起 Cybercab 事故。\n报告称，一辆 Cyber​​cab 以大约 5 英里/小时（8 公里/小时）的速度行驶，突然驶入一个充满水的大坑，导致车辆损坏。\n就我个人而言，我认为这起事件不应该像典型的交通事故一样来看待。\n当时，车内有安全监视器，且没有乘客。\n虽然车辆遭受损坏并且该事件被正式报告为碰撞，但我认为将其视为自动驾驶开发和测试期间遇到的边缘情况更有意义。\n毕竟，识别这些不寻常的场景并从中学习是改进自动驾驶技术并使其更安全、更可靠的重要组成部分。"
-    },
-    {
-      "text": "My Tesla just drove me to Best Buy to pick up an iPhone Duo. \n\nIt was driving so smoothly and perfectly on the way there, but out or muscle memory I wanted to stop it and switch to manual to park myself… but I didn’t get a chance. \n\nBut the car just went into the parking lot, found a spot, and parked perfectly entirely on its own. Couldn’t have done it better myself. \n\nNote to self: You can just let the car park now. It usually gets it right, even in some complex multi story garages.",
-      "link": "https://nitter.kareem.one/wholemars/status/2113670021968978169#m",
-      "date": "Fri, 23 Oct 2026 16:32:57 GMT",
-      "text_zh": "我的特斯拉刚刚开车送我去百思买买一部 iPhone Duo。 \n\n它在路上行驶得如此平稳和完美，但出于肌肉记忆，我想停下来并切换到手动停车……但我没有机会。 \n\n但汽车刚刚进入停车场，找到了一个停车位，并完全自行停车。我自己不可能做得更好。 \n\n自我提醒：您现在可以把车停放了。即使在一些复杂的多层车库中，它通常也是正确的。",
-      "tweet_id": "2113670021968978169",
-      "ctx_done": 1
-    },
-    {
-      "text": "this is so cool\n\n\nKian (@kianworld)\n\ntheres a hidden fully functional ipod as a 404 page on apple music music.apple.com/us/jfdsalkfa…\n\n\n\n\n\n— https://nitter.kareem.one/kianworld/status/2113519872999301172#m",
-      "link": "https://nitter.kareem.one/wholemars/status/2113660961051840973#m",
-      "date": "Fri, 23 Oct 2026 15:56:57 GMT",
-      "text_zh": "这太酷了\n\n\n基安（@kianworld）\n\n在苹果音乐 music.apple.com/us/jfdsalkfa 上有一个隐藏的全功能 iPod 作为 404 页面…\n\n\n\n\n\n— https://nitter.kareem.one/kianworld/status/2113519872999301172#m",
-      "tweet_id": "2113660961051840973",
-      "quoted": {
-        "user": "kianworld",
-        "text": "theres a hidden fully functional ipod as a 404 page on apple music https://music.apple.com/us/jfdsalkfavsd",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVS7GxQXkAAsqta.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVS7GxQXkAAsqta.jpg?name=orig",
-            "local": "2113660961051840973q_0.jpg"
-          }
-        ],
-        "text_zh": "Apple Music 上有一个隐藏的全功能 iPod 作为 404 页面 https://music.apple.com/us/jfdsalkfavsd"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Grok*",
-      "link": "https://nitter.kareem.one/wholemars/status/2113660371680838099#m",
-      "date": "Fri, 23 Oct 2026 15:54:37 GMT",
-      "text_zh": "格罗克*",
-      "tweet_id": "2113660371680838099",
-      "reply_to": "wholemars",
-      "ctx_done": 1
-    },
-    {
-      "text": "oh my god!! new Roadster is coming to the petersen!!\nThe 1st opportunity for the public to view the new @Tesla Roadster starts on Saturday at the Petersen Museum in Los Angeles and will be on Display in Main Lobby (Saturday, October 24th - Tuesday, October 27th)!\nPer the Museums website, \n“On October 14, 2026, Tesla made history with the unveiling of Roadster in McGregor, Texas. Now, the same Roadster vehicle that shared the stage with Elon and team will be on display at the Peterson Automotive Museum for a limited four-day appearance. \nThis is the first time the public will be able to experience the vehicle up close and see how Tesla challenged the limits of design, engineering and physics to deliver an expertly crafted vehicle that can perform at levels unlike\nany other production car.”",
-      "link": "https://nitter.kareem.one/wholemars/status/2113660207293403229#m",
-      "date": "Fri, 23 Oct 2026 15:53:57 GMT",
-      "tweet_id": "2113660207293403229",
-      "quoted": {
-        "user": "JoeTegtmeyer",
-        "text": "The 1st opportunity for the public to view the new @Tesla Roadster starts on Saturday at the Petersen Museum in Los Angeles and will be on Display in Main Lobby (Saturday, October 24th - Tuesday, October 27th)!\n\nPer the Museums website, \n\n“On October 14, 2026, Tesla made history with the unveiling of Roadster in McGregor, Texas. Now, the same Roadster vehicle that shared the stage with Elon and team will be on display at the Peterson Automotive Museum for a limited four-day appearance. \n\nThis is the first time the public will be able to experience the vehicle up close and see how Tesla challenged the limits of design, engineering and physics to deliver an expertly crafted vehicle that can perform at levels unlike\nany other production car.”",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVUa1OmboAAavLL.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVUa1OmboAAavLL.jpg?name=orig",
-            "local": "2113660207293403229q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVUa1OmasAEncO6.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVUa1OmasAEncO6.jpg?name=orig",
-            "local": "2113660207293403229q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVUa1OmaYAArGXh.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVUa1OmaYAArGXh.jpg?name=orig",
-            "local": "2113660207293403229q_2.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVUa1OlbEAAmPHs.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVUa1OlbEAAmPHs.jpg?name=orig",
-            "local": "2113660207293403229q_3.jpg"
-          }
-        ],
-        "text_zh": "公众第一次有机会观看新款 @Tesla Roadster 将于周六在洛杉矶彼得森博物馆开始，并将在主大厅展出（10 月 24 日周六 - 10 月 27 日周二）！\n\n根据博物馆网站， \n\n“2026 年 10 月 14 日，特斯拉在德克萨斯州麦格雷戈推出 Roadster，创造了历史。现在，与埃隆和团队同台亮相的同一辆 Roadster 车辆将在彼得森汽车博物馆展出，为期四天。 \n\n这是公众第一次能够近距离体验该车辆，并了解特斯拉如何挑战设计、工程和物理的极限，交付一款精心制作的车辆，其性能水平与其他车辆不同。\n任何其他量产车。”"
-      },
-      "ctx_done": 1,
-      "text_zh": "我的天啊！！新的 Roadster 即将来到彼得森！\n公众第一次有机会观看新款 @Tesla Roadster 将于周六在洛杉矶彼得森博物馆开始，并将在主大厅展出（10 月 24 日周六 - 10 月 27 日周二）！\n根据博物馆网站， \n“2026 年 10 月 14 日，特斯拉在德克萨斯州麦格雷戈推出 Roadster，创造了历史。现在，与埃隆和团队同台亮相的同一辆 Roadster 车辆将在彼得森汽车博物馆展出，为期四天。 \n这是公众第一次能够近距离体验该车辆，并了解特斯拉如何挑战设计、工程和物理的极限，交付一款精心制作的车辆，其性能水平与其他车辆不同。\n任何其他量产车。”"
-    },
-    {
-      "text": "Try Cock @Bot",
-      "link": "https://nitter.kareem.one/wholemars/status/2113659980838797711#m",
-      "date": "Fri, 23 Oct 2026 15:53:03 GMT",
-      "text_zh": "试试公鸡@Bot",
-      "tweet_id": "2113659980838797711",
-      "ctx_done": 1
-    },
-    {
-      "text": "Great to see NHTSA working so hard to modernize the rules for vehicles like Cybercab. I guess now we know why they brought the turn signal sounds back\nNHTSA announced today that they are proposing new rules aimed at removing U.S. federal regulatory barriers for autonomous vehicles without steering wheels or pedals, such as @Tesla's Cybercab.\nThe proposed changes include:\n• Eliminating requirements for manually operated turn signal controls in vehicles without steering wheels or pedals: \"NHTSA has concluded that the self-canceling and manually operated control requirements in the current standard are unnecessary for turn signal operating units that are installed on vehicles without manually operated driving controls.\"\n• Allowing autonomous driving systems to control turn signals, hazard lights, and high/low beams without traditional driver-operated switches.\n• Removing certain dashboard indicator requirements for turn signals and high beams in vehicles without manual driving controls.\n• Allowing optional cyan-colored exterior lights to indicate when a vehicle is operating autonomously, with standardized requirements for their placement, brightness, and operation.\n• Eliminating outdated restrictions on vertical headlight arrangements, giving automakers greater design flexibility.\n• Allowing modern integrated headlights to be tested at manufacturer-specified voltages rather than requiring 12.8 volts.\nNHTSA says the changes are intended to eliminate unnecessary regulatory barriers, reduce costs, and enable innovation without compromising vehicle safety.",
-      "link": "https://nitter.kareem.one/wholemars/status/2113659607738720591#m",
-      "date": "Fri, 23 Oct 2026 15:51:35 GMT",
-      "tweet_id": "2113659607738720591",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "NHTSA announced today that they are proposing new rules aimed at removing U.S. federal regulatory barriers for autonomous vehicles without steering wheels or pedals, such as @Tesla's Cybercab.\n\nThe proposed changes include:\n• Eliminating requirements for manually operated turn signal controls in vehicles without steering wheels or pedals: \"NHTSA has concluded that the self-canceling and manually operated control requirements in the current standard are unnecessary for turn signal operating units that are installed on vehicles without manually operated driving controls.\"\n\n• Allowing autonomous driving systems to control turn signals, hazard lights, and high/low beams without traditional driver-operated switches.\n\n• Removing certain dashboard indicator requirements for turn signals and high beams in vehicles without manual driving controls.\n\n• Allowing optional cyan-colored exterior lights to indicate when a vehicle is operating autonomously, with standardized requirements for their placement, brightness, and operation.\n\n• Eliminating outdated restrictions on vertical headlight arrangements, giving automakers greater design flexibility.\n\n• Allowing modern integrated headlights to be tested at manufacturer-specified voltages rather than requiring 12.8 volts.\n\nNHTSA says the changes are intended to eliminate unnecessary regulatory barriers, reduce costs, and enable innovation without compromising vehicle safety.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVU0C_rW8AEhGYw.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVU0C_rW8AEhGYw.png?name=orig",
-            "local": "2113659607738720591q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVU0EC0XoAEpFZA.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVU0EC0XoAEpFZA.png?name=orig",
-            "local": "2113659607738720591q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVU0GTxWwAAdoa1.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVU0GTxWwAAdoa1.png?name=orig",
-            "local": "2113659607738720591q_2.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVU0Ii_WIAAmNIT.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVU0Ii_WIAAmNIT.jpg?name=orig",
-            "local": "2113659607738720591q_3.jpg"
-          }
-        ],
-        "text_zh": "NHTSA 今天宣布，他们正在提出新规则，旨在消除美国联邦对没有方向盘或踏板的自动驾驶汽车（例如 @Tesla 的 Cyber​​cab）的监管障碍。\n\n拟议的变更包括：\n• 消除不带方向盘或踏板的车辆中对手动操作转向信号控制装置的要求：“NHTSA 得出的结论是，对于安装在不带手动操作驾驶控制装置的车辆上的转向信号操作装置，当前标准中的自取消和手动操作控制要求是不必要的。”\n\n• 允许自动驾驶系统控制转向灯、危险警示灯和远光/近光，而无需传统的驾驶员操作开关。\n\n• 取消了没有手动驾驶控制装置的车辆中转向灯和远光灯的某些仪表板指示器要求。\n\n• 允许使用可选的青色车外灯来指示车辆何时自主运行，并对其位置、亮度和操作提出标准化要求。\n\n• 消除对垂直前灯布置的过时限制，为汽车制造商提供更大的设计灵活性。\n\n• 允许在制造商指定的电压下测试现代集成车头灯，而不是要求 12.8 伏。\n\nNHTSA 表示，这些变化旨在消除不必要的监管障碍、降低成本并在不影响车辆安全的情况下实现创新。"
-      },
-      "ctx_done": 1,
-      "text_zh": "很高兴看到 NHTSA 如此努力地使 Cyber​​cab 等车辆的规则现代化。我想现在我们知道为什么他们把转向灯声音带回来了\nNHTSA 今天宣布，他们正在提出新规则，旨在消除美国联邦对没有方向盘或踏板的自动驾驶汽车（例如 @Tesla 的 Cybercab）的监管障碍。\n拟议的变更包括：\n• 消除不带方向盘或踏板的车辆中对手动操作转向信号控制装置的要求：“NHTSA 得出的结论是，对于安装在不带手动操作驾驶控制装置的车辆上的转向信号操作装置，当前标准中的自取消和手动操作控制要求是不必要的。”\n• 允许自动驾驶系统控制转向灯、危险警示灯和远光/近光，而无需传统的驾驶员操作开关。\n• 取消了没有手动驾驶控制装置的车辆中转向灯和远光灯的某些仪表板指示器要求。\n• 允许使用可选的青色车外灯来指示车辆何时自主运行，并对其位置、亮度和操作提出标准化要求。\n• 消除对垂直前灯布置的过时限制，为汽车制造商提供更大的设计灵活性。\n• 允许在制造商指定的电压下测试现代集成车头灯，而不是要求 12.8 伏。\nNHTSA 表示，这些变化旨在消除不必要的监管障碍、降低成本并在不影响车辆安全的情况下实现创新。"
-    },
-    {
-      "text": "Hear me out",
-      "link": "https://nitter.kareem.one/DavidMKeyes/status/2113544525884899791#m",
-      "date": "Fri, 23 Oct 2026 08:14:17 GMT",
-      "text_zh": "听我说完",
-      "tweet_id": "2113544525884899791",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla is reportedly now allowing Cybercab to run on higher speed roads\n\n\nEthan McKanna (@ethanmckanna)\n\nawesome! Also looks like they increased max speed of roads cybercab takes too\n\n\n\n— https://nitter.kareem.one/ethanmckanna/status/2113508442824732691#m",
-      "link": "https://nitter.kareem.one/wholemars/status/2113514075120599509#m",
-      "date": "Fri, 23 Oct 2026 06:13:17 GMT",
-      "text_zh": "据报道，特斯拉现在允许 Cybercab 在高速道路上运行\n\n\n伊森·麦卡纳 (@ethanmckanna)\n\n太棒了！看起来他们也提高了网络出租车行驶道路的最大速度\n\n\n\n— https://nitter.kareem.one/ethanmckanna/status/2113508442824732691#m",
-      "tweet_id": "2113514075120599509",
-      "ctx_done": 1
-    },
-    {
-      "text": "The Robotaxi service is getting more useful every week\nTesla has just expanded its Robotaxi service area in Austin, Texas.\nThe new service area now includes the area around Austin’s F1 racetrack, where 400,000 people will attend the race festivities this weekend. Tesla's Robotaxi service also now runs until 1 AM (from 12 AM before)",
-      "link": "https://nitter.kareem.one/wholemars/status/2113513093565436135#m",
-      "date": "Fri, 23 Oct 2026 06:09:23 GMT",
-      "tweet_id": "2113513093565436135",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "Tesla has just expanded its Robotaxi service area in Austin, Texas.\n\nThe new service area now includes the area around Austin’s F1 racetrack, where 400,000 people will attend the race festivities this weekend. Tesla's Robotaxi service also now runs until 1 AM (from 12 AM before)",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVSxQDCW8AARgxE.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVSxQDCW8AARgxE.jpg?name=orig",
-            "local": "2113513093565436135q_0.jpg"
-          }
-        ],
-        "text_zh": "特斯拉刚刚扩大了位于德克萨斯州奥斯汀的 Robotaxi 服务区域。\n\n新的服务区域现在包括奥斯汀 F1 赛道周围的区域，本周末将有 40 万人参加那里的比赛庆祝活动。 Tesla 的 Robotaxi 服务现在也运行至凌晨 1 点（之前是凌晨 12 点）"
-      },
-      "ctx_done": 1,
-      "text_zh": "Robotaxi 服务每周都变得更加有用\n特斯拉刚刚扩大了位于德克萨斯州奥斯汀的 Robotaxi 服务区域。\n新的服务区域现在包括奥斯汀 F1 赛道周围的区域，本周末将有 40 万人参加那里的比赛庆祝活动。 Tesla 的 Robotaxi 服务现在也运行至凌晨 1 点（之前是凌晨 12 点）"
-    },
-    {
-      "text": "Tesla Robotaxi now runs until 1 AM! That’s just five hours of downtime per night. 24/7 here we come\nBreaking:\nTesla Robotaxi expands operations in Austin, TX to now 1AM \n& \nexpands Geofence to also include Circuit of the America’s racetrack where Formula 1 will be taking place this weekend",
-      "link": "https://nitter.kareem.one/wholemars/status/2113508994358841377#m",
-      "date": "Fri, 23 Oct 2026 05:53:06 GMT",
-      "tweet_id": "2113508994358841377",
-      "quoted": {
-        "user": "DavidMoss",
-        "text": "Breaking:\n\nTesla Robotaxi expands operations in Austin, TX to now 1AM \n& \nexpands Geofence to also include Circuit of the America’s racetrack where Formula 1 will be taking place this weekend",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVSt5xUaIAAw4e1.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVSt5xUaIAAw4e1.jpg?name=orig",
-            "local": "2113508994358841377q_0.jpg"
-          }
-        ],
-        "text_zh": "打破：\n\nTesla Robotaxi 将德克萨斯州奥斯汀的业务扩展至凌晨 1 点 \n& \n扩大地理围栏范围，将美国赛道纳入本周末将举行一级方程式赛车的赛道"
-      },
-      "ctx_done": 1,
-      "text_zh": "Tesla Robotaxi 现在运行至凌晨 1 点！每晚只有五个小时的停机时间。 24/7 我们来了\n打破：\nTesla Robotaxi 将德克萨斯州奥斯汀的业务扩展至凌晨 1 点 \n& \n扩展了地理围栏，将美国赛道纳入本周末将举行一级方程式赛车的赛道"
-    },
-    {
-      "text": "Grok @Bot is an incredible life & business manager. Can help you with almost anything!\nLike having a genius employee.\nYears from now, people will look back and say Grok Bot was the moment AI actually became useful for normal people.\nThis week, I just texted it and:\n1/ My kids woke up to new math and reading worksheets already printed\n2/ It planned and booked trips for my family\n3/ It ordered stuff for me from one text\n4/ It printed my return label for a shoe I own and set a reminder so I don't miss the deadline\n5/ It built a page that breaks down my net worth \nAnd look at what other people are getting it to do too:\n6/ Book a flight from start to finish\n7/ Build a website or an Etsy store\n8/ Reconcile crypto taxes that would cost hundreds\n9/ Book a Tesla tire rotation during school drop-off\n10/ Order itself a 3D-printed body and mail the parts home\nYou just text it like a person.\nI've been early on Tesla. \nI've been early on SpaceX.\nI'm telling you, I'm early on this too.\nThis is the greatest thing that has happened to AI.",
-      "link": "https://nitter.kareem.one/elonmusk/status/2113506269260595431#m",
-      "date": "Fri, 23 Oct 2026 05:42:16 GMT",
-      "tweet_id": "2113506269260595431",
-      "quoted": {
-        "user": "Teslaconomics",
-        "text": "Years from now, people will look back and say Grok Bot was the moment AI actually became useful for normal people.\n\nThis week, I just texted it and:\n\n1/ My kids woke up to new math and reading worksheets already printed\n2/ It planned and booked trips for my family\n3/ It ordered stuff for me from one text\n4/ It printed my return label for a shoe I own and set a reminder so I don't miss the deadline\n5/ It built a page that breaks down my net worth \n\nAnd look at what other people are getting it to do too:\n\n6/ Book a flight from start to finish\n7/ Build a website or an Etsy store\n8/ Reconcile crypto taxes that would cost hundreds\n9/ Book a Tesla tire rotation during school drop-off\n10/ Order itself a 3D-printed body and mail the parts home\n\nYou just text it like a person.\n\nI've been early on Tesla. \n\nI've been early on SpaceX.\n\nI'm telling you, I'm early on this too.\n\nThis is the greatest thing that has happened to AI.",
-        "text_zh": "多年后，人们回顾过去时会说，Grok Bot 是人工智能真正对普通人有用的时刻。\n\n这周，我刚刚发短信说：\n\n1/ 我的孩子们醒来后发现新的数学和阅读已经打印的工作表\n2/ 它为我的家人计划并预订了旅行\n3/ 它通过一条短信为我订购了东西\n4/ 它为我拥有的鞋子打印了退货标签，并设置了提醒，这样我就不会错过最后期限\n5/它建立了一个详细分析我的净资产的页面 \n\n看看其他人也让它做什么：\n\n6/ 从始至终预订航班\n7/ 建立网站或 Etsy 商店\n8/ 协调加密货币税将花费数百美元\n9/ 在放学期间预订 Tesla 轮胎轮换\n10/ 为自己订购 3D 打印车身并将零件邮寄回家\n\n您只需像一个人一样发短信即可。\n\n我很早就关注特斯拉了。 \n\n我很早就加入了 SpaceX。\n\n我告诉你，我也很早就在这方面了。\n\n这是人工智能发生的最伟大的事情。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 是一位令人难以置信的生活和业务经理。几乎可以帮助您解决任何问题！\n就像拥有一个天才员工一样。\n多年后，人们回顾过去时会说，Grok Bot 是人工智能真正对普通人有用的时刻。\n这周，我刚刚发短信说：\n1/ 我的孩子们醒来后发现新的数学和阅读已经打印的工作表\n2/ 它为我的家人计划并预订了旅行\n3/ 它通过一条短信为我订购了东西\n4/ 它为我拥有的鞋子打印了退货标签，并设置了提醒，这样我就不会错过最后期限\n5/它建立了一个详细分析我的净资产的页面 \n看看其他人也让它做什么：\n6/ 从始至终预订航班\n7/ 建立网站或 Etsy 商店\n8/ 协调加密货币税将花费数百美元\n9/ 在放学期间预订 Tesla 轮胎轮换\n10/ 为自己订购 3D 打印车身并将零件邮寄回家\n您只需像一个人一样发短信即可。\n我很早就关注特斯拉了。 \n我很早就加入了 SpaceX。\n我告诉你，我也很早就在这方面了。\n这是人工智能发生的最伟大的事情。"
-    },
-    {
-      "text": "The Tesla & Robotaxi iOS apps should take full advantage of the larger apps when in iPad or iPhone Duo unfolded mode\n\nJust showing the same interface smooshed in the center is lazy and not what I expect from Tesla. I’m sure they’ll finish optimizing all the screens in a future update though.",
-      "link": "https://nitter.kareem.one/wholemars/status/2113502317056295176#m",
-      "date": "Fri, 23 Oct 2026 05:26:34 GMT",
-      "text_zh": "Tesla 和 Robotaxi iOS 应用程序在 iPad 或 iPhone Duo 展开模式下应充分利用较大的应用程序\n\n仅仅显示在中心平滑的相同界面是懒惰的，这不是我对特斯拉的期望。我相信他们会在未来的更新中完成所有屏幕的优化。",
-      "tweet_id": "2113502317056295176",
-      "ctx_done": 1
-    },
-    {
-      "text": "my SSL private key btw",
-      "link": "https://nitter.kareem.one/wholemars/status/2113500017545949485#m",
-      "date": "Fri, 23 Oct 2026 05:17:25 GMT",
-      "tweet_id": "2113500017545949485",
-      "quoted": {
-        "user": "LloydLegalist",
-        "text": "America's worst nightmare: Fourida.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVQEvxjWkAAY1_s.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVQEvxjWkAAY1_s.jpg?name=orig",
-            "local": "2113500017545949485q_0.jpg"
-          }
-        ],
-        "text_zh": "美国最可怕的噩梦：弗里达。"
-      },
-      "ctx_done": 1,
-      "text_zh": "顺便说一句，我的 SSL 私钥"
-    },
-    {
-      "text": "Robotaxi App iPhone Duo support out now",
-      "link": "https://nitter.kareem.one/wholemars/status/2113496399509893298#m",
-      "date": "Fri, 23 Oct 2026 05:03:03 GMT",
-      "tweet_id": "2113496399509893298",
-      "quoted": {
-        "user": "Tesla_App_iOS",
-        "text": "New Robotaxi Version Detected: 26.10.5\nChangelog is: \nTablet and iPhone Duo supportmore",
-        "text_zh": "检测到新的 Robotaxi 版本：26.10.5\n变更日志是： \n平板电脑和 iPhone Duo 支持更多"
-      },
-      "ctx_done": 1,
-      "text_zh": "Robotaxi 应用程序 iPhone Duo 现已支持"
-    },
-    {
-      "text": "bro is going to break the counter\nVideo",
-      "link": "https://nitter.kareem.one/wholemars/status/2113479723691159606#m",
-      "date": "Fri, 23 Oct 2026 03:56:47 GMT",
-      "tweet_id": "2113479723691159606",
-      "quoted": {
-        "user": "DavidMoss",
-        "text": "Tesla FSD Screen Streak hits 33,333.3 Miles",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113477940742705152/img/gqOcEVwtjh7mzNbi.jpg",
-            "local": "2113479723691159606q_0.jpg"
-          }
-        ],
-        "text_zh": "Tesla FSD 屏幕连续行驶里程达到 33,333.3 英里"
-      },
-      "ctx_done": 1,
-      "text_zh": "兄弟要打破柜台了\n视频"
     }
   ]
 }

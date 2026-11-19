@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-11-19T02:27:31Z",
-  "count": 104,
+  "updated_at": "2026-11-19T11:23:10Z",
+  "count": 103,
   "tweets": [
     {
       "text": "Tesla software update 2026.38.5.13 is now rolling out to ~17,380 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (100%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.5.13 on Chuck's Cybertruck AWD in beautiful sunny, Florida. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.5.13 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.5.13.\nteslascope.com\n\n\n\n\n— http://nitter.mizuki.st/teslascope/status/2121385910604354004#m",
@@ -1146,27 +1146,6 @@
       "text_zh": "我们注意到 Tesla 车辆 (20XX) 上有新的 Tesla 软件更新 2026.32.200。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n这要么是工厂更新（最近交付的车辆），要么是针对欧洲的新全自动驾驶版本。\n\n链接\n\n\n\n2026.32.200 Tesla 软件发布说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026 年 32 月 200 日。\nteslascope.com",
       "tweet_id": "2112372769388175692",
       "ctx_done": 1
-    },
-    {
-      "text": "Dan reached out to us requesting for charging schedule support so his Grok @bot could prepare for a roadtrip.\nWithin two hours, we added support for setting up charging schedules and preconditioning.\nIf we're missing a specific feature, just ask!\nteslascope.com/developers/do…\nLink\nDeveloper Documentation - Teslascope\nVehicleScope developer APIs and reference documentation.\nteslascope.com",
-      "link": "http://nitter.meowing.monster/teslascope/status/2112019492507463946#m",
-      "date": "Mon, 19 Oct 2026 03:14:21 GMT",
-      "tweet_id": "2112019492507463946",
-      "quoted": {
-        "user": "DBurkland",
-        "text": "Huge thanks to Tyler at @teslascope! Yesterday I asked for charge schedule support in the Teslascope API, and it was live almost immediately. Today my Grok @Bot used it to build a road trip prep skill. I tell it when I'm leaving, and it sets the Plaid to 100%, adds a one-time charge schedule that finishes right at departure, then puts everything back to normal afterward. Tested it live and it worked perfectly.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HU8TgBQWwAIqbfu.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HU8TgBQWwAIqbfu.jpg?name=orig",
-            "local": "2112019492507463946q_0.jpg"
-          }
-        ],
-        "text_zh": "非常感谢@teslascope 的泰勒！昨天，我在 Teslascope API 中请求充电计划支持，它几乎立即就上线了。今天，我的 Grok @Bot 用它来构建公路旅行准备技能。我在离开时告诉它，它会将格子电量设置为 100%，添加在出发时完成的一次性充电计划，然后将一切恢复正常。现场测试了一下，效果非常好。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Dan 联系我们请求充电计划支持，以便他的 Grok @bot 可以为公路旅行做好准备。\n在两个小时内，我们添加了对设置充电计划和预处理的支持。\n如果我们缺少某个特定功能，请询问！\nteslascope.com/developers/do...\n链接\n开发者文档 - Teslascope\nVehicleScope 开发人员 API 和参考文档。\nteslascope.com"
     }
   ]
 }

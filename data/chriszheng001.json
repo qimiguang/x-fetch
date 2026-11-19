@@ -1,10 +1,52 @@
 {
   "username": "ChrisZheng001",
-  "updated_at": "2026-11-19T02:28:14Z",
-  "count": 56,
+  "updated_at": "2026-11-19T11:24:56Z",
+  "count": 59,
   "tweets": [
     {
-      "text": "奔驰没有提到这套 MB. Drive Pro 的计算平台，这是有意为之。Ta 的计算平台是英伟达 Orin，稀疏算力 254 TOPS，稠密算力 127 TOPS，和特斯拉 HW3.0 平台算力基本相当，这可以反映其未来的迭代潜力。另外，尽管有 radar，但这套系统是纯视觉方案。\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMercedes has unveiled its new \"point-to-point\" driving assistance system that it will launch in the U.S. in 2027, allowing vehicles to navigate from start to destination, including through city streets.\n\nThe system can:\n• Turn at intersections\n• Stop & accelerate at traffic lights\n• Change lanes and merge into traffic\n• Navigate highway exits\n• Follow a route through dense urban traffic\n\nThe system uses 10 cameras, 5 radar sensors, 12 ultrasonic sensors. The required hardware is already installed in certain eligible 2027 vehicles.\n\nMercedes is also launching hands-free highway driving at speeds up to 85 mph.\n\nSelect California customers will get early access to both starting next month, with a broader U.S. rollout in 2027.\n\nVideo below of this new MB.DRIVE ASSIST PRO system being used in San Francisco:\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2122364934160064747#m",
+      "text": "Jensen 是一个战士，战士最重要的就是战斗到最后一刻。",
+      "link": "https://x.com/ChrisZheng001/status/2122811991253455305#m",
+      "date": "Tue, 17 Nov 2026 21:59:53 GMT",
+      "tweet_id": "2122811991253455305",
+      "quoted": {
+        "user": "JensenHuang",
+        "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA.\n\nI did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. \n\nSince my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\n\nThank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours.\n\nJensen",
+        "text_zh": "在过去的一周里，我被朋友、行业同事和素未谋面的人的爱和支持所感动。感谢所有对我和我的家人表示善意的人。这对我来说意味着整个世界。\n\n53 年前我来到美国，成为美国公民是我一生中最伟大的礼物和最自豪的时刻之一。 NVIDIA 是我一生的事业。与我的同事一起将其融入到今天的公司是一种荣幸。除了美国，其他任何地方都不可能出现像 NVIDIA 这样的公司。我爱我们的国家，我也爱 NVIDIA。\n\n我没有达到 NVIDIA 每个人的期望标准，并且在个人生活中犯了严重错误。我给董事会带来了问题，对此我深感遗憾。我完全承认自己的错误，并致力于配合董事会的独立调查。 \n\n自从我离职后，NVIDIA 的员工、投资者、业务合作伙伴和客户纷纷呼吁我重新担任首席执行官。当公司应对复杂的技术、市场、竞争和地缘政治动态时，许多人继续直接与我联系。 NVIDIA 是一家百年一遇的公司。如果董事会认为我的回归符合我们的股东、员工、公司和美国的最佳利益，我将很荣幸回应这些呼吁并重新担任首席执行官。\n\n再次感谢所有分享美好祝愿的人。你们的支持让我深感荣幸。对我的家人：我爱你们，我会用我的余生来配得上你们。\n\n詹森"
+      },
+      "ctx_done": 1,
+      "text_zh": "Jensen 是一个战士，战士最重要的就是战斗到最后一刻。"
+    },
+    {
+      "text": "仍然好奇@JohnJumperSci 为什么没跟随 Demis 搞这个 Lab 反而去了 Anthropic。\nVideo",
+      "link": "https://x.com/ChrisZheng001/status/2122694744224760134#m",
+      "date": "Tue, 17 Nov 2026 14:13:59 GMT",
+      "tweet_id": "2122694744224760134",
+      "quoted": {
+        "user": "demishassabis",
+        "text": "Thrilled to announce $5B in funding for @IsomorphicLabs to accelerate our mission to Solve All Disease. We continue to make rapid progress reimagining drug design from first principles with AI to radically cut the time & cost to find new medicines. Gradually, then all at once...",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122661570731802624/img/ipBDASOeRrvKrEwk.jpg",
+            "local": "2122694744224760134q_0.jpg"
+          }
+        ],
+        "text_zh": "很高兴宣布为 @IsomorphicLabs 提供 50 亿美元资金，以加速我们解决所有疾病的使命。我们继续在利用人工智能从首要原则重新构想药物设计方面取得快速进展，以从根本上减少寻找新药物的时间和成本。渐渐地，然后突然……"
+      },
+      "ctx_done": 1,
+      "text_zh": "仍然好奇@JohnJumperSci 为什么没跟随 Demis 搞这个 Lab 反而去了 Anthropic。\nVideo"
+    },
+    {
+      "text": "忍不住把这两段视频拼了一下，你们感受下。\n\n两个看点，一是星舰二级直径 9 米，最后被「筷子」架住的结构承力销钉托住，也就是左右那两个「耳朵」，大小只有 10 cm 左右。估算一下，托住星舰二级的两个「耳朵」大约只占星舰二级飞船本体面积的 0.05%。\n\n打个比方，这真就是用两根筷子架住一栋 50 多米的大楼，架住楼的是左右两边门把手大小的凸起。\n\n这什么变态的姿态控制精度？！\n\n二是前襟翼上的摄像头，要经历在太空中几十个小时在轨的极低温考验，回来以后轨道再入承受大概 1400 ℃ 高温的加热，以及再入时的振动和气动载荷，当然摄像头本体、通信和布线都是有陶瓷热防护瓦片防护的，那也很变态了。\n\n顶尖的工程，顶尖的传播。\n\nVideo",
+      "link": "https://x.com/ChrisZheng001/status/2122638830834729436#m",
+      "date": "Tue, 17 Nov 2026 10:31:48 GMT",
+      "tweet_id": "2122638830834729436",
+      "ctx_done": 1,
+      "text_zh": "忍不住把这两段视频拼了一下，你们感受下。\n\n两个看点，一是星舰二级直径 9 米，最后被「筷子」架住的结构承力销钉托住，也就是左右那两个「耳朵」，大小只有 10 cm 左右。估算一下，托住星舰二级的两个「耳朵」大约只占星舰二级飞船本体面积的 0.05%。\n\n打个比方，这真就是用两根筷子架住一栋 50 多米的大楼，架住楼的是左右两边门把手大小的凸起。\n\n这什么变态的姿态控制精度？！\n\n二是前襟翼上的摄像头，要经历在太空中几十个小时在轨的极低温考验，回来以后轨道再入承受大概 1400 ℃ 高温的加热，以及再入时的振动和气动载荷，当然摄像头本体、通信和布线都是有陶瓷热防护瓦片防护的，那也很变态了。\n\n顶尖的工程，顶尖的传播。\n\nVideo"
+    },
+    {
+      "text": "奔驰没有提到这套 MB. Drive Pro 的计算平台，这是有意为之。Ta 的计算平台是英伟达 Orin，稀疏算力 254 TOPS，稠密算力 127 TOPS，和特斯拉 HW3.0 平台算力基本相当，这可以反映其未来的迭代潜力。另外，尽管有 radar，但这套系统是纯视觉方案。\n\n\nSawyer Merritt (@SawyerMerritt)\n\nMercedes has unveiled its new \"point-to-point\" driving assistance system that it will launch in the U.S. in 2027, allowing vehicles to navigate from start to destination, including through city streets.\n\nThe system can:\n• Turn at intersections\n• Stop & accelerate at traffic lights\n• Change lanes and merge into traffic\n• Navigate highway exits\n• Follow a route through dense urban traffic\n\nThe system uses 10 cameras, 5 radar sensors, 12 ultrasonic sensors. The required hardware is already installed in certain eligible 2027 vehicles.\n\nMercedes is also launching hands-free highway driving at speeds up to 85 mph.\n\nSelect California customers will get early access to both starting next month, with a broader U.S. rollout in 2027.\n\nVideo below of this new MB.DRIVE ASSIST PRO system being used in San Francisco:\n\nVideo\n  \n\n\n\n\n\n— http://nitter.mizuki.st/SawyerMerritt/status/2122364934160064747#m",
       "link": "https://x.com/ChrisZheng001/status/2122571195556221197#m",
       "date": "Tue, 17 Nov 2026 06:03:03 GMT",
       "tweet_id": "2122571195556221197",
@@ -99,7 +141,7 @@
       "text_zh": "如今的 X、Grok Web 和 Grok Bot 的设计都好了很多。我有时候好奇 @benjitaylor 能否去特斯拉「交换」半年，并非用特斯拉 App 和中控设计遇到了什么问题，只是新鲜的血液本身就会带来新的体验。"
     },
     {
-      "text": "真正的朋友\n\n\nElon Musk (@elonmusk)\n\nA petition is underway to reinstate Jensen and I’m signing it too\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2121345211959804234#m",
+      "text": "真正的朋友\n\n\nElon Musk (@elonmusk)\n\nA petition is underway to reinstate Jensen and I’m signing it too\n\n\n\n— http://nitter.mizuki.st/elonmusk/status/2121345211959804234#m",
       "link": "https://x.com/ChrisZheng001/status/2121389046664728659#m",
       "date": "Fri, 13 Nov 2026 23:45:36 GMT",
       "tweet_id": "2121389046664728659",
@@ -112,7 +154,7 @@
       "text_zh": "真正的朋友\n\n\n埃隆·马斯克 (@elonmusk)\n\n一份恢复詹森职位的请愿书正在进行中，我也签署了它\n\n\n\n— https://nohup.cz/elonmusk/status/2121345211959804234#m"
     },
     {
-      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— https://nitter.kareem.one/firstadopter/status/2121057719738073420#m",
+      "text": "他们赢了，他们摧毁了 Jensen，暂时。\n\n\ntae kim (@firstadopter)\n\nBloomberg: \"According to people who’ve spoken with him in recent days, Huang has already taken a penitent turn, castigating himself as a “piece of sh--.” He claims not to care what happens to himself at this point. His main concern, he says, is his wife, and not “ruining the lives” of the multiple women now romantically linked to him in the public imagination.\" bloomberg.com/news/articles/…\n\nLink\n\n\n\n‘I’m a Piece of Sh--’: Jensen Huang’s Last Hours as Nvidia CEO\n\nAt the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief...\nbloomberg.com\n\n\n\n\n— http://nitter.mizuki.st/firstadopter/status/2121057719738073420#m",
       "link": "https://x.com/ChrisZheng001/status/2121078063735968046#m",
       "date": "Fri, 13 Nov 2026 03:09:52 GMT",
       "tweet_id": "2121078063735968046",
