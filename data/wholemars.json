@@ -1,8 +1,332 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-18T20:18:12Z",
+  "updated_at": "2026-11-19T02:29:07Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Looking for hardcore engineers to join Terafab!\nVideo",
+      "link": "https://x.com/elonmusk/status/2123229344936173890#m",
+      "date": "Thu, 19 Nov 2026 01:38:18 GMT",
+      "tweet_id": "2123229344936173890",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet\n\nAnd the first test chip is targeted for June 2027\n\n\"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world\n\nWe'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process\n\nSo yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\"",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123218252184850432/img/k4kCmXS2-msZQ4Zl.jpg",
+            "local": "2123229344936173890q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 (Elon Musk) 刚刚分享了 Terafab 雄心勃勃的时间表，该建筑的设计目标是成为地球上最大的建筑，面积达 1 亿平方英尺\n\n第一个测试芯片预计于 2027 年 6 月推出\n\n“显然，Terafab 仍处于起步阶段。我们今年早些时候才宣布，但我们已经招募了一支相当强大的团队，我们正在寻找更多优秀的工程师加入 Terafab 项目。这是世界上最令人兴奋的项目之一：创建地球上最大、最先进的芯片制造设施。事实上，它将成为地球上最大的任何类型的建筑。我们预计它最终将达到 1 亿平方英尺，密集地配备世界上最先进的设备。\n\n首先我们将使用相对标准的设备，但随后我们将推动供应商生产特殊版本的机器。在某些情况下，如果我们认为必须这样做以改进生产流程，我们可能会制造自己的机器\n\n所以是的，我认为一切进展顺利。我们预计该研究工厂将投入运营，并有望在明年 6 月左右制造出我们的第一个测试芯片。所以我想我们大约还有八九个月的时间。如果一切顺利，我们将在 2028 年底实现量产，至少 Terafab 第一阶段是这样。然后我们将进入第二阶段及以后的阶段。但我认为你会看到芯片制造方式的快速演变”"
+      },
+      "ctx_done": 1,
+      "text_zh": "寻找核心工程师加入 Terafab！\n视频"
+    },
+    {
+      "text": "Elon says the merger should not count towards his comp plan goals, which include market cap targets\nVideo",
+      "link": "https://x.com/wholemars/status/2123226568483094621#m",
+      "date": "Thu, 19 Nov 2026 01:27:16 GMT",
+      "tweet_id": "2123226568483094621",
+      "quoted": {
+        "user": "TeslaHype",
+        "text": "Elon Musk says he should not get his Tesla stock options just because of a SpaceX merger, only for Tesla performance.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123196218742353920/img/3mqVq3dD0tnnzj42.jpg",
+            "local": "2123226568483094621q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克表示，他不应该仅仅因为 SpaceX 的合并而仅仅因为特斯拉的业绩而获得特斯拉的股票期权。"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆表示，此次合并不应计入他的薪酬计划目标，其中包括市值目标\n视频"
+    },
+    {
+      "text": "This means that Tesla will be filing for an autonomous vehicle testing permit imminently",
+      "link": "https://x.com/wholemars/status/2123226191951994974#m",
+      "date": "Thu, 19 Nov 2026 01:25:46 GMT",
+      "tweet_id": "2123226191951994974",
+      "quoted": {
+        "user": "Gfilche",
+        "text": "Cybercab coming to California early next year ⚡️",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXcjNnEXUAAz6Vz.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXcjNnEXUAAz6Vz.jpg?name=orig",
+            "local": "2123226191951994974q_0.jpg"
+          }
+        ],
+        "text_zh": "Cyber​​cab 将于明年初登陆加州⚡️"
+      },
+      "ctx_done": 1,
+      "text_zh": "这意味着特斯拉将立即申请自动驾驶汽车测试许可证"
+    },
+    {
+      "text": "I say let's do it\nVideo",
+      "link": "https://x.com/wholemars/status/2123220770365358500#m",
+      "date": "Thu, 19 Nov 2026 01:04:13 GMT",
+      "tweet_id": "2123220770365358500",
+      "quoted": {
+        "user": "LaceyPresley",
+        "text": "𝗦𝗽𝗮𝗰𝗲𝗫 + 𝗧𝗲𝘀𝗹𝗮: 𝗮 𝗵𝘆𝗽𝗼𝘁𝗵𝗲𝘀𝗶𝘀, 𝗻𝗼𝘁 𝗮 𝗱𝗲𝗰𝗿𝗲𝗲\n\nElon on a merger: the two companies don’t need to be together. Would they be better together? Probably.\n\nBut he isn’t treating that as a done deal. He’s testing it.\n\nDo they execute better and create more value combined than apart? Does that claim hold up under scrutiny?\n\nHe has a duty to the other shareholders and can’t drag them into a deal that’s bad for them. A Tesla vote may or may not pass.\n\nSo the shareholders decide.\n\nWhat has changed is the input: areas of convergence that didn’t exist before, and they matter more and more to the future.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123219210700480512/img/p2hQeMQBjyIQ_GV6.jpg",
+            "local": "2123220770365358500q_0.jpg"
+          }
+        ],
+        "text_zh": "𝗦𝗽𝗮𝗰𝗲𝗫 + 𝗧𝗲𝘀𝗹𝗮: 𝗮 𝗵𝘆𝗽𝗼𝘁𝗵𝗲𝘀𝗶𝘀, 𝗻𝗼𝘁 𝗮 𝗱𝗲𝗰𝗿𝗲𝗲\n\n埃隆谈合并：两家公司不需要在一起。他们在一起会更好吗？大概。\n\n但他并不认为这已成定局。他正在测试它。\n\n他们联合起来是否会比单独行动时执行得更好并创造更多价值？这种说法经得起审查吗？\n\n他对其他股东负有责任，不能让他们参与一项对他们不利的交易。特斯拉的投票可能会也可能不会通过。\n\n所以股东们决定。\n\n改变的是输入：以前不存在的融合领域，它们对未来越来越重要。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我说让我们开始吧\n视频"
+    },
+    {
+      "text": "Yes\nVideo",
+      "link": "https://x.com/elonmusk/status/2123220589657944265#m",
+      "date": "Thu, 19 Nov 2026 01:03:30 GMT",
+      "tweet_id": "2123220589657944265",
+      "quoted": {
+        "user": "KanekoaTheGreat",
+        "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:\n\n“There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.”\n\n“When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.”\n\n“If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?”\n\n“Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.”\n\n“From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.”\n\n“In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.”\n\n“Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve been pressed relentlessly to do that, which I think is outrageous.”\n\n“Those are the rules that have been in place since the beginning, for years. Now people pressure me to change it, but I’m not changing it.”",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123201619491995648/img/FaJZ5nsceNLQtb3a.jpg",
+            "local": "2123220589657944265q_0.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克揭示了星链如何拯救乌克兰免于崩溃，并澄清了他扼杀乌克兰的说法：\n\n“没有人比我对乌克兰的帮助更多。我确保星链在乌克兰，在俄罗斯入侵之前预先部署。”\n\n“当俄罗斯入侵时，他们禁用了所有通信、所有手机信号塔、所有光缆和所有卫星通信系统。有一个系统他们无法禁用，那就是星链。”\n\n“如果他们没有星链，他们的整条防线就会崩溃，因为他们没有通讯系统，俄罗斯就会赢。现在，这对你来说听起来像是亲俄行动吗？”\n\n“即使到了今天，星链仍然为乌克兰军队和更广泛的乌克兰提供通信骨干。如果我们关闭星链，整个乌克兰战线将立即崩溃。”\n\n“从一开始，我就说过，星链是一个民用系统。它并不是用于致命的进攻性无人机袭击。如果你想做到这一点，你需要做星盾，这是一个由美国政府控制的独立系统。”\n\n“在星链系统中，有一个速度限制。这个速度限制是乌克兰最快的道路限速速度，我认为大约是每小时 80 英里。”\n\n“不要要求我作为一个私人做出杀戮决定，这些决定有时会导致无辜者的生命损失，而不仅仅是士兵的生命。这不是我的立场。但我们却被无情地逼着这么做，我认为这是令人愤慨的。”\n\n“这些规则从一开始就已经存在多年了。现在人们迫使我改变它，但我不会改变它。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "是的\n视频"
+    },
+    {
+      "text": "oh god\n\n\nAaron Patterson (@tenderlove)\n\nHey everyone, Ruby 4.0.10 is out! It contains a critical security fix. Update immediately! ruby-lang.org/en/news/2026/1…\n\nLink\n\n\n\nRuby 4.0.10 Released | Ruby\n\nRuby 4.0.10 has been released.\nruby-lang.org\n\n\n\n\n— http://nitter.mizuki.st/tenderlove/status/2123204646449934352#m",
+      "link": "https://x.com/wholemars/status/2123216275082252444#m",
+      "date": "Thu, 19 Nov 2026 00:46:22 GMT",
+      "tweet_id": "2123216275082252444",
+      "quoted": {
+        "user": "tenderlove",
+        "text": "Hey everyone, Ruby 4.0.10 is out! It contains a critical security fix. Update immediately! https://www.ruby-lang.org/en/news/2026/11/18/ruby-4-0-10-released/",
+        "text_zh": "大家好，Ruby 4.0.10 已经发布了！它包含一个关键的安全修复程序。立即更新！ https://www.ruby-lang.org/en/news/2026/11/18/ruby-4-0-10-released/"
+      },
+      "ctx_done": 1,
+      "text_zh": "天哪\n\n\n亚伦帕特森（@tenderlove）\n\n大家好，Ruby 4.0.10 已经发布了！它包含一个关键的安全修复程序。立即更新！ ruby-lang.org/en/news/2026/1…\n\n链接\n\n\n\nRuby 4.0.10 发布 |红宝石\n\nRuby 4.0.10 已发布。\nruby-lang.org\n\n\n\n\n— http://nitter.mizuki.st/tenderlove/status/2123204646449934352#m"
+    },
+    {
+      "text": "Responding in my personal capacity, but wanted to share my perspective..\nWe are in a great-power competition with so much at stake in the years ahead. There is no one in America who has lived during a time when the United States wasn't the preeminent superpower and, despite our imperfections, a force for good in the world. A nation that fought and helped end wars on behalf of those who couldn't, pioneered powered flight, put humanity on the Moon, led revolutions in medicine and technology that improved billions of lives and distributed hundreds of billions in aid around the world. \nI don't know how handicapping this nation by going after one of its largest employers, a company that has created wealth for millions, ushered in electric cars, rockets that don't need to be thrown away, satellites that connect the disconnected and have unquestionably saved lives, not to mention access to information that is pretty foundational to solving many of the world's problems, biotech to restore function to those with disabilities, and so much more, serves America's interests. Without the contributions of these companies, there is little question America would be behind in a competition where the outcome is far from certain and the consequence so great. \nNow, maybe I am just a bit new to this, but from the billboards, TV and digital ads, spam texts, and fundraising calls, it would seem both parties have no issue raising money, including from billionaires, with the aim of influencing and buying votes. And if that means campaign reform, maybe include dialing back the spam calls and texts..But with all that is going on in the world, and so much at stake for our country, I question the priorities reflected in the post below.",
+      "link": "https://x.com/rookisaacman/status/2123211441620517132#m",
+      "date": "Thu, 19 Nov 2026 00:27:09 GMT",
+      "tweet_id": "2123211441620517132",
+      "quoted": {
+        "user": "SenAlexPadilla",
+        "text": "We’re going to do everything we can to make Elon’s worst nightmare come true next Congress: a democracy where the ultra-wealthy can’t buy elections.",
+        "text_zh": "我们将尽我们所能，让埃隆最可怕的噩梦在下届国会成为现实：一个超级富豪无法收买选举的民主国家。"
+      },
+      "ctx_done": 1,
+      "text_zh": "以我个人的身份回答，但想分享我的观点。\n我们正处于一场大国竞争之中，未来几年事关重大。在美国，没有人生活在美国不是卓越的超级大国的时代，尽管我们有不完美之处，但美国却是世界上一股向善的力量。这个国家代表那些无法战争的人进行战斗并帮助结束战争，开创了动力飞行的先河，将人类送上了月球，领导了医学和技术革命，改善了数十亿人的生活，并向世界各地分发了数千亿美元的援助。 \n我不知道通过追捕这个国家最大的雇主之一，这家公司为数百万人创造了财富，带来了电动汽车、不需要扔掉的火箭、连接失联者并毫无疑问拯救了生命的卫星，更不用说获取对解决许多世界问题至关重要的信息、帮助残疾人恢复功能的生物技术等等，这对这个国家来说是多么的不利，才符合美国的利益。如果没有这些公司的贡献，毫无疑问美国会在一场结果远未确定且后果如此巨大的竞争中落后。 \n现在，也许我对此有点陌生，但从广告牌、电视和数字广告、垃圾短信和筹款电话来看，双方似乎都没有问题筹集资金，包括从亿万富翁那里筹集资金，目的是影响和购买选票。如果这意味着竞选改革，也许包括回拨垃圾电话和短信……但考虑到世界上正在发生的一切，以及我们国家的利害关系如此之大，我对下面帖子中反映的优先事项提出质疑。"
+    },
+    {
+      "text": "the current state of SF reminding me of disneyland's water shows rn\n\nVideo",
+      "link": "https://x.com/BurritoCade/status/2123209828969693552#m",
+      "date": "Thu, 19 Nov 2026 00:20:45 GMT",
+      "tweet_id": "2123209828969693552",
+      "ctx_done": 1,
+      "text_zh": "SF的现状让我想起迪士尼乐园的水上表演 rn\n\n视频"
+    },
+    {
+      "text": "good analogy",
+      "link": "https://x.com/wholemars/status/2123206598445396166#m",
+      "date": "Thu, 19 Nov 2026 00:07:54 GMT",
+      "tweet_id": "2123206598445396166",
+      "quoted": {
+        "user": "Kalshi",
+        "text": "JUST IN: Elon Musk compares Jensen Huang's removal from Nvidia to kicking Michael Jordan off the Chicago Bulls in the middle of a winning streak",
+        "text_zh": "上一篇：埃隆·马斯克将黄仁勋从英伟达开除与在连胜中将迈克尔·乔丹踢出芝加哥公牛队进行了比较"
+      },
+      "ctx_done": 1,
+      "text_zh": "很好的比喻"
+    },
+    {
+      "text": "Elon says it is unlikely Anthropic will cancel their compute contracts with @SpaceX, despite reports saying otherwise:\n\n\"When I talk to Anthropic, they tell me it's extremely likely they will continue to rent compute from SpaceX, and in fact that they want significantly more.\"",
+      "link": "https://x.com/SawyerMerritt/status/2123202065832739175#m",
+      "date": "Wed, 18 Nov 2026 23:49:54 GMT",
+      "tweet_id": "2123202065832739175",
+      "ctx_done": 1,
+      "text_zh": "Elon 表示 Anthropic 不太可能取消与 @SpaceX 的计算合同，尽管有报道称：\n\n“当我与 Anthropic 交谈时，他们告诉我，他们极有可能会继续从 SpaceX 租用计算机，事实上，他们想要更多。”"
+    },
+    {
+      "text": "An autonomous version of the Model Y that seats 6 or 7 😮\nVideo",
+      "link": "https://x.com/wholemars/status/2123201698563072351#m",
+      "date": "Wed, 18 Nov 2026 23:48:26 GMT",
+      "tweet_id": "2123201698563072351",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Elon says @Tesla will introduce a fully autonomous version of the Model Y with no steering wheel or pedals:\n\n\"It's going to make sense for us to make cars that can seat different amounts of people. We still need autonomous vehicles if you've got 4 or 6, or a whole family. What we plan to do is have an autonomous version of the Model Y that won't have steering wheels or pedals and would be good for transporting groups of 6 or 7 people.\"\n\n(via NYT Dealbook Summit today)",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123197511951159296/img/6uPmJ1mGNYmucUp3.jpg",
+            "local": "2123201698563072351q_0.jpg"
+          }
+        ],
+        "text_zh": "Elon 表示@Tesla 将推出一款没有方向盘或踏板的完全自动驾驶版本的 Model Y：\n\n“对我们来说，制造可容纳不同人数的汽车是有意义的。如果你有 4 或 6 人，或者整个家庭，我们仍然需要自动驾驶汽车。我们计划做的是 Model Y 的自动驾驶版本，它没有方向盘或踏板，适合运输 6 或 7 人的团体。”\n\n（今天来自纽约时报 Dealbook 峰会）"
+      },
+      "ctx_done": 1,
+      "text_zh": "Model Y 的自动驾驶版本，可容纳 6 或 7 人座 😮\n视频"
+    },
+    {
+      "text": "Wow\nVideo",
+      "link": "https://x.com/wholemars/status/2123200398995623939#m",
+      "date": "Wed, 18 Nov 2026 23:43:16 GMT",
+      "tweet_id": "2123200398995623939",
+      "quoted": {
+        "user": "SawyerMerritt",
+        "text": "Elon on the @Tesla Model Y L:\n\n\"It's certainly our most popular car. We should just change all of the Model Y production to the Y L because it's what most people seem to want.\"",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123196031525322752/img/3eM6nL_h5c3JfFj4.jpg",
+            "local": "2123200398995623939q_0.jpg"
+          }
+        ],
+        "text_zh": "Elon 谈@Tesla Model Y L：\n\n“这当然是我们最受欢迎的汽车。我们应该将所有 Model Y 生产改为 Y L，因为它似乎是大多数人想要的。”"
+      },
+      "ctx_done": 1,
+      "text_zh": "哇\n视频"
+    },
+    {
+      "text": "ALERT🚨: Nvidia held its employee all-hands today, but didn’t take questions from employees.\n\nThe executives on stage were Colette Kress, Chair of the Board Harvey Jones, Ian Buck, Dwight Diercks, Jonah Alben, Kristin Major, Michael Kagan, Deb Shoquist, Allison Wagonfeld, Nick Parker, Andrew Bell, and Jeff Fisher.\n\nNoticeably absent was Tim Teter (Nvidia’s General Counsel), who has agreed to testify to Congress on December 2.",
+      "link": "https://x.com/SemiAnalysis_/status/2123197114435928513#m",
+      "date": "Wed, 18 Nov 2026 23:30:13 GMT",
+      "tweet_id": "2123197114435928513",
+      "ctx_done": 1,
+      "text_zh": "提醒🚨：Nvidia 今天召开了全体员工会议，但没有回答员工的问题。\n\n台上的高管包括 Colette Kress、董事会主席 Harvey Jones、Ian Buck、Dwight Diercks、Jonah Alben、Kristin Major、Michael Kagan、Deb Shoquist、Allison Wagonfeld、Nick Parker、Andrew Bell 和 Jeff Fisher。\n\n值得注意的是蒂姆·泰特（Nvidia 的总法律顾问）缺席，他已同意 12 月 2 日向国会作证。"
+    },
+    {
+      "text": "Elon in new interview on a potential Tesla and SpaceX merger:\n\n“SI and robots are what’s causing convergence here. There are so many areas of convergence that didn't exist in years before and are increasingly significant to the future.\"\n\nVideo",
+      "link": "https://x.com/SawyerMerritt/status/2123195472957333971#m",
+      "date": "Wed, 18 Nov 2026 23:23:42 GMT",
+      "tweet_id": "2123195472957333971",
+      "ctx_done": 1,
+      "text_zh": "埃隆在关于特斯拉和 SpaceX 潜在合并的新采访中：\n\n“SI 和机器人是这里融合的原因。有很多融合领域在几年前并不存在，但对未来来说将变得越来越重要。”\n\n视频"
+    },
+    {
+      "text": "You can watch our full interview with Elon Musk live now here. nyti.ms/4jor0rL\n\nLink\n\n\n\nDealBook Summit Live Updates: Elon Musk, Tesla and SpaceX CEO, Closes Event\n\nClosing the gathering of political and business leaders, Mr. Musk said he felt “pretty foolish” about spending so heavily in midterm elections to help Republicans. Other discussions touched on A.I.,...\nnytimes.com",
+      "link": "https://x.com/dealbook/status/2123191550330937512#m",
+      "date": "Wed, 18 Nov 2026 23:08:07 GMT",
+      "tweet_id": "2123191550330937512",
+      "ctx_done": 1,
+      "text_zh": "您现在可以在这里观看我们对埃隆·马斯克的完整采访。 nyti.ms/4jor0rL\n\n链接\n\n\n\nDealBook 峰会实时更新：特斯拉和 SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 结束活动\n\n在政治和商界领袖聚会结束时，马斯克表示，他觉得在中期选举中花费如此大笔资金来帮助共和党“非常愚蠢”。其他讨论涉及人工智能……\n纽约时报网"
+    },
+    {
+      "text": "Attempting to retain employees with slightly improved pay packages will not motivate the best engineers to stay at NVIDIA. If these people cared about money, they would have gone to one of the frontier labs willing to pay them several multiples of their current compensation. The reason these people stay is because of the vision championed by Jensen, and removing Jensen will inevitably dissolve the soul of the company.",
+      "link": "https://x.com/zeeshanp_/status/2123179371620081881#m",
+      "date": "Wed, 18 Nov 2026 22:19:43 GMT",
+      "tweet_id": "2123179371620081881",
+      "quoted": {
+        "user": "AndrewCurran_",
+        "text": "Looks like NVIDIA is attempting to head off any potential employee departures over Jensen by handing out large bags of cash.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXbXGuabgAAIVuH.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXbXGuabgAAIVuH.jpg?name=orig",
+            "local": "2123179371620081881q_0.jpg"
+          }
+        ],
+        "text_zh": "看起来 NVIDIA 正试图通过发放大笔现金来阻止因詹森而导致员工离职的情况。"
+      },
+      "ctx_done": 1,
+      "text_zh": "试图通过略微提高薪资待遇来留住员工并不会激励最优秀的工程师留在 NVIDIA。如果这些人关心钱，他们就会去前沿实验室之一，愿意支付他们目前薪酬的几倍。这些人留下来是因为Jensen所倡导的愿景，而除去Jensen将不可避免地溶解公司的灵魂。"
+    },
+    {
+      "text": "Truly internalizing the closing paragraph of this essay is the key to understanding the difference between the actions OpenAI and Anthropic choose to take.",
+      "link": "https://x.com/max_spero_/status/2123174753020051721#m",
+      "date": "Wed, 18 Nov 2026 22:01:22 GMT",
+      "tweet_id": "2123174753020051721",
+      "quoted": {
+        "user": "deanwball",
+        "text": "There is a common belief in the AI field—that advanced AI means the inevitable forfeiture of human primacy in the world. Even many who disfavor that future believe it is likely. I call this the silent consensus, and it must not be allowed to remain silent any longer.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXbT1ZiaUAAwSoi.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXbT1ZiaUAAwSoi.jpg?name=orig",
+            "local": "2123174753020051721q_0.jpg"
+          }
+        ],
+        "text_zh": "人工智能领域有一个普遍的信念——先进的人工智能意味着人类不可避免地丧失在世界上的主导地位。甚至许多不赞成这种未来的人也相信这种未来是有可能发生的。我把这称为“沉默的共识”，决不能让它再保持沉默。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真正理解本文最后一段是理解 OpenAI 和 Anthropic 选择采取的行动之间差异的关键。"
+    },
+    {
+      "text": "unfortunately our office (and the entire mission tbh) is flooded, we’ll have to push this off for a few weeks from now 😭🙏\nVideo",
+      "link": "https://x.com/henloitsjoyce/status/2123170458254430515#m",
+      "date": "Wed, 18 Nov 2026 21:44:18 GMT",
+      "tweet_id": "2123170458254430515",
+      "quoted": {
+        "user": "henloitsjoyce",
+        "text": "i'm hosting a launch party in the mission... you should come through for food and an OPEN BAR!!! and a SICK DJ!! \n\nthis thursday, mission, 5-8pm. all my cool friends will be there :)",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXSYwudaQAAgMYo.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXSYwudaQAAgMYo.jpg?name=orig",
+            "local": "2123170458254430515q_0.jpg"
+          }
+        ],
+        "text_zh": "我正在任务中举办发射派对...你应该过来吃点东西和一个开放的酒吧！还有一个生病的 DJ！ \n\n本周四，任务，下午 5 点至 8 点。我所有的酷朋友都会在那里:)"
+      },
+      "ctx_done": 1,
+      "text_zh": "不幸的是，我们的办公室（以及整个任务团）被水淹没了，我们必须从现在开始推迟几周🙏🙏\n视频"
+    },
+    {
+      "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot!\n\nArticle\n\n\n\nAutomate Anything with Grok Bot\n\nAutomation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
+      "link": "https://x.com/poteto/status/2123159537016533493#m",
+      "date": "Wed, 18 Nov 2026 21:00:54 GMT",
+      "tweet_id": "2123159537016533493",
+      "ctx_done": 1,
+      "text_zh": "我认为很多人都没有充分利用 Grok Bot 的潜力，因为了解如何实现自动化实际上是一项很难学习的技能。我写这篇文章是为了详细介绍我如何使用 Grok Bot 实现自动化！\n\n文章\n\n\n\n使用 Grok Bot 实现一切自动化\n\n即使对于每天都这样做的人来说，实现自动化也非常困难。我想分享我在工作和个人生活中如何处理它，以及 Grok Bot 如何帮助您承担更多责任"
+    },
+    {
+      "text": "First driver update after Jensen Huang left NVIDIA.",
+      "link": "https://x.com/gnukeith/status/2123124935161786460#m",
+      "date": "Wed, 18 Nov 2026 18:43:24 GMT",
+      "tweet_id": "2123124935161786460",
+      "quoted": {
+        "user": "Pirat_Nation",
+        "text": "NVIDIA GPU drivers are reportedly writing up to 30GB of data per hour to SSDs, raising concerns about unnecessary drive wear.\n\nThe issue appears to be linked to NVDisplay.Container.exe, part of NVIDIA's Display Container service, which keeps rewriting a driver log file instead of simply adding new entries.\n\nSome users have reported:\n-Up to 30GB of writes per hour.\n-More than 3GB written in just 10 minutes.\n-Write spikes of 500MB to 1GB when switching between apps using Alt+Tab.\n-Stuttering in games and video playback.\n\nThe reports involve NVIDIA drivers 621.14 and 621.24, while version 621.01 has reportedly been unaffected.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXafXCkW0AEu7M0.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXafXCkW0AEu7M0.jpg?name=orig",
+            "local": "2123124935161786460q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXafWtRXsAAqO7z.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXafWtRXsAAqO7z.jpg?name=orig",
+            "local": "2123124935161786460q_1.jpg"
+          }
+        ],
+        "text_zh": "据报道，NVIDIA GPU 驱动程序每小时向 SSD 写入高达 30GB 的数据，引发了对驱动器不必要磨损的担忧。\n\n该问题似乎与 NVDisplay.Container.exe 有关，NVDisplay.Container.exe 是 NVIDIA 显示容器服务的一部分，该服务会不断重写驱动程序日志文件，而不是简单地添加新条目。\n\n一些用户报告：\n- 每小时写入高达 30GB。\n- 仅需 10 分钟即可写入超过 3GB。\n- 使用 Alt+Tab 在应用程序之间切换时写入 500MB 到 1GB 的峰值。\n- 游戏和视频播放时卡顿。\n\n该报告涉及 NVIDIA 驱动程序 621.14 和 621.24，而 621.01 版据报道不受影响。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Jensen Huang 离开 NVIDIA 后的首次驱动程序更新。"
+    },
     {
       "text": "Subscriber spaces in 90 minutes! Come join, there’s a LOT to talk about https://t.co/MYPsf9kVFf",
       "link": "https://x.com/wholemars/status/2122119284977791119",
@@ -2295,218 +2619,6 @@
       },
       "ctx_done": 1,
       "text_zh": "兄弟要打破柜台了\n视频"
-    },
-    {
-      "text": "you need to be mentally ill to be some sort of popular streamer or internet eceleb and it doesn’t bode well how much influence this class of people has on the future of politics",
-      "link": "https://nitter.kareem.one/tszzl/status/2113472930521006130#m",
-      "date": "Fri, 23 Oct 2026 03:29:47 GMT",
-      "text_zh": "你需要患有精神疾病才能成为某种受欢迎的流媒体或互联网名人，这并不是一个好兆头，这阶层的人对政治的未来有多大的影响力",
-      "tweet_id": "2113472930521006130",
-      "ctx_done": 1
-    },
-    {
-      "text": "Gali was in town yesterday, so we self-drove to the Tesla Diner in the rain (4K version) https://t.co/r1VOR6mm4S",
-      "link": "https://x.com/wholemars/status/2113441881946304721",
-      "date": "Fri Oct 23 01:26:25 +0000 2026",
-      "tweet_id": "2113441881946304721",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113434091370766336/vid/avc1/3840x2160/f3G0jp3qXIc80yNx.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113434091370766336/img/fCvxUuYnQKq-xBOe.jpg",
-          "local": "2113441881946304721_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2113434091370766336/vid/avc1/3840x2160/f3G0jp3qXIc80yNx.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113434091370766336/img/fCvxUuYnQKq-xBOe.jpg",
-          "local": "2113441881946304721_1.jpg"
-        }
-      ],
-      "text_zh": "昨天加利在城里，所以我们自驾去雨中的特斯拉餐厅（4K版）https://t.co/r1VOR6mm4S",
-      "ctx_done": 1
-    },
-    {
-      "text": "Now that the dust has settled on the Tesla Roadster, where does it stand?\n\nThe extravagant launch event has left everyone with plenty of questions. Possibly even more than we started with.\n\nAll we can really surmise is that something that looked like a car flew, hovered, kick-flipped, however you want to label it. But that aerobatic PR stunt also overshadowed something pretty extraordinary; the \"normal\" Roadster.\n\nNo, it's not the car we saw in 2017, as the world that car would have been born into changed so drastically, that the very ethos of it had to be reconfigured. And that new configuration is something properly impressive, even without needing FAA clearance.\n\nIf you want to learn more about the car that will actually be on the road, @HenryCatchpole interviewed Tesla's VP of Vehicle Engineering, Lars Moravy, and got all the details on the latest edition of The Driver's Seat.\n\nWatch Now: bit.ly/4yG3eff\n\nVideo",
-      "link": "https://nitter.kareem.one/Hagerty/status/2113387908371550237#m",
-      "date": "Thu, 22 Oct 2026 21:51:56 GMT",
-      "text_zh": "既然特斯拉 Roadster 已经尘埃落定，那么它现在处于什么位置呢？\n\n盛大的发布会给大家留下了很多疑问。可能比我们开始时还要多。\n\n我们真正能推测的是，某种看起来像汽车的东西可以飞、悬停、踢翻转，无论你想给它贴上什么标签。但那个特技公关噱头也掩盖了一些相当非凡的事情； “普通”敞篷跑车。\n\n不，这不是我们在 2017 年看到的汽车，因为汽车诞生的世界发生了巨大的变化，以至于它的精神必须重新配置。即使不需要美国联邦航空局的许可，这种新配置也确实令人印象深刻。\n\n如果您想了解更多有关实际上路的汽车的信息，@HenryCatchpole 采访了 Tesla 车辆工程副总裁 Lars Moravy，并了解了最新版《驾驶员座椅》的所有详细信息。\n\n立即观看：bit.ly/4yG3eff\n\n视频",
-      "tweet_id": "2113387908371550237",
-      "ctx_done": 1
-    },
-    {
-      "text": "It’s raining like crazy in LA and Tesla Self-Driving 14.3.13 is driving so smoothly and perfectly. Bravo @TeslaSI",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113074010502443231#m",
-      "date": "Thu, 22 Oct 2026 01:04:37 GMT",
-      "text_zh": "洛杉矶下着疯狂的雨，特斯拉自动驾驶 14.3.13 行驶得如此平稳和完美。太棒了@TeslaSI",
-      "tweet_id": "2113074010502443231",
-      "ctx_done": 1
-    },
-    {
-      "text": "This just hit the latest Robotaxi app update. \n\nThey’re sandbagging",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113072657596031371#m",
-      "date": "Thu, 22 Oct 2026 00:59:15 GMT",
-      "text_zh": "这刚刚更新了最新的 Robotaxi 应用程序。 \n\n他们在装沙袋",
-      "tweet_id": "2113072657596031371",
-      "ctx_done": 1
-    },
-    {
-      "text": "this is the new normal\n\n\nThe Hacker News (@TheHackersNews)\n\n🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - thehackernews.com/2026/10/cr…\n\nLink\n\n\n\nCritical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases\n\nGitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113067301432160583#m",
-      "date": "Thu, 22 Oct 2026 00:37:58 GMT",
-      "text_zh": "这是新常态\n\n\n黑客新闻 (@TheHackersNews)\n\n🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - thehackernews.com/2026/10/cr…\n\n链接\n\n\n\nGitLab 严重缺陷 (CVSS 10.0) 可能允许在 12 年的发行版中进行未经身份验证的 RCE\n\nGitLab 修复了 CVE-2026-110264，这是一个严重缺陷，可能允许在 7.0 以来的自我管理版本上执行未经身份验证的代码。\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
-      "tweet_id": "2113067301432160583",
-      "quoted": {
-        "user": "TheHackersNews",
-        "text": "🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-        "text_zh": "🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - https://thehackernews.com/2026/10/ritic-gitlab-flaw-cvss-100-could.html"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla scaling autonomous driving and people are losing it over video vs audio calls 😂\nVideo",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113058965806551102#m",
-      "date": "Thu, 22 Oct 2026 00:04:50 GMT",
-      "tweet_id": "2113058965806551102",
-      "quoted": {
-        "user": "mrfundman",
-        "text": "Boomer mama crashing out big time rn 🤣",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113037998329675777/img/PCQONA7hAheMi0d0.jpg",
-            "local": "2113058965806551102q_0.jpg"
-          }
-        ],
-        "text_zh": "婴儿潮一代妈妈崩溃了大时间 rn 🤣"
-      },
-      "ctx_done": 1,
-      "text_zh": "特斯拉扩展自动驾驶，人们在视频通话和音频通话中失去了它😂\n视频"
-    },
-    {
-      "text": "Tesla will be doing video calls for the next earnings call\n\n\nElon Musk (@elonmusk)\n\nIt will be next time\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113045023210230128#m",
-      "date": "Wed, 21 Oct 2026 23:09:26 GMT",
-      "text_zh": "特斯拉将在下一次财报电话会议上进行视频通话\n\n\n埃隆·马斯克 (@elonmusk)\n\n下次还会有\n\n\n\n— http://nitter.jaydenha.uk/elonmusk/status/2113043044111196414#m",
-      "tweet_id": "2113045023210230128",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "@TeslaBoomerMama @travisraxelrod It will be next time",
-        "text_zh": "@TeslaBoomerMama @travisraxelrod 下次吧"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "BIG NEWS: SpaceX has given me approval to fly their locations and bring updates to their locations without TFRs! Thank you Brian, James, and SpaceX Security for helping set up this program. It really means a lot to me. You guys rock!  \n\nSPACEX: For my first flight I went to the Starlink / Starmind Campus in Bastrop, Texas. There is a ton of work taking place. Here is a list of the build sites currently underway.  \n\n- Solar Ingots and Wafers Facility: This is for upstream silicon production for ingots and wafers that feed solar cell manufacturing. SpaceX is well into the groundworks as they clear and level a massive plot next to the Solar Cell Factory. They will both eventually be connected.  \n\n- Solar Cells Factory: This is a ~1.1–1.5 million sq ft multi-floor structure currently under construction south of the main Starlink plant. It is designed for high-volume solar cell output with a target ~10 GW/year. Much of the outer walls, windows, and roof is installed.  \n\n- Starlink Factory: This is the OG building that has undergone multiple expansions. It houses high-volume Starlink kit production, printed circuit boards, and semiconductor packaging.  \n\n- Warehouse and AI Satellite Development Facility: It is described in conceptual layouts for storage, AI satellite R&D, and related operations. This building has gone up super fast. It started months after the Solar Cells Factory and is now well beyond it.  \n\n- Starmind / AI Satellite Production Factory: This area is still grass with a small section near the highway now be cleared and leveled. It will be the large-scale Starmind satellite manufacturing building.  \n\nIf you have any questions, leave them in the comments. Subscriber Photo-thread and Support links in the thread.\n\nThanks for watching!\n\nVideo",
-      "link": "http://nitter.jaydenha.uk/SERobinsonJr/status/2113043312428843306#m",
-      "date": "Wed, 21 Oct 2026 23:02:38 GMT",
-      "text_zh": "大新闻：SpaceX 已批准我飞越他们的位置并在没有 TFR 的情况下更新他们的位置！感谢 Brian、James 和 SpaceX Security 帮助建立这个项目。这对我来说真的意义重大。你们摇滚！  \n\nSPACEX：我的第一次飞行去了德克萨斯州巴斯特罗普的 Starlink / Starmind Campus。有大量的工作正在进行。以下是当前正在进行的建设地点的列表。  \n\n- 太阳能硅锭和硅片设施：该设施用于硅锭和硅片的上游硅生产，为太阳能电池制造提供原料。 SpaceX 正在积极开展基础工作，他们正在清理并平整太阳能电池工厂旁边的一块大地。它们最终都会连接起来。  \n\n- 太阳能电池工厂：这是一个约 1.1-150 万平方英尺的多层结构，目前正在星链主工厂以南建设。它专为大批量太阳能电池输出而设计，目标为每年约 10 GW。大部分外墙、窗户和屋顶都已安装。  \n\n- 星链工厂：这是经过多次扩建的OG建筑。它拥有大批量的星链套件生产、印刷电路板和半导体封装。  \n\n- 仓库和人工智能卫星开发设施：以存储、人工智能卫星研发和相关运营的概念布局进行描述。这栋楼建得超级快。它是在太阳能电池工厂几个月后开始的，现在已经远远超出了它。  \n\n- Starmind / AI卫星生产工厂：该地区仍然是草地，靠近高速公路的一小部分现已被清理和平整。这将是大型Starmind卫星制造大楼。  \n\n如果您有任何疑问，请在评论中留下。订阅者照片线程和线程中的支持链接。\n\n感谢您的观看！\n\n视频",
-      "tweet_id": "2113043312428843306",
-      "ctx_done": 1
-    },
-    {
-      "text": "How bad is this Gitlab issue? About as bad as it gets. \n\nAnyone on the internet can take over an exposed, self-hosted GitLab server without logging in, on any version from the last 12 years.\n\nShodan is showing ~60K exposed servers online, which is a lot, but there are are far more internally for anyone with a foothold already.\n\n\nThe Hacker News (@TheHackersNews)\n\n🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - thehackernews.com/2026/10/cr…\n\nLink\n\n\n\nCritical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases\n\nGitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
-      "link": "http://nitter.jaydenha.uk/DanielMiessler/status/2113037507524755745#m",
-      "date": "Wed, 21 Oct 2026 22:39:34 GMT",
-      "text_zh": "这个 Gitlab 问题有多严重？差不多就这么糟糕。 \n\n互联网上的任何人都可以在过去 12 年的任何版本上接管暴露的自托管 GitLab 服务器，而无需登录。\n\nShodan 展示了大约 6 万台暴露的在线服务器，数量很多，但对于已经立足的任何人来说，内部还有更多的服务器。\n\n\n黑客新闻 (@TheHackersNews)\n\n🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - thehackernews.com/2026/10/cr…\n\n链接\n\n\n\nGitLab 严重缺陷 (CVSS 10.0) 可能允许在 12 年的发行版中进行未经身份验证的 RCE\n\nGitLab 修复了 CVE-2026-110264，这是一个严重缺陷，可能允许在 7.0 以来的自我管理版本上执行未经身份验证的代码。\nthehackernews.com\n\n\n\n\n— http://nitter.jaydenha.uk/TheHackersNews/status/2112981939984671090#m",
-      "tweet_id": "2113037507524755745",
-      "quoted": {
-        "user": "TheHackersNews",
-        "text": "🚨 CRITICAL: GitLab flaw (CVSS 10.0) affects 12 years of releases.\n\nCVE-2026-110264 could allow unauthenticated remote code execution on self-managed servers.\n\nRead - https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-        "text_zh": "🚨 严重：GitLab 缺陷 (CVSS 10.0) 影响 12 年的发布。\n\nCVE-2026-110264 可能允许在自我管理的服务器上未经身份验证的远程代码执行。\n\n阅读 - https://thehackernews.com/2026/10/ritic-gitlab-flaw-cvss-100-could.html"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "If humanity can survive the next 24 months, we're going to have the most secure software ever.\n\n\nJohn Althouse (@4A4133)\n\nSorry everyone... We're announcing a 0-Day vuln in QUIC that allows anyone to remotely turn off a server running these libraries. I swear we didn't plan this. \n\nfoxio.io/blog/header-accordi…\n\nLink\n\n\n\nHeader Accordions: QPACK amplification attacks against HTTP/3 servers - FoxIO | Cyber Innovation\n\nWe solve the world’s toughest cyber challenges—creating breakthrough technology and embedding it into the systems that run everything.\nfoxio.io\n\n\n\n\n— http://nitter.jaydenha.uk/4A4133/status/2113008219891109996#m",
-      "link": "http://nitter.jaydenha.uk/wedtm/status/2113037010114146497#m",
-      "date": "Wed, 21 Oct 2026 22:37:36 GMT",
-      "text_zh": "如果人类能够在接下来的 24 个月内生存，我们将拥有有史以来最安全的软件。\n\n\n约翰·奥尔豪斯 (@4A4133)\n\n抱歉大家...我们宣布 QUIC 中存在一个 0 天漏洞，允许任何人远程关闭运行这些库的服务器。我发誓我们没有计划这个。 \n\nFoxio.io/blog/header-accordi…\n\n链接\n\n\n\n标头折叠式：针对 HTTP/3 服务器的 QPACK 放大攻击 - FoxIO |网络创新\n\n我们解决世界上最严峻的网络挑战——创造突破性技术并将其嵌入到运行一切的系统中。\nFoxio.io\n\n\n\n\n— http://nitter.jaydenha.uk/4A4133/status/2113008219891109996#m",
-      "tweet_id": "2113037010114146497",
-      "quoted": {
-        "user": "4A4133",
-        "text": "Sorry everyone... We're announcing a 0-Day vuln in QUIC that allows anyone to remotely turn off a server running these libraries. I swear we didn't plan this. \n\nhttps://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
-        "text_zh": "抱歉大家...我们宣布 QUIC 中存在一个 0 天漏洞，允许任何人远程关闭运行这些库的服务器。我发誓我们没有计划这个。 \n\nhttps://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "\"As FSD scales, we will disclose more financial metrics\"\n\n— Tesla CFO $TSLA",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113034238761324827#m",
-      "date": "Wed, 21 Oct 2026 22:26:35 GMT",
-      "text_zh": "“随着 FSD 规模的扩大，我们将披露更多财务指标”\n\n— 特斯拉首席财务官 $TSLA",
-      "tweet_id": "2113034238761324827",
-      "ctx_done": 1
-    },
-    {
-      "text": "\"I think Tesla will do half of all passenger miles in any country where its allowed to operate freely\"\n\n— @elonmusk",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113033431475224819#m",
-      "date": "Wed, 21 Oct 2026 22:23:22 GMT",
-      "text_zh": "“我认为特斯拉将在任何允许其自由运营的国家完成一半的乘客里程”\n\n— @elonmusk",
-      "tweet_id": "2113033431475224819",
-      "ctx_done": 1
-    },
-    {
-      "text": "\"Terafabs will cost 10s of billions of dollars, up to 2028. It will probably be north of $100 billion long term\"\n\n— @elonmusk",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031928010232215#m",
-      "date": "Wed, 21 Oct 2026 22:17:24 GMT",
-      "text_zh": "“到 2028 年，Terafab 的成本将达到数十亿美元。长期来看，其成本可能会超过 1000 亿美元”\n\n— @elonmusk",
-      "tweet_id": "2113031928010232215",
-      "ctx_done": 1
-    },
-    {
-      "text": "By Q1 or Q2 of 2027, the primary scaling bottleneck for Robotaxi will be regulatory, not technical\"\n\n— @aelluswamy",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031680638472585#m",
-      "date": "Wed, 21 Oct 2026 22:16:25 GMT",
-      "text_zh": "到 2027 年第一季度或第二季度，Robotaxi 的主要扩展瓶颈将是监管，而不是技术”\n\n— @aelluswamy",
-      "tweet_id": "2113031680638472585",
-      "ctx_done": 1
-    },
-    {
-      "text": "\"We will move Robotaxi to 24/7 operation, and start operating on high speed roads\"\n\n— @aelluswamy $TSLA",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031491496345961#m",
-      "date": "Wed, 21 Oct 2026 22:15:40 GMT",
-      "text_zh": "“我们将把 Robotaxi 改为 24/7 运营，并开始在高速道路上运营”\n\n— @aelluswamy $TSLA",
-      "tweet_id": "2113031491496345961",
-      "ctx_done": 1
-    },
-    {
-      "text": "\"Pretty soon Robotaxi will shut down at 2 AM\"\n\n— @aelluswamy",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113031266388078999#m",
-      "date": "Wed, 21 Oct 2026 22:14:46 GMT",
-      "text_zh": "“Robotaxi 很快就会在凌晨 2 点关闭”\n\n— @aelluswamy",
-      "tweet_id": "2113031266388078999",
-      "ctx_done": 1
-    },
-    {
-      "text": "\"Cybercab has 50% less parts, so that's 50% less things that can go wrong\"\n\n— @larsmoravy",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113030541297811631#m",
-      "date": "Wed, 21 Oct 2026 22:11:53 GMT",
-      "text_zh": "“Cybercab 的零件数量减少了 50%，因此可能出现问题的情况也减少了 50%”\n\n— @larsmoravy",
-      "tweet_id": "2113030541297811631",
-      "ctx_done": 1
-    },
-    {
-      "text": "\"Autonomy will be a significant part of our revenue and profitability in 2027\"\n\n— Tesla CFO\n\n\"It will probably start to move the needle in Q2, and then be a significant driver by Q4\"\n\n— @elonmusk",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113030261101490521#m",
-      "date": "Wed, 21 Oct 2026 22:10:47 GMT",
-      "text_zh": "“到 2027 年，自主化将成为我们收入和盈利能力的重要组成部分”\n\n— 特斯拉首席财务官\n\n“它可能会在第二季度开始发挥作用，然后在第四季度成为重要的推动因素”\n\n— @elonmusk",
-      "tweet_id": "2113030261101490521",
-      "ctx_done": 1
-    },
-    {
-      "text": "Damn, they don’t even stop scaling during an earnings call\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 8 new 2026 Model Ys with the Texas DMV — now 462 Model Ys in its 811-vehicle TX fleet. fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2113029724851310837#m",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2113030029290684461#m",
-      "date": "Wed, 21 Oct 2026 22:09:51 GMT",
-      "text_zh": "该死，他们甚至在财报电话会议期间都没有停止扩张\n\n\n整个火星 FSD 数据库 (@fsd_database)\n\n🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 8 辆全新 2026 年款 Y 型车，目前其 811 辆 TX 车队中有 462 辆 Model Y。 fsddb.com/robotaxi?operator=…\n\n\n\n— http://nitter.jaydenha.uk/fsd_database/status/2113029724851310837#m",
-      "tweet_id": "2113030029290684461",
-      "quoted": {
-        "user": "fsd_database",
-        "text": "🚗 Tesla Robotaxi just registered 8 new 2026 Model Ys with the Texas DMV — now 462 Model Ys in its 811-vehicle TX fleet. https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc",
-        "text_zh": "🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 8 辆全新 2026 年款 Y 型车，目前其 811 辆 TX 车队中有 462 辆 Model Y。 https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc"
-      },
-      "ctx_done": 1
     }
   ]
 }
