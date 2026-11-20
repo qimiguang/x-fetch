@@ -1,52 +1,304 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-20T02:12:31Z",
+  "updated_at": "2026-11-20T11:11:38Z",
   "count": 200,
   "tweets": [
     {
-      "text": "Starship Cybertruck with Fall vibes",
-      "link": "https://x.com/teslaownersSV/status/2123563680155762995#m",
-      "date": "Thu, 19 Nov 2026 23:46:49 GMT",
+      "text": "I was dreamin' that it was 2024",
+      "link": "https://x.com/teslaownersSV/status/2123684357244400035",
+      "date": "Fri Nov 20 07:46:21 +0000 2026",
+      "tweet_id": "2123684357244400035",
+      "ctx_done": 1,
+      "text_zh": "我梦见那是 2024 年"
+    },
+    {
+      "text": "JUST IN: The Giga Shanghai team built Elon a gift at the factory during his stop to thank Tesla's teams across Asia.\n\nA steel base traces the Giga Shanghai site over an engraved map of downtown Shanghai. The three skyline towers are 3D printed, and the Model 3 and Model Y were https://t.co/BIZyiRkh48",
+      "link": "https://x.com/teslaownersSV/status/2123683523156693060",
+      "date": "Fri Nov 20 07:43:02 +0000 2026",
+      "tweet_id": "2123683523156693060",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=large",
+          "local": "2123683523156693060_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=large",
+          "local": "2123683523156693060_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=large",
+          "local": "2123683523156693060_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=large",
+          "local": "2123683523156693060_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "上一篇：Giga 上海团队在 Elon 停留期间在工厂制作了一份礼物，以感谢特斯拉在亚洲各地的团队。\n\n一个钢制底座在上海市中心的雕刻地图上描绘了 Giga 上海的场地。三座天际线塔楼是 3D 打印的，Model 3 和 Model Y 是 https://t.co/BIZyiRkh48"
+    },
+    {
+      "text": "Jensen Huang on how @elonmusk  built Colossus at xAI: \"Elon is deep in so many different topics.\" https://t.co/hhGoB2zYTU",
+      "link": "https://x.com/teslaownersSV/status/2123683272970711170",
+      "date": "Fri Nov 20 07:42:03 +0000 2026",
+      "tweet_id": "2123683272970711170",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123683157237223424/vid/avc1/1920x1080/1OLhCWTsxP4V3GWP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123683157237223424/img/BukvgM6NeDXMVoqh.jpg",
+          "local": "2123683272970711170_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123683157237223424/vid/avc1/1920x1080/1OLhCWTsxP4V3GWP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123683157237223424/img/BukvgM6NeDXMVoqh.jpg",
+          "local": "2123683272970711170_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "黄仁勋 (Jensen Huang) 谈及 @elonmusk 如何在 xAI 打造 Colossus 时表示：“Elon 对许多不同的主题都有深入的了解。” https://t.co/hhGoB2zYTU"
+    },
+    {
+      "text": "That glowing bell is a rocket engine running in space.\n\nReal SpaceX footage from a Falcon second stage (May 2023): stage separation at sunset, the Merlin Vacuum engine lights, and its 2.7 m niobium alloy nozzle heats up until it glows. That nozzle has no coolant lines. It gets https://t.co/NIK5q7a2pJ",
+      "link": "https://x.com/teslaownersSV/status/2123682406079307867",
+      "date": "Fri Nov 20 07:38:36 +0000 2026",
+      "tweet_id": "2123682406079307867",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123682314467291136/vid/avc1/1920x1080/Ww9Jp1m83Gx8KXVW.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123682314467291136/img/RKR67DrsZT16nLMR.jpg",
+          "local": "2123682406079307867_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123682314467291136/vid/avc1/1920x1080/Ww9Jp1m83Gx8KXVW.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123682314467291136/img/RKR67DrsZT16nLMR.jpg",
+          "local": "2123682406079307867_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "那个发光的钟是在太空中运行的火箭发动机。\n\n猎鹰第二级的真实 SpaceX 镜头（2023 年 5 月）：日落时的级分离，Merlin 真空发动机亮起，其 2.7 m 铌合金喷嘴加热直至发光。该喷嘴没有冷却液管路。它得到 https://t.co/NIK5q7a2pJ"
+    },
+    {
+      "text": "Fourteen years of interviews, and it always comes back to the same thing. He loves humanity. @elonmusk https://t.co/VRA9Jt952e",
+      "link": "https://x.com/teslaownersSV/status/2123670399770841123",
+      "date": "Fri Nov 20 06:50:53 +0000 2026",
+      "tweet_id": "2123670399770841123",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123670374898618368/vid/avc1/1920x1080/QBrcnFxIEBHrQ_ka.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123670374898618368/img/powvmIEMqt1yaGMQ.jpg",
+          "local": "2123670399770841123_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123670374898618368/vid/avc1/1920x1080/QBrcnFxIEBHrQ_ka.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123670374898618368/img/powvmIEMqt1yaGMQ.jpg",
+          "local": "2123670399770841123_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "十四年的采访，总是回到同样的事情。他热爱人类。 @elonmusk https://t.co/VRA9Jt952e"
+    },
+    {
+      "text": "On this day in 2024: Starship Flight 6 flew with one payload on board. A stuffed banana.\n\nIt was also the first time Starship relit a Raptor engine in space, the burn it needs to come home from orbit.\n\nLast week, Flight 15 carried 26 Starlink V3 satellites to orbit.\n\nFrom 1 https://t.co/RdNIbCiyQf",
+      "link": "https://x.com/teslaownersSV/status/2123615333781278935",
+      "date": "Fri Nov 20 03:12:05 +0000 2026",
+      "tweet_id": "2123615333781278935",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123615284515024896/vid/avc1/1920x1080/LeKersnlyXdQLjBT.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615284515024896/img/bZdtng46GqYju3W2.jpg",
+          "local": "2123615333781278935_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123615284515024896/vid/avc1/1920x1080/LeKersnlyXdQLjBT.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615284515024896/img/bZdtng46GqYju3W2.jpg",
+          "local": "2123615333781278935_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "2024 年的今天：星舰 6 号航班载有一个有效载荷飞行。一个酿香蕉。\n\n这也是星际飞船首次在太空中重新点燃猛禽发动机，这是它从轨道返回地球所需的燃烧量。\n\n上周，Flight 15 将 26 颗 Starlink V3 卫星送入轨道。\n\n从 1 https://t.co/RdNIbCiyQf"
+    },
+    {
+      "text": "RT @KelliBSloan63: Happy Birthday Beautiful.  My birthday was yesterday and I should have know that you are a fierce Scorpio woman.  Fighti…",
+      "link": "https://x.com/teslaownersSV/status/2123615235454235023",
+      "date": "Fri Nov 20 03:11:41 +0000 2026",
+      "tweet_id": "2123615235454235023",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
+            "local": "2123615235454235023q_0.jpg"
+          }
+        ],
+        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我对你无限感激，我很自豪能成为你的丈夫。 \n\n今天的一切都是关于你的。我祈求神对你更加信实。我全心全意的爱你。 ❤️"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @KelliBSloan63：生日快乐，美丽。  昨天是我的生日，我应该知道你是一个凶猛的天蝎座女人。  战斗…"
+    },
+    {
+      "text": "Cybercab. Optimus. Semi. Megapack. Model Y. Model 3. A Roadster in space.\nAll real. All Tesla.\nTesla's own words for it: \"make the impossible possible.\"\nThe Tesla Annual Meeting is December 3. Which one are you most excited about? https://t.co/BNLZuGqk3H",
+      "link": "https://x.com/teslaownersSV/status/2123615108358340716",
+      "date": "Fri Nov 20 03:11:11 +0000 2026",
+      "tweet_id": "2123615108358340716",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123615073986039808/vid/avc1/1920x1080/M_ii31RANF-72BCM.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615073986039808/img/2ziOCeXYfx04op0D.jpg",
+          "local": "2123615108358340716_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123615073986039808/vid/avc1/1920x1080/M_ii31RANF-72BCM.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615073986039808/img/2ziOCeXYfx04op0D.jpg",
+          "local": "2123615108358340716_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "网络出租车。擎天柱。半。巨型包装。 Model Y。Model 3。太空中的敞篷跑车。\n都是真实的。都是特斯拉。\n特斯拉自己的说法是：“让不可能成为可能”。\n特斯拉年会将于 12 月 3 日举行。您最兴奋哪一场？ https://t.co/BNLZuGqk3H"
+    },
+    {
+      "text": "Happy Birthday Beautiful.  My birthday was yesterday and I should have know that you are a fierce Scorpio woman.  Fighting hard and living harder is the way we live and you are a true warrior.  Much love sent your way today and everyday",
+      "link": "https://x.com/KelliBSloan63/status/2123605146223673680",
+      "date": "Fri Nov 20 02:31:36 +0000 2026",
+      "tweet_id": "2123605146223673680",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
+            "local": "2123605146223673680q_0.jpg"
+          }
+        ],
+        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我对你无限感激，我很自豪能成为你的丈夫。 \n\n今天的一切都是关于你的。我祈求神对你更加信实。我全心全意的爱你。 ❤️"
+      },
+      "ctx_done": 1,
+      "text_zh": "美丽生日快乐。  昨天是我的生日，我应该知道你是一个凶猛的天蝎座女人。  努力奋斗、努力生活是我们的生活方式，你是真正的战士。  今天和每一天都给你带来了很多爱"
+    },
+    {
+      "text": "Starship Cybertruck with Fall vibes https://t.co/XHtidiP1jE",
+      "link": "https://x.com/teslaownersSV/status/2123563680155762995",
+      "date": "Thu Nov 19 23:46:49 +0000 2026",
       "tweet_id": "2123563680155762995",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=large",
+          "local": "2123563680155762995_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=large",
+          "local": "2123563680155762995_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "充满秋季气息的 Starship Cyber​​truck"
     },
     {
-      "text": "Elon got rich and never stopped working. Here's why, in his own words.\n\n\"There's a very small number of great software engineers. And a bunch of the ones that I know who are great got rich and stopped working.\"\n\n\"So I'm just like the weirdo who's like, I still work like a maniac because I'm just wired that way.\"\n\nA lot of capable people he knows semi-retired. Elon is still building rockets, cars and robots.\n\nWhat would you do if you never had to work again?\n\n@elonmusk\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2123563475079516623#m",
-      "date": "Thu, 19 Nov 2026 23:46:01 GMT",
+      "text": "Elon got rich and never stopped working. Here's why, in his own words.\n\n\"There's a very small number of great software engineers. And a bunch of the ones that I know who are great got rich and stopped working.\"\n\n\"So I'm just like the weirdo who's like, I still work like a maniac https://t.co/WmWh5B3fwf",
+      "link": "https://x.com/teslaownersSV/status/2123563475079516623",
+      "date": "Thu Nov 19 23:46:01 +0000 2026",
       "tweet_id": "2123563475079516623",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123563446663028736/vid/avc1/1920x1080/JDxBeMcetJV4lCJN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123563446663028736/img/3AGt0i_8Q7FE1mHU.jpg",
+          "local": "2123563475079516623_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123563446663028736/vid/avc1/1920x1080/JDxBeMcetJV4lCJN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123563446663028736/img/3AGt0i_8Q7FE1mHU.jpg",
+          "local": "2123563475079516623_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "埃隆变得富有，但从未停止工作。用他自己的话说，这就是原因。\n\n“优秀的软件工程师数量非常少。我认识的很多优秀的软件工程师都变得富有并停止了工作。”\n\n“所以我就像一个怪人一样，我仍然像疯子一样工作，因为我就是这样。”\n\n他认识的很多有能力的人都处于半退休状态。埃隆仍在制造火箭、汽车和机器人。\n\n如果你再也不用工作了，你会做什么？\n\n@埃隆马斯克\n\n视频"
     },
     {
-      "text": "Driving round Miami feels like I’m literally in GTA 😂",
-      "link": "https://x.com/teslaownersSV/status/2123562403048878141#m",
-      "date": "Thu, 19 Nov 2026 23:41:45 GMT",
+      "text": "Driving round Miami feels like I’m literally in GTA 😂 https://t.co/EdfHUkVPCP",
+      "link": "https://x.com/teslaownersSV/status/2123562403048878141",
+      "date": "Thu Nov 19 23:41:45 +0000 2026",
       "tweet_id": "2123562403048878141",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=large",
+          "local": "2123562403048878141_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=large",
+          "local": "2123562403048878141_1.jpg"
+        }
+      ],
       "ctx_done": 1,
       "text_zh": "在迈阿密开车感觉就像真的在 GTA 😂"
     },
     {
-      "text": "Starship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack nitter.kareem.one/i/broadcasts/2VNPrzQWE…\n\nLink\n\n\n\nNewsForce\n\nStarship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack\nhttps://nitter.kareem.one/i/broadcasts/2VNPrzQWElgMZa",
-      "link": "https://x.com/Newsforce/status/2123540099778392435#m",
-      "date": "Thu, 19 Nov 2026 22:13:07 GMT",
+      "text": "RT @Newsforce: Starship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack https://t.co/TBPjQXqQj3",
+      "link": "https://x.com/teslaownersSV/status/2123540473688236238",
+      "date": "Thu Nov 19 22:14:37 +0000 2026",
+      "tweet_id": "2123540473688236238",
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：Starship、NVIDIA、Grok、Cyber​​cab 和最新技术 |堆栈 https://t.co/TBPjQXqQj3"
+    },
+    {
+      "text": "Starship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack https://t.co/TBPjQXqQj3",
+      "link": "https://x.com/Newsforce/status/2123540099778392435",
+      "date": "Thu Nov 19 22:13:07 +0000 2026",
       "tweet_id": "2123540099778392435",
       "ctx_done": 1,
       "text_zh": "Starship、NVIDIA、Grok、Cyber​​cab 和最新技术 |堆栈 nitter.kareem.one/i/broadcasts/2VNPrzQWE…\n\n链接\n\n\n\n新闻力量\n\nStarship、NVIDIA、Grok、Cybercab 和最新技术 |堆栈\nhttps://nitter.kareem.one/i/broadcasts/2VNPrzQWElgMZa"
     },
     {
-      "text": "We're going live on X Spaces in 40 minutes with @SawyerMerritt, @wholemars, @teslaownersSV\nnitter.kareem.one/i/spaces/1NgQOJVKnpjBk…\n\nLink\n\nTwitter Space\n\nClick to view Space\nhttps://nitter.kareem.one/i/spaces/1NgQOJVKnpjBkV",
-      "link": "https://x.com/UnpluggedTesla/status/2123511969550664024#m",
-      "date": "Thu, 19 Nov 2026 20:21:21 GMT",
+      "text": "RT @UnpluggedTesla: We're going live on X Spaces in 40 minutes with @SawyerMerritt, @wholemars, @teslaownersSV\nhttps://t.co/2pJxyoVhm8",
+      "link": "https://x.com/teslaownersSV/status/2123522320631582842",
+      "date": "Thu Nov 19 21:02:29 +0000 2026",
+      "tweet_id": "2123522320631582842",
+      "ctx_done": 1,
+      "text_zh": "RT @UnpluggedTesla：我们将在 40 分钟内与 @SawyerMerritt、@wholemars、@teslaownersSV 一起在 X Spaces 上上线\nhttps://t.co/2pJxyoVhm8"
+    },
+    {
+      "text": "We're going live on X Spaces in 40 minutes with @SawyerMerritt, @wholemars, @teslaownersSV\nhttps://t.co/2pJxyoVhm8",
+      "link": "https://x.com/UnpluggedTesla/status/2123511969550664024",
+      "date": "Thu Nov 19 20:21:21 +0000 2026",
       "tweet_id": "2123511969550664024",
       "ctx_done": 1,
       "text_zh": "我们将在 40 分钟内与 @SawyerMerritt、@wholemars、@teslaownersSV 在 X Spaces 上进行直播\nnitter.kareem.one/i/spaces/1NgQOJVKnpjBk…\n\n链接\n\n推特空间\n\n点击查看空间\nhttps://nitter.kareem.one/i/spaces/1NgQOJVKnpjBkV"
     },
     {
-      "text": "NEWS: A SpaceX subsidiary has applied to build a 32-mile natural gas pipeline in Brevard County, Florida, to supply its Cape Canaveral launch facilities.\n\n- The proposed 16-inch pipeline would connect to the Florida Gas Transmission system.\n- Around 20 miles would cross federal land, serving Space Launch Complex 37 and Launch Complex 39A.\n- SpaceX plans to contract the pipeline’s full capacity, reducing the need for repeated fuel-truck deliveries.\n- The BLM has accepted the September 2026 application and will conduct an environmental review under NEPA.\n\nThe project aims to streamline fuel delivery as SpaceX expands its launch operations in Florida.",
-      "link": "https://x.com/teslaownersSV/status/2123504226177540599#m",
-      "date": "Thu, 19 Nov 2026 19:50:34 GMT",
+      "text": "NEWS: A SpaceX subsidiary has applied to build a 32-mile natural gas pipeline in Brevard County, Florida, to supply its Cape Canaveral launch facilities.\n\n- The proposed 16-inch pipeline would connect to the Florida Gas Transmission system.\n- Around 20 miles would cross federal https://t.co/LTcVCLzoG6",
+      "link": "https://x.com/teslaownersSV/status/2123504226177540599",
+      "date": "Thu Nov 19 19:50:34 +0000 2026",
       "tweet_id": "2123504226177540599",
       "media": [
         {
@@ -66,9 +318,9 @@
       "text_zh": "新闻：SpaceX 子公司已申请在佛罗里达州布里瓦德县修建一条 32 英里长的天然气管道，为其卡纳维拉尔角发射设施供应天然气。\n\n- 拟议的 16 英寸管道将连接到佛罗里达州天然气传输系统。\n- 大约 20 英里将穿越联邦 https://t.co/LTcVCLzoG6"
     },
     {
-      "text": "NEWS: Starlink gained nearly 91,000 net customers from competing US internet providers in Q3 2026, according to ST3 Insights research.\n\n- Starlink gained 120,114 customers while losing approximately 29,000, a 4:1 gain-to-loss ratio.\n- More than 27,000 customers switched from Spectrum, 17,000 from Xfinity, and 41,000 from fixed wireless providers.\n- Texas, California, Arizona, and Virginia recorded the strongest growth.\n\nStarlink is increasingly competing directly with traditional broadband providers, including in urban markets.",
-      "link": "https://x.com/teslaownersSV/status/2123504140240535943#m",
-      "date": "Thu, 19 Nov 2026 19:50:14 GMT",
+      "text": "NEWS: Starlink gained nearly 91,000 net customers from competing US internet providers in Q3 2026, according to ST3 Insights research.\n\n- Starlink gained 120,114 customers while losing approximately 29,000, a 4:1 gain-to-loss ratio.\n- More than 27,000 customers switched from https://t.co/5ByjkwZwTm",
+      "link": "https://x.com/teslaownersSV/status/2123504140240535943",
+      "date": "Thu Nov 19 19:50:14 +0000 2026",
       "tweet_id": "2123504140240535943",
       "media": [
         {
@@ -88,9 +340,9 @@
       "text_zh": "新闻：根据 ST3 Insights 研究，Starlink 在 2026 年第三季度从竞争的美国互联网提供商那里获得了近 91,000 名净客户。\n\n- Starlink 获得了 120,114 名客户，同时失去了约 29,000 名客户，损益比为 4:1。\n- 超过 27,000 名客户从 https://t.co/5ByjkwZwTm 切换而来"
     },
     {
-      "text": "Starships were meant to fly",
-      "link": "https://x.com/teslaownersSV/status/2123479650571813294#m",
-      "date": "Thu, 19 Nov 2026 18:12:55 GMT",
+      "text": "Starships were meant to fly https://t.co/91IUGRU0YO",
+      "link": "https://x.com/teslaownersSV/status/2123479650571813294",
+      "date": "Thu Nov 19 18:12:55 +0000 2026",
       "tweet_id": "2123479650571813294",
       "media": [
         {
@@ -131,9 +383,9 @@
       "text_zh": "RT @TesLatino：祝愿伊芙琳和全家人在这些充满挑战的时刻度过美好的日子、美好的回忆和平静。\n\n“快乐的…"
     },
     {
-      "text": "Wishing Evelyn and the entire family the best days ahead, good memories, and peace during these challenging moments.\n“Happy Birthday, Evelyn. Truly. You’ve got this.”\nJohn is going through a very challenging time, but he is showing that through adversity, we grow. The entire family is.\nWe met in 2018 when our community was in its infancy. There were not many large Tesla online accounts. Most were just having fun and sharing experiences.\nToday, after relentless enthusiasm and growing not only his online community @teslaownersSV (leading a great team of friends and collaborators) but also the broader Tesla community, through his persistence, he is now enduring one of the worst possible moments in his personal journey. He is doing it with grace and optimism, and I couldn’t be prouder.\nI am sad, but I also know that John has the right attitude and is doing everything he can at the moment.\nEven more so, while he is going through all of this, he doesn’t stop supporting and helping others, including, in no small way, supporting my own journey.\nThank you for your support and friendship, John. Please send Evelyn our love. Nancy and I are thinking of you, her, and your entire family every single day.\nStay positive.",
-      "link": "https://x.com/TesLatino/status/2123479182311055758#m",
-      "date": "Thu, 19 Nov 2026 18:11:04 GMT",
+      "text": "Wishing Evelyn and the entire family the best days ahead, good memories, and peace during these challenging moments.\n\n“Happy Birthday, Evelyn. Truly. You’ve got this.”\n\nJohn is going through a very challenging time, but he is showing that through adversity, we grow. The entire https://t.co/a6Fk5TXq1b",
+      "link": "https://x.com/TesLatino/status/2123479182311055758",
+      "date": "Thu Nov 19 18:11:04 +0000 2026",
       "tweet_id": "2123479182311055758",
       "media": [
         {
@@ -214,9 +466,9 @@
       "text_zh": "祝伊芙琳和全家人在这些充满挑战的时刻度过美好的日子、美好的回忆和平静。\n“生日快乐，伊芙琳。真的。你得到了这个。”\n约翰正在经历一个非常具有挑战性的时期，但他向我们表明，通过逆境，我们会成长。全家人都是。\n我们相识于 2018 年，当时我们的社区还处于起步阶段。特斯拉的大型在线账户并不多。大多数人只是享受乐趣并分享经验。\n今天，经过不懈的热情，不仅他的在线社区@teslaownersSV（领导着一支由朋友和合作者组成的伟大团队）而且扩大了更广泛的特斯拉社区，通过他的坚持，他现在正经历着他个人旅程中最糟糕的时刻之一。他以优雅和乐观的方式做到了这一点，我对此感到非常自豪。\n我很难过，但我也知道约翰的态度是正确的，并且正在尽其所能。\n更重要的是，在他经历这一切的同时，他并没有停止支持和帮助他人，包括在很大程度上支持我自己的旅程。\n感谢您的支持和友谊，约翰。请向伊芙琳表达我们的爱。南希和我每天都在想着你、她和你的整个家庭。\n保持积极的态度。"
     },
     {
-      "text": "the best way to predict the future is to invent it ~ @elonmusk\n\n\nMuskonomy (@muskonomy)\n\nNEW: Tesla’s Powercore: 3 machines in one box\n\nThis new box handles power for 6,000 homes.\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/muskonomy/status/2123474494572646627#m",
-      "link": "https://x.com/teslaownersSV/status/2123476938190930180#m",
-      "date": "Thu, 19 Nov 2026 18:02:09 GMT",
+      "text": "the best way to predict the future is to invent it ~ @elonmusk",
+      "link": "https://x.com/teslaownersSV/status/2123476938190930180",
+      "date": "Thu Nov 19 18:02:09 +0000 2026",
       "tweet_id": "2123476938190930180",
       "quoted": {
         "user": "muskonomy",
@@ -263,9 +515,9 @@
       "text_zh": "新：特斯拉的 Powercore：一盒 3 台机器\n\n这个新配电箱可为 6,000 个家庭供电。 https://t.co/wSkuK0byMw"
     },
     {
-      "text": "JUST IN: Tesla Cybercab rides are now open to the public in Dallas, Texas.\n\nTesla's Robotaxi app announced it this morning: \"Be one of the first to take a Cybercab ride in Dallas.\"\n\nNo steering wheel. No pedals. No mirrors. Just hail one in the Robotaxi app.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2123463533262422245#m",
-      "date": "Thu, 19 Nov 2026 17:08:53 GMT",
+      "text": "JUST IN: Tesla Cybercab rides are now open to the public in Dallas, Texas.\n\nTesla's Robotaxi app announced it this morning: \"Be one of the first to take a Cybercab ride in Dallas.\"\n\nNo steering wheel. No pedals. No mirrors. Just hail one in the Robotaxi app.",
+      "link": "https://x.com/teslaownersSV/status/2123463533262422245",
+      "date": "Thu Nov 19 17:08:53 +0000 2026",
       "tweet_id": "2123463533262422245",
       "media": [
         {
@@ -285,9 +537,9 @@
       "text_zh": "刚刚发布：特斯拉 Cyber​​cab 游乐设施现已在德克萨斯州达拉斯向公众开放。\n\n特斯拉的 Robotaxi 应用程序今天早上宣布：“成为达拉斯首批乘坐 Cyber​​cab 的人之一。”\n\n没有方向盘。没有踏板。没有镜子。只需在 Robotaxi 应用程序中打招呼即可。"
     },
     {
-      "text": "Elon Musk on Jensen Huang: \"I would call Jensen like Michael Jordan, perhaps at his peak level.\"\n\n\"There's no one that can really replace Jensen. He does the roles of several people.\"\n\nElon pointed to Jensen eating street food in Korea and Taiwan with critical suppliers, and to a team that turned down higher offers out of loyalty to him.\n```\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2123452060566012333#m",
-      "date": "Thu, 19 Nov 2026 16:23:17 GMT",
+      "text": "Elon Musk on Jensen Huang: \"I would call Jensen like Michael Jordan, perhaps at his peak level.\"\n\n\"There's no one that can really replace Jensen. He does the roles of several people.\"\n\nElon pointed to Jensen eating street food in Korea and Taiwan with critical suppliers, and to a https://t.co/z50fA90QpG",
+      "link": "https://x.com/teslaownersSV/status/2123452060566012333",
+      "date": "Thu Nov 19 16:23:17 +0000 2026",
       "tweet_id": "2123452060566012333",
       "media": [
         {
@@ -446,9 +698,9 @@
       "text_zh": "在特斯拉，我们花了数年时间将不可能变成可能。 \n\n我们还没有完成：通过为所有人建设一个极其丰富的世界，我们将继续将未来变为现实 \n \n在 12 月 3 日年会之前与特斯拉一起对所有提案进行投票 https://t.co/F6IwuTkjly"
     },
     {
-      "text": "Owning a Tesla is an experience. Your coverage should be too. ⚡\n\nComment \"COVERAGE\" 👇 for a free remote inspection.\n\nShare with the friend who named their Tesla. You know the one. 🚗\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2123429086764675172#m",
-      "date": "Thu, 19 Nov 2026 14:52:00 GMT",
+      "text": "Owning a Tesla is an experience. Your coverage should be too. ⚡\n\nComment \"COVERAGE\" 👇 for a free remote inspection.\n\nShare with the friend who named their Tesla. You know the one. 🚗 https://t.co/FG8U4Fwcyd",
+      "link": "https://x.com/teslaownersSV/status/2123429086764675172",
+      "date": "Thu Nov 19 14:52:00 +0000 2026",
       "tweet_id": "2123429086764675172",
       "media": [
         {
@@ -3915,262 +4167,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "15 号航班助推器 22 重返大气层并在海湾上空受控爆炸 https://t.co/QQ1eV7FTuY"
-    },
-    {
-      "text": "RT @Dogetothemoon: Elon Musk hugged ship 42 upon its return be like\n\nBaby Come Back🎶 https://t.co/aXTa3MPUZb",
-      "link": "https://x.com/teslaownersSV/status/2121824152474841148",
-      "date": "Sun Nov 15 04:34:34 +0000 2026",
-      "tweet_id": "2121824152474841148",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121775467489591297/vid/avc1/1080x1442/_KZ82f6BDinIN9Ca.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121775467489591297/img/mlL78HzH-ShT7G9Y.jpg",
-          "local": "2121824152474841148_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121775467489591297/vid/avc1/1080x1442/_KZ82f6BDinIN9Ca.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121775467489591297/img/mlL78HzH-ShT7G9Y.jpg",
-          "local": "2121824152474841148_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "I hugged ship 42 upon its return",
-        "text_zh": "42号船返航时我拥抱了它"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Dogetothemoon：埃隆·马斯克在 42 号船返回时拥抱了它，就像\n\n宝贝回来了🎶 https://t.co/aXTa3MPUZb"
-    },
-    {
-      "text": "RT @UnpluggedTesla: This is 🇺🇸\n\n📸@JoshWest247 https://t.co/k5EKqC7zf8",
-      "link": "https://x.com/teslaownersSV/status/2121808737564496072",
-      "date": "Sun Nov 15 03:33:18 +0000 2026",
-      "tweet_id": "2121808737564496072",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=large",
-          "local": "2121808737564496072_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=large",
-          "local": "2121808737564496072_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "RT @UnpluggedTesla：这是🇺🇸\n\n📸@JoshWest247 https://t.co/k5EKqC7zf8"
-    },
-    {
-      "text": "SpaceX posted this animation on November 7.\n\nSeven days later, the tower caught Ship 42 for real.\n\nLeft: the animation. Right: Flight 15. https://t.co/iyr51RMdva",
-      "link": "https://x.com/teslaownersSV/status/2121798915825815880",
-      "date": "Sun Nov 15 02:54:17 +0000 2026",
-      "tweet_id": "2121798915825815880",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121798879679242240/vid/avc1/1920x1080/Jh7wV3dvjePeqIpr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121798879679242240/img/V3BWSAmbCHfH3g6G.jpg",
-          "local": "2121798915825815880_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121798879679242240/vid/avc1/1920x1080/Jh7wV3dvjePeqIpr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121798879679242240/img/V3BWSAmbCHfH3g6G.jpg",
-          "local": "2121798915825815880_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "SpaceX 于 11 月 7 日发布了这段动画。\n\n7 天后，塔台真正捕获了 42 号船。\n\n左：动画。右：15 号航班。https://t.co/iyr51RMdva"
-    },
-    {
-      "text": "SpaceX just caught a Starship coming back from orbit. \n\nFlight 15: Ship 42 flew 14 orbits, deployed 26 Starlink V3 satellites, and came home to the same tower it launched from. \n\nThe first ship catch ever. https://t.co/s5bvA4qYi4",
-      "link": "https://x.com/teslaownersSV/status/2121779842719138280",
-      "date": "Sun Nov 15 01:38:29 +0000 2026",
-      "tweet_id": "2121779842719138280",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121779695918440449/vid/avc1/1078x1920/aGR-BnLCBvwt_HZ_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121779695918440449/img/o4Z3YYrgRaVsSRps.jpg",
-          "local": "2121779842719138280_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121779695918440449/vid/avc1/1078x1920/aGR-BnLCBvwt_HZ_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121779695918440449/img/o4Z3YYrgRaVsSRps.jpg",
-          "local": "2121779842719138280_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "SpaceX 刚刚捕获了一艘从轨道返回的星际飞船。 \n\n飞行 15：42 号飞船飞行了 14 个轨道，部署了 26 颗星链 V3 卫星，并返回其发射的同一塔。 \n\n有史以来第一艘船捕获。 https://t.co/s5bvA4qYi4"
-    },
-    {
-      "text": "Elon Musk hugged ship 42 upon its return be like\n\nBaby Come Back🎶 https://t.co/aXTa3MPUZb",
-      "link": "https://x.com/Dogetothemoon/status/2121775882088116519",
-      "date": "Sun Nov 15 01:22:45 +0000 2026",
-      "tweet_id": "2121775882088116519",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121775467489591297/vid/avc1/1080x1442/_KZ82f6BDinIN9Ca.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121775467489591297/img/mlL78HzH-ShT7G9Y.jpg",
-          "local": "2121775882088116519_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121775467489591297/vid/avc1/1080x1442/_KZ82f6BDinIN9Ca.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121775467489591297/img/mlL78HzH-ShT7G9Y.jpg",
-          "local": "2121775882088116519_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "I hugged ship 42 upon its return",
-        "text_zh": "42号船返航时我拥抱了它"
-      },
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克在 42 号船返回时拥抱了它\n\n宝贝回来了🎶 https://t.co/aXTa3MPUZb"
-    },
-    {
-      "text": "Is the Cybertruck a complete flop? My honest take as an owner, and why I'm thankful Tesla is extending production. https://t.co/QUhHyaO6Ir",
-      "link": "https://x.com/teslaownersSV/status/2121770270075551806",
-      "date": "Sun Nov 15 01:00:27 +0000 2026",
-      "tweet_id": "2121770270075551806",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2121770186218799104/pu/vid/avc1/720x1280/xiX1iAP92T_VMLO0.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2121770186218799104/pu/img/rcZUfxQsIhr0zjeh.jpg",
-          "local": "2121770270075551806_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/ext_tw_video/2121770186218799104/pu/vid/avc1/720x1280/xiX1iAP92T_VMLO0.mp4?tag=12",
-          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2121770186218799104/pu/img/rcZUfxQsIhr0zjeh.jpg",
-          "local": "2121770270075551806_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Cyber​​truck彻底失败了吗？我作为车主的诚实看法，以及为什么我感谢特斯拉扩大生产。 https://t.co/QUhHyaO6Ir"
-    },
-    {
-      "text": "Starship heat shield after reentry, Flight 10 through Flight 15.\nFlights 10 and 11 flew V2 ships. Flights 12 through 15 flew V3. https://t.co/dgLZc5K0qP",
-      "link": "https://x.com/teslaownersSV/status/2121767624971628904",
-      "date": "Sun Nov 15 00:49:56 +0000 2026",
-      "tweet_id": "2121767624971628904",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=large",
-          "local": "2121767624971628904_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXIIaQYasAAux2t.jpg?format=jpg&name=large",
-          "local": "2121767624971628904_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "再入后的星舰隔热罩，航班 10 至航班 15。\n10 号和 11 号航班飞行的是 V2 舰艇。 12 至 15 号航班使用 V3。 https://t.co/dgLZc5K0qP"
-    },
-    {
-      "text": "How it started vs how it's going.\n\n2019: Starhopper, one Raptor engine and a water tower shape, hops 150 meters in South Texas.\n2026: Mechazilla catches Starship out of the air on Flight 15. https://t.co/sLgf8IIZSb",
-      "link": "https://x.com/teslaownersSV/status/2121764888238522565",
-      "date": "Sun Nov 15 00:39:04 +0000 2026",
-      "tweet_id": "2121764888238522565",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121764844525559808/vid/avc1/1920x1080/iaFJRbY9aA0-1j-o.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121764844525559808/img/lCLIDvmhLFNmV1ic.jpg",
-          "local": "2121764888238522565_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121764844525559808/vid/avc1/1920x1080/iaFJRbY9aA0-1j-o.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121764844525559808/img/lCLIDvmhLFNmV1ic.jpg",
-          "local": "2121764888238522565_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "它是如何开始的与它是如何进行的。\n\n2019 年：Starhopper，一台猛禽发动机和水塔形状，在德克萨斯州南部跳跃 150 米。\n2026 年：Mechazilla 在 15 号航班上捕获了空中的星舰。https://t.co/sLgf8IIZSb"
-    },
-    {
-      "text": "This is 🇺🇸\n\n📸@JoshWest247 https://t.co/k5EKqC7zf8",
-      "link": "https://x.com/UnpluggedTesla/status/2121760127703515482",
-      "date": "Sun Nov 15 00:20:09 +0000 2026",
-      "tweet_id": "2121760127703515482",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=large",
-          "local": "2121760127703515482_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXIBlaMbAAAofvt.jpg?format=jpg&name=large",
-          "local": "2121760127703515482_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "这是🇺🇸\n\n📸@JoshWest247 https://t.co/k5EKqC7zf8"
-    },
-    {
-      "text": "RT @MelissaCohoon: Congrats @SpaceX team! \n\nAgain, what a time to be alive. 🤯",
-      "link": "https://x.com/teslaownersSV/status/2121753294657962213",
-      "date": "Sat Nov 14 23:53:00 +0000 2026",
-      "tweet_id": "2121753294657962213",
-      "quoted": {
-        "user": "SpaceX",
-        "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
-            "local": "2121753294657962213q_0.jpg"
-          }
-        ],
-        "text_zh": "机甲齐拉抓住星舰！祝贺整个 SpaceX 团队取得这一令人难以置信的成就！"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @MelissaCohoon：恭喜@SpaceX 团队！ \n\n再说一次，活着是多么美好的时光啊。 🤯"
-    },
-    {
-      "text": "Elon Musk and SpaceX Did it. \n\nStarship catch secured. https://t.co/5sS96bQO4y",
-      "link": "https://x.com/teslaownersSV/status/2121750969721749767",
-      "date": "Sat Nov 14 23:43:46 +0000 2026",
-      "tweet_id": "2121750969721749767",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121750783804981248/vid/avc1/1920x1080/5qH6OQGiVTS2aaHQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750783804981248/img/TGPm4qfyYq2RM4lr.jpg",
-          "local": "2121750969721749767_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121750783804981248/vid/avc1/1920x1080/5qH6OQGiVTS2aaHQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750783804981248/img/TGPm4qfyYq2RM4lr.jpg",
-          "local": "2121750969721749767_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "@tobyliiiiiiiiii @Erdayastronaut @NASASpaceflight Might just catch the ship with the launch tower, same as booster",
-        "text_zh": "@tobyliiiiiiiiii @Erdayastronaut @NASASpaceflight 可能会用发射塔赶上飞船，与助推器相同"
-      },
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克和 SpaceX 做到了。 \n\n星舰卡扣固定。 https://t.co/5sS96bQO4y"
     }
   ]
 }
