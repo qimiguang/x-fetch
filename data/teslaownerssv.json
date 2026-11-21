@@ -1,8 +1,555 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-20T19:55:29Z",
+  "updated_at": "2026-11-21T02:06:49Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Elon Musk joined Tesla's official launch in Argentina by live video call: \"We look forward to providing Teslas and establishing a nationwide network of Superchargers. I really, really hope you enjoy the cars.\" https://t.co/0Gj9CxFCut",
+      "link": "https://x.com/teslaownersSV/status/2123949809015177338",
+      "date": "Sat Nov 21 01:21:10 +0000 2026",
+      "tweet_id": "2123949809015177338",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123949778455457792/vid/avc1/1920x1080/KgQVwdlZAx4bOsWN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123949778455457792/img/IuR8bs6N-hGo5KDs.jpg",
+          "local": "2123949809015177338_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123949778455457792/vid/avc1/1920x1080/KgQVwdlZAx4bOsWN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123949778455457792/img/IuR8bs6N-hGo5KDs.jpg",
+          "local": "2123949809015177338_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克通过现场视频通话参加了特斯拉在阿根廷的正式发布会：“我们期待提供特斯拉并建立全国性的超级充电站网络。我真的非常希望你们喜欢这些汽车。” https://t.co/0Gj9CxFCut"
+    },
+    {
+      "text": "RT @Newsforce: GROKBOT 1.0 IS HERE, AND IT COULD CHANGE EVERYTHING | THE STACK\n\n“I cannot tell you how much of a life changer it's been for…",
+      "link": "https://x.com/teslaownersSV/status/2123949727142261073",
+      "date": "Sat Nov 21 01:20:50 +0000 2026",
+      "tweet_id": "2123949727142261073",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP & ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the secret to fully reusable rockets? Could @Tesla's $29,990 Cybercab change car ownership forever? And is @AnthropicAI preparing for one of the biggest IPOs in history?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Starship Flight 15's dramatic catch, Tesla's personal Cybercab sales, the expansion of Robotaxi in Miami and Dallas, and the arrival of Grokbot 1.0.\n\nBut that's just the beginning. From @NVIDIA's record-breaking earnings amid a leadership shake-up to China's electric aircraft and humanoid robot breakthroughs, which technology could change everything next?\n\n02:07 - Starship's historic catch\n08:49 - Tesla Cybercab goes on sale\n17:00 - Robotaxi expands in Miami\n22:29 - Tesla's FSD milestone\n25:55 - Grokbot 1.0 arrives\n30:13 - Anthropic's massive IPO\n32:08 - NVIDIA's earnings and shake-up\n37:23 - China's electric aircraft",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
+            "local": "2123949727142261073q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Spacex 历史性的 Starship 捕获、NVIDIA 的领导层变动以及 Anthropic 的大规模 IPO\n\n@SpaceX 破解了完全可重复使用火箭的秘密吗？ @Tesla 售价 29,999 美元的 Cyber​​cab 能否永远改变汽车所有权？ @AnthropicAI 是否正在为历史上最大的 IPO 之一做准备？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了 Starship Flight 15 的戏剧性捕获、特斯拉的个人 Cyber​​cab 销售、Robotaxi 在迈阿密和达拉斯的扩张以及 Grokbot 1.0 的到来。\n\n但这只是开始。从 @NVIDIA 在领导层换届中创纪录的盈利，到中国电动飞机和人形机器人的突破，接下来哪种技术可以改变一切？\n\n02:07 - Starship 的历史性捕获\n08:49 - Tesla Cybercab 开始销售\n17:00 - Robotaxi 在迈阿密扩张\n22:29 - 特斯拉的 FSD 里程碑\n25:55 - Grokbot 1.0 到来\n30:13 - Anthropic 大规模首次公开募股\n32:08 - NVIDIA 的收益和重组\n37:23 - 中国的电动飞机"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：GROKBOT 1.0 就在这里，它可以改变一切 |堆栈\n\n“我无法告诉你它对生活的改变有多大......"
+    },
+    {
+      "text": "GROKBOT 1.0 IS HERE, AND IT COULD CHANGE EVERYTHING | THE STACK\n\n“I cannot tell you how much of a life changer it's been for me.”\n\n@SjvTesla and @teslaownersSV discuss the arrival of Grokbot 1.0 and its potential to transform everyday life, from managing emails and invoices to https://t.co/0Izvukx4nE",
+      "link": "https://x.com/Newsforce/status/2123948257152045346",
+      "date": "Sat Nov 21 01:15:00 +0000 2026",
+      "tweet_id": "2123948257152045346",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123792962010161152/vid/avc1/1920x1080/w1IYKUszpCCc-F-8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123792962010161152/img/8OXIDkXx23BsuVX7.jpg",
+          "local": "2123948257152045346_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123792962010161152/vid/avc1/1920x1080/w1IYKUszpCCc-F-8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123792962010161152/img/8OXIDkXx23BsuVX7.jpg",
+          "local": "2123948257152045346_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP & ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the secret to fully reusable rockets? Could @Tesla's $29,990 Cybercab change car ownership forever? And is @AnthropicAI preparing for one of the biggest IPOs in history?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Starship Flight 15's dramatic catch, Tesla's personal Cybercab sales, the expansion of Robotaxi in Miami and Dallas, and the arrival of Grokbot 1.0.\n\nBut that's just the beginning. From @NVIDIA's record-breaking earnings amid a leadership shake-up to China's electric aircraft and humanoid robot breakthroughs, which technology could change everything next?\n\n02:07 - Starship's historic catch\n08:49 - Tesla Cybercab goes on sale\n17:00 - Robotaxi expands in Miami\n22:29 - Tesla's FSD milestone\n25:55 - Grokbot 1.0 arrives\n30:13 - Anthropic's massive IPO\n32:08 - NVIDIA's earnings and shake-up\n37:23 - China's electric aircraft",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
+            "local": "2123948257152045346q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Spacex 历史性的 Starship 捕获、NVIDIA 的领导层变动以及 Anthropic 的大规模 IPO\n\n@SpaceX 破解了完全可重复使用火箭的秘密吗？ @Tesla 售价 29,999 美元的 Cyber​​cab 能否永远改变汽车所有权？ @AnthropicAI 是否正在为历史上最大的 IPO 之一做准备？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了 Starship Flight 15 的戏剧性捕获、特斯拉的个人 Cyber​​cab 销售、Robotaxi 在迈阿密和达拉斯的扩张以及 Grokbot 1.0 的到来。\n\n但这只是开始。从 @NVIDIA 在领导层换届中创纪录的盈利，到中国电动飞机和人形机器人的突破，接下来哪种技术可以改变一切？\n\n02:07 - Starship 的历史性捕获\n08:49 - Tesla Cybercab 开始销售\n17:00 - Robotaxi 在迈阿密扩张\n22:29 - 特斯拉的 FSD 里程碑\n25:55 - Grokbot 1.0 到来\n30:13 - Anthropic 大规模首次公开募股\n32:08 - NVIDIA 的收益和重组\n37:23 - 中国的电动飞机"
+      },
+      "ctx_done": 1,
+      "text_zh": "GROKBOT 1.0 已经到来，它可以改变一切 |堆栈\n\n“我无法告诉你这对我的生活有多大改变。”\n\n@SjvTesla 和 @teslaownersSV 讨论了 Grokbot 1.0 的到来及其改变日常生活的潜力，从管理电子邮件和发票到 https://t.co/0Izvukx4nE"
+    },
+    {
+      "text": "RT @Newsforce: TESLA'S $29,990 CYBERCAB IS FINALLY GOING ON SALE | THE STACK\n\n“Select customers are now being invited to purchase a Cyberca…",
+      "link": "https://x.com/teslaownersSV/status/2123935755265519634",
+      "date": "Sat Nov 21 00:25:19 +0000 2026",
+      "tweet_id": "2123935755265519634",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP & ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the secret to fully reusable rockets? Could @Tesla's $29,990 Cybercab change car ownership forever? And is @AnthropicAI preparing for one of the biggest IPOs in history?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Starship Flight 15's dramatic catch, Tesla's personal Cybercab sales, the expansion of Robotaxi in Miami and Dallas, and the arrival of Grokbot 1.0.\n\nBut that's just the beginning. From @NVIDIA's record-breaking earnings amid a leadership shake-up to China's electric aircraft and humanoid robot breakthroughs, which technology could change everything next?\n\n02:07 - Starship's historic catch\n08:49 - Tesla Cybercab goes on sale\n17:00 - Robotaxi expands in Miami\n22:29 - Tesla's FSD milestone\n25:55 - Grokbot 1.0 arrives\n30:13 - Anthropic's massive IPO\n32:08 - NVIDIA's earnings and shake-up\n37:23 - China's electric aircraft",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
+            "local": "2123935755265519634q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Spacex 历史性的 Starship 捕获、NVIDIA 的领导层变动以及 Anthropic 的大规模 IPO\n\n@SpaceX 破解了完全可重复使用火箭的秘密吗？ @Tesla 售价 29,999 美元的 Cyber​​cab 能否永远改变汽车所有权？ @AnthropicAI 是否正在为历史上最大的 IPO 之一做准备？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了 Starship Flight 15 的戏剧性捕获、特斯拉的个人 Cyber​​cab 销售、Robotaxi 在迈阿密和达拉斯的扩张以及 Grokbot 1.0 的到来。\n\n但这只是开始。从 @NVIDIA 在领导层换届中创纪录的盈利，到中国电动飞机和人形机器人的突破，接下来哪种技术可以改变一切？\n\n02:07 - Starship 的历史性捕获\n08:49 - Tesla Cybercab 开始销售\n17:00 - Robotaxi 在迈阿密扩张\n22:29 - 特斯拉的 FSD 里程碑\n25:55 - Grokbot 1.0 到来\n30:13 - Anthropic 大规模首次公开募股\n32:08 - NVIDIA 的收益和重组\n37:23 - 中国的电动飞机"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：特斯拉售价 29,990 美元的 CYBERCAB 终于上市 |堆栈\n\n“现在邀请部分客户购买 Cyberca..."
+    },
+    {
+      "text": "TESLA'S $29,990 CYBERCAB IS FINALLY GOING ON SALE | THE STACK\n\n“Select customers are now being invited to purchase a Cybercab for personal use.”\n\n@teslaownersSV and @SjvTesla discuss Tesla's Cybercab rollout, with a $29,990 price tag, a $299 monthly autonomy subscription, and a https://t.co/ngE6pMH9u3",
+      "link": "https://x.com/Newsforce/status/2123933158156677123",
+      "date": "Sat Nov 21 00:15:00 +0000 2026",
+      "tweet_id": "2123933158156677123",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123792262819680256/vid/avc1/1920x1080/Lr0gqLylEsQTdFRU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123792262819680256/img/0LEiQF7oG1FuKWs3.jpg",
+          "local": "2123933158156677123_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123792262819680256/vid/avc1/1920x1080/Lr0gqLylEsQTdFRU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123792262819680256/img/0LEiQF7oG1FuKWs3.jpg",
+          "local": "2123933158156677123_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP & ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the secret to fully reusable rockets? Could @Tesla's $29,990 Cybercab change car ownership forever? And is @AnthropicAI preparing for one of the biggest IPOs in history?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down Starship Flight 15's dramatic catch, Tesla's personal Cybercab sales, the expansion of Robotaxi in Miami and Dallas, and the arrival of Grokbot 1.0.\n\nBut that's just the beginning. From @NVIDIA's record-breaking earnings amid a leadership shake-up to China's electric aircraft and humanoid robot breakthroughs, which technology could change everything next?\n\n02:07 - Starship's historic catch\n08:49 - Tesla Cybercab goes on sale\n17:00 - Robotaxi expands in Miami\n22:29 - Tesla's FSD milestone\n25:55 - Grokbot 1.0 arrives\n30:13 - Anthropic's massive IPO\n32:08 - NVIDIA's earnings and shake-up\n37:23 - China's electric aircraft",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
+            "local": "2123933158156677123q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Spacex 历史性的 Starship 捕获、NVIDIA 的领导层变动以及 Anthropic 的大规模 IPO\n\n@SpaceX 破解了完全可重复使用火箭的秘密吗？ @Tesla 售价 29,999 美元的 Cyber​​cab 能否永远改变汽车所有权？ @AnthropicAI 是否正在为历史上最大的 IPO 之一做准备？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细介绍了 Starship Flight 15 的戏剧性捕获、特斯拉的个人 Cyber​​cab 销售、Robotaxi 在迈阿密和达拉斯的扩张以及 Grokbot 1.0 的到来。\n\n但这只是开始。从 @NVIDIA 在领导层换届中创纪录的盈利，到中国电动飞机和人形机器人的突破，接下来哪种技术可以改变一切？\n\n02:07 - Starship 的历史性捕获\n08:49 - Tesla Cybercab 开始销售\n17:00 - Robotaxi 在迈阿密扩张\n22:29 - 特斯拉的 FSD 里程碑\n25:55 - Grokbot 1.0 到来\n30:13 - Anthropic 大规模首次公开募股\n32:08 - NVIDIA 的收益和重组\n37:23 - 中国的电动飞机"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉售价 29,990 美元的 CYBERCAB 终于开售了堆栈\n\n“现在邀请部分客户购买 Cybercab 供个人使用。”\n\n@teslaownersSV 和 @SjvTesla 讨论了 Tesla Cyber​​cab 的推出，价格为 29,990 美元，每月 299 美元的自动驾驶订阅，以及 https://t.co/ngE6pMH9u3"
+    },
+    {
+      "text": "If I'm not in love, if I'm not with a long-term companion, I cannot be happy.\n\n— Elon Musk https://t.co/nP3SLGy2Ov",
+      "link": "https://x.com/teslaownersSV/status/2123920362580959499",
+      "date": "Fri Nov 20 23:24:09 +0000 2026",
+      "tweet_id": "2123920362580959499",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmuUFkakAAMghE.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmuUFkakAAMghE.jpg?format=jpg&name=large",
+          "local": "2123920362580959499_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmuUFkakAAMghE.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmuUFkakAAMghE.jpg?format=jpg&name=large",
+          "local": "2123920362580959499_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "如果我没有恋爱，如果我没有一个长期的伴侣，我就不会快乐。\n\n— 埃隆·马斯克 https://t.co/nP3SLGy2Ov"
+    },
+    {
+      "text": "RT @n0rminal: @teslaownersSV https://t.co/502tqPJ0QM",
+      "link": "https://x.com/teslaownersSV/status/2123918116803752425",
+      "date": "Fri Nov 20 23:15:14 +0000 2026",
+      "tweet_id": "2123918116803752425",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=large",
+          "local": "2123918116803752425_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=large",
+          "local": "2123918116803752425_1.jpg"
+        }
+      ],
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "RT @n0rminal：@teslaownersSV https://t.co/502tqPJ0QM"
+    },
+    {
+      "text": "RT @diywrapclub: Grateful to be a part of the Tesla Argentina launch! Model Y &amp; Cybertruck wrapped by yours truly 🇦🇷 https://t.co/95ZT6k7PTq",
+      "link": "https://x.com/teslaownersSV/status/2123917197278138570",
+      "date": "Fri Nov 20 23:11:34 +0000 2026",
+      "tweet_id": "2123917197278138570",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=large",
+          "local": "2123917197278138570_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=large",
+          "local": "2123917197278138570_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @diywrapclub：很高兴成为 Tesla 阿根廷发布会的一部分！ Model Y 和 Cyber​​truck 真正被你包裹着🇦🇷 https://t.co/95ZT6k7PTq"
+    },
+    {
+      "text": "Grateful to be a part of the Tesla Argentina launch! Model Y &amp; Cybertruck wrapped by yours truly 🇦🇷 https://t.co/95ZT6k7PTq",
+      "link": "https://x.com/diywrapclub/status/2123916223964684611",
+      "date": "Fri Nov 20 23:07:42 +0000 2026",
+      "tweet_id": "2123916223964684611",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp95PawAAb_qu.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp95PawAAb_qu.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp94SbEAE_P4L.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp94SbEAE_P4L.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp95Pa0AAMczd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp95Pa0AAMczd.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp94QawAA1NcL.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp95PawAAb_qu.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp95PawAAb_qu.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp94SbEAE_P4L.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp94SbEAE_P4L.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmp95Pa0AAMczd.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmp95Pa0AAMczd.jpg?format=jpg&name=large",
+          "local": "2123916223964684611_7.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "感谢成为 Tesla 阿根廷发布会的一部分！ Model Y 和 Cyber​​truck 真正被你包裹着🇦🇷 https://t.co/95ZT6k7PTq"
+    },
+    {
+      "text": "Thank you @XCreators @allegrajacchia for making 𝕏 the best monetized platform on social media https://t.co/EM5YwXxGLG",
+      "link": "https://x.com/teslaownersSV/status/2123916155266208199",
+      "date": "Fri Nov 20 23:07:26 +0000 2026",
+      "tweet_id": "2123916155266208199",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmqfJhbMAA_1HG.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmqfJhbMAA_1HG.jpg?format=jpg&name=large",
+          "local": "2123916155266208199_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXmqfJhbMAA_1HG.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXmqfJhbMAA_1HG.jpg?format=jpg&name=large",
+          "local": "2123916155266208199_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "allegrajacchia",
+        "text": "We’re building so much to make video creation on X as seamless as possible.\n\nI can’t wait for you to get your hands on what’s coming next 🥁",
+        "text_zh": "我们正在做很多工作，以使 X 上的视频创作尽可能无缝。\n\n我迫不及待地想让你了解接下来会发生什么 🥁"
+      },
+      "ctx_done": 1,
+      "text_zh": "感谢 @XCreators @allegrajacchia 使 𝕏 成为社交媒体上最好的货币化平台 https://t.co/EM5YwXxGLG"
+    },
+    {
+      "text": "Seven months ago, zero EU countries allowed FSD (Supervised). Today Italy became #12.\n\nThe Netherlands went first on April 10. Then came Lithuania, Estonia, Denmark, Belgium, Slovenia, Czechia, Croatia, Slovakia, Latvia and Finland. Italy is the first of the big ones. https://t.co/tPWd40APAC",
+      "link": "https://x.com/teslaownersSV/status/2123913721768718557",
+      "date": "Fri Nov 20 22:57:46 +0000 2026",
+      "tweet_id": "2123913721768718557",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123913584484990976/vid/avc1/1920x1080/7iyrGWSv7owZk7qQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123913584484990976/img/sOt217WMETGDBb2L.jpg",
+          "local": "2123913721768718557_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123913584484990976/vid/avc1/1920x1080/7iyrGWSv7owZk7qQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123913584484990976/img/sOt217WMETGDBb2L.jpg",
+          "local": "2123913721768718557_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "七个月前，零个欧盟国家允许 FSD（受监管）。今天意大利排名第12。\n\n4 月 10 日，荷兰排名第一。然后是立陶宛、爱沙尼亚、丹麦、比利时、斯洛文尼亚、捷克、克罗地亚、斯洛伐克、拉脱维亚和芬兰。意大利是第一个大国。 https://t.co/tPWd40APAC"
+    },
+    {
+      "text": "JUST IN: Neuralink user flying a plane in GTA VI with his brain. \n\nHow it started vs how it's going https://t.co/NmxXuEG6Co",
+      "link": "https://x.com/teslaownersSV/status/2123913070674378810",
+      "date": "Fri Nov 20 22:55:11 +0000 2026",
+      "tweet_id": "2123913070674378810",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123912997701844992/vid/avc1/1080x1350/rr3iXSTd_q96t9ed.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123912997701844992/img/pLibXs_EDuLGfUpf.jpg",
+          "local": "2123913070674378810_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123912997701844992/vid/avc1/1080x1350/rr3iXSTd_q96t9ed.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123912997701844992/img/pLibXs_EDuLGfUpf.jpg",
+          "local": "2123913070674378810_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "最新消息：Neuralink 用户在 GTA VI 中用大脑驾驶飞机。 \n\n它是如何开始的以及它是如何进行的 https://t.co/NmxXuEG6Co"
+    },
+    {
+      "text": "We’re building so much to make video creation on X as seamless as possible.\n\nI can’t wait for you to get your hands on what’s coming next 🥁",
+      "link": "https://x.com/allegrajacchia/status/2123912930039370092",
+      "date": "Fri Nov 20 22:54:37 +0000 2026",
+      "tweet_id": "2123912930039370092",
+      "quoted": {
+        "user": "XCreators",
+        "text": "Video is the fastest growing format on X. Posts with video get 5x the reach and engagement, and 36% of all impressions now go to video.\n\nWe've been building tools to help you create better videos without leaving X. Here's a recap of what we've shipped recently 🧵",
+        "text_zh": "视频是 X 上增长最快的格式。带有视频的帖子的覆盖范围和参与度提高了 5 倍，现在所有展示次数中有 36% 来自视频。\n\n我们一直在构建工具来帮助您在不离开 X 的情况下创建更好的视频。以下是我们最近发布的内容的回顾 🧵"
+      },
+      "ctx_done": 1,
+      "text_zh": "我们正在做很多工作，以使 X 上的视频创作尽可能无缝。\n\n我迫不及待地想让你了解接下来会发生什么 🥁"
+    },
+    {
+      "text": "The day Elon handed the first Cybertrucks to owners https://t.co/6h2i061s1E",
+      "link": "https://x.com/teslaownersSV/status/2123902021388697954",
+      "date": "Fri Nov 20 22:11:16 +0000 2026",
+      "tweet_id": "2123902021388697954",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123901990040453120/vid/avc1/1920x1080/2ubJVVRvoI8BAxOk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123901990040453120/img/6y_qasnUX2f7eTEW.jpg",
+          "local": "2123902021388697954_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123901990040453120/vid/avc1/1920x1080/2ubJVVRvoI8BAxOk.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123901990040453120/img/6y_qasnUX2f7eTEW.jpg",
+          "local": "2123902021388697954_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon 将第一辆 Cyber​​truck 交给车主的那一天 https://t.co/6h2i061s1E"
+    },
+    {
+      "text": "BREAKING: Apollo and Goldman Sachs priced about $44 billion of notes to buy Nvidia Vera Rubin GPUs for SpaceX, the largest GPU financing ever\n\nThe deal was oversubscribed and upsized on strong demand. BlackRock, Goldman Sachs Asset Management and KKR-advised accounts made anchor https://t.co/eQ6lPnWUOP",
+      "link": "https://x.com/teslaownersSV/status/2123857923243991267",
+      "date": "Fri Nov 20 19:16:02 +0000 2026",
+      "tweet_id": "2123857923243991267",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXl1fqCaoAA4iwF.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXl1fqCaoAA4iwF.jpg?format=jpg&name=large",
+          "local": "2123857923243991267_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXl1fqCaoAA4iwF.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXl1fqCaoAA4iwF.jpg?format=jpg&name=large",
+          "local": "2123857923243991267_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "突发新闻：阿波罗和高盛定价约 440 亿美元，为 SpaceX 购买 Nvidia Vera Rubin GPU，这是有史以来最大的 GPU 融资\n\n由于需求强劲，该交易获得超额认购并扩大规模。贝莱德、高盛资产管理和 KKR 建议的账户成为锚点 https://t.co/eQ6lPnWUOP"
+    },
+    {
+      "text": "We need flying cars in GTA 6 @ElonMusk make the call 😹 https://t.co/oAin8bEmFz",
+      "link": "https://x.com/teslaownersSV/status/2123854662868803958",
+      "date": "Fri Nov 20 19:03:05 +0000 2026",
+      "tweet_id": "2123854662868803958",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXlyTpEboAAD1Un.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXlyTpEboAAD1Un.jpg?format=jpg&name=large",
+          "local": "2123854662868803958_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXlyTpEboAAD1Un.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXlyTpEboAAD1Un.jpg?format=jpg&name=large",
+          "local": "2123854662868803958_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我们需要 GTA 6 中的飞行汽车 @ElonMusk 拨打电话 😹 https://t.co/oAin8bEmFz"
+    },
+    {
+      "text": "\"The most productive human being (@elonmusk)  and visionary human being on Earth.\"\nCathie Wood https://t.co/rKULEkum7N",
+      "link": "https://x.com/teslaownersSV/status/2123841047562510610",
+      "date": "Fri Nov 20 18:08:59 +0000 2026",
+      "tweet_id": "2123841047562510610",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123840897209323520/vid/avc1/1920x1080/df0B8M-LAkWTMQG4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123840897209323520/img/7CCOo91PECTDPrfC.jpg",
+          "local": "2123841047562510610_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123840897209323520/vid/avc1/1920x1080/df0B8M-LAkWTMQG4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123840897209323520/img/7CCOo91PECTDPrfC.jpg",
+          "local": "2123841047562510610_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“地球上最有生产力的人类（@elonmusk）和最有远见的人类。”\n凯茜·伍德 https://t.co/rKULEkum7N"
+    },
+    {
+      "text": "RT @teslaownersSV: Cybercab Hits Dallas, Starship Caught &amp; Musk Says 'Probably' Better Together: Tesla Beat #170 w/ @futureaza @matthewdr @…",
+      "link": "https://x.com/teslaownersSV/status/2123813758355243221",
+      "date": "Fri Nov 20 16:20:33 +0000 2026",
+      "tweet_id": "2123813758355243221",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：Cyber​​cab 袭击达拉斯，星舰被抓，马斯克表示“可能”更好：Tesla Beat #170 w/ @futureaza @matthewdr @…"
+    },
+    {
+      "text": "Cybercab Hits Dallas, Starship Caught &amp; Musk Says 'Probably' Better Together: Tesla Beat #170 w/ @futureaza @matthewdr @sjvtesla https://t.co/cya1gMv1Jm",
+      "link": "https://x.com/teslaownersSV/status/2123808840726585586",
+      "date": "Fri Nov 20 16:01:00 +0000 2026",
+      "tweet_id": "2123808840726585586",
+      "ctx_done": 1,
+      "text_zh": "Cyber​​cab 袭击达拉斯，星舰被抓，马斯克表示“可能”更好：Tesla Beat #170 w/ @futureaza @matthewdr @sjvtesla https://t.co/cya1gMv1Jm"
+    },
+    {
+      "text": "NEWS: Lufthansa is accelerating Starlink installations to 10 aircraft per month as the Lufthansa Group targets around 850 equipped planes by 2029.\n\n- The rollout will bring high-speed satellite Wi-Fi to passengers across all group airlines and travel classes.\n- The first https://t.co/31kWiV5TAL",
+      "link": "https://x.com/teslaownersSV/status/2123796816324100451",
+      "date": "Fri Nov 20 15:13:13 +0000 2026",
+      "tweet_id": "2123796816324100451",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=large",
+          "local": "2123796816324100451_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=large",
+          "local": "2123796816324100451_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：汉莎航空正在将 Starlink 的安装速度加快至每月 10 架飞机，汉莎航空集团的目标是到 2029 年安装约 850 架飞机。\n\n- 此次推出将为所有集团航空公司和旅行舱位的乘客提供高速卫星 Wi-Fi。\n- 第一个 https://t.co/31kWiV5TAL"
+    },
+    {
+      "text": "RT @Newsforce: THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP &amp; ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the…",
+      "link": "https://x.com/teslaownersSV/status/2123796597956059207",
+      "date": "Fri Nov 20 15:12:21 +0000 2026",
+      "tweet_id": "2123796597956059207",
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2123796597956059207q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @Newsforce：堆栈：SPACEX 历史性的星舰捕获、NVIDIA 的领导层变动以及 ANTHROPIC 的大规模 IPO\n\n@SpaceX 破解了……"
+    },
+    {
+      "text": "JUST IN: Tesla's FSD (Supervised) is now approved in Italy, the 12th European country to approve it. Rollout begins soon.\n\nIn Europe the system is called Tesla Assisted Driving. Italy joins the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, Czechia, Croatia, https://t.co/6KKHTDA7te",
+      "link": "https://x.com/teslaownersSV/status/2123767414596960732",
+      "date": "Fri Nov 20 13:16:23 +0000 2026",
+      "tweet_id": "2123767414596960732",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123767377582247936/vid/avc1/1920x1080/mHVF_fOxny7CFuiX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123767377582247936/img/mDYRw3rakxggkDbS.jpg",
+          "local": "2123767414596960732_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123767377582247936/vid/avc1/1920x1080/mHVF_fOxny7CFuiX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123767377582247936/img/mDYRw3rakxggkDbS.jpg",
+          "local": "2123767414596960732_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "最新消息：特斯拉的 FSD（受监管）现已在意大利获得批准，这是第 12 个获得批准的欧洲国家。即将开始推出。\n\n在欧洲，该系统被称为特斯拉辅助驾驶。意大利加入荷兰、立陶宛、爱沙尼亚、丹麦、比利时、斯洛文尼亚、捷克、克罗地亚的行列，https://t.co/6KKHTDA7te"
+    },
+    {
+      "text": "THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP &amp; ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the secret to fully reusable rockets? Could @Tesla's $29,990 Cybercab change car ownership forever? And is @AnthropicAI preparing for one of the biggest IPOs https://t.co/wk2HGto0QF",
+      "link": "https://x.com/Newsforce/status/2123736704401989681",
+      "date": "Fri Nov 20 11:14:22 +0000 2026",
+      "tweet_id": "2123736704401989681",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123734578955239424/vid/avc1/1920x1080/hZ0MQm5-xhCENFeb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
+          "local": "2123736704401989681_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123734578955239424/vid/avc1/1920x1080/hZ0MQm5-xhCENFeb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
+          "local": "2123736704401989681_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "Newsforce",
+        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
+            "local": "2123736704401989681q_0.jpg"
+          }
+        ],
+        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
+      },
+      "ctx_done": 1,
+      "text_zh": "堆栈：Spacex 历史性的 Starship 捕获、NVIDIA 的领导层变动以及 Anthropic 的大规模 IPO\n\n@SpaceX 破解了完全可重复使用火箭的秘密吗？ @Tesla 售价 29,999 美元的 Cyber​​cab 能否永远改变汽车所有权？ @AnthropicAI 正在为最大的 IPO 之一做准备吗 https://t.co/wk2HGto0QF"
+    },
     {
       "text": "I was dreamin' that it was 2024",
       "link": "https://x.com/teslaownersSV/status/2123684357244400035",
@@ -262,6 +809,29 @@
       ],
       "ctx_done": 1,
       "text_zh": "在迈阿密开车感觉就像真的在 GTA 😂"
+    },
+    {
+      "text": "@teslaownersSV https://t.co/502tqPJ0QM",
+      "link": "https://x.com/n0rminal/status/2123548747288150383",
+      "date": "Thu Nov 19 22:47:29 +0000 2026",
+      "tweet_id": "2123548747288150383",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=large",
+          "local": "2123548747288150383_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=large",
+          "local": "2123548747288150383_1.jpg"
+        }
+      ],
+      "reply_to": "teslaownersSV",
+      "ctx_done": 1,
+      "text_zh": "@teslaownersSV https://t.co/502tqPJ0QM"
     },
     {
       "text": "RT @Newsforce: Starship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack https://t.co/TBPjQXqQj3",
@@ -3540,633 +4110,6 @@
       },
       "ctx_done": 1,
       "text_zh": "天哪@teslaownersSV🥹🥹🥹🥹🥹@NICKIMINAJ 🔥🔥🔥🔥♥️♥️♥️♥️"
-    },
-    {
-      "text": "The moment @NICKIMINAJ met CyberBarb",
-      "link": "https://x.com/theXtakeover/status/2122115978377187482",
-      "date": "Sun Nov 15 23:54:10 +0000 2026",
-      "tweet_id": "2122115978377187482",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New York driving past like a wall.\" Her message to the wrap team: \"A plus plus plus.\"\n\nWrapped by @diywrapclub. BARBZ, Street Queen Noir, Gag City. Thanks @Tryangle for letting us use your truck. \n\n0:00 Coming up\n0:16 A surprise for Nicki\n0:30 The reveal and Nicki's reaction\n0:49 Full on Gag City\n1:12 Up close with the truck\n1:26 Nicki's first thoughts\n1:50 Nicki thanks the Tesla community\n2:10 A plus plus plus for the wrap\n2:20 A closer look at the wrap",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
-            "local": "2122115978377187482q_0.jpg"
-          }
-        ],
-        "text_zh": "我们在 Giga Texas 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在纽约，就像一堵墙一样开车经过。”她向包装团队传达的信息是：“加分加分。”\n\n由@diywrapclub 包装。 BARBZ、黑色街头女王、搞笑之城。感谢@Tryangle 让我们使用您的卡车。 \n\n0:00 即将到来\n0:16 给 Nicki 一个惊喜\n0:30 揭露和尼基的反应\n0:49 全面畅玩堵嘴城\n1:12 近距离接触卡车\n1:26 Nicki的第一个想法\n1:50 Nicki 感谢特斯拉社区\n2:10 包裹的加号加号\n2:20 仔细观察包装"
-      },
-      "ctx_done": 1,
-      "text_zh": "@NICKIMINAJ 遇见 Cyber​​Barb 的那一刻"
-    },
-    {
-      "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New https://t.co/bJJbf3GPMI",
-      "link": "https://x.com/teslaownersSV/status/2122115802468159634",
-      "date": "Sun Nov 15 23:53:28 +0000 2026",
-      "tweet_id": "2122115802468159634",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
-          "local": "2122115802468159634_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
-          "local": "2122115802468159634_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我们在 Giga Texas 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在新 https://t.co/bJJbf3GPMI"
-    },
-    {
-      "text": "In 1995, @elonmusk  applied for a job at Netscape and never got a reply. He went and stood in their lobby, too shy to talk to anyone, then left.\n\nHere he is in 2012 at the Tesla factory telling the story. He put Stanford on hold, started Zip2 with his brother, and never went https://t.co/ZpVPlVEMkU",
-      "link": "https://x.com/teslaownersSV/status/2122114264546820396",
-      "date": "Sun Nov 15 23:47:22 +0000 2026",
-      "tweet_id": "2122114264546820396",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122114161408880640/vid/avc1/1920x1080/U4TtHKecJzZEHBgj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114161408880640/img/7P_0hzMe1e3R8Ut0.jpg",
-          "local": "2122114264546820396_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122114161408880640/vid/avc1/1920x1080/U4TtHKecJzZEHBgj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114161408880640/img/7P_0hzMe1e3R8Ut0.jpg",
-          "local": "2122114264546820396_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "1995 年，@elonmusk 向 Netscape 申请了一份工作，但从未得到回复。他走到他们的大厅里，害羞得不敢和任何人说话，然后就离开了。\n\n2012 年，他在特斯拉工厂讲述了这个故事。他搁置了斯坦福大学，与他的兄弟一起创办了 Zip2，但从未去过 https://t.co/ZpVPlVEMkU"
-    },
-    {
-      "text": "Elon's Cybercab math from 2024: a city bus costs about a dollar a mile to run. Cybercab's operating cost, around 20 cents a mile.\n\nHe said the cost of autonomous transport would be so low \"that you can think of it like individualized mass transit.\"\n\nThen he promised: \"And you https://t.co/0CqYzj6Dox",
-      "link": "https://x.com/teslaownersSV/status/2122103388339139022",
-      "date": "Sun Nov 15 23:04:09 +0000 2026",
-      "tweet_id": "2122103388339139022",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122103286505574400/vid/avc1/1920x1080/snuHXGJakVUtMIe-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122103286505574400/img/iMRu3jYQm1PTHtM7.jpg",
-          "local": "2122103388339139022_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122103286505574400/vid/avc1/1920x1080/snuHXGJakVUtMIe-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122103286505574400/img/iMRu3jYQm1PTHtM7.jpg",
-          "local": "2122103388339139022_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 对 2024 年 Cyber​​cab 的计算：城市公交车每英里的运行成本约为 1 美元。 Cyber​​cab的运营成本约为每英里20美分。\n\n他表示，自动驾驶交通的成本非常低，“你可以把它想象成个性化的公共交通。”\n\n然后他承诺：“而你 https://t.co/0CqYzj6Dox"
-    },
-    {
-      "text": "Elon Musk called full reusability the holy grail. Now the tower has caught the booster and the ship.\n\nAt Starbase in Feb 2022, @elonmusk said: \"The essential technology, the holy grail breakthrough that's needed, is a rapid and completely reusable rocket system. So this has never https://t.co/00pSi9DW2G",
-      "link": "https://x.com/teslaownersSV/status/2122096579066867905",
-      "date": "Sun Nov 15 22:37:05 +0000 2026",
-      "tweet_id": "2122096579066867905",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122096509416263680/vid/avc1/1920x1080/2esmVmiSTVZZu05k.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122096509416263680/img/pcBLcxg1jed_L4nj.jpg",
-          "local": "2122096579066867905_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122096509416263680/vid/avc1/1920x1080/2esmVmiSTVZZu05k.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122096509416263680/img/pcBLcxg1jed_L4nj.jpg",
-          "local": "2122096579066867905_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 将完全可重用性称为圣杯。现在塔已经抓住了助推器和船。\n\n2022 年 2 月，@elonmusk 在 Starbase 上表示：“所需的基本技术、圣杯突破是一种快速且完全可重复使用的火箭系统。所以这从来没有 https://t.co/00pSi9DW2G"
-    },
-    {
-      "text": "82% of respondents want a three-row CyberSUV. The line to build it is about to be dismantled. Our proposal keeps it alive at no added cost to Tesla. Tesla keeps the IP, signs its first FSD license, and earns on every vehicle.\n👇 https://t.co/y9y33EuLPr",
-      "link": "https://x.com/UnpluggedTesla/status/2122092173613289516",
-      "date": "Sun Nov 15 22:19:35 +0000 2026",
-      "tweet_id": "2122092173613289516",
-      "ctx_done": 1,
-      "text_zh": "82% 的受访者想要一辆三排座 Cyber​​SUV。建造它的生产线即将拆除。我们的提议使其保持活力，且不会增加特斯拉的成本。特斯拉保留了该知识产权，签署了第一个 FSD 许可证，并从每辆车上获利。\n👇 https://t.co/y9y33EuLPr"
-    },
-    {
-      "text": "Post a photo of you and someone you\nMet from 𝕏. https://t.co/tQvAlkqWoI",
-      "link": "https://x.com/teslaownersSV/status/2122086712776302791",
-      "date": "Sun Nov 15 21:57:53 +0000 2026",
-      "tweet_id": "2122086712776302791",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=large",
-          "local": "2122086712776302791_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMqnjlbkAAkihX.jpg?format=jpg&name=large",
-          "local": "2122086712776302791_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "发布您和您的某人的照片\n从𝕏认识。 https://t.co/tQvAlkqWoI"
-    },
-    {
-      "text": "Elon's case for Optimus isn't really about robots. It's about what happens to the economy.\n\n\"It's not clear what an economy even means at that point. An economy becomes quasi-infinite.\"\n\nTaken to fruition, he said, \"this means a future of abundance, a future where there is no https://t.co/oG06kTQynl",
-      "link": "https://x.com/teslaownersSV/status/2122086621285961782",
-      "date": "Sun Nov 15 21:57:31 +0000 2026",
-      "tweet_id": "2122086621285961782",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122086435121664000/vid/avc1/1920x1080/RHw5J-dlv7BOptTj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122086435121664000/img/0TKam_MRI_iM1KpM.jpg",
-          "local": "2122086621285961782_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122086435121664000/vid/avc1/1920x1080/RHw5J-dlv7BOptTj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122086435121664000/img/0TKam_MRI_iM1KpM.jpg",
-          "local": "2122086621285961782_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆的擎天柱案例实际上并不是关于机器人。这是关于经济发生的事情。\n\n“当时还不清楚经济意味着什么。经济变得准无限。”\n\n他说，一旦实现，“这意味着一个富裕的未来，一个没有任何东西的未来 https://t.co/oG06kTQynl"
-    },
-    {
-      "text": "Elon Musk still working on a Sunday \n\nHe never stops.  https://t.co/haHEOPhFuV",
-      "link": "https://x.com/teslaownersSV/status/2122079341425332303",
-      "date": "Sun Nov 15 21:28:35 +0000 2026",
-      "tweet_id": "2122079341425332303",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122062922968879105/vid/avc1/2160x3840/W57Shr90QNa61w3x.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122062922968879105/img/IOpCPSb0Yrz-3xtJ.jpg",
-          "local": "2122079341425332303_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122062922968879105/vid/avc1/2160x3840/W57Shr90QNa61w3x.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122062922968879105/img/IOpCPSb0Yrz-3xtJ.jpg",
-          "local": "2122079341425332303_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克周日仍在工作 \n\n他从不停止。  https://t.co/haHEOPhFuV"
-    },
-    {
-      "text": "RT @sdlocke1: Thought I would test out uploading multiple pictures by posting a few of my photos from the X Takeover 2026. I know they are…",
-      "link": "https://x.com/teslaownersSV/status/2122059281222828531",
-      "date": "Sun Nov 15 20:08:53 +0000 2026",
-      "tweet_id": "2122059281222828531",
-      "ctx_done": 1,
-      "text_zh": "RT @sdlocke1：我想通过发布 X Takeover 2026 中的一些照片来测试上传多张照片。我知道它们是……"
-    },
-    {
-      "text": "Thought I would test out uploading multiple pictures by posting a few of my photos from the X Takeover 2026. I know they are a little delayed but such is life!\n\n@teslaownersSV @theXtakeover @LandonoftheWest @mayemusk @NICKIMINAJ @SjvTesla https://t.co/11XWLl0mTe",
-      "link": "https://x.com/sdlocke1/status/2122059139245396468",
-      "date": "Sun Nov 15 20:08:19 +0000 2026",
-      "tweet_id": "2122059139245396468",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_8.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_9.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_10.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_11.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxAXAAA4ujN.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_12.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxSXkAA6QNL.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_13.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxCW0AA8ep5.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_14.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXw_XkAAtYVj.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_15.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxCWcAA967q.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_16.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxDWkAEtVLF.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_17.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxIXwAAYiFD.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_18.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxsXoAAOQM0.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_19.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXw_WwAAtq3e.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_20.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxGW8AIvV61.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_21.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXxBWoAA54he.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_22.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMRXw-WEAEdhEe.jpg?format=jpg&name=large",
-          "local": "2122059139245396468_23.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我想通过发布一些来自 X Takeover 2026 的照片来测试上传多张照片。我知道它们有点延迟，但这就是生活！\n\n@teslaownersSV @theXtakeover @LandonoftheWest @mayemusk @NICKIMINAJ @SjvTesla https://t.co/11XWLl0mTe"
-    },
-    {
-      "text": "Elon Musk is creating an exciting future. https://t.co/F7LOlQTnyh",
-      "link": "https://x.com/teslaownersSV/status/2122045091527405816",
-      "date": "Sun Nov 15 19:12:30 +0000 2026",
-      "tweet_id": "2122045091527405816",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122045035210571776/vid/avc1/1920x1080/z2bPdbV_LOju06bG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122045035210571776/img/91ZgaOTIlALerkMt.jpg",
-          "local": "2122045091527405816_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122045035210571776/vid/avc1/1920x1080/z2bPdbV_LOju06bG.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122045035210571776/img/91ZgaOTIlALerkMt.jpg",
-          "local": "2122045091527405816_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克正在创造一个令人兴奋的未来。 https://t.co/F7LOlQTnyh"
-    },
-    {
-      "text": "Elon Musk is inspiring so many future generations  https://t.co/I3idxhsGLw",
-      "link": "https://x.com/teslaownersSV/status/2122043654294606011",
-      "date": "Sun Nov 15 19:06:47 +0000 2026",
-      "tweet_id": "2122043654294606011",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=large",
-          "local": "2122043654294606011_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXLBqyrXcAAENau.jpg?format=jpg&name=large",
-          "local": "2122043654294606011_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克激励着许多后代 https://t.co/I3idxhsGLw"
-    },
-    {
-      "text": "Legacy media titles of the Starship catch \n\nProbably the most positive I’ve ever seen. https://t.co/nuaFqofPSz",
-      "link": "https://x.com/teslaownersSV/status/2122043518487343371",
-      "date": "Sun Nov 15 19:06:15 +0000 2026",
-      "tweet_id": "2122043518487343371",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=large",
-          "local": "2122043518487343371_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXMDVV9aUAAyFtb.jpg?format=jpg&name=large",
-          "local": "2122043518487343371_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Legacy media titles of the Starship catch \n\nProbably the most positive I’ve ever seen. https://t.co/nuaFqofPSz"
-    },
-    {
-      "text": "\"In a certain sense, entrepreneurs sacrifice their peace of mind in order to contribute to the world around them. And @elonmusk is a great example of that.\"\nPavel Durov https://t.co/E1w6TEB298",
-      "link": "https://x.com/teslaownersSV/status/2122035008940748807",
-      "date": "Sun Nov 15 18:32:26 +0000 2026",
-      "tweet_id": "2122035008940748807",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122034950103007232/vid/avc1/1920x1080/_YXKekA9O2BVUkL0.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122034950103007232/img/y0WifE-cnYBvBWPF.jpg",
-          "local": "2122035008940748807_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122034950103007232/vid/avc1/1920x1080/_YXKekA9O2BVUkL0.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122034950103007232/img/y0WifE-cnYBvBWPF.jpg",
-          "local": "2122035008940748807_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“从某种意义上说，企业家牺牲了内心的平静，以便为周围的世界做出贡献。@elonmusk 就是一个很好的例子。”\n帕维尔·杜罗夫 https://t.co/E1w6TEB298"
-    },
-    {
-      "text": "Yes this happened.\n\nStarship was caught and we have a fully reusable rocket to get us to Mars  https://t.co/y0bNAD5TGd",
-      "link": "https://x.com/teslaownersSV/status/2122014811966063079",
-      "date": "Sun Nov 15 17:12:10 +0000 2026",
-      "tweet_id": "2122014811966063079",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121727249301012480/vid/avc1/1920x1080/KkrPFksqw9LDFolk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121727249301012480/img/x-BeKNKLfTzpJeRx.jpg",
-          "local": "2122014811966063079_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121727249301012480/vid/avc1/1920x1080/KkrPFksqw9LDFolk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121727249301012480/img/x-BeKNKLfTzpJeRx.jpg",
-          "local": "2122014811966063079_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "是的，这发生了。\n\n星舰被抓住了，我们有一个完全可重复使用的火箭来送我们去火星 https://t.co/y0bNAD5TGd"
-    },
-    {
-      "text": "Never give up.\n\n2006: After Falcon 1 Flight 1 failed, Elon Musk crouched in the wreckage on Omelek Island.\n2026: After SpaceX caught Ship 42 at the tower on Flight 15, he hugged it.\n\n\"I hugged ship 42 upon its return.\"\nElon Musk\n\nPhoto: Hans Koenigsmann (2006)\nQuote: @elonmusk https://t.co/0ZU9ktu6Nx",
-      "link": "https://x.com/teslaownersSV/status/2121999703093211572",
-      "date": "Sun Nov 15 16:12:08 +0000 2026",
-      "tweet_id": "2121999703093211572",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXLbe9qbkAArdZZ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXLbe9qbkAArdZZ.jpg?format=jpg&name=large",
-          "local": "2121999703093211572_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXLbe9qbkAArdZZ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXLbe9qbkAArdZZ.jpg?format=jpg&name=large",
-          "local": "2121999703093211572_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "永不放弃。\n\n2006 年：猎鹰 1 号飞行 1 号失败后，埃隆·马斯克蹲在奥梅莱克岛的残骸中。\n2026 年：SpaceX 在 15 号航班上在塔楼捕获 42 号船后，他拥抱了它。\n\n“42号船回来时我拥抱了它。”\n埃隆·马斯克\n\n照片：汉斯·柯尼斯曼 (2006)\n引用：@elonmusk https://t.co/0ZU9ktu6Nx"
-    },
-    {
-      "text": "Can’t wait to go to 𝕏 takeover Japan",
-      "link": "https://x.com/teslaownersSV/status/2121885261705650502",
-      "date": "Sun Nov 15 08:37:23 +0000 2026",
-      "tweet_id": "2121885261705650502",
-      "quoted": {
-        "user": "TeslaOwners_JP",
-        "text": "【パシフィコ横浜で懇親会？！🥂】\n今年の前夜祭はなんとパシフィコ横浜のホール内で飲み食い体験ができちゃう！\n\n内容も決まってきました！\n\n・ここだけのステージトーク\n・参加者全員にノベルティ有り\n・テーブル対抗クイズ\n\n初めての方でも楽しめるような工夫盛りだくさんにしてます✨ https://t.co/pb07cAjNqz",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=large",
-            "local": "2121885261705650502q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=large",
-            "local": "2121885261705650502q_1.jpg"
-          }
-        ],
-        "text_zh": "[横滨太平洋广场的社交聚会？ ！ 🥂】\n今年的除夕夜，你可以在Pacifico Yokohama大厅体验吃吃喝喝！\n\n内容也已经决定了！\n\n・只有这里才有舞台演讲\n・对所有参与者来说都是新奇的\n・桌上竞赛测验\n\n我们有很多想法，即使是初次使用的用户也可以享受它✨ https://t.co/pb07cAjNqz"
-      },
-      "ctx_done": 1,
-      "text_zh": "迫不及待地想去𝕏接管日本"
-    },
-    {
-      "text": "【パシフィコ横浜で懇親会？！🥂】\n今年の前夜祭はなんとパシフィコ横浜のホール内で飲み食い体験ができちゃう！\n\n内容も決まってきました！\n\n・ここだけのステージトーク\n・参加者全員にノベルティ有り\n・テーブル対抗クイズ\n\n初めての方でも楽しめるような工夫盛りだくさんにしてます✨ https://t.co/pb07cAjNqz",
-      "link": "https://x.com/TeslaOwners_JP/status/2121883254647312628",
-      "date": "Sun Nov 15 08:29:25 +0000 2026",
-      "tweet_id": "2121883254647312628",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=large",
-          "local": "2121883254647312628_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXJxICXbgAAtwI6.jpg?format=jpg&name=large",
-          "local": "2121883254647312628_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "[横滨太平洋广场的社交聚会？ ！ 🥂】\n今年的除夕夜，你可以在Pacifico Yokohama大厅体验吃吃喝喝！\n\n内容也已经决定了！\n\n・只有这里才有舞台演讲\n・对所有参与者来说都是新奇的\n・桌上竞赛测验\n\n我们有很多想法，即使是初次使用的用户也可以享受它✨ https://t.co/pb07cAjNqz"
-    },
-    {
-      "text": "Mars here we go \n\nkardashev II is a go now. https://t.co/ZzQMfpDDW3",
-      "link": "https://x.com/teslaownersSV/status/2121876354434310517",
-      "date": "Sun Nov 15 08:02:00 +0000 2026",
-      "tweet_id": "2121876354434310517",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXJrTJybUAEuHGL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXJrTJybUAEuHGL.jpg?format=jpg&name=large",
-          "local": "2121876354434310517_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXJrTJybUAEuHGL.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXJrTJybUAEuHGL.jpg?format=jpg&name=large",
-          "local": "2121876354434310517_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "火星我们来了 \n\n卡尔达舍夫二世现在就开始吧。 https://t.co/ZzQMfpDDW3"
-    },
-    {
-      "text": "RT @teslaownersSV: Elon Musk and SpaceX Did it. \n\nStarship catch secured. https://t.co/5sS96bQO4y",
-      "link": "https://x.com/teslaownersSV/status/2121875755915436142",
-      "date": "Sun Nov 15 07:59:37 +0000 2026",
-      "tweet_id": "2121875755915436142",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121750783804981248/vid/avc1/1920x1080/5qH6OQGiVTS2aaHQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750783804981248/img/TGPm4qfyYq2RM4lr.jpg",
-          "local": "2121875755915436142_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121750783804981248/vid/avc1/1920x1080/5qH6OQGiVTS2aaHQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121750783804981248/img/TGPm4qfyYq2RM4lr.jpg",
-          "local": "2121875755915436142_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "@tobyliiiiiiiiii @Erdayastronaut @NASASpaceflight Might just catch the ship with the launch tower, same as booster",
-        "text_zh": "@tobyliiiiiiiiii @Erdayastronaut @NASASpaceflight 可能会用发射塔赶上飞船，与助推器相同"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：埃隆·马斯克和 SpaceX 做到了。 \n\n星舰卡扣固定。 https://t.co/5sS96bQO4y"
-    },
-    {
-      "text": "RT @teslaownersSV: SpaceX just caught a Starship coming back from orbit. \n\nFlight 15: Ship 42 flew 14 orbits, deployed 26 Starlink V3 satel…",
-      "link": "https://x.com/teslaownersSV/status/2121875166817124529",
-      "date": "Sun Nov 15 07:57:16 +0000 2026",
-      "tweet_id": "2121875166817124529",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：SpaceX 刚刚捕获了一艘从轨道返回的星际飞船。 \n\n飞行15：42号飞船飞行了14个轨道，部署了26颗星链V3卫星……"
-    },
-    {
-      "text": "RT @DeasonCash: Flight 15 Booster 22 re-entry &amp; controlled detonation over the Gulf https://t.co/QQ1eV7FTuY",
-      "link": "https://x.com/teslaownersSV/status/2121838694000890049",
-      "date": "Sun Nov 15 05:32:21 +0000 2026",
-      "tweet_id": "2121838694000890049",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121830139604369408/vid/avc1/720x1280/eSvcwJ-s0GTPKNJ4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121830139604369408/img/kIF2JOPGqk-CRp80.jpg",
-          "local": "2121838694000890049_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121830139604369408/vid/avc1/720x1280/eSvcwJ-s0GTPKNJ4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121830139604369408/img/kIF2JOPGqk-CRp80.jpg",
-          "local": "2121838694000890049_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "RT @DeasonCash：15 号航班助推器 22 重返大气层并在海湾上空受控爆炸 https://t.co/QQ1eV7FTuY"
-    },
-    {
-      "text": "Flight 15 Booster 22 re-entry &amp; controlled detonation over the Gulf https://t.co/QQ1eV7FTuY",
-      "link": "https://x.com/DeasonCash/status/2121830192263860458",
-      "date": "Sun Nov 15 04:58:34 +0000 2026",
-      "tweet_id": "2121830192263860458",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121830139604369408/vid/avc1/720x1280/eSvcwJ-s0GTPKNJ4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121830139604369408/img/kIF2JOPGqk-CRp80.jpg",
-          "local": "2121830192263860458_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2121830139604369408/vid/avc1/720x1280/eSvcwJ-s0GTPKNJ4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121830139604369408/img/kIF2JOPGqk-CRp80.jpg",
-          "local": "2121830192263860458_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "15 号航班助推器 22 重返大气层并在海湾上空受控爆炸 https://t.co/QQ1eV7FTuY"
     }
   ]
 }
