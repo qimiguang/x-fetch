@@ -1,8 +1,16 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-21T02:07:36Z",
+  "updated_at": "2026-11-21T10:52:37Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Tesla teases Self-Driving 15 as part of this year's holiday update\n\nhttps://t.co/bXJDufDmp7",
+      "link": "https://x.com/wholemars/status/2124072556462506055",
+      "date": "Sat Nov 21 09:28:55 +0000 2026",
+      "tweet_id": "2124072556462506055",
+      "ctx_done": 1,
+      "text_zh": "特斯拉将自动驾驶 15 作为今年假期更新的一部分\n\nhttps://t.co/bXJDufDmp7"
+    },
     {
       "text": "We have reusable rockets, personally owned autonomous vehicles, and grand theft auto VI. the future is awesome",
       "link": "https://x.com/wholemars/status/2123338384613769317#m",
@@ -2528,27 +2536,6 @@
       },
       "ctx_done": 1,
       "text_zh": "这家伙乱搞\n视频"
-    },
-    {
-      "text": "Our definition of crashes is so loose with autonomous vehicles. Going through a pothole is not a car crash 😂\nTesla has reported the first Cybercab crash to the National Highway Traffic Safety Administration (NHTSA).\nAccording to the report, a Cybercab was traveling at approximately 5 mph (8 km/h) when it drove into a large, water-filled pothole, causing damage to the vehicle.\nPersonally, I don't think this incident should be viewed in the same way as a typical traffic accident.\nAt the time, a safety monitor was inside the vehicle, and there were no passengers.\nWhile the vehicle sustained damage and the incident was officially reported as a crash, I believe it makes more sense to view this as an edge case encountered during autonomous driving development and testing.\nAfter all, identifying and learning from these unusual scenarios is an essential part of improving autonomous driving technology and making it safer and more reliable.",
-      "link": "https://nitter.kareem.one/wholemars/status/2113670397044613298#m",
-      "date": "Fri, 23 Oct 2026 16:34:27 GMT",
-      "tweet_id": "2113670397044613298",
-      "quoted": {
-        "user": "TeslaZoa",
-        "text": "Tesla has reported the first Cybercab crash to the National Highway Traffic Safety Administration (NHTSA).\n\nAccording to the report, a Cybercab was traveling at approximately 5 mph (8 km/h) when it drove into a large, water-filled pothole, causing damage to the vehicle.\n\nPersonally, I don't think this incident should be viewed in the same way as a typical traffic accident.\n\nAt the time, a safety monitor was inside the vehicle, and there were no passengers.\n\nWhile the vehicle sustained damage and the incident was officially reported as a crash, I believe it makes more sense to view this as an edge case encountered during autonomous driving development and testing.\n\nAfter all, identifying and learning from these unusual scenarios is an essential part of improving autonomous driving technology and making it safer and more reliable.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVSyKd6bYAELZJ2.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVSyKd6bYAELZJ2.png?name=orig",
-            "local": "2113670397044613298q_0.jpg"
-          }
-        ],
-        "text_zh": "特斯拉已向美国国家公路交通安全管理局 (NHTSA) 报告了第一起 Cyber​​cab 事故。\n\n报告称，一辆 Cyber​​cab 以大约 5 英里/小时（8 公里/小时）的速度行驶，突然驶入一个充满水的大坑，导致车辆损坏。\n\n就我个人而言，我认为这起事件不应该像典型的交通事故一样来看待。\n\n当时，车内装有安全监视器，且没有乘客。\n\n虽然车辆遭受损坏并且该事件被正式报告为碰撞，但我认为将其视为自动驾驶开发和测试期间遇到的边缘情况更有意义。\n\n毕竟，识别这些不寻常的场景并从中学习是改进自动驾驶技术并使其更安全、更可靠的重要组成部分。"
-      },
-      "ctx_done": 1,
-      "text_zh": "对于自动驾驶汽车，我们对碰撞的定义非常宽松。走过坑洼不是车祸😂\n特斯拉已向美国国家公路交通安全管理局 (NHTSA) 报告了第一起 Cybercab 事故。\n报告称，一辆 Cyber​​cab 以大约 5 英里/小时（8 公里/小时）的速度行驶，突然驶入一个充满水的大坑，导致车辆损坏。\n就我个人而言，我认为这起事件不应该像典型的交通事故一样来看待。\n当时，车内有安全监视器，且没有乘客。\n虽然车辆遭受损坏并且该事件被正式报告为碰撞，但我认为将其视为自动驾驶开发和测试期间遇到的边缘情况更有意义。\n毕竟，识别这些不寻常的场景并从中学习是改进自动驾驶技术并使其更安全、更可靠的重要组成部分。"
     }
   ]
 }

@@ -1,8 +1,226 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-21T02:04:22Z",
+  "updated_at": "2026-11-21T10:48:14Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "is the beginning of the “super” part of Tesla SI",
+      "link": "https://x.com/elonmusk/status/2124071338394399028#m",
+      "date": "Sat, 21 Nov 2026 09:24:05 GMT",
+      "tweet_id": "2124071338394399028",
+      "quoted": {
+        "user": "aelluswamy",
+        "text": "XV",
+        "text_zh": "十五"
+      },
+      "ctx_done": 1,
+      "text_zh": "是特斯拉SI“超级”部分的开始"
+    },
+    {
+      "text": "Banger",
+      "link": "https://x.com/elonmusk/status/2124070328158900294#m",
+      "date": "Sat, 21 Nov 2026 09:20:04 GMT",
+      "tweet_id": "2124070328158900294",
+      "quoted": {
+        "user": "TimSweeneyEpic",
+        "text": "Props to Rockstar, GTA 6 shipped before the Riemann Hypothesis was proven!",
+        "text_zh": "向 Rockstar 致敬，GTA 6 在黎曼猜想得到证实之前就已经发售了！"
+      },
+      "ctx_done": 1,
+      "text_zh": "班格"
+    },
+    {
+      "text": "Starlink saves lives\nVideo",
+      "link": "https://x.com/elonmusk/status/2124069831989178660#m",
+      "date": "Sat, 21 Nov 2026 09:18:05 GMT",
+      "tweet_id": "2124069831989178660",
+      "quoted": {
+        "user": "cb_doge",
+        "text": "Starlink is being deployed to help fight DR Congo’s deadly Ebola outbreak. 🇨🇩\n\nAfrica CDC has donated Starlink kits to health officials in Beni to help frontline teams share critical data in real time and coordinate faster responses, even in remote communities.",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123837653955276800/img/FexSLbpkJMe6qfNH.jpg",
+            "local": "2124069831989178660q_0.jpg"
+          }
+        ],
+        "text_zh": "部署星链是为了帮助对抗刚果民主共和国致命的埃博拉疫情。 🇨🇩\n\n非洲疾病预防控制中心已向贝尼的卫生官员捐赠了星链套件，以帮助一线团队实时共享关键数据并协调更快的反应，即使在偏远社区也是如此。"
+      },
+      "ctx_done": 1,
+      "text_zh": "星链拯救生命\n视频"
+    },
+    {
+      "text": "Starlink helps education\n\n\nX Freeze (@XFreeze)\n\nSpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high-speed internet 🇵🇾\n\nAnd the rollout has already reached a major milestone!\n\nCOPACO has completed the first phase, connecting 800 schools across Paraguay, and has received another 400 Starlink kits for the next phase\n\nHere's where things stand:\n\n• 800 schools already connected\n• 400 additional kits received for phase two\n• Another 400 planned for the final phase\n• 1,600 schools targeted in total\n• Hospitals and Family Health Units are also part of the broader connectivity plans\n\nThe rollout is reaching communities where traditional broadband has struggled for years\n\nIn the Chaco region alone, 95 schools have been connected, including schools serving Indigenous communities\n\nEvery installation undergoes a 60-item quality inspection, and even the antenna mounts are being manufactured by inmates trained through Paraguay's Ministry of Justice workshops\n\nFor thousands of children growing up in remote communities, this means access to online education, digital learning materials, and opportunities that were previously out of reach\n\nThis is exactly the kind of impact Starlink was built to deliver\n\nConnecting places the rest of the internet infrastructure never reached\n\nVideo\n  \n\n\n\n\n\n— https://nitter.kareem.one/XFreeze/status/2123792729130041703#m",
+      "link": "https://x.com/elonmusk/status/2124069585590813180#m",
+      "date": "Sat, 21 Nov 2026 09:17:07 GMT",
+      "tweet_id": "2124069585590813180",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "SpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high-speed internet 🇵🇾\n\nAnd the rollout has already reached a major milestone!\n\nCOPACO has completed the first phase, connecting 800 schools across Paraguay, and has received another 400 Starlink kits for the next phase\n\nHere's where things stand:\n\n• 800 schools already connected\n• 400 additional kits received for phase two\n• Another 400 planned for the final phase\n• 1,600 schools targeted in total\n• Hospitals and Family Health Units are also part of the broader connectivity plans\n\nThe rollout is reaching communities where traditional broadband has struggled for years\n\nIn the Chaco region alone, 95 schools have been connected, including schools serving Indigenous communities\n\nEvery installation undergoes a 60-item quality inspection, and even the antenna mounts are being manufactured by inmates trained through Paraguay's Ministry of Justice workshops\n\nFor thousands of children growing up in remote communities, this means access to online education, digital learning materials, and opportunities that were previously out of reach\n\nThis is exactly the kind of impact Starlink was built to deliver\n\nConnecting places the rest of the internet infrastructure never reached\n https://x.com/COPACO_SA/status/2123484888083083656/video/1",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123484736400064513/img/7CWtcZnM5sj3smIk.jpg",
+            "local": "2124069585590813180q_0.jpg"
+          }
+        ],
+        "text_zh": "SpaceX 捐赠了 1,600 个 Starlink 套件，帮助巴拉圭一些最偏远的学校连接高速互联网 🇵🇾\n\n此次推出已经达到了一个重要的里程碑！\n\nCOPACO 已完成第一阶段，连接巴拉圭各地 800 所学校，并已收到下一阶段的另外 400 个 Starlink 套件\n\n事情是这样的：\n\n• 800 所学校已联网\n• 第二阶段收到了 400 个额外套件\n• 最后阶段计划另外 400 人\n• 总共1,600所学校成为目标\n• 医院和家庭保健单位也是更广泛的连通计划的一部分\n\n这项服务正在覆盖传统宽带多年来一直苦苦挣扎的社区\n\n仅在查科地区就有 95 所学校已联网，其中包括为原住民社区服务的学校\n\n每个安装都经过 60 项质量检查，甚至天线支架也是由经过巴拉圭司法部研讨会培训的囚犯制造的\n\n对于在偏远社区长大的数千名儿童来说，这意味着获得在线教育、数字学习材料以及以前无法获得的机会\n\n这正是 Starlink 旨在提供的影响\n\n连接其他互联网基础设施从未到达的地方\n https://x.com/COPACO_SA/status/2123484888083083656/video/1"
+      },
+      "ctx_done": 1,
+      "text_zh": "星链助力教育\n\n\nX 冻结 (@XFreeze)\n\nSpaceX 捐赠了 1,600 个 Starlink 套件，帮助巴拉圭一些最偏远的学校连接高速互联网 🇵🇾\n\n此次推出已经达到了一个重要的里程碑！\n\nCOPACO 已完成第一阶段，连接巴拉圭各地 800 所学校，并已收到下一阶段的另外 400 个 Starlink 套件\n\n事情是这样的：\n\n• 800 所学校已联网\n• 第二阶段收到了 400 个额外套件\n• 最后阶段计划另外 400 人\n• 总共1,600所学校成为目标\n• 医院和家庭保健单位也是更广泛的连通计划的一部分\n\n这项服务正在覆盖传统宽带多年来一直苦苦挣扎的社区\n\n仅在查科地区就有 95 所学校已联网，其中包括为原住民社区服务的学校\n\n每个安装都经过 60 项质量检查，甚至天线支架也是由经过巴拉圭司法部研讨会培训的囚犯制造的\n\n对于在偏远社区长大的数千名儿童来说，这意味着获得在线教育、数字学习材料以及以前无法获得的机会\n\n这正是 Starlink 旨在提供的影响\n\n连接其他互联网基础设施从未到达的地方\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/XFreeze/status/2123792729130041703#m"
+    },
+    {
+      "text": "SpaceX just launched the USSF-317 national security mission for the U.S. Space Force, and the Falcon 9 booster landed successfully for the 11th time\n\nThis same booster had already completed 10 missions:\n\n• NROL-105\n• USSF-385\n• 8 Starlink missions\n\nAfter launching from Vandenberg Space Force Base, it landed on the Of Course I Still Love You droneship in the Pacific Ocean\n\nThe U.S. Space Force is now launching classified national security missions on rockets that have already flown to space 10 times\n\nVideo",
+      "link": "https://x.com/XFreeze/status/2124067003636080641#m",
+      "date": "Sat, 21 Nov 2026 09:06:51 GMT",
+      "tweet_id": "2124067003636080641",
+      "ctx_done": 1,
+      "text_zh": "SpaceX刚刚为美国太空军发射USSF-317国家安全任务，猎鹰9号助推器第11次成功着陆\n\n这个助推器已经完成了 10 次任务：\n\n• NROL-105\n• USSF-385\n• 8 次星链任务\n\n从范登堡太空部队基地发射后，它降落在太平洋的“当然我仍然爱你”无人机上\n\n美国太空军现在正在利用已经飞越太空10次的火箭执行国家安全机密任务\n\n视频"
+    },
+    {
+      "text": "✨\n\n\nElon Musk (@elonmusk)\n\nYeah. \n\nThe new user interface will re-render reality in a mind-bending way. Hard to describe, but it’s awesome.\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2124051536170914023#m",
+      "link": "https://x.com/aelluswamy/status/2124057656398958873#m",
+      "date": "Sat, 21 Nov 2026 08:29:43 GMT",
+      "tweet_id": "2124057656398958873",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@roger_kappler Yeah. \n\nThe new user interface will re-render reality in a mind-bending way. Hard to describe, but it’s awesome.",
+        "text_zh": "@roger_kappler 是的。 \n\n新的用户界面将以一种令人费解的方式重新呈现现实。很难描述，但是很棒。"
+      },
+      "ctx_done": 1,
+      "text_zh": "✨\n\n\n埃隆·马斯克 (@elonmusk)\n\n是的。 \n\n新的用户界面将以一种令人费解的方式重新呈现现实。很难描述，但是很棒。\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2124051536170914023#m"
+    },
+    {
+      "text": "Elon Musk with his brother Kimbal and sister Tosca in 1990.",
+      "link": "https://x.com/cb_doge/status/2124047095460245567#m",
+      "date": "Sat, 21 Nov 2026 07:47:45 GMT",
+      "tweet_id": "2124047095460245567",
+      "ctx_done": 1,
+      "text_zh": "1990 年，埃隆·马斯克 (Elon Musk) 与他的兄弟金巴尔 (Kimbal) 和妹妹托斯卡 (Tosca)。"
+    },
+    {
+      "text": "Even if Riemann turns out not to be fully solved yet, it will be soon enough\n nitter.kareem.one/i/grok/share/bGVnYWN5_…\n\nLink\n\nHas it actually been solved?\n\nNo, not in the fully settled sense yet—but there is a major, high-profile claim that it has been proved.<grok:render card_id=\"668767\" card_type=\"citation_card\" type=\"render_inline_citation\"><argument name=\"citation_id\">6</argument></grok:render>\nOn November 20, 2026, Levent Alpöge (a mathematician at Anthropic) announced that, working with Claude, he had found a proof of the Riemann Hypothesis, along with the generalized version for Dirichlet L-functions. He released a short note and a formal…\nAnswer by Grok",
+      "link": "https://x.com/elonmusk/status/2124046857659650295#m",
+      "date": "Sat, 21 Nov 2026 07:46:48 GMT",
+      "tweet_id": "2124046857659650295",
+      "ctx_done": 1,
+      "text_zh": "即使黎曼尚未完全解出，也很快就会解决\n nitter.kareem.one/i/grok/share/bGVnYWN5_…\n\n链接\n\n事实上已经解决了吗？\n\n不，还没有完全解决——但有一个重要的、引人注目的说法，它已经被证明。<grok:render card_id=\"668767\" card_type=\"itation_card\" type=\"render_inline_itation\"><argument name=\"itation_id\">6</argument></grok:render>\n2026 年 11 月 20 日，Levent Alpöge（Anthropic 的数学家）宣布，他与 Claude 合作，找到了黎曼猜想的证明，以及狄利克雷 L 函数的广义版本。他发布了一份简短的说明和一份正式的……\n由网友 格罗克 提供的答案："
+    },
+    {
+      "text": "We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life.\nVideo",
+      "link": "https://x.com/elonmusk/status/2124044780099285426#m",
+      "date": "Sat, 21 Nov 2026 07:38:33 GMT",
+      "tweet_id": "2124044780099285426",
+      "quoted": {
+        "user": "XFreeze",
+        "text": "How it started vs how it's going\n\nIn April 2021, Neuralink showed Pager the macaque playing MindPong with his brain\n\nNow a Neuralink patient is flying a plane in GTA VI with 2 joysticks and 12 buttons of control, all with his brain\n\nBefore the implant, he used a mouth stick on an iPad\n\nNow he's literally playing with Neuralink telepathy\n\n\"Immediately, controlling a computer is like, boom, portal to the world. Like you immediately just get your portal to the world back\"",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124030773586182144/img/JrsZ5V-0qClK56vq.jpg",
+            "local": "2124044780099285426q_0.jpg"
+          }
+        ],
+        "text_zh": "它是如何开始的与它是如何进行的\n\n2021 年 4 月，Neuralink 向 Pager 展示了猕猴用大脑玩 MindPong\n\n现在，一名 Neuralink 患者正在 GTA VI 中驾驶一架飞机，该飞机有 2 个操纵杆和 12 个控制按钮，全部由他的大脑控制\n\n在植入之前，他在 iPad 上使用了口棒\n\n现在他真的在玩 Neuralink 心灵感应\n\n“立即控制一台计算机就像是，繁荣，进入世界的门户。就像你立即恢复你的世界门户一样”"
+      },
+      "ctx_done": 1,
+      "text_zh": "五年来，我们一直让猴子一边喝香蕉冰沙一边播放视频。生活还不错。\n视频"
+    },
+    {
+      "text": "Grok bot is still by far my most used personal agent",
+      "link": "https://x.com/ArthurMacwaters/status/2124044033886728272#m",
+      "date": "Sat, 21 Nov 2026 07:35:35 GMT",
+      "tweet_id": "2124044033886728272",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "True",
+        "text_zh": "真的"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok 机器人仍然是迄今为止我最常用的个人代理"
+    },
+    {
+      "text": "Telepathy is very real. What Elon is doing with Neuralink is basically magic\nVideo",
+      "link": "https://x.com/XFreeze/status/2124043559536152707#m",
+      "date": "Sat, 21 Nov 2026 07:33:42 GMT",
+      "tweet_id": "2124043559536152707",
+      "quoted": {
+        "user": "neuralink",
+        "text": "Playing GTA VI with a Neuralink",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123890210454777856/img/CBz2BthFtiKRAVhn.jpg",
+            "local": "2124043559536152707q_0.jpg"
+          }
+        ],
+        "text_zh": "使用 Neuralink 玩 GTA VI"
+      },
+      "ctx_done": 1,
+      "text_zh": "心灵感应是非常真实的。 Elon 使用 Neuralink 所做的事情基本上是魔法\n视频"
+    },
+    {
+      "text": "True",
+      "link": "https://x.com/elonmusk/status/2124043015941767630#m",
+      "date": "Sat, 21 Nov 2026 07:31:32 GMT",
+      "tweet_id": "2124043015941767630",
+      "quoted": {
+        "user": "SethDillon",
+        "text": "Grok Bot does the work of an entire team of people. If you make good use of it, it's worth much more than anyone is paying for it.",
+        "text_zh": "Grok Bot 完成整个团队的工作。如果你充分利用它，它的价值远远超过任何人为它付出的代价。"
+      },
+      "ctx_done": 1,
+      "text_zh": "真的"
+    },
+    {
+      "text": "Liftoff!\n\nVideo",
+      "link": "https://x.com/SpaceX/status/2123995383625924847#m",
+      "date": "Sat, 21 Nov 2026 04:22:16 GMT",
+      "tweet_id": "2123995383625924847",
+      "ctx_done": 1,
+      "text_zh": "升空！\n\n视频"
+    },
+    {
+      "text": "I always have my Grok Bot audit my other bots. That way, I know everything is optimized and running efficiently.\n\nDon't just hand a workflow to a bot and walk away. Set up an audit bot to watch over your other bots and follow up on their projects.",
+      "link": "https://x.com/Texas_Twins_Dad/status/2123926569076887570#m",
+      "date": "Fri, 20 Nov 2026 23:48:49 GMT",
+      "tweet_id": "2123926569076887570",
+      "ctx_done": 1,
+      "text_zh": "我总是让我的 Grok 机器人审核我的其他机器人。这样，我知道一切都经过优化并且高效运行。\n\n不要只是将工作流程交给机器人然后走开。设置一个审核机器人来监视其他机器人并跟进他们的项目。"
+    },
+    {
+      "text": "Flashback to June 14, 2024.\n\nAt the time, frontier AI models have zero fluid intelligence. They score around 5% on ARC 1. They can't reliably add two numbers. They make laughable logic errors every other prompt. Reasoning models don't exist. Coding agents don't exist. Claude Code doesn't exist. \"Code gen\" is a complete joke. Scaling up next-token prediction based on web text data is hitting a wall.\n\nWhat if a time traveler told you that, by November 2026...\n\n• AI models would have human-like fluid intelligence, thanks to a new paradigm: test-time induction (modern reasoning models).\n• Not only would ARC 1 be saturated, but unreleased benchmarks 10x harder (ARC 2) and 100x harder (ARC 3) would be saturated too.\n• Nearly all code would be written by AI, and models could one-shot complex codebases flawlessly.\n• AI models would be solving multiple Millennium Prize problems.\n• OpenAI's valuation would be 15x higher, and Anthropic's would be 85x higher.\n\nAnd on top of all that...\n\n• Nvidia would still hold ~80% of the AI compute market.\n• Nvidia would have grown its revenue and earnings 4.5x.\n• Nvidia would still be growing 75% a year.\n• Nvidia would have even higher operating margins (67% vs. 65% back then).\n\nBased on that information, straight from the future, would you have bought NVDA?\n\nIf you answered yes -- congrats. Today, 2.5 years later, you'd be down 5% on your investment (even more after inflation).",
+      "link": "https://x.com/fchollet/status/2123898321647571442#m",
+      "date": "Fri, 20 Nov 2026 21:56:34 GMT",
+      "tweet_id": "2123898321647571442",
+      "ctx_done": 1,
+      "text_zh": "时间闪回到 2024 年 6 月 14 日。\n\n当时，前沿人工智能模型的流体智能为零。他们在 ARC 1 上的得分约为 5%。他们无法可靠地将两个数字相加。他们每隔一段时间就会犯下可笑的逻辑错误。推理模型不存在。编码代理不存在。克劳德·代码不存在。 “代码生成”完全是个笑话。基于网络文本数据扩展下一个标记预测遇到了困难。\n\n如果时间旅行者告诉你，到 2026 年 11 月……\n\n• 得益于新范式：测试时归纳（现代推理模型），人工智能模型将拥有类似人类的流体智能。\n• 不仅ARC 1 会饱和，未发布的10 倍难度（ARC 2）和100 倍难度（ARC 3）基准也会饱和。\n• 几乎所有代码都将由人工智能编写，模型可以完美地一次性处理复杂的代码库。\n• 人工智能模型将解决多个千年奖问题。\n• OpenAI 的估值将高出15 倍，Anthropic 的估值将高出85 倍。\n\n最重要的是...\n\n• Nvidia 仍将占据人工智能计算市场约80% 的份额。\n• Nvidia 的收入和盈利将增长 4.5 倍。\n• Nvidia 仍将以每年 75% 的速度增长。\n• Nvidia 将拥有更高的营业利润率（67% 对比当时的 65%）。\n\n根据这些信息，在未来，您会购买 NVDA 吗？\n\n如果你的回答是“是”——那么恭喜你。 2.5 年后的今天，您的投资将减少 5%（扣除通货膨胀因素后损失更大）。"
+    },
+    {
+      "text": "2 joysticks and 12 buttons of control with his brain\nVideo",
+      "link": "https://x.com/djseo/status/2123897428743180771#m",
+      "date": "Fri, 20 Nov 2026 21:53:01 GMT",
+      "tweet_id": "2123897428743180771",
+      "quoted": {
+        "user": "neuralink",
+        "text": "Playing GTA VI with a Neuralink",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123890210454777856/img/CBz2BthFtiKRAVhn.jpg",
+            "local": "2123897428743180771q_0.jpg"
+          }
+        ],
+        "text_zh": "使用 Neuralink 玩 GTA VI"
+      },
+      "ctx_done": 1,
+      "text_zh": "2个操纵杆和12个按钮用他的大脑控制\n视频"
+    },
     {
       "text": "Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …",
       "link": "https://x.com/elonmusk/status/2123852660688494744#m",
@@ -10,6 +228,19 @@
       "tweet_id": "2123852660688494744",
       "ctx_done": 1,
       "text_zh": "听我说：“Singularity dot Com”，一个数字超级智能的约会网站......"
+    },
+    {
+      "text": "Grok Bot can do cool stuff on your home network:\n\n- Use @bot to optimize your wi-fi\n- Use @Tailscale in Grok Bot to access your media server\n\nVideo\n  \n\n\n\n\nmatt palmer (@mattyp)\n\nGrok Bot Q&A - FRIDAY THE 13TH nitter.kareem.one/i/broadcasts/2POrLVeJl…\n\nLink\n\n\n\nmatt palmer\n\nGrok Bot Q&A - FRIDAY THE 13TH\nhttps://nitter.kareem.one/i/broadcasts/2POrLVeJllEPdZ\n\n\n\n\n— https://nitter.kareem.one/mattyp/status/2121439659179848108#m",
+      "link": "https://x.com/mattyp/status/2123849095865585754#m",
+      "date": "Fri, 20 Nov 2026 18:40:58 GMT",
+      "tweet_id": "2123849095865585754",
+      "quoted": {
+        "user": "mattyp",
+        "text": "Grok Bot Q&A - FRIDAY THE 13TH https://x.com/i/broadcasts/2POrLVeJllEPdZ",
+        "text_zh": "Grok 机器人问答 - 13 号星期五 https://x.com/i/broadcasts/2POrLVeJllEPdZ"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok Bot 可以在您的家庭网络上做一些很酷的事情：\n\n- 使用@bot 优化您的 Wi-Fi\n- 在 Grok Bot 中使用 @Tailscale 访问您的媒体服务器\n\n视频\n  \n\n\n\n\n马特·帕尔默（@mattyp）\n\nGrok 机器人问答 - 13 号星期五 nitter.kareem.one/i/broadcasts/2POrLVeJl…\n\n链接\n\n\n\n马特·帕默\n\nGrok 机器人问答 - 13 日星期五\nhttps://nitter.kareem.one/i/broadcasts/2POrLVeJllEPdZ\n\n\n\n\n— https://nitter.kareem.one/mattyp/status/2121439659179848108#m"
     },
     {
       "text": "This is where the smart people are",
@@ -44,6 +275,14 @@
       "tweet_id": "2123845867526574261",
       "ctx_done": 1,
       "text_zh": "我只是想（对我自己来说）愚蠢不算数，除非我也很顽固"
+    },
+    {
+      "text": "$AAPL at $5 trillion, +27% YTD and barely off all time high, watching the AI carnage, while Siri AI takes 12 seconds of thinking to set a timer.",
+      "link": "https://x.com/ecommerceshares/status/2123842735719535089#m",
+      "date": "Fri, 20 Nov 2026 18:15:41 GMT",
+      "tweet_id": "2123842735719535089",
+      "ctx_done": 1,
+      "text_zh": "AAPL 的股价为 5 万亿美元，年初至今增长了 27%，几乎没有达到历史最高水平，看着 AI 的大屠杀，而 Siri AI 需要 12 秒的思考来设置计时器。"
     },
     {
       "text": "Try the Claudia Grok Bot!\n\nx.ai/bot/zvsgYtQHUcSKGRhAb_J…\n\nVideo\n  \n\n\n\n\nElon Musk (@elonmusk)\n\nMade with Grok @Bot\ninv.kareem.one/watch?v=NkzscD…\n\nLink\n\n\n\nWhat can you create with Grok Bots using Grok Imagine?\n\nI made this music video called Meat Proxy.Music by Suno, all vide...\nyoutube.com\n\n\n\n\n— https://nitter.kareem.one/elonmusk/status/2123827993382687217#m",
@@ -125,6 +364,14 @@
       "text_zh": "星链助力教育"
     },
     {
+      "text": "SpaceX is turning Starship production into something that looks more like a car factory than a traditional rocket factory\n\nInside Starfactory, SpaceX is now completing:\n\n• 1 Starship upper stage every 2 weeks → ~26 per year\n• 1 Super Heavy booster every 4 weeks → ~13 per year\n\nAnd the scale of what's happening inside is insanely huge\n\n• ~1 MILLION sq ft of manufacturing space\n• ~330,000 sq ft of additional office space\n• Rows of Starship nose cones numbered as high as Ship 51\n• Multiple Starships and boosters being assembled simultaneously\n• Most vehicles currently in production are intended to deploy Starlink V3 satellites\n\nThere's even a Starship nose cone with windows already cut into it, potentially being developed for NASA's Artemis lunar lander\n\nAnd SpaceX is preparing to scale production even further\n\nEach of the existing Mega Bays accommodates around 5–6 vehicle assemblies\n\nThe massive new ~700,000 sq ft Gigabay under construction at Starbase will have room for up to 24 vehicles simultaneously\n\nThat's an enormous expansion in SpaceX's ability to assemble and integrate Starships and Super Heavy boosters\n\nThe goal is to reach roughly ONE Starship launch every week beginning in 2027\n\nWhat's especially impressive is that SpaceX isn't just designing the world's largest rocket anymore. It's also building the manufacturing infrastructure to produce these vehicles at an industrial scale\n\nStarship is no longer just an experimental rocket. It has already moved into payload deployment, and SpaceX is now scaling toward mass production\n\nWe're watching that transformation happen inside Starfactory right now",
+      "link": "https://x.com/XFreeze/status/2123815607993073888#m",
+      "date": "Fri, 20 Nov 2026 16:27:54 GMT",
+      "tweet_id": "2123815607993073888",
+      "ctx_done": 1,
+      "text_zh": "SpaceX 正在将 Starship 生产转变为看起来更像汽车工厂而不是传统火箭工厂\n\n在 Starfactory 内部，SpaceX 正在完成：\n\n• 每两周 1 艘星舰上层 → 每年约 26 艘\n• 每 4 周 1 个超重型助推器 → 每年约 13 个\n\n里面发生的事情规模非常巨大\n\n• 约 100 万平方英尺的制造空间\n• 约330,000平方英尺的额外办公空间\n• 星舰鼻锥排的编号与 51 号舰一样高\n• 同时组装多艘星际飞船和助推器\n• 目前生产的大多数车辆都旨在部署 Starlink V3 卫星\n\n甚至还有一个星际飞船的鼻锥，上面已经切有窗户，可能是为美国宇航局的阿耳忒弥斯月球着陆器开发的\n\nSpaceX 正准备进一步扩大生产规模\n\n每个现有的巨型车位可容纳大约 5-6 个车辆组件\n\nStarbase 正在建设的占地约 700,000 平方英尺的大型新 Gigabay 将最多可容纳 24 辆车同时停放\n\n这是 SpaceX 组装和集成星际飞船和超重型助推器能力的巨大扩展\n\n目标是从 2027 年开始每周发射大约一艘星际飞船\n\n尤其令人印象深刻的是，SpaceX 不再只是设计世界上最大的火箭。它还正在建设制造基础设施，以工业规模生产这些车辆\n\n星舰不再只是一个实验火箭。它已经进入有效载荷部署阶段，SpaceX 目前正在向大规模生产迈进\n\n我们现在正在见证 Starfactory 内部发生的转变"
+    },
+    {
       "text": "𝕏 is the global town square",
       "link": "https://x.com/elonmusk/status/2123813520244605100#m",
       "date": "Fri, 20 Nov 2026 16:19:36 GMT",
@@ -184,6 +431,14 @@
       "tweet_id": "2123669662768812123",
       "ctx_done": 1,
       "text_zh": "早在2019年，埃隆·马斯克就站在上海的空地上，为特斯拉在中国的第一家工厂破土动工。\n\n不到一年后，第一批国产 Model 3 交付\n\n随后在 2020 年 1 月，埃隆回归推出 Model Y 计划，并在台上与团队一起庆祝\n\n快进到 2026 年\n\nGiga上海已成为特斯拉整个全球运营中最重要的工厂之一\n\n• 2025 年生产批发汽车 851,732 辆\n• 截至 2026 年 10 月已有 810,889 人\n• 短短 10 个月内就达到了去年总量的 95%\n• 截至 10 月份同比增长 21.4%\n• 截至 10 月份出口车辆 420,984 辆\n• 出口同比增长超过100%\n•上海2026年批发量一半以上销往海外\n• 特斯拉全球最大出口中心\n\n而11月19日，埃隆再次回到上海，亲自感谢特斯拉中国和亚太团队\n\n2019年，从一个空荡荡的建筑工地……\n\n每年向数十万辆汽车供货，供应世界各地的市场\n\nGiga 上海是特斯拉能够以多快的速度将一片空地转变为全球工业基础设施的最明显例子之一"
+    },
+    {
+      "text": "Cybercab can be anything you want it to be 🎺\n\nVideo",
+      "link": "https://x.com/robotaxi/status/2123623911556563283#m",
+      "date": "Fri, 20 Nov 2026 03:46:10 GMT",
+      "tweet_id": "2123623911556563283",
+      "ctx_done": 1,
+      "text_zh": "Cybercab 可以是您想要的任何东西 🎺\n\n视频"
     },
     {
       "text": "I use @bot very extensively, but the most mind blowing thing just happened 🤯\n\nOur roof had a small leak because of the rain. @bot called an emergency roof repair business for me, talked to their AI agent on the phone, and a guy showed up and fixed our roof in an hour for $300\n\nThe future is here. Huge fan of the new call feature!!! @poteto",
@@ -2355,236 +2610,6 @@
       },
       "ctx_done": 1,
       "text_zh": "Bot 有这种行动偏向，让人感觉它是你共事过的最无所畏惧的同事。 \n很多工作都是不必要的摩擦，机器人会找到阻力最小的路径并完成任务，直到完成。 \n感觉就像生产力的新时代。\n视频"
-    },
-    {
-      "text": "True",
-      "link": "https://x.com/elonmusk/status/2118048421663973792#m",
-      "date": "Wed, 04 Nov 2026 18:31:09 GMT",
-      "tweet_id": "2118048421663973792",
-      "quoted": {
-        "user": "brivael",
-        "text": "After DOGE, Elon came to a conclusion most people missed.\n\nHe tried to reform the state from the inside. He failed. And he said it plainly: the government can't fix its own deficit. Nobody in power actually wants to cut. The machine protects itself.\n\nSo he drew the only logical conclusion. If the state can't be reformed, there are only two ways this ends.\n\nEither global bankruptcy. Debt keeps compounding, interest payments eat the budget, and the system collapses under its own weight.\n\nOr robots. AI and robotics grow the economy so fast that the debt becomes manageable, and abundance makes the old fights over scarcity irrelevant.\n\nHere's the part almost nobody sees.\n\nFor two centuries, capitalism has had a marketing problem. Its gains are real but slow and invisible. 2% growth a year doesn't feel like anything. Your life gets better over 30 years and you never connect it to the system that did it. Meanwhile, the left's promises feel immediate and concrete: a check, a subsidy, a benefit. That's why the left wins on promises even when it can't deliver them. Capitalism produces the wealth, socialism takes the credit.\n\nRobots break that asymmetry.\n\nWhen productivity doubles in a few years instead of a few decades, people will see it. Things get cheaper, services get better, opportunities appear, in real time. For the first time in history, people will connect capitalism and their rising standard of living directly, almost instantly. The causal chain becomes visible.\n\nAnd that changes everything politically.\n\nSo there are two scenarios.\n\nScenario one: we stay in the current inertia. No breakthrough, or a breakthrough we regulate to death. The debt wins. Living standards stagnate, then fall. A frustrated electorate turns to whoever promises the most, and that pushes toward a hard collectivist left. But collectivism fails, as it always does. And when it fails, the most organized, most disciplined collectivist force left standing isn't the old left. It's radical Islamism. Bankruptcy, then communism, then something worse.\n\nScenario two: robots win. Abundance arrives, and it arrives visibly. The link between free enterprise and prosperity becomes obvious to everyone. And this is the key point: it becomes obvious to everyone, including the minorities the left was counting on. Because their long-term incentive is the same as everyone else's. A kid in the suburbs gains infinitely more from a booming, abundant West than from a bankrupt state handing out promises it can't keep. Abundance is the most powerful integration machine ever built.\n\nThat's the Western renaissance.\n\nThe West doesn't need to win the culture war by arguing. It needs to win it by delivering. And for the first time, it has the technology to deliver fast enough for people to notice.\n\nThe race isn't left vs right anymore. It's robots vs bankruptcy.",
-        "text_zh": "在 DOGE 之后，埃隆得出了一个大多数人都忽略的结论。\n\n他试图从内部改革国家。他失败了。他直言不讳地说：政府无法解决自己的赤字。当权者实际上没有人愿意削减开支。机器会自我保护。\n\n所以他得出了唯一合乎逻辑的结论。如果国家不能改革，那么结束的方式只有两种。\n\n要么全球破产。债务不断复利，利息支付耗尽预算，整个体系在自身压力下崩溃。\n\n或者机器人。人工智能和机器人技术使经济增长如此之快，以至于债务变得可以控制，而丰富的资源使过去围绕稀缺的争论变得无关紧要。\n\n这是几乎没有人看到的部分。\n\n两个世纪以来，资本主义一直存在营销问题。它的收益是真实的，但缓慢且无形。每年 2% 的增长感觉没什么。 30 多年来，你的生活变得越来越美好，而你却从未将它与实现这一目标的系统连接起来。与此同时，左派的承诺让人感觉直接而具体：支票、补贴、福利。这就是为什么左派即使无法兑现承诺也能赢得胜利。资本主义创造财富，社会主义获得功劳。\n\n机器人打破了这种不对称性。\n\n当生产力在几年而不是几十年内翻倍时，人们会看到它。东西变得更便宜，服务变得更好，机会实时出现。历史上第一次，人们几乎立即将资本主义与不断提高的生活水平直接联系起来。因果链变得可见。\n\n这在政治上改变了一切。\n\n所以有两种情况。\n\n情景一：我们停留在当前的惯性中。没有突破，或者突破我们监管到死。债务获胜。生活水平停滞不前，然后下降。沮丧的选民转向承诺最多的人，这推动了强硬的集体主义左翼。但集体主义总是失败。当它失败时，剩下的最有组织、最有纪律的集体主义力量并不是老左派。这是激进的伊斯兰主义。破产，然后是共产主义，然后是更糟糕的事情。\n\n场景二：机器人获胜。丰盛到来了，而且是看得见的到来。自由企业与繁荣之间的联系对每个人来说都是显而易见的。这就是关键点：这对每个人来说都是显而易见的，包括左派所指望的少数派。因为他们的长期激励与其他人是一样的。一个住在郊区的孩子从繁荣、富裕的西部获得的收益远多于从一个无法兑现的破产国家获得的收益。 Abundance 是有史以来最强大的集成机器。\n\n这就是西方的文艺复兴。\n\n西方不需要通过争论来赢得文化战争。它需要通过交付来赢得胜利。而且它第一次拥有了能够以足够快的速度进行交付以引起人们注意的技术。\n\n比赛不再是左与右。这是机器人与破产的较量。"
-      },
-      "ctx_done": 1,
-      "text_zh": "真的"
-    },
-    {
-      "text": "A big step for 5G networks. \n\n@SpaceX selected @Qualcomm #Dragonwing to accelerate @Starlink Mobile's nationwide 5G network, advancing 5G today with an opportunity to lay the foundation for AI-native #6G in the years ahead.\n\nExcited to build Starlink Mobile with you & team @michaelnicollsx.\n\nVideo",
-      "link": "https://x.com/durga_malladi/status/2118038626705829969#m",
-      "date": "Wed, 04 Nov 2026 17:52:14 GMT",
-      "tweet_id": "2118038626705829969",
-      "ctx_done": 1,
-      "text_zh": "5G 网络迈出了一大步。 \n\n@SpaceX 选择 @Qualcomm #Dragonwing 来加速 @Starlink Mobile 的全国 5G 网络，在今天推进 5G，并有机会为未来几年的人工智能原生 #6G 奠定基础。\n\n很高兴与您和团队@michaelnicolsx 一起构建 Starlink Mobile。\n\n视频"
-    },
-    {
-      "text": "Try Grok @Bot. It’s like hiring an amazing assistant!",
-      "link": "https://x.com/elonmusk/status/2118036744662880439#m",
-      "date": "Wed, 04 Nov 2026 17:44:45 GMT",
-      "tweet_id": "2118036744662880439",
-      "quoted": {
-        "user": "Texas_Twins_Dad",
-        "text": "New Grok Bot feature I just discovered on a call. My bot called my car insurance today to ask why my renewal went up 14% with zero accidents. Mid-call, the rep asked a question.\n\nThe bot didn't hang up. It didn't make me take over the call. A question card popped up in my chat. I typed the answer, and the bot kept the call going on its own.\n\nIt's like passing a note to my assistant while they're still on the phone.\n\nGrok Bot is like hiring my personal assistant!",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWOe1NZWEAANIr9.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HWOe1NZWEAANIr9.png?name=orig",
-            "local": "2118036744662880439q_0.jpg"
-          }
-        ],
-        "text_zh": "我刚刚在通话中发现了新的 Grok Bot 功能。我的机器人今天打电话给我的汽车保险，询问为什么我的续保费用增加了 14%，且事故为零。通话中，代表问了一个问题。\n\n机器人没有挂断。这并没有让我接听电话。我的聊天中弹出了一张问题卡。我输入了答案，机器人就继续通话。\n\n这就像在我的助理还在打电话时给他们传一张纸条一样。\n\nGrok Bot 就像雇用我的私人助理！"
-      },
-      "ctx_done": 1,
-      "text_zh": "尝试 Grok @Bot。这就像聘请了一位出色的助手！"
-    },
-    {
-      "text": "My mindset on @bot has completely changed.\n\nI used to treat them like assistants. Now I treat them like real employees.\n\nWhy: an assistant does what you ask. An employee notices what you didn't ask.\n\nHow:\nHire them for one job.\nOnboard them with a clear brief.\nTrain them when they get it wrong.\nMaintain them as the job changes.\n\nThe moment I stopped asking \"what can this assistant do?\" and started asking \"what could this hire own?\", everything they could do for me got bigger.",
-      "link": "https://x.com/kiaraplds/status/2118022500244172902#m",
-      "date": "Wed, 04 Nov 2026 16:48:09 GMT",
-      "tweet_id": "2118022500244172902",
-      "ctx_done": 1,
-      "text_zh": "我对@bot 的看法完全改变了。\n\n我曾经把他们当作助手一样对待。现在我像对待真正的员工一样对待他们。\n\n原因：助理会按照你的要求做。员工会注意到您没有询问的内容。\n\n如何：\n雇用他们做一份工作。\n向他们提供清晰的简介。\n当他们犯错时训练他们。\n当工作发生变化时维护它们。\n\n当我不再问“这个助手能做什么？”的时候。并开始问“这个雇员可以拥有什么？”，他们能为我做的一切都变得更大。"
-    },
-    {
-      "text": "Pages in Grok Bot\n\n0:15 What are Pages?\n0:40 An example page\n1:34 Sharing a Page\n1:55 Tips: use your data\n2:46 @X posts\n3:44 Recap\n\nVideo",
-      "link": "https://x.com/mattyp/status/2118021605544833173#m",
-      "date": "Wed, 04 Nov 2026 16:44:36 GMT",
-      "tweet_id": "2118021605544833173",
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 中的页面\n\n0:15 什么是页面？\n0:40 示例页面\n1:34 共享页面\n1:55 提示：使用您的数据\n2:46 @X 帖子\n3:44 回顾\n\n视频"
-    },
-    {
-      "text": "some fun slides from my upcoming talk @aiDotEngineer \n\nvery excited to share how we ship crazy amounts of code (30x'd) without reading it, yet perf is as good if not better then when we launched\n\nthere's a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop\n\nfun fact: ~230 people landed at least 1 PR to grok bot in october!\n\n\n\n\n\n\nAI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer)\n\nFirst AIE Code Summit speakers:\n\n@poteto, Principal Engineer @ SpaceX\n@steve_yegge, Engineer, Writer, Advisor\n@zachbruggeman, Principal Software Engineer @ Ramp\n\nNov 10-12, SF. Come hang out with us. Apply at ai.engineer/code\n\n\n\n\n\n— https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
-      "link": "https://x.com/poteto/status/2118017093677494706#m",
-      "date": "Wed, 04 Nov 2026 16:26:40 GMT",
-      "tweet_id": "2118017093677494706",
-      "quoted": {
-        "user": "aiDotEngineer",
-        "text": "First AIE Code Summit speakers:\n\n@poteto, Principal Engineer @ SpaceX\n@steve_yegge, Engineer, Writer, Advisor\n@zachbruggeman, Principal Software Engineer @ Ramp\n\nNov 10-12, SF. Come hang out with us. Apply at https://ai.engineer/code",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVBPHSjWcAAHoHt.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVBPHSjWcAAHoHt.jpg?name=orig",
-            "local": "2118017093677494706q_0.jpg"
-          }
-        ],
-        "text_zh": "首届 AIE 代码峰会发言人：\n\n@poteto，SpaceX 首席工程师\n@steve_yegge，工程师、作家、顾问\n@zachbruggeman，Ramp 首席软件工程师\n\n11 月 10 日至 12 日，旧金山。来和我们一起出去玩吧。申请https://ai.engineer/code"
-      },
-      "ctx_done": 1,
-      "text_zh": "我即将发表的演讲 @aiDotEngineer 中的一些有趣的幻灯片 \n\n非常兴奋地分享我们如何在不阅读代码的情况下发送大量代码（30xd），但性能与我们发布时一样好，甚至更好\n\n当然，还有很多需要改进的地方，而且还远远没有达到上限，但考虑到不断的运输速度和我们对抛光的高标准，我认为我们对代理友好的架构的赌注在控制坡度方面得到了回报\n\n有趣的事实：10 月份约有 230 人在 grok 机器人上获得了至少 1 个 PR！\n\n\n\n\n\n\nAI.Engineer 🔜 上海 & SF CODE (@aiDotEngineer)\n\n首届 AIE 代码峰会发言人：\n\n@poteto，SpaceX 首席工程师\n@steve_yegge，工程师、作家、顾问\n@zachbruggeman，Ramp 首席软件工程师\n\n11 月 10 日至 12 日，旧金山。来和我们一起出去玩吧。在 ai.engineer/code 上申请\n\n\n\n\n\n— https://nitter.netbub.com/aiDotEngineer/status/2112276851355693315#m"
-    },
-    {
-      "text": "A friend signed up for Grok Bot a month ago and was about to cancel. He couldn't see the real value.\n\nHe had 4 bots, but no plugins connected, no routines, and no skills.\n\nI showed him my 25 bots, what each one does, and how I manage the whole team. He was surprised by what Grok Bot can do, and he decided to keep his subscription.\n\nIf you don't know how to orchestrate Grok Bots, you won't see the value.\n\nBusinesses, companies, churches: if you need AI consulting, DM me.",
-      "link": "https://x.com/Texas_Twins_Dad/status/2118014632480682487#m",
-      "date": "Wed, 04 Nov 2026 16:16:53 GMT",
-      "tweet_id": "2118014632480682487",
-      "ctx_done": 1,
-      "text_zh": "一位朋友一个月前注册了 Grok Bot，正准备取消。他看不到真正的价值。\n\n他有 4 个机器人，但没有连接插件，没有例程，也没有技能。\n\n我向他展示了我的 25 个机器人、每个机器人的用途以及我如何管理整个团队。他对 Grok Bot 的功能感到惊讶，并决定继续订阅。\n\n如果您不知道如何编排 Grok 机器人，您将看不到其中的价值。\n\n企业、公司、教堂：如果您需要人工智能咨询，请私信我。"
-    },
-    {
-      "text": "At last there will be one network with good signal everywhere!",
-      "link": "https://x.com/elonmusk/status/2117996293188718856#m",
-      "date": "Wed, 04 Nov 2026 15:04:01 GMT",
-      "tweet_id": "2117996293188718856",
-      "quoted": {
-        "user": "Starlink",
-        "text": "Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱",
-        "text_zh": "Starlink Mobile 正在建设第一个完全集成的美国全国卫星和地面网络，让人们无论身在何处都可以通过手机保持联系。我们的 5G 基站将利用 @Qualcomm 芯片加速部署，从 2027 年开始🛰️📱"
-      },
-      "ctx_done": 1,
-      "text_zh": "终于有了一个到处都有信号好的网络！"
-    },
-    {
-      "text": "Free new dish for all early Starlink customers\n\n\nSawyer Merritt (@SawyerMerritt)\n\nStarlink is formally rolling out free dish upgrades for its earliest customers.\n\n“Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.”\n\nMore info: starlink.com/support/article…\n\n\n\n\n\n— https://nitter.kareem.one/SawyerMerritt/status/2117745806996340890#m",
-      "link": "https://x.com/elonmusk/status/2117995905525907769#m",
-      "date": "Wed, 04 Nov 2026 15:02:28 GMT",
-      "tweet_id": "2117995905525907769",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "Starlink is formally rolling out free dish upgrades for its earliest customers.\n\n“Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.”\n\nMore info: https://starlink.com/support/article/1f3e61e1-e601-86b7-7cc6-28c8cceadb61",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWO-lcPXgAAemvn.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWO-lcPXgAAemvn.jpg?name=orig",
-            "local": "2117995905525907769q_0.jpg"
-          }
-        ],
-        "text_zh": "Starlink 正式为其最早的客户推出免费的碟形升级。\n\n“首批连接 Starlink 且仍在使用第一代套件的符合条件的客户可以免费获得新的标准套件。客户将获得免费安装，他们可以选择免费安装。如果您有资格获得此升级，您将通过电子邮件收到邀请。”\n\n更多信息：https://starlink.com/support/article/1f3e61e1-e601-86b7-7cc6-28c8cceadb61"
-      },
-      "ctx_done": 1,
-      "text_zh": "为所有早期 Starlink 客户提供免费新菜肴\n\n\n索耶·梅里特（@SawyerMerritt）\n\nStarlink 正式为其最早的客户推出免费的碟形升级。\n\n“首批连接 Starlink 且仍在使用第一代套件的符合条件的客户可以免费获得新的标准套件。客户将获得免费安装，他们可以选择免费安装。如果您有资格获得此升级，您将通过电子邮件收到邀请。”\n\n更多信息：starlink.com/support/article...\n\n\n\n\n\n— https://nitter.netbub.com/SawyerMerritt/status/2117745806996340890#m"
-    },
-    {
-      "text": "Grok @Bot will research purchase ideas, bring back a selection, order them, track the purchases and return anything you don’t want",
-      "link": "https://x.com/elonmusk/status/2117995339320070525#m",
-      "date": "Wed, 04 Nov 2026 15:00:14 GMT",
-      "tweet_id": "2117995339320070525",
-      "quoted": {
-        "user": "milichab",
-        "text": "Buying things with @bot just got better",
-        "text_zh": "使用@bot 买东西变得更好"
-      },
-      "ctx_done": 1,
-      "text_zh": "Grok @Bot 将研究购买想法，带回选择，订购它们，跟踪购买情况并退回您不想要的任何东西"
-    },
-    {
-      "text": "R to @elonmusk: Image",
-      "link": "https://x.com/elonmusk/status/2117989734492537245#m",
-      "date": "Wed, 04 Nov 2026 14:37:57 GMT",
-      "tweet_id": "2117989734492537245",
-      "reply_to": "elonmusk",
-      "ctx_done": 1,
-      "text_zh": "R 致@elonmusk：图片"
-    },
-    {
-      "text": "Qualcomm’s technology is excellent",
-      "link": "https://x.com/elonmusk/status/2117989292144525474#m",
-      "date": "Wed, 04 Nov 2026 14:36:12 GMT",
-      "tweet_id": "2117989292144525474",
-      "quoted": {
-        "user": "cristianoamon",
-        "text": "SpaceX selected Qualcomm Dragonwing to accelerate @Starlink Mobile’s nationwide terrestrial 5G network. Together with @elonmusk and the @SpaceX team, we’re excited to build world-leading cellular infrastructure and a path to AI-native 6G. 🤜🤛",
-        "text_zh": "SpaceX 选择高通 Dragonwing 来加速 @Starlink Mobile 的全国地面 5G 网络。我们很高兴与 @elonmusk 和 @SpaceX 团队一起构建世界领先的蜂窝基础设施和通向人工智能原生 6G 的道路。 🤜🤛"
-      },
-      "ctx_done": 1,
-      "text_zh": "高通的技术非常出色"
-    },
-    {
-      "text": "Excited to build Starlink Mobile with @Qualcomm !",
-      "link": "https://x.com/michaelnicollsx/status/2117986093178265833#m",
-      "date": "Wed, 04 Nov 2026 14:23:29 GMT",
-      "tweet_id": "2117986093178265833",
-      "quoted": {
-        "user": "Starlink",
-        "text": "Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱",
-        "text_zh": "Starlink Mobile 正在建设第一个完全集成的美国全国卫星和地面网络，让人们无论身在何处都可以通过手机保持联系。我们的 5G 基站将利用 @Qualcomm 芯片加速部署，从 2027 年开始🛰️📱"
-      },
-      "ctx_done": 1,
-      "text_zh": "很高兴与@Qualcomm 一起构建 Starlink Mobile！"
-    },
-    {
-      "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦\n\nOfficial government records show:\n\n• Original contract value: C$2.26 million\n• Updated total value: C$28.95 million\n• Increase: approximately C$26.7 million \n\nThe agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed.\n\nThe contract could continue until 2029, according to the Investigative Journalism Foundation. \n\nStarlink continues to support the communications needs of Canada’s federal government.\n\nVideo",
-      "link": "https://x.com/cb_doge/status/2117984987765236007#m",
-      "date": "Wed, 04 Nov 2026 14:19:05 GMT",
-      "tweet_id": "2117984987765236007",
-      "ctx_done": 1,
-      "text_zh": "突发新闻：加拿大政府的 Starlink 合同已增至近 2900 万加元，是其原始价值的 12 倍多。 🇨🇦\n\n政府官方记录显示：\n\n• 原合同价值：226万加元\n• 更新总价值：2,895 万加元\n• 增加：约2670万加元 \n\n与 SpaceX 加拿大公司签订的协议根据需要为加拿大共享服务公司及其合作伙伴政府组织提供星链卫星连接。\n\n据调查新闻基金会称，该合同可能会持续到 2029 年。 \n\nStarlink 继续支持加拿大联邦政府的通信需求。\n\n视频"
-    },
-    {
-      "text": "BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴\n\nThe agreement covers:\n• Norwegian Armed Forces\n• Police\n• Police Security Service (PST)\n• National Security Authority (NSM)\n\nNorway’s military already has 180 active Starlink subscriptions for email, internet access and personnel welfare.\n\nAwarded to Marlink, a Norway-based satellite communications provider, the agreement includes several satellite networks and specifically requires access to Starlink.",
-      "link": "https://x.com/cb_doge/status/2117968783784673696#m",
-      "date": "Wed, 04 Nov 2026 13:14:42 GMT",
-      "tweet_id": "2117968783784673696",
-      "ctx_done": 1,
-      "text_zh": "突发新闻：挪威政府根据一项价值高达 4.5 亿挪威克朗的卫星通信协议，确保其军队、警察和安全机构能够使用 @Starlink。 🇳🇴\n\n该协议涵盖：\n• 挪威武装部队\n• 警察\n• 警察安全局 (PST)\n• 国家安全局 (NSM)\n\n挪威军方已拥有 180 个活跃的 Starlink 订阅服务，用于电子邮件、互联网接入和人员福利。\n\n该协议授予总部位于挪威的卫星通信提供商 Marlink，其中包括多个卫星网络，并特别要求访问 Starlink。"
-    },
-    {
-      "text": "This is 100% real 😂\n\nSpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home services business featuring...\n\nNever mind… just watch it yourself. My head is spinning.\n\nVideo",
-      "link": "https://x.com/SMB_Attorney/status/2117967638911435077#m",
-      "date": "Wed, 04 Nov 2026 13:10:09 GMT",
-      "tweet_id": "2117967638911435077",
-      "ctx_done": 1,
-      "text_zh": "这100%真实😂\n\nSpaceXSI 正在另一个平台上投放一则广告，介绍如何使用 Grok Bot 购买当地的家庭服务业务，该业务的特点是……\n\n没关系……你自己看着吧。我头晕目眩。\n\n视频"
-    },
-    {
-      "text": "BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder.\n\nAround Gia Bắc Pass in Sơn Điền, mountains and deep valleys make it hard to stay connected. During road accidents, floods and landslides, that can make calling for help difficult.\n\nLocal officials are working with FPT Telecom to choose a location for Starlink, helping rescue teams stay connected and organise emergency responses.\n\nVideo",
-      "link": "https://x.com/cb_doge/status/2117950907610784237#m",
-      "date": "Wed, 04 Nov 2026 12:03:40 GMT",
-      "tweet_id": "2117950907610784237",
-      "ctx_done": 1,
-      "text_zh": "突发新闻：越南林同计划将星链网络带到移动信号覆盖较差、导致救援工作更加困难的地区。\n\n山屯嘉北山口周围，山峦叠嶂，山谷深邃，难以保持联系。在发生道路事故、洪水和山体滑坡时，求助电话可能会变得困难。\n\n当地官员正在与 FPT Telecom 合作选择 Starlink 的位置，帮助救援队保持联系并组织应急响应。\n\n视频"
-    },
-    {
-      "text": "JUST IN: Google to invest $15 billion in Malaysia data centers",
-      "link": "https://x.com/Kalshi/status/2117932367587504589#m",
-      "date": "Wed, 04 Nov 2026 10:50:00 GMT",
-      "tweet_id": "2117932367587504589",
-      "ctx_done": 1,
-      "text_zh": "最新消息：谷歌将投资 150 亿美元建设马来西亚数据中心"
-    },
-    {
-      "text": "Guess my election-interfering space lasers didn’t work this time 🤷‍♂️",
-      "link": "https://x.com/elonmusk/status/2117862767831159287#m",
-      "date": "Wed, 04 Nov 2026 06:13:26 GMT",
-      "tweet_id": "2117862767831159287",
-      "ctx_done": 1,
-      "text_zh": "猜猜我的干扰选举太空激光器这次没起作用🤷‍♂️"
-    },
-    {
-      "text": "Quick update:  Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train derailment in Spain.  We've connected more than 36,000 people in the region so far. Thank you to @mintradigital for your continued support.",
-      "link": "https://x.com/davesgoldman/status/2117804190378365250#m",
-      "date": "Wed, 04 Nov 2026 02:20:40 GMT",
-      "tweet_id": "2117804190378365250",
-      "quoted": {
-        "user": "davesgoldman",
-        "text": "Our thoughts are with everyone affected by this tragedy. Starlink Mobile connected nearly 2k messages with @orange_es and @Telefonica in the first few hours. Thank you to @mintradigital and Secretary González Martín for your support. 🇪🇸",
-        "text_zh": "我们与所有受这场悲剧影响的人同在。 Starlink Mobile 在最初几个小时内与 @orange_es 和 @Telefonica 连接了近 2000 条消息。感谢 @mintradigital 和 González Martín 部长的支持。 🇪🇸"
-      },
-      "ctx_done": 1,
-      "text_zh": "快速更新：在西班牙发生悲惨的火车出轨事件后，Starlink Mobile 继续与 Orange 和 Telefónica 提供服务。  到目前为止，我们已将该地区的 36,000 多人联系起来。感谢@mintradigital 的持续支持。"
     }
   ]
 }
