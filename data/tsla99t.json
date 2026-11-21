@@ -1,7 +1,7 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-11-21T10:49:48Z",
-  "count": 63,
+  "updated_at": "2026-11-21T19:00:17Z",
+  "count": 61,
   "tweets": [
     {
       "text": "希望Jensen想得开\n他的历史地位不亚于乔布斯\n华人的男神！",
@@ -669,35 +669,6 @@
       "text_zh": "从没想到\n我会到这里实习\n从产生想法\n到面试，到offer\n只花了一周时间\n都是@bot 在全程帮我",
       "tweet_id": "2112982429392846980",
       "ctx_done": 1
-    },
-    {
-      "text": "Finance with AI\n从娃娃抓起\ngenai4kidz.com/workshops/mon…",
-      "link": "http://nitter.meowing.monster/Tsla99T/status/2112910024960045433#m",
-      "date": "Wed, 21 Oct 2026 14:13:00 GMT",
-      "text_zh": "Finance with AI\n从娃娃抓起\ngenai4kidz.com/workshops/mon…",
-      "tweet_id": "2112910024960045433",
-      "ctx_done": 1
-    },
-    {
-      "text": "这么用duo肯定会摔\n单手只能是air\nVideo",
-      "link": "http://nitter.meowing.monster/Tsla99T/status/2112876136355049793#m",
-      "date": "Wed, 21 Oct 2026 11:58:20 GMT",
-      "tweet_id": "2112876136355049793",
-      "quoted": {
-        "user": "adiicodess",
-        "text": "iPhone Duo is totally one-handed friendly too! 👀👇",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/media/HVGqsnUa8AAm6vj.jpg",
-            "local": "2112876136355049793q_0.jpg"
-          }
-        ],
-        "text_zh": "iPhone Duo 也完全适合单手操作！ 👀👇"
-      },
-      "ctx_done": 1,
-      "text_zh": "这么用duo肯定会摔\n单手只能是air\nVideo"
     }
   ]
 }

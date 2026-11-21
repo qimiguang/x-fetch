@@ -1,7 +1,7 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-11-21T10:48:27Z",
-  "count": 90,
+  "updated_at": "2026-11-21T18:58:42Z",
+  "count": 86,
   "tweets": [
     {
       "text": "The initial release of Tesla's Full Self-Driving V15 appears to be imminent!\n\nWe'll share more details as they become available, including as soon as its detected on our platform.",
@@ -922,82 +922,6 @@
         "text": "We noticed a new Tesla software update 2026.38.5.10 on Model 3 RWD LR (2025) in New York, United States. View the rollout of this update here: https://teslascope.com/software/2026.38.5.10",
         "text_zh": "我们注意到美国纽约的 Model 3 RWD LR (2025) 上有新的特斯拉软件更新 2026.38.5.10。在此处查看此更新的推出：https://teslascope.com/software/2026.38.5.10"
       },
-      "ctx_done": 1
-    },
-    {
-      "text": "We're pleased to share that our web services have been restored, including our mobile, developer APIs, and AI MCP server.\n\nWe can thankfully confirm that vehicle activity was not disrupted at any time.\n\nThank you for your patience; this was a rough time for developers globally.",
-      "link": "https://x.com/teslascope/status/2112963280478314609",
-      "date": "Wed Oct 21 17:44:37 +0000 2026",
-      "tweet_id": "2112963280478314609",
-      "quoted": {
-        "user": "teslascope",
-        "text": "As a precautionary measure, our web service and developer APIs are temporarily unavailable in order to protect account and vehicle data from critical security vulnerabilities in the wild.\n\nVehicle activity is not impacted, and the web service will be restored as soon as possible. https://t.co/g324KOsd9O",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVIUNa6aIAAhoqr.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVIUNa6aIAAhoqr.jpg?format=jpg&name=large",
-            "local": "2112963280478314609q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVIUNa6aIAAhoqr.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HVIUNa6aIAAhoqr.jpg?format=jpg&name=large",
-            "local": "2112963280478314609q_1.jpg"
-          }
-        ],
-        "text_zh": "作为预防措施，我们的网络服务和开发者 API 暂时不可用，以保护帐户和车辆数据免受严重安全漏洞的影响。\n\n车辆活动不受影响，网络服务将尽快恢复。 https://t.co/g324KOsd9O"
-      },
-      "ctx_done": 1,
-      "text_zh": "我们很高兴地告诉大家，我们的网络服务已经恢复，包括我们的移动、开发者 API 和 AI MCP 服务器。\n\n值得庆幸的是，我们可以确认车辆活动在任何时候都没有受到干扰。\n\n感谢您的耐心等待；对于全球开发者来说，这是一段艰难的时期。"
-    },
-    {
-      "text": "iPad, iPhone Duo, and Foldable support has been added to the official Tesla app for the very first time.\nAbsolutely stunning.\nThe Tesla App is rolling out now for iPad, iPhone Duo, and Android Tablets and Foldables.\nFinally on the big screens you bring around with you",
-      "link": "https://nitter.kareem.one/teslascope/status/2112937789314805841#m",
-      "date": "Wed, 21 Oct 2026 16:03:20 GMT",
-      "tweet_id": "2112937789314805841",
-      "quoted": {
-        "user": "AlexGuichet",
-        "text": "The Tesla App is rolling out now for iPad, iPhone Duo, and Android Tablets and Foldables.\n\nFinally on the big screens you bring around with you",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVKl5VsasAApjez.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVKl5VsasAApjez.jpg?name=orig",
-            "local": "2112937789314805841q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVKl5VsbcAAFatf.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVKl5VsbcAAFatf.jpg?name=orig",
-            "local": "2112937789314805841q_1.jpg"
-          }
-        ],
-        "text_zh": "Tesla 应用程序现已推出适用于 iPad、iPhone Duo 以及 Android 平板电脑和可折叠设备的版本。\n\n终于在你随身携带的大屏幕上"
-      },
-      "ctx_done": 1,
-      "text_zh": "特斯拉官方应用程序首次添加了 iPad、iPhone Duo 和 Foldable 支持。\n绝对令人惊叹。\nTesla 应用程序现已推出适用于 iPad、iPhone Duo 以及 Android 平板电脑和可折叠设备的版本。\n终于在你随身携带的大屏幕上"
-    },
-    {
-      "text": "Update: We're next to receive the security patch. Once this completes, we'll provide a follow up and begin restoring access to our web platform, mobile and developer APIs, and AI MCP server.\nLaravel Cloud Canada, Tokyo, Ireland, Sydney, Virginia, and France regions are patched ✅ \nCurrently patching: London, Singapore \nUp next: Frankfurt, Ohio\nPatched Vapor images are available and your applications may be re-deployed manually to get them. Auto re-deployment is in progress.",
-      "link": "https://nitter.kareem.one/teslascope/status/2112933117732548714#m",
-      "date": "Wed, 21 Oct 2026 15:44:46 GMT",
-      "tweet_id": "2112933117732548714",
-      "quoted": {
-        "user": "laravel",
-        "text": "Laravel Cloud Canada, Tokyo, Ireland, Sydney, Virginia, and France regions are patched ✅ \n\nCurrently patching: London, Singapore \n\nUp next: Frankfurt, Ohio\n\nPatched Vapor images are available and your applications may be re-deployed manually to get them. Auto re-deployment is in progress.",
-        "text_zh": "Laravel Cloud 加拿大、东京、爱尔兰、悉尼、弗吉尼亚和法国地区已修补 ✅ \n\n目前正在修补：伦敦、新加坡 \n\n下一个：俄亥俄州法兰克福\n\n已修补的 Vapor 映像可用，您的应用程序可能需要手动重新部署才能获取它们。自动重新部署正在进行中。"
-      },
-      "ctx_done": 1,
-      "text_zh": "更新：我们接下来会收到安全补丁。一旦完成，我们将提供后续行动并开始恢复对我们的网络平台、移动和开发人员 API 以及 AI MCP 服务器的访问。\nLaravel Cloud 加拿大、东京、爱尔兰、悉尼、弗吉尼亚和法国地区已修补 ✅ \n目前正在修补：伦敦、新加坡 \n下一个：俄亥俄州法兰克福\n已修补的 Vapor 映像可用，您的应用程序可能需要手动重新部署才能获取它们。自动重新部署正在进行中。"
-    },
-    {
-      "text": "The PHP Foundation and Core team has officially released new PHP builds that resolve the two security vulnerabilities.\n\nphp.net/archive/2026.php#202…\n\nWe are now awaiting an update from Laravel Cloud (@laravel) that our instance has been patched.\n\nWe'll be back online once that occurs.\n\nLink\n\n\n\nPHP: News Archive - 2026\n\nPHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.\nphp.net",
-      "link": "https://nitter.kareem.one/teslascope/status/2112928513816994279#m",
-      "date": "Wed, 21 Oct 2026 15:26:28 GMT",
-      "text_zh": "PHP 基础和核心团队已正式发布新的 PHP 版本，解决了这两个安全漏洞。\n\nphp.net/archive/2026.php#202…\n\n我们现在正在等待 Laravel Cloud (@laravel) 的更新，表明我们的实例已修补。\n\n一旦发生这种情况，我们就会重新上线。\n\n链接\n\n\n\nPHP：新闻档案 - 2026\n\nPHP 是一种流行的通用脚本语言，它为从博客到世界上最受欢迎的网站的所有内容提供支持。\nphp.net",
-      "tweet_id": "2112928513816994279",
-      "reply_to": "teslascope",
       "ctx_done": 1
     }
   ]
