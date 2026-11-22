@@ -1,8 +1,30 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-22T11:08:44Z",
+  "updated_at": "2026-11-22T19:19:54Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Tesla Self-Driving 15 first ride with my Dad! \n\nThe new reality view is insane, and it parked perfectly 4/4 times. You guys are going to love this update. https://t.co/l7dPyGUkjP",
+      "link": "https://x.com/wholemars/status/2124351433076318396",
+      "date": "Sun Nov 22 03:57:04 +0000 2026",
+      "tweet_id": "2124351433076318396",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124347042252431360/vid/avc1/3840x2160/Zx2p5MTJIEmDQ9Sc.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124347042252431360/img/rS4lvnflR938Ho49.jpg",
+          "local": "2124351433076318396_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124347042252431360/vid/avc1/3840x2160/Zx2p5MTJIEmDQ9Sc.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124347042252431360/img/rS4lvnflR938Ho49.jpg",
+          "local": "2124351433076318396_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉自动驾驶 15 第一次和我爸爸一起骑！ \n\n新的现实视图太疯狂了，它完美地停在了 4/4 次。你们一定会喜欢这个更新的。 https://t.co/l7dPyGUkjP"
+    },
     {
       "text": "Tesla teases Self-Driving 15 as part of this year's holiday update\n\nhttps://t.co/bXJDufDmp7",
       "link": "https://x.com/wholemars/status/2124072556462506055",
@@ -2515,27 +2537,6 @@
       },
       "ctx_done": 1,
       "text_zh": "我们终于对“Facebook 正在通过我的手机监听我”有了解释。他们永远不会这样做（而且这实际上是不可能的）。\n事实证明，其他人都是如此——然后将其卖给广告数据经纪人。\nWTF，3000 美元的三星电视拥有始终开启的麦克风、自动内容识别、地理跟踪、网络映射，并将您的数据发送给 Samsung + 400 合作伙伴。\n兄弟在注意到荒谬的针对性广告后，对一台全新的 2025 款三星电视进行了 Root。\n固件被锁定，所以是零日漏洞。 \n获得了 root shell。\n然后发现：始终在线的语音服务、ACR、地理、完整的遥测管道和四个独立的 DRM 系统。 \n这不是错误，而是产品的问题。"
-    },
-    {
-      "text": "this guy fucks\nVideo",
-      "link": "https://nitter.kareem.one/wholemars/status/2113670686174765096#m",
-      "date": "Fri, 23 Oct 2026 16:35:36 GMT",
-      "tweet_id": "2113670686174765096",
-      "quoted": {
-        "user": "chan_k",
-        "text": "iPhone Duo is here! Excited to have worked on the design of our open/close transition. It’s designed to make the two displays feel like one seamless experience by perceptually bending the focal plane, not the content, so that it feels like opening a window onto a singular view.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113622313325543424/img/PtKK_WpkexUj4nmm.jpg",
-            "local": "2113670686174765096q_0.jpg"
-          }
-        ],
-        "text_zh": "iPhone Duo 来了！ Excited to have worked on the design of our open/close transition.它的设计目的是通过感知上弯曲焦平面而不是内容，使两个显示器感觉像是一种无缝体验，这样感觉就像打开了一扇通向单一视图的窗户。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这家伙乱搞\n视频"
     }
   ]
 }
