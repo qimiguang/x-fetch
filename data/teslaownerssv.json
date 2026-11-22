@@ -1,8 +1,166 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-21T18:59:44Z",
+  "updated_at": "2026-11-22T01:08:03Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "RT @TesLatina: From the Full Self-Driving (Supervised) early days, to the present. https://t.co/oBNJvAzFIW",
+      "link": "https://x.com/teslaownersSV/status/2124292818005094514",
+      "date": "Sun Nov 22 00:04:09 +0000 2026",
+      "tweet_id": "2124292818005094514",
+      "ctx_done": 1,
+      "text_zh": "RT @TesLatina：从早期的全自动驾驶（监督式）到现在。 https://t.co/oBNJvAzFIW"
+    },
+    {
+      "text": "Anyone with Cybertruck or Model S/X get it?",
+      "link": "https://x.com/teslaownersSV/status/2124292287303958677",
+      "date": "Sun Nov 22 00:02:03 +0000 2026",
+      "tweet_id": "2124292287303958677",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk says FSD V15 goes to wide release in December.\nLate Friday night he posted, \"FSD V15 goes to wide release next month. It will be something special.\" He gave a month, not a day.\nToday Tesla said v15 is now starting to roll out. Wide release is still December, and it's https://t.co/hYqVUsM6d6",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
+            "local": "2124292287303958677q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
+            "local": "2124292287303958677q_1.jpg"
+          }
+        ],
+        "text_zh": "Elon Musk 表示 FSD V15 将于 12 月广泛发布。\n周五深夜，他发帖称，“FSD V15 将于下个月广泛发布。这将是一件特别的事情。”他给了一个月，而不是一天。\n今天，特斯拉表示 v15 现已开始推出。广泛发布仍然是 12 月，https://t.co/hYqVUsM6d6"
+      },
+      "ctx_done": 1,
+      "text_zh": "拥有 Cyber​​truck 或 Model S/X 的人都明白吗？"
+    },
+    {
+      "text": "Elon Musk says FSD V15 goes to wide release in December.\nLate Friday night he posted, \"FSD V15 goes to wide release next month. It will be something special.\" He gave a month, not a day.\nToday Tesla said v15 is now starting to roll out. Wide release is still December, and it's https://t.co/hYqVUsM6d6",
+      "link": "https://x.com/teslaownersSV/status/2124275447093694768",
+      "date": "Sat Nov 21 22:55:08 +0000 2026",
+      "tweet_id": "2124275447093694768",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
+          "local": "2124275447093694768_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
+          "local": "2124275447093694768_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon Musk 表示 FSD V15 将于 12 月广泛发布。\n周五深夜，他发帖称，“FSD V15 将于下个月广泛发布。这将是一件特别的事情。”他给了一个月，而不是一天。\n今天，特斯拉表示 v15 现已开始推出。广泛发布仍然是 12 月，https://t.co/hYqVUsM6d6"
+    },
+    {
+      "text": "Waymo needs more LiDAR. https://t.co/Wt3P66qcrA",
+      "link": "https://x.com/teslaownersSV/status/2124251983695782277",
+      "date": "Sat Nov 21 21:21:54 +0000 2026",
+      "tweet_id": "2124251983695782277",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124251955627499520/vid/avc1/720x1280/GD6-nej2GAEu-1J5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124251955627499520/img/IY9sd7wwjVGJJHnZ.jpg",
+          "local": "2124251983695782277_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124251955627499520/vid/avc1/720x1280/GD6-nej2GAEu-1J5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124251955627499520/img/IY9sd7wwjVGJJHnZ.jpg",
+          "local": "2124251983695782277_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Waymo 需要更多激光雷达。 https://t.co/Wt3P66qcrA"
+    },
+    {
+      "text": "Close up photo of Uranus. https://t.co/bjpLsnhuFa",
+      "link": "https://x.com/teslaownersSV/status/2124243692915700147",
+      "date": "Sat Nov 21 20:48:57 +0000 2026",
+      "tweet_id": "2124243692915700147",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=large",
+          "local": "2124243692915700147_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=large",
+          "local": "2124243692915700147_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
+        "text_zh": "现在是我们再次探测天王星的时候了！\n\n（实际上）需要更好的图像。"
+      },
+      "ctx_done": 1,
+      "text_zh": "天王星的特写照片。 https://t.co/bjpLsnhuFa"
+    },
+    {
+      "text": "Elon Musk on choosing what to work on: \"I thought about what were the areas that would most affect the future of humanity.\" https://t.co/87GdK6X1G5",
+      "link": "https://x.com/teslaownersSV/status/2124243210218418599",
+      "date": "Sat Nov 21 20:47:02 +0000 2026",
+      "tweet_id": "2124243210218418599",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124243182624067584/vid/avc1/1920x1080/fpqzeUVePIJNiUHN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124243182624067584/img/5tyFEOtrkh3Eg7Uo.jpg",
+          "local": "2124243210218418599_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124243182624067584/vid/avc1/1920x1080/fpqzeUVePIJNiUHN.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124243182624067584/img/5tyFEOtrkh3Eg7Uo.jpg",
+          "local": "2124243210218418599_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克在选择工作内容时说道：“我思考了哪些领域对人类的未来影响最大。” https://t.co/87GdK6X1G5"
+    },
+    {
+      "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
+      "link": "https://x.com/elonmusk/status/2124241570451054609",
+      "date": "Sat Nov 21 20:40:31 +0000 2026",
+      "tweet_id": "2124241570451054609",
+      "ctx_done": 1,
+      "text_zh": "现在是我们再次探测天王星的时候了！\n\n（实际上）需要更好的图像。"
+    },
+    {
+      "text": "FSD v15 just started rolling out, and Tesla says it's 25x better at safety-critical cases.\n\nAt our X Takeover in 2024, @elonmusk told us: \"You can think of the Tesla cars as essentially robots on four wheels.\" Then he added that a Model 3 or Model Y is \"a good-looking car, but it https://t.co/ERYx6TqeHW",
+      "link": "https://x.com/teslaownersSV/status/2124239125515755870",
+      "date": "Sat Nov 21 20:30:48 +0000 2026",
+      "tweet_id": "2124239125515755870",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124239082603814912/vid/avc1/1920x1080/WHzmgvPPFGhhVTkb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124239082603814912/img/C_oV4vcqRSjjJ5r_.jpg",
+          "local": "2124239125515755870_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124239082603814912/vid/avc1/1920x1080/WHzmgvPPFGhhVTkb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124239082603814912/img/C_oV4vcqRSjjJ5r_.jpg",
+          "local": "2124239125515755870_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "FSD v15 刚刚开始推出，特斯拉表示，它在安全关键情况下的性能提高了 25 倍。\n\n在 2024 年的 X Takeover 上，@elonmusk 告诉我们：“你可以将特斯拉汽车视为本质上的四轮机器人。”然后他补充说 Model 3 或 Model Y 是“一辆好看的车，但它 https://t.co/ERYx6TqeHW"
+    },
     {
       "text": "“If you need inspiration, don't do it.”\n― Elon Musk https://t.co/DdmPL5SBsE",
       "link": "https://x.com/teslaownersSV/status/2124208963558469957",
@@ -1232,6 +1390,14 @@
       },
       "ctx_done": 1,
       "text_zh": "RT @Newsforce：堆栈：SPACEX 历史性的星舰捕获、NVIDIA 的领导层变动以及 ANTHROPIC 的大规模 IPO\n\n@SpaceX 破解了……"
+    },
+    {
+      "text": "From the Full Self-Driving (Supervised) early days, to the present. https://t.co/oBNJvAzFIW",
+      "link": "https://x.com/TesLatina/status/2123776083807854655",
+      "date": "Fri Nov 20 13:50:50 +0000 2026",
+      "tweet_id": "2123776083807854655",
+      "ctx_done": 1,
+      "text_zh": "从早期的全自动驾驶（有人监督）到现在。 https://t.co/oBNJvAzFIW"
     },
     {
       "text": "JUST IN: Tesla's FSD (Supervised) is now approved in Italy, the 12th European country to approve it. Rollout begins soon.\n\nIn Europe the system is called Tesla Assisted Driving. Italy joins the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, Czechia, Croatia, https://t.co/6KKHTDA7te",
@@ -4058,186 +4224,6 @@
       },
       "ctx_done": 1,
       "text_zh": "特斯拉社区喜欢@NICKIMINAJ \n\n@diywrapclub @Tryangle https://t.co/YrYkve02BJ"
-    },
-    {
-      "text": "RT @AndrThie: If you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  \n\nWe are expanding! Cybercab pro…",
-      "link": "https://x.com/teslaownersSV/status/2122460830293971236",
-      "date": "Mon Nov 16 22:44:30 +0000 2026",
-      "tweet_id": "2122460830293971236",
-      "ctx_done": 1,
-      "text_zh": "RT @AndrThie：如果你想知道，我们会用我们拥有的所有土地在 Giga Berlin 做什么……  \n\n我们正在扩张！网络出租车专业…"
-    },
-    {
-      "text": "Sheesh Elon Musk is a life hack",
-      "link": "https://x.com/teslaownersSV/status/2122460748752519562",
-      "date": "Mon Nov 16 22:44:10 +0000 2026",
-      "tweet_id": "2122460748752519562",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "One month of @elonmusk \n\nThe new Roadster flew, SpaceX caught Starship coming back from orbit, Cybercab opened for personal ownership, Robotaxi went 24/7, Optimus production started in Fremont, and Grok Bot hit 1.0.\n\nWhich one is the biggest deal to you? https://t.co/iMlzCbPzk9",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2122126620043706368/vid/avc1/1080x1920/Ou7VogJcbNFwXG9m.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122126620043706368/img/kkOGoQ6Y27jgv1f8.jpg",
-            "local": "2122460748752519562q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2122126620043706368/vid/avc1/1080x1920/Ou7VogJcbNFwXG9m.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122126620043706368/img/kkOGoQ6Y27jgv1f8.jpg",
-            "local": "2122460748752519562q_1.jpg"
-          }
-        ],
-        "text_zh": "@elonmusk 一个月 \n\n新的 Roadster 飞了起来，SpaceX 捕获了从轨道返回的 Starship，Cybercab 向个人开放，Robotaxi 实现了 24/7，Optimus 在弗里蒙特开始生产，Grok Bot 达到了 1.0。\n\n哪一项对您来说最重要？ https://t.co/iMlzCbPzk9"
-      },
-      "ctx_done": 1,
-      "text_zh": "Sheesh Elon Musk 是一个生活黑客"
-    },
-    {
-      "text": "9 years ago today, Elon unveiled Tesla Semi.\n\nNov 16, 2017, he opened with \"So, 500 mile range.\" Then: \"We designed the Tesla truck to be like a bullet. So whereas a normal diesel truck is designed more like a barn wall, this is a bullet.\"\n\nAnd the promise: \"From day one, having https://t.co/Aaip8IPHJF",
-      "link": "https://x.com/teslaownersSV/status/2122456724238213282",
-      "date": "Mon Nov 16 22:28:11 +0000 2026",
-      "tweet_id": "2122456724238213282",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122456605187002369/vid/avc1/1920x1080/CtKMDx6shO7OWSut.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122456605187002369/img/r7iaMV_J0JaQPGUN.jpg",
-          "local": "2122456724238213282_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122456605187002369/vid/avc1/1920x1080/CtKMDx6shO7OWSut.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122456605187002369/img/r7iaMV_J0JaQPGUN.jpg",
-          "local": "2122456724238213282_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "9 年前的今天，埃隆推出了 Tesla Semi。\n\n2017 年 11 月 16 日，他以“所以，500 英里范围”开场。然后：“我们将特斯拉卡车设计得像一颗子弹。因此，普通柴油卡车的设计更像是谷仓墙，而这是一颗子弹。”\n\n并承诺：“从第一天起，就拥有 https://t.co/Aaip8IPHJF"
-    },
-    {
-      "text": "In case you missed it!",
-      "link": "https://x.com/teslaownersSV/status/2122455317724479776",
-      "date": "Mon Nov 16 22:22:35 +0000 2026",
-      "tweet_id": "2122455317724479776",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "We surprised @nickiminaj with the CyberBarb, a black and pink Gag City @Cybertruck from the Tesla community, at the @thextakeover at Giga Texas.\n\n\"On behalf of the Tesla community, look at this wonderful Cybertruck.\"\n\nNicki: \"You guys outdid yourself.\" \"It looks like I'm in New https://t.co/bJJbf3GPMI",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
-            "local": "2122455317724479776q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2122114690855940096/vid/avc1/3840x2160/_UJPBDZ6tIcDAn1i.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122114690855940096/img/-qjkKdw8p8SRKHML.jpg",
-            "local": "2122455317724479776q_1.jpg"
-          }
-        ],
-        "text_zh": "我们在德克萨斯州 Giga 的 @thextakeover 上用来自 Tesla 社区的黑色和粉色 Gag City @Cyber​​truck 推出的 Cyber​​Barb 给@nickiminaj 带来了惊喜。\n\n“代表特斯拉社区，看看这辆精彩的赛博卡车。”\n\nNicki：“你们超越了自己。” “看起来我在新 https://t.co/bJJbf3GPMI"
-      },
-      "ctx_done": 1,
-      "text_zh": "万一你错过了！"
-    },
-    {
-      "text": "Making something useful that people enjoy is an honest day's work, and the people who do it deserve real respect.\n\n\"I have a lot of respect for makers... I have huge respect for people who make things and provide useful services. And it's an honest day's work.\" @elonmusk https://t.co/GSY2VdEFGW",
-      "link": "https://x.com/teslaownersSV/status/2122455240792490010",
-      "date": "Mon Nov 16 22:22:17 +0000 2026",
-      "tweet_id": "2122455240792490010",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122455168294006786/vid/avc1/1920x1080/X3ATBaoAyjba5iM8.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122455168294006786/img/hqED_JAzW3nMs1Qx.jpg",
-          "local": "2122455240792490010_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122455168294006786/vid/avc1/1920x1080/X3ATBaoAyjba5iM8.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122455168294006786/img/hqED_JAzW3nMs1Qx.jpg",
-          "local": "2122455240792490010_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "制作人们喜欢的有用的东西是诚实的一天的工作，而做这件事的人应该得到真正的尊重。\n\n“我非常尊重创客……我非常尊重那些制造东西并提供有用服务的人。这是诚实的一天工作。” @elonmusk https://t.co/GSY2VdEFGW"
-    },
-    {
-      "text": "\"@elonmusk really gets the best out of everybody, and that's why that company is so incredible.\"\nTom Mueller https://t.co/KxlldEmWnO",
-      "link": "https://x.com/teslaownersSV/status/2122452622519230711",
-      "date": "Mon Nov 16 22:11:53 +0000 2026",
-      "tweet_id": "2122452622519230711",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122452224093937664/vid/avc1/1920x1080/IfmF2GJWktLZClQi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
-          "local": "2122452622519230711_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122452224093937664/vid/avc1/1920x1080/IfmF2GJWktLZClQi.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122452224093937664/img/hH1u-8mcRlq3i7Rk.jpg",
-          "local": "2122452622519230711_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“@elonmusk 确实让每个人都发挥出了最好的水平，这就是为什么这家公司如此令人难以置信。”\n汤姆·穆勒 https://t.co/KxlldEmWnO"
-    },
-    {
-      "text": "https://t.co/O7oFdqaHpf",
-      "link": "https://x.com/teslaownersSV/status/2122449476665172473",
-      "date": "Mon Nov 16 21:59:23 +0000 2026",
-      "tweet_id": "2122449476665172473",
-      "ctx_done": 1,
-      "text_zh": "https://t.co/O7oFdqaHpf"
-    },
-    {
-      "text": "“AI is a supersonic tsunami.” – @elonmusk \n\nThe world is truly not prepared. https://t.co/UcNolEyURR",
-      "link": "https://x.com/teslaownersSV/status/2122429146538357171",
-      "date": "Mon Nov 16 20:38:36 +0000 2026",
-      "tweet_id": "2122429146538357171",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122429096999182336/vid/avc1/1152x768/TsEGtEremVb4xHoQ.mp4?tag=25",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122429096999182336/img/EGZ2E1ZrjHZXPU4K.jpg",
-          "local": "2122429146538357171_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122429096999182336/vid/avc1/1152x768/TsEGtEremVb4xHoQ.mp4?tag=25",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122429096999182336/img/EGZ2E1ZrjHZXPU4K.jpg",
-          "local": "2122429146538357171_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“人工智能是一场超音速海啸。” – @elonmusk \n\n世界确实还没有准备好。 https://t.co/UcNolEyURR"
-    },
-    {
-      "text": "NEWS: Memphis is directing $3.26 million in property tax revenue from SpaceXSI’s Colossus I supercomputer facility toward nearby community projects.\n\n•⁠  ⁠$2 million will fund home repairs, with eligible assistance of up to $25,000 per property.\n•⁠  ⁠Additional funding will https://t.co/6u1Izm4ygv",
-      "link": "https://x.com/teslaownersSV/status/2122422742767349860",
-      "date": "Mon Nov 16 20:13:09 +0000 2026",
-      "tweet_id": "2122422742767349860",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXRcODhbYAAj-tG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXRcODhbYAAj-tG.jpg?format=jpg&name=large",
-          "local": "2122422742767349860_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXRcODhbYAAj-tG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXRcODhbYAAj-tG.jpg?format=jpg&name=large",
-          "local": "2122422742767349860_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：孟菲斯将 SpaceXSI Colossus I 超级计算机设施的 326 万美元财产税收入用于附近的社区项目。\n\n• ⁠ ⁠ 200 万美元将用于资助房屋维修，每处房产符合资格的援助金额最高可达 25,000 美元。\n•⁠ ⁠额外资金将 https://t.co/6u1Izm4ygv"
     }
   ]
 }

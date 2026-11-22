@@ -1,8 +1,58 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-11-21T18:58:42Z",
-  "count": 86,
+  "updated_at": "2026-11-22T01:07:14Z",
+  "count": 88,
   "tweets": [
+    {
+      "text": "Tesla Full Self-Driving V15.0.1 is now available on AI4 vehicles for the first time.",
+      "link": "https://x.com/teslascope/status/2124272325784981548",
+      "date": "Sat Nov 21 22:42:44 +0000 2026",
+      "tweet_id": "2124272325784981548",
+      "quoted": {
+        "user": "teslascope",
+        "text": "The following feature is included: FSD (Supervised) v15.0.1\n\nhttps://t.co/Tte0fzVTTM https://t.co/h3A8333Qmo",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=large",
+            "local": "2124272325784981548q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=large",
+            "local": "2124272325784981548q_1.jpg"
+          }
+        ],
+        "text_zh": "包含以下功能：FSD（受监督）v15.0.1\n\nhttps://t.co/Tte0fzVTTM https://t.co/h3A8333Qmo"
+      },
+      "ctx_done": 1,
+      "text_zh": "特斯拉全自动驾驶 V15.0.1 现已首次在 AI4 车辆上推出。"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) v15.0.1\n\nhttps://t.co/Tte0fzVTTM https://t.co/h3A8333Qmo",
+      "link": "https://x.com/teslascope/status/2124271267507306524",
+      "date": "Sat Nov 21 22:38:31 +0000 2026",
+      "tweet_id": "2124271267507306524",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=large",
+          "local": "2124271267507306524_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HXrtdhBWcAEoWI1.png?format=jpg&name=large",
+          "local": "2124271267507306524_1.jpg"
+        }
+      ],
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "包含以下功能：FSD（受监督）v15.0.1\n\nhttps://t.co/Tte0fzVTTM https://t.co/h3A8333Qmo"
+    },
     {
       "text": "The initial release of Tesla's Full Self-Driving V15 appears to be imminent!\n\nWe'll share more details as they become available, including as soon as its detected on our platform.",
       "link": "https://x.com/teslascope/status/2124033622886019280",
