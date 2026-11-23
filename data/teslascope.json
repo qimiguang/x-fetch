@@ -1,12 +1,55 @@
 {
   "username": "teslascope",
-  "updated_at": "2026-11-23T01:31:09Z",
-  "count": 82,
+  "updated_at": "2026-11-23T12:04:36Z",
+  "count": 96,
   "tweets": [
     {
-      "text": "Tesla Full Self-Driving V15.0.1 is now available on AI4 vehicles for the first time.",
-      "link": "https://x.com/teslascope/status/2124272325784981548",
-      "date": "Sat Nov 21 22:42:44 +0000 2026",
+      "text": "Here's our Full Self-Driving V15 rollout and general information post:\n\n1️⃣ V15.0.1 is only available on 2025 and newer Model Y. No other models have received it at this time.\n\n2️⃣ The Tesla team has collectively communicated a number of improvements planned including a ~35% reduction in latency for Reality View, fixes for purple haze on visualizations at night, and more control while the vehicle has FSD engaged.\n\nIt is unclear at this time whether the team intends to complete some (or all) of these improvements prior to additional waves, or if waves will proceed in the meantime.\n\n3️⃣ Parking on V15.0.1 is VASTLY improved as reported by the majority of reviewers. We've observed numerous reports and videos of parking in driveways that had not succeeded on V14.\n\nFor general parking lots, parking is also much faster and more confident and spot selection appears to have been refined (but not 100% perfect yet).\n\n4️⃣ Based on our own observations, we believe that if another wave doesn't occur before Thanksgiving, we won't see any movement until December, with a goal of a wide rollout (>70% of eligible vehicles) before Christmas.",
+      "link": "https://x.com/teslascope/status/2124678796091793419#m",
+      "date": "Mon, 23 Nov 2026 01:37:54 GMT",
+      "tweet_id": "2124678796091793419",
+      "ctx_done": 1,
+      "text_zh": "以下是我们的全自动驾驶 V15 推出和一般信息帖子：\n\n1️⃣ V15.0.1 仅适用于 2025 年及更新的 Model Y。目前尚未收到其他型号。\n\n2️⃣ Tesla 团队集体传达了一系列改进计划，包括将现实视图的延迟减少约 35%、修复夜间可视化中的紫色雾霾，以及在车辆启用 FSD 时进行更多控制。\n\n目前尚不清楚团队是否打算在额外的波次之前完成部分（或全部）这些改进，或者波次是否会同时进行。\n\n3️⃣ 根据大多数评论者的报告，V15.0.1 上的停车功能得到了极大改善。我们观察到大量在车道上停车的报告和视频，但在 V14 上没有成功。\n\n对于一般停车场来说，停车也更快、更自信，而且停车位选择似乎也得到了改进（但还不是 100% 完美）。\n\n4️⃣ 根据我们自己的观察，我们认为，如果感恩节前没有出现另一波浪潮，那么直到 12 月我们才会看到任何动静，目标是在圣诞节前广泛推出（> 70% 的合格车辆）。"
+    },
+    {
+      "text": "RT by @teslascope: Image",
+      "link": "https://x.com/TeslaSI/status/2124333246079213942#m",
+      "date": "Sun, 22 Nov 2026 02:44:48 GMT",
+      "tweet_id": "2124333246079213942",
+      "reply_to": "SawyerMerritt",
+      "ctx_done": 1,
+      "text_zh": "RT @teslascope：图片"
+    },
+    {
+      "text": "Bike Rack Mode\n\nWith Bike Rack Mode, you can now engage FSD (Supervised) and Autosteer when a bike rack or similar hitch accessory is installed.\n\nWhen Bike Rack Mode is enabled, FSD (Supervised) pulls over near your destination and does not reverse. \n\nAutopark, Summon, and Backup chimes and warnings will be disabled.",
+      "link": "https://x.com/teslascope/status/2124275862619206047#m",
+      "date": "Sat, 21 Nov 2026 22:56:47 GMT",
+      "tweet_id": "2124275862619206047",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "自行车架模式\n\n通过自行车架模式，您现在可以在安装自行车架或类似挂钩配件时启用 FSD（受监督）和自动转向。\n\n启用自行车架模式后，FSD（受监督）会在您的目的地附近停车并且不会倒车。 \n\n自动停车、召唤和备份提示音和警告将被禁用。"
+    },
+    {
+      "text": "Speed Camera Slowdown\n\nFSD (Supervised) can now slow down when it detects a speed camera. Press the accelerator or increase your speed profile to cancel the slowdown. If you cancel twice at the same camera, your Tesla saves that location and will not slow down there again.\n\nTo remove saved cameras, go to Controls > Service > Manage Saved Locations.",
+      "link": "https://x.com/teslascope/status/2124275722386874779#m",
+      "date": "Sat, 21 Nov 2026 22:56:14 GMT",
+      "tweet_id": "2124275722386874779",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "测速相机减速\n\nFSD（监督）现在可以在检测到测速摄像头时减速。按下加速器或提高速度曲线以取消减速。如果您在同一个摄像头取消两次，您的 Tesla 会保存该位置并且不会再次在那里减速。\n\n要删除保存的摄像机，请转至控制 > 服务 > 管理保存的位置。"
+    },
+    {
+      "text": "FSD (Supervised) v15.0.1 Release Notes\n\nv15 upgrades every part of the end-to-end driving network. Includes:\n\nUpgraded vision encoder shared between FSD, Robotaxi, and Optimus, which is trained on millions of internet videos for improved generalization and data efficiency, improving the critical intervention rate by 25x.\n\nIntroduced Tesla Reality View, replacing all of the explicit model signals into a single end-to-end visualization using less total compute.\n\nImproved navigation by using an end-to-end learned model based on route preference data from the fleet.\n\nImproved parking location selection by using personalized parking history, and the map will now display multiple parking options at your destination.\n\nImproved driver monitoring by increasing vision-based attention monitoring availability with hats and sunglasses and decreasing strictness in higher speed driver profiles.\n\nImproved detection of road signs, small animals, road debris, and chains.\n\nImproved detection of potholes, road details, and avoidance of deep standing water.\n\nImproved speed handling for each driver profile, school zones and speed limits, and inclement weather.\n\nImproved Autoshift functionality by unifying with FSD-based gear predictions.",
+      "link": "https://x.com/teslascope/status/2124272702911594735#m",
+      "date": "Sat, 21 Nov 2026 22:44:14 GMT",
+      "tweet_id": "2124272702911594735",
+      "ctx_done": 1,
+      "text_zh": "FSD（受监督）v15.0.1 发行说明\n\nv15升级了端到端驾驶网络的每个部分。包括：\n\nFSD、Robotaxi 和 Optimus 之间共享的升级视觉编码器，经过数百万个互联网视频的训练，以提高泛化性和数据效率，将关键干预率提高 25 倍。\n\n推出 Tesla Reality View，使用更少的总计算量将所有显式模型信号替换为单个端到端可视化。\n\n通过使用基于车队的路线偏好数据的端到端学习模型来改进导航。\n\n通过使用个性化停车历史记录改进了停车位置选择，地图现在将显示目的地的多个停车选项。\n\n通过使用帽子和太阳镜提高基于视觉的注意力监控可用性，并降低高速驾驶员档案的严格性，从而改进驾驶员监控。\n\n改进了对路标、小动物、道路碎片和链条的检测。\n\n改进了对坑洼、道路细节的检测，并避免了深积水。\n\n改进了每个驾驶员资料、学校区域和速度限制以及恶劣天气的速度处理。\n\n通过与基于 FSD 的档位预测相结合，改进了自动换档功能。"
+    },
+    {
+      "text": "Tesla Full Self-Driving V15.0.1 is now available on AI4 vehicles for the first time.\n\n\nTeslascope (@teslascope)\n\nThe following feature is included: FSD (Supervised) v15.0.1\n\nteslascope.com/software/2026…\n\n\n\n\n\n— http://nitter.mizuki.st/teslascope/status/2124271267507306524#m",
+      "link": "https://x.com/teslascope/status/2124272325784981548#m",
+      "date": "Sat, 21 Nov 2026 22:42:44 GMT",
       "tweet_id": "2124272325784981548",
       "quoted": {
         "user": "teslascope",
@@ -31,9 +74,36 @@
       "text_zh": "特斯拉全自动驾驶 V15.0.1 现已首次在 AI4 车辆上推出。"
     },
     {
-      "text": "The following feature is included: FSD (Supervised) v15.0.1\n\nhttps://t.co/Tte0fzVTTM https://t.co/h3A8333Qmo",
-      "link": "https://x.com/teslascope/status/2124271267507306524",
-      "date": "Sat Nov 21 22:38:31 +0000 2026",
+      "text": "The following feature is included: Bike Rack Mode\n\nteslascope.com/software/2026…",
+      "link": "https://x.com/teslascope/status/2124271301963522367#m",
+      "date": "Sat, 21 Nov 2026 22:38:40 GMT",
+      "tweet_id": "2124271301963522367",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "包括以下功能： 自行车架模式\n\nteslascope.com/software/2026…"
+    },
+    {
+      "text": "The following feature is included: Speed Camera Slowdown\n\nteslascope.com/software/2026…",
+      "link": "https://x.com/teslascope/status/2124271291909730440#m",
+      "date": "Sat, 21 Nov 2026 22:38:37 GMT",
+      "tweet_id": "2124271291909730440",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "包括以下功能： 测速摄像头减速\n\nteslascope.com/software/2026…"
+    },
+    {
+      "text": "The following feature is included: Tesla Reality View\n\nteslascope.com/software/2026…",
+      "link": "https://x.com/teslascope/status/2124271280471859521#m",
+      "date": "Sat, 21 Nov 2026 22:38:34 GMT",
+      "tweet_id": "2124271280471859521",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "包括以下功能：特斯拉现实视图\n\nteslascope.com/software/2026…"
+    },
+    {
+      "text": "The following feature is included: FSD (Supervised) v15.0.1\n\nteslascope.com/software/2026…",
+      "link": "https://x.com/teslascope/status/2124271267507306524#m",
+      "date": "Sat, 21 Nov 2026 22:38:31 GMT",
       "tweet_id": "2124271267507306524",
       "media": [
         {
@@ -54,6 +124,113 @@
       "text_zh": "包含以下功能：FSD（受监督）v15.0.1\n\nhttps://t.co/Tte0fzVTTM https://t.co/h3A8333Qmo"
     },
     {
+      "text": "We noticed a new Tesla software update 2026.38.6.11 on Model Y RWD LR (2026) in New York, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.6.11 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.6.11.\nteslascope.com",
+      "link": "https://x.com/teslascope/status/2124271251929673989#m",
+      "date": "Sat, 21 Nov 2026 22:38:28 GMT",
+      "tweet_id": "2124271251929673989",
+      "ctx_done": 1,
+      "text_zh": "我们注意到美国纽约的 Model Y RWD LR (2026) 上有新的特斯拉软件更新 2026.38.6.11。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.6.11 Tesla 软件发布说明和统计 - Teslascope\n\nTesla 软件更新的发行说明和发布，2026.38.6.11。\nteslascope.com"
+    },
+    {
+      "text": "🤯🤯🤯\nVideo",
+      "link": "https://x.com/teslascope/status/2124238247035654258#m",
+      "date": "Sat, 21 Nov 2026 20:27:19 GMT",
+      "tweet_id": "2124238247035654258",
+      "quoted": {
+        "user": "Tesla",
+        "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network \n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+            "local": "2124238247035654258q_0.jpg"
+          }
+        ],
+        "text_zh": "FSD v15现已开始推出——升级端到端驾驶网络的每个部分 \n\n安全\n安全关键案例的处理效果提高了 25 倍\n\n特斯拉现实视图 \n添加驱动器的实时可视化，让您可以查看和控制 FSD 计划执行的操作\n\n行程开始和结束的导航现在可以从车队路线偏好中进行端到端学习。稍后的 v15 版本会将其扩展到整个路线。\n\n您还应该注意到对标志、动物、碎片、坑洼和积水的更好检测，以及在学校区域和恶劣天气下更自然的速度处理。\n\n最后，FSD 现在可以减慢测速摄像头的速度，而自行车架模式可让您启用带自行车架或类似挂钩配件的 FSD"
+      },
+      "ctx_done": 1,
+      "text_zh": "🤯🤯🤯\n视频"
+    },
+    {
+      "text": "XV is the culmination of countless late nights from our incredible team.\nReality View is probably the most fun I have ever had working on a project. Can’t wait for everyone to try it.\nVideo",
+      "link": "https://x.com/lawsonfulton/status/2124222998681194849#m",
+      "date": "Sat, 21 Nov 2026 19:26:43 GMT",
+      "tweet_id": "2124222998681194849",
+      "quoted": {
+        "user": "Tesla",
+        "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network \n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124221674111512576/img/jtjoJUSLKl6Nz6dX.jpg",
+            "local": "2124222998681194849q_0.jpg"
+          }
+        ],
+        "text_zh": "FSD v15现已开始推出——升级端到端驾驶网络的每个部分 \n\n安全\n安全关键案例的处理效果提高了 25 倍\n\n特斯拉现实视图 \n添加驱动器的实时可视化，让您可以查看和控制 FSD 计划执行的操作\n\n行程开始和结束的导航现在可以从车队路线偏好中进行端到端学习。稍后的 v15 版本会将其扩展到整个路线。\n\n您还应该注意到对标志、动物、碎片、坑洼和积水的更好检测，以及在学校区域和恶劣天气下更自然的速度处理。\n\n最后，FSD 现在可以减慢测速摄像头的速度，而自行车架模式可让您启用带自行车架或类似挂钩配件的 FSD"
+      },
+      "ctx_done": 1,
+      "text_zh": "XV 是我们令人难以置信的团队无数个深夜的巅峰之作。\n现实视图可能是我从事过的项目中最有趣的。迫不及待地想让大家尝试一下。\n视频"
+    },
+    {
+      "text": "Elon confirms that Full Self-Driving V15 will be released next month and, in a separate post, clarifies that it’ll be part of the holiday update.\nNew FSD releases are expected to launch first in North America on AI4 vehicles, then gradually expand beyond that.",
+      "link": "https://x.com/teslascope/status/2124087261176439221#m",
+      "date": "Sat, 21 Nov 2026 10:27:21 GMT",
+      "tweet_id": "2124087261176439221",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. \n\nAnd having a “system prompt” is silly! Default behavior should be sensible.\n\nThe above are already true for Tesla AI (not yet deserving of “super”). It is the most efficient AI on Earth.\n\nFSD V15 goes to wide release next month. It will be something special.",
+        "text_zh": "SFT更像是用电锯理发，而不是“微调”！应该纳入初级培训中。 \n\n而且有“系统提示”是愚蠢的！默认行为应该是明智的。\n\n对于 Tesla AI 来说，上述情况已经成立（尚不值得“超级”）。它是地球上最高效的人工智能。\n\nFSD V15 将于下个月广泛发布。这将是一些特别的事情。"
+      },
+      "ctx_done": 1,
+      "text_zh": "Elon 确认全自动驾驶 V15 将于下个月发布，并在另一篇文章中澄清这将是假期更新的一部分。\n新的 FSD 版本预计将首先在北美的 AI4 车辆上推出，然后逐渐扩展到其他地区。"
+    },
+    {
+      "text": "XV\n\n\nUP (@UnpluggedTesla)\n\nXV\n\n\n\n— http://nitter.mizuki.st/UnpluggedTesla/status/2124017073802359235#m",
+      "link": "https://x.com/teslascope/status/2124043060770451600#m",
+      "date": "Sat, 21 Nov 2026 07:31:43 GMT",
+      "tweet_id": "2124043060770451600",
+      "quoted": {
+        "user": "UnpluggedTesla",
+        "text": "XV",
+        "text_zh": "十五"
+      },
+      "ctx_done": 1,
+      "text_zh": "十五\n\n\nUP（@UnpluggedTesla）\n\n十五\n\n\n\n— http://nitter.mizuki.st/UnpluggedTesla/status/2124017073802359235#m"
+    },
+    {
+      "text": "Probably the biggest wave I've ever seen",
+      "link": "https://x.com/SamPilgrim26069/status/2124041919575511254#m",
+      "date": "Sat, 21 Nov 2026 07:27:11 GMT",
+      "tweet_id": "2124041919575511254",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "可能是我见过的最大的波浪"
+    },
+    {
+      "text": "20k? DAMN!",
+      "link": "https://x.com/jose3030/status/2124041585541455907#m",
+      "date": "Sat, 21 Nov 2026 07:25:51 GMT",
+      "tweet_id": "2124041585541455907",
+      "reply_to": "teslascope",
+      "ctx_done": 1,
+      "text_zh": "2万？该死！"
+    },
+    {
+      "text": "Tesla software update 2026.44.1 is now rolling out to ~20,130 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3 Lite for eligible HW3 vehicles (89%).\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.44.1 on Model X Plaid (2022) in California, United States. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.44.1 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.44.1.\nteslascope.com\n\n\n\n\n— http://nitter.mizuki.st/teslascope/status/2122549877427085356#m",
+      "link": "https://x.com/teslascope/status/2124041401276969348#m",
+      "date": "Sat, 21 Nov 2026 07:25:07 GMT",
+      "tweet_id": "2124041401276969348",
+      "quoted": {
+        "user": "teslascope",
+        "text": "We noticed a new Tesla software update 2026.44.1 on Model X Plaid (2022) in California, United States. View the rollout of this update here: https://teslascope.com/software/2026.44.1",
+        "text_zh": "我们注意到美国加利福尼亚州的 Model X Plaid (2022) 上有新的特斯拉软件更新 2026.44.1。在此处查看此更新的推出：https://teslascope.com/software/2026.44.1"
+      },
+      "ctx_done": 1,
+      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.44.1 现在将在过去五分钟内向另外约 20,130 辆车辆推出。\n\n此更新包括适用于符合条件的 HW3 车辆 (89%) 的全自动驾驶 V14.3 Lite。\n\n\nTeslascope（@teslascope）\n\n我们注意到美国加利福尼亚州的 Model X Plaid (2022) 上有新的特斯拉软件更新 2026.44.1。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.44.1 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.44.1 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.mizuki.st/teslascope/status/2122549877427085356#m"
+    },
+    {
       "text": "The initial release of Tesla's Full Self-Driving V15 appears to be imminent!\n\nWe'll share more details as they become available, including as soon as its detected on our platform.",
       "link": "https://x.com/teslascope/status/2124033622886019280",
       "date": "Sat Nov 21 06:54:12 +0000 2026",
@@ -65,6 +242,19 @@
       },
       "ctx_done": 1,
       "text_zh": "特斯拉全自动驾驶 V15 的首次发布似乎即将到来！\n\n我们将在提供更多详细信息时分享更多详细信息，包括在我们的平台上检测到该信息后立即分享。"
+    },
+    {
+      "text": "What if we are just driving in a video game",
+      "link": "https://x.com/Tesla/status/2124011205073539316#m",
+      "date": "Sat, 21 Nov 2026 05:25:08 GMT",
+      "tweet_id": "2124011205073539316",
+      "quoted": {
+        "user": "TeslaSI",
+        "text": "XV",
+        "text_zh": "十五"
+      },
+      "ctx_done": 1,
+      "text_zh": "如果我们只是在电子游戏中开车怎么办"
     },
     {
       "text": "XV",
@@ -864,36 +1054,6 @@
         "text": "We noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: https://teslascope.com/software/2026.38.3.2",
         "text_zh": "我们注意到德国北莱茵-威斯特法伦州的 Model 3 Performance（2024）有新的 Tesla 软件更新 2026.38.3.2。在此处查看此更新的推出：https://teslascope.com/software/2026.38.3.2"
       },
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla software update 2026.38.3.2 is now rolling out to ~5,830 additional vehicles within the last five minutes based on available fleet data.\n\n\nTeslascope (@teslascope)\n\nWe noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: teslascope.com/software/2026…\n\nLink\n\n\n\n2026.38.3.2 Tesla software release notes and statistics - Teslascope\n\nThe release notes and rollout for the Tesla software update, 2026.38.3.2.\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2113362432831725585#m",
-      "link": "http://nitter.meowing.monster/teslascope/status/2113471768409063625#m",
-      "date": "Fri, 23 Oct 2026 03:25:10 GMT",
-      "text_zh": "根据可用的车队数据，特斯拉软件更新 2026.38.3.2 现在将在过去五分钟内向另外约 5,830 辆车辆推出。\n\n\nTeslascope（@teslascope）\n\n我们注意到德国北莱茵-威斯特法伦州的 Model 3 Performance（2024）有新的 Tesla 软件更新 2026.38.3.2。请在此处查看此更新的推出：teslascope.com/software/2026...\n\n链接\n\n\n\n2026.38.3.2 Tesla 软件发行说明和统计 - Teslascope\n\nTesla 软件更新 2026.38.3.2 的发行说明和发布。\nteslascope.com\n\n\n\n\n— http://nitter.meowing.monster/teslascope/status/2113362432831725585#m",
-      "tweet_id": "2113471768409063625",
-      "quoted": {
-        "user": "teslascope",
-        "text": "We noticed a new Tesla software update 2026.38.3.2 on Model 3 Performance (2024) in North Rhine-Westphalia, Germany. View the rollout of this update here: https://teslascope.com/software/2026.38.3.2",
-        "text_zh": "我们注意到德国北莱茵-威斯特法伦州的 Model 3 Performance（2024）有新的 Tesla 软件更新 2026.38.3.2。在此处查看此更新的推出：https://teslascope.com/software/2026.38.3.2"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "The following feature is included: Minor Fixes\n\nteslascope.com/software/2026…",
-      "link": "http://nitter.meowing.monster/teslascope/status/2113467787037303057#m",
-      "date": "Fri, 23 Oct 2026 03:09:21 GMT",
-      "text_zh": "包括以下功能： 小修复\n\nteslascope.com/software/2026…",
-      "tweet_id": "2113467787037303057",
-      "reply_to": "teslascope",
-      "ctx_done": 1
-    },
-    {
-      "text": "Finally getting the Halloween update - 2026.38.5.1 rolling out to more cars now.\n\nVideo",
-      "link": "http://nitter.meowing.monster/DriveTeslaca/status/2113445433263661063#m",
-      "date": "Fri, 23 Oct 2026 01:40:31 GMT",
-      "text_zh": "终于迎来了万圣节更新 - 2026.38.5.1，现已向更多车辆推出。\n\n视频",
-      "tweet_id": "2113445433263661063",
       "ctx_done": 1
     }
   ]
