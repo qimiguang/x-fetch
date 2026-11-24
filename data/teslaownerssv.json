@@ -1,8 +1,488 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-24T02:09:13Z",
+  "updated_at": "2026-11-24T13:30:23Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "I wish the Cybertruck wasn’t getting canceled https://t.co/ljmplP6hz5",
+      "link": "https://x.com/teslaownersSV/status/2125119109558104238",
+      "date": "Tue Nov 24 06:47:33 +0000 2026",
+      "tweet_id": "2125119109558104238",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125119011935645696/vid/avc1/576x1024/vUZgalpKy0BaZF2B.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125119011935645696/img/twe6-ug4Ecd5Gj1g.jpg",
+          "local": "2125119109558104238_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125119011935645696/vid/avc1/576x1024/vUZgalpKy0BaZF2B.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125119011935645696/img/twe6-ug4Ecd5Gj1g.jpg",
+          "local": "2125119109558104238_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我希望 Cyber​​truck 不会被取消 https://t.co/ljmplP6hz5"
+    },
+    {
+      "text": "Shooting at 📐 https://t.co/zq5KTg7AjN",
+      "link": "https://x.com/teslaownersSV/status/2125113683248648343",
+      "date": "Tue Nov 24 06:25:59 +0000 2026",
+      "tweet_id": "2125113683248648343",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125113611169550336/vid/avc1/2160x3840/8oJs6g-aI5DiCMur.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125113611169550336/img/pphsKG-OdzTjrVxX.jpg",
+          "local": "2125113683248648343_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125113611169550336/vid/avc1/2160x3840/8oJs6g-aI5DiCMur.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125113611169550336/img/pphsKG-OdzTjrVxX.jpg",
+          "local": "2125113683248648343_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Either fade or seize each moment. https://t.co/ie1Jg8XVBB",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2125104751348158464/vid/avc1/2160x3840/6lCWLgDlnsbPONIR.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125104751348158464/img/KAd8rqXPzdczZv38.jpg",
+            "local": "2125113683248648343q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2125104751348158464/vid/avc1/2160x3840/6lCWLgDlnsbPONIR.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125104751348158464/img/KAd8rqXPzdczZv38.jpg",
+            "local": "2125113683248648343q_1.jpg"
+          }
+        ],
+        "text_zh": "要么淡出，要么抓住每一个瞬间。 https://t.co/ie1Jg8XVBB"
+      },
+      "ctx_done": 1,
+      "text_zh": "拍摄于📐 https://t.co/zq5KTg7AjN"
+    },
+    {
+      "text": "Cybertruck District at @theXtakeover was 🤯 https://t.co/gwGjImZg0L",
+      "link": "https://x.com/teslaownersSV/status/2125112426773553555",
+      "date": "Tue Nov 24 06:20:59 +0000 2026",
+      "tweet_id": "2125112426773553555",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125112341503389696/vid/avc1/2160x3840/J62cLkwHQ14EJeGi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125112341503389696/img/6ahpX0mpVwlOiLX7.jpg",
+          "local": "2125112426773553555_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125112341503389696/vid/avc1/2160x3840/J62cLkwHQ14EJeGi.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125112341503389696/img/6ahpX0mpVwlOiLX7.jpg",
+          "local": "2125112426773553555_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "@theXtakeover 的 Cyber​​truck 区是 🤯 https://t.co/gwGjImZg0L"
+    },
+    {
+      "text": "What's the best lesson you've learned from Elon?",
+      "link": "https://x.com/teslaownersSV/status/2125108953549812178",
+      "date": "Tue Nov 24 06:07:11 +0000 2026",
+      "tweet_id": "2125108953549812178",
+      "ctx_done": 1,
+      "text_zh": "你从埃隆身上学到的最好的教训是什么？"
+    },
+    {
+      "text": "Either fade or seize each moment. https://t.co/ie1Jg8XVBB",
+      "link": "https://x.com/teslaownersSV/status/2125104947536842916",
+      "date": "Tue Nov 24 05:51:16 +0000 2026",
+      "tweet_id": "2125104947536842916",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125104751348158464/vid/avc1/2160x3840/6lCWLgDlnsbPONIR.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125104751348158464/img/KAd8rqXPzdczZv38.jpg",
+          "local": "2125104947536842916_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125104751348158464/vid/avc1/2160x3840/6lCWLgDlnsbPONIR.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125104751348158464/img/KAd8rqXPzdczZv38.jpg",
+          "local": "2125104947536842916_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "要么淡出，要么抓住每一个瞬间。 https://t.co/ie1Jg8XVBB"
+    },
+    {
+      "text": "Starship, with humans for scale.\n\nThe full stack is 124 meters tall, taller than the Statue of Liberty with its pedestal. The ship alone is 52 meters, and Super Heavy carries 33 Raptor engines making 18.1 million pounds of thrust.\n\nThe most powerful rocket ever built, and real https://t.co/ZF6wuTSL8b",
+      "link": "https://x.com/teslaownersSV/status/2125097694179811493",
+      "date": "Tue Nov 24 05:22:27 +0000 2026",
+      "tweet_id": "2125097694179811493",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125097641813889024/pu/vid/avc1/720x1280/B1ogm_sncLWtb36X.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125097641813889024/pu/img/WJcEe2HevxhZgsVb.jpg",
+          "local": "2125097694179811493_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125097641813889024/pu/vid/avc1/720x1280/B1ogm_sncLWtb36X.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125097641813889024/pu/img/WJcEe2HevxhZgsVb.jpg",
+          "local": "2125097694179811493_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰，以人类为尺度。\n\n整座雕像高 124 米，比自由女神像及其基座还要高。仅这艘船就有 52 米长，Super Heavy 搭载 33 台猛禽发动机，可产生 1810 万磅的推力。\n\n有史以来最强大的火箭，真实的 https://t.co/ZF6wuTSL8b"
+    },
+    {
+      "text": "I have your back @elonmusk https://t.co/n2JrDBxjPn",
+      "link": "https://x.com/teslaownersSV/status/2125096900319998152",
+      "date": "Tue Nov 24 05:19:18 +0000 2026",
+      "tweet_id": "2125096900319998152",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125096829041909761/vid/avc1/2160x3840/zSSRZzDLGp553BZt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125096829041909761/img/6Ap9CPQUu83qYetr.jpg",
+          "local": "2125096900319998152_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125096829041909761/vid/avc1/2160x3840/zSSRZzDLGp553BZt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125096829041909761/img/6Ap9CPQUu83qYetr.jpg",
+          "local": "2125096900319998152_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@StockSavvyShay Everyone is your friend when the chips are up, but those who support you when the chips are down are your real friends. \n\nFair-weather friends are worthless.",
+        "text_zh": "@StockSavvyShay 当筹码上涨时每个人都是你的朋友，但是当筹码下跌时那些支持你的人才是你真正的朋友。 \n\n酒肉朋友毫无价值。"
+      },
+      "ctx_done": 1,
+      "text_zh": "我支持你@elonmusk https://t.co/n2JrDBxjPn"
+    },
+    {
+      "text": "RT @navierboat: Introducing the unmanned Quanta-D.\n\nNo small unmanned vessel in the world goes farther at speed.\n2,100+ nmi at 20 knots, fo…",
+      "link": "https://x.com/teslaownersSV/status/2125096855524798840",
+      "date": "Tue Nov 24 05:19:07 +0000 2026",
+      "tweet_id": "2125096855524798840",
+      "ctx_done": 1,
+      "text_zh": "RT @navierboat：介绍无人驾驶的 Quanta-D。\n\n世界上没有小型无人船能够以更快的速度行驶更远的距离。\n20 节时 2,100+ 海里，fo…"
+    },
+    {
+      "text": "Nvidia Jensen CEO returns. \n\nThis is the right decision for investors, employees and The future of Nvidia.  https://t.co/Qwd8HcO2Lr",
+      "link": "https://x.com/teslaownersSV/status/2125096587185795197",
+      "date": "Tue Nov 24 05:18:03 +0000 2026",
+      "tweet_id": "2125096587185795197",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124924689579716608/vid/avc1/2160x3840/UURiOAmViqppTeTw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124924689579716608/img/5jGQlavDNs7jTtIQ.jpg",
+          "local": "2125096587185795197_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124924689579716608/vid/avc1/2160x3840/UURiOAmViqppTeTw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124924689579716608/img/5jGQlavDNs7jTtIQ.jpg",
+          "local": "2125096587185795197_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Nvidia Jensen 首席执行官回归。 \n\n这对于投资者、员工以及英伟达的未来来说都是正确的决定。  https://t.co/Qwd8HcO2Lr"
+    },
+    {
+      "text": "This video makes the Starship look like a dog toy.",
+      "link": "https://x.com/teslaownersSV/status/2125089186164441489",
+      "date": "Tue Nov 24 04:48:38 +0000 2026",
+      "tweet_id": "2125089186164441489",
+      "quoted": {
+        "user": "AJamesMcCarthy",
+        "text": "I still can’t believe this is a real video I captured https://t.co/MNxoNH65V2",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2124887260864897025/vid/avc1/1080x1920/Zvs3Dmx5EcavIV86.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124887260864897025/img/IqCq4Mq9UouN69aY.jpg",
+            "local": "2125089186164441489q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2124887260864897025/vid/avc1/1080x1920/Zvs3Dmx5EcavIV86.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124887260864897025/img/IqCq4Mq9UouN69aY.jpg",
+            "local": "2125089186164441489q_1.jpg"
+          }
+        ],
+        "text_zh": "我仍然不敢相信这是我拍摄的真实视频 https://t.co/MNxoNH65V2"
+      },
+      "ctx_done": 1,
+      "text_zh": "该视频使星舰看起来像一个狗玩具。"
+    },
+    {
+      "text": "Thank you @TeslaBoomerMama @TeslaBoomerPapa for these wonderful wines. https://t.co/Ady9LLNL5d",
+      "link": "https://x.com/teslaownersSV/status/2125077630970114433",
+      "date": "Tue Nov 24 04:02:43 +0000 2026",
+      "tweet_id": "2125077630970114433",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX3K18ubMAA26SJ.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX3K18ubMAA26SJ.jpg?format=jpg&name=large",
+          "local": "2125077630970114433_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX3K18ubMAA26SJ.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX3K18ubMAA26SJ.jpg?format=jpg&name=large",
+          "local": "2125077630970114433_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "感谢@TeslaBoomerMama @TeslaBoomerPapa 提供这些美妙的葡萄酒。 https://t.co/Ady9LLNL5d"
+    },
+    {
+      "text": "Starship, flying over Africa at about 16,400 mph.\n\nOnboard view from Flight 15: Ship 42 crossing the planet 266 km up, before it came home for the first ever ship catch at Starbase.\n\nWhere were you watching from?\n\nVideo: @SpaceX https://t.co/G8qp8dfwRr",
+      "link": "https://x.com/teslaownersSV/status/2125070205843849612",
+      "date": "Tue Nov 24 03:33:13 +0000 2026",
+      "tweet_id": "2125070205843849612",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125070179151368192/pu/vid/avc1/1280x720/LUuWutz54l2yKlh0.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125070179151368192/pu/img/yb50dzIeF5bC_7_2.jpg",
+          "local": "2125070205843849612_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125070179151368192/pu/vid/avc1/1280x720/LUuWutz54l2yKlh0.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125070179151368192/pu/img/yb50dzIeF5bC_7_2.jpg",
+          "local": "2125070205843849612_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰，以每小时 16,400 英里的速度飞越非洲。\n\n从 15 号航班上看到的景象：42 号船在 266 公里高空飞越地球，然后返回 Starbase 进行有史以来的第一次船只捕获。\n\n你是从哪里看的？\n\n视频：@SpaceX https://t.co/G8qp8dfwRr"
+    },
+    {
+      "text": "On this day in 2021: SpaceX launched NASA's DART on a Falcon 9, SpaceX's first interplanetary mission. Its only job was to crash into an asteroid on purpose. NASA said a 73-second change to the asteroid's orbit would count as success. DART changed it by 32 minutes. https://t.co/BGCLfAcWkG",
+      "link": "https://x.com/teslaownersSV/status/2125065803892392447",
+      "date": "Tue Nov 24 03:15:44 +0000 2026",
+      "tweet_id": "2125065803892392447",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125065754395500544/pu/vid/avc1/1280x720/Q8TFH7ezmhx1OgvQ.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125065754395500544/pu/img/Mp7K1WvCaPFGfNsQ.jpg",
+          "local": "2125065803892392447_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125065754395500544/pu/vid/avc1/1280x720/Q8TFH7ezmhx1OgvQ.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125065754395500544/pu/img/Mp7K1WvCaPFGfNsQ.jpg",
+          "local": "2125065803892392447_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "2021 年的今天：SpaceX 在猎鹰 9 号上发射了 NASA 的 DART，这是 SpaceX 的首次星际任务。它唯一的任务就是故意撞上小行星。 NASA 表示，小行星轨道 73 秒的改变将被视为成功。 DART 将其更改了 32 分钟。 https://t.co/BGCLfAcWkG"
+    },
+    {
+      "text": "Storm in the forecast? Your Powerwall is already getting ready.\n\nStorm Watch reads National Weather Service alerts and charges Powerwall to full before severe weather hits, then sends you a Tesla app alert.\n\nDoes your home have backup power yet?\n\nVideo: @teslaenergy https://t.co/NKcUlxLrMJ",
+      "link": "https://x.com/teslaownersSV/status/2125041993625547087",
+      "date": "Tue Nov 24 01:41:07 +0000 2026",
+      "tweet_id": "2125041993625547087",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125041982430908416/pu/vid/avc1/720x1280/Er_7IJcc3m306esN.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125041982430908416/pu/img/MjHu9AgG41iOBUEj.jpg",
+          "local": "2125041993625547087_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2125041982430908416/pu/vid/avc1/720x1280/Er_7IJcc3m306esN.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2125041982430908416/pu/img/MjHu9AgG41iOBUEj.jpg",
+          "local": "2125041993625547087_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "预报有暴风雨吗？您的 Powerwall 已准备就绪。\n\nStorm Watch 会读取国家气象局警报，并在恶劣天气到来之前将 Powerwall 充满电，然后向您发送 Tesla 应用程序警报。\n\n您家还有备用电源吗？\n\n视频：@teslaenergy https://t.co/NKcUlxLrMJ"
+    },
+    {
+      "text": "Fun Monday https://t.co/dvzM8Pokq4",
+      "link": "https://x.com/teslaownersSV/status/2125013368155283950",
+      "date": "Mon Nov 23 23:47:22 +0000 2026",
+      "tweet_id": "2125013368155283950",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX2QZUNbUAAUHkD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX2QZUNbUAAUHkD.jpg?format=jpg&name=large",
+          "local": "2125013368155283950_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX2QZUNbUAAUHkD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX2QZUNbUAAUHkD.jpg?format=jpg&name=large",
+          "local": "2125013368155283950_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "有趣的星期一 https://t.co/dvzM8Pokq4"
+    },
+    {
+      "text": "Driving your Tesla somewhere for Thanksgiving this week?\n\nTell me where you're headed and your go-to Supercharger stop on the way. Share yours.",
+      "link": "https://x.com/teslaownersSV/status/2125011014575943718",
+      "date": "Mon Nov 23 23:38:01 +0000 2026",
+      "tweet_id": "2125011014575943718",
+      "ctx_done": 1,
+      "text_zh": "这周要开着你的特斯拉去某个地方过感恩节吗？\n\n告诉我您要去哪里以及途中您要去的超级充电站。分享你的。"
+    },
+    {
+      "text": "JUST IN: Neuralink participant Billy, who lives with tetraplegia, played GTA VI on release day using his Neuralink implant. https://t.co/GLmGEYwuLV",
+      "link": "https://x.com/teslaownersSV/status/2124996904610095192",
+      "date": "Mon Nov 23 22:41:57 +0000 2026",
+      "tweet_id": "2124996904610095192",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124996867847020544/pu/vid/avc1/1280x720/GpYPd7u3Aowc60fz.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124996867847020544/pu/img/P3KLDDkVbug9YmZD.jpg",
+          "local": "2124996904610095192_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124996867847020544/pu/vid/avc1/1280x720/GpYPd7u3Aowc60fz.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124996867847020544/pu/img/P3KLDDkVbug9YmZD.jpg",
+          "local": "2124996904610095192_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "最新消息：患有四肢瘫痪的 Neuralink 参与者 Bil​​ly 在发布当天使用他的 Neuralink 植入物玩了 GTA VI。 https://t.co/GLmGEYwuLV"
+    },
+    {
+      "text": "One year since the last Tesla vote. Look what happened.\n\nTesla said Optimus will be the biggest product ever made. FSD got approved in 12 EU countries, up from zero. Cybercab launched in Austin, then Dallas, and select customers can now buy one for $29,990. Semi is in high-volume https://t.co/REM1UGECGL",
+      "link": "https://x.com/teslaownersSV/status/2124988947214246146",
+      "date": "Mon Nov 23 22:10:20 +0000 2026",
+      "tweet_id": "2124988947214246146",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124988901206949888/pu/vid/avc1/1280x720/DFV4r4Go7Fx9oMvf.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124988901206949888/pu/img/1bzRQLv-QIrAsSWT.jpg",
+          "local": "2124988947214246146_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124988901206949888/pu/vid/avc1/1280x720/DFV4r4Go7Fx9oMvf.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124988901206949888/pu/img/1bzRQLv-QIrAsSWT.jpg",
+          "local": "2124988947214246146_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "距离特斯拉上次投票已经一年了。看看发生了什么。\n\n特斯拉表示，Optimus 将是有史以来最大的产品。 FSD 在 12 个欧盟国家获得批准，数量从零增加。 Cyber​​cab 在奥斯汀推出，随后在达拉斯推出，部分客户现在可以花 29,990 美元购买一辆。 Semi 产量很高 https://t.co/REM1UGECGL"
+    },
+    {
+      "text": "Elon on the night Plaid broke the 2-second barrier\n\nVideo: @Tesla, Model S Plaid Delivery Event, Fremont, June 10 2021 https://t.co/QLNfrIxrGP",
+      "link": "https://x.com/teslaownersSV/status/2124983078292443622",
+      "date": "Mon Nov 23 21:47:00 +0000 2026",
+      "tweet_id": "2124983078292443622",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124983026333417472/pu/vid/avc1/1280x720/fdsSoZ9aHR9UXLvE.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124983026333417472/pu/img/2eAq-VXhczMgSfzU.jpg",
+          "local": "2124983078292443622_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124983026333417472/pu/vid/avc1/1280x720/fdsSoZ9aHR9UXLvE.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124983026333417472/pu/img/2eAq-VXhczMgSfzU.jpg",
+          "local": "2124983078292443622_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆在格莱德打破 2 秒障碍之夜\n\n视频：@Tesla，Model S 格子交付活动，弗里蒙特，2021 年 6 月 10 日 https://t.co/QLNfrIxrGP"
+    },
+    {
+      "text": "Elon admits he has been an optimist since he was a kid, and the part that matters is that he still delivers in the end.\n\n\"I guess I've been sort of pathologically optimistic from birth... I got to be somewhat pathologically optimistic, but I do deliver in the end. That's the https://t.co/IYq6P2j2a9",
+      "link": "https://x.com/teslaownersSV/status/2124980059924545985",
+      "date": "Mon Nov 23 21:35:01 +0000 2026",
+      "tweet_id": "2124980059924545985",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124980021768900608/pu/vid/avc1/1280x720/dNcUSVgPDGPp63HL.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124980021768900608/pu/img/uXWlj8I-PIDjUc3S.jpg",
+          "local": "2124980059924545985_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2124980021768900608/pu/vid/avc1/1280x720/dNcUSVgPDGPp63HL.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2124980021768900608/pu/img/uXWlj8I-PIDjUc3S.jpg",
+          "local": "2124980059924545985_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆承认他从小就是一个乐观主义者，重要的是他最终仍然表现出色。\n\n“我想我从出生起就有点病态乐观......我必须有点病态乐观，但我最终确实实现了。这就是 https://t.co/IYq6P2j2a9"
+    },
+    {
+      "text": "Introducing the unmanned Quanta-D.\n\nNo small unmanned vessel in the world goes farther at speed.\n2,100+ nmi at 20 knots, foiling. \n3,000+ nmi in mixed mode.\n\nNot an improvement. A capability leap.\nAmerica will lead at sea by \nout-innovating. MASSIVELY.\n\nThat's what we did. 🇺🇸 https://t.co/0Yp3hGxN8Z",
+      "link": "https://x.com/navierboat/status/2124927164915257561",
+      "date": "Mon Nov 23 18:04:50 +0000 2026",
+      "tweet_id": "2124927164915257561",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124926863667851265/vid/avc1/1920x1080/TZnmuDgplPG-sIj9.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124926863667851265/img/WjyUe2UUNtlsesUM.jpg",
+          "local": "2124927164915257561_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124926863667851265/vid/avc1/1920x1080/TZnmuDgplPG-sIj9.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124926863667851265/img/WjyUe2UUNtlsesUM.jpg",
+          "local": "2124927164915257561_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "介绍无人驾驶的 Quanta-D。\n\n世界上没有小型无人船能够以更快的速度行驶更远的距离。\n20 节时 2,100+ 海里，水翼。 \n混合模式下 3,000+ nmi。\n\n不是进步。能力的飞跃。\n美国将在海上领先 \n创新。大规模地。\n\n这就是我们所做的。 🇺🇸 https://t.co/0Yp3hGxN8Z"
+    },
+    {
+      "text": "@StockSavvyShay Everyone is your friend when the chips are up, but those who support you when the chips are down are your real friends. \n\nFair-weather friends are worthless.",
+      "link": "https://x.com/elonmusk/status/2124924349710741798",
+      "date": "Mon Nov 23 17:53:38 +0000 2026",
+      "tweet_id": "2124924349710741798",
+      "reply_to": "StockSavvyShay",
+      "ctx_done": 1,
+      "text_zh": "@StockSavvyShay 当筹码上涨时每个人都是你的朋友，但是当筹码下跌时那些支持你的人才是你真正的朋友。 \n\n酒肉朋友毫无价值。"
+    },
+    {
+      "text": "I still can’t believe this is a real video I captured https://t.co/MNxoNH65V2",
+      "link": "https://x.com/AJamesMcCarthy/status/2124887397037216215",
+      "date": "Mon Nov 23 15:26:48 +0000 2026",
+      "tweet_id": "2124887397037216215",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124887260864897025/vid/avc1/1080x1920/Zvs3Dmx5EcavIV86.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124887260864897025/img/IqCq4Mq9UouN69aY.jpg",
+          "local": "2124887397037216215_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2124887260864897025/vid/avc1/1080x1920/Zvs3Dmx5EcavIV86.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124887260864897025/img/IqCq4Mq9UouN69aY.jpg",
+          "local": "2124887397037216215_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我仍然不敢相信这是我拍摄的真实视频 https://t.co/MNxoNH65V2"
+    },
     {
       "text": "Thank you Tesla community\n\n@RetiredYoungNW @congressdj @SjvTesla @ninjamattic @bauminater @TeslaBoomerMama @MyTeslaMoonship @RatsTesla @MrCyberdyne @Skythelimit4545 @TitaniumTomP @cybrgalaxy @SawyerMerritt @TeslaTim2 @drsarah @TesLatina @cyberoffroad https://t.co/oVGS6lxxY7",
       "link": "https://x.com/teslaownersSV/status/2124767032273215611",
@@ -3895,461 +4375,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "埃隆说，当星链是唯一的连接时，它已经拯救了数百人的生命。\n“我认为这可能关系到数百人的生命。由于星链是自然灾害中唯一的连接手段，数百人的生命得以挽救。”\n@elonmusk https://t.co/qPN99ECpId"
-    },
-    {
-      "text": "Why Cybercab only has two seats, explained by @elonmusk \n\"The Cybercab seats two people, which covers 90% of all passenger miles. If you look at all passenger miles, the average number of people in a car is like 1.2.\" https://t.co/HCrNGJrMS6",
-      "link": "https://x.com/teslaownersSV/status/2123215711673995320",
-      "date": "Thu Nov 19 00:44:07 +0000 2026",
-      "tweet_id": "2123215711673995320",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123215585375117312/vid/avc1/1920x1080/3QtxWHN9ucoQqP1a.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123215585375117312/img/cWFeaVm7D-E5wQNc.jpg",
-          "local": "2123215711673995320_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123215585375117312/vid/avc1/1920x1080/3QtxWHN9ucoQqP1a.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123215585375117312/img/cWFeaVm7D-E5wQNc.jpg",
-          "local": "2123215711673995320_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "@elonmusk 解释了为什么 Cybercab 只有两个座位 \n“Cybercab 可容纳两人，覆盖了所有乘客里程的 90%。如果你查看所有乘客里程，一辆车内的平均人数约为 1.2 人。” https://t.co/HCrNGJrMS6"
-    },
-    {
-      "text": "Elon Musk on why humanity should become star-faring:\n\"Life cannot just be about solving one miserable problem after another.\"\nElon told Andrew Ross Sorkin he wants a future where we explore new star systems and make science fiction \"not just fiction forever.\"\n\"To be out there https://t.co/w0uH6fiLUh",
-      "link": "https://x.com/teslaownersSV/status/2123208353853878508",
-      "date": "Thu Nov 19 00:14:53 +0000 2026",
-      "tweet_id": "2123208353853878508",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123207963292876800/vid/avc1/1920x1080/9LEZ4IzEArOK2PpZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123207963292876800/img/2JTPWs-d6TUmrmHF.jpg",
-          "local": "2123208353853878508_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123207963292876800/vid/avc1/1920x1080/9LEZ4IzEArOK2PpZ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123207963292876800/img/2JTPWs-d6TUmrmHF.jpg",
-          "local": "2123208353853878508_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈人类为何应该成为明星：\n“生活不能只是解决一个又一个悲惨的问题。”\n埃隆告诉安德鲁·罗斯·索金，他希望未来我们能够探索新的恒星系统，并使科幻小说“永远不仅仅是小说”。\n“走出去 https://t.co/w0uH6fiLUh"
-    },
-    {
-      "text": "@elonmusk knows the Cybertruck is the “best ever from Tesla.” He said so less than a year ago. And all of us owners, fans, or anyone who has ever been in one know it too. Our family loves them too and are so happy for every trip in ours. Do the right thing. Make more Beasts!!! https://t.co/wsWc8mSCjV",
-      "link": "https://x.com/ThTslaDude/status/2123186202128064929",
-      "date": "Wed Nov 18 22:46:52 +0000 2026",
-      "tweet_id": "2123186202128064929",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXcSmSsbQAAkBUf.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXcSmSsbQAAkBUf.jpg?format=jpg&name=large",
-          "local": "2123186202128064929_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXcSmSrb0AAUK_O.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXcSmSrb0AAUK_O.jpg?format=jpg&name=large",
-          "local": "2123186202128064929_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXcSmSmawAEDjpQ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXcSmSmawAEDjpQ.jpg?format=jpg&name=large",
-          "local": "2123186202128064929_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXcSmSsbQAAkBUf.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXcSmSsbQAAkBUf.jpg?format=jpg&name=large",
-          "local": "2123186202128064929_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXcSmSrb0AAUK_O.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXcSmSrb0AAUK_O.jpg?format=jpg&name=large",
-          "local": "2123186202128064929_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXcSmSmawAEDjpQ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXcSmSmawAEDjpQ.jpg?format=jpg&name=large",
-          "local": "2123186202128064929_5.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "Cybertruck is an incredible vehicle. Our best ever from Tesla.",
-        "text_zh": "Cyber​​truck 是一款令人难以置信的车辆。特斯拉有史以来最好的成绩。"
-      },
-      "ctx_done": 1,
-      "text_zh": "@elonmusk 知道 Cyber​​truck 是“特斯拉有史以来最好的”。他是在不到一年前这么说的。我们所有的业主、球迷或任何曾经参与过其中的人也都知道这一点。我们的家人也很喜欢他们，并且为我们的每次旅行感到非常高兴。做正确的事。制造更多的野兽！！！ https://t.co/wsWc8mSCjV"
-    },
-    {
-      "text": "Elon's original goal for The Boring Company: beat a snail.\n\nAt the Boring Company tunnel event in Dec 2018, @elonmusk said: \"The fastest tunneling machine in the world right now is 14 times slower than a snail.\" Then he put the team's pet snail on screen: \"This is Gary the sixth. https://t.co/0OsPuOB4wa",
-      "link": "https://x.com/teslaownersSV/status/2123152716218368280",
-      "date": "Wed Nov 18 20:33:48 +0000 2026",
-      "tweet_id": "2123152716218368280",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123152550111449088/vid/avc1/1920x1080/09-lrsXTuCDfxjos.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123152550111449088/img/uG4SQG0Z-ko24q5Q.jpg",
-          "local": "2123152716218368280_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123152550111449088/vid/avc1/1920x1080/09-lrsXTuCDfxjos.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123152550111449088/img/uG4SQG0Z-ko24q5Q.jpg",
-          "local": "2123152716218368280_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 对 The Boring Company 的最初目标是：打败一只蜗牛。\n\n在 2018 年 12 月的 Boring Company 隧道活动中，@elonmusk 表示：“目前世界上最快的隧道掘进机比蜗牛慢 14 倍。”然后他将球队的宠物蜗牛放在屏幕上：“这是加里六世。https://t.co/0OsPuOB4wa"
-    },
-    {
-      "text": "\"@elonmusk is the greatest entrepreneur of our time.\"\nDavid Ellison https://t.co/aAF30jrxkq",
-      "link": "https://x.com/teslaownersSV/status/2123139915563299260",
-      "date": "Wed Nov 18 19:42:56 +0000 2026",
-      "tweet_id": "2123139915563299260",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123117882603388928/vid/avc1/1920x1080/VZsGTG6XKc6q4ikf.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123117882603388928/img/jv550w7aEHr0CqZE.jpg",
-          "local": "2123139915563299260_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123117882603388928/vid/avc1/1920x1080/VZsGTG6XKc6q4ikf.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123117882603388928/img/jv550w7aEHr0CqZE.jpg",
-          "local": "2123139915563299260_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“@elonmusk 是我们这个时代最伟大的企业家。”\n大卫·埃里森\n\n视频"
-    },
-    {
-      "text": "\"Offer me money, offer me Power, I don't care.\" -Elon Musk https://t.co/YQdojE38aj",
-      "link": "https://x.com/teslaownersSV/status/2123115107463102684",
-      "date": "Wed Nov 18 18:04:21 +0000 2026",
-      "tweet_id": "2123115107463102684",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123114817699667968/vid/avc1/1920x1080/jYPljoT9NtIuT1lN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123114817699667968/img/8hVDw4JcNb1_jtN9.jpg",
-          "local": "2123115107463102684_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123114817699667968/vid/avc1/1920x1080/jYPljoT9NtIuT1lN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123114817699667968/img/8hVDw4JcNb1_jtN9.jpg",
-          "local": "2123115107463102684_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“给我钱，给我权力，我不在乎。” ——埃隆·马斯克\n\n视频"
-    },
-    {
-      "text": "NEWS: X Money has launched beta testing for international bank transfers, allowing U.S. residents to send money directly to bank accounts in 27 countries through the Money tab.\n\nSupported destinations include Australia, Canada, India, the UK, Singapore, Japan, Germany, France, https://t.co/eqxP8vITKZ",
-      "link": "https://x.com/teslaownersSV/status/2123114680101294174",
-      "date": "Wed Nov 18 18:02:39 +0000 2026",
-      "tweet_id": "2123114680101294174",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXbRiN4bwAAWn0t.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXbRiN4bwAAWn0t.jpg?format=jpg&name=large",
-          "local": "2123114680101294174_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXbRiN4bwAAWn0t.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXbRiN4bwAAWn0t.jpg?format=jpg&name=large",
-          "local": "2123114680101294174_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：X Money 已启动国际银行转账 Beta 测试，允许美国居民通过“Money”选项卡直接向 27 个国家的银行账户汇款。\n\n支持的目的地包括澳大利亚、加拿大、印度、英国、新加坡、日本、德国、法国等。\n\n此次推出标志着 X 成为更广泛的金融平台的又一步。"
-    },
-    {
-      "text": "NEWS: Iberia Express is bringing Starlink Wi-Fi to 16 Airbus A320 family aircraft, with installations starting immediately.\n\n•⁠  ⁠The rollout is expected to be completed within two months.\n•⁠  ⁠Passengers will get free connectivity at speeds of up to 500 Mbps, including https://t.co/QYEiKAbRMi",
-      "link": "https://x.com/teslaownersSV/status/2123097640330313976",
-      "date": "Wed Nov 18 16:54:57 +0000 2026",
-      "tweet_id": "2123097640330313976",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXbCBrzaMAA2XpB.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXbCBrzaMAA2XpB.jpg?format=jpg&name=large",
-          "local": "2123097640330313976_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXbCBrzaMAA2XpB.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXbCBrzaMAA2XpB.jpg?format=jpg&name=large",
-          "local": "2123097640330313976_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：Iberia Express 正在为 16 架空客 A320 系列飞机配备 Starlink Wi-Fi，并立即开始安装。\n\n•⁠ ⁠推出预计将在两个月内完成。\n•⁠ ⁠乘客将获得速度高达500 Mbps 的免费连接，包括流媒体、体育直播、下载和社交媒体。\n•⁠ ⁠该服务将覆盖每个客舱的所有乘客，首先是马德里-加那利群岛和巴利阿里群岛航线上的乘客。\n• ⁠ ⁠Iberia Express 将成为第一家在这些航线上提供星链服务的低成本西班牙航空公司。\n\nSpaceX 卫星互联网在伊比利亚集团更广泛推广的又一步。"
-    },
-    {
-      "text": "NEWS: Elon Musk has joined President Donald Trump’s US delegation in Shenzhen, China, for the 2026 APEC summit.\n\n•⁠  ⁠Musk is attending in an advisory capacity, reportedly due to his significant business interests in US-China relations.\n•⁠  ⁠Tesla’s Giga Shanghai factory https://t.co/nSg3L3iTOx",
-      "link": "https://x.com/teslaownersSV/status/2123097486978170892",
-      "date": "Wed Nov 18 16:54:20 +0000 2026",
-      "tweet_id": "2123097486978170892",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXbB5JAaAAAs50I.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXbB5JAaAAAs50I.jpg?format=jpg&name=large",
-          "local": "2123097486978170892_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXbB5JAaAAAs50I.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXbB5JAaAAAs50I.jpg?format=jpg&name=large",
-          "local": "2123097486978170892_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：埃隆·马斯克 (Elon Musk) 与唐纳德·特朗普 (Donald Trump) 总统的美国代表团一起在中国深圳参加 2026 年 APEC 峰会。\n\n•⁠ ⁠马斯克以顾问身份出席，据报道是因为他在美中关系中拥有重大商业利益。\n•⁠ ⁠特斯拉上海超级工厂在该公司的全球生产和出口中发挥着重要作用。\n•⁠ ⁠峰会于 11 月 18 日至 19 日举行，来自亚太地区的领导人和企业代表齐聚一堂。\n•⁠ ⁠这标志着马斯克在2026年与特朗普第二次访华。\n\n马斯克的出席凸显了美中商业关系的重要性，特别是在技术和制造业领域。"
-    },
-    {
-      "text": "https://t.co/bSTNWqHgeO",
-      "link": "https://x.com/teslaownersSV/status/2123081952005591445",
-      "date": "Wed Nov 18 15:52:36 +0000 2026",
-      "tweet_id": "2123081952005591445",
-      "ctx_done": 1,
-      "text_zh": "文章\n\n\n\n特斯拉推出 Powercore：使 Megapack 站点部署速度更快的固态单元 \n\n作者：@stephenpallotta \nTesla 的 Megapack 团队刚刚推出了 Powercore，这是一种固态中压装置，可将变压器、逆变器和断路器封装在一个外壳中。额定功率为 7.4 MW"
-    },
-    {
-      "text": "Top 5 reasons the @RokidGlobal AI Glasses Style are the perfect holiday gift this year (or a gift to yourself) 🎁\n\n🔥 Holiday Sale: $279 (regularly $399)!\n📅 November 19 – December 1\n\nUse code TOSV10 at checkout for an extra $10 off!\n\nShop here 👇\n\nhttps://t.co/XhGUzLkZuP https://t.co/UBQphuElz7",
-      "link": "https://x.com/teslaownersSV/status/2123060690340438412",
-      "date": "Wed Nov 18 14:28:07 +0000 2026",
-      "tweet_id": "2123060690340438412",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123060224097484800/vid/avc1/1440x2560/4QXL5iNaLZYc-p2E.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123060224097484800/img/HomUw3eFHgNTmAa3.jpg",
-          "local": "2123060690340438412_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123060224097484800/vid/avc1/1440x2560/4QXL5iNaLZYc-p2E.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123060224097484800/img/HomUw3eFHgNTmAa3.jpg",
-          "local": "2123060690340438412_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "@RokidGlobal AI 眼镜款式成为今年完美节日礼物（或给自己的礼物）的 5 大理由🎁\n\n🔥 假日促销：$279（原价$399）！\n📅 11 月 19 日 – 12 月 1 日\n\n结账时使用代码 TOSV10 可额外立减 10 美元！\n\n在这里购物👇\n\nrokid.sjv.io/DWnErG\n\n视频"
-    },
-    {
-      "text": "RT @teslaownersSV: BREAKING: TESLA PASSES WAYMO vehicles in TEXAS!\n\nTesla just added 200 Cybercabs to its Texas robotaxi fleet in one day,…",
-      "link": "https://x.com/teslaownersSV/status/2123058964904747325",
-      "date": "Wed Nov 18 14:21:16 +0000 2026",
-      "tweet_id": "2123058964904747325",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：突发事件：特斯拉在德克萨斯州超越 WAYMO 车辆！\n\n特斯拉一天之内就为其德克萨斯州机器人出租车车队增加了 200 辆 Cyber​​cab，……"
-    },
-    {
-      "text": "People will say this is AI  https://t.co/UENvM63HFQ",
-      "link": "https://x.com/teslaownersSV/status/2123057434029953176",
-      "date": "Wed Nov 18 14:15:11 +0000 2026",
-      "tweet_id": "2123057434029953176",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXYvJKcXoAAwlbD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXYvJKcXoAAwlbD.jpg?format=jpg&name=large",
-          "local": "2123057434029953176_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXYvJKcXoAAwlbD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXYvJKcXoAAwlbD.jpg?format=jpg&name=large",
-          "local": "2123057434029953176_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "人们会说这是人工智能"
-    },
-    {
-      "text": "RT @Tesla_Megapack: Introducing Powercore\n\nSolid state medium voltage transformer, inverter and breaker – reliable, safe and secure\n\n7.4 MW…",
-      "link": "https://x.com/teslaownersSV/status/2123053789892747670",
-      "date": "Wed Nov 18 14:00:42 +0000 2026",
-      "tweet_id": "2123053789892747670",
-      "ctx_done": 1,
-      "text_zh": "RT @Tesla_Megapack：Powercore 简介\n\n固态中压变压器、逆变器和断路器——可靠、安全、可靠\n\n7.4兆瓦…"
-    },
-    {
-      "text": "Larry Ellison on the critics who said Elon Musk didn't know what he was doing: \"Well, who else is landing rockets?\" https://t.co/3E00IHCEdG",
-      "link": "https://x.com/teslaownersSV/status/2122964589931610300",
-      "date": "Wed Nov 18 08:06:15 +0000 2026",
-      "tweet_id": "2122964589931610300",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122964550765187072/vid/avc1/1920x1080/0n3x9TjH3-XFYd6n.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122964550765187072/img/HSB0DVdoiS_UZisL.jpg",
-          "local": "2122964589931610300_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122964550765187072/vid/avc1/1920x1080/0n3x9TjH3-XFYd6n.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122964550765187072/img/HSB0DVdoiS_UZisL.jpg",
-          "local": "2122964589931610300_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "拉里·埃里森 (Larry Ellison) 批评埃隆·马斯克 (Elon Musk) 不知道自己在做什么的批评者说：“那么，还有谁在火箭着陆呢？” https://t.co/3E00IHCEDG"
-    },
-    {
-      "text": "Starship's chopsticks filmed their own catch.\n\nSpaceX just released the views from cameras on Mechazilla's arms: Ship 42 lighting its engines, sliding down between the chopsticks and settling in on Flight 15, Nov 14. SpaceX says the tower was built for full and rapid reusability, so Starship can launch and land at the same pad again and again.\n\n@elonmusk: \"True, Starship launches are incredibly exciting\"\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2122964217443844191#m",
-      "date": "Wed, 18 Nov 2026 08:04:46 GMT",
-      "tweet_id": "2122964217443844191",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122964182060699648/vid/avc1/1920x1080/nzRNwb5Z1oUremuV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122964182060699648/img/k2MOQQW6zxDwobFu.jpg",
-          "local": "2122964217443844191_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122964182060699648/vid/avc1/1920x1080/nzRNwb5Z1oUremuV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122964182060699648/img/k2MOQQW6zxDwobFu.jpg",
-          "local": "2122964217443844191_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星舰的筷子拍下了自己的捕获物。\n\nSpaceX 刚刚发布了 Mechazilla 手臂上的摄像机拍摄的画面：11 月 14 日，Ship 42 点燃了引擎，在筷子之间滑落，并在 15 号航班上安顿下来。SpaceX 表示，这座塔的建造是为了充分、快速地可重复使用，https://t.co/vmfV77yKyB"
-    },
-    {
-      "text": "A Neuralink trial participant is driving his powered wheelchair with his mind.\n\nThe implant decodes his intended movements into a cursor. Cursor up, the chair rolls forward. Down, it backs up. Left and right steer, and the farther he pushes, the faster it goes. Let go, and the cursor drifts back to center, a safety feature so the chair never keeps driving on its own.\n\nHis joystick forces him to hunch his head over, and he says it \"hurts tremendously.\" With Neuralink he sits upright, without pain.\n\nNeuralink calls it an important step toward restoring independent mobility for people with paralysis.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2122964004574507050#m",
-      "date": "Wed, 18 Nov 2026 08:03:56 GMT",
-      "tweet_id": "2122964004574507050",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122963967366860800/vid/avc1/1920x1080/8C3t68CJJzxair0A.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122963967366860800/img/FeMZj6kIOFYyjlIC.jpg",
-          "local": "2122964004574507050_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122963967366860800/vid/avc1/1920x1080/8C3t68CJJzxair0A.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122963967366860800/img/FeMZj6kIOFYyjlIC.jpg",
-          "local": "2122964004574507050_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "一名 Neuralink 试验参与者正在用意念驾驶电动轮椅。\n\n植入物将他的预期动作解码为光标。光标向上，椅子向前滚动。向下，它会备份。左右转向，他推得越远，速度就越快。放手，然后 https://t.co/TwtHpwkMfL"
-    },
-    {
-      "text": "Optimus learned these chores by watching humans.\n\nEvery task here is labeled fully autonomous by Tesla, called for in plain language, and run by a single neural net on the robot (clips sped up 1.5x to 2x, as labeled).\n\nThe breakthrough: Tesla transferred a big chunk of the learning straight from first-person videos of people doing the tasks, so new skills come together much faster than with teleoperated robot data alone, per Milan Kovac, who led Optimus at the time.\n\nThe next step he named was learning from third-person video, meaning random internet footage.\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2122962438194913790#m",
-      "date": "Wed, 18 Nov 2026 07:57:42 GMT",
-      "tweet_id": "2122962438194913790",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122962364043804672/vid/avc1/1920x1080/G5x8w51yCGnFkHw_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122962364043804672/img/g7Bsmd6X5IRXoCUw.jpg",
-          "local": "2122962438194913790_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122962364043804672/vid/avc1/1920x1080/G5x8w51yCGnFkHw_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122962364043804672/img/g7Bsmd6X5IRXoCUw.jpg",
-          "local": "2122962438194913790_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "擎天柱通过观察人类学会了这些杂务。\n\n这里的每项任务都被 Tesla 标记为完全自主，以简单的语言进行调用，并由机器人上的单个神经网络运行（剪辑速度加快了 1.5 倍到 2 倍，如标记所示）。\n\n突破：特斯拉转移了很大一部分 https://t.co/03mkfNVxTY"
-    },
-    {
-      "text": "Thank you for all the love and support! I am incredibly blown away by the X and Tesla community!\n\nSo many people have lost loved ones to cancer or are currently struggling.",
-      "link": "https://x.com/teslaownersSV/status/2122925969145274731#m",
-      "date": "Wed, 18 Nov 2026 05:32:47 GMT",
-      "tweet_id": "2122925969145274731",
-      "ctx_done": 1,
-      "text_zh": "感谢大家的厚爱与支持！ X 和 Tesla 社区让我非常震惊！\n\n许多人因癌症失去亲人或目前正在挣扎。"
-    },
-    {
-      "text": "🖕Cancer",
-      "link": "https://x.com/teslaownersSV/status/2122922866043961703#m",
-      "date": "Wed, 18 Nov 2026 05:20:27 GMT",
-      "tweet_id": "2122922866043961703",
-      "ctx_done": 1,
-      "text_zh": "🖕癌症"
-    },
-    {
-      "text": "BREAKING: TESLA PASSES WAYMO vehicles in TEXAS!\n\nTesla just added 200 Cybercabs to its Texas robotaxi fleet in one day, and that put Tesla back ahead of Waymo. Tesla now has 1,507 registered vehicles in Texas (773 Cybercabs, 734 Model Ys). Waymo has 1,321. Tesla also announced https://t.co/Xn7OXGsH7a",
-      "link": "https://x.com/teslaownersSV/status/2122882676306960446",
-      "date": "Wed Nov 18 02:40:45 +0000 2026",
-      "tweet_id": "2122882676306960446",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122882450334642176/vid/avc1/1080x1920/sv36fHFxaLkSF2Fy.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122882450334642176/img/lLMbP8LtC_aHXx4f.jpg",
-          "local": "2122882676306960446_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2122882450334642176/vid/avc1/1080x1920/sv36fHFxaLkSF2Fy.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122882450334642176/img/lLMbP8LtC_aHXx4f.jpg",
-          "local": "2122882676306960446_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "突发新闻：特斯拉在德克萨斯州超过了 WAYMO 车辆！\n\n特斯拉一天之内就为其德克萨斯州机器人出租车车队增加了 200 辆 Cyber​​cab，这让特斯拉重新领先于 Waymo。特斯拉目前在德克萨斯州拥有 1,507 辆注册车辆（773 辆 Cyber​​cab，734 辆 Model Y）。 Waymo 有 1,321 个。特斯拉还宣布 https://t.co/Xn7OXGsH7a"
-    },
-    {
-      "text": "RT @DanHansen: John is special. He's the driving force behind @theXtakeover (along with others). He puts on the event in the wake of the al…",
-      "link": "https://x.com/teslaownersSV/status/2122877375931462078",
-      "date": "Wed Nov 18 02:19:42 +0000 2026",
-      "tweet_id": "2122877375931462078",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Grok Bot read my wife's medical records, researched the latest cancer treatments and trials, found the top specialist at Stanford and drafted the emails.\n\nHours later, Stanford called us to start intake.\n\n@elonmusk, Grok is giving families like mine a path forward. 🙏",
-        "text_zh": "Grok Bot 阅读了我妻子的医疗记录，研究了最新的癌症治疗和试验，找到了斯坦福大学的顶级专家并起草了电子邮件。\n\n几个小时后，斯坦福大学打电话给我们开始招生。\n\n@elonmusk，Grok 正在为像我这样的家庭提供一条前进的道路。 🙏"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @DanHansen：约翰很特别。他是@theXtakeover（以及其他人）背后的推动力。他在事件发生后举办了这次活动……"
-    },
-    {
-      "text": "RT @TheCaptainEli: Thanks for everything that you are doing.\n\nYou and your family deserves nothing but happiness and health.",
-      "link": "https://x.com/teslaownersSV/status/2122875082804810153",
-      "date": "Wed Nov 18 02:10:35 +0000 2026",
-      "tweet_id": "2122875082804810153",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "No one has any idea what I’ve been dealing with behind the scenes. \n\nThe @theXtakeover was a moment in my life and a complete pleasure to put on for the community. I appreciate each person who understands and supports me.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2122869305364901888/img/wZkwuYsZGVB9XRZJ.jpg",
-            "local": "2122875082804810153q_0.jpg"
-          }
-        ],
-        "text_zh": "没有人知道我在幕后一直在处理什么。 \n\n@theXtakeover 是我生命中的一个时刻，也是我为社区奉献的一种完全的乐趣。我感谢每一个理解我、支持我的人。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @TheCaptainEli：感谢您所做的一切。\n\n您和您的家人除了幸福和健康之外别无其他。"
     }
   ]
 }
