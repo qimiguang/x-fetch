@@ -1,8 +1,589 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-24T13:30:23Z",
+  "updated_at": "2026-11-24T23:53:16Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "JUST IN: The Musk Foundation matched Austin's $500,000, unlocking $1 million to house young adults aging out of foster care.\n\nUp to 100 young adults will get housing help and supportive services.\nThe City's money was budgeted on one condition: find a $500K match. The Musk https://t.co/arFaQWnECp",
+      "link": "https://x.com/teslaownersSV/status/2125375321478430829",
+      "date": "Tue Nov 24 23:45:38 +0000 2026",
+      "tweet_id": "2125375321478430829",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX7ZltvbIAAB1z8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX7ZltvbIAAB1z8.jpg?format=jpg&name=large",
+          "local": "2125375321478430829_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX7ZltvbIAAB1z8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX7ZltvbIAAB1z8.jpg?format=jpg&name=large",
+          "local": "2125375321478430829_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "上一篇：马斯克基金会为奥斯汀提供了 50 万美元的配套资金，并拨出 100 万美元来为脱离寄养的年轻人提供住房。\n\n多达 100 名年轻人将获得住房帮助和支持服务。\n曼城的资金预算有一个条件：找到一场价值 50 万美元的比赛。马斯克 https://t.co/arFaQWnECp"
+    },
+    {
+      "text": "RT @sampritibh: Speaking of spacefaring and seafaring… 😄",
+      "link": "https://x.com/teslaownersSV/status/2125372216615551258",
+      "date": "Tue Nov 24 23:33:18 +0000 2026",
+      "tweet_id": "2125372216615551258",
+      "quoted": {
+        "user": "navierboat",
+        "text": "Not every day the person at the helm has flown around the Moon.\n\nAt Fleet Week, Artemis II pilot Victor Glover (@AstroVicGlover) became the first test pilot outside of Navier’s internal team to fly Quanta. So much fun, and a true inspiration.\nMaritime needs an Apollo moment. Our biggest expeditions are still ahead. 🚀🌊",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125356533680947200/img/0lPXK2h9ILEEdjVL.jpg",
+            "local": "2125372216615551258q_0.jpg"
+          }
+        ],
+        "text_zh": "掌舵者并非每天都绕月飞行。\n\n在舰队周上，阿耳忒弥斯二号飞行员 Victor Glover (@AstroVicGlover) 成为 Navier 内部团队之外第一位驾驶 Quanta 的试飞员。非常有趣，也是真正的灵感。\n海事需要阿波罗时刻。我们最大的探险仍在前方。 🚀🌊"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @sampritibh：说到航天和航海……😄"
+    },
+    {
+      "text": "Starship went to space, came home, and the tower that waited for it caught it. https://t.co/mfnU690TJ5",
+      "link": "https://x.com/teslaownersSV/status/2125369137618878563",
+      "date": "Tue Nov 24 23:21:04 +0000 2026",
+      "tweet_id": "2125369137618878563",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125368991019679744/vid/avc1/1920x1080/mOWdqNEFZcrQEO1z.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125368991019679744/img/454lbSLjcaeSzyrx.jpg",
+          "local": "2125369137618878563_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125368991019679744/vid/avc1/1920x1080/mOWdqNEFZcrQEO1z.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125368991019679744/img/454lbSLjcaeSzyrx.jpg",
+          "local": "2125369137618878563_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "星舰前往太空，回到家乡，等待它的塔接住了它。 https://t.co/mfnU690TJ5"
+    },
+    {
+      "text": "Speaking of spacefaring and seafaring… 😄",
+      "link": "https://x.com/sampritibh/status/2125365897523319066",
+      "date": "Tue Nov 24 23:08:12 +0000 2026",
+      "tweet_id": "2125365897523319066",
+      "quoted": {
+        "user": "navierboat",
+        "text": "Not every day the person at the helm has flown around the Moon.\n\nAt Fleet Week, Artemis II pilot Victor Glover (@AstroVicGlover) became the first test pilot outside of Navier’s internal team to fly Quanta. So much fun, and a true inspiration.\nMaritime needs an Apollo moment. Our biggest expeditions are still ahead. 🚀🌊",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125356533680947200/img/0lPXK2h9ILEEdjVL.jpg",
+            "local": "2125365897523319066q_0.jpg"
+          }
+        ],
+        "text_zh": "掌舵者并非每天都绕月飞行。\n\n在舰队周上，阿耳忒弥斯二号飞行员 Victor Glover (@AstroVicGlover) 成为 Navier 内部团队之外第一位驾驶 Quanta 的试飞员。非常有趣，也是真正的灵感。\n海事需要阿波罗时刻。我们最大的探险仍在前方。 🚀🌊"
+      },
+      "ctx_done": 1,
+      "text_zh": "说到航天和航海……😄"
+    },
+    {
+      "text": "RT @maticrobots: Say YES to the holiday mess. 🎄\n\nLet kids be kids. Let pets be pets.\n\nMore celebrations. More family time. Less cleaning.…",
+      "link": "https://x.com/teslaownersSV/status/2125357570059555325",
+      "date": "Tue Nov 24 22:35:06 +0000 2026",
+      "tweet_id": "2125357570059555325",
+      "ctx_done": 1,
+      "text_zh": "RT @maticrobots：对节日混乱说“是”。 🎄\n\n让孩子成为孩子吧。让宠物成为宠物吧。\n\n更多庆祝活动。更多的家庭时间。减少清洁工作。..."
+    },
+    {
+      "text": "Elon Musk on Mechazilla: \"I was actually slightly inspired by Kong versus Godzilla.\" https://t.co/oqP0e73uwb",
+      "link": "https://x.com/teslaownersSV/status/2125354451397693584",
+      "date": "Tue Nov 24 22:22:43 +0000 2026",
+      "tweet_id": "2125354451397693584",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125354217775026176/vid/avc1/1920x1080/o-qpjG0duezHyhIt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125354217775026176/img/3ocvoVcgPslUQ0OQ.jpg",
+          "local": "2125354451397693584_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125354217775026176/vid/avc1/1920x1080/o-qpjG0duezHyhIt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125354217775026176/img/3ocvoVcgPslUQ0OQ.jpg",
+          "local": "2125354451397693584_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈《机甲》：“实际上，我受到了《金刚》与《哥斯拉》的启发。” https://t.co/oqP0e73uwb"
+    },
+    {
+      "text": "RT @LaceyPresley: Elon: \"done without AI/SI, but we will be using a lot of SI in the future.\"\n\nMars is where that pays off. Perseverance hi…",
+      "link": "https://x.com/teslaownersSV/status/2125353432240566691",
+      "date": "Tue Nov 24 22:18:40 +0000 2026",
+      "tweet_id": "2125353432240566691",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "This was done without AI/SI, but we will be using a lot of SI in the future",
+        "text_zh": "这是在没有 AI/SI 的情况下完成的，但我们将来将使用大量 SI"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @LaceyPresley：Elon：“没有 AI/SI 就完成了，但我们将来会使用很多 SI。”\n\n火星是有回报的地方。毅力嗨…"
+    },
+    {
+      "text": "Love having bulletproof windows with @ArmoredCG https://t.co/xZj7ZrLc47",
+      "link": "https://x.com/teslaownersSV/status/2125353277160305068",
+      "date": "Tue Nov 24 22:18:03 +0000 2026",
+      "tweet_id": "2125353277160305068",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125353063745814528/vid/avc1/2160x3840/cIZIwabPAe8vfDZU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125353063745814528/img/RC-9sfmb7V2vvUL7.jpg",
+          "local": "2125353277160305068_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125353063745814528/vid/avc1/2160x3840/cIZIwabPAe8vfDZU.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125353063745814528/img/RC-9sfmb7V2vvUL7.jpg",
+          "local": "2125353277160305068_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "喜欢用 @ArmoredCG 拥有防弹窗 https://t.co/xZj7ZrLc47"
+    },
+    {
+      "text": "Voted with my Tesla shares ahead of the Tesla Shareholder meeting. https://t.co/TeN5kuoOgR",
+      "link": "https://x.com/teslaownersSV/status/2125328457790067149",
+      "date": "Tue Nov 24 20:39:25 +0000 2026",
+      "tweet_id": "2125328457790067149",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6u9t6aEAAJwRC.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6u9t6aEAAJwRC.jpg?format=jpg&name=large",
+          "local": "2125328457790067149_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6u9t6aEAAJwRC.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6u9t6aEAAJwRC.jpg?format=jpg&name=large",
+          "local": "2125328457790067149_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "在特斯拉股东大会之前用我的特斯拉股票进行投票。 https://t.co/TeN5kuoOgR"
+    },
+    {
+      "text": "What is a new feature you want from @tesla?",
+      "link": "https://x.com/teslaownersSV/status/2125327074340827412",
+      "date": "Tue Nov 24 20:33:55 +0000 2026",
+      "tweet_id": "2125327074340827412",
+      "ctx_done": 1,
+      "text_zh": "您希望 @tesla 提供什么新功能？"
+    },
+    {
+      "text": "Elon Musk on Starship: \"Starship is the first rocket design where success is one of the possible outcomes with full reusability.\" https://t.co/sMe74jourh",
+      "link": "https://x.com/teslaownersSV/status/2125326053157765577",
+      "date": "Tue Nov 24 20:29:52 +0000 2026",
+      "tweet_id": "2125326053157765577",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125325899273048065/vid/avc1/1920x1080/A4SBu0KPa-uaYaIV.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125325899273048065/img/PJY2q9HhPwzUJmpm.jpg",
+          "local": "2125326053157765577_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125325899273048065/vid/avc1/1920x1080/A4SBu0KPa-uaYaIV.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125325899273048065/img/PJY2q9HhPwzUJmpm.jpg",
+          "local": "2125326053157765577_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈《星际飞船》：“星际飞船是第一个火箭设计，其成功是完全可重复使用的可能结果之一。” https://t.co/sMe74jourh"
+    },
+    {
+      "text": "This man has no controller. Billy, a Neuralink study participant with tetraplegia, played GTA 6 with his mind, using 2 joysticks and 12 buttons. \n\nNeuralink says the device is investigational and not FDA approved. \n\nWhat do you think? @elonmusk @neuralink https://t.co/d5ZUV4C4Zp",
+      "link": "https://x.com/teslaownersSV/status/2125325572675141856",
+      "date": "Tue Nov 24 20:27:57 +0000 2026",
+      "tweet_id": "2125325572675141856",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125325296413155328/vid/avc1/1080x1920/htlRPg2yjHvT33Qw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125325296413155328/img/JTR-3qNwtv3aH0vi.jpg",
+          "local": "2125325572675141856_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125325296413155328/vid/avc1/1080x1920/htlRPg2yjHvT33Qw.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125325296413155328/img/JTR-3qNwtv3aH0vi.jpg",
+          "local": "2125325572675141856_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这个人没有控制者。比利 (Billy) 是一位患有四肢瘫痪的 Neuralink 研究参与者，他使用 2 个操纵杆和 12 个按钮用意念玩 GTA 6。 \n\nNeuralink 表示，该设备正在研究中，尚未获得 FDA 批准。 \n\n你怎么认为？ @elonmusk @neuralink https://t.co/d5ZUV4C4Zp"
+    },
+    {
+      "text": "See you in Japan at the X Takeover",
+      "link": "https://x.com/teslaownersSV/status/2125322802052100207",
+      "date": "Tue Nov 24 20:16:57 +0000 2026",
+      "tweet_id": "2125322802052100207",
+      "quoted": {
+        "user": "TeslaClubAT",
+        "text": "こんにちは @TeslaOwners_JP \n\n🇯🇵 🏯🙏\n\n@christianmettri @RenoFischa @1TeslinaOnTour @1florianschmid @Tesla_Ban are heading to @theXtakeover Japan 🙌❤️ https://t.co/uq4miq2Kd0",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_3.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_4.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_5.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_6.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=large",
+            "local": "2125322802052100207q_7.jpg"
+          }
+        ],
+        "text_zh": "你好@TeslaOwners_JP\n\n🇯🇵🏯🙏\n\n@christianmettri @RenoFischa @1TeslinaOnTour @1florianschmid @Tesla_Ban 正在前往 @theXtakeover 日本 🙌❤️ https://t.co/uq4miq2Kd0"
+      },
+      "ctx_done": 1,
+      "text_zh": "日本 X Takeover 见"
+    },
+    {
+      "text": "JUST IN: Tesla FSD (Supervised) has now passed 18 billion miles driven.\n\nMore than 7.16 billion of those miles are on city streets, per Tesla's live FSD safety report. https://t.co/b6Xjs9GOJH",
+      "link": "https://x.com/teslaownersSV/status/2125322756275499506",
+      "date": "Tue Nov 24 20:16:46 +0000 2026",
+      "tweet_id": "2125322756275499506",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6pxK8awAAgNVM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6pxK8awAAgNVM.jpg?format=jpg&name=large",
+          "local": "2125322756275499506_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6pxK8awAAgNVM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6pxK8awAAgNVM.jpg?format=jpg&name=large",
+          "local": "2125322756275499506_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "最新消息：特斯拉 FSD（受监管）现已行驶超过 180 亿英里。\n\n根据 Tesla 的实时 FSD 安全报告，其中超过 71.6 亿英里是在城市街道上行驶的。 https://t.co/b6Xjs9GOJH"
+    },
+    {
+      "text": "Say YES to the holiday mess. 🎄\n\nLet kids be kids. Let pets be pets.\n\nMore celebrations. More family time. Less cleaning.\n\n&gt; Loved by 19,000+ families\n&gt; Assembled in the USA 🇺🇸\n&gt;Private by design\n&gt;On every single gift guide🎅(NY Times, WireCutter, TheVerge, Goop, Forbes Vetted) https://t.co/rJJQIxOjVa",
+      "link": "https://x.com/maticrobots/status/2125322259896353007",
+      "date": "Tue Nov 24 20:14:47 +0000 2026",
+      "tweet_id": "2125322259896353007",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125322161594540032/vid/avc1/1920x1080/8i4dNKLWBgRzqEF_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125322161594540032/img/T1sFdRvKN7DB6MHP.jpg",
+          "local": "2125322259896353007_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125322161594540032/vid/avc1/1920x1080/8i4dNKLWBgRzqEF_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125322161594540032/img/T1sFdRvKN7DB6MHP.jpg",
+          "local": "2125322259896353007_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "对节日的混乱说“是”。 🎄\n\n让孩子成为孩子吧。让宠物成为宠物吧。\n\n更多庆祝活动。更多的家庭时间。减少清洁。\n\n> 受到 19,000 多个家庭的喜爱\n> 在美国组装🇺🇸\n>私密设计\n>每一份礼物指南🎅（纽约时报、WireCutter、TheVerge、Goop、福布斯审查）https://t.co/rJJQIxOjVa"
+    },
+    {
+      "text": "RT @JoshWest247: Hey y’all so Zach wouldn’t tell you this but I will. His bathroom renovations ballooned and he had to add new doors not or…",
+      "link": "https://x.com/teslaownersSV/status/2125296836231709020",
+      "date": "Tue Nov 24 18:33:46 +0000 2026",
+      "tweet_id": "2125296836231709020",
+      "ctx_done": 1,
+      "text_zh": "RT @JoshWest247：嘿大家，扎克不会告诉你这个，但我会的。他的浴室装修激增，他不得不添加新门，否则……"
+    },
+    {
+      "text": "Engineering is magic. https://t.co/95RLwpDl0j",
+      "link": "https://x.com/teslaownersSV/status/2125291871232774578",
+      "date": "Tue Nov 24 18:14:02 +0000 2026",
+      "tweet_id": "2125291871232774578",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125291829683945473/vid/avc1/1920x1080/mDkicWtlebuQps-o.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125291829683945473/img/Vdq9eSraaqvfPTTQ.jpg",
+          "local": "2125291871232774578_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125291829683945473/vid/avc1/1920x1080/mDkicWtlebuQps-o.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125291829683945473/img/Vdq9eSraaqvfPTTQ.jpg",
+          "local": "2125291871232774578_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "工程是魔法。 https://t.co/95RLwpDl0j"
+    },
+    {
+      "text": "Hey y’all so Zach wouldn’t tell you this but I will. His bathroom renovations ballooned and he had to add new doors not originally accounted for. \n\nIf you can, please consider donating to his GoFundMe or a little help on 𝕏 Money @DeadManRolln \n\nZach has volunteered to help https://t.co/dJbyCSqTDL",
+      "link": "https://x.com/JoshWest247/status/2125278845313892849",
+      "date": "Tue Nov 24 17:22:17 +0000 2026",
+      "tweet_id": "2125278845313892849",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6B2BEXcAAIRJa.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6B2BEXcAAIRJa.jpg?format=jpg&name=large",
+          "local": "2125278845313892849_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6B2AzWEAAAS62.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6B2AzWEAAAS62.jpg?format=jpg&name=large",
+          "local": "2125278845313892849_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6B2A0WkAAJl-u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6B2A0WkAAJl-u.jpg?format=jpg&name=large",
+          "local": "2125278845313892849_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6B2BEXcAAIRJa.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6B2BEXcAAIRJa.jpg?format=jpg&name=large",
+          "local": "2125278845313892849_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6B2AzWEAAAS62.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6B2AzWEAAAS62.jpg?format=jpg&name=large",
+          "local": "2125278845313892849_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6B2A0WkAAJl-u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6B2A0WkAAJl-u.jpg?format=jpg&name=large",
+          "local": "2125278845313892849_5.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "嘿，大家好，扎克不会告诉你这个，但我会的。他的浴室装修规模不断扩大，他不得不添加最初没有考虑到的新门。 \n\n如果可以的话，请考虑向他的 GoFundMe 捐款或在 𝕏 Money @DeadManRolln 上提供一点帮助 \n\n扎克自愿提供帮助 https://t.co/dJbyCSqTDL"
+    },
+    {
+      "text": "SpaceX and Tesla have reportedly appointed five independent directors to negotiate a potential $3.5 trillion all-stock merger, according to the Financial Times.\n\nTesla's representatives are Robyn Denholm, Kathleen Wilson-Thompson, and Jack Hartung.\n\nSpaceX's representatives are https://t.co/ZzTnUw7jwG",
+      "link": "https://x.com/teslaownersSV/status/2125277765964574947",
+      "date": "Tue Nov 24 17:17:59 +0000 2026",
+      "tweet_id": "2125277765964574947",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6A3UwbYAEPZtD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6A3UwbYAEPZtD.jpg?format=jpg&name=large",
+          "local": "2125277765964574947_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX6A3UwbYAEPZtD.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX6A3UwbYAEPZtD.jpg?format=jpg&name=large",
+          "local": "2125277765964574947_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "据英国《金融时报》报道，SpaceX 和特斯拉已任命五名独立董事，就一项可能价值 3.5 万亿美元的全股票合并进行谈判。\n\n特斯拉的代表是罗宾·丹霍姆（Robyn Denholm）、凯瑟琳·威尔逊·汤普森（Kathleen Wilson-Thompson）和杰克·哈同（Jack Hartung）。\n\nSpaceX 的代表为 https://t.co/ZzTnUw7jwG"
+    },
+    {
+      "text": "こんにちは @TeslaOwners_JP \n\n🇯🇵 🏯🙏\n\n@christianmettri @RenoFischa @1TeslinaOnTour @1florianschmid @Tesla_Ban are heading to @theXtakeover Japan 🙌❤️ https://t.co/uq4miq2Kd0",
+      "link": "https://x.com/TeslaClubAT/status/2125277573106032745",
+      "date": "Tue Nov 24 17:17:13 +0000 2026",
+      "tweet_id": "2125277573106032745",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cuDXAAAFk-A.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cxVXUAAv9cs.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cs0XoAAFUPO.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX5_cvSWoAAAOtm.jpg?format=jpg&name=large",
+          "local": "2125277573106032745_7.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "你好@TeslaOwners_JP\n\n🇯🇵🏯🙏\n\n@christianmettri @RenoFischa @1TeslinaOnTour @1florianschmid @Tesla_Ban 正在前往 @theXtakeover 日本 🙌❤️ https://t.co/uq4miq2Kd0"
+    },
+    {
+      "text": "Zambia is expanding Starlink connectivity across rural healthcare facilities, starting with 49 kits delivered to Muchinga Province.\n\n- The Ministry of Health received 30 Starlink Mini kits and 19 Standard kits to connect health facilities across all eight districts.\n- The rollout https://t.co/9UbRQFaqi4",
+      "link": "https://x.com/teslaownersSV/status/2125267486853747109",
+      "date": "Tue Nov 24 16:37:09 +0000 2026",
+      "tweet_id": "2125267486853747109",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX53hA1b0AArxG1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX53hA1b0AArxG1.jpg?format=jpg&name=large",
+          "local": "2125267486853747109_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX53hA1b0AArxG1.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX53hA1b0AArxG1.jpg?format=jpg&name=large",
+          "local": "2125267486853747109_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "赞比亚正在扩大 Starlink 在农村医疗机构中的连接，首先向穆钦加省交付 49 个套件。\n\n- 卫生部收到了 30 个 Starlink 迷你套件和 19 个标准套件，用于连接所有八个地区的卫生设施。\n- 推出 https://t.co/9UbRQFaqi4"
+    },
+    {
+      "text": "Starlink is helping a remote health clinic in South Sudan move from paper-based records to digital healthcare.\n\n- Clinic head Joseph Gak had never used a computer before the World Health Organization (WHO) supplied the clinic with a computer, a digital guide, and Starlink https://t.co/5WtB2ER8A2",
+      "link": "https://x.com/teslaownersSV/status/2125267395979984962",
+      "date": "Tue Nov 24 16:36:47 +0000 2026",
+      "tweet_id": "2125267395979984962",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX53bsQaAAAKG2j.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX53bsQaAAAKG2j.jpg?format=jpg&name=large",
+          "local": "2125267395979984962_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX53bsQaAAAKG2j.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX53bsQaAAAKG2j.jpg?format=jpg&name=large",
+          "local": "2125267395979984962_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Starlink 正在帮助南苏丹的一家远程医疗诊所从纸质记录转向数字医疗保健。\n\n- 在世界卫生组织 (WHO) 为诊所提供电脑、数字指南和 Starlink 之前，诊所负责人 Joseph Gak 从未使用过电脑 https://t.co/5WtB2ER8A2"
+    },
+    {
+      "text": "Elon Musk on Neuralink and back pain: \"Everyone has back pain at some point in their life, which is also a thing Neuralink can solve, so that'd be cool too.\" https://t.co/xfb0pgOGYm",
+      "link": "https://x.com/teslaownersSV/status/2125254778783727627",
+      "date": "Tue Nov 24 15:46:39 +0000 2026",
+      "tweet_id": "2125254778783727627",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125254753739493376/vid/avc1/1920x1080/2qfiAe9F-L4i3xZ5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125254753739493376/img/ZySz5M_85-a9rdG3.jpg",
+          "local": "2125254778783727627_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125254753739493376/vid/avc1/1920x1080/2qfiAe9F-L4i3xZ5.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125254753739493376/img/ZySz5M_85-a9rdG3.jpg",
+          "local": "2125254778783727627_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Elon Musk 谈及 Neuralink 和背痛：“每个人在一生中的某个时刻都会经历背痛，这也是 Neuralink 可以解决的问题，所以这也很酷。” https://t.co/xfb0pgOGYm"
+    },
+    {
+      "text": "Elon: \"done without AI/SI, but we will be using a lot of SI in the future.\"\n\nMars is where that pays off. Perseverance hit the atmosphere near 20,000 km/h and had ~7 minutes to land itself. Earth couldn't help: signals took 11+ minutes.\n\nThat's a job for SI. https://t.co/8rVXu5DWBK",
+      "link": "https://x.com/LaceyPresley/status/2125231832836771915",
+      "date": "Tue Nov 24 14:15:28 +0000 2026",
+      "tweet_id": "2125231832836771915",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125230247947726849/vid/avc1/2560x1440/F8RtatLwnD2E2wDE.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125230247947726849/img/YC55TsAgcjR3YnWS.jpg",
+          "local": "2125231832836771915_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125230247947726849/vid/avc1/2560x1440/F8RtatLwnD2E2wDE.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125230247947726849/img/YC55TsAgcjR3YnWS.jpg",
+          "local": "2125231832836771915_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "This was done without AI/SI, but we will be using a lot of SI in the future",
+        "text_zh": "这是在没有 AI/SI 的情况下完成的，但我们将来将使用大量 SI"
+      },
+      "ctx_done": 1,
+      "text_zh": "Elon：“没有 AI/SI 就完成了，但我们将来会使用很多 SI。”\n\n火星是有回报的地方。毅力号以接近 20,000 公里/小时的速度撞击大气层，并在约 7 分钟内自行着陆。地球也无能为力：信号花了 11 分钟多的时间。\n\n这是 SI 的工作。 https://t.co/8rVXu5DWBK"
+    },
     {
       "text": "I wish the Cybertruck wasn’t getting canceled https://t.co/ljmplP6hz5",
       "link": "https://x.com/teslaownersSV/status/2125119109558104238",
@@ -3875,506 +4456,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "拥有一辆特斯拉是一种体验。您的承保范围也应该如此。 ⚡\n\n评论“COVERAGE”👇即可免费远程检查。\n\n与给自己的特斯拉起名的朋友分享一下。你知道那个。 🚗 https://t.co/FG8U4Fwcyd"
-    },
-    {
-      "text": "RT @teslaownersSV: Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us throu…",
-      "link": "https://x.com/teslaownersSV/status/2123383112608665618",
-      "date": "Thu Nov 19 11:49:19 +0000 2026",
-      "tweet_id": "2123383112608665618",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你一直爱着我们……"
-    },
-    {
-      "text": "RT @sa_futurist: The Cybercab invite has beautifully shot photos and descriptions!! 🎉🎉🎉\nWe have come so far to nearly doubling the efficien…",
-      "link": "https://x.com/teslaownersSV/status/2123320396187615458",
-      "date": "Thu Nov 19 07:40:06 +0000 2026",
-      "tweet_id": "2123320396187615458",
-      "ctx_done": 1,
-      "text_zh": "RT @sa_futurist：Cyber​​cab 邀请函中有拍摄精美的照片和描述！ 🎉🎉🎉\n到目前为止，我们的效率几乎翻了一番……"
-    },
-    {
-      "text": "Elon Musk says Tesla and SpaceX would \"probably\" be better together.\n\nHe said it at the NYT DealBook Summit. Five years ago his answer would have been no. What changed is AI, robotics and chip design.\n\nBut any merger needs a shareholder vote, and he said it \"may or may not succeed.\" Nothing has been announced.\n\nWhat do you think happens next?\n\nVideo",
-      "link": "https://x.com/teslaownersSV/status/2123313076502163526#m",
-      "date": "Thu, 19 Nov 2026 07:11:01 GMT",
-      "tweet_id": "2123313076502163526",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123312876723314688/vid/avc1/1078x1920/eg-s39kyzU9-cEAC.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123312876723314688/img/S-ASMEwgdO0PsAVN.jpg",
-          "local": "2123313076502163526_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123312876723314688/vid/avc1/1078x1920/eg-s39kyzU9-cEAC.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123312876723314688/img/S-ASMEwgdO0PsAVN.jpg",
-          "local": "2123313076502163526_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克表示，特斯拉和 SpaceX 合作“可能”会更好。\n\n他是在纽约时报 DealBook 峰会上这么说的。五年前，他的答案是否定的。改变的是人工智能、机器人和芯片设计。\n\n但任何合并都需要股东投票，他说“可能会也可能不会”https://t.co/q26gz6t4B5"
-    },
-    {
-      "text": "Elon Musk on why SpaceX and Tesla keep converging:\n\n\"What we are seeing is that AI and robotics... is what's causing convergence here.\"\n\nBoth companies have major AI software groups and advanced chip design groups. And his prediction for the future:\n\n\"The amount of https://t.co/4L4KpAqfwC",
-      "link": "https://x.com/teslaownersSV/status/2123309877636567426",
-      "date": "Thu Nov 19 06:58:18 +0000 2026",
-      "tweet_id": "2123309877636567426",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123309821403467776/vid/avc1/1920x1080/J9E5dMpayav670xI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123309821403467776/img/tJ6arxDsu7MpRVrd.jpg",
-          "local": "2123309877636567426_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123309821403467776/vid/avc1/1920x1080/J9E5dMpayav670xI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123309821403467776/img/tJ6arxDsu7MpRVrd.jpg",
-          "local": "2123309877636567426_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 阐述 SpaceX 和特斯拉不断融合的原因：\n\n“我们看到的是人工智能和机器人技术……是导致这里融合的原因。”\n\n两家公司都拥有主要的人工智能软件团队和先进的芯片设计团队。 And his prediction for the future:\n\n\"The amount of https://t.co/4L4KpAqfwC"
-    },
-    {
-      "text": "Elon brought Lil X with him to Shenzhen and asked him one question.\nElon: \"Do you love China?\"\nLil X: \"Yes.\"\nElon: \"See, he agrees. China makes everything, almost everything. So he's like, China is a toy paradise. 'Cause his toys are made here.\" https://t.co/MaOnMEPAOS",
-      "link": "https://x.com/teslaownersSV/status/2123308295343808832",
-      "date": "Thu Nov 19 06:52:01 +0000 2026",
-      "tweet_id": "2123308295343808832",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123308262569467904/vid/avc1/1920x1080/FY56X0SJIFh7p-fa.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123308262569467904/img/TKd9rstFUw4JZzJW.jpg",
-          "local": "2123308295343808832_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123308262569467904/vid/avc1/1920x1080/FY56X0SJIFh7p-fa.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123308262569467904/img/TKd9rstFUw4JZzJW.jpg",
-          "local": "2123308295343808832_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 将 Lil X 带到了深圳，并问了他一个问题。\nElon：“你爱中国吗？”\n莉尔·X：“是的。”\n埃隆：“看，他同意。中国制造一切，几乎一切。所以他说，中国是一个玩具天堂。因为他的玩具是在这里制造的。” https://t.co/MaOnMEPAOS"
-    },
-    {
-      "text": "Elon in Shenzhen today:\n\"I always tell people that in America and elsewhere that you can't understand China unless you visit. And then they have a real understanding.\"\n\"There's so much to see in China and so many, frankly, majestic scenes of incredible buildings and natural https://t.co/bm4dhIbH29",
-      "link": "https://x.com/teslaownersSV/status/2123306361664442580",
-      "date": "Thu Nov 19 06:44:20 +0000 2026",
-      "tweet_id": "2123306361664442580",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123306326030004225/vid/avc1/1920x1080/YAH_PB4Ql2zLNuWp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123306326030004225/img/Ghr1BPhY4roQnTU3.jpg",
-          "local": "2123306361664442580_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123306326030004225/vid/avc1/1920x1080/YAH_PB4Ql2zLNuWp.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123306326030004225/img/Ghr1BPhY4roQnTU3.jpg",
-          "local": "2123306361664442580_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆今天在深圳：\n“我总是告诉人们，在美国和其他地方，除非你亲自去参观，否则你无法了解中国。然后他们就会真正了解中国。”\n“中国有很多值得一看的地方，坦率地说，有很多令人难以置信的建筑和自然的壮丽景色 https://t.co/bm4dhIbH29"
-    },
-    {
-      "text": "The Cybercab invite has beautifully shot photos and descriptions!! 🎉🎉🎉\nWe have come so far to nearly doubling the efficiency and achieving full autonomy. \nWhen I first came across Elon and Tesla, two decades ago, I could have never imagined that I would be here. \nTesla has presented me with this amazing opportunity to purchase the Cybercab. I am grateful to the @robotaxi team for the design and engineering feat! \nありがとうございます！Grazie! Thank you!",
-      "link": "https://x.com/sa_futurist/status/2123293577027731840#m",
-      "date": "Thu, 19 Nov 2026 05:53:32 GMT",
-      "tweet_id": "2123293577027731840",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuZawAA7jej.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuZawAA7jej.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuZaoAEbKI9.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuZaoAEbKI9.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuWaQAAO1Kf.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuWaQAAO1Kf.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuYbQAAqOcZ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuYbQAAqOcZ.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OubbsAALOIF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OubbsAALOIF.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuZawAA7jej.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuZawAA7jej.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuZaoAEbKI9.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuZaoAEbKI9.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuWaQAAO1Kf.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuWaQAAO1Kf.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OuYbQAAqOcZ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OuYbQAAqOcZ.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_8.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXd0OubbsAALOIF.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXd0OubbsAALOIF.jpg?format=jpg&name=large",
-          "local": "2123293577027731840_9.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Cyber​​cab 邀请函上有拍摄精美的照片和描述！ 🎉🎉🎉\n到目前为止，我们的效率几乎翻了一番，并实现了完全自主。 \n二十年前，当我第一次遇到埃隆和特斯拉时，我从未想象过我会在这里。 \n特斯拉有 https://t.co/azqBW71L1U"
-    },
-    {
-      "text": "Gaming it up https://t.co/dVuBujJfiw",
-      "link": "https://x.com/teslaownersSV/status/2123288289952276762",
-      "date": "Thu Nov 19 05:32:31 +0000 2026",
-      "tweet_id": "2123288289952276762",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXdvcg0bcAAaRt5.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXdvcg0bcAAaRt5.jpg?format=jpg&name=large",
-          "local": "2123288289952276762_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXdvcg0bcAAaRt5.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXdvcg0bcAAaRt5.jpg?format=jpg&name=large",
-          "local": "2123288289952276762_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "玩游戏 https://t.co/dVuBujJfiw"
-    },
-    {
-      "text": "Thank you for the support. \n\nI hope to encourage others who may be going through a hard time. \n\nLet’s struggle and grow together. https://t.co/ootZoCqyT6",
-      "link": "https://x.com/teslaownersSV/status/2123284943195546070",
-      "date": "Thu Nov 19 05:19:13 +0000 2026",
-      "tweet_id": "2123284943195546070",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123284675527667712/vid/avc1/2160x3840/lgUJ1ToBsdgGnMoV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123284675527667712/img/f6ZenQBpw0ysrP5O.jpg",
-          "local": "2123284943195546070_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123284675527667712/vid/avc1/2160x3840/lgUJ1ToBsdgGnMoV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123284675527667712/img/f6ZenQBpw0ysrP5O.jpg",
-          "local": "2123284943195546070_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for https://t.co/CJPBlZYnzq",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=large",
-            "local": "2123284943195546070q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=medium",
-            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=large",
-            "local": "2123284943195546070q_1.jpg"
-          }
-        ],
-        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我无限感激 https://t.co/CJPBlZYnzq"
-      },
-      "ctx_done": 1,
-      "text_zh": "感谢您的支持。 \n\n我希望能够鼓励其他正在经历困难时期的人。 \n\n让我们一起奋斗、一起成长。 https://t.co/ootZoCqyT6"
-    },
-    {
-      "text": "What if all the hurdles, pain and suffering you faced when you were younger were preparing you for the battles you'd win as an adult?",
-      "link": "https://x.com/teslaownersSV/status/2123277021270917610",
-      "date": "Thu Nov 19 04:47:45 +0000 2026",
-      "tweet_id": "2123277021270917610",
-      "ctx_done": 1,
-      "text_zh": "如果你年轻时遇到的所有障碍、痛苦和折磨都是为了让你为成年后赢得的战斗做好准备怎么办？"
-    },
-    {
-      "text": "RT @teslaownersSV: Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us throu…",
-      "link": "https://x.com/teslaownersSV/status/2123274518865310104",
-      "date": "Thu Nov 19 04:37:48 +0000 2026",
-      "tweet_id": "2123274518865310104",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你一直爱着我们……"
-    },
-    {
-      "text": "Elon Musk waving at APEC Summit dinner https://t.co/Q2TPLnMtki",
-      "link": "https://x.com/teslaownersSV/status/2123261793577623821",
-      "date": "Thu Nov 19 03:47:14 +0000 2026",
-      "tweet_id": "2123261793577623821",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123261779958796288/vid/avc1/720x1280/ZkwHUPCu82GaTg_u.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123261779958796288/img/rX4vsHGBRRz5swZ9.jpg",
-          "local": "2123261793577623821_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123261779958796288/vid/avc1/720x1280/ZkwHUPCu82GaTg_u.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123261779958796288/img/rX4vsHGBRRz5swZ9.jpg",
-          "local": "2123261793577623821_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克在 APEC 峰会晚宴上挥手致意 https://t.co/Q2TPLnMtki"
-    },
-    {
-      "text": "Elon Musk at APEC Summit Dinner https://t.co/SRjwkD0HNA",
-      "link": "https://x.com/teslaownersSV/status/2123257833856889147",
-      "date": "Thu Nov 19 03:31:30 +0000 2026",
-      "tweet_id": "2123257833856889147",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXdTv12awAA4kYD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXdTv12awAA4kYD.jpg?format=jpg&name=large",
-          "local": "2123257833856889147_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXdTv12awAA4kYD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXdTv12awAA4kYD.jpg?format=jpg&name=large",
-          "local": "2123257833856889147_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克出席 APEC 峰会晚宴 https://t.co/SRjwkD0HNA"
-    },
-    {
-      "text": "Terafab's first test chip is about 8 or 9 months away, and @elonmusk is hiring.\n\n\"We're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In https://t.co/bsnerKjJnL",
-      "link": "https://x.com/teslaownersSV/status/2123244876376781245",
-      "date": "Thu Nov 19 02:40:01 +0000 2026",
-      "tweet_id": "2123244876376781245",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123244832240087040/vid/avc1/1920x1080/7tkxf7OJN_AceQ8s.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123244832240087040/img/3VyJ9Kt3hBRdcDPt.jpg",
-          "local": "2123244876376781245_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123244832240087040/vid/avc1/1920x1080/7tkxf7OJN_AceQ8s.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123244832240087040/img/3VyJ9Kt3hBRdcDPt.jpg",
-          "local": "2123244876376781245_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Terafab 的第一个测试芯片距离大约 8 或 9 个月的时间，@elonmusk 正在招聘。\n\n“我们正在寻找更多优秀的工程师加入 Terafab 项目。这是世界上最令人兴奋的项目之一：创建地球上最大、最先进的芯片制造设施。https://t.co/bsnerKjJnL"
-    },
-    {
-      "text": "RT @Smokehbear: Hey John, special delivery coming in :)\nMade it travel style as we are nomads.\nShould arrive 1-3 Dec. https://t.co/Z6kKvU3m…",
-      "link": "https://x.com/teslaownersSV/status/2123244034705813617",
-      "date": "Thu Nov 19 02:36:40 +0000 2026",
-      "tweet_id": "2123244034705813617",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "My daughter drew this @elonmusk \n\nWe should make it real.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?name=orig",
-            "local": "2123244034705813617q_0.jpg"
-          }
-        ],
-        "text_zh": "我女儿画了这个@elonmusk \n\n我们应该让它成为现实。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Smokehbear：嘿约翰，特快专递来了:)\n因为我们是游牧民族，所以让它成为旅行风格。\n预计将于 12 月 1-3 日到达。https://t.co/Z6kKvU3m..."
-    },
-    {
-      "text": "Hey John, special delivery coming in :)\nMade it travel style as we are nomads.\nShould arrive 1-3 Dec. https://t.co/Z6kKvU3mX5",
-      "link": "https://x.com/Smokehbear/status/2123243908901843016",
-      "date": "Thu Nov 19 02:36:10 +0000 2026",
-      "tweet_id": "2123243908901843016",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXdGZiUXsAEZMHs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXdGZiUXsAEZMHs.jpg?format=jpg&name=large",
-          "local": "2123243908901843016_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXdGZiUXsAEZMHs.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXdGZiUXsAEZMHs.jpg?format=jpg&name=large",
-          "local": "2123243908901843016_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "My daughter drew this @elonmusk \n\nWe should make it real.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HWQlcmCaUAExb6U.jpg?name=orig",
-            "local": "2123243908901843016q_0.jpg"
-          }
-        ],
-        "text_zh": "我女儿画了这个@elonmusk \n\n我们应该让它成为现实。"
-      },
-      "ctx_done": 1,
-      "text_zh": "嘿约翰，特快专递来了:)\n因为我们是游牧民族，所以让它成为旅行风格。\n预计将于 12 月 1 日至 3 日抵达 https://t.co/Z6kKvU3mX5"
-    },
-    {
-      "text": "RT @mayemusk: @teslaownersSV Happy Birthday Evelyn 🎂💖🎉🎉",
-      "link": "https://x.com/teslaownersSV/status/2123235127480492256",
-      "date": "Thu Nov 19 02:01:16 +0000 2026",
-      "tweet_id": "2123235127480492256",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "RT @mayemusk：@teslaownersSV 伊芙琳生日快乐🎂💖🎉🎉"
-    },
-    {
-      "text": "RT @ThTslaDude: Pray for them with all your might folks. And then do it again and again. Please!!!",
-      "link": "https://x.com/teslaownersSV/status/2123235115317002280",
-      "date": "Thu Nov 19 02:01:13 +0000 2026",
-      "tweet_id": "2123235115317002280",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "local": "2123235115317002280q_0.jpg"
-          }
-        ],
-        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我对你无限感激，我很自豪能成为你的丈夫。 \n\n今天的一切都是关于你的。我祈求神对你更加信实。我全心全意的爱你。 ❤️"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @ThTslaDude：与所有可能的人一起为他们祈祷。然后一次又一次地这样做。请！！！"
-    },
-    {
-      "text": "Pray for them with all your might folks. And then do it again and again. Please!!!",
-      "link": "https://x.com/ThTslaDude/status/2123234876589850939",
-      "date": "Thu Nov 19 02:00:17 +0000 2026",
-      "tweet_id": "2123234876589850939",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "local": "2123234876589850939q_0.jpg"
-          }
-        ],
-        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我对你无限感激，我很自豪能成为你的丈夫。 \n\n今天的一切都是关于你的。我祈求神对你更加信实。我全心全意的爱你。 ❤️"
-      },
-      "ctx_done": 1,
-      "text_zh": "与所有可能的人一起为他们祈祷。然后一次又一次地这样做。请！！！"
-    },
-    {
-      "text": "@teslaownersSV Happy Birthday Evelyn 🎂💖🎉🎉",
-      "link": "https://x.com/mayemusk/status/2123234671236382939",
-      "date": "Thu Nov 19 01:59:28 +0000 2026",
-      "tweet_id": "2123234671236382939",
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "@teslaownersSV 伊芙琳生日快乐🎂💖🎉🎉"
-    },
-    {
-      "text": "RT @ThTslaDude: @elonmusk knows the Cybertruck is the “best ever from Tesla.” He said so less than a year ago. And all of us owners, fans,…",
-      "link": "https://x.com/teslaownersSV/status/2123229125389533614",
-      "date": "Thu Nov 19 01:37:25 +0000 2026",
-      "tweet_id": "2123229125389533614",
-      "quoted": {
-        "user": "elonmusk",
-        "text": "Cybertruck is an incredible vehicle. Our best ever from Tesla.",
-        "text_zh": "Cyber​​truck 是一款令人难以置信的车辆。特斯拉有史以来最好的成绩。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @ThTslaDude：@elonmusk 知道 Cyber​​truck 是“特斯拉有史以来最好的”。他是在不到一年前这么说的。还有我们所有的业主、球迷……"
-    },
-    {
-      "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
-      "link": "https://x.com/teslaownersSV/status/2123228919080075443#m",
-      "date": "Thu, 19 Nov 2026 01:36:36 GMT",
-      "tweet_id": "2123228919080075443",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=large",
-          "local": "2123228919080075443_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?format=jpg&name=large",
-          "local": "2123228919080075443_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我无限感激 https://t.co/CJPBlZYnzq"
-    },
-    {
-      "text": "Growth comes through life's most uncomfortable moments and difficulties.",
-      "link": "https://x.com/teslaownersSV/status/2123220099738014012",
-      "date": "Thu Nov 19 01:01:33 +0000 2026",
-      "tweet_id": "2123220099738014012",
-      "ctx_done": 1,
-      "text_zh": "成长来自于生活中最不舒服的时刻和困难。"
-    },
-    {
-      "text": "Starlink has saved hundreds of lives, Elon says, when it was the only connection left.\n\"I think it might be at hundreds of people's lives. Hundreds of lives have been saved because Starlink was the only means of connectivity in a natural disaster.\"\n@elonmusk https://t.co/qPN99ECpId",
-      "link": "https://x.com/teslaownersSV/status/2123216086292365656",
-      "date": "Thu Nov 19 00:45:37 +0000 2026",
-      "tweet_id": "2123216086292365656",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123216029790953472/vid/avc1/1920x1080/rwcgVMzhV2dd2suo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123216029790953472/img/LDA9tYeh70190mWg.jpg",
-          "local": "2123216086292365656_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123216029790953472/vid/avc1/1920x1080/rwcgVMzhV2dd2suo.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123216029790953472/img/LDA9tYeh70190mWg.jpg",
-          "local": "2123216086292365656_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆说，当星链是唯一的连接时，它已经拯救了数百人的生命。\n“我认为这可能关系到数百人的生命。由于星链是自然灾害中唯一的连接手段，数百人的生命得以挽救。”\n@elonmusk https://t.co/qPN99ECpId"
     }
   ]
 }
