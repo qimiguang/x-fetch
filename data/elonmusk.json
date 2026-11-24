@@ -1,8 +1,16 @@
 {
   "username": "elonmusk",
-  "updated_at": "2026-11-23T12:04:17Z",
+  "updated_at": "2026-11-24T02:03:39Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "😂",
+      "link": "https://x.com/elonmusk/status/2124409423821205663",
+      "date": "Sun, 22 Nov 2026 07:47:30 GMT",
+      "tweet_id": "2124409423821205663",
+      "ctx_done": 1,
+      "text_zh": "😂"
+    },
     {
       "text": "is the beginning of the “super” part of Tesla SI",
       "link": "https://x.com/elonmusk/status/2124071338394399028#m",
@@ -2589,27 +2597,6 @@
       },
       "ctx_done": 1,
       "text_zh": "尝试 Grok @Bot！\n\n\n舒巴姆·萨布 (@Saboo_Shubham_)\n\n我现在已经将所有内容从 OpenClaw、Hermes 和 Muse 转移到了 Grok Bot。 \n\n缪斯有一段时间有一段时间。但 Grok @bot 显然是个人代理的赢家（UI/UX/功能 - 一切都在点上）。 \n\n最令人印象深刻的是保持 grok 机器人相关性的运输速度。\n\n@poteto、@mattyp 和团队的工作非常棒！\n\n视频\n  \n\n\n\n\n\n— https://nitter.kareem.one/Saboo_Shubham_/status/2118055599036588312#m"
-    },
-    {
-      "text": "Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with. \nSo much work is needless friction, bot finds the path of least resistance and grinds through tasks until they’re complete. \nFeels like a new era of productivity.\nVideo",
-      "link": "https://x.com/Baconbrix/status/2118064051771310169#m",
-      "date": "Wed, 04 Nov 2026 19:33:16 GMT",
-      "tweet_id": "2118064051771310169",
-      "quoted": {
-        "user": "bot",
-        "text": "Grok Bot can now make phone calls.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2118043621249433600/img/wbtqZXaA0cWZe1Kd.jpg",
-            "local": "2118064051771310169q_0.jpg"
-          }
-        ],
-        "text_zh": "Grok Bot 现在可以打电话。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Bot 有这种行动偏向，让人感觉它是你共事过的最无所畏惧的同事。 \n很多工作都是不必要的摩擦，机器人会找到阻力最小的路径并完成任务，直到完成。 \n感觉就像生产力的新时代。\n视频"
     }
   ]
 }
