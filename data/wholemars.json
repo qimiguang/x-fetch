@@ -1,7 +1,7 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-25T07:56:11Z",
-  "count": 180,
+  "updated_at": "2026-11-25T19:12:38Z",
+  "count": 176,
   "tweets": [
     {
       "text": "Tesla Self-Driving 15 first ride with my Dad! \n\nThe new reality view is insane, and it parked perfectly 4/4 times. You guys are going to love this update. https://t.co/l7dPyGUkjP",
@@ -2309,38 +2309,6 @@
       "date": "Sun, 25 Oct 2026 19:36:17 GMT",
       "text_zh": "蜂群",
       "tweet_id": "2114440931525222646",
-      "ctx_done": 1
-    },
-    {
-      "text": "Email from Mark Zuckerberg\n\nSeptember 17, 2023",
-      "link": "http://nitter.meowing.monster/TechEmails/status/2114409640276664803#m",
-      "date": "Sun, 25 Oct 2026 17:31:56 GMT",
-      "text_zh": "马克·扎克伯格的电子邮件\n\n2023 年 9 月 17 日",
-      "tweet_id": "2114409640276664803",
-      "ctx_done": 1
-    },
-    {
-      "text": "RT by @wholemars: Image",
-      "link": "http://nitter.meowing.monster/TeslaFamBen/status/2114401605281783991#m",
-      "date": "Sun, 25 Oct 2026 17:00:01 GMT",
-      "text_zh": "RT @wholemars：图片",
-      "tweet_id": "2114401605281783991",
-      "ctx_done": 1
-    },
-    {
-      "text": "Everything that is hackable will be hacked, and everything is hackable.",
-      "link": "http://nitter.meowing.monster/tunguz/status/2114392673318777253#m",
-      "date": "Sun, 25 Oct 2026 16:24:31 GMT",
-      "text_zh": "一切可被黑客攻击的东西都将被黑客攻击，一切都可以被黑客攻击。",
-      "tweet_id": "2114392673318777253",
-      "ctx_done": 1
-    },
-    {
-      "text": "New Starlink in flight Wi-Fi review:\n\n\"I was flying over the Sierra Nevada mountain range recently when I had a tech experience that left me enthralled. It also shows why I believe @elonmusk is the greatest technologist working today. Simply stated, I was blown away.\n\nInstead of playing a downloaded movie, I logged in to Netflix and couldn’t believe the quality of the streaming. So, I did what any broadband speed freak would do. I grabbed my Ookla app and tested the download speeds.\n\nIt came back at a blazing 408 megabits a second. That’s roughly 30% faster than the median speeds for U.S. households, the vast majority of which have hardwired connections.\n\nI bring up this example because I believe it speaks volumes about how Musk just keeps on transforming the world around us.\"\n\nIn fall 2027, Southwest Airlines expects to complete a fleetwide rollout of Starlink, becoming the first major airline to do so.",
-      "link": "http://nitter.meowing.monster/SawyerMerritt/status/2114376221551157748#m",
-      "date": "Sun, 25 Oct 2026 15:19:09 GMT",
-      "text_zh": "新星链飞行中 Wi-Fi 评论：\n\n“最近，我飞越内华达山脉时，获得了一次让我着迷的技术体验。这也说明了为什么我相信 @elonmusk 是当今最伟大的技术专家。简单地说，我被震撼了。\n\n我没有播放下载的电影，而是登录了 Netflix，无法相信流媒体的质量。所以，我做了任何宽带速度怪人都会做的事情。我拿起我的 Ookla 应用程序并测试了下载速度。\n\n它以每秒 408 兆比特的速度返回。这比美国家庭的平均速度快大约 30%，其中绝大多数家庭都有硬连线连接。\n\n我举这个例子是因为我相信它充分说明了马斯克如何不断改变我们周围的世界。”\n\n西南航空预计将于 2027 年秋季完成 Starlink 的全机队部署，成为第一家这样做的大型航空公司。",
-      "tweet_id": "2114376221551157748",
       "ctx_done": 1
     }
   ]
