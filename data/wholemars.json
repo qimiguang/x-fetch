@@ -1,7 +1,7 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-24T23:53:40Z",
-  "count": 190,
+  "updated_at": "2026-11-25T07:56:11Z",
+  "count": 180,
   "tweets": [
     {
       "text": "Tesla Self-Driving 15 first ride with my Dad! \n\nThe new reality view is insane, and it parked perfectly 4/4 times. You guys are going to love this update. https://t.co/l7dPyGUkjP",
@@ -2341,94 +2341,6 @@
       "date": "Sun, 25 Oct 2026 15:19:09 GMT",
       "text_zh": "新星链飞行中 Wi-Fi 评论：\n\n“最近，我飞越内华达山脉时，获得了一次让我着迷的技术体验。这也说明了为什么我相信 @elonmusk 是当今最伟大的技术专家。简单地说，我被震撼了。\n\n我没有播放下载的电影，而是登录了 Netflix，无法相信流媒体的质量。所以，我做了任何宽带速度怪人都会做的事情。我拿起我的 Ookla 应用程序并测试了下载速度。\n\n它以每秒 408 兆比特的速度返回。这比美国家庭的平均速度快大约 30%，其中绝大多数家庭都有硬连线连接。\n\n我举这个例子是因为我相信它充分说明了马斯克如何不断改变我们周围的世界。”\n\n西南航空预计将于 2027 年秋季完成 Starlink 的全机队部署，成为第一家这样做的大型航空公司。",
       "tweet_id": "2114376221551157748",
-      "ctx_done": 1
-    },
-    {
-      "text": "There are three main ways we align human behavior: \n\n1. Through market forces, prices, taxes, incentives, etc \n\n2. Through the legal system (you will go to jail or pay a fine if you do this) \n\n3. Through social pressure (don’t be an asshole)",
-      "link": "https://nitter.kareem.one/wholemars/status/2114247224846881169#m",
-      "date": "Sun, 25 Oct 2026 06:46:33 GMT",
-      "text_zh": "我们通过三种主要方式调整人类行为： \n\n1. 通过市场力量、价格、税收、激励措施等 \n\n2.通过法律系统（如果这样做你将入狱或缴纳罚款） \n\n3.通过社会压力（别当混蛋）",
-      "tweet_id": "2114247224846881169",
-      "ctx_done": 1
-    },
-    {
-      "text": "for comparison, Uber is $17.39 for the same trip \n\n(I still chose to take the $29 Waymo home, because the added safety and privacy is worth it to me)",
-      "link": "https://nitter.kareem.one/wholemars/status/2114242620868436453#m",
-      "date": "Sun, 25 Oct 2026 06:28:16 GMT",
-      "text_zh": "作为比较，同一行程的 Uber 价格为 17.39 美元 \n\n（我仍然选择乘坐29美元的Waymo回家，因为增加的安全性和隐私对我来说是值得的）",
-      "tweet_id": "2114242620868436453",
-      "reply_to": "wholemars",
-      "ctx_done": 1
-    },
-    {
-      "text": "I’m drunk and giving away money",
-      "link": "https://nitter.kareem.one/Jason/status/2114240013504287023#m",
-      "date": "Sun, 25 Oct 2026 06:17:54 GMT",
-      "text_zh": "我喝醉了还送钱",
-      "tweet_id": "2114240013504287023",
-      "ctx_done": 1
-    },
-    {
-      "text": "paid $29 for a 10 minute / 2 mile Waymo ride tonight in an Ojai. ride quality was nauseating",
-      "link": "https://nitter.kareem.one/wholemars/status/2114236498698780863#m",
-      "date": "Sun, 25 Oct 2026 06:03:56 GMT",
-      "text_zh": "今晚支付 29 美元乘坐 Ojai 乘坐 Waymo 10 分钟/2 英里。乘坐质量令人作呕",
-      "tweet_id": "2114236498698780863",
-      "ctx_done": 1
-    },
-    {
-      "text": "In Texas, Tesla’s registered autonomous vehicle fleet is now 80% of the size of Waymo’s",
-      "link": "https://nitter.kareem.one/wholemars/status/2114223708751671801#m",
-      "date": "Sun, 25 Oct 2026 05:13:07 GMT",
-      "text_zh": "在德克萨斯州，特斯拉注册的自动驾驶车队规模目前是 Waymo 的 80%",
-      "tweet_id": "2114223708751671801",
-      "ctx_done": 1
-    },
-    {
-      "text": "Tesla is about to cross 1,000 autonomous vehicles registered in Texas alone\n\n\nWhole Mars FSD Database (@fsd_database)\n\n🚗 Tesla Robotaxi just registered 32 new 2026 Cybercabs with the Texas DMV — now 463 Cybercabs in its 970-vehicle TX fleet, with 43 registered in the last 24 hours. fsddb.com/robotaxi?operator=…\n\n\n\n— https://nitter.kareem.one/fsd_database/status/2114218324687303029#m",
-      "link": "https://nitter.kareem.one/wholemars/status/2114223388298461440#m",
-      "date": "Sun, 25 Oct 2026 05:11:50 GMT",
-      "text_zh": "仅在德克萨斯州注册的特斯拉自动驾驶汽车就将突破 1,000 辆\n\n\n整个火星 FSD 数据库 (@fsd_database)\n\n🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 32 辆新的 2026 年 Cybercab 车，目前其 970 辆车的 TX 车队中有 463 辆 Cybercabs，其中 43 辆是在过去 24 小时内注册的。 fsddb.com/robotaxi?operator=…\n\n\n\n— https://nitter.kareem.one/fsd_database/status/2114218324687303029#m",
-      "tweet_id": "2114223388298461440",
-      "quoted": {
-        "user": "fsd_database",
-        "text": "🚗 Tesla Robotaxi just registered 32 new 2026 Cybercabs with the Texas DMV — now 463 Cybercabs in its 970-vehicle TX fleet, with 43 registered in the last 24 hours. https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc",
-        "text_zh": "🚗 Tesla Robotaxi 刚刚向德克萨斯州 DMV 注册了 32 辆新的 2026 年 Cyber​​cab 车，目前其 970 辆车的 TX 车队中有 463 辆 Cyber​​cabs，其中 43 辆是在过去 24 小时内注册的。 https://www.fsddb.com/robotaxi?operator=tesla-robotaxi-llc"
-      },
-      "ctx_done": 1
-    },
-    {
-      "text": "you did an incredible job!\n\nthe glow with the car color is genius",
-      "link": "https://nitter.kareem.one/ethanmckanna/status/2114212465357525071#m",
-      "date": "Sun, 25 Oct 2026 04:28:26 GMT",
-      "text_zh": "你做得非常出色！\n\n与汽车颜色的辉光是天才",
-      "tweet_id": "2114212465357525071",
-      "reply_to": "w4ynesun",
-      "ctx_done": 1
-    },
-    {
-      "text": "Wild times\ngrok.com/share/bGVnYWN5_caa3…\n\nLink\n\n\n\nRecent Catastrophic Bugs Found by AI | Shared Grok Conversation\n\nTell me about recent catastrophic bugs found by AI\ngrok.com",
-      "link": "https://nitter.kareem.one/elonmusk/status/2114169506784260471#m",
-      "date": "Sun, 25 Oct 2026 01:37:44 GMT",
-      "text_zh": "狂野时代\ngrok.com/share/bGVnYWN5_caa3…\n\n链接\n\n\n\n人工智能最近发现的灾难性错误 |共享 Grok 对话\n\n告诉我人工智能最近发现的灾难性错误\n格罗克网站",
-      "tweet_id": "2114169506784260471",
-      "ctx_done": 1
-    },
-    {
-      "text": "I think we’re going to see a lot of stranded compute in partially complete data centers",
-      "link": "https://nitter.kareem.one/elonmusk/status/2114168277882581486#m",
-      "date": "Sun, 25 Oct 2026 01:32:51 GMT",
-      "text_zh": "我认为我们将在部分完整的数据中心中看到大量搁浅的计算",
-      "tweet_id": "2114168277882581486",
-      "reply_to": "Yuchenj_UW",
-      "ctx_done": 1
-    },
-    {
-      "text": "Top songs played in Teslas this week on @fsd_database",
-      "link": "https://nitter.kareem.one/wholemars/status/2114151196084887774#m",
-      "date": "Sun, 25 Oct 2026 00:24:58 GMT",
-      "text_zh": "本周特斯拉在 @fsd_database 上播放的热门歌曲",
-      "tweet_id": "2114151196084887774",
       "ctx_done": 1
     }
   ]
