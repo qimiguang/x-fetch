@@ -1,8 +1,520 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-25T19:08:27Z",
+  "updated_at": "2026-11-26T03:30:42Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "After 18 years of work, SpaceX launched NASA astronauts to orbit, the first crewed launch from American soil since the Space Shuttle retired in 2011. Elon could barely get the words out. https://t.co/7bXR3QEz5V",
+      "link": "https://x.com/teslaownersSV/status/2125785530210353475",
+      "date": "Thu Nov 26 02:55:40 +0000 2026",
+      "tweet_id": "2125785530210353475",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125785485587214336/vid/avc1/1920x1080/CFSICfcS8ZHWI_Tj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125785485587214336/img/--guxpni0iBJtdqe.jpg",
+          "local": "2125785530210353475_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125785485587214336/vid/avc1/1920x1080/CFSICfcS8ZHWI_Tj.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125785485587214336/img/--guxpni0iBJtdqe.jpg",
+          "local": "2125785530210353475_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "经过 18 年的努力，SpaceX 将 NASA 宇航员送入轨道，这是自 2011 年航天飞机退役以来首次在美国本土进行载人发射。埃隆几乎无法说出这句话。 https://t.co/7bXR3QEz5V"
+    },
+    {
+      "text": "Tesla is getting the Supercharger network ready for Thanksgiving travel.\n1,027 new stalls across 91 sites opened in the last 56 days, about 18 new stalls a day in the U.S. alone. 29 mobile stalls are deployed for added travel capacity, uptime and service dispatch are up through https://t.co/OG0mEC5eDZ",
+      "link": "https://x.com/teslaownersSV/status/2125784861311177174",
+      "date": "Thu Nov 26 02:53:00 +0000 2026",
+      "tweet_id": "2125784861311177174",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125784805753466880/vid/avc1/1920x1080/aYVg72rknCmfvyNo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125784805753466880/img/aKHXiUuKeZ4c5R-f.jpg",
+          "local": "2125784861311177174_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125784805753466880/vid/avc1/1920x1080/aYVg72rknCmfvyNo.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125784805753466880/img/aKHXiUuKeZ4c5R-f.jpg",
+          "local": "2125784861311177174_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉正在为感恩节旅行准备超级充电网络。\n过去 56 天内，91 个地点开设了 1,027 个新摊位，仅在美国每天就有约 18 个新摊位开业。部署了 29 个移动摊位，以增加出行能力、正常运行时间并通过 https://t.co/OG0mEC5eDZ 提高服务调度"
+    },
+    {
+      "text": "Who's getting their first FSD ride from you this Thanksgiving? \n\nShare yours.",
+      "link": "https://x.com/teslaownersSV/status/2125781421575094564",
+      "date": "Thu Nov 26 02:39:20 +0000 2026",
+      "tweet_id": "2125781421575094564",
+      "ctx_done": 1,
+      "text_zh": "今年感恩节，谁将第一次从您那里乘坐 FSD？ \n\n分享你的。"
+    },
+    {
+      "text": "Starlink at Home Depot https://t.co/05RwXiqAsu",
+      "link": "https://x.com/teslaownersSV/status/2125768263892423070",
+      "date": "Thu Nov 26 01:47:03 +0000 2026",
+      "tweet_id": "2125768263892423070",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYA--CyaUAARJmM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYA--CyaUAARJmM.jpg?format=jpg&name=large",
+          "local": "2125768263892423070_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYA--CoaQAAZ2Pt.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYA--CoaQAAZ2Pt.jpg?format=jpg&name=large",
+          "local": "2125768263892423070_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYA--CyaUAARJmM.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYA--CyaUAARJmM.jpg?format=jpg&name=large",
+          "local": "2125768263892423070_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYA--CoaQAAZ2Pt.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYA--CoaQAAZ2Pt.jpg?format=jpg&name=large",
+          "local": "2125768263892423070_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "家得宝的 Starlink https://t.co/05RwXiqAsu"
+    },
+    {
+      "text": "The hardest part of chemo isn't the needle. It's sitting beside the one you love while she carries what you'd give anything to carry for her.",
+      "link": "https://x.com/teslaownersSV/status/2125768193776251209",
+      "date": "Thu Nov 26 01:46:46 +0000 2026",
+      "tweet_id": "2125768193776251209",
+      "ctx_done": 1,
+      "text_zh": "化疗最难的部分不是针头。它就坐在你所爱的人旁边，而她则拿着你愿意为她携带的东西。"
+    },
+    {
+      "text": "Former NASA astronaut and SpaceX veteran Garrett Reisman on @elonmusk : \"He's really the most driven person I think I've ever met.\" https://t.co/E0DJJ7KWSh",
+      "link": "https://x.com/teslaownersSV/status/2125763986465632418",
+      "date": "Thu Nov 26 01:30:03 +0000 2026",
+      "tweet_id": "2125763986465632418",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125763869431988225/vid/avc1/1920x1080/GrJ7B04jUe3cwC40.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125763869431988225/img/-DZjZ-hDoXiDzk6A.jpg",
+          "local": "2125763986465632418_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125763869431988225/vid/avc1/1920x1080/GrJ7B04jUe3cwC40.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125763869431988225/img/-DZjZ-hDoXiDzk6A.jpg",
+          "local": "2125763986465632418_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "前 NASA 宇航员、SpaceX 资深人士 Garrett Reisman 在@elonmusk 上表示：“他确实是我见过的最有动力的人。” https://t.co/E0DJJ7KWSh"
+    },
+    {
+      "text": "JUST IN: The Boring Company shows 2.3 miles of new twin tunnels under Las Vegas, from the Westgate Resort to across from UNLV's Thomas &amp; Mack Center, with a link on to the airport.\n\nWhen these tunnels open to the public, 14 more Loop stations open with them.",
+      "link": "https://x.com/teslaownersSV/status/2125746058336882760",
+      "date": "Thu Nov 26 00:18:49 +0000 2026",
+      "tweet_id": "2125746058336882760",
+      "quoted": {
+        "user": "boringcompany",
+        "text": "2.3 miles through Las Vegas, starting at the Westgate Resort and ending across from UNLV’s Thomas &amp; Mack Center (and then to Airport). When these twin tunnels open to the public, 14 additional Loop stations open too. https://t.co/n4L5uyBWjQ",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2125742464157765632/vid/avc1/1280x720/00GDMB8HMBoy31PQ.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125742464157765632/img/AhNbOsQ3Xhta-m4h.jpg",
+            "local": "2125746058336882760q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2125742464157765632/vid/avc1/1280x720/00GDMB8HMBoy31PQ.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125742464157765632/img/AhNbOsQ3Xhta-m4h.jpg",
+            "local": "2125746058336882760q_1.jpg"
+          }
+        ],
+        "text_zh": "穿过拉斯维加斯 2.3 英里，从 Westgate Resort 出发，到 UNLV 的 Thomas & Mack 中心对面结束（然后到达机场）。当这些双隧道向公众开放时，另外 14 个环路车站也会开放。 https://t.co/n4L5uyBWjQ"
+      },
+      "ctx_done": 1,
+      "text_zh": "上一篇：The Boring Company 展示了拉斯维加斯地下 2.3 英里的新双隧道，从 Westgate Resort 到 UNLV 的 Thomas & Mack 中心对面，并连接到机场。\n\n当这些隧道向公众开放时，另外 14 个环路车站也会随之开放。"
+    },
+    {
+      "text": "2.3 miles through Las Vegas, starting at the Westgate Resort and ending across from UNLV’s Thomas &amp; Mack Center (and then to Airport). When these twin tunnels open to the public, 14 additional Loop stations open too. https://t.co/n4L5uyBWjQ",
+      "link": "https://x.com/boringcompany/status/2125742541253300563",
+      "date": "Thu Nov 26 00:04:50 +0000 2026",
+      "tweet_id": "2125742541253300563",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125742464157765632/vid/avc1/1280x720/00GDMB8HMBoy31PQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125742464157765632/img/AhNbOsQ3Xhta-m4h.jpg",
+          "local": "2125742541253300563_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125742464157765632/vid/avc1/1280x720/00GDMB8HMBoy31PQ.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125742464157765632/img/AhNbOsQ3Xhta-m4h.jpg",
+          "local": "2125742541253300563_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "穿过拉斯维加斯 2.3 英里，从 Westgate Resort 出发，到 UNLV 的 Thomas & Mack 中心对面结束（然后到达机场）。当这些双隧道向公众开放时，另外 14 个环路车站也会开放。 https://t.co/n4L5uyBWjQ"
+    },
+    {
+      "text": "Elon says the real point of building Starship is to give people confidence that humanity has an exciting future in space.\n\n\"I hope this gives people confidence about the future and that humanity will have an exciting future in space, and we can make science fiction, not always https://t.co/g7EyxYJQwz",
+      "link": "https://x.com/teslaownersSV/status/2125741710601019668",
+      "date": "Thu Nov 26 00:01:32 +0000 2026",
+      "tweet_id": "2125741710601019668",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125741680574013440/vid/avc1/1920x1080/fYzZSzW_IGT-L3cX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125741680574013440/img/0jmvDeBVUXElXB2r.jpg",
+          "local": "2125741710601019668_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125741680574013440/vid/avc1/1920x1080/fYzZSzW_IGT-L3cX.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125741680574013440/img/0jmvDeBVUXElXB2r.jpg",
+          "local": "2125741710601019668_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆表示，建造星际飞船的真正目的是让人们相信人类在太空中拥有令人兴奋的未来。\n\n“我希望这能让人们对未来充满信心，人类将在太空中拥有令人兴奋的未来，我们可以创作科幻小说，但并不总是这样 https://t.co/g7EyxYJQwz"
+    },
+    {
+      "text": "How it started vs. how it's going.\n\nNeuralink just received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US. It builds on 30+ participants to date, and people with ALS may be eligible.\n\nSource: Neuralink https://t.co/xrWsyIknbw",
+      "link": "https://x.com/teslaownersSV/status/2125741432376049784",
+      "date": "Thu Nov 26 00:00:26 +0000 2026",
+      "tweet_id": "2125741432376049784",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125741415057768448/vid/avc1/1080x1350/LJslMYDxAxVNqCM-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125741415057768448/img/Oe_56hi7InTihMkb.jpg",
+          "local": "2125741432376049784_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125741415057768448/vid/avc1/1080x1350/LJslMYDxAxVNqCM-.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125741415057768448/img/Oe_56hi7InTihMkb.jpg",
+          "local": "2125741432376049784_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "它是如何开始的与它是如何进行的。\n\nNeuralink 刚刚获得 FDA 批准推出 LINK，这是美国首个植入式脑机接口的关键试验。迄今为止，已有 30 多名参与者参加，患有 ALS 的人可能有资格。\n\n来源：Neuralink https://t.co/xrWsyIknbw"
+    },
+    {
+      "text": "RT @TesLatino: New video: The red landscape of Moab in the @Cybertruck from a few months ago. I want to go back ASAP.\n\nSpecial thanks to @T…",
+      "link": "https://x.com/teslaownersSV/status/2125738517682929984",
+      "date": "Wed Nov 25 23:48:51 +0000 2026",
+      "tweet_id": "2125738517682929984",
+      "ctx_done": 1,
+      "text_zh": "RT @TesLatino：新视频：几个月前 @Cyber​​truck 中摩押的红色景观。我想尽快回去。\n\n特别感谢@T..."
+    },
+    {
+      "text": "New video: The red landscape of Moab in the @Cybertruck from a few months ago. I want to go back ASAP.\n\nSpecial thanks to @TeslaOwnersSV and @ChrisJonesLee for being 2026 Gold Sponsors of the channel and to all that in one way or another are active friends and supporters. https://t.co/l7gBiAa3N5",
+      "link": "https://x.com/TesLatino/status/2125735953880809758",
+      "date": "Wed Nov 25 23:38:40 +0000 2026",
+      "tweet_id": "2125735953880809758",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125729383050600448/vid/avc1/3840x2160/VZ499090sVJVFJn6.mp4",
+          "thumb": "https://pbs.twimg.com/media/HYAfxm6XkAAzJWJ.jpg",
+          "local": "2125735953880809758_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125729383050600448/vid/avc1/3840x2160/VZ499090sVJVFJn6.mp4",
+          "thumb": "https://pbs.twimg.com/media/HYAfxm6XkAAzJWJ.jpg",
+          "local": "2125735953880809758_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新视频：几个月前 @Cyber​​truck 中摩押的红色景观。我想尽快回去。\n\n特别感谢 @TeslaOwnersSV 和 @ChrisJonesLee 成为该频道 2026 年的金牌赞助商，并感谢所有以这种或那种方式活跃的朋友和支持者。 https://t.co/l7gBiAa3N5"
+    },
+    {
+      "text": "Over a decade of @elonmusk reminding us there's a giant fusion reactor in the sky that shows up every day. https://t.co/0aPRx0biPc",
+      "link": "https://x.com/teslaownersSV/status/2125734646671647024",
+      "date": "Wed Nov 25 23:33:28 +0000 2026",
+      "tweet_id": "2125734646671647024",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125734610642608128/vid/avc1/1080x1920/WFrs2ayijdP-FUN_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125734610642608128/img/bZPAczpId0Ki1KW9.jpg",
+          "local": "2125734646671647024_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125734610642608128/vid/avc1/1080x1920/WFrs2ayijdP-FUN_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125734610642608128/img/bZPAczpId0Ki1KW9.jpg",
+          "local": "2125734646671647024_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "十多年来，@elonmusk 一直在提醒我们，天空中每天都会出现一个巨大的聚变反应堆。 https://t.co/0aPRx0biPc"
+    },
+    {
+      "text": "Starlink Mini speeds in my Cybertruck https://t.co/i9uw0uuRLn",
+      "link": "https://x.com/teslaownersSV/status/2125714599718879356",
+      "date": "Wed Nov 25 22:13:49 +0000 2026",
+      "tweet_id": "2125714599718879356",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYAOKcPakAAoqFX.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYAOKcPakAAoqFX.jpg?format=jpg&name=large",
+          "local": "2125714599718879356_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYAOKcPakAAoqFX.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYAOKcPakAAoqFX.jpg?format=jpg&name=large",
+          "local": "2125714599718879356_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "我的 Cyber​​truck 中的 Starlink Mini 速度 https://t.co/i9uw0uuRLn"
+    },
+    {
+      "text": "BREAKING: Neuralink just received FDA approval to launch LINK, the first pivotal trial of an implantable brain-computer interface in the US.\n\nIt builds on Neuralink's work with more than 30 participants so far, and people with ALS may be eligible.\n\nFrom a handful of patients to a https://t.co/dNdEdLl54V",
+      "link": "https://x.com/teslaownersSV/status/2125701068223062039",
+      "date": "Wed Nov 25 21:20:02 +0000 2026",
+      "tweet_id": "2125701068223062039",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYAB2wbboAA2dIB.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYAB2wbboAA2dIB.jpg?format=jpg&name=large",
+          "local": "2125701068223062039_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYAB2wbboAA2dIB.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYAB2wbboAA2dIB.jpg?format=jpg&name=large",
+          "local": "2125701068223062039_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "shivon",
+        "text": "Exciting times!",
+        "text_zh": "激动人心的时刻！"
+      },
+      "ctx_done": 1,
+      "text_zh": "突发新闻：Neuralink 刚刚获得 FDA 批准推出 LINK，这是美国首个植入式脑机接口的关键试验。\n\n它建立在 Neuralink 迄今为止与 30 多名参与者合作的基础上，患有 ALS 的人可能有资格。\n\n从少数患者到 https://t.co/dNdEdLl54V"
+    },
+    {
+      "text": "RT @shivon: Exciting times!",
+      "link": "https://x.com/teslaownersSV/status/2125697941776285866",
+      "date": "Wed Nov 25 21:07:37 +0000 2026",
+      "tweet_id": "2125697941776285866",
+      "quoted": {
+        "user": "neuralink",
+        "text": "We’ve received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US. This builds off of our work with 30+ participants with Neuralink to date.\n\nThose with ALS may be eligible. To learn more:\nhttps://neuralink.com/trials/device-control/",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125690361817214976/img/hEUPROS-0gMSg35v.jpg",
+            "local": "2125697941776285866q_0.jpg"
+          }
+        ],
+        "text_zh": "我们已获得 FDA 批准推出 LINK，这是美国首个植入式脑机接口的关键试验。这是我们迄今为止与 Neuralink 的 30 多名参与者合作的基础。\n\n患有 ALS 的人可能符合资格。要了解更多信息：\nhttps://neuralink.com/Trials/device-control/"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @shivon：激动人心的时刻！"
+    },
+    {
+      "text": "Exciting times!",
+      "link": "https://x.com/shivon/status/2125696181594460610",
+      "date": "Wed Nov 25 21:00:37 +0000 2026",
+      "tweet_id": "2125696181594460610",
+      "quoted": {
+        "user": "neuralink",
+        "text": "We’ve received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US. This builds off of our work with 30+ participants with Neuralink to date.\n\nThose with ALS may be eligible. To learn more:\nhttps://neuralink.com/trials/device-control/",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125690361817214976/img/hEUPROS-0gMSg35v.jpg",
+            "local": "2125696181594460610q_0.jpg"
+          }
+        ],
+        "text_zh": "我们已获得 FDA 批准推出 LINK，这是美国首个植入式脑机接口的关键试验。这是我们迄今为止与 Neuralink 的 30 多名参与者合作的基础。\n\n患有 ALS 的人可能符合资格。要了解更多信息：\nhttps://neuralink.com/Trials/device-control/"
+      },
+      "ctx_done": 1,
+      "text_zh": "激动人心的时刻！"
+    },
+    {
+      "text": "Elon Musk on earning money with your Tesla: \"The revenue made by the owner of the car will far exceed the actual monthly payment.\" https://t.co/Q7iAJ561iN",
+      "link": "https://x.com/teslaownersSV/status/2125676768506102133",
+      "date": "Wed Nov 25 19:43:29 +0000 2026",
+      "tweet_id": "2125676768506102133",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125676674885038080/vid/avc1/1920x1080/roov1TNq3IKTWHja.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125676674885038080/img/Nf1Djanb3zrN_Fud.jpg",
+          "local": "2125676768506102133_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125676674885038080/vid/avc1/1920x1080/roov1TNq3IKTWHja.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125676674885038080/img/Nf1Djanb3zrN_Fud.jpg",
+          "local": "2125676768506102133_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克谈用特斯拉赚钱：“车主获得的收入将远远超过每月实际支付的金额。” https://t.co/Q7iAJ561iN"
+    },
+    {
+      "text": "RT @elonmusk: Thanks Ron ❤️\n\nMy greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink an…",
+      "link": "https://x.com/teslaownersSV/status/2125676134285394171",
+      "date": "Wed Nov 25 19:40:58 +0000 2026",
+      "tweet_id": "2125676134285394171",
+      "quoted": {
+        "user": "RonBaronAnalyst",
+        "text": "“Watching Elon engineer is like watching Michael Jordan play basketball…”  - SpaceX Director. October 2026\n\nThat was a response to my question \"Is Elon really an incredible engineer?\"  from a SpaceX Director in a recent conversation with me.  So not only is @elonmusk a super engineer...physicist...and future imaginer...he's also an exceptionally well-prepared entrepreneur.  Which means he can take advantage of financial market disruptions like those now taking place.  To the great benefit of @SpaceX and @Tesla.\n\nData centers built by others cost on average $60 billion for a gigawatt...take 30 months on average to open...and when they do are often plagued with initial operating problems.  So called neocloud providers build and rent such projects under long-term leases for about $12 billion per year.  Unfortunately for them, while demand for super intelligence enabled by data centers is growing exponentially, debt financing for such projects is currently very difficult to obtain.  As are advanced chips.\n\nSpaceX on the other hand has a fortress balance sheet...is able to complete such engineering complex projects and turn them on in less than eight months...for we estimate $35 billion....and rent them to hyper scalers and its largest customer @Anthropic under renewable leases for six months or longer for more than $50 billion annually!!!!!  This is due to enormous SI demand which seems to be growing exponentially.  Zowie!!!!  Means they earn their entire data center investment in eight months!!!!\n\nOh yeah.  Almost forgot.  Unlike neoclouds with fragile balance sheets which are now having a difficult time accessing financing as contract builders, SpaceX is a vertical developer.   In addition to strong demand at present for its data centers from others, the data centers it is building and renting at present to others, will soon be used by its Grok Super Intelligence unit.  Grok with a much later start is rapidly catching up to competitor/customer Anthropic. SpaceX data centers will also be in high demand from Tesla's FSD cars and Optimus robots.  Anthropic is the leader in coding digital ai.  We believe Grok will be the leader in physical ai due to its engineering expertise in materials, cars, rockets, robots and material science.\n\nOne more thing.  I am in Palm Beach today and just picked up my new Premium Model Y L.  The office manager told me he has 48 cars scheduled for delivery today.  Yesterday he delivered 36.  Last year the day before Thanksgiving he delivered 4!  Told me everyone is buying the car for FSD!!!!  Just sayin...\n\n--\n\nInformation and services provided on independent websites are not reviewed, guaranteed by or endorsed by Baron Capital or its affiliates. Please be aware that this independent website’s terms and conditions and other legal information may be different than those of Baron Capital’s website. Baron Capital is not liable for the content appearing on it, or for technical or systems issues arising from the use of this independent website.\n\nInvestors should consider the investment objectives, risks, charges, and expenses of the Fund carefully before investing. The prospectus and summary prospectus contain this and other information about the Fund and can be obtained from the Fund's distributor, Baron Capital, Inc., by calling 1-800-99-BARON or visiting http://BaronCapitalGroup.com. Please read them carefully before investing.\n\nRisks: All investments are subject to risk and may lose value.\n\nThe discussion of market trends is not intended as advice to any person regarding the advisability of investing in any particular security. The views expressed in this document reflect those of the respective writer. Some of our comments are based on management expectations and are considered “forward-looking statements.” Actual future results, however, may prove to be different from our expectations. Our views are a reflection of our best judgment at the time and are subject to change at any time based on market and other conditions and Baron has no obligation to update them.\n\nPortfolio holdings as a percentage of net assets as of September 30, 2026 for securities mentioned are as follows: Tesla, Inc. - Baron Fifth Avenue Growth Fund (3.1%), Baron Focused Growth Fund (5.7%), Baron Global Opportunity Fund (1.3%), Baron Opportunity Fund (3.9%), Baron Partners Fund (13.4%*), Baron Technology ETF (3.1%), Baron First Principles ETF (8.6%), Baron Risk Optimized Large Cap ETF (1.8%); Space Exploration Technologies Corp. - Baron Asset Fund (30.5%), Baron Emerging Markets Fund (0.7%), Baron Fifth Avenue Growth Fund (8.6%), Baron Focused Growth Fund (27.4%), Baron Global Opportunity Fund (16.8%), Baron International Growth Fund (0.7%), Baron Opportunity Fund (16.4%), Baron Partners Fund (32.6%*), Baron Technology ETF (6.4%), Baron First Principles ETF (40.7%), Baron Risk Optimized Large Cap ETF (3.7%).\n\n*% of Long Positions\n\nAs of September 30, 2026, the Funds did not hold shares of Anthropic PBC.\n\nPortfolio holdings are subject to change. Current and future portfolio holdings are subject to risk.\n\nBAMCO, Inc. is an investment adviser registered with the U.S. Securities and Exchange Commission (SEC). Baron Capital, Inc. is a broker-dealer registered with the SEC and member of the Financial Industry Regulatory Authority, Inc. (FINRA).\n\n© 2026 Baron Capital. All rights reserved.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX_jKtNXgAA3P7j.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HX_jKtNXgAA3P7j.jpg?name=orig",
+            "local": "2125676134285394171q_0.jpg"
+          }
+        ],
+        "text_zh": "“观看埃隆工程师就像观看迈克尔·乔丹打篮球......”- SpaceX 总监。 2026 年 10 月\n\n这是对我的问题“Elon 真的是一位令人难以置信的工程师吗？”的回答。  一位 SpaceX 董事最近与我交谈时说道。  因此，@elonmusk 不仅是一位超级工程师……物理学家……和未来的想象家……他还是一位准备充分的企业家。  这意味着他可以利用像现在这样的金融市场混乱。  这对@SpaceX 和@Tesla 来说是巨大的好处。\n\n其他人建造的数据中心每千兆瓦的平均成本为 600 亿美元……平均需要 30 个月才能投入使用……而当它们投入使用时，往往会遇到初始运营问题。  所谓的 Neocloud 提供商每年以约 120 亿美元的价格建造和租赁此类项目。  对他们来说不幸的是，虽然对数据中心支持的超级智能的需求呈指数级增长，但此类项目目前很难获得债务融资。  先进的芯片也是如此。\n\n另一方面，SpaceX 拥有堡垒式的资产负债表……能够完成此类复杂的工程项目，并在不到八个月的时间内启动它们……我们估计价值 350 亿美元……并根据可再生租赁将其出租给超大规模企业及其最大客户@Anthropic，为期六个月或更长时间，每年费用超过 500 亿美元！  这是由于巨大的 SI 需求似乎呈指数级增长。  佐维！！！  意味着他们在八个月内赚回了全部数据中心投资！！！！\n\n哦，是的。  差点忘了。  与资产负债表脆弱的 Neocloud 不同，SpaceX 是一家垂直开发商，目前它们作为合同建造者很难获得融资。   除了目前其他公司对其数据中心的强劲需求外，目前正在建设并出租给其他公司的数据中心很快将被其Grok超级智能部门使用。  Grok 起步较晚，但正在迅速赶上竞争对手/客户 Anthropic。特斯拉的 FSD 汽车和 Optimus 机器人也对 SpaceX 数据中心有很高的需求。  Anthropic 是数字人工智能编码领域的领导者。  我们相信，由于 Grok 在材料、汽车、火箭、机器人和材料科学方面的工程专业知识，Grok 将成为物理人工智能领域的领导者。\n\n还有一件事。  我今天在棕榈滩，刚刚收到了我的新高级 Model Y L。办公室经理告诉我，他今天计划交付 48 辆汽车。  昨天他交付了 36 个。去年感恩节前一天他交付了 4 个！  告诉我大家买车都是为了FSD！！！！  就说...\n\n--\n\n独立网站上提供的信息和服务未经Baron Capital或其附属公司审查、保证或认可。请注意，该独立网站的条款和条件以及其他法律信息可能与 Baron Capital 网站的不同。 Baron Capital 对其出现的内容或因使用本独立网站而产生的技术或系统问题不承担任何责任。\n\n投资者在投资前应仔细考虑基金的投资目标、风险、费用和开支。招股说明书和招股说明书摘要包含有关基金的信息和其他信息，可通过致电 1-800-99-BARON 或访问 http://BaronCapitalGroup.com 从基金分销商 Baron Capital, Inc. 获取。请在投资前仔细阅读。\n\n风险：所有投资均面临风险并可能损失价值。\n对市场趋势的讨论无意为任何人提供有关投资任何特定证券的建议。本文件中表达的观点反映了各自作者的观点。我们的一些评论基于管理层的预期，被视为“前瞻性陈述”。然而，未来的实际结果可能与我们的预期有所不同。我们的观点反映了我们当时的最佳判断，并可能根据市场和其他条件随时发生变化，Baron 没有义务更新它们。\n\n截至 2026 年 9 月 30 日，上述证券的投资组合持有量占净资产的百分比如下： Tesla, Inc. - Baron Fifth Avenue Growth Fund (3.1%)、Baron Focused Growth Fund (5.7%)、Baron Global Opportunity Fund (1.3%)、Baron Opportunity Fund (3.9%)、Baron Partners Fund (13.4%*)、Baron Technology ETF (3.1%)、Baron第一原则 ETF (8.6%)、Baron 风险优化大盘 ETF (1.8%)； Space Exploration Technologies Corp. - Baron Asset Fund (30.5%)、Baron Emerging Markets Fund (0.7%)、Baron Fifth Avenue Growth Fund (8.6%)、Baron Focused Growth Fund (27.4%)、Baron Global Opportunity Fund (16.8%)、Baron International Growth Fund (0.7%)、Baron Opportunity Fund (16.4%)、Baron Partners Fund (32.6%*)、Baron 科技 ETF (6.4%)、Baron 第一原则 ETF (40.7%)、Baron 风险优化大盘 ETF (3.7%)。\n\n* 多头头寸百分比\n\n截至2026年9月30日，本基金未持有Anthropic PBC股份。\n\n投资组合持股可能会发生变化。当前和未来的投资组合持有面临风险。\n\nBAMCO, Inc. 是一家在美国证券交易委员会 (SEC) 注册的投资顾问公司。 Baron Capital, Inc. 是一家在美国证券交易委员会 (SEC) 注册的经纪交易商，也是美国金融业监管局 (FINRA) 的成员。\n\n© 2026 巴伦资本。版权所有。"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @elonmusk：谢谢罗恩❤️\n\n我最大的荣幸是能够与 SpaceX、Tesla、Neuralink 等公司的才华横溢的人们一起工作……"
+    },
+    {
+      "text": "Thanks Ron ❤️\n\nMy greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing.",
+      "link": "https://x.com/elonmusk/status/2125670205456257409",
+      "date": "Wed Nov 25 19:17:24 +0000 2026",
+      "tweet_id": "2125670205456257409",
+      "quoted": {
+        "user": "RonBaronAnalyst",
+        "text": "“Watching Elon engineer is like watching Michael Jordan play basketball…”  - SpaceX Director. October 2026\n\nThat was a response to my question \"Is Elon really an incredible engineer?\"  from a SpaceX Director in a recent conversation with me.  So not only is @elonmusk a super engineer...physicist...and future imaginer...he's also an exceptionally well-prepared entrepreneur.  Which means he can take advantage of financial market disruptions like those now taking place.  To the great benefit of @SpaceX and @Tesla.\n\nData centers built by others cost on average $60 billion for a gigawatt...take 30 months on average to open...and when they do are often plagued with initial operating problems.  So called neocloud providers build and rent such projects under long-term leases for about $12 billion per year.  Unfortunately for them, while demand for super intelligence enabled by data centers is growing exponentially, debt financing for such projects is currently very difficult to obtain.  As are advanced chips.\n\nSpaceX on the other hand has a fortress balance sheet...is able to complete such engineering complex projects and turn them on in less than eight months...for we estimate $35 billion....and rent them to hyper scalers and its largest customer @Anthropic under renewable leases for six months or longer for more than $50 billion annually!!!!!  This is due to enormous SI demand which seems to be growing exponentially.  Zowie!!!!  Means they earn their entire data center investment in eight months!!!!\n\nOh yeah.  Almost forgot.  Unlike neoclouds with fragile balance sheets which are now having a difficult time accessing financing as contract builders, SpaceX is a vertical developer.   In addition to strong demand at present for its data centers from others, the data centers it is building and renting at present to others, will soon be used by its Grok Super Intelligence unit.  Grok with a much later start is rapidly catching up to competitor/customer Anthropic. SpaceX data centers will also be in high demand from Tesla's FSD cars and Optimus robots.  Anthropic is the leader in coding digital ai.  We believe Grok will be the leader in physical ai due to its engineering expertise in materials, cars, rockets, robots and material science.\n\nOne more thing.  I am in Palm Beach today and just picked up my new Premium Model Y L.  The office manager told me he has 48 cars scheduled for delivery today.  Yesterday he delivered 36.  Last year the day before Thanksgiving he delivered 4!  Told me everyone is buying the car for FSD!!!!  Just sayin...\n\n--\n\nInformation and services provided on independent websites are not reviewed, guaranteed by or endorsed by Baron Capital or its affiliates. Please be aware that this independent website’s terms and conditions and other legal information may be different than those of Baron Capital’s website. Baron Capital is not liable for the content appearing on it, or for technical or systems issues arising from the use of this independent website.\n\nInvestors should consider the investment objectives, risks, charges, and expenses of the Fund carefully before investing. The prospectus and summary prospectus contain this and other information about the Fund and can be obtained from the Fund's distributor, Baron Capital, Inc., by calling 1-800-99-BARON or visiting http://BaronCapitalGroup.com. Please read them carefully before investing.\n\nRisks: All investments are subject to risk and may lose value.\n\nThe discussion of market trends is not intended as advice to any person regarding the advisability of investing in any particular security. The views expressed in this document reflect those of the respective writer. Some of our comments are based on management expectations and are considered “forward-looking statements.” Actual future results, however, may prove to be different from our expectations. Our views are a reflection of our best judgment at the time and are subject to change at any time based on market and other conditions and Baron has no obligation to update them.\n\nPortfolio holdings as a percentage of net assets as of September 30, 2026 for securities mentioned are as follows: Tesla, Inc. - Baron Fifth Avenue Growth Fund (3.1%), Baron Focused Growth Fund (5.7%), Baron Global Opportunity Fund (1.3%), Baron Opportunity Fund (3.9%), Baron Partners Fund (13.4%*), Baron Technology ETF (3.1%), Baron First Principles ETF (8.6%), Baron Risk Optimized Large Cap ETF (1.8%); Space Exploration Technologies Corp. - Baron Asset Fund (30.5%), Baron Emerging Markets Fund (0.7%), Baron Fifth Avenue Growth Fund (8.6%), Baron Focused Growth Fund (27.4%), Baron Global Opportunity Fund (16.8%), Baron International Growth Fund (0.7%), Baron Opportunity Fund (16.4%), Baron Partners Fund (32.6%*), Baron Technology ETF (6.4%), Baron First Principles ETF (40.7%), Baron Risk Optimized Large Cap ETF (3.7%).\n\n*% of Long Positions\n\nAs of September 30, 2026, the Funds did not hold shares of Anthropic PBC.\n\nPortfolio holdings are subject to change. Current and future portfolio holdings are subject to risk.\n\nBAMCO, Inc. is an investment adviser registered with the U.S. Securities and Exchange Commission (SEC). Baron Capital, Inc. is a broker-dealer registered with the SEC and member of the Financial Industry Regulatory Authority, Inc. (FINRA).\n\n© 2026 Baron Capital. All rights reserved.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HX_jKtNXgAA3P7j.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HX_jKtNXgAA3P7j.jpg?name=orig",
+            "local": "2125670205456257409q_0.jpg"
+          }
+        ],
+        "text_zh": "“观看埃隆工程师就像观看迈克尔·乔丹打篮球......”- SpaceX 总监。 2026 年 10 月\n\n这是对我的问题“Elon 真的是一位令人难以置信的工程师吗？”的回答。  一位 SpaceX 董事最近与我交谈时说道。  因此，@elonmusk 不仅是一位超级工程师……物理学家……和未来的想象家……他还是一位准备充分的企业家。  这意味着他可以利用像现在这样的金融市场混乱。  这对@SpaceX 和@Tesla 来说是巨大的好处。\n\n其他人建造的数据中心每千兆瓦的平均成本为 600 亿美元……平均需要 30 个月才能投入使用……而当它们投入使用时，往往会遇到初始运营问题。  所谓的 Neocloud 提供商每年以约 120 亿美元的价格建造和租赁此类项目。  对他们来说不幸的是，虽然对数据中心支持的超级智能的需求呈指数级增长，但此类项目目前很难获得债务融资。  先进的芯片也是如此。\n\n另一方面，SpaceX 拥有堡垒式的资产负债表……能够完成此类复杂的工程项目，并在不到八个月的时间内启动它们……我们估计价值 350 亿美元……并根据可再生租赁将其出租给超大规模企业及其最大客户@Anthropic，为期六个月或更长时间，每年费用超过 500 亿美元！  这是由于巨大的 SI 需求似乎呈指数级增长。  佐维！！！  意味着他们在八个月内赚回了全部数据中心投资！！！！\n\n哦，是的。  差点忘了。  与资产负债表脆弱的 Neocloud 不同，SpaceX 是一家垂直开发商，目前它们作为合同建造者很难获得融资。   除了目前其他公司对其数据中心的强劲需求外，目前正在建设并出租给其他公司的数据中心很快将被其Grok超级智能部门使用。  Grok 起步较晚，但正在迅速赶上竞争对手/客户 Anthropic。特斯拉的 FSD 汽车和 Optimus 机器人也对 SpaceX 数据中心有很高的需求。  Anthropic 是数字人工智能编码领域的领导者。  我们相信，由于 Grok 在材料、汽车、火箭、机器人和材料科学方面的工程专业知识，Grok 将成为物理人工智能领域的领导者。\n\n还有一件事。  我今天在棕榈滩，刚刚收到了我的新高级 Model Y L。办公室经理告诉我，他今天计划交付 48 辆汽车。  昨天他交付了 36 个。去年感恩节前一天他交付了 4 个！  告诉我大家买车都是为了FSD！！！！  就说...\n\n--\n\n独立网站上提供的信息和服务未经Baron Capital或其附属公司审查、保证或认可。请注意，该独立网站的条款和条件以及其他法律信息可能与 Baron Capital 网站的不同。 Baron Capital 对其出现的内容或因使用本独立网站而产生的技术或系统问题不承担任何责任。\n\n投资者在投资前应仔细考虑基金的投资目标、风险、费用和开支。招股说明书和招股说明书摘要包含有关基金的信息和其他信息，可通过致电 1-800-99-BARON 或访问 http://BaronCapitalGroup.com 从基金分销商 Baron Capital, Inc. 获取。请在投资前仔细阅读。\n\n风险：所有投资均面临风险并可能损失价值。\n对市场趋势的讨论无意为任何人提供有关投资任何特定证券的建议。本文件中表达的观点反映了各自作者的观点。我们的一些评论基于管理层的预期，被视为“前瞻性陈述”。然而，未来的实际结果可能与我们的预期有所不同。我们的观点反映了我们当时的最佳判断，并可能根据市场和其他条件随时发生变化，Baron 没有义务更新它们。\n\n截至 2026 年 9 月 30 日，上述证券的投资组合持有量占净资产的百分比如下： Tesla, Inc. - Baron Fifth Avenue Growth Fund (3.1%)、Baron Focused Growth Fund (5.7%)、Baron Global Opportunity Fund (1.3%)、Baron Opportunity Fund (3.9%)、Baron Partners Fund (13.4%*)、Baron Technology ETF (3.1%)、Baron第一原则 ETF (8.6%)、Baron 风险优化大盘 ETF (1.8%)； Space Exploration Technologies Corp. - Baron Asset Fund (30.5%)、Baron Emerging Markets Fund (0.7%)、Baron Fifth Avenue Growth Fund (8.6%)、Baron Focused Growth Fund (27.4%)、Baron Global Opportunity Fund (16.8%)、Baron International Growth Fund (0.7%)、Baron Opportunity Fund (16.4%)、Baron Partners Fund (32.6%*)、Baron 科技 ETF (6.4%)、Baron 第一原则 ETF (40.7%)、Baron 风险优化大盘 ETF (3.7%)。\n\n* 多头头寸百分比\n\n截至2026年9月30日，本基金未持有Anthropic PBC股份。\n\n投资组合持股可能会发生变化。当前和未来的投资组合持有面临风险。\n\nBAMCO, Inc. 是一家在美国证券交易委员会 (SEC) 注册的投资顾问公司。 Baron Capital, Inc. 是一家在美国证券交易委员会 (SEC) 注册的经纪交易商，也是美国金融业监管局 (FINRA) 的成员。\n\n© 2026 巴伦资本。版权所有。"
+      },
+      "ctx_done": 1,
+      "text_zh": "谢谢罗恩❤️\n\n我最大的荣幸是能够与 SpaceX、Tesla、Neuralink 和 Boring Company 的才华横溢的员工一起工作，没有他们我将一事无成。"
+    },
+    {
+      "text": "RT @teslaownersSV: David Heinemeier Hansson on @elonmusk \n\n\"He doesn't have to go scour the earth to find the best people. The best people…",
+      "link": "https://x.com/teslaownersSV/status/2125669184256479693",
+      "date": "Wed Nov 25 19:13:21 +0000 2026",
+      "tweet_id": "2125669184256479693",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：David Heinemeier Hansson on @elonmusk \n\n“他不必走遍世界来寻找最好的人。最好的人......"
+    },
+    {
+      "text": "JUST IN: Tesla Robotaxi just expanded its Dallas service area to about 150 square miles, up from 82, per Tesla's updated service map.\n\nTesla says the expansion means more cars and lower prices for riders, just in time for Thanksgiving.\n\nDriverless rides keep spreading across https://t.co/oFNDUId9vW",
+      "link": "https://x.com/teslaownersSV/status/2125662701548605620",
+      "date": "Wed Nov 25 18:47:35 +0000 2026",
+      "tweet_id": "2125662701548605620",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX_e9jhasAATvpl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX_e9jhasAATvpl.jpg?format=jpg&name=large",
+          "local": "2125662701548605620_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX_e9jhasAATvpl.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX_e9jhasAATvpl.jpg?format=jpg&name=large",
+          "local": "2125662701548605620_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "最新消息：根据特斯拉更新的服务地图，特斯拉 Robotaxi 刚刚将其达拉斯服务区域从 82 平方英里扩大到约 150 平方英里。\n\n特斯拉表示，扩张意味着更多的汽车和更低的乘客价格，正好赶上感恩节。\n\n无人驾驶游乐设施不断蔓延 https://t.co/oFNDUId9vW"
+    },
+    {
+      "text": "Thank you @TeslaOwnersTwn https://t.co/ZKHTTXm5a5",
+      "link": "https://x.com/teslaownersSV/status/2125657206637179305",
+      "date": "Wed Nov 25 18:25:45 +0000 2026",
+      "tweet_id": "2125657206637179305",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125657070221537280/vid/avc1/2160x3840/k40ICmNzR_ppVQ_F.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125657070221537280/img/Zt9tMRR-wX7k3kCr.jpg",
+          "local": "2125657206637179305_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125657070221537280/vid/avc1/2160x3840/k40ICmNzR_ppVQ_F.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125657070221537280/img/Zt9tMRR-wX7k3kCr.jpg",
+          "local": "2125657206637179305_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "谢谢@TeslaOwnersTwn https://t.co/ZKHTTXm5a5"
+    },
+    {
+      "text": "“Any product that needs a manual to work is broken.”\n― Elon Musk https://t.co/wC9p1Fmaps",
+      "link": "https://x.com/teslaownersSV/status/2125654868694384894",
+      "date": "Wed Nov 25 18:16:28 +0000 2026",
+      "tweet_id": "2125654868694384894",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX_X0jjaoAAygim.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX_X0jjaoAAygim.jpg?format=jpg&name=large",
+          "local": "2125654868694384894_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HX_X0jjaoAAygim.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HX_X0jjaoAAygim.jpg?format=jpg&name=large",
+          "local": "2125654868694384894_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“任何需要手册才能工作的产品都是坏的。”\n——埃隆·马斯克 https://t.co/wC9p1Fmaps"
+    },
+    {
+      "text": "David Heinemeier Hansson on @elonmusk \n\n\"He doesn't have to go scour the earth to find the best people. The best people come to him.\" https://t.co/bHGhjZLWrl",
+      "link": "https://x.com/teslaownersSV/status/2125652927608222142",
+      "date": "Wed Nov 25 18:08:45 +0000 2026",
+      "tweet_id": "2125652927608222142",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125652834154893312/vid/avc1/1920x1080/KzJrlRkjdu2XizBt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125652834154893312/img/9SIhy4N-FUcesweM.jpg",
+          "local": "2125652927608222142_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125652834154893312/vid/avc1/1920x1080/KzJrlRkjdu2XizBt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125652834154893312/img/9SIhy4N-FUcesweM.jpg",
+          "local": "2125652927608222142_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "大卫·海涅迈尔·汉森@elonmusk \n\n“他不必走遍天下去寻找最优秀的人才。最优秀的人才会来找他。” https://t.co/bHGhjZLWrl"
+    },
     {
       "text": "Grok @bot is best Agentic tool I’ve ever used. Nothing compares.",
       "link": "https://x.com/teslaownersSV/status/2125463444824723908",
@@ -3820,467 +4332,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "我们需要 GTA 6 中的飞行汽车 @ElonMusk 拨打电话 😹 https://t.co/oAin8bEmFz"
-    },
-    {
-      "text": "\"The most productive human being (@elonmusk)  and visionary human being on Earth.\"\nCathie Wood https://t.co/rKULEkum7N",
-      "link": "https://x.com/teslaownersSV/status/2123841047562510610",
-      "date": "Fri Nov 20 18:08:59 +0000 2026",
-      "tweet_id": "2123841047562510610",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123840897209323520/vid/avc1/1920x1080/df0B8M-LAkWTMQG4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123840897209323520/img/7CCOo91PECTDPrfC.jpg",
-          "local": "2123841047562510610_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123840897209323520/vid/avc1/1920x1080/df0B8M-LAkWTMQG4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123840897209323520/img/7CCOo91PECTDPrfC.jpg",
-          "local": "2123841047562510610_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“地球上最有生产力的人类（@elonmusk）和最有远见的人类。”\n凯茜·伍德 https://t.co/rKULEkum7N"
-    },
-    {
-      "text": "RT @teslaownersSV: Cybercab Hits Dallas, Starship Caught &amp; Musk Says 'Probably' Better Together: Tesla Beat #170 w/ @futureaza @matthewdr @…",
-      "link": "https://x.com/teslaownersSV/status/2123813758355243221",
-      "date": "Fri Nov 20 16:20:33 +0000 2026",
-      "tweet_id": "2123813758355243221",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：Cyber​​cab 袭击达拉斯，星舰被抓，马斯克表示“可能”更好：Tesla Beat #170 w/ @futureaza @matthewdr @…"
-    },
-    {
-      "text": "Cybercab Hits Dallas, Starship Caught &amp; Musk Says 'Probably' Better Together: Tesla Beat #170 w/ @futureaza @matthewdr @sjvtesla https://t.co/cya1gMv1Jm",
-      "link": "https://x.com/teslaownersSV/status/2123808840726585586",
-      "date": "Fri Nov 20 16:01:00 +0000 2026",
-      "tweet_id": "2123808840726585586",
-      "ctx_done": 1,
-      "text_zh": "Cyber​​cab 袭击达拉斯，星舰被抓，马斯克表示“可能”更好：Tesla Beat #170 w/ @futureaza @matthewdr @sjvtesla https://t.co/cya1gMv1Jm"
-    },
-    {
-      "text": "NEWS: Lufthansa is accelerating Starlink installations to 10 aircraft per month as the Lufthansa Group targets around 850 equipped planes by 2029.\n\n- The rollout will bring high-speed satellite Wi-Fi to passengers across all group airlines and travel classes.\n- The first https://t.co/31kWiV5TAL",
-      "link": "https://x.com/teslaownersSV/status/2123796816324100451",
-      "date": "Fri Nov 20 15:13:13 +0000 2026",
-      "tweet_id": "2123796816324100451",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=large",
-          "local": "2123796816324100451_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXk98u1b0AA2E3A.jpg?format=jpg&name=large",
-          "local": "2123796816324100451_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：汉莎航空正在将 Starlink 的安装速度加快至每月 10 架飞机，汉莎航空集团的目标是到 2029 年安装约 850 架飞机。\n\n- 此次推出将为所有集团航空公司和旅行舱位的乘客提供高速卫星 Wi-Fi。\n- 第一个 https://t.co/31kWiV5TAL"
-    },
-    {
-      "text": "RT @Newsforce: THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP &amp; ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the…",
-      "link": "https://x.com/teslaownersSV/status/2123796597956059207",
-      "date": "Fri Nov 20 15:12:21 +0000 2026",
-      "tweet_id": "2123796597956059207",
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
-            "local": "2123796597956059207q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：堆栈：SPACEX 历史性的星舰捕获、NVIDIA 的领导层变动以及 ANTHROPIC 的大规模 IPO\n\n@SpaceX 破解了……"
-    },
-    {
-      "text": "From the Full Self-Driving (Supervised) early days, to the present. https://t.co/oBNJvAzFIW",
-      "link": "https://x.com/TesLatina/status/2123776083807854655",
-      "date": "Fri Nov 20 13:50:50 +0000 2026",
-      "tweet_id": "2123776083807854655",
-      "ctx_done": 1,
-      "text_zh": "从早期的全自动驾驶（有人监督）到现在。 https://t.co/oBNJvAzFIW"
-    },
-    {
-      "text": "JUST IN: Tesla's FSD (Supervised) is now approved in Italy, the 12th European country to approve it. Rollout begins soon.\n\nIn Europe the system is called Tesla Assisted Driving. Italy joins the Netherlands, Lithuania, Estonia, Denmark, Belgium, Slovenia, Czechia, Croatia, https://t.co/6KKHTDA7te",
-      "link": "https://x.com/teslaownersSV/status/2123767414596960732",
-      "date": "Fri Nov 20 13:16:23 +0000 2026",
-      "tweet_id": "2123767414596960732",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123767377582247936/vid/avc1/1920x1080/mHVF_fOxny7CFuiX.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123767377582247936/img/mDYRw3rakxggkDbS.jpg",
-          "local": "2123767414596960732_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123767377582247936/vid/avc1/1920x1080/mHVF_fOxny7CFuiX.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123767377582247936/img/mDYRw3rakxggkDbS.jpg",
-          "local": "2123767414596960732_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "最新消息：特斯拉的 FSD（受监管）现已在意大利获得批准，这是第 12 个获得批准的欧洲国家。即将开始推出。\n\n在欧洲，该系统被称为特斯拉辅助驾驶。意大利加入荷兰、立陶宛、爱沙尼亚、丹麦、比利时、斯洛文尼亚、捷克、克罗地亚的行列，https://t.co/6KKHTDA7te"
-    },
-    {
-      "text": "THE STACK: SPACEX'S HISTORIC STARSHIP CATCH, NVIDIA'S LEADERSHIP SHAKE-UP &amp; ANTHROPIC'S MASSIVE IPO\n\nHas @SpaceX cracked the secret to fully reusable rockets? Could @Tesla's $29,990 Cybercab change car ownership forever? And is @AnthropicAI preparing for one of the biggest IPOs https://t.co/wk2HGto0QF",
-      "link": "https://x.com/Newsforce/status/2123736704401989681",
-      "date": "Fri Nov 20 11:14:22 +0000 2026",
-      "tweet_id": "2123736704401989681",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123734578955239424/vid/avc1/1920x1080/hZ0MQm5-xhCENFeb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
-          "local": "2123736704401989681_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123734578955239424/vid/avc1/1920x1080/hZ0MQm5-xhCENFeb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123734578955239424/img/qWr9FspwYUzbMpTP.jpg",
-          "local": "2123736704401989681_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "Newsforce",
-        "text": "THE STACK: ANTHROPIC'S $1.4 TRILLION IPO, TESLA ROBOTAXIS & SPACEX'S NEXT BIG LEAP\n\nCould @Anthropic's massive IPO reshape Silicon Valley? Is @Tesla bringing fully autonomous driving closer to Europe? And could @SpaceX make history by catching both stages of Starship?\n\nJohn Stringer (@teslaownersSV) and Joseph Jefferson (@SjvTesla) break down the AI boom, Tesla's Cybertruck production extension, Robotaxi's 24/7 expansion, and @Google's latest Gemini model.\n\nFrom @Starlink's new portable Mini 2 to @NVIDIA's leadership shake-up, next-generation AI chips and Claude's latest innovations, how fast is the tech world changing?\n\n02:10 - Anthropic's $1.4 trillion IPO\n10:42 - Tesla FSD expands across Europe\n16:11 - Cybertruck production extended\n24:09 - Tesla Robotaxi goes 24/7\n27:23 - Google's Gemini 4 Carbon\n32:15 - SpaceX Starship Flight 15\n35:47 - Starlink Mini 2 unveiled\n41:53 - NVIDIA's leadership shake-up",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2121265033648693248/img/0oCT_Iz9KL58QZGf.jpg",
-            "local": "2123736704401989681q_0.jpg"
-          }
-        ],
-        "text_zh": "堆栈：Anthropic 的 1.4 万亿美元 IPO、特斯拉 ROBOTAXIS 和 SPACEX 的下一个大飞跃\n\n@Anthropic 的大规模 IPO 能否重塑硅谷？ @Tesla 是否会让全自动驾驶更接近欧洲？ @SpaceX 能否通过捕捉星际飞船的两个阶段来创造历史？\n\nJohn Stringer (@teslaownersSV) 和 Joseph Jefferson (@SjvTesla) 详细分析了人工智能热潮、特斯拉的 Cyber​​truck 生产扩展、Robotaxi 的 24/7 扩展以及 @Google 最新的 Gemini 模型。\n\n从 @Starlink 的新款便携式 Mini 2 到 @NVIDIA 的领导层换届、下一代 AI 芯片和 Claude 的最新创新，科技世界的变化有多快？\n\n02:10 - Anthropic 1.4万亿美元的IPO\n10:42 - 特斯拉 FSD 在欧洲扩张\n16:11 - Cybertruck 生产延长\n24:09 - Tesla Robotaxi 24/7 运行\n27:23 - 谷歌的 Gemini 4 Carbon\n32:15 - SpaceX 星舰 15 号航班\n35:47 - Starlink Mini 2 揭幕\n41:53 - NVIDIA 的领导层变动"
-      },
-      "ctx_done": 1,
-      "text_zh": "堆栈：Spacex 历史性的 Starship 捕获、NVIDIA 的领导层变动以及 Anthropic 的大规模 IPO\n\n@SpaceX 破解了完全可重复使用火箭的秘密吗？ @Tesla 售价 29,999 美元的 Cyber​​cab 能否永远改变汽车所有权？ @AnthropicAI 正在为最大的 IPO 之一做准备吗 https://t.co/wk2HGto0QF"
-    },
-    {
-      "text": "I was dreamin' that it was 2024",
-      "link": "https://x.com/teslaownersSV/status/2123684357244400035",
-      "date": "Fri Nov 20 07:46:21 +0000 2026",
-      "tweet_id": "2123684357244400035",
-      "ctx_done": 1,
-      "text_zh": "我梦见那是 2024 年"
-    },
-    {
-      "text": "JUST IN: The Giga Shanghai team built Elon a gift at the factory during his stop to thank Tesla's teams across Asia.\n\nA steel base traces the Giga Shanghai site over an engraved map of downtown Shanghai. The three skyline towers are 3D printed, and the Model 3 and Model Y were https://t.co/BIZyiRkh48",
-      "link": "https://x.com/teslaownersSV/status/2123683523156693060",
-      "date": "Fri Nov 20 07:43:02 +0000 2026",
-      "tweet_id": "2123683523156693060",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=large",
-          "local": "2123683523156693060_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=large",
-          "local": "2123683523156693060_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXjW49AbkAAKfkK.jpg?format=jpg&name=large",
-          "local": "2123683523156693060_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXjW49HbYAAjlbt.jpg?format=jpg&name=large",
-          "local": "2123683523156693060_3.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "上一篇：Giga 上海团队在 Elon 停留期间在工厂制作了一份礼物，以感谢特斯拉在亚洲各地的团队。\n\n一个钢制底座在上海市中心的雕刻地图上描绘了 Giga 上海的场地。三座天际线塔楼是 3D 打印的，Model 3 和 Model Y 是 https://t.co/BIZyiRkh48"
-    },
-    {
-      "text": "Jensen Huang on how @elonmusk  built Colossus at xAI: \"Elon is deep in so many different topics.\" https://t.co/hhGoB2zYTU",
-      "link": "https://x.com/teslaownersSV/status/2123683272970711170",
-      "date": "Fri Nov 20 07:42:03 +0000 2026",
-      "tweet_id": "2123683272970711170",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123683157237223424/vid/avc1/1920x1080/1OLhCWTsxP4V3GWP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123683157237223424/img/BukvgM6NeDXMVoqh.jpg",
-          "local": "2123683272970711170_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123683157237223424/vid/avc1/1920x1080/1OLhCWTsxP4V3GWP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123683157237223424/img/BukvgM6NeDXMVoqh.jpg",
-          "local": "2123683272970711170_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "黄仁勋 (Jensen Huang) 谈及 @elonmusk 如何在 xAI 打造 Colossus 时表示：“Elon 对许多不同的主题都有深入的了解。” https://t.co/hhGoB2zYTU"
-    },
-    {
-      "text": "That glowing bell is a rocket engine running in space.\n\nReal SpaceX footage from a Falcon second stage (May 2023): stage separation at sunset, the Merlin Vacuum engine lights, and its 2.7 m niobium alloy nozzle heats up until it glows. That nozzle has no coolant lines. It gets https://t.co/NIK5q7a2pJ",
-      "link": "https://x.com/teslaownersSV/status/2123682406079307867",
-      "date": "Fri Nov 20 07:38:36 +0000 2026",
-      "tweet_id": "2123682406079307867",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123682314467291136/vid/avc1/1920x1080/Ww9Jp1m83Gx8KXVW.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123682314467291136/img/RKR67DrsZT16nLMR.jpg",
-          "local": "2123682406079307867_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123682314467291136/vid/avc1/1920x1080/Ww9Jp1m83Gx8KXVW.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123682314467291136/img/RKR67DrsZT16nLMR.jpg",
-          "local": "2123682406079307867_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "那个发光的钟是在太空中运行的火箭发动机。\n\n猎鹰第二级的真实 SpaceX 镜头（2023 年 5 月）：日落时的级分离，Merlin 真空发动机亮起，其 2.7 m 铌合金喷嘴加热直至发光。该喷嘴没有冷却液管路。它得到 https://t.co/NIK5q7a2pJ"
-    },
-    {
-      "text": "Fourteen years of interviews, and it always comes back to the same thing. He loves humanity. @elonmusk https://t.co/VRA9Jt952e",
-      "link": "https://x.com/teslaownersSV/status/2123670399770841123",
-      "date": "Fri Nov 20 06:50:53 +0000 2026",
-      "tweet_id": "2123670399770841123",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123670374898618368/vid/avc1/1920x1080/QBrcnFxIEBHrQ_ka.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123670374898618368/img/powvmIEMqt1yaGMQ.jpg",
-          "local": "2123670399770841123_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123670374898618368/vid/avc1/1920x1080/QBrcnFxIEBHrQ_ka.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123670374898618368/img/powvmIEMqt1yaGMQ.jpg",
-          "local": "2123670399770841123_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "十四年的采访，总是回到同样的事情。他热爱人类。 @elonmusk https://t.co/VRA9Jt952e"
-    },
-    {
-      "text": "On this day in 2024: Starship Flight 6 flew with one payload on board. A stuffed banana.\n\nIt was also the first time Starship relit a Raptor engine in space, the burn it needs to come home from orbit.\n\nLast week, Flight 15 carried 26 Starlink V3 satellites to orbit.\n\nFrom 1 https://t.co/RdNIbCiyQf",
-      "link": "https://x.com/teslaownersSV/status/2123615333781278935",
-      "date": "Fri Nov 20 03:12:05 +0000 2026",
-      "tweet_id": "2123615333781278935",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123615284515024896/vid/avc1/1920x1080/LeKersnlyXdQLjBT.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615284515024896/img/bZdtng46GqYju3W2.jpg",
-          "local": "2123615333781278935_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123615284515024896/vid/avc1/1920x1080/LeKersnlyXdQLjBT.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615284515024896/img/bZdtng46GqYju3W2.jpg",
-          "local": "2123615333781278935_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2024 年的今天：星舰 6 号航班载有一个有效载荷飞行。一个酿香蕉。\n\n这也是星际飞船首次在太空中重新点燃猛禽发动机，这是它从轨道返回地球所需的燃烧量。\n\n上周，Flight 15 将 26 颗 Starlink V3 卫星送入轨道。\n\n从 1 https://t.co/RdNIbCiyQf"
-    },
-    {
-      "text": "RT @KelliBSloan63: Happy Birthday Beautiful.  My birthday was yesterday and I should have know that you are a fierce Scorpio woman.  Fighti…",
-      "link": "https://x.com/teslaownersSV/status/2123615235454235023",
-      "date": "Fri Nov 20 03:11:41 +0000 2026",
-      "tweet_id": "2123615235454235023",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "local": "2123615235454235023q_0.jpg"
-          }
-        ],
-        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我对你无限感激，我很自豪能成为你的丈夫。 \n\n今天的一切都是关于你的。我祈求神对你更加信实。我全心全意的爱你。 ❤️"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @KelliBSloan63：生日快乐，美丽。  昨天是我的生日，我应该知道你是一个凶猛的天蝎座女人。  战斗…"
-    },
-    {
-      "text": "Cybercab. Optimus. Semi. Megapack. Model Y. Model 3. A Roadster in space.\nAll real. All Tesla.\nTesla's own words for it: \"make the impossible possible.\"\nThe Tesla Annual Meeting is December 3. Which one are you most excited about? https://t.co/BNLZuGqk3H",
-      "link": "https://x.com/teslaownersSV/status/2123615108358340716",
-      "date": "Fri Nov 20 03:11:11 +0000 2026",
-      "tweet_id": "2123615108358340716",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123615073986039808/vid/avc1/1920x1080/M_ii31RANF-72BCM.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615073986039808/img/2ziOCeXYfx04op0D.jpg",
-          "local": "2123615108358340716_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123615073986039808/vid/avc1/1920x1080/M_ii31RANF-72BCM.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123615073986039808/img/2ziOCeXYfx04op0D.jpg",
-          "local": "2123615108358340716_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "网络出租车。擎天柱。半。巨型包装。 Model Y。Model 3。太空中的敞篷跑车。\n都是真实的。都是特斯拉。\n特斯拉自己的说法是：“让不可能成为可能”。\n特斯拉年会将于 12 月 3 日举行。您最兴奋哪一场？ https://t.co/BNLZuGqk3H"
-    },
-    {
-      "text": "Happy Birthday Beautiful.  My birthday was yesterday and I should have know that you are a fierce Scorpio woman.  Fighting hard and living harder is the way we live and you are a true warrior.  Much love sent your way today and everyday",
-      "link": "https://x.com/KelliBSloan63/status/2123605146223673680",
-      "date": "Fri Nov 20 02:31:36 +0000 2026",
-      "tweet_id": "2123605146223673680",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Happy birthday, Evelyn. You've met this year's hardest battle with grace, faith, and strength, and you've loved us through it all. \n\nThank you for being the heart of our family, for your tenderness, your sacrifice, and your love for our kids and for me. I'm endlessly grateful for you, and I'm so proud to be your husband. \n\nToday is all about you. I'm praying for many more years of God's faithfulness to you. I love you with all my heart. ❤️",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HXc5aVSawAASd7q.jpg?name=orig",
-            "local": "2123605146223673680q_0.jpg"
-          }
-        ],
-        "text_zh": "生日快乐，伊芙琳。你以恩典、信心和力量迎接了今年最艰难的战斗，并且你在这一切中都爱着我们。 \n\n感谢您成为我们家庭的核心，感谢您的温柔、您的牺牲以及您对我们的孩子和我的爱。我对你无限感激，我很自豪能成为你的丈夫。 \n\n今天的一切都是关于你的。我祈求神对你更加信实。我全心全意的爱你。 ❤️"
-      },
-      "ctx_done": 1,
-      "text_zh": "美丽生日快乐。  昨天是我的生日，我应该知道你是一个凶猛的天蝎座女人。  努力奋斗、努力生活是我们的生活方式，你是真正的战士。  今天和每一天都给你带来了很多爱"
-    },
-    {
-      "text": "Starship Cybertruck with Fall vibes https://t.co/XHtidiP1jE",
-      "link": "https://x.com/teslaownersSV/status/2123563680155762995",
-      "date": "Thu Nov 19 23:46:49 +0000 2026",
-      "tweet_id": "2123563680155762995",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=large",
-          "local": "2123563680155762995_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXhp6SnaIAAyrNW.jpg?format=jpg&name=large",
-          "local": "2123563680155762995_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "充满秋季气息的 Starship Cyber​​truck"
-    },
-    {
-      "text": "Elon got rich and never stopped working. Here's why, in his own words.\n\n\"There's a very small number of great software engineers. And a bunch of the ones that I know who are great got rich and stopped working.\"\n\n\"So I'm just like the weirdo who's like, I still work like a maniac https://t.co/WmWh5B3fwf",
-      "link": "https://x.com/teslaownersSV/status/2123563475079516623",
-      "date": "Thu Nov 19 23:46:01 +0000 2026",
-      "tweet_id": "2123563475079516623",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123563446663028736/vid/avc1/1920x1080/JDxBeMcetJV4lCJN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123563446663028736/img/3AGt0i_8Q7FE1mHU.jpg",
-          "local": "2123563475079516623_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2123563446663028736/vid/avc1/1920x1080/JDxBeMcetJV4lCJN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123563446663028736/img/3AGt0i_8Q7FE1mHU.jpg",
-          "local": "2123563475079516623_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆变得富有，但从未停止工作。用他自己的话说，这就是原因。\n\n“优秀的软件工程师数量非常少。我认识的很多优秀的软件工程师都变得富有并停止了工作。”\n\n“所以我就像一个怪人一样，我仍然像疯子一样工作，因为我就是这样。”\n\n他认识的很多有能力的人都处于半退休状态。埃隆仍在制造火箭、汽车和机器人。\n\n如果你再也不用工作了，你会做什么？\n\n@埃隆马斯克\n\n视频"
-    },
-    {
-      "text": "Driving round Miami feels like I’m literally in GTA 😂 https://t.co/EdfHUkVPCP",
-      "link": "https://x.com/teslaownersSV/status/2123562403048878141",
-      "date": "Thu Nov 19 23:41:45 +0000 2026",
-      "tweet_id": "2123562403048878141",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=large",
-          "local": "2123562403048878141_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXhowGrbQAAUgiV.jpg?format=jpg&name=large",
-          "local": "2123562403048878141_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "在迈阿密开车感觉就像真的在 GTA 😂"
-    },
-    {
-      "text": "@teslaownersSV https://t.co/502tqPJ0QM",
-      "link": "https://x.com/n0rminal/status/2123548747288150383",
-      "date": "Thu Nov 19 22:47:29 +0000 2026",
-      "tweet_id": "2123548747288150383",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=large",
-          "local": "2123548747288150383_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXhcUipXAAACrRO.jpg?format=jpg&name=large",
-          "local": "2123548747288150383_1.jpg"
-        }
-      ],
-      "reply_to": "teslaownersSV",
-      "ctx_done": 1,
-      "text_zh": "@teslaownersSV https://t.co/502tqPJ0QM"
-    },
-    {
-      "text": "RT @Newsforce: Starship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack https://t.co/TBPjQXqQj3",
-      "link": "https://x.com/teslaownersSV/status/2123540473688236238",
-      "date": "Thu Nov 19 22:14:37 +0000 2026",
-      "tweet_id": "2123540473688236238",
-      "ctx_done": 1,
-      "text_zh": "RT @Newsforce：Starship、NVIDIA、Grok、Cyber​​cab 和最新技术 |堆栈 https://t.co/TBPjQXqQj3"
-    },
-    {
-      "text": "Starship, NVIDIA, Grok, Cybercab and the latest in tech | The Stack https://t.co/TBPjQXqQj3",
-      "link": "https://x.com/Newsforce/status/2123540099778392435",
-      "date": "Thu Nov 19 22:13:07 +0000 2026",
-      "tweet_id": "2123540099778392435",
-      "ctx_done": 1,
-      "text_zh": "Starship、NVIDIA、Grok、Cyber​​cab 和最新技术 |堆栈 nitter.kareem.one/i/broadcasts/2VNPrzQWE…\n\n链接\n\n\n\n新闻力量\n\nStarship、NVIDIA、Grok、Cybercab 和最新技术 |堆栈\nhttps://nitter.kareem.one/i/broadcasts/2VNPrzQWElgMZa"
-    },
-    {
-      "text": "RT @UnpluggedTesla: We're going live on X Spaces in 40 minutes with @SawyerMerritt, @wholemars, @teslaownersSV\nhttps://t.co/2pJxyoVhm8",
-      "link": "https://x.com/teslaownersSV/status/2123522320631582842",
-      "date": "Thu Nov 19 21:02:29 +0000 2026",
-      "tweet_id": "2123522320631582842",
-      "ctx_done": 1,
-      "text_zh": "RT @UnpluggedTesla：我们将在 40 分钟内与 @SawyerMerritt、@wholemars、@teslaownersSV 一起在 X Spaces 上上线\nhttps://t.co/2pJxyoVhm8"
-    },
-    {
-      "text": "We're going live on X Spaces in 40 minutes with @SawyerMerritt, @wholemars, @teslaownersSV\nhttps://t.co/2pJxyoVhm8",
-      "link": "https://x.com/UnpluggedTesla/status/2123511969550664024",
-      "date": "Thu Nov 19 20:21:21 +0000 2026",
-      "tweet_id": "2123511969550664024",
-      "ctx_done": 1,
-      "text_zh": "我们将在 40 分钟内与 @SawyerMerritt、@wholemars、@teslaownersSV 在 X Spaces 上进行直播\nnitter.kareem.one/i/spaces/1NgQOJVKnpjBk…\n\n链接\n\n推特空间\n\n点击查看空间\nhttps://nitter.kareem.one/i/spaces/1NgQOJVKnpjBkV"
     }
   ]
 }

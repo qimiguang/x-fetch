@@ -1,7 +1,7 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-11-25T19:12:32Z",
-  "count": 43,
+  "updated_at": "2026-11-26T03:33:52Z",
+  "count": 41,
   "tweets": [
     {
       "text": "希望Jensen想得开\n他的历史地位不亚于乔布斯\n华人的男神！",
@@ -484,27 +484,6 @@
       "tweet_id": "2114686168394518799",
       "text_zh": "记住我说的吗？2027是cybercab年\n此情此景，我颤抖了\n\nVideo",
       "ctx_done": 1
-    },
-    {
-      "text": "这周末把各种账户密码都放进@bot的保险箱了",
-      "link": "https://x.com/Tsla99T/status/2114483104278864233#m",
-      "date": "Sun, 25 Oct 2026 22:23:51 GMT",
-      "tweet_id": "2114483104278864233",
-      "text_zh": "这周末把各种账户密码都放进@bot的保险箱了",
-      "ctx_done": 1
-    },
-    {
-      "text": "我现在觉得\n可能最适合个人agent的设备\n是air\n而不是duo",
-      "link": "https://x.com/Tsla99T/status/2114468507421442200#m",
-      "date": "Sun, 25 Oct 2026 21:25:51 GMT",
-      "tweet_id": "2114468507421442200",
-      "quoted": {
-        "user": "onenewbite",
-        "text": "My review for iPhone Duo: I would have already returned it if I don’t need it for iOS development.",
-        "text_zh": "我对 iPhone Duo 的评价：如果 iOS 开发不需要它，我早就退货了。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我现在觉得\n可能最适合个人agent的设备\n是air\n而不是duo"
     }
   ]
 }
