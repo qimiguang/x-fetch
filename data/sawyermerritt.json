@@ -1,7 +1,7 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-11-26T03:34:06Z",
-  "count": 200,
+  "updated_at": "2026-11-26T16:49:04Z",
+  "count": 199,
   "tweets": [
     {
       "text": "Tesla has started sending out invites to their 2026 annual shareholder meeting at Giga Texas on Dec 3rd.",
@@ -2147,15 +2147,6 @@
       "date": "Mon, 26 Oct 2026 17:02:36 GMT",
       "tweet_id": "2114764647052308783",
       "text_zh": "Verizon 首席执行官今天表示，SpaceX 将需要至少 4-6 年时间和 300B-500B 美元才能全面建设其 @Starlink Mobile 美国运营商网络：\n\n“他们的服务无法与地面网络竞争。在我们 98% 的收入所在的郊区和城市地区，我们的效率比他们高 100 倍到 1,000 倍。我们确切地知道他们要做什么。我们知道他们在塔上与谁交谈。没有魔杖。没有秘密武器。没有捷径。\n\n他们将查看 65,000–80,000 个宏站点。他们将需要回程、RAN 和大量频谱。完全建立起来至少需要四到六年的时间。这将花费数百亿美元，我假设在 3000 亿到 5000 亿美元之间。\n\n然后他们需要构建零售、客户服务、后台系统等。所有这些使他们拥有与我们今天基本相同的网络、相同的功能和相同的成本结构。然后在未来四到六年的某个时候，他们有可能成为市场上的第六个，而不是第四个，第六个竞争对手。\n\n你可以肯定，在接下来的三到五年或六年里，我们不会停滞不前。四到五年后，我们将比今天进步两到三代人。我们将通过毫米波在全国范围内实现高速宽带千兆以上覆盖。我们领先于大多数人，并且已经开始试验 6G 应用的样子。”\n\n（来自 Verizon 今天早上早些时候的第三季度财报电话会议）",
-      "ctx_done": 1
-    },
-    {
-      "text": "I said 20GWs next year is extremely unlikely, just not 0%, whereas the probability was 0% even a few months ago. \n\nProbability of 20GW is currently rising with time.",
-      "link": "https://x.com/elonmusk/status/2114755803437564327#m",
-      "date": "Mon, 26 Oct 2026 16:27:28 GMT",
-      "tweet_id": "2114755803437564327",
-      "text_zh": "我说明年20GW的可能性极小，只是不是0%，而几个月前可能性还是0%。 \n\n目前20GW的概率正在随着时间的推移而上升。",
-      "reply_to": "PeterDiamandis",
       "ctx_done": 1
     }
   ]
