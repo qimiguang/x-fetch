@@ -1,8 +1,30 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-27T11:59:31Z",
-  "count": 162,
+  "updated_at": "2026-11-27T21:10:09Z",
+  "count": 159,
   "tweets": [
+    {
+      "text": "Tesla Self-Driving 15 took me down the Sunset Strip to Chateau Marmont https://t.co/9djCjnkLGS",
+      "link": "https://x.com/wholemars/status/2126363527510184039",
+      "date": "Fri Nov 27 17:12:25 +0000 2026",
+      "tweet_id": "2126363527510184039",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126012502571941888/vid/avc1/3840x2160/x-MyxL64PmPn1Aln.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126012502571941888/img/ld-AalGU4wRV_mYB.jpg",
+          "local": "2126363527510184039_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126012502571941888/vid/avc1/3840x2160/x-MyxL64PmPn1Aln.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126012502571941888/img/ld-AalGU4wRV_mYB.jpg",
+          "local": "2126363527510184039_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉自动驾驶 15 带我沿着日落大道前往马尔蒙城堡 https://t.co/9djCjnkLGS"
+    },
     {
       "text": "Tesla Self-Driving 15 drove me to Beverly Hills so my girlfriend could go to this frozen yogurt place she likes\n\nIt's a very elegant, sophisticated, and refined driver that coexists so naturally even in a crowded city. https://t.co/CLgPTYbwhz",
       "link": "https://x.com/wholemars/status/2126002492542509426",
@@ -2034,77 +2056,6 @@
       "tweet_id": "2115200336226816206",
       "text_zh": "照片转发已上线。\n\n看到您想要分享的照片吗？长按它并点击发布照片。原作者获得荣誉，你们都可以从原创内容奖励中获得收益。",
       "ctx_done": 1
-    },
-    {
-      "text": "Waymo San Diego service area is now twice as large!",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2115185842696397301#m",
-      "date": "Tue, 27 Oct 2026 20:56:17 GMT",
-      "tweet_id": "2115185842696397301",
-      "quoted": {
-        "user": "reed",
-        "text": "today we’re doubling the @waymo san diego service area",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVqEuegbsAA5mZ4.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVqEuegbsAA5mZ4.jpg?name=orig",
-            "local": "2115185842696397301q_0.jpg"
-          }
-        ],
-        "text_zh": "今天，我们将 @waymo 圣地亚哥 服务区域扩大一倍"
-      },
-      "ctx_done": 1,
-      "text_zh": "Waymo 圣地亚哥服务区域现在扩大了一倍！"
-    },
-    {
-      "text": "Wow. The original Matic was already super quiet (so quiet you can run it while you sleep), so I can’t imagine what an even quieter version would feel like.\nQuiet just got 20% quieter\nIntroducing Matic Serene\nWe’ve reimagined our vacuum stack from the ground up to make Matic quieter than ever\nVideo",
-      "link": "http://nitter.jaydenha.uk/wholemars/status/2115182225679659198#m",
-      "date": "Tue, 27 Oct 2026 20:41:55 GMT",
-      "tweet_id": "2115182225679659198",
-      "quoted": {
-        "user": "maticrobots",
-        "text": "Quiet just got 20% quieter\n\nIntroducing Matic Serene\n\nWe’ve reimagined our vacuum stack from the ground up to make Matic quieter than ever",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/media/HVqMi48aIAAaQpm.jpg",
-            "local": "2115182225679659198q_0.jpg"
-          }
-        ],
-        "text_zh": "安静程度降低了 20%\n\nMatic Serene 简介\n\n我们从头开始重新设计了真空堆栈，使 Matic 比以往更安静"
-      },
-      "ctx_done": 1,
-      "text_zh": "哇。最初的 Matic 已经非常安静（安静到你可以在睡觉时运行它），所以我无法想象更安静的版本会是什么样的感觉。\n安静程度降低了 20%\nMatic Serene 简介\n我们从头开始重新设计了真空堆栈，使 Matic 比以往更安静\n视频"
-    },
-    {
-      "text": "Early days, but we're beginning to hire Bots onto our team.\nOur sales operations team built Shared Bots that help reps move deals faster.\nAccount Intel Bot updates the CRM after calls. Quote Bot prepares proposals and order forms. Deal Bot reviews non-standard terms and routes exceptions for approval.",
-      "link": "http://nitter.jaydenha.uk/mntruell/status/2115163331569033368#m",
-      "date": "Tue, 27 Oct 2026 19:26:50 GMT",
-      "tweet_id": "2115163331569033368",
-      "quoted": {
-        "user": "bot",
-        "text": "Our sales operations team built Shared Bots that help reps move deals faster.\n\nAccount Intel Bot updates the CRM after calls. Quote Bot prepares proposals and order forms. Deal Bot reviews non-standard terms and routes exceptions for approval.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVpzo8GbIAAr5ar.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVpzo8GbIAAr5ar.jpg?name=orig",
-            "local": "2115163331569033368q_0.jpg"
-          }
-        ],
-        "text_zh": "我们的销售运营团队构建了共享机器人，帮助代表更快地推动交易。\n\n帐户 Intel Bot 在通话后更新 CRM。 Quote Bot 准备提案和订单。 Deal Bot 会审查非标准条款并路由例外情况以供批准。"
-      },
-      "ctx_done": 1,
-      "text_zh": "虽然还处于早期阶段，但我们已经开始雇佣机器人加入我们的团队。\n我们的销售运营团队构建了共享机器人，帮助代表更快地推动交易。\n帐户 Intel Bot 在通话后更新 CRM。 Quote Bot 准备提案和订单。 Deal Bot 会审查非标准条款并路由例外情况以供批准。"
-    },
-    {
-      "text": "every time i run my cheap chinese robot vacuum i think, should i pull money out of my 401k to afford a matic vacuum",
-      "link": "https://x.com/kyliebytes/status/2115129921316262106#m",
-      "date": "Tue, 27 Oct 2026 17:14:05 GMT",
-      "tweet_id": "2115129921316262106",
-      "ctx_done": 1,
-      "text_zh": "每次我运行我的廉价中国机器人真空吸尘器时，我都会想，我应该从我的 401k 中拿出钱来买一个 matic 真空吸尘器吗？"
     }
   ]
 }

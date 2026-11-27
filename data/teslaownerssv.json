@@ -1,8 +1,344 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-27T11:58:44Z",
+  "updated_at": "2026-11-27T21:01:29Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "Elon Musk on Grok Bot: \"We're seeing the fastest growth of a product that I've ever seen in my life. I've never seen anything grow this fast.\"\n\n@elonmusk at the SpaceX Q3 2026 earnings call, Oct 20, 2026. Video: @SpaceX https://t.co/VjvswyDml1",
+      "link": "https://x.com/teslaownersSV/status/2126414367042457885",
+      "date": "Fri Nov 27 20:34:26 +0000 2026",
+      "tweet_id": "2126414367042457885",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126414264789618688/vid/avc1/1920x1080/Xg7jBxxoIgryPij7.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126414264789618688/img/l1wlIM9TK4TqGI3w.jpg",
+          "local": "2126414367042457885_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126414264789618688/vid/avc1/1920x1080/Xg7jBxxoIgryPij7.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126414264789618688/img/l1wlIM9TK4TqGI3w.jpg",
+          "local": "2126414367042457885_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Grok @Bot keeps getting better",
+        "text_zh": "Grok @Bot 不断变得更好"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 在谈到 Grok Bot 时表示：“我们看到了我一生中见过的最快的产品增长速度。我从未见过任何产品增长得如此之快。”\n\n@elonmusk 在 SpaceX 2026 年第三季度财报电话会议上，2026 年 10 月 20 日。视频：@SpaceX https://t.co/VjvswyDml1"
+    },
+    {
+      "text": "Robotaxi in the Bay Area https://t.co/guHrHCiBAf",
+      "link": "https://x.com/teslaownersSV/status/2126410880825090477",
+      "date": "Fri Nov 27 20:20:35 +0000 2026",
+      "tweet_id": "2126410880825090477",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYKHbRcbUAEdHaV.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYKHbRcbUAEdHaV.jpg?format=jpg&name=large",
+          "local": "2126410880825090477_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYKHbRcbUAEdHaV.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYKHbRcbUAEdHaV.jpg?format=jpg&name=large",
+          "local": "2126410880825090477_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "湾区的 Robotaxi https://t.co/guHrHCiBAf"
+    },
+    {
+      "text": "Elon Musk on Grok Bot: \"It can be used effectively in teams by companies as though it were a virtual human. I think Grok Bot may end up being what uses most of our superintelligence compute.\"\n\n@elonmusk https://t.co/hap43TSUpg",
+      "link": "https://x.com/teslaownersSV/status/2126403051124879635",
+      "date": "Fri Nov 27 19:49:28 +0000 2026",
+      "tweet_id": "2126403051124879635",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126403020615544832/vid/avc1/1920x1080/zkjOSopwE262h43W.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126403020615544832/img/1fkHhlNiIyZbPKJ8.jpg",
+          "local": "2126403051124879635_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126403020615544832/vid/avc1/1920x1080/zkjOSopwE262h43W.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126403020615544832/img/1fkHhlNiIyZbPKJ8.jpg",
+          "local": "2126403051124879635_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!\n\nNeon is looking particularly promising, but Opus is also excellent in most cases.",
+        "text_zh": "每个模型都有其优点和缺点。 Grok @Bot 的目标是使用最能完成您分配的任务的人！\n\nNeon 看起来特别有前途，但 Opus 在大多数情况下也很出色。"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈到 Grok Bot：“它可以在公司团队中有效地使用，就好像它是一个虚拟人一样。我认为 Grok Bot 最终可能会成为我们大部分超级智能计算的使用对象。”\n\n@elonmusk https://t.co/hap43TSUpg"
+    },
+    {
+      "text": "Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!\n\nNeon is looking particularly promising, but Opus is also excellent in most cases.",
+      "link": "https://x.com/elonmusk/status/2126397498071670827",
+      "date": "Fri Nov 27 19:27:24 +0000 2026",
+      "tweet_id": "2126397498071670827",
+      "quoted": {
+        "user": "DWebbVA",
+        "text": "I stopped using Claude about two weeks ago because it was becoming increasingly difficult/combative/manipulative to work with. \n\nSwitched to Grok Bot as a test run for repeated tasks and had it scan my computers for regular file clean up. It found 22+ GBs of temp files, and bloat from Claude that I had no idea existed even though I had a daily task set up for Claude to scan my disk for file organization, space usage, and recommend deletions.\n\nIt never flagged this or told me it created a virtual Linux computer for agent work. \n\nIf you’re using Claude desktop, check your disk space, and if it looks unreasonably full, have another LLM scan your hard to see why.",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HYI8JgJWMAAAoI7.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HYI8JgJWMAAAoI7.jpg?name=orig",
+            "local": "2126397498071670827q_0.jpg"
+          }
+        ],
+        "text_zh": "大约两周前，我停止使用克劳德，因为与他合作变得越来越困难/好斗/操纵性强。 \n\n切换到 Grok Bot 作为重复任务的测试运行，并让它扫描我的计算机以进行定期文件清理。它发现了 22+ GB 的临时文件，以及来自 Claude 的膨胀，尽管我为 Claude 设置了一项日常任务来扫描我的磁盘以了解文件组织、空间使用情况并建议删除，但我并不知道它的存在。\n\n它从未标记过这一点，也没有告诉我它为代理工作创建了一台虚拟 Linux 计算机。 \n\n如果您使用 Claude 桌面，请检查您的磁盘空间，如果看起来不合理地满，请让另一个 LLM 扫描您的硬盘以查看原因。"
+      },
+      "ctx_done": 1,
+      "text_zh": "每个模型都有其优点和缺点。 Grok @Bot 的目标是使用最能完成您分配的任务的人！\n\nNeon 看起来特别有前途，但 Opus 在大多数情况下也很出色。"
+    },
+    {
+      "text": "Tesla Roadster made flying cars a reality @elonmusk https://t.co/g659G18Yp5",
+      "link": "https://x.com/teslaownersSV/status/2126397226675212382",
+      "date": "Fri Nov 27 19:26:20 +0000 2026",
+      "tweet_id": "2126397226675212382",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126397202490871808/vid/avc1/1080x1920/JZtjA3amBVCXjTdn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126397202490871808/img/lj4uzPCiPf9bDEo8.jpg",
+          "local": "2126397226675212382_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126397202490871808/vid/avc1/1080x1920/JZtjA3amBVCXjTdn.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126397202490871808/img/lj4uzPCiPf9bDEo8.jpg",
+          "local": "2126397226675212382_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Tesla Roadster 让飞行汽车成为现实 @elonmusk https://t.co/g659G18Yp5"
+    },
+    {
+      "text": "Elon Musk on why giving money away well is so hard:\n\n\"It's very easy to give money away to get the appearance of goodness. It is very difficult to give money away for the reality of goodness.\"\n\n@elonmusk on People by WTF with Nikhil Kamath. Video: Nikhil Kamath https://t.co/Uv7XMuR6Lt",
+      "link": "https://x.com/teslaownersSV/status/2126385491977314728",
+      "date": "Fri Nov 27 18:39:42 +0000 2026",
+      "tweet_id": "2126385491977314728",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126385461618962432/vid/avc1/1920x1080/JSh4o4CausKWEncD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126385461618962432/img/9QELo7UUzkti3K2v.jpg",
+          "local": "2126385491977314728_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126385461618962432/vid/avc1/1920x1080/JSh4o4CausKWEncD.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126385461618962432/img/9QELo7UUzkti3K2v.jpg",
+          "local": "2126385491977314728_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@johnarnold @paulg My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money.\n\nSuch “charities” are often merely a means of a",
+        "text_zh": "@johnarnold @paulg 我的观察是，向“非营利组织”提供资金很少会给人民带来好处，而且往往会通过创建一个只关心获得更多钱的自我延续的“每日事业”官僚机构来损害文明。\n\n这种“慈善”往往只是一种手段"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么善待金钱如此困难：\n\n“为了获得善良的外表而捐钱是很容易的，但为了获得善良的现实而捐钱是非常困难的。”\n\n@elonmusk 与 Nikhil Kamath 共同发表 WTF 的《People》。视频：尼基尔·卡马斯 https://t.co/Uv7XMuR6Lt"
+    },
+    {
+      "text": "RT @diywrapclub: 🚨 BLACK FRIDAY IS HERE 🚨\n\nYour car called. It wants an upgrade.\n\n🔥 20% OFF EVERYTHING\n🛡️ DIY PPF, wraps, tint &amp; more\n👀 Bra…",
+      "link": "https://x.com/teslaownersSV/status/2126379713090535627",
+      "date": "Fri Nov 27 18:16:44 +0000 2026",
+      "tweet_id": "2126379713090535627",
+      "ctx_done": 1,
+      "text_zh": "RT @diywrapclub：🚨 黑色星期五来了🚨\n\n你的车来了。它想要升级。\n\n🔥 所有商品 20% 折扣\n🛡️ DIY PPF、包装、色彩等\n👀 胸罩…"
+    },
+    {
+      "text": "Elon Musk to Tesla owners: \n\n\"For all of you who have bought an S or an X, thank you for helping pay for the Model 3.\"\n\"So the Model 3 is happening because of you.\"\n\n@elonmusk at the Model 3 Unveil, March 31 2016. Video: @Tesla https://t.co/9MWvMDWvAK",
+      "link": "https://x.com/teslaownersSV/status/2126379693398249736",
+      "date": "Fri Nov 27 18:16:39 +0000 2026",
+      "tweet_id": "2126379693398249736",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126379663157268480/vid/avc1/1920x1080/CqXr2sDkYXeSGlD8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126379663157268480/img/R6oNWlx0atSShr2X.jpg",
+          "local": "2126379693398249736_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126379663157268480/vid/avc1/1920x1080/CqXr2sDkYXeSGlD8.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126379663157268480/img/R6oNWlx0atSShr2X.jpg",
+          "local": "2126379693398249736_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克致特斯拉车主： \n\n“对于所有购买过 S 或 X 的人，感谢您帮助支付 Model 3 的费用。”\n“所以 Model 3 的出现是因为你。”\n\n@elonmusk 在 Model 3 发布会上，2016 年 3 月 31 日。视频：@Tesla https://t.co/9MWvMDWvAK"
+    },
+    {
+      "text": "🚨 BLACK FRIDAY IS HERE 🚨\n\nYour car called. It wants an upgrade.\n\n🔥 20% OFF EVERYTHING\n🛡️ DIY PPF, wraps, tint &amp; more\n👀 Brand-new product launches included\n\nUse code BFCM2026\n\nEnds Cyber Monday at midnight. Don't miss it.\n\nShop now 👇\nhttps://t.co/hSVLgHLCUI\n\n📸 Customer https://t.co/6MtcqFt7kZ",
+      "link": "https://x.com/diywrapclub/status/2126378994136145965",
+      "date": "Fri Nov 27 18:13:53 +0000 2026",
+      "tweet_id": "2126378994136145965",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJqbTtWYAANH1u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJqbTtWYAANH1u.jpg?format=jpg&name=large",
+          "local": "2126378994136145965_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJqbTtWYAANH1u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJqbTtWYAANH1u.jpg?format=jpg&name=large",
+          "local": "2126378994136145965_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "🚨 黑色星期五来了🚨\n\n你的车来了。它想要升级。\n\n🔥 所有商品 20% 折扣\n🛡️ DIY PPF、包装、色彩等\n👀 包括全新产品发布\n\n使用代码 BFCM2026\n\n网络星期一午夜结束。不要错过它。\n\n立即购买👇\nhttps://t.co/hSVLgHLCUI\n\n📸 客户 https://t.co/6MtcqFt7kZ"
+    },
+    {
+      "text": "@johnarnold @paulg My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money.\n\nSuch “charities” are often merely a means of a",
+      "link": "https://x.com/elonmusk/status/2126376500584702103",
+      "date": "Fri Nov 27 18:03:58 +0000 2026",
+      "tweet_id": "2126376500584702103",
+      "reply_to": "johnarnold",
+      "ctx_done": 1,
+      "text_zh": "@johnarnold @paulg 我的观察是，向“非营利组织”提供资金很少会给人民带来好处，而且往往会通过创建一个只关心获得更多钱的自我延续的“每日事业”官僚机构来损害文明。\n\n这种“慈善”往往只是一种手段"
+    },
+    {
+      "text": "Tim Urban on @elonmusk: \"He's truly trying to do these big things for the right reasons.\" https://t.co/RKUlCNQXVJ",
+      "link": "https://x.com/teslaownersSV/status/2126376230920626285",
+      "date": "Fri Nov 27 18:02:54 +0000 2026",
+      "tweet_id": "2126376230920626285",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/1920x1080/_GiGMTXHouaYKtWq.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126376126293725184/img/Nzq7K7MDd4KPDwCn.jpg",
+          "local": "2126376230920626285_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126376126293725184/vid/avc1/1920x1080/_GiGMTXHouaYKtWq.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126376126293725184/img/Nzq7K7MDd4KPDwCn.jpg",
+          "local": "2126376230920626285_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "蒂姆·厄本 (Tim Urban) 在@elonmusk 上表示：“他确实出于正确的原因尝试做这些大事。” https://t.co/RKUlCNQXVJ"
+    },
+    {
+      "text": "Grok @Bot keeps getting better",
+      "link": "https://x.com/elonmusk/status/2126365899410341931",
+      "date": "Fri Nov 27 17:21:51 +0000 2026",
+      "tweet_id": "2126365899410341931",
+      "quoted": {
+        "user": "a16z",
+        "text": "Gavin Baker says Grok Bot feels like another ChatGPT moment because it turns hours of Claude Code work into seconds:\n\n\"You see these 23-year-old kids and just the way they use AI, they're just fluent and native in it. I just feel like maybe in a way that no matter how hard I try, I will never be, and I'm trying really hard.\"\n\n\"We got Claude Code. I built some stuff, did some cool stuff, and in, I don't know, 3 minutes of creating Grok Bots, I had much better versions of everything I created.\"\n\n\"I love having a podcast summarizer... It takes 10 seconds in Grok Bot. It's amazing, and it's so good.\"\n\n\"A Substack summarizer, an X summarizer, an X sentiment tracker for topics and stocks... All of those would have taken me hours working with Claude Code, and they each took 7 to 12 seconds with Grok Bot. And it's better.\"\n\n\"To me, Grok Bot does feel like another ChatGPT moment.\"\n\n@GavinSBaker @DavidGeorge83",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126331211547353088/img/iLe-pcn9MjrRP_tl.jpg",
+            "local": "2126365899410341931q_0.jpg"
+          }
+        ],
+        "text_zh": "加文·贝克 (Gavin Baker) 表示，Grok Bot 感觉就像又一个 ChatGPT 时刻，因为它将数小时的 Claude Code 工作时间缩短为几秒钟：\n\n“你看看这些 23 岁的孩子，他们使用人工智能的方式非常流畅，而且很自然。我只是觉得，也许在某种程度上，无论我多么努力，我都永远不会做到，而且我真的很努力。”\n\n“我们得到了 Claude Code。我构建了一些东西，做了一些很酷的东西，而且，我不知道，在创建 Grok Bots 的 3 分钟内，我对我创建的所有东西都有了更好的版本。”\n\n“我喜欢播客摘要生成器……在 Grok Bot 中只需 10 秒。太棒了，而且太棒了。”\n\n“一个 Substack 总结器、一个 X 总结器、一个针对主题和股票的 X 情绪跟踪器……所有这些都需要我在 Claude Code 上工作几个小时，而在使用 Grok Bot 上每个工作都需要 7 到 12 秒。而且效果更好。”\n\n“对我来说，Grok Bot 确实感觉像是另一个 ChatGPT 时刻。”\n\n@GavinSBaker @DavidGeorge83"
+      },
+      "ctx_done": 1,
+      "text_zh": "Grok @Bot 不断变得更好"
+    },
+    {
+      "text": "$tsla poppin https://t.co/vbUSzc2KzM",
+      "link": "https://x.com/teslaownersSV/status/2126356793328857443",
+      "date": "Fri Nov 27 16:45:39 +0000 2026",
+      "tweet_id": "2126356793328857443",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJWPAjbYAACVRR.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJWPAjbYAACVRR.jpg?format=jpg&name=large",
+          "local": "2126356793328857443_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJWPAjbYAACVRR.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJWPAjbYAACVRR.jpg?format=jpg&name=large",
+          "local": "2126356793328857443_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "$tsla poppin https://t.co/vbUSzc2KzM"
+    },
+    {
+      "text": "NEWS: Starlink is providing free internet to 13 schools on Haiti's remote Île-à-Vache, with plans to expand to all 18 schools.\n\n- The initiative will support online learning and allow teachers to provide remote instruction from locations such as Port-au-Prince.\n- The project https://t.co/r1myCXjaRv",
+      "link": "https://x.com/teslaownersSV/status/2126350446474522780",
+      "date": "Fri Nov 27 16:20:26 +0000 2026",
+      "tweet_id": "2126350446474522780",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJQdfeaMAEUBWJ.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJQdfeaMAEUBWJ.jpg?format=jpg&name=large",
+          "local": "2126350446474522780_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJQdfea8AA7ZNq.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJQdfea8AA7ZNq.jpg?format=jpg&name=large",
+          "local": "2126350446474522780_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJQdfeaMAEUBWJ.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJQdfeaMAEUBWJ.jpg?format=jpg&name=large",
+          "local": "2126350446474522780_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYJQdfea8AA7ZNq.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYJQdfea8AA7ZNq.jpg?format=jpg&name=large",
+          "local": "2126350446474522780_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：Starlink 正在为海地偏远的瓦什岛的 13 所学校提供免费互联网，并计划扩展到所有 18 所学校。\n\n- 该计划将支持在线学习，并允许教师从太子港等地点提供远程教学。\n- 项目 https://t.co/r1myCXjaRv"
+    },
+    {
+      "text": "RT @TeslaOwners_JP: 日本最大級のEVイベント\nTOCJ全国ミーティングが、世界へ。\n\n　【X-Takeover Japan 2026】\n\n📅 11/28(土) 前夜祭 → 11/29(日) 本祭\n📍 パシフィコ横浜\n\n昨年1500人が来場\n今年の会場規模は2…",
+      "link": "https://x.com/teslaownersSV/status/2126334313751060567",
+      "date": "Fri Nov 27 15:16:20 +0000 2026",
+      "tweet_id": "2126334313751060567",
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaOwners_JP：日本最大的电动汽车活动\nTOCJ全国会议走向世界。\n\n[X-接管日本 2026]\n\n📅11/28（周六）前夜祭 → 11/29（周日）主要祭\n📍横滨太平洋酒店\n\n去年有1500人参观\n今年的会场规模为2..."
+    },
+    {
+      "text": "NEWS: Tesla has reportedly filed to acquire assets from German machine manufacturer EMAG, expanding its efforts to produce humanoid robot components in-house.\n\n- EMAG specializes in precision gears and drive systems used in robotics.\n- The deal could bring around 220 EMAG https://t.co/PsTNoLKCrh",
+      "link": "https://x.com/teslaownersSV/status/2126331678671188325",
+      "date": "Fri Nov 27 15:05:52 +0000 2026",
+      "tweet_id": "2126331678671188325",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYI_ZIZbAAEwn9r.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYI_ZIZbAAEwn9r.jpg?format=jpg&name=large",
+          "local": "2126331678671188325_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYI_ZIZbAAEwn9r.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYI_ZIZbAAEwn9r.jpg?format=jpg&name=large",
+          "local": "2126331678671188325_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新闻：据报道，特斯拉已申请收购德国机器制造商埃马克的资产，扩大其内部生产人形机器人组件的力度。\n\n- 埃马克专注于机器人技术中使用的精密齿轮和驱动系统。\n- 这笔交易可能带来约 220 EMAG https://t.co/PsTNoLKCrh"
+    },
     {
       "text": "What did you eat tonight ? Show me a picture.",
       "link": "https://x.com/teslaownersSV/status/2126191662808678889",
@@ -3876,340 +4212,6 @@
       ],
       "text_zh": "休息一下，欣赏我制作的有趣视频，与 Stephen @kneubuehl 和他的 @cybertrexevents 团队一起穿越几条摩押小径。 https://t.co/Ceu9b2H1fS",
       "ctx_done": 1
-    },
-    {
-      "text": "Google CEO Sundar Pichai on Elon's ability to bring future technologies into existence: \"I think it's just unparalleled.\" https://t.co/A91E8FMbK2",
-      "link": "https://x.com/teslaownersSV/status/2124320652501143556",
-      "date": "Sun Nov 22 01:54:46 +0000 2026",
-      "tweet_id": "2124320652501143556",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124320603679395840/vid/avc1/1920x1078/PRf1X7IhvzdqdPSk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124320603679395840/img/g9HL3edOSb3VE2fp.jpg",
-          "local": "2124320652501143556_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124320603679395840/vid/avc1/1920x1078/PRf1X7IhvzdqdPSk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124320603679395840/img/g9HL3edOSb3VE2fp.jpg",
-          "local": "2124320652501143556_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 评价埃隆将未来技术变为现实的能力：“我认为这是无与伦比的。” https://t.co/A91E8FMbK2"
-    },
-    {
-      "text": "RT @TesLatina: From the Full Self-Driving (Supervised) early days, to the present. https://t.co/oBNJvAzFIW",
-      "link": "https://x.com/teslaownersSV/status/2124292818005094514",
-      "date": "Sun Nov 22 00:04:09 +0000 2026",
-      "tweet_id": "2124292818005094514",
-      "ctx_done": 1,
-      "text_zh": "RT @TesLatina：从早期的全自动驾驶（监督式）到现在。 https://t.co/oBNJvAzFIW"
-    },
-    {
-      "text": "Anyone with Cybertruck or Model S/X get it?",
-      "link": "https://x.com/teslaownersSV/status/2124292287303958677",
-      "date": "Sun Nov 22 00:02:03 +0000 2026",
-      "tweet_id": "2124292287303958677",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Elon Musk says FSD V15 goes to wide release in December.\nLate Friday night he posted, \"FSD V15 goes to wide release next month. It will be something special.\" He gave a month, not a day.\nToday Tesla said v15 is now starting to roll out. Wide release is still December, and it's https://t.co/hYqVUsM6d6",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
-            "local": "2124292287303958677q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
-            "local": "2124292287303958677q_1.jpg"
-          }
-        ],
-        "text_zh": "Elon Musk 表示 FSD V15 将于 12 月广泛发布。\n周五深夜，他发帖称，“FSD V15 将于下个月广泛发布。这将是一件特别的事情。”他给了一个月，而不是一天。\n今天，特斯拉表示 v15 现已开始推出。广泛发布仍然是 12 月，https://t.co/hYqVUsM6d6"
-      },
-      "ctx_done": 1,
-      "text_zh": "拥有 Cyber​​truck 或 Model S/X 的人都明白吗？"
-    },
-    {
-      "text": "Elon Musk says FSD V15 goes to wide release in December.\nLate Friday night he posted, \"FSD V15 goes to wide release next month. It will be something special.\" He gave a month, not a day.\nToday Tesla said v15 is now starting to roll out. Wide release is still December, and it's https://t.co/hYqVUsM6d6",
-      "link": "https://x.com/teslaownersSV/status/2124275447093694768",
-      "date": "Sat Nov 21 22:55:08 +0000 2026",
-      "tweet_id": "2124275447093694768",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
-          "local": "2124275447093694768_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124275226825687040/vid/avc1/1078x1920/yggb-UHY4st9V1yI.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124275226825687040/img/AGv8jngcctEhcNOE.jpg",
-          "local": "2124275447093694768_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon Musk 表示 FSD V15 将于 12 月广泛发布。\n周五深夜，他发帖称，“FSD V15 将于下个月广泛发布。这将是一件特别的事情。”他给了一个月，而不是一天。\n今天，特斯拉表示 v15 现已开始推出。广泛发布仍然是 12 月，https://t.co/hYqVUsM6d6"
-    },
-    {
-      "text": "Waymo needs more LiDAR. https://t.co/Wt3P66qcrA",
-      "link": "https://x.com/teslaownersSV/status/2124251983695782277",
-      "date": "Sat Nov 21 21:21:54 +0000 2026",
-      "tweet_id": "2124251983695782277",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124251955627499520/vid/avc1/720x1280/GD6-nej2GAEu-1J5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124251955627499520/img/IY9sd7wwjVGJJHnZ.jpg",
-          "local": "2124251983695782277_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124251955627499520/vid/avc1/720x1280/GD6-nej2GAEu-1J5.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124251955627499520/img/IY9sd7wwjVGJJHnZ.jpg",
-          "local": "2124251983695782277_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Waymo 需要更多激光雷达。 https://t.co/Wt3P66qcrA"
-    },
-    {
-      "text": "Close up photo of Uranus. https://t.co/bjpLsnhuFa",
-      "link": "https://x.com/teslaownersSV/status/2124243692915700147",
-      "date": "Sat Nov 21 20:48:57 +0000 2026",
-      "tweet_id": "2124243692915700147",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=large",
-          "local": "2124243692915700147_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXrUYZ4bEAAeqRM.jpg?format=jpg&name=large",
-          "local": "2124243692915700147_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "elonmusk",
-        "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
-        "text_zh": "现在是我们再次探测天王星的时候了！\n\n（实际上）需要更好的图像。"
-      },
-      "ctx_done": 1,
-      "text_zh": "天王星的特写照片。 https://t.co/bjpLsnhuFa"
-    },
-    {
-      "text": "Elon Musk on choosing what to work on: \"I thought about what were the areas that would most affect the future of humanity.\" https://t.co/87GdK6X1G5",
-      "link": "https://x.com/teslaownersSV/status/2124243210218418599",
-      "date": "Sat Nov 21 20:47:02 +0000 2026",
-      "tweet_id": "2124243210218418599",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124243182624067584/vid/avc1/1920x1080/fpqzeUVePIJNiUHN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124243182624067584/img/5tyFEOtrkh3Eg7Uo.jpg",
-          "local": "2124243210218418599_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124243182624067584/vid/avc1/1920x1080/fpqzeUVePIJNiUHN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124243182624067584/img/5tyFEOtrkh3Eg7Uo.jpg",
-          "local": "2124243210218418599_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克在选择工作内容时说道：“我思考了哪些领域对人类的未来影响最大。” https://t.co/87GdK6X1G5"
-    },
-    {
-      "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
-      "link": "https://x.com/elonmusk/status/2124241570451054609",
-      "date": "Sat Nov 21 20:40:31 +0000 2026",
-      "tweet_id": "2124241570451054609",
-      "ctx_done": 1,
-      "text_zh": "现在是我们再次探测天王星的时候了！\n\n（实际上）需要更好的图像。"
-    },
-    {
-      "text": "FSD v15 just started rolling out, and Tesla says it's 25x better at safety-critical cases.\n\nAt our X Takeover in 2024, @elonmusk told us: \"You can think of the Tesla cars as essentially robots on four wheels.\" Then he added that a Model 3 or Model Y is \"a good-looking car, but it https://t.co/ERYx6TqeHW",
-      "link": "https://x.com/teslaownersSV/status/2124239125515755870",
-      "date": "Sat Nov 21 20:30:48 +0000 2026",
-      "tweet_id": "2124239125515755870",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124239082603814912/vid/avc1/1920x1080/WHzmgvPPFGhhVTkb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124239082603814912/img/C_oV4vcqRSjjJ5r_.jpg",
-          "local": "2124239125515755870_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124239082603814912/vid/avc1/1920x1080/WHzmgvPPFGhhVTkb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124239082603814912/img/C_oV4vcqRSjjJ5r_.jpg",
-          "local": "2124239125515755870_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "FSD v15 刚刚开始推出，特斯拉表示，它在安全关键情况下的性能提高了 25 倍。\n\n在 2024 年的 X Takeover 上，@elonmusk 告诉我们：“你可以将特斯拉汽车视为本质上的四轮机器人。”然后他补充说 Model 3 或 Model Y 是“一辆好看的车，但它 https://t.co/ERYx6TqeHW"
-    },
-    {
-      "text": "“If you need inspiration, don't do it.”\n― Elon Musk https://t.co/DdmPL5SBsE",
-      "link": "https://x.com/teslaownersSV/status/2124208963558469957",
-      "date": "Sat Nov 21 18:30:57 +0000 2026",
-      "tweet_id": "2124208963558469957",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXq0y3qagAAPSdX.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXq0y3qagAAPSdX.jpg?format=jpg&name=large",
-          "local": "2124208963558469957_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXq0y3qagAAPSdX.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXq0y3qagAAPSdX.jpg?format=jpg&name=large",
-          "local": "2124208963558469957_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“如果你需要灵感，就不要这样做。”\n——埃隆·马斯克 https://t.co/DdmPL5SBsE"
-    },
-    {
-      "text": "\"We have the greatest visionary (@elonmusk), the greatest engineer, the greatest operator.\"\nBrad Gerstner https://t.co/k5hcmXmhu8",
-      "link": "https://x.com/teslaownersSV/status/2124203482341396646",
-      "date": "Sat Nov 21 18:09:10 +0000 2026",
-      "tweet_id": "2124203482341396646",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124203405447196672/vid/avc1/1920x1080/hOsjeoitrkow7ggk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124203405447196672/img/NQjnzF2oUuNu_ApG.jpg",
-          "local": "2124203482341396646_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124203405447196672/vid/avc1/1920x1080/hOsjeoitrkow7ggk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124203405447196672/img/NQjnzF2oUuNu_ApG.jpg",
-          "local": "2124203482341396646_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“我们拥有最伟大的梦想家（@elonmusk）、最伟大的工程师、最伟大的运营商。”\n布拉德·格斯特纳 https://t.co/k5hcmXmhu8"
-    },
-    {
-      "text": "NEWS: Tesla is targeting a wide release of FSD V15 in December 2026, with Elon Musk calling it a major upgrade.\n\n•⁠  ⁠A redesigned UI could reportedly re-render reality in a “mind-bending way.”\n•⁠  ⁠Improvements include earlier hazard detection, faster reactions, and better https://t.co/fAH9OccY92",
-      "link": "https://x.com/teslaownersSV/status/2124202045670576520",
-      "date": "Sat Nov 21 18:03:28 +0000 2026",
-      "tweet_id": "2124202045670576520",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXqufpYbgAAV708.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXqufpYbgAAV708.jpg?format=jpg&name=large",
-          "local": "2124202045670576520_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXqufpYbgAAV708.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXqufpYbgAAV708.jpg?format=jpg&name=large",
-          "local": "2124202045670576520_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：特斯拉计划于 2026 年 12 月广泛发布 FSD V15，埃隆·马斯克 (Elon Musk) 称其为重大升级。\n\n据报道，重新设计的用户界面可以以“令人费解的方式”重新呈现现实。\n•⁠ ⁠改进包括更早的危险检测、更快的反应和更好的 https://t.co/fAH9OccY92"
-    },
-    {
-      "text": "Engine 6 shut down. Mission control said no-go for orbit. Then Starship went anyway.\n\nFlight 14, Sept 28: Starship lost an engine on the way up and the call came over the loop: \"we are not committing to orbit.\"\n\nA SpaceX engineer on how @elonmusk changed the call: \"Elon really https://t.co/CmfN8X89an",
-      "link": "https://x.com/teslaownersSV/status/2124191852308095321",
-      "date": "Sat Nov 21 17:22:57 +0000 2026",
-      "tweet_id": "2124191852308095321",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124191791356477441/vid/avc1/1920x1080/dFVx3pN2kpr0bpyr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124191791356477441/img/MMmE2ddck22ZnvIX.jpg",
-          "local": "2124191852308095321_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124191791356477441/vid/avc1/1920x1080/dFVx3pN2kpr0bpyr.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124191791356477441/img/MMmE2ddck22ZnvIX.jpg",
-          "local": "2124191852308095321_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "6 号发动机关闭。任务控制中心表示禁止进入轨道。然后星舰还是去了。\n\n9 月 28 日，14 号航班：星舰在上升途中失去了引擎，循环中传来呼叫：“我们不承诺进入轨道。”\n\n一位 SpaceX 工程师谈到 @elonmusk 如何改变通话方式：“Elon 真的 https://t.co/CmfN8X89an"
-    },
-    {
-      "text": "President Javier Milei at the official Tesla launch in Argentina: \n\nTesla and YPF, Argentina's largest energy company, signed an agreement to move forward with installing Superchargers across the country.\n\nVideo: @OPRArgentina https://t.co/p1rNc7b8fd",
-      "link": "https://x.com/teslaownersSV/status/2124191677346967904",
-      "date": "Sat Nov 21 17:22:16 +0000 2026",
-      "tweet_id": "2124191677346967904",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124191593892888577/vid/avc1/1920x1080/Dtt-hUbZGO6_d4l-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124191593892888577/img/SaxIPRsyjy11Esq7.jpg",
-          "local": "2124191677346967904_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124191593892888577/vid/avc1/1920x1080/Dtt-hUbZGO6_d4l-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124191593892888577/img/SaxIPRsyjy11Esq7.jpg",
-          "local": "2124191677346967904_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "总统哈维尔·米雷 (Javier Milei) 在阿根廷特斯拉官方发布会上表示： \n\n特斯拉和阿根廷最大的能源公司 YPF 签署了一项协议，推动在全国范围内安装超级充电站。\n\n视频：@OPRArgentina https://t.co/p1rNc7b8fd"
-    },
-    {
-      "text": "The same tower arms that catch Starship also stack it.\n\nMechazilla lifting Starship onto its Super Heavy booster at Starbase, ahead of Flights 13 and 14.\n\nCatch it, stack it, fly it again. Would you watch this in person? https://t.co/1LA8fWeElA",
-      "link": "https://x.com/teslaownersSV/status/2124185784483991897",
-      "date": "Sat Nov 21 16:58:51 +0000 2026",
-      "tweet_id": "2124185784483991897",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124185751722360832/vid/avc1/1920x1080/E3Ju083GPn-4UJ-h.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124185751722360832/img/JU-GFc_LRAUaZ_11.jpg",
-          "local": "2124185784483991897_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124185751722360832/vid/avc1/1920x1080/E3Ju083GPn-4UJ-h.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124185751722360832/img/JU-GFc_LRAUaZ_11.jpg",
-          "local": "2124185784483991897_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "抓住星舰的相同塔臂也将其堆叠起来。\n\n在 13 号和 14 号航班之前，Mechazilla 将 Starship 升到 Starbase 的超重型助推器上。\n\n抓住它，堆叠它，再次飞翔。你会亲自观看这个吗？ https://t.co/1LA8fWeElA"
-    },
-    {
-      "text": "Starlink helped save a young landmine blast victim’s life in Myanmar by connecting remote medics with a surgeon in Germany.\n\n- Free Burma Rangers used Starlink to send photos and videos of the victim’s injuries to the surgeon.\n- The surgeon provided real-time guidance for https://t.co/GwDjvJtjR7",
-      "link": "https://x.com/teslaownersSV/status/2124182353912430648",
-      "date": "Sat Nov 21 16:45:13 +0000 2026",
-      "tweet_id": "2124182353912430648",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXqcl_LaEAAc4jE.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXqcl_LaEAAc4jE.jpg?format=jpg&name=large",
-          "local": "2124182353912430648_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXqcl_LaEAAc4jE.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXqcl_LaEAAc4jE.jpg?format=jpg&name=large",
-          "local": "2124182353912430648_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "星链通过将远程医务人员与德国的外科医生联系起来，帮助挽救了缅甸一名年轻地雷爆炸受害者的生命。\n\n- 免费缅甸游骑兵队使用星链将受害者受伤的照片和视频发送给外科医生。\n- 外科医生为 https://t.co/GwDjvJtjR7 提供实时指导"
     }
   ]
 }
