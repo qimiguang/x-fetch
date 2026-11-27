@@ -1,8 +1,90 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-27T01:39:07Z",
+  "updated_at": "2026-11-27T11:58:44Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "What did you eat tonight ? Show me a picture.",
+      "link": "https://x.com/teslaownersSV/status/2126191662808678889",
+      "date": "Fri Nov 27 05:49:29 +0000 2026",
+      "tweet_id": "2126191662808678889",
+      "ctx_done": 1,
+      "text_zh": "今晚你吃了什么？给我看一张照片。"
+    },
+    {
+      "text": "Elon says work will be optional. Would you still work?",
+      "link": "https://x.com/teslaownersSV/status/2126188707921416280",
+      "date": "Fri Nov 27 05:37:45 +0000 2026",
+      "tweet_id": "2126188707921416280",
+      "ctx_done": 1,
+      "text_zh": "埃隆说工作是可选的。你还会工作吗？"
+    },
+    {
+      "text": "\"If it wasn't rewarding instinctively to have kids, we wouldn't have them. You will absolutely be happier if you have kids.\"\n\n-Elon Musk https://t.co/3syaCyajMH",
+      "link": "https://x.com/teslaownersSV/status/2126176940650631587",
+      "date": "Fri Nov 27 04:50:59 +0000 2026",
+      "tweet_id": "2126176940650631587",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYGyqPiaMAEgEF3.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYGyqPiaMAEgEF3.jpg?format=jpg&name=large",
+          "local": "2126176940650631587_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYGyqPiaMAEgEF3.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYGyqPiaMAEgEF3.jpg?format=jpg&name=large",
+          "local": "2126176940650631587_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“如果生孩子不是本能的回报，我们就不会生孩子。如果你有孩子，你绝对会更快乐。”\n\n-埃隆·马斯克 https://t.co/3syaCyajMH"
+    },
+    {
+      "text": "“Kids are awesome. You guys should all have kids. Kids are great!”\nElon Musk https://t.co/Nqt6Rgl1kc",
+      "link": "https://x.com/teslaownersSV/status/2126176703353638945",
+      "date": "Fri Nov 27 04:50:03 +0000 2026",
+      "tweet_id": "2126176703353638945",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1888461615030505472/vid/avc1/1920x1080/HC_lNPccpwLHZuF1.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1888461615030505472/img/-PbXsoRLROzcUSum.jpg",
+          "local": "2126176703353638945_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/1888461615030505472/vid/avc1/1920x1080/HC_lNPccpwLHZuF1.mp4?tag=16",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/1888461615030505472/img/-PbXsoRLROzcUSum.jpg",
+          "local": "2126176703353638945_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "“孩子们太棒了。你们都应该有孩子。孩子们太棒了！”\n埃隆·马斯克 https://t.co/Nqt6Rgl1kc"
+    },
+    {
+      "text": "This Starship heat shield tile has already flown to space.\n\nSpaceX pulled two tiles off Ship 40 after its flight to prove something that had never been done on Starship: that a heat shield tile can fly, come home, and fly again.\n\n\"To be able to hold the tile that has actually https://t.co/LsSqEZ9UY8",
+      "link": "https://x.com/teslaownersSV/status/2126160462345847180",
+      "date": "Fri Nov 27 03:45:31 +0000 2026",
+      "tweet_id": "2126160462345847180",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126159698697342976/vid/avc1/1920x1080/OaH6ntcCza5fFvby.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126159698697342976/img/QhfBaouATEFPU2iJ.jpg",
+          "local": "2126160462345847180_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126159698697342976/vid/avc1/1920x1080/OaH6ntcCza5fFvby.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126159698697342976/img/QhfBaouATEFPU2iJ.jpg",
+          "local": "2126160462345847180_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这艘星舰隔热板已经飞向太空。\n\nSpaceX 在 40 号飞船飞行后从其上取下了两块隔热板，以证明 Starship 上从未做过的事情：隔热板隔热板可以飞行、返回并再次飞行。\n\n“能够握住实际上有 https://t.co/LsSqEZ9UY8 的瓷砖"
+    },
     {
       "text": "Thank you @elonmusk for all your work to make the world better.  https://t.co/GqgImf9iDt",
       "link": "https://x.com/teslaownersSV/status/2126112540338053444",
@@ -4128,145 +4210,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "星链通过将远程医务人员与德国的外科医生联系起来，帮助挽救了缅甸一名年轻地雷爆炸受害者的生命。\n\n- 免费缅甸游骑兵队使用星链将受害者受伤的照片和视频发送给外科医生。\n- 外科医生为 https://t.co/GwDjvJtjR7 提供实时指导"
-    },
-    {
-      "text": "Starlink got flood survivors in Tapanuli Tengah, Indonesia back in touch with their families after 5 days of total silence.\n\nOne year ago this week, floods and landslides in North Sumatra knocked out every phone and internet network in Tapanuli Tengah on Nov 24, 2025. Police set https://t.co/CemCKWK5ri",
-      "link": "https://x.com/teslaownersSV/status/2124170573265969565",
-      "date": "Sat Nov 21 15:58:24 +0000 2026",
-      "tweet_id": "2124170573265969565",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124170377664585728/vid/avc1/1920x1080/1mez3n0g_tGIXcZS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124170377664585728/img/wSlFycwQayf1i-bK.jpg",
-          "local": "2124170573265969565_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124170377664585728/vid/avc1/1920x1080/1mez3n0g_tGIXcZS.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124170377664585728/img/wSlFycwQayf1i-bK.jpg",
-          "local": "2124170573265969565_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Starlink 帮助印度尼西亚打巴努里登加 (Tapanuli Tengah) 的洪水幸存者在彻底沉寂 5 天后重新与家人取得联系。\n\n一年前的这个星期，2025 年 11 月 24 日，北苏门答腊岛的洪水和山体滑坡摧毁了打巴努里登加 (Tapanuli Tengah) 的所有电话和互联网网络。警方设置 https://t.co/CemCKWK5ri"
-    },
-    {
-      "text": "Elon Musk on building things: \"Prototypes are easy, production is hard.\" https://t.co/yxZtQQEOBB",
-      "link": "https://x.com/teslaownersSV/status/2124169289074966912",
-      "date": "Sat Nov 21 15:53:18 +0000 2026",
-      "tweet_id": "2124169289074966912",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124169218744803328/vid/avc1/1920x1080/ano9kJtt8z2Ip1vT.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124169218744803328/img/CBcshTvq2FenH_PZ.jpg",
-          "local": "2124169289074966912_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124169218744803328/vid/avc1/1920x1080/ano9kJtt8z2Ip1vT.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124169218744803328/img/CBcshTvq2FenH_PZ.jpg",
-          "local": "2124169289074966912_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈建筑时说：“原型很容易，生产很难。” https://t.co/yxZtQQEOBB"
-    },
-    {
-      "text": "Top 5 reasons the Rokid AI Glasses Style are the perfect holiday gift this year (or a gift to yourself) 🎁\n\n🔥 Holiday Sale: $279 (regularly $399)!\n\n📅 November 19 –&gt; December 1\n\nUse code TOSV10 for an extra $10 off!\n\nShop here  ⬇️\n\nhttps://t.co/XhGUzLkZuP https://t.co/0Op6kauYdN",
-      "link": "https://x.com/teslaownersSV/status/2124145758580478022",
-      "date": "Sat Nov 21 14:19:48 +0000 2026",
-      "tweet_id": "2124145758580478022",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124145294073896960/vid/avc1/1440x2560/Y-mmt-F_zzjpUyk-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124145294073896960/img/clHhQFcJST_Qgipk.jpg",
-          "local": "2124145758580478022_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124145294073896960/vid/avc1/1440x2560/Y-mmt-F_zzjpUyk-.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124145294073896960/img/clHhQFcJST_Qgipk.jpg",
-          "local": "2124145758580478022_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Rokid AI 眼镜风格成为今年完美节日礼物（或送给自己的礼物）的 5 大理由🎁\n\n🔥 假日促销：279 美元（原价 399 美元）！\n\n📅 11 月 19 日 –> 12 月 1 日\n\n使用优惠码 TOSV10 可额外立减 10 美元！\n\n在这里购买⬇️\n\nhttps://t.co/XhGUzLkZuP https://t.co/0Op6kauYdN"
-    },
-    {
-      "text": "I’m thankful for all those fake friends who showed themselves so I could find the real ones. 🫡",
-      "link": "https://x.com/teslaownersSV/status/2124061861649998066",
-      "date": "Sat Nov 21 08:46:25 +0000 2026",
-      "tweet_id": "2124061861649998066",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "Been the roughest week of my life so far. \n\nBut never give up and enjoy each moment of life. You never where it’ll take you. https://t.co/HAsUPBoxTH",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124061570275901440/vid/avc1/720x1280/60HK6Wnsx-KgvddF.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570275901440/img/GtNNM5rXuwLW4yPm.jpg",
-            "local": "2124061861649998066q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124061570212966401/vid/avc1/2160x3840/XfTiajdQwNCLUruk.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570212966401/img/ZALtquySzwn7fyFB.jpg",
-            "local": "2124061861649998066q_1.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124061570275901440/vid/avc1/720x1280/60HK6Wnsx-KgvddF.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570275901440/img/GtNNM5rXuwLW4yPm.jpg",
-            "local": "2124061861649998066q_2.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124061570212966401/vid/avc1/2160x3840/XfTiajdQwNCLUruk.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570212966401/img/ZALtquySzwn7fyFB.jpg",
-            "local": "2124061861649998066q_3.jpg"
-          }
-        ],
-        "text_zh": "迄今为止，这是我一生中最艰难的一周。 \n\n但永远不要放弃并享受生活的每一刻。你永远不知道它会带你去哪里。 https://t.co/HAsUPBoxTH"
-      },
-      "ctx_done": 1,
-      "text_zh": "我感谢所有那些假朋友的出现，这样我才能找到真正的朋友。 🫡"
-    },
-    {
-      "text": "Been the roughest week of my life so far. \n\nBut never give up and enjoy each moment of life. You never where it’ll take you. https://t.co/HAsUPBoxTH",
-      "link": "https://x.com/teslaownersSV/status/2124061630300627126",
-      "date": "Sat Nov 21 08:45:30 +0000 2026",
-      "tweet_id": "2124061630300627126",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124061570275901440/vid/avc1/720x1280/60HK6Wnsx-KgvddF.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570275901440/img/GtNNM5rXuwLW4yPm.jpg",
-          "local": "2124061630300627126_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124061570212966401/vid/avc1/2160x3840/XfTiajdQwNCLUruk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570212966401/img/ZALtquySzwn7fyFB.jpg",
-          "local": "2124061630300627126_1.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124061570275901440/vid/avc1/720x1280/60HK6Wnsx-KgvddF.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570275901440/img/GtNNM5rXuwLW4yPm.jpg",
-          "local": "2124061630300627126_2.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124061570212966401/vid/avc1/2160x3840/XfTiajdQwNCLUruk.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124061570212966401/img/ZALtquySzwn7fyFB.jpg",
-          "local": "2124061630300627126_3.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "迄今为止，这是我一生中最艰难的一周。 \n\n但永远不要放弃并享受生活的每一刻。你永远不知道它会带你去哪里。 https://t.co/HAsUPBoxTH"
     }
   ]
 }
