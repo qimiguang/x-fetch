@@ -1,7 +1,7 @@
 {
   "username": "SawyerMerritt",
-  "updated_at": "2026-11-26T16:49:04Z",
-  "count": 199,
+  "updated_at": "2026-11-27T01:40:08Z",
+  "count": 196,
   "tweets": [
     {
       "text": "Tesla has started sending out invites to their 2026 annual shareholder meeting at Giga Texas on Dec 3rd.",
@@ -2109,44 +2109,6 @@
       "date": "Tue, 27 Oct 2026 03:19:13 GMT",
       "tweet_id": "2114919820168688115",
       "text_zh": "特斯拉刚刚将其 FSD 里程跟踪器从约 160 亿英里更新为 167 亿英里，以反映其不断增长的车队和不断增加的 FSD 使用量。\n\n目前，特斯拉车队在 FSD 下平均每 1.8 秒行驶 1,000 英里，即每天 5000 万英里，即每年 18.2B 英里，自 2026 年 7 月以来增长了 35%。\n\n视频",
-      "ctx_done": 1
-    },
-    {
-      "text": "Lars on the Cybercab production line in new interview:\n\"We actually don’t run the line every day because the line can run so fast it’s currently outpacing our robotaxi deployments, so it’s a bit of a race right now to see who can go faster.”\nVideo",
-      "link": "https://x.com/SawyerMerritt/status/2114774891002273935#m",
-      "date": "Mon, 26 Oct 2026 17:43:19 GMT",
-      "tweet_id": "2114774891002273935",
-      "quoted": {
-        "user": "live_munro",
-        "text": "The full video is now live on @YouTube!\n\nA big thank you to @larsmoravy, @EricETesla, and the rest of the Tesla team for taking the time to walk us through the Cybercab and share the engineering, design, and technology behind it.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114739348461510656/img/XYuOdVEYFhRFpRkn.jpg",
-            "local": "2114774891002273935q_0.jpg"
-          }
-        ],
-        "text_zh": "完整视频现已在@YouTube 上直播！\n\n非常感谢 @larsmoravy、@EricETesla 和特斯拉团队的其他成员花时间带我们了解 Cyber​​cab 并分享其背后的工程、设计和技术。"
-      },
-      "ctx_done": 1,
-      "text_zh": "Lars 在新采访中谈及 Cybercab 生产线：\n“实际上，我们并不是每天都运行这条线路，因为这条线路运行速度非常快，目前已经超过了我们机器人出租车的部署速度，所以现在就像一场竞赛，看看谁能跑得更快。”\n视频"
-    },
-    {
-      "text": "Will take 2 or 3 years",
-      "link": "https://x.com/elonmusk/status/2114774224015663608#m",
-      "date": "Mon, 26 Oct 2026 17:40:40 GMT",
-      "tweet_id": "2114774224015663608",
-      "text_zh": "需要2年或3年的时间",
-      "reply_to": "SawyerMerritt",
-      "ctx_done": 1
-    },
-    {
-      "text": "Verizon's CEO said today that SpaceX will need at least 4-6 years and $300B-$500B to fully build out its @Starlink Mobile U.S. carrier network:\n\n\"Their service just can't compete with a terrestrial network. In suburban and urban areas, where 98% of our revenues are, we're somewhere between 100x–1,000x more efficient than they are. We know exactly what they're going to do. We know who they're talking to on towers. There's no magic wand. There's no secret sauce. There's no shortcut.\n\nThey're going to look at 65,000–80,000 macro sites. They're going to need backhaul, RAN, and a tremendous amount of spectrum. It's going to take a minimum of four to six years to fully build that out. It's going to cost hundreds and hundreds of billions of dollars, I assume somewhere between $300 billion and $500 billion.\n\nThen they need to build retail, customer service, back office systems, et cetera. All of that gets them basically the same network and same capabilities and same cost structure as what we have today. Then sometime over the next four to six years, they have the possibility of becoming the sixth, not the fourth, the sixth competitor in the market.\n\nYou can be sure over these next three to five years or six years, we are not going to be standing still. Four to five years from now, we will be two to three generations better than where we are today. We will have high-speed broadband gig-plus coverage across the country with our millimeter wave. We are ahead of most people and already experimenting with what 6G applications will look like.\"\n\n(via Verizon's Q3 earnings call earlier this morning)",
-      "link": "https://x.com/SawyerMerritt/status/2114764647052308783#m",
-      "date": "Mon, 26 Oct 2026 17:02:36 GMT",
-      "tweet_id": "2114764647052308783",
-      "text_zh": "Verizon 首席执行官今天表示，SpaceX 将需要至少 4-6 年时间和 300B-500B 美元才能全面建设其 @Starlink Mobile 美国运营商网络：\n\n“他们的服务无法与地面网络竞争。在我们 98% 的收入所在的郊区和城市地区，我们的效率比他们高 100 倍到 1,000 倍。我们确切地知道他们要做什么。我们知道他们在塔上与谁交谈。没有魔杖。没有秘密武器。没有捷径。\n\n他们将查看 65,000–80,000 个宏站点。他们将需要回程、RAN 和大量频谱。完全建立起来至少需要四到六年的时间。这将花费数百亿美元，我假设在 3000 亿到 5000 亿美元之间。\n\n然后他们需要构建零售、客户服务、后台系统等。所有这些使他们拥有与我们今天基本相同的网络、相同的功能和相同的成本结构。然后在未来四到六年的某个时候，他们有可能成为市场上的第六个，而不是第四个，第六个竞争对手。\n\n你可以肯定，在接下来的三到五年或六年里，我们不会停滞不前。四到五年后，我们将比今天进步两到三代人。我们将通过毫米波在全国范围内实现高速宽带千兆以上覆盖。我们领先于大多数人，并且已经开始试验 6G 应用的样子。”\n\n（来自 Verizon 今天早上早些时候的第三季度财报电话会议）",
       "ctx_done": 1
     }
   ]

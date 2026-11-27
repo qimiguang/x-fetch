@@ -1,7 +1,7 @@
 {
   "username": "Tsla99T",
-  "updated_at": "2026-11-26T16:48:41Z",
-  "count": 36,
+  "updated_at": "2026-11-27T01:39:40Z",
+  "count": 35,
   "tweets": [
     {
       "text": "希望Jensen想得开\n他的历史地位不亚于乔布斯\n华人的男神！",
@@ -410,27 +410,6 @@
       },
       "ctx_done": 1,
       "text_zh": "6天前，我就明确地给出结论\n特斯拉已经在奥斯汀胜出\n这是建立在实地考察和技术洞见的基础上的扎扎实实的结论\n同意的点赞\n不服的下面留言"
-    },
-    {
-      "text": "FSD v14.3 lite开始向SX正式推送",
-      "link": "https://x.com/Tsla99T/status/2114777401443914123#m",
-      "date": "Mon, 26 Oct 2026 17:53:17 GMT",
-      "tweet_id": "2114777401443914123",
-      "quoted": {
-        "user": "Snowy12430433",
-        "text": "看我得到了什么！🥹",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVkquMFXIAAkjPP.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVkquMFXIAAkjPP.jpg?name=orig",
-            "local": "2114777401443914123q_0.jpg"
-          }
-        ],
-        "text_zh": "看我得到了什么！🥹"
-      },
-      "ctx_done": 1,
-      "text_zh": "FSD v14.3 lite开始向SX正式推送"
     }
   ]
 }

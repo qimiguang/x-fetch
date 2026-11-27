@@ -1,8 +1,30 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-26T16:48:53Z",
-  "count": 161,
+  "updated_at": "2026-11-27T01:39:54Z",
+  "count": 162,
   "tweets": [
+    {
+      "text": "Tesla Self-Driving 15 drove me to Beverly Hills so my girlfriend could go to this frozen yogurt place she likes\n\nIt's a very elegant, sophisticated, and refined driver that coexists so naturally even in a crowded city. https://t.co/CLgPTYbwhz",
+      "link": "https://x.com/wholemars/status/2126002492542509426",
+      "date": "Thu Nov 26 17:17:48 +0000 2026",
+      "tweet_id": "2126002492542509426",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125999185795432448/vid/avc1/3840x2160/c1Oh7aUwcXPc00xt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125999185795432448/img/YhPPT06JXNlasD4M.jpg",
+          "local": "2126002492542509426_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2125999185795432448/vid/avc1/3840x2160/c1Oh7aUwcXPc00xt.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2125999185795432448/img/YhPPT06JXNlasD4M.jpg",
+          "local": "2126002492542509426_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "特斯拉自动驾驶 15 带我去比佛利山庄，这样我女朋友就可以去她喜欢的这个冷冻酸奶店\n\n这是一款非常优雅、成熟、精致的驾驶者，即使在拥挤的城市中也能如此自然地共存。 https://t.co/CLgPTYbwhz"
+    },
     {
       "text": "Tesla Self-Driving 15 first ride with my Dad! \n\nThe new reality view is insane, and it parked perfectly 4/4 times. You guys are going to love this update. https://t.co/l7dPyGUkjP",
       "link": "https://x.com/wholemars/status/2124351433076318396",
