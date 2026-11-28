@@ -1,7 +1,7 @@
 {
   "username": "wholemars",
-  "updated_at": "2026-11-28T03:16:43Z",
-  "count": 138,
+  "updated_at": "2026-11-28T15:21:31Z",
+  "count": 130,
   "tweets": [
     {
       "text": "Tesla Self-Driving 15 took me down the Sunset Strip to Chateau Marmont https://t.co/9djCjnkLGS",
@@ -1692,135 +1692,6 @@
       },
       "ctx_done": 1,
       "text_zh": "Neuralink 正在解决的问题几乎是“符合圣经的”。\n“瘸子能走路，哑巴能说话。”\n— Thrive Capital 的 Nworah Ayogu 博士\n@埃隆马斯克\n视频"
-    },
-    {
-      "text": "We address the limiting factor",
-      "link": "https://x.com/elonmusk/status/2115352603886494204#m",
-      "date": "Wed, 28 Oct 2026 07:58:56 GMT",
-      "tweet_id": "2115352603886494204",
-      "reply_to": "markusdd5",
-      "ctx_done": 1,
-      "text_zh": "我们解决限制因素"
-    },
-    {
-      "text": "2028 Presidential Primary polling",
-      "link": "https://x.com/wholemars/status/2115338580205940900#m",
-      "date": "Wed, 28 Oct 2026 07:03:13 GMT",
-      "tweet_id": "2115338580205940900",
-      "ctx_done": 1,
-      "text_zh": "2028 年总统初选投票"
-    },
-    {
-      "text": "Every time I spin up a thread on my Mac I am amazed at how much slower it is than my linux machines.\n\nI'm so thankful I moved all my code work to Linux.",
-      "link": "https://x.com/theo/status/2115334254808932652#m",
-      "date": "Wed, 28 Oct 2026 06:46:02 GMT",
-      "tweet_id": "2115334254808932652",
-      "ctx_done": 1,
-      "text_zh": "每次我在 Mac 上启动一个线程时，我都会惊讶于它比我的 Linux 机器慢得多。\n\n我非常感激我将所有代码工作都转移到了 Linux 上。"
-    },
-    {
-      "text": "10k Starship launches/year is just from Starbase Louisiana",
-      "link": "https://x.com/elonmusk/status/2115324467295756543#m",
-      "date": "Wed, 28 Oct 2026 06:07:08 GMT",
-      "tweet_id": "2115324467295756543",
-      "quoted": {
-        "user": "xdNiBoR",
-        "text": "In a comment to the FAA, SpaceX says it wants to launch 10,000 times per year. \n\nThe FAA asked for input on where to build new spaceports and how to give rocket launches priority in US airspace. They're preparing for 10,000 launches a year by 2035.\n\nSpaceX replied that rockets aren't the bottleneck anymore, the FAA's outdated air traffic processes are. They created their own airspace tool (Cleared) that most major US airlines already get for free.\n\nThey also noted that Starbase Louisiana is designed for ~30 launches and reentries PER DAY (!!)",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVqgboeX0AE8FzT.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVqgboeX0AE8FzT.jpg?name=orig",
-            "local": "2115324467295756543q_0.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVqgb_JWIAAG8L4.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVqgb_JWIAAG8L4.jpg?name=orig",
-            "local": "2115324467295756543q_1.jpg"
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVqgcSJXcAAK_fi.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVqgcSJXcAAK_fi.jpg?name=orig",
-            "local": "2115324467295756543q_2.jpg"
-          }
-        ],
-        "text_zh": "SpaceX 在给 FAA 的评论中表示，它希望每年发射 10,000 次。 \n\n美国联邦航空局要求就在哪里建造新的太空港以及如何在美国领空优先考虑火箭发射等问题提供意见。他们正准备到 2035 年每年发射 10,000 次。\n\nSpaceX 回应称，火箭不再是瓶颈，美国联邦航空局过时的空中交通流程才是。他们创建了自己的空域工具（Cleared），大多数美国主要航空公司已经免费获得该工具。\n\n他们还指出，路易斯安那州 Starbase 的设计目的是每天进行约 30 次发射和再入（！！）"
-      },
-      "ctx_done": 1,
-      "text_zh": "路易斯安那州 Starbase 每年发射 10,000 艘星际飞船"
-    },
-    {
-      "text": "Chinese consumer confidence",
-      "link": "https://x.com/wholemars/status/2115320000886247659#m",
-      "date": "Wed, 28 Oct 2026 05:49:23 GMT",
-      "tweet_id": "2115320000886247659",
-      "ctx_done": 1,
-      "text_zh": "中国消费者信心"
-    },
-    {
-      "text": "Great to see, we need more of this\nVideo",
-      "link": "https://x.com/wholemars/status/2115301761548464455#m",
-      "date": "Wed, 28 Oct 2026 04:36:55 GMT",
-      "tweet_id": "2115301761548464455",
-      "quoted": {
-        "user": "anduriltech",
-        "text": "BlueChip. Built in America. \n\nAmerica made the first electronic computer to win a war. \n\nNow we depend on our greatest adversaries to build the computers that run our economy and defend our nation. \n\nToday, we bring it home.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115065122033197056/img/HmE-0mkAI1B1vGSh.jpg",
-            "local": "2115301761548464455q_0.jpg"
-          }
-        ],
-        "text_zh": "蓝筹股。建于美国。 \n\n美国制造出第一台电子计算机赢得了战争。 \n\n现在，我们依靠我们最大的对手来制造运行我们的经济和保卫我们的国家的计算机。 \n\n今天，我们把它带回家。"
-      },
-      "ctx_done": 1,
-      "text_zh": "很高兴看到，我们需要更多这样的东西\n视频"
-    },
-    {
-      "text": "Don’t drive drunk, take a Robotaxi instead.",
-      "link": "https://x.com/wholemars/status/2115300978379669797#m",
-      "date": "Wed, 28 Oct 2026 04:33:48 GMT",
-      "tweet_id": "2115300978379669797",
-      "quoted": {
-        "user": "HPOUTX",
-        "text": "There has never been an excuse to drink and drive. With @Tesla expanding their Cybercab/Robotaxi services area across #Houston, there are more ways than ever to get home safely after a night out.\n\nPlan ahead, make the smart choice, and never get behind the wheel impaired. #DontDrinkAndDrive",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig",
-            "full": "https://pbs.twimg.com/media/HVrOmjKXQAAZ6Ll.jpg?name=orig",
-            "local": "2115300978379669797q_0.jpg"
-          }
-        ],
-        "text_zh": "酒后驾车从来没有任何借口。随着 @Tesla 在 #Houston 扩大他们的 Cyber​​cab/Robotaxi 服务范围，在晚上外出后安全回家的方式比以往任何时候都多。\n\n提前计划，做出明智的选择，永远不会因驾驶而受到影响。 #不要酒后驾车"
-      },
-      "ctx_done": 1,
-      "text_zh": "不要酒后驾车，请乘坐机器人出租车。"
-    },
-    {
-      "text": "Waste of time. just let the credit die. Trump will veto it if it gets through congress anyway. \nIf you want to accelerate electrification, pass a national autonomous driving framework.",
-      "link": "https://x.com/wholemars/status/2115284193227976824#m",
-      "date": "Wed, 28 Oct 2026 03:27:06 GMT",
-      "tweet_id": "2115284193227976824",
-      "quoted": {
-        "user": "SawyerMerritt",
-        "text": "More than 160 House Democrats are backing legislation that would bring back the federal EV credit.\n\nHere's what in the bill proposal:\n• Double the EV credit for new EV purchases from $7,500 to $15,000.\n• Double the used EV credit from $4,000 to $8,000.\n• Lower income thresholds for new EV tax credits:\n - Married filing jointly: $225,000 (down from $300,000)\n - Head of household: $169,000 (down from $225,000)\n - Single filers: $112,500 (down from $150,000)\n• This bill would make all these tax incentives permanent.\n\nThe legislation was introduced on October 22 and has been referred to House committees. It has not been passed into law and there is no guarantee it will become law.",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HVr9p3gWoAAjOGH.png?name=orig",
-            "full": "https://pbs.twimg.com/media/HVr9p3gWoAAjOGH.png?name=orig",
-            "local": "2115284193227976824q_0.jpg"
-          }
-        ],
-        "text_zh": "超过 160 名众议院民主党议员支持恢复联邦电动汽车信贷的立法。\n\n以下是该法案提案的内容：\n• 将购买新电动汽车的电动汽车积分翻倍，从 7,500 美元增至 15,000 美元。\n• 将已用电动车积分翻倍，从 4,000 美元增至 8,000 美元。\n• 新电动汽车税收抵免的收入门槛较低：\n - 已婚联合报税：225,000 美元（原为 300,000 美元）\n - 户主：169,000 美元（原为 225,000 美元）\n - 单一申报者：112,500 美元（原为 150,000 美元）\n• 该法案将使所有这些税收优惠措施永久化。\n\n该立法于 10 月 22 日提出，并已提交众议院委员会。它尚未成为法律，也不能保证它会成为法律。"
-      },
-      "ctx_done": 1,
-      "text_zh": "浪费时间。让信用消亡吧。无论如何，如果该法案在国会获得通过，特朗普将否决该法案。 \n如果你想加速电气化，就通过国家自动驾驶框架。"
     }
   ]
 }

@@ -1,8 +1,719 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-28T03:15:53Z",
+  "updated_at": "2026-11-28T15:20:46Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "RT @yousei_anzukun: X Takeover Japan 2026\n初めてボランティアで設営からお手伝いさせて頂きました。\n\n何も無いところから参道や各ブースが出来上がっていく様子。\n提灯の設置ひとつとっても細かく配置が考えられていて、とても楽しかったです。…",
+      "link": "https://x.com/teslaownersSV/status/2126688426921738494",
+      "date": "Sat Nov 28 14:43:27 +0000 2026",
+      "tweet_id": "2126688426921738494",
+      "ctx_done": 1,
+      "text_zh": "RT @yousei_anzukun：X 接管日本 2026\n这是我第一次自愿帮助进行设置。\n\n神社的参道和各种摊位都是从零开始建造的。\n每个灯笼的摆放位置都经过深思熟虑，非常有趣。 ……"
+    },
+    {
+      "text": "Christmas time in Japan. https://t.co/yYX17jdJxo",
+      "link": "https://x.com/teslaownersSV/status/2126687092122210693",
+      "date": "Sat Nov 28 14:38:09 +0000 2026",
+      "tweet_id": "2126687092122210693",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYOCozMasAAW_0r.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYOCozMasAAW_0r.jpg?format=jpg&name=large",
+          "local": "2126687092122210693_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYOCozMasAAW_0r.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYOCozMasAAW_0r.jpg?format=jpg&name=large",
+          "local": "2126687092122210693_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "At @theXtakeover Japan https://t.co/ORj0iX3vCG",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2126681006832799745/vid/avc1/720x1280/qOBAQ-hxR0AwSs9_.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126681006832799745/img/ToDPkybumCpsJcCL.jpg",
+            "local": "2126687092122210693q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2126681006832799745/vid/avc1/720x1280/qOBAQ-hxR0AwSs9_.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126681006832799745/img/ToDPkybumCpsJcCL.jpg",
+            "local": "2126687092122210693q_1.jpg"
+          }
+        ],
+        "text_zh": "@theXtakeover 日本 https://t.co/ORj0iX3vCG"
+      },
+      "ctx_done": 1,
+      "text_zh": "日本圣诞节期间。 https://t.co/yYX17jdJxo"
+    },
+    {
+      "text": "Wrapped Model Y https://t.co/KyB7Gtd9bu",
+      "link": "https://x.com/teslaownersSV/status/2126681890581299333",
+      "date": "Sat Nov 28 14:17:29 +0000 2026",
+      "tweet_id": "2126681890581299333",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126681866262417408/vid/avc1/720x1280/lM5nWBLvof-mzM3V.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126681866262417408/img/ffcfnEgkqQs_etNl.jpg",
+          "local": "2126681890581299333_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126681866262417408/vid/avc1/720x1280/lM5nWBLvof-mzM3V.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126681866262417408/img/ffcfnEgkqQs_etNl.jpg",
+          "local": "2126681890581299333_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "包裹的 Model Y https://t.co/KyB7Gtd9bu"
+    },
+    {
+      "text": "X Takeover Japan 2026\n初めてボランティアで設営からお手伝いさせて頂きました。\n\n何も無いところから参道や各ブースが出来上がっていく様子。\n提灯の設置ひとつとっても細かく配置が考えられていて、とても楽しかったです。\n\n運営の方や他のボランティアスタッフの方々のフットワークの軽さに感服。 https://t.co/vL1VQ6m18t",
+      "link": "https://x.com/yousei_anzukun/status/2126681875855143196",
+      "date": "Sat Nov 28 14:17:25 +0000 2026",
+      "tweet_id": "2126681875855143196",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYN94mOaUAA1u6u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYN94mOaUAA1u6u.jpg?format=jpg&name=large",
+          "local": "2126681875855143196_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYN94mJa8AAU7JT.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYN94mJa8AAU7JT.jpg?format=jpg&name=large",
+          "local": "2126681875855143196_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYN94mVaIAAn7gk.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYN94mVaIAAn7gk.jpg?format=jpg&name=large",
+          "local": "2126681875855143196_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYN94mOaUAA1u6u.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYN94mOaUAA1u6u.jpg?format=jpg&name=large",
+          "local": "2126681875855143196_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYN94mJa8AAU7JT.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYN94mJa8AAU7JT.jpg?format=jpg&name=large",
+          "local": "2126681875855143196_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYN94mVaIAAn7gk.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYN94mVaIAAn7gk.jpg?format=jpg&name=large",
+          "local": "2126681875855143196_5.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "X 接管日本 2026\n这是我第一次自愿帮助进行设置。\n\n神社的参道和各种摊位都是从零开始建造的。\n每个灯笼的摆放位置都经过深思熟虑，非常有趣。\n\n组织者和其他志愿者的轻盈脚步给我留下了深刻的印象。 https://t.co/vL1VQ6m18t"
+    },
+    {
+      "text": "At @theXtakeover Japan https://t.co/ORj0iX3vCG",
+      "link": "https://x.com/teslaownersSV/status/2126681062642241739",
+      "date": "Sat Nov 28 14:14:11 +0000 2026",
+      "tweet_id": "2126681062642241739",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126681006832799745/vid/avc1/720x1280/qOBAQ-hxR0AwSs9_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126681006832799745/img/ToDPkybumCpsJcCL.jpg",
+          "local": "2126681062642241739_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126681006832799745/vid/avc1/720x1280/qOBAQ-hxR0AwSs9_.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126681006832799745/img/ToDPkybumCpsJcCL.jpg",
+          "local": "2126681062642241739_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "@theXtakeover 日本 https://t.co/ORj0iX3vCG"
+    },
+    {
+      "text": "RT @Denkiyohoushi: イーチャでTOCJ2026に出展します🚘️🔌⚡\n準備中ですがたくさんのEVが来ていて楽しそう☺️明日は１日おりますので、ぜひお越しください✨\n#テスラ　#EV #EV充電 https://t.co/fA0430aX7H",
+      "link": "https://x.com/teslaownersSV/status/2126680740326785277",
+      "date": "Sat Nov 28 14:12:54 +0000 2026",
+      "tweet_id": "2126680740326785277",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=large",
+          "local": "2126680740326785277_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=large",
+          "local": "2126680740326785277_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @Denkiyohoushi：Icha 将在 TOCJ2026 展出🚘️🔌⚡\n我们还在准备中，但是看起来很多电动车都来了，看起来很有趣☺️明天我们会在那里一整天，所以请来参观我们✨\n#特斯拉 #EV #EV 充电 https://t.co/fA0430aX7H"
+    },
+    {
+      "text": "RT @kurumiice: X Takeover Japan楽しみ！\n明日お会いできる方、よろしくお願いします☺️ https://t.co/yUiHFer7Pd",
+      "link": "https://x.com/teslaownersSV/status/2126680714074566691",
+      "date": "Sat Nov 28 14:12:48 +0000 2026",
+      "tweet_id": "2126680714074566691",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=large",
+          "local": "2126680714074566691_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=large",
+          "local": "2126680714074566691_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @kurumiice：期待 X 接管日本！\n我们期待明天见到您☺️ https://t.co/yUiHFer7Pd"
+    },
+    {
+      "text": "𝕏 takeover in Japan",
+      "link": "https://x.com/teslaownersSV/status/2126664346436796855",
+      "date": "Sat Nov 28 13:07:46 +0000 2026",
+      "tweet_id": "2126664346436796855",
+      "quoted": {
+        "user": "sa_futurist",
+        "text": "@corbinwilliams @teslaownersSV @theXtakeover @TeslaOwners_JP Here we go! https://t.co/NwLpKzJRow",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=large",
+            "local": "2126664346436796855q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=large",
+            "local": "2126664346436796855q_1.jpg"
+          }
+        ],
+        "text_zh": "@corbinwilliams @teslaownersSV @theXtakeover @TeslaOwners_JP 开始吧！ https://t.co/NwLpKzJRow"
+      },
+      "ctx_done": 1,
+      "text_zh": "𝕏 收购日本"
+    },
+    {
+      "text": "Hella Teslas in Japan https://t.co/WArOqyZrJ6",
+      "link": "https://x.com/teslaownersSV/status/2126664176231977211",
+      "date": "Sat Nov 28 13:07:05 +0000 2026",
+      "tweet_id": "2126664176231977211",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126664149413568512/vid/avc1/720x1280/VSmSDCbIrMatGVOv.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126664149413568512/img/HavUeH2_gfJDgbNc.jpg",
+          "local": "2126664176231977211_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126664149375856640/vid/avc1/720x1280/-Xdr5iF4NyLSJb5N.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126664149375856640/img/n1RoUBPXjJkFX6KS.jpg",
+          "local": "2126664176231977211_1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126664149413568512/vid/avc1/720x1280/VSmSDCbIrMatGVOv.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126664149413568512/img/HavUeH2_gfJDgbNc.jpg",
+          "local": "2126664176231977211_2.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126664149375856640/vid/avc1/720x1280/-Xdr5iF4NyLSJb5N.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126664149375856640/img/n1RoUBPXjJkFX6KS.jpg",
+          "local": "2126664176231977211_3.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "海拉·特斯拉在日本 https://t.co/WArOqyZrJ6"
+    },
+    {
+      "text": "@corbinwilliams @teslaownersSV @theXtakeover @TeslaOwners_JP Here we go! https://t.co/NwLpKzJRow",
+      "link": "https://x.com/sa_futurist/status/2126657485776023631",
+      "date": "Sat Nov 28 12:40:30 +0000 2026",
+      "tweet_id": "2126657485776023631",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=large",
+          "local": "2126657485776023631_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNntYcaEAA_Dya.jpg?format=jpg&name=large",
+          "local": "2126657485776023631_1.jpg"
+        }
+      ],
+      "reply_to": "corbinwilliams",
+      "ctx_done": 1,
+      "text_zh": "@corbinwilliams @teslaownersSV @theXtakeover @TeslaOwners_JP 开始吧！ https://t.co/NwLpKzJRow"
+    },
+    {
+      "text": "RT @teslaownersSV: Hey @elonmusk when is FSD coming to Japan ?",
+      "link": "https://x.com/teslaownersSV/status/2126653578916061664",
+      "date": "Sat Nov 28 12:24:59 +0000 2026",
+      "tweet_id": "2126653578916061664",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：嘿@elonmusk FSD 什么时候来到日本？"
+    },
+    {
+      "text": "X Takeover Japan楽しみ！\n明日お会いできる方、よろしくお願いします☺️ https://t.co/yUiHFer7Pd",
+      "link": "https://x.com/kurumiice/status/2126640699869425759",
+      "date": "Sat Nov 28 11:33:48 +0000 2026",
+      "tweet_id": "2126640699869425759",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=large",
+          "local": "2126640699869425759_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNYcdob0AEnm5b.jpg?format=jpg&name=large",
+          "local": "2126640699869425759_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "期待X接管日本！\n我们期待明天见到您☺️ https://t.co/yUiHFer7Pd"
+    },
+    {
+      "text": "Hey @elonmusk when is FSD coming to Japan ?",
+      "link": "https://x.com/teslaownersSV/status/2126634215446052884",
+      "date": "Sat Nov 28 11:08:02 +0000 2026",
+      "tweet_id": "2126634215446052884",
+      "ctx_done": 1,
+      "text_zh": "嘿@elonmusk FSD 什么时候来到日本？"
+    },
+    {
+      "text": "RT @WR4NYGov: X Takeover Yokohama https://t.co/wFEB3JHCIS",
+      "link": "https://x.com/teslaownersSV/status/2126632969339318507",
+      "date": "Sat Nov 28 11:03:05 +0000 2026",
+      "tweet_id": "2126632969339318507",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=large",
+          "local": "2126632969339318507_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=large",
+          "local": "2126632969339318507_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @WR4NYGov：X 接管横滨 https://t.co/wFEB3JHCIS"
+    },
+    {
+      "text": "RT @eco_driver_ze2: 来た。 https://t.co/l8esEHgzBF",
+      "link": "https://x.com/teslaownersSV/status/2126632529948209535",
+      "date": "Sat Nov 28 11:01:20 +0000 2026",
+      "tweet_id": "2126632529948209535",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=large",
+          "local": "2126632529948209535_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=large",
+          "local": "2126632529948209535_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @eco_driver_ze2：就在这里。 https://t.co/l8esEHgzBF"
+    },
+    {
+      "text": "RT @TeslaOwners_JP: みんなで作り上げた会場です！\n 前夜祭盛り上がっております！ https://t.co/o0nr23UIka",
+      "link": "https://x.com/teslaownersSV/status/2126632495798239601",
+      "date": "Sat Nov 28 11:01:12 +0000 2026",
+      "tweet_id": "2126632495798239601",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126630233289981952/vid/avc1/1080x1920/_PWnRuJXYN_Pj0M4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126630233289981952/img/T2V-ISpy3EiVxqQA.jpg",
+          "local": "2126632495798239601_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126630233289981952/vid/avc1/1080x1920/_PWnRuJXYN_Pj0M4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126630233289981952/img/T2V-ISpy3EiVxqQA.jpg",
+          "local": "2126632495798239601_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaOwners_JP：这是大家共同创造的场地！\n 节日前夕正如火如荼地进行着！ https://t.co/o0nr23UIka"
+    },
+    {
+      "text": "みんなで作り上げた会場です！\n 前夜祭盛り上がっております！ https://t.co/o0nr23UIka",
+      "link": "https://x.com/TeslaOwners_JP/status/2126630813076979985",
+      "date": "Sat Nov 28 10:54:31 +0000 2026",
+      "tweet_id": "2126630813076979985",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126630233289981952/vid/avc1/1080x1920/_PWnRuJXYN_Pj0M4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126630233289981952/img/T2V-ISpy3EiVxqQA.jpg",
+          "local": "2126630813076979985_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126630478262493184/vid/avc1/1920x1080/J3Tb-5Xc6xgvf25Y.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126630478262493184/img/Y_F5mGLjWVT8wisv.jpg",
+          "local": "2126630813076979985_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPXufbAAACG1V.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPXufbAAACG1V.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPZqBa0AEvDGu.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPZqBa0AEvDGu.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPbbXakAAHlsp.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPbbXakAAHlsp.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPcoUa8AAHBC0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPcoUa8AAHBC0.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_5.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126630233289981952/vid/avc1/1080x1920/_PWnRuJXYN_Pj0M4.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126630233289981952/img/T2V-ISpy3EiVxqQA.jpg",
+          "local": "2126630813076979985_6.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126630478262493184/vid/avc1/1920x1080/J3Tb-5Xc6xgvf25Y.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126630478262493184/img/Y_F5mGLjWVT8wisv.jpg",
+          "local": "2126630813076979985_7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPXufbAAACG1V.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPXufbAAACG1V.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPZqBa0AEvDGu.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPZqBa0AEvDGu.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_9.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPbbXakAAHlsp.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPbbXakAAHlsp.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_10.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYNPcoUa8AAHBC0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYNPcoUa8AAHBC0.jpg?format=jpg&name=large",
+          "local": "2126630813076979985_11.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这是大家共同创造的场地！\n 节日前夕正如火如荼地进行着！ https://t.co/o0nr23UIka"
+    },
+    {
+      "text": "X Takeover Yokohama https://t.co/wFEB3JHCIS",
+      "link": "https://x.com/WR4NYGov/status/2126598689997324518",
+      "date": "Sat Nov 28 08:46:52 +0000 2026",
+      "tweet_id": "2126598689997324518",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=large",
+          "local": "2126598689997324518_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMyLMgWgAA9sQ8.jpg?format=jpg&name=large",
+          "local": "2126598689997324518_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "X 接管横滨 https://t.co/wFEB3JHCIS"
+    },
+    {
+      "text": "来た。 https://t.co/l8esEHgzBF",
+      "link": "https://x.com/eco_driver_ze2/status/2126594393448825311",
+      "date": "Sat Nov 28 08:29:48 +0000 2026",
+      "tweet_id": "2126594393448825311",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=large",
+          "local": "2126594393448825311_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMuUxLbcAAsA9E.jpg?format=jpg&name=large",
+          "local": "2126594393448825311_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "就在这里。 https://t.co/l8esEHgzBF"
+    },
+    {
+      "text": "RT @yasu_n: X TAKEOVER JAPAN 2026の前夜祭は今夜、パシフィコ横浜 展示ホールDで18:00開会（17:30開場）。\n\nチケットは明日11/29の本祭とは別で、食事とソフトドリンク付き、お酒は各自持参です。\n明日はメーカー試乗会（予約制）もあるので…",
+      "link": "https://x.com/teslaownersSV/status/2126577609228402915",
+      "date": "Sat Nov 28 07:23:06 +0000 2026",
+      "tweet_id": "2126577609228402915",
+      "ctx_done": 1,
+      "text_zh": "RT @yasu_n：X TAKEOVER JAPAN 2026 前夕将于今晚 18:00（17:30 开门）在 Pacifico 横滨展览厅 D 举行。\n\n门票与明天（11 月 29 日）的主要节日分开，包括食物和软饮料，因此请自带酒水。\n明天还有厂家试驾活动（需预约）……"
+    },
+    {
+      "text": "JUST IN: Elon Musk says Google has expressed interest in renting more compute from SpaceX.\n\nHe adds that the average rental price per GPU for SpaceX compute is rising. Large training blocks are getting pricier, while small blocks under about 5,000 GPUs are getting cheaper.",
+      "link": "https://x.com/teslaownersSV/status/2126574848537178174",
+      "date": "Sat Nov 28 07:12:08 +0000 2026",
+      "tweet_id": "2126574848537178174",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@XFreeze Not sure who will buy more, but Google has expressed interest in renting more compute from us",
+        "text_zh": "@XFreeze 不确定谁会购买更多，但 Google 已表示有兴趣从我们这里租用更多计算资源"
+      },
+      "ctx_done": 1,
+      "text_zh": "最新消息：埃隆·马斯克 (Elon Musk) 表示，谷歌已表示有兴趣从 SpaceX 租用更多计算设备。\n\n他补充说，SpaceX 计算的每个 GPU 的平均租赁价格正在上涨。大型训练块的价格越来越高，而 5,000 个 GPU 左右的小训练块则越来越便宜。"
+    },
+    {
+      "text": "@XFreeze Not sure who will buy more, but Google has expressed interest in renting more compute from us",
+      "link": "https://x.com/elonmusk/status/2126569877221621795",
+      "date": "Sat Nov 28 06:52:23 +0000 2026",
+      "tweet_id": "2126569877221621795",
+      "reply_to": "XFreeze",
+      "ctx_done": 1,
+      "text_zh": "@XFreeze 不确定谁会购买更多，但 Google 已表示有兴趣从我们这里租用更多计算资源"
+    },
+    {
+      "text": "RT @teslaownersSV: Jeff Bezos on @elonmusk: \"Judging by the results, he must be a very capable leader.\" Starlink is one of those results. h…",
+      "link": "https://x.com/teslaownersSV/status/2126569376015151288",
+      "date": "Sat Nov 28 06:50:23 +0000 2026",
+      "tweet_id": "2126569376015151288",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：杰夫·贝索斯对@elonmusk：“从结果来看，他一定是一位非常有能力的领导者。”星链就是其中之一。嗯……"
+    },
+    {
+      "text": "For me, it's this one.\nhttps://t.co/1RK3JxlU4Y",
+      "link": "https://x.com/teslaownersSV/status/2126568637397921858",
+      "date": "Sat Nov 28 06:47:27 +0000 2026",
+      "tweet_id": "2126568637397921858",
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Elon Musk on betting everything on Tesla and SpaceX:\n\n\"So I gave the companies all the money that I had.\"\n\n@elonmusk to TOSV, 2022. Video: TOSV, @Tesla, @SpaceX https://t.co/0mgiXjUZSB",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/ext_tw_video/2126504507194400768/pu/vid/avc1/1280x720/_NBLECfTj_PMv0mc.mp4?tag=12",
+            "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126504507194400768/pu/img/SGRCGTtm0lQIK0S3.jpg",
+            "local": "2126568637397921858q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/ext_tw_video/2126504507194400768/pu/vid/avc1/1280x720/_NBLECfTj_PMv0mc.mp4?tag=12",
+            "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126504507194400768/pu/img/SGRCGTtm0lQIK0S3.jpg",
+            "local": "2126568637397921858q_1.jpg"
+          }
+        ],
+        "text_zh": "埃隆·马斯克 (Elon Musk) 将一切押注于特斯拉和 SpaceX：\n\n“所以我把我所有的钱都给了这些公司。”\n\n@elonmusk 致 TOSV，2022。视频：TOSV、@Tesla、@SpaceX https://t.co/0mgiXjUZSB"
+      },
+      "ctx_done": 1,
+      "text_zh": "对我来说，就是这个。\nhttps://t.co/1RK3JxlU4Y"
+    },
+    {
+      "text": "What Elon moment is still hard to believe for you?",
+      "link": "https://x.com/teslaownersSV/status/2126568636601028792",
+      "date": "Sat Nov 28 06:47:27 +0000 2026",
+      "tweet_id": "2126568636601028792",
+      "ctx_done": 1,
+      "text_zh": "埃隆的哪个时刻对你来说仍然难以相信？"
+    },
+    {
+      "text": "イーチャでTOCJ2026に出展します🚘️🔌⚡\n準備中ですがたくさんのEVが来ていて楽しそう☺️明日は１日おりますので、ぜひお越しください✨\n#テスラ　#EV #EV充電 https://t.co/fA0430aX7H",
+      "link": "https://x.com/Denkiyohoushi/status/2126568100019794068",
+      "date": "Sat Nov 28 06:45:19 +0000 2026",
+      "tweet_id": "2126568100019794068",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWYNZaUAAKNY8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWYNZaUAAKNY8.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWZEKbkAEUaGr.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWZEKbkAEUaGr.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWaDEaMAAk-om.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWaDEaMAAk-om.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWXb6bgAE_6MI.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWYNZaUAAKNY8.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWYNZaUAAKNY8.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWZEKbkAEUaGr.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWZEKbkAEUaGr.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYMWaDEaMAAk-om.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYMWaDEaMAAk-om.jpg?format=jpg&name=large",
+          "local": "2126568100019794068_7.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "Icha将参展TOCJ2026🚘️🔌⚡\n我们还在准备中，但是看起来很多电动车都来了，看起来很有趣☺️明天我们会在那里一整天，所以请来参观我们✨\n#特斯拉 #EV #EV 充电 https://t.co/fA0430aX7H"
+    },
+    {
+      "text": "The 𝕏 takeover Japan will be the largest EV in all of Japan",
+      "link": "https://x.com/teslaownersSV/status/2126566917611880649",
+      "date": "Sat Nov 28 06:40:37 +0000 2026",
+      "tweet_id": "2126566917611880649",
+      "quoted": {
+        "user": "TeslaOwners_JP",
+        "text": "実はTOCJ全国ミーティングでは毎年キッズコーナーを設けています👦🏻\n\n昨年は予想以上にご家族連れの方にご来場いただき、キッズコーナーも大盛況でした↓\n\n今年のX TAKEOVER Japan 2026では、千本くじや風船はもちろん、さらにパワーアップした内容を予定しています🧸\n#テスラ #tesla #XTAKEOVERJapan https://t.co/7L3ZR8Mt80",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTNj_7zasAAmtSz.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HTNj_7zasAAmtSz.jpg?format=jpg&name=large",
+            "local": "2126566917611880649q_0.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTNkBmSagAArOF4.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HTNkBmSagAArOF4.jpg?format=jpg&name=large",
+            "local": "2126566917611880649q_1.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTNj_7zasAAmtSz.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HTNj_7zasAAmtSz.jpg?format=jpg&name=large",
+            "local": "2126566917611880649q_2.jpg"
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTNkBmSagAArOF4.jpg?format=jpg&name=medium",
+            "full": "https://pbs.twimg.com/media/HTNkBmSagAArOF4.jpg?format=jpg&name=large",
+            "local": "2126566917611880649q_3.jpg"
+          }
+        ],
+        "text_zh": "事实上，我们每年在 TOCJ 全国会议上都会设立一个儿童角👦🏻\n\n去年参加活动的家庭数量超出预期，儿童角取得了巨大成功↓\n\n今年的X TAKEOVER Japan 2026不仅有千本彩票和气球，还有更强大的内容🧸\n#特斯拉 #tesla #XTAKEOVERJapan https://t.co/7L3ZR8Mt80"
+      },
+      "ctx_done": 1,
+      "text_zh": "𝕏 收购日本将成为全日本最大的电动汽车"
+    },
+    {
+      "text": "RT @TeslaOwners_JP: 【走行中に、充電中に仲間が見つかる！】\nX Takeoverプラカードでイベントに参加する仲間を見つけよう🔥👀… https://t.co/tckLbfNJQ8",
+      "link": "https://x.com/teslaownersSV/status/2126565394379125026",
+      "date": "Sat Nov 28 06:34:34 +0000 2026",
+      "tweet_id": "2126565394379125026",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=large",
+          "local": "2126565394379125026_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=large",
+          "local": "2126565394379125026_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaOwners_JP：【开车的时候，充电的时候也能找到朋友！ ]\n寻找朋友带着 X Takeover 标语牌参加活动🔥👀… https://t.co/tckLbfNJQ8"
+    },
+    {
+      "text": "Jeff Bezos on @elonmusk: \"Judging by the results, he must be a very capable leader.\" Starlink is one of those results. https://t.co/ORFFCi8kTl",
+      "link": "https://x.com/teslaownersSV/status/2126559712611115025",
+      "date": "Sat Nov 28 06:11:59 +0000 2026",
+      "tweet_id": "2126559712611115025",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126559681942335488/pu/vid/avc1/1280x720/iFayPPKAqiRPEG7I.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126559681942335488/pu/img/g9BM90cphLuG_EXW.jpg",
+          "local": "2126559712611115025_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126559681942335488/pu/vid/avc1/1280x720/iFayPPKAqiRPEG7I.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126559681942335488/pu/img/g9BM90cphLuG_EXW.jpg",
+          "local": "2126559712611115025_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "杰夫·贝索斯 (Jeff Bezos) 在@elonmusk 上表示：“从结果来看，他一定是一位非常有能力的领导者。”星链就是其中之一。 https://t.co/ORFFCi8kTl"
+    },
     {
       "text": "JUST IN: Tesla FSD will soon let you tap a spot on the screen in Reality View and have the car drive there.\n\n@elonmusk says the feature is coming in a point release in a week or two.\nhttps://t.co/zNpCtThOw1",
       "link": "https://x.com/teslaownersSV/status/2126513397160202422",
@@ -24,6 +735,14 @@
       "reply_to": "BLKMDL3",
       "ctx_done": 1,
       "text_zh": "@BLKMDL3 在现实视图中指向屏幕上的某个点并让汽车行驶到那里的能力将在一两周内发布一个点版本"
+    },
+    {
+      "text": "X TAKEOVER JAPAN 2026の前夜祭は今夜、パシフィコ横浜 展示ホールDで18:00開会（17:30開場）。\n\nチケットは明日11/29の本祭とは別で、食事とソフトドリンク付き、お酒は各自持参です。\n明日はメーカー試乗会（予約制）もあるので、枠は今夜のうちに見ておくと安心かも。",
+      "link": "https://x.com/yasu_n/status/2126511416320389534",
+      "date": "Sat Nov 28 03:00:04 +0000 2026",
+      "tweet_id": "2126511416320389534",
+      "ctx_done": 1,
+      "text_zh": "X TAKEOVER JAPAN 2026 前夕将于今晚 18:00（17:30 开门）在 Pacifico 横滨展览馆 D 举行。\n\n门票与明天（11 月 29 日）的主要节日分开，包括食物和软饮料，因此请自带酒水。\n明天还将举办制造商试驾活动（需要预订），因此今晚查看一下时段可能是个好主意。"
     },
     {
       "text": "Elon Musk on betting everything on Tesla and SpaceX:\n\n\"So I gave the companies all the money that I had.\"\n\n@elonmusk to TOSV, 2022. Video: TOSV, @Tesla, @SpaceX https://t.co/0mgiXjUZSB",
@@ -868,6 +1587,64 @@
       ],
       "ctx_done": 1,
       "text_zh": "新闻：据报道，特斯拉已申请收购德国机器制造商埃马克的资产，扩大其内部生产人形机器人组件的力度。\n\n- 埃马克专注于机器人技术中使用的精密齿轮和驱动系统。\n- 这笔交易可能带来约 220 EMAG https://t.co/PsTNoLKCrh"
+    },
+    {
+      "text": "【走行中に、充電中に仲間が見つかる！】\nX Takeoverプラカードでイベントに参加する仲間を見つけよう🔥👀 https://t.co/tckLbfNJQ8",
+      "link": "https://x.com/TeslaOwners_JP/status/2126277131382751436",
+      "date": "Fri Nov 27 11:29:07 +0000 2026",
+      "tweet_id": "2126277131382751436",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=large",
+          "local": "2126277131382751436_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMou3bkAAKAxN.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMou3bkAAKAxN.jpg?format=jpg&name=large",
+          "local": "2126277131382751436_1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMp9tbMAABwti.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMp9tbMAABwti.png?format=jpg&name=large",
+          "local": "2126277131382751436_2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMr6-aoAEfsve.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMr6-aoAEfsve.jpg?format=jpg&name=large",
+          "local": "2126277131382751436_3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMiYhbgAANX_c.png?format=jpg&name=large",
+          "local": "2126277131382751436_4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMou3bkAAKAxN.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMou3bkAAKAxN.jpg?format=jpg&name=large",
+          "local": "2126277131382751436_5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMp9tbMAABwti.png?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMp9tbMAABwti.png?format=jpg&name=large",
+          "local": "2126277131382751436_6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYIMr6-aoAEfsve.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYIMr6-aoAEfsve.jpg?format=jpg&name=large",
+          "local": "2126277131382751436_7.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "【边开车边充电也能找到朋友！ ]\n寻找朋友带着 X Takeover 标语牌参加活动🔥👀 https://t.co/tckLbfNJQ8"
     },
     {
       "text": "What did you eat tonight ? Show me a picture.",
@@ -3567,584 +4344,6 @@
       ],
       "ctx_done": 1,
       "text_zh": "介绍无人驾驶的 Quanta-D。\n\n世界上没有小型无人船能够以更快的速度行驶更远的距离。\n20 节时 2,100+ 海里，水翼。 \n混合模式下 3,000+ nmi。\n\n不是进步。能力的飞跃。\n美国将在海上领先 \n创新。大规模地。\n\n这就是我们所做的。 🇺🇸 https://t.co/0Yp3hGxN8Z"
-    },
-    {
-      "text": "@StockSavvyShay Everyone is your friend when the chips are up, but those who support you when the chips are down are your real friends. \n\nFair-weather friends are worthless.",
-      "link": "https://x.com/elonmusk/status/2124924349710741798",
-      "date": "Mon Nov 23 17:53:38 +0000 2026",
-      "tweet_id": "2124924349710741798",
-      "reply_to": "StockSavvyShay",
-      "ctx_done": 1,
-      "text_zh": "@StockSavvyShay 当筹码上涨时每个人都是你的朋友，但是当筹码下跌时那些支持你的人才是你真正的朋友。 \n\n酒肉朋友毫无价值。"
-    },
-    {
-      "text": "I still can’t believe this is a real video I captured https://t.co/MNxoNH65V2",
-      "link": "https://x.com/AJamesMcCarthy/status/2124887397037216215",
-      "date": "Mon Nov 23 15:26:48 +0000 2026",
-      "tweet_id": "2124887397037216215",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124887260864897025/vid/avc1/1080x1920/Zvs3Dmx5EcavIV86.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124887260864897025/img/IqCq4Mq9UouN69aY.jpg",
-          "local": "2124887397037216215_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124887260864897025/vid/avc1/1080x1920/Zvs3Dmx5EcavIV86.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124887260864897025/img/IqCq4Mq9UouN69aY.jpg",
-          "local": "2124887397037216215_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "我仍然不敢相信这是我拍摄的真实视频 https://t.co/MNxoNH65V2"
-    },
-    {
-      "text": "Thank you Tesla community\n\n@RetiredYoungNW @congressdj @SjvTesla @ninjamattic @bauminater @TeslaBoomerMama @MyTeslaMoonship @RatsTesla @MrCyberdyne @Skythelimit4545 @TitaniumTomP @cybrgalaxy @SawyerMerritt @TeslaTim2 @drsarah @TesLatina @cyberoffroad https://t.co/oVGS6lxxY7",
-      "link": "https://x.com/teslaownersSV/status/2124767032273215611",
-      "date": "Mon Nov 23 07:28:31 +0000 2026",
-      "tweet_id": "2124767032273215611",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124766371489910784/vid/avc1/2160x3840/4VfbpKONaLe_0Iyn.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124766371489910784/img/qc4_OYH-q-Jnfrc3.jpg",
-          "local": "2124767032273215611_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124766371489910784/vid/avc1/2160x3840/4VfbpKONaLe_0Iyn.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124766371489910784/img/qc4_OYH-q-Jnfrc3.jpg",
-          "local": "2124767032273215611_1.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother. https://t.co/rlA4F00A0k",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124564492323594240/vid/avc1/1080x1920/u4Zkgc4gMPeZyUiN.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124767032273215611q_0.jpg"
-          },
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2124564492323594240/vid/avc1/1080x1920/u4Zkgc4gMPeZyUiN.mp4",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124767032273215611q_1.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。 https://t.co/rlA4F00A0k"
-      },
-      "ctx_done": 1,
-      "text_zh": "感谢特斯拉社区\n\n@RetiredYoungNW@congressdj@SjvTesla@ninjamattic@bauminater@TeslaBoomerMama@MyTeslaMoonship@RatsTesla@MrCyberdyne@Skythelimit4545@TitaniumTomP@cybrgalaxy@SawyerMerritt@TeslaTim2@drsarah@TesLatina@cyberoffroad https://t.co/oVGS6lxxY7"
-    },
-    {
-      "text": "Stop everything\n\nHug your spouse and kids.",
-      "link": "https://x.com/teslaownersSV/status/2124766032393056329",
-      "date": "Mon Nov 23 07:24:33 +0000 2026",
-      "tweet_id": "2124766032393056329",
-      "ctx_done": 1,
-      "text_zh": "停止一切\n\n拥抱你的配偶和孩子。"
-    },
-    {
-      "text": "On this day in 2023: a Falcon 9 carrying 23 Starlink satellites lifted off from Florida and broke the record for the most orbital launches the world had ever flown in a single year (180).\nThe booster on that flight was on its 15th mission. That same booster has now flown 37 https://t.co/96sfPkvLk3",
-      "link": "https://x.com/teslaownersSV/status/2124761493866676231",
-      "date": "Mon Nov 23 07:06:30 +0000 2026",
-      "tweet_id": "2124761493866676231",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124761431216365568/vid/avc1/1920x1080/lznQOX_iYidCv2o9.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124761431216365568/img/vzt8VAcLy1aipuKh.jpg",
-          "local": "2124761493866676231_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124761431216365568/vid/avc1/1920x1080/lznQOX_iYidCv2o9.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124761431216365568/img/vzt8VAcLy1aipuKh.jpg",
-          "local": "2124761493866676231_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "2023 年的今天：搭载 23 颗星链卫星的猎鹰 9 号从佛罗里达州升空，打破了世界上一年内轨道发射次数最多的记录（180 颗）。\n该航班上的助推器正在进行第 15 次任务。该助推器现已飞行 37 次 https://t.co/96sfPkvLk3"
-    },
-    {
-      "text": "RT @teslaownersSV: Tesla's FSD V15 screen is not the old visualization. Tesla calls it Reality View, a live view from above the car that sh…",
-      "link": "https://x.com/teslaownersSV/status/2124759973381157020",
-      "date": "Mon Nov 23 07:00:28 +0000 2026",
-      "tweet_id": "2124759973381157020",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：特斯拉的 FSD V15 屏幕不是旧的可视化。特斯拉称之为“现实视图”，即从汽车上方观看的实时视图，..."
-    },
-    {
-      "text": "Tesla's FSD V15 screen is not the old visualization. Tesla calls it Reality View, a live view from above the car that shows what FSD plans to do. \n\nElon says it is real-time AI video generation, no game engine, on about half of one AI4 chip. He also says the delay is a bit high https://t.co/0s2kP2ZskO",
-      "link": "https://x.com/teslaownersSV/status/2124747853381648849",
-      "date": "Mon Nov 23 06:12:18 +0000 2026",
-      "tweet_id": "2124747853381648849",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124747647382847488/vid/avc1/1078x1920/exAN6T1wdQTnrRrD.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124747647382847488/img/OnDog4lJWJpyWT7r.jpg",
-          "local": "2124747853381648849_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124747647382847488/vid/avc1/1078x1920/exAN6T1wdQTnrRrD.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124747647382847488/img/OnDog4lJWJpyWT7r.jpg",
-          "local": "2124747853381648849_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "特斯拉的 FSD V15 屏幕并不是旧的可视化。特斯拉将其称为“现实视图”，即从汽车上方的实时视图，显示 FSD 计划做什么。 \n\nElon 表示，这是实时 AI 视频生成，没有游戏引擎，大约一半的 AI4 芯片上。他还说延迟有点高 https://t.co/0s2kP2ZskO"
-    },
-    {
-      "text": "33 Raptor engines firing at full power while Super Heavy stays bolted to the pad. https://t.co/VjzJI6YXVX",
-      "link": "https://x.com/teslaownersSV/status/2124712826543714541",
-      "date": "Mon Nov 23 03:53:07 +0000 2026",
-      "tweet_id": "2124712826543714541",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124712774119149568/vid/avc1/1280x720/asOPjPAleLAr9Jh3.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124712774119149568/img/JxEBx8Qu5rFS9vlR.jpg",
-          "local": "2124712826543714541_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124712774119149568/vid/avc1/1280x720/asOPjPAleLAr9Jh3.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124712774119149568/img/JxEBx8Qu5rFS9vlR.jpg",
-          "local": "2124712826543714541_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "33 台猛禽发动机全功率运转，而 Super Heavy 则用螺栓固定在底座上。 https://t.co/VjzJI6YXVX"
-    },
-    {
-      "text": "Who did this?\n\n🎅🏻 https://t.co/QP0oCEmo6O",
-      "link": "https://x.com/teslaownersSV/status/2124712531742937513",
-      "date": "Mon Nov 23 03:51:57 +0000 2026",
-      "tweet_id": "2124712531742937513",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124712517259927552/vid/avc1/576x1024/rT18TTLZiFRoZuz2.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124712517259927552/img/k1FicCped7l9cUHp.jpg",
-          "local": "2124712531742937513_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124712517259927552/vid/avc1/576x1024/rT18TTLZiFRoZuz2.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124712517259927552/img/k1FicCped7l9cUHp.jpg",
-          "local": "2124712531742937513_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "这是谁干的？\n\n🎅🏻 https://t.co/QP0oCEmo6O"
-    },
-    {
-      "text": "Cybertruck just got even tighter turns.\n\nThe update is rolling out to new Cybertrucks now. Same truck that beat a Porsche 911 while towing a 911 and climbed Hell's Gate in Moab. https://t.co/fjPY0E7Eyu",
-      "link": "https://x.com/teslaownersSV/status/2124704679968059622",
-      "date": "Mon Nov 23 03:20:45 +0000 2026",
-      "tweet_id": "2124704679968059622",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124704637903405056/vid/avc1/1920x1080/Hxo4uHc31KwiVciQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124704637903405056/img/D0uQll5lCZ6J0ZBN.jpg",
-          "local": "2124704679968059622_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124704637903405056/vid/avc1/1920x1080/Hxo4uHc31KwiVciQ.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124704637903405056/img/D0uQll5lCZ6J0ZBN.jpg",
-          "local": "2124704679968059622_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "赛博卡车的转弯更加紧迫。\n\n该更新现已推出到新的 Cyber​​truck。同一辆卡车在牵引 911 时击败了保时捷 911，并攀上了摩押的地狱之门。 https://t.co/fjPY0E7Eyu"
-    },
-    {
-      "text": "RT @laughingorgasm: @that1evguyjay @teslaownersSV Sorry I missed out. \nJohn was one of the first people I followed when I started looking i…",
-      "link": "https://x.com/teslaownersSV/status/2124695777062867251",
-      "date": "Mon Nov 23 02:45:22 +0000 2026",
-      "tweet_id": "2124695777062867251",
-      "reply_to": "that1evguyjay",
-      "ctx_done": 1,
-      "text_zh": "RT @laughingorgasm：@that1evguyjay @teslaownersSV 抱歉我错过了。 \n当我开始寻找我时，约翰是我最早关注的人之一……"
-    },
-    {
-      "text": "@that1evguyjay @teslaownersSV Sorry I missed out. \nJohn was one of the first people I followed when I started looking into Tesla’s. \nHe’s a wealth of information and I hate to see them going through such a difficult situation.\nMay all the love surround and comfort them always.\n💙💜",
-      "link": "https://x.com/laughingorgasm/status/2124695628345196709",
-      "date": "Mon Nov 23 02:44:47 +0000 2026",
-      "tweet_id": "2124695628345196709",
-      "reply_to": "that1evguyjay",
-      "ctx_done": 1,
-      "text_zh": "@that1evguyjay @teslaownersSV 抱歉我错过了。 \n当我开始研究特斯拉时，约翰是我最早关注的人之一。 \n他拥有丰富的信息，我讨厌看到他们经历如此困难的处境。\n愿所有的爱永远围绕并安慰他们。\n💙💜"
-    },
-    {
-      "text": "JUST IN: Elon Musk says a built-in Starlink option for Tesla vehicles should be available toward the end of next year.\n\nHe says it will be important for unsupervised FSD, so passengers have high-bandwidth internet everywhere for work and entertainment. https://t.co/thPUMORDM4",
-      "link": "https://x.com/teslaownersSV/status/2124683403505422543",
-      "date": "Mon Nov 23 01:56:12 +0000 2026",
-      "tweet_id": "2124683403505422543",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXxkS56bsAE2Y1_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXxkS56bsAE2Y1_.jpg?format=jpg&name=large",
-          "local": "2124683403505422543_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXxkS56bsAE2Y1_.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXxkS56bsAE2Y1_.jpg?format=jpg&name=large",
-          "local": "2124683403505422543_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "最新报道：埃隆·马斯克表示，特斯拉汽车的内置星链选项应该会在明年年底推出。\n\n他表示，这对于无人监管的 FSD 非常重要，这样乘客就可以随时随地使用高带宽互联网来工作和娱乐。 https://t.co/thPUMORDM4"
-    },
-    {
-      "text": "RT @CyberWattage: Went to a Hockey Fights Cancer night and couldn’t help but think of the battle our friend @teslaownersSV and his family i…",
-      "link": "https://x.com/teslaownersSV/status/2124676396241007088",
-      "date": "Mon Nov 23 01:28:22 +0000 2026",
-      "tweet_id": "2124676396241007088",
-      "ctx_done": 1,
-      "text_zh": "RT @Cyber​​Wattage：参加了曲棍球抗击癌症之夜，不禁想起了我们的朋友@teslaownersSV 和他的家人在…"
-    },
-    {
-      "text": "Went to a Hockey Fights Cancer night and couldn’t help but think of the battle our friend @teslaownersSV and his family is going through. \n\nPUCK CANCER https://t.co/5nvl6iwzfU",
-      "link": "https://x.com/CyberWattage/status/2124675354719928817",
-      "date": "Mon Nov 23 01:24:13 +0000 2026",
-      "tweet_id": "2124675354719928817",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124675249287360512/vid/avc1/3840x2160/olnRdwO5ic94nEsP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124675249287360512/img/mqdjKskSrvdS8MRC.jpg",
-          "local": "2124675354719928817_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124675249287360512/vid/avc1/3840x2160/olnRdwO5ic94nEsP.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124675249287360512/img/mqdjKskSrvdS8MRC.jpg",
-          "local": "2124675354719928817_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "参加了曲棍球对抗癌症之夜，不禁想起了我们的朋友 @teslaownersSV 和他的家人正在经历的战斗。 \n\n冰球癌 https://t.co/5nvl6iwzfU"
-    },
-    {
-      "text": "Grok Bot isn't one AI for me. It's a whole team, and each bot owns a job.\nOne edits my raw footage into captioned clips and posts them to every platform at once. One makes my graphics. One tracks what performs, and another audits my creator payouts. Others handle my invoices,",
-      "link": "https://x.com/teslaownersSV/status/2124674315958579703",
-      "date": "Mon Nov 23 01:20:06 +0000 2026",
-      "tweet_id": "2124674315958579703",
-      "ctx_done": 1,
-      "text_zh": "Grok Bot 对我来说不是一种人工智能。这是一个完整的团队，每个机器人都有一份工作。\n其中一个将我的原始素材编辑成带字幕的剪辑，然后将它们立即发布到每个平台。一个人制作我的图形。一个跟踪执行情况，另一个审核我的创作者支出。其他人处理我的发票，"
-    },
-    {
-      "text": "RT @stevenmarkryan: Check out my chat with @teslaownersSV!\n\nWe covered a LOT of ground including my latest thoughts on Tesla, SpaceX &amp; plen…",
-      "link": "https://x.com/teslaownersSV/status/2124659980158812211",
-      "date": "Mon Nov 23 00:23:08 +0000 2026",
-      "tweet_id": "2124659980158812211",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "@stevemarkryan joins myself and @kgee  to break down a wild month for Elon's companies. \n\nWe get his reaction to Starship being caught, how Starlink and data centers in space could change the game, what private Cybercab ownership means for Tesla, the math behind robotaxi profits, where Optimus goes to work first, what AI and robots mean for jobs and purpose, and his take on a Tesla SpaceX merger and why he has been saving for SpaceX.\n\nTIMESTAMPS:\n0:00 Coming up\n0:59 Welcome Steven Mark Ryan\n1:39 Reaction to the Starship catch\n4:38 Starlink after Starship\n7:05 Data centers in space\n11:00 Replacing GPUs in orbit\n14:43 Power, cooling and radiation\n17:18 Pushback on data centers\n18:06 SpaceX revenue and Starlink Mobile\n20:02 Private Cybercab ownership\n25:48 Customer owned cars in the fleet\n29:27 Getting your time back\n31:51 Robotaxi economics\n35:36 Taking over city by city\n37:08 Can Waymo keep up\n40:13 Why only Tesla profits on EVs\n43:40 The flying Roadster\n47:45 The Roadster moment online\n50:40 Optimus first jobs\n57:05 Job loss and the age of abundance\n1:01:12 Meaning and purpose after AI\n1:03:01 Kids, curiosity and population\n1:09:04 Tesla SpaceX merger timing\n1:16:42 Is the merger a good deal\n1:17:18 Buy Tesla or SpaceX now\n1:23:19 SpaceX compute math\n1:25:50 Starlink and the long game\n1:27:55 Thanks and wrap up",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124563178390732800/img/EbmqRqRzjIJ3M7qj.jpg",
-            "local": "2124659980158812211q_0.jpg"
-          }
-        ],
-        "text_zh": "@stevemarkryan 与我和 @kgee 一起回顾 Elon 公司疯狂的一个月。 \n\n我们了解了他对 Starship 被抓的反应、Starlink 和太空数据中心如何改变游戏规则、私人 Cyber​​cab 所有权对特斯拉意味着什么、机器人出租车利润背后的数学原理、擎天柱首先去哪里工作、人工智能和机器人对工作和目的意味着什么，以及他对 Tesla SpaceX 合并的看法以及他为什么一直为 SpaceX 存钱。\n\n时间戳：\n0:00 即将到来\n0:59 欢迎史蒂文·马克·瑞安\n1:39 对星舰捕获的反应\n4:38 星舰之后的星链\n7:05 太空数据中心\n11:00 更换在轨 GPU\n14:43 电力、冷却和辐射\n17:18 数据中心的阻力\n18:06 SpaceX 收入和 Starlink Mobile\n20:02 私人Cybercab所有权\n25:48 车队中客户拥有的车辆\n29:27 恢复你的时间\n31:51 机器人出租车经济学\n35:36 逐城接管\n37:08 Waymo 能跟上吗\n40:13 为什么只有特斯拉在电动汽车上盈利\n43:40 飞行跑车\n47:45 在线Roadster时刻\n50:40 擎天柱第一份工作\n57:05 失业和富裕的时代\n1:01:12 AI之后的意义和目的\n1:03:01 孩子、好奇心和人口\n1:09:04 特斯拉 SpaceX 合并时机\n1:16:42 合并是一笔划算的交易吗\n1:17:18 立即购买 Tesla 或 SpaceX\n1:23:19 SpaceX 计算数学\n1:25:50 星链和漫长的游戏\n1:27:55 谢谢并结束"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @stevenmarkryan：查看我与 @teslaownersSV 的聊天！\n\n我们涵盖了很多内容，包括我对特斯拉、SpaceX 等的最新想法……"
-    },
-    {
-      "text": "Check out my chat with @teslaownersSV!\n\nWe covered a LOT of ground including my latest thoughts on Tesla, SpaceX &amp; plenty more 💪",
-      "link": "https://x.com/stevenmarkryan/status/2124659890128142435",
-      "date": "Mon Nov 23 00:22:46 +0000 2026",
-      "tweet_id": "2124659890128142435",
-      "quoted": {
-        "user": "teslaownersSV",
-        "text": "@stevemarkryan joins myself and @kgee  to break down a wild month for Elon's companies. \n\nWe get his reaction to Starship being caught, how Starlink and data centers in space could change the game, what private Cybercab ownership means for Tesla, the math behind robotaxi profits, where Optimus goes to work first, what AI and robots mean for jobs and purpose, and his take on a Tesla SpaceX merger and why he has been saving for SpaceX.\n\nTIMESTAMPS:\n0:00 Coming up\n0:59 Welcome Steven Mark Ryan\n1:39 Reaction to the Starship catch\n4:38 Starlink after Starship\n7:05 Data centers in space\n11:00 Replacing GPUs in orbit\n14:43 Power, cooling and radiation\n17:18 Pushback on data centers\n18:06 SpaceX revenue and Starlink Mobile\n20:02 Private Cybercab ownership\n25:48 Customer owned cars in the fleet\n29:27 Getting your time back\n31:51 Robotaxi economics\n35:36 Taking over city by city\n37:08 Can Waymo keep up\n40:13 Why only Tesla profits on EVs\n43:40 The flying Roadster\n47:45 The Roadster moment online\n50:40 Optimus first jobs\n57:05 Job loss and the age of abundance\n1:01:12 Meaning and purpose after AI\n1:03:01 Kids, curiosity and population\n1:09:04 Tesla SpaceX merger timing\n1:16:42 Is the merger a good deal\n1:17:18 Buy Tesla or SpaceX now\n1:23:19 SpaceX compute math\n1:25:50 Starlink and the long game\n1:27:55 Thanks and wrap up",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124563178390732800/img/EbmqRqRzjIJ3M7qj.jpg",
-            "local": "2124659890128142435q_0.jpg"
-          }
-        ],
-        "text_zh": "@stevemarkryan 与我和 @kgee 一起回顾 Elon 公司疯狂的一个月。 \n\n我们了解了他对 Starship 被抓的反应、Starlink 和太空数据中心如何改变游戏规则、私人 Cyber​​cab 所有权对特斯拉意味着什么、机器人出租车利润背后的数学原理、擎天柱首先去哪里工作、人工智能和机器人对工作和目的意味着什么，以及他对 Tesla SpaceX 合并的看法以及他为什么一直为 SpaceX 存钱。\n\n时间戳：\n0:00 即将到来\n0:59 欢迎史蒂文·马克·瑞安\n1:39 对星舰捕获的反应\n4:38 星舰之后的星链\n7:05 太空数据中心\n11:00 更换在轨 GPU\n14:43 电力、冷却和辐射\n17:18 数据中心的阻力\n18:06 SpaceX 收入和 Starlink Mobile\n20:02 私人Cybercab所有权\n25:48 车队中客户拥有的车辆\n29:27 恢复你的时间\n31:51 机器人出租车经济学\n35:36 逐城接管\n37:08 Waymo 能跟上吗\n40:13 为什么只有特斯拉在电动汽车上盈利\n43:40 飞行跑车\n47:45 在线Roadster时刻\n50:40 擎天柱第一份工作\n57:05 失业和富裕的时代\n1:01:12 AI之后的意义和目的\n1:03:01 孩子、好奇心和人口\n1:09:04 特斯拉 SpaceX 合并时机\n1:16:42 合并是一笔划算的交易吗\n1:17:18 立即购买 Tesla 或 SpaceX\n1:23:19 SpaceX 计算数学\n1:25:50 星链和漫长的游戏\n1:27:55 谢谢并结束"
-      },
-      "ctx_done": 1,
-      "text_zh": "查看我与 @teslaownersSV 的聊天！\n\n我们涵盖了很多内容，包括我对 Tesla、SpaceX 等的最新想法 💪"
-    },
-    {
-      "text": "RT @teslaownersSV: @stevemarkryan joins myself and @kgee  to break down a wild month for Elon's companies. \n\nWe get his reaction to Starshi…",
-      "link": "https://x.com/teslaownersSV/status/2124659368985862623",
-      "date": "Mon Nov 23 00:20:42 +0000 2026",
-      "tweet_id": "2124659368985862623",
-      "reply_to": "stevemarkryan",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：@stevemarkryan 与我本人和 @kgee 一起打破埃隆公司疯狂的一个月。 \n\n我们得到了他对 Starshi 的反应……"
-    },
-    {
-      "text": "One year ago this week, The Boring Company shipped its first hard-rock tunnel boring machine to Nashville.\n\nDec 1, 2025: first cutterhead spin.\nFeb 25, 2026: tunneling begins.\nJun 2026: machine #2 ready to mine. Soon both were digging through 10,000+ psi limestone at the same https://t.co/OcjoAGobOf",
-      "link": "https://x.com/teslaownersSV/status/2124648823301828783",
-      "date": "Sun Nov 22 23:38:48 +0000 2026",
-      "tweet_id": "2124648823301828783",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124648776380141568/vid/avc1/1280x720/QLzxYN74bIUyqyBb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124648776380141568/img/8Ef9Nm5oJbyO6QFB.jpg",
-          "local": "2124648823301828783_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124648776380141568/vid/avc1/1280x720/QLzxYN74bIUyqyBb.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124648776380141568/img/8Ef9Nm5oJbyO6QFB.jpg",
-          "local": "2124648823301828783_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "一年前的这个星期，The Boring Company 将第一台硬岩隧道掘进机运往纳什维尔。\n\n2025 年 12 月 1 日：第一次刀盘旋转。\n2026 年 2 月 25 日：隧道开挖。\n2026 年 6 月：2 号机器准备好开采。很快，两人都在同一处挖掘 10,000+ psi 的石灰石 https://t.co/OcjoAGobOf"
-    },
-    {
-      "text": "RT @TesLatino: Take a break and enjoy a fun video I made, ripping through a few Moab trails with Stephen @kneubuehl and his @cybertrexevent…",
-      "link": "https://x.com/teslaownersSV/status/2124643373013487872",
-      "date": "Sun Nov 22 23:17:08 +0000 2026",
-      "tweet_id": "2124643373013487872",
-      "ctx_done": 1,
-      "text_zh": "RT @TesLatino：休息一下，欣赏我制作的有趣视频，与 Stephen @kneubuehl 和他的 @cybertrexevent 一起穿越一些摩押小径……"
-    },
-    {
-      "text": "Elon just confirmed AI5 is going to Optimus. Cars stay on AI4.\n\nOn Tesla's Q3 call, @elonmusk explained why: \"It's an order of magnitude more compute, AI5 versus AI4.\" And \"a humanoid robot is going to do like a thousand times more things than a car would do.\"\n\nHe said AI5 should https://t.co/XZ3gSQFMdQ",
-      "link": "https://x.com/teslaownersSV/status/2124642792656044368",
-      "date": "Sun Nov 22 23:14:50 +0000 2026",
-      "tweet_id": "2124642792656044368",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124642756144623616/vid/avc1/1920x1080/QKFbdPvusWvU_jZj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124642756144623616/img/0acZQMRnA8Ly1hcu.jpg",
-          "local": "2124642792656044368_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124642756144623616/vid/avc1/1920x1080/QKFbdPvusWvU_jZj.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124642756144623616/img/0acZQMRnA8Ly1hcu.jpg",
-          "local": "2124642792656044368_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 刚刚确认 AI5 将前往 Optimus。汽车仍使用 AI4。\n\n在特斯拉第三季度的电话会议上，@elonmusk 解释了原因：“AI5 与 AI4 相比，计算量增加了一个数量级。” “人形机器人可以做的事情比汽车多一千倍。”\n\n他说 AI5 应该 https://t.co/XZ3gSQFMdQ"
-    },
-    {
-      "text": "RT @Mechanic429: There's fake love out there and then there's this ❤️❤️❤️\n\n🚀  This is how I stand with  @elonmusk I'm all about the people…",
-      "link": "https://x.com/teslaownersSV/status/2124637264974385269",
-      "date": "Sun Nov 22 22:52:52 +0000 2026",
-      "tweet_id": "2124637264974385269",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124637264974385269q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @Mechanic429：外面有假爱，还有这个❤️❤️❤️\n\n🚀 这就是我与@elonmusk 的立场，我一切以人民为中心……"
-    },
-    {
-      "text": "SpaceX launched two Falcon 9s from the same California pad 32 hours apart.\nUSSF-317 lifted off from pad 4E on Friday night, Nov 20, at 8:20 PM PT. \n\nNROL-136 followed from the same pad Sunday at 4:23 AM PT. SpaceX calls it its fastest turnaround between launches from the same https://t.co/KiCM2NaJW1",
-      "link": "https://x.com/teslaownersSV/status/2124630718072631638",
-      "date": "Sun Nov 22 22:26:51 +0000 2026",
-      "tweet_id": "2124630718072631638",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124630574019358720/vid/avc1/1080x1920/18eyUKBjsl4395q0.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124630574019358720/img/R2LZgAqR9Hb3OT4W.jpg",
-          "local": "2124630718072631638_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124630574019358720/vid/avc1/1080x1920/18eyUKBjsl4395q0.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124630574019358720/img/R2LZgAqR9Hb3OT4W.jpg",
-          "local": "2124630718072631638_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "SpaceX 从加州同一个发射场发射了两枚猎鹰 9 号火箭，间隔 32 小时。\nUSSF-317 于太平洋时间 11 月 20 日星期五晚上 8:20 从 4E 基地升空。 \n\n周日凌晨 4:23（太平洋时间），NROL-136 从同一发射台起飞。 SpaceX 称其为同一次发射之间最快的周转率 https://t.co/KiCM2NaJW1"
-    },
-    {
-      "text": "Elon's Giga Shanghai dance never gets old https://t.co/A1RWK50p8c",
-      "link": "https://x.com/teslaownersSV/status/2124622147981345216",
-      "date": "Sun Nov 22 21:52:48 +0000 2026",
-      "tweet_id": "2124622147981345216",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124622061083725824/vid/avc1/1280x720/-RP6RIKS35uLzwS_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124622061083725824/img/LdpQgFCYw-KfI20V.jpg",
-          "local": "2124622147981345216_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124622061083725824/vid/avc1/1280x720/-RP6RIKS35uLzwS_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124622061083725824/img/LdpQgFCYw-KfI20V.jpg",
-          "local": "2124622147981345216_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Elon 的 Giga 上海舞蹈永远不会过时 https://t.co/A1RWK50p8c"
-    },
-    {
-      "text": "RT @that1evguyjay: @teslaownersSV Thank you @CyberAmped https://t.co/O81uRbGQCf",
-      "link": "https://x.com/teslaownersSV/status/2124621258457579895",
-      "date": "Sun Nov 22 21:49:16 +0000 2026",
-      "tweet_id": "2124621258457579895",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124610641998852096/vid/avc1/1280x720/Vpm5cfriYC3rBsLs.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124610641998852096/img/YaZSgEIFSINVqeQw.jpg",
-          "local": "2124621258457579895_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124610641998852096/vid/avc1/1280x720/Vpm5cfriYC3rBsLs.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124610641998852096/img/YaZSgEIFSINVqeQw.jpg",
-          "local": "2124621258457579895_1.jpg"
-        }
-      ],
-      "reply_to": "that1evguyjay",
-      "ctx_done": 1,
-      "text_zh": "RT @that1evguyjay：@teslaownersSV 谢谢@Cyber​​Amped https://t.co/O81uRbGQCf"
-    },
-    {
-      "text": "RT @that1evguyjay: @teslaownersSV Thank you @TesLatino https://t.co/83iGtohMqx",
-      "link": "https://x.com/teslaownersSV/status/2124621213679165927",
-      "date": "Sun Nov 22 21:49:05 +0000 2026",
-      "tweet_id": "2124621213679165927",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124612153546313728/vid/avc1/1620x1080/Za6ZjLTm_mKqMT81.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124612153546313728/img/l1nH3MAscIY-xUz3.jpg",
-          "local": "2124621213679165927_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124612153546313728/vid/avc1/1620x1080/Za6ZjLTm_mKqMT81.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124612153546313728/img/l1nH3MAscIY-xUz3.jpg",
-          "local": "2124621213679165927_1.jpg"
-        }
-      ],
-      "reply_to": "that1evguyjay",
-      "ctx_done": 1,
-      "text_zh": "RT @that1evguyjay：@teslaownersSV 谢谢@TesLatino https://t.co/83iGtohMqx"
-    },
-    {
-      "text": "@teslaownersSV Thank you @TesLatino https://t.co/83iGtohMqx",
-      "link": "https://x.com/that1evguyjay/status/2124612514172547472",
-      "date": "Sun Nov 22 21:14:31 +0000 2026",
-      "tweet_id": "2124612514172547472",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124612153546313728/vid/avc1/1620x1080/Za6ZjLTm_mKqMT81.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124612153546313728/img/l1nH3MAscIY-xUz3.jpg",
-          "local": "2124612514172547472_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124612153546313728/vid/avc1/1620x1080/Za6ZjLTm_mKqMT81.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124612153546313728/img/l1nH3MAscIY-xUz3.jpg",
-          "local": "2124612514172547472_1.jpg"
-        }
-      ],
-      "reply_to": "that1evguyjay",
-      "ctx_done": 1,
-      "text_zh": "@teslaownersSV 谢谢@TesLatino https://t.co/83iGtohMqx"
-    },
-    {
-      "text": "There's fake love out there and then there's this ❤️❤️❤️\n\n🚀  This is how I stand with  @elonmusk I'm all about the people who do good instead of the perception of it! \n😢  @tesla is not just a car. It's a family.  @mayemusk  🙌❤️ 🤗 Hugs and prayers",
-      "link": "https://x.com/Mechanic429/status/2124611959324598506",
-      "date": "Sun Nov 22 21:12:19 +0000 2026",
-      "tweet_id": "2124611959324598506",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124611959324598506q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "那里有假爱，还有这个❤️❤️❤️\n\n🚀 这就是我与@elonmusk 的立场，我关心的是那些行善的人，而不是人们对行善的看法！ \n😢 @tesla 不仅仅是一辆汽车。这是一个家庭。  @mayemusk🙌❤️🤗拥抱和祈祷"
-    },
-    {
-      "text": "@teslaownersSV Thank you @CyberAmped https://t.co/O81uRbGQCf",
-      "link": "https://x.com/that1evguyjay/status/2124610677994385707",
-      "date": "Sun Nov 22 21:07:13 +0000 2026",
-      "tweet_id": "2124610677994385707",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124610641998852096/vid/avc1/1280x720/Vpm5cfriYC3rBsLs.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124610641998852096/img/YaZSgEIFSINVqeQw.jpg",
-          "local": "2124610677994385707_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124610641998852096/vid/avc1/1280x720/Vpm5cfriYC3rBsLs.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124610641998852096/img/YaZSgEIFSINVqeQw.jpg",
-          "local": "2124610677994385707_1.jpg"
-        }
-      ],
-      "reply_to": "that1evguyjay",
-      "ctx_done": 1,
-      "text_zh": "@teslaownersSV 谢谢@Cyber​​Amped https://t.co/O81uRbGQCf"
-    },
-    {
-      "text": "RT @AlSultan_Meriam: Hey @teslaownersSV \n\nThank you for putting this community together, and thanks to your wife for being supportive of th…",
-      "link": "https://x.com/teslaownersSV/status/2124598888351031698",
-      "date": "Sun Nov 22 20:20:22 +0000 2026",
-      "tweet_id": "2124598888351031698",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124598888351031698q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @AlSultan_Meriam：嘿@teslaownersSV \n\n感谢您将这个社区聚集在一起，并感谢您的妻子对这个社区的支持……"
     }
   ]
 }
