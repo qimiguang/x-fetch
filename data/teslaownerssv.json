@@ -1,8 +1,509 @@
 {
   "username": "teslaownersSV",
-  "updated_at": "2026-11-27T21:01:29Z",
+  "updated_at": "2026-11-28T03:15:53Z",
   "count": 200,
   "tweets": [
+    {
+      "text": "JUST IN: Tesla FSD will soon let you tap a spot on the screen in Reality View and have the car drive there.\n\n@elonmusk says the feature is coming in a point release in a week or two.\nhttps://t.co/zNpCtThOw1",
+      "link": "https://x.com/teslaownersSV/status/2126513397160202422",
+      "date": "Sat Nov 28 03:07:57 +0000 2026",
+      "tweet_id": "2126513397160202422",
+      "quoted": {
+        "user": "elonmusk",
+        "text": "@BLKMDL3 The ability to point at a spot on the screen in reality view and have the car go there is coming out in a point release in a week or two",
+        "text_zh": "@BLKMDL3 在现实视图中指向屏幕上的某个点并让汽车行驶到那里的能力将在一两周内发布一个点版本"
+      },
+      "ctx_done": 1,
+      "text_zh": "JUST IN: Tesla FSD will soon let you tap a spot on the screen in Reality View and have the car drive there.\n\n@elonmusk says the feature is coming in a point release in a week or two.\nhttps://t.co/zNpCtThOw1"
+    },
+    {
+      "text": "@BLKMDL3 The ability to point at a spot on the screen in reality view and have the car go there is coming out in a point release in a week or two",
+      "link": "https://x.com/elonmusk/status/2126513022080631259",
+      "date": "Sat Nov 28 03:06:27 +0000 2026",
+      "tweet_id": "2126513022080631259",
+      "reply_to": "BLKMDL3",
+      "ctx_done": 1,
+      "text_zh": "@BLKMDL3 在现实视图中指向屏幕上的某个点并让汽车行驶到那里的能力将在一两周内发布一个点版本"
+    },
+    {
+      "text": "Elon Musk on betting everything on Tesla and SpaceX:\n\n\"So I gave the companies all the money that I had.\"\n\n@elonmusk to TOSV, 2022. Video: TOSV, @Tesla, @SpaceX https://t.co/0mgiXjUZSB",
+      "link": "https://x.com/teslaownersSV/status/2126504531143835940",
+      "date": "Sat Nov 28 02:32:43 +0000 2026",
+      "tweet_id": "2126504531143835940",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126504507194400768/pu/vid/avc1/1280x720/_NBLECfTj_PMv0mc.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126504507194400768/pu/img/SGRCGTtm0lQIK0S3.jpg",
+          "local": "2126504531143835940_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126504507194400768/pu/vid/avc1/1280x720/_NBLECfTj_PMv0mc.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126504507194400768/pu/img/SGRCGTtm0lQIK0S3.jpg",
+          "local": "2126504531143835940_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 将一切押注于特斯拉和 SpaceX：\n\n“所以我把我所有的钱都给了这些公司。”\n\n@elonmusk 致 TOSV，2022。视频：TOSV、@Tesla、@SpaceX https://t.co/0mgiXjUZSB"
+    },
+    {
+      "text": "Elon Musk on why prosperity, not poverty, is what collapses birth rates:\n\n\"You know, it basically seems as though as soon as you have, like, urbanization and education beyond a certain level and income beyond a certain level, birth rates plummet. And so, as countries get https://t.co/2O7Xq5HNyU",
+      "link": "https://x.com/teslaownersSV/status/2126497471383642372",
+      "date": "Sat Nov 28 02:04:40 +0000 2026",
+      "tweet_id": "2126497471383642372",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126497445869690880/pu/vid/avc1/1280x720/6YrgLpB1ohdTroYP.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126497445869690880/pu/img/razr0zMJngJOKhJr.jpg",
+          "local": "2126497471383642372_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126497445869690880/pu/vid/avc1/1280x720/6YrgLpB1ohdTroYP.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126497445869690880/pu/img/razr0zMJngJOKhJr.jpg",
+          "local": "2126497471383642372_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats. \n\nRome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats",
+        "text_zh": "历史上，只要有长期繁荣且没有严重的外部威胁，文明就会出现出生率崩溃。 \n\n在与迦太基的生存战争期间，罗马的出生率非常高，但在消灭了所有外部威胁后，出生率却很低"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 解释了为什么生育率下降是由繁荣而不是贫困造成的：\n\n“你知道，基本上看来，一旦城市化和教育超过一定水平，收入超过一定水平，出生率就会直线下降。因此，随着国家变得https://t.co/2O7Xq5HNyU"
+    },
+    {
+      "text": "RT @AdamLowisz: Represent the American samurai well in Japan 🇺🇸🇯🇵 https://t.co/PajZ3B54Kt",
+      "link": "https://x.com/teslaownersSV/status/2126496618505744880",
+      "date": "Sat Nov 28 02:01:16 +0000 2026",
+      "tweet_id": "2126496618505744880",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=large",
+          "local": "2126496618505744880_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=large",
+          "local": "2126496618505744880_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Headed to @theXtakeover Japan with @TeslaOwners_JP @kgee",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126457420323119104/img/uqbJUA7bYgeGWb-n.jpg",
+            "local": "2126496618505744880q_0.jpg"
+          }
+        ],
+        "text_zh": "与 @TeslaOwners_JP @kgee 前往 @theXtakeover 日本"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @AdamLowisz：在日本很好地代表美国武士🇺🇸🇯🇵 https://t.co/PajZ3B54Kt"
+    },
+    {
+      "text": "Represent the American samurai well in Japan 🇺🇸🇯🇵 https://t.co/PajZ3B54Kt",
+      "link": "https://x.com/AdamLowisz/status/2126496201734312176",
+      "date": "Sat Nov 28 01:59:37 +0000 2026",
+      "tweet_id": "2126496201734312176",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=large",
+          "local": "2126496201734312176_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYLVBleXAAANOsI.jpg?format=jpg&name=large",
+          "local": "2126496201734312176_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "teslaownersSV",
+        "text": "Headed to @theXtakeover Japan with @TeslaOwners_JP @kgee",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126457420323119104/img/uqbJUA7bYgeGWb-n.jpg",
+            "local": "2126496201734312176q_0.jpg"
+          }
+        ],
+        "text_zh": "与 @TeslaOwners_JP @kgee 前往 @theXtakeover 日本"
+      },
+      "ctx_done": 1,
+      "text_zh": "在日本很好地代表美国武士🇺🇸🇯🇵 https://t.co/PajZ3B54Kt"
+    },
+    {
+      "text": "RT @teslaownersSV: Inside the new Tesla Semi. \n\nTwo screens, a Tesla wheel with two stalks, a cabin you can stand up in and a seat in the b…",
+      "link": "https://x.com/teslaownersSV/status/2126492474927644738",
+      "date": "Sat Nov 28 01:44:48 +0000 2026",
+      "tweet_id": "2126492474927644738",
+      "ctx_done": 1,
+      "text_zh": "RT @teslaownersSV：新款 Tesla Semi 内部。 \n\n两个屏幕、一个带有两个杆的特斯拉轮、一个可以站立的小屋和一个座位……"
+    },
+    {
+      "text": "Inside the new Tesla Semi. \n\nTwo screens, a Tesla wheel with two stalks, a cabin you can stand up in and a seat in the back. @tesla_semi https://t.co/n4uXdabjP5",
+      "link": "https://x.com/teslaownersSV/status/2126491341232459908",
+      "date": "Sat Nov 28 01:40:18 +0000 2026",
+      "tweet_id": "2126491341232459908",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126490672211648512/vid/avc1/1080x1920/Ku7J7reKiEZk2uUP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126490672211648512/img/VlR8v55c0oazBNiK.jpg",
+          "local": "2126491341232459908_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126490672211648512/vid/avc1/1080x1920/Ku7J7reKiEZk2uUP.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126490672211648512/img/VlR8v55c0oazBNiK.jpg",
+          "local": "2126491341232459908_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "新款 Tesla Semi 内部。 \n\n两个屏幕、一个带有两个杆的特斯拉车轮、一个可以站立的驾驶室和一个后排座位。 @tesla_semi https://t.co/n4uXdabjP5"
+    },
+    {
+      "text": "RT @TeslaOwners_JP: X Takeover Japan2026！\n当日はぜひ、公式アプリのユーザー登録を済ませてからお越しください😊\n\n・今やっているステージ情報\n・出店企業情報\n・スタンプラリー\n・フォトコンテスト\n・オーナーズカード交換\n\nなどなど、当日楽…",
+      "link": "https://x.com/teslaownersSV/status/2126489912841224286",
+      "date": "Sat Nov 28 01:34:38 +0000 2026",
+      "tweet_id": "2126489912841224286",
+      "quoted": {
+        "user": "TeslaOwners_JP",
+        "text": "X TAKEOVER JAPAN 2026\n＼公式アプリ、本日リリース！／\nまずは登録して、愛車の1枚を。\nアプリはこちら👇\nhttps://app.xtakeoverjp.workers.dev/\n\n11/29の楽しみは、今日から始まる。\n・愛車の写真でオーナーズカード作成\n・フォトコンテストに応募\n・出展企業＆会場マップをチェック\n当日はスタンプラリーも！",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117544460901134336/img/eiUnOhNqQTb83-rp.jpg",
+            "local": "2126489912841224286q_0.jpg"
+          }
+        ],
+        "text_zh": "X 接管日本 2026\n＼官方应用程序今天发布！ /\n首先，注册并获取您最喜欢的汽车的照片。\n点击这里查看应用程序👇\nhttps://app.xtakeoverjp.workers.dev/\n\n11 月 29 日的欢乐从今天开始。\n・用您的汽车照片创建车主卡\n・申请摄影比赛\n・查看参展企业及场地地图\n当天还会有盖章活动哦！"
+      },
+      "ctx_done": 1,
+      "text_zh": "RT @TeslaOwners_JP：X 接管日本2026！\n活动当天，请先在官方APP上注册后再来。\n\n・现阶段信息\n・储存公司信息\n・印章拉力赛\n・摄影比赛\n・车主卡交换\n\n等等，享受这一天..."
+    },
+    {
+      "text": "Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats. \n\nRome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats",
+      "link": "https://x.com/elonmusk/status/2126485536177045967",
+      "date": "Sat Nov 28 01:17:14 +0000 2026",
+      "tweet_id": "2126485536177045967",
+      "quoted": {
+        "user": "HomerPavlos",
+        "text": "There was a demographic problem 2,200 years ago, and Polybius wrote exactly what caused it. Read carefully:\n\n\"In our times, Greece as a whole is experiencing a lack of children and, more generally, a decrease in population. Because of this, cities have become deserted and there is a lack of productivity, even though we do not suffer from constant wars or epidemics. So if someone advised that we send priests to the gods to ask them what we should say or do to become more numerous and better inhabit our cities, he would not seem foolish, since the cause is obvious and the solution lies in our own hands.\n\nPeople have turned to arrogance, greed, and laziness, and they neither want to marry, nor, if they do marry, to raise their children. Instead, they have only one or two children with difficulty, just to leave them wealth and raise them in luxury.\n\nThis evil grew rapidly, and we did not notice. For when there are only one or two children, and one is lost to war and the other to illness, it is obvious that the cities will inevitably become deserted, just as a beehive weakens little by little, so too do cities that lack population become unable to survive.\"\n\nSource: Histories, Polybius, 36 (ΛΣΤ)\n\nThe similarities after 2,200 years.\n\nThe demographic issue has been a problem several times throughout history, and none of those times was it due to the economy, but rather a result of prosperity, comfortable living, and laziness. My Greek grandparents had children even when they had nothing to eat, and the kids grew up barefoot, eating bread with olives and feta cheese. Money was never an obstacle.\n\nNowadays, people prefer partying, doing drugs, and living for today rather than having a purpose, building a family, and leaving a positive footprint in this world. They choose the easy life. It’s sad watching people who passionately want to have kids but can’t, compared to people who don’t want kids because it would take them out of their comfort zone, because a child would stop them from going to clubs, drinking, and partying like a meaningless person.\n\n- Homer Pavlos",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HYJZTkkXEAA25N6.jpg?name=orig",
+            "full": "https://pbs.twimg.com/media/HYJZTkkXEAA25N6.jpg?name=orig",
+            "local": "2126485536177045967q_0.jpg"
+          }
+        ],
+        "text_zh": "2200 年前就出现了人口问题，波利比乌斯准确地描述了造成这一问题的原因。仔细阅读：\n\n“在我们这个时代，整个希腊都在经历着儿童短缺，更普遍的是人口减少。因此，尽管我们没有遭受持续的战争或流行病，但城市却变得荒芜，生产力缺乏。因此，如果有人建议我们派遣牧师去见诸神，询问他们我们应该说什么或做什么，以增加人口并更好地居住在我们的城市中，他看起来并不愚蠢，因为原因是显而易见的，解决方案就在我们自己手中。\n\n人们变得傲慢、贪婪和懒惰，他们不想结婚，如果结婚了，也不想抚养孩子。相反，他们只有一两个困难的孩子，只是为了给他们留下财富，让他们过着奢侈的生活。\n\n这种邪恶蔓延得很快，我们却没有注意到。因为当只有一两个孩子，一个死于战争，另一个死于疾病时，显然城市将不可避免地变得荒芜，就像蜂巢逐渐衰弱一样，人口不足的城市也将无法生存。”\n\n资料来源：历史，波利比乌斯，36 (ΛΣΤ)\n\n2200年后的相似之处。\n\n人口问题在历史上曾多次成为问题，但这些问题都不是经济造成的，而是繁荣、舒适的生活和懒惰的结果。我的希腊祖父母即使没有东西吃也有孩子，孩子们都是赤脚长大的，吃着橄榄和羊奶酪的面包。钱从来都不是障碍。\n\n如今，人们更喜欢聚会、吸毒、为今天而活，而不是有目标、建立家庭、在这个世界上留下积极的足迹。他们选择安逸的生活。与那些不想要孩子的人相比，看到那些热切地想要孩子但不能生孩子的人是令人难过的，因为这会让他们离开自己的舒适区，因为孩子会阻止他们像一个无意义的人一样去俱乐部、喝酒和参加派对。\n\n——荷马·帕夫洛斯"
+      },
+      "ctx_done": 1,
+      "text_zh": "历史上，只要有长期繁荣且没有严重的外部威胁，文明就会出现出生率崩溃。 \n\n在与迦太基的生存战争期间，罗马的出生率非常高，但在消灭了所有外部威胁后，出生率却很低"
+    },
+    {
+      "text": "Black Friday question for Tesla owners.\n\nForget the deal lists. What's the one accessory or upgrade that actually made your Tesla better?\n\nDrop a photo of yours.",
+      "link": "https://x.com/teslaownersSV/status/2126484985074917846",
+      "date": "Sat Nov 28 01:15:03 +0000 2026",
+      "tweet_id": "2126484985074917846",
+      "ctx_done": 1,
+      "text_zh": "黑色星期五向特斯拉车主提出的问题。\n\n忘记交易清单。真正让您的特斯拉变得更好的配件或升级是什么？\n\n放一张你的照片。"
+    },
+    {
+      "text": "\"Tesla wouldn't be where it is without our awesome customers.\" @elonmusk said it on Thanksgiving, and he told our community the same thing at X Takeover.\n\n\"Well, I love retail investors, I have to say. And that's super appreciated.\"\n\n\"I do feel confident that the long-term value https://t.co/J7PpC6g0AM",
+      "link": "https://x.com/teslaownersSV/status/2126474532806340831",
+      "date": "Sat Nov 28 00:33:31 +0000 2026",
+      "tweet_id": "2126474532806340831",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126474508022239232/pu/vid/avc1/1280x720/rmzTYvK9CstmP4wo.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126474508022239232/pu/img/ve2Dw9WSxeq8isF1.jpg",
+          "local": "2126474532806340831_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126474508022239232/pu/vid/avc1/1280x720/rmzTYvK9CstmP4wo.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126474508022239232/pu/img/ve2Dw9WSxeq8isF1.jpg",
+          "local": "2126474532806340831_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers.",
+        "text_zh": "超级感谢您的支持。如果没有我们出色的客户，特斯拉就不会取得现在的成就。"
+      },
+      "ctx_done": 1,
+      "text_zh": "“如果没有我们出色的客户，特斯拉就不会取得现在的成就。” @elonmusk 在感恩节说过这句话，他在 X Takeover 上也对我们的社区说了同样的话。\n\n“嗯，我不得不说，我喜欢散户投资者。这是非常值得赞赏的。”\n\n“我确实对长期价值充满信心 https://t.co/J7PpC6g0AM"
+    },
+    {
+      "text": "Tokyo 𝕏 Takeover Japan here we come https://t.co/95tLGqQ0eZ",
+      "link": "https://x.com/teslaownersSV/status/2126468586894184887",
+      "date": "Sat Nov 28 00:09:53 +0000 2026",
+      "tweet_id": "2126468586894184887",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126468441490210816/vid/avc1/2160x3840/MB5hXeDGjQl71uru.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126468441490210816/img/QK_xBZgP1lLQylAa.jpg",
+          "local": "2126468586894184887_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126468441490210816/vid/avc1/2160x3840/MB5hXeDGjQl71uru.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126468441490210816/img/QK_xBZgP1lLQylAa.jpg",
+          "local": "2126468586894184887_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "东京𝕏 接管日本，我们来了 https://t.co/95tLGqQ0eZ"
+    },
+    {
+      "text": "Signed up for @PassionFlix for my long figure ahead.  So exciting. https://t.co/gHDJksZNOz",
+      "link": "https://x.com/teslaownersSV/status/2126467440683180250",
+      "date": "Sat Nov 28 00:05:20 +0000 2026",
+      "tweet_id": "2126467440683180250",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYK63g3boAA5oO0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYK63g3boAA5oO0.jpg?format=jpg&name=large",
+          "local": "2126467440683180250_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYK63g3boAA5oO0.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYK63g3boAA5oO0.jpg?format=jpg&name=large",
+          "local": "2126467440683180250_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "PassionFlix",
+        "text": "Just a few of our favorite moments with our Passionistas this year! ❤️\n\nWe're so thankful for each and every one of you and your continued love and support. We wouldn't be here without you, and we can't wait to share what's next!\n\nWith love,\nThe Passionflix Family https://t.co/6YFw7b96Y5",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2123522686278090752/vid/avc1/1080x1920/JHiXt-HTsgMw-OSb.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123522686278090752/img/Wgf6ZrL1XLOLuorf.jpg",
+            "local": "2126467440683180250q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2123522686278090752/vid/avc1/1080x1920/JHiXt-HTsgMw-OSb.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123522686278090752/img/Wgf6ZrL1XLOLuorf.jpg",
+            "local": "2126467440683180250q_1.jpg"
+          }
+        ],
+        "text_zh": "这只是我们今年与我们的热情主义者最喜欢的一些时刻！ ❤️\n\n我们非常感谢你们每一个人以及你们持续的爱和支持。没有您，我们就不会在这里，我们迫不及待地想分享接下来的内容！\n\n带着爱，\nPassionflix 家族 https://t.co/6YFw7b96Y5"
+      },
+      "ctx_done": 1,
+      "text_zh": "为了我未来的长图，注册了@PassionFlix。  太令人兴奋了。 https://t.co/gHDJksZNOz"
+    },
+    {
+      "text": "X Takeover Japan2026！\n当日はぜひ、公式アプリのユーザー登録を済ませてからお越しください😊\n\n・今やっているステージ情報\n・出店企業情報\n・スタンプラリー\n・フォトコンテスト\n・オーナーズカード交換\n\nなどなど、当日楽しむための機能が満載です！\n\n↓Webアプリはこちらから！",
+      "link": "https://x.com/TeslaOwners_JP/status/2126466106336694320",
+      "date": "Sat Nov 28 00:00:02 +0000 2026",
+      "tweet_id": "2126466106336694320",
+      "quoted": {
+        "user": "TeslaOwners_JP",
+        "text": "X TAKEOVER JAPAN 2026\n＼公式アプリ、本日リリース！／\nまずは登録して、愛車の1枚を。\nアプリはこちら👇\nhttps://app.xtakeoverjp.workers.dev/\n\n11/29の楽しみは、今日から始まる。\n・愛車の写真でオーナーズカード作成\n・フォトコンテストに応募\n・出展企業＆会場マップをチェック\n当日はスタンプラリーも！",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2117544460901134336/img/eiUnOhNqQTb83-rp.jpg",
+            "local": "2126466106336694320q_0.jpg"
+          }
+        ],
+        "text_zh": "X 接管日本 2026\n＼官方应用程序今天发布！ /\n首先，注册并获取您最喜欢的汽车的照片。\n点击这里查看应用程序👇\nhttps://app.xtakeoverjp.workers.dev/\n\n11 月 29 日的欢乐从今天开始。\n・用您的汽车照片创建车主卡\n・申请摄影比赛\n・查看参展企业及场地地图\n当天还会有盖章活动哦！"
+      },
+      "ctx_done": 1,
+      "text_zh": "X 占领日本2026！\n活动当天，请先在官方APP上注册后再来。\n\n・现阶段信息\n・储存公司信息\n・印章拉力赛\n・摄影比赛\n・车主卡交换\n\n它充满了当天享受的功能！\n\n↓点击这里查看网络应用程序！"
+    },
+    {
+      "text": "Tesla Semi heats its cab with heat a diesel truck throws away.\n\nIts Megamanifold heat pump runs cabin HVAC and all powertrain heating and cooling at once, so the truck can pull excess powertrain heat into the cab, per Tesla. The same thermal system is shared with Cybercab. https://t.co/X49H90O4rq",
+      "link": "https://x.com/teslaownersSV/status/2126463815621529768",
+      "date": "Fri Nov 27 23:50:56 +0000 2026",
+      "tweet_id": "2126463815621529768",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126463796436725760/pu/vid/avc1/1280x720/rdZeBEy3B8QQnAnl.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126463796436725760/pu/img/jLUZZoUzKVzESRFP.jpg",
+          "local": "2126463815621529768_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126463796436725760/pu/vid/avc1/1280x720/rdZeBEy3B8QQnAnl.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126463796436725760/pu/img/jLUZZoUzKVzESRFP.jpg",
+          "local": "2126463815621529768_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "tesla_semi",
+        "text": "@cybertruck Megamanifold is our next gen heat pump that runs cabin HVAC &amp; all powertrain heating &amp; cooling at once.\n\nUnlike diesel trucks where heat generated by the engine is lost, Semi can draw excess heat from the powertrain to keep the driver comfortable https://t.co/bXlsOxKkz5",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2103292428648353792/vid/avc1/3840x2160/fiamQg4aujEK0-PM.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103292428648353792/img/HIuqufMk-wI8qKlz.jpg",
+            "local": "2126463815621529768q_0.jpg"
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2103292428648353792/vid/avc1/3840x2160/fiamQg4aujEK0-PM.mp4",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103292428648353792/img/HIuqufMk-wI8qKlz.jpg",
+            "local": "2126463815621529768q_1.jpg"
+          }
+        ],
+        "text_zh": "@cybertruck Megamanifold 是我们的下一代热泵，可同时运行机舱 HVAC 和所有动力系统加热和冷却。\n\n与发动机产生的热量散失的柴油卡车不同，Semi 可以从动力系统中吸收多余的热量，以使驾驶员保持舒适 https://t.co/bXlsOxKkz5"
+      },
+      "ctx_done": 1,
+      "text_zh": "Tesla Semi 利用柴油卡车排出的热量来加热驾驶室。\n\n根据特斯拉的说法，其巨型歧管热泵同时运行驾驶室 HVAC 和所有动力系统加热和冷却，因此卡车可以将多余的动力系统热量吸入驾驶室。与 Cyber​​cab 共享相同的热系统。 https://t.co/X49H90O4rq"
+    },
+    {
+      "text": "RT @model3yokohama: TOCJ全国ミーティング2026に テスカス が出展します！\n\nとはいえ、特に売るものがないので「テスラ大好きすぎるよ展」を開催します！\n\n皆さんの「テスラ大好きエピソード」を集め展示します。このポストを引用リポストして、エピソードを書け…",
+      "link": "https://x.com/teslaownersSV/status/2126458820532817938",
+      "date": "Fri Nov 27 23:31:05 +0000 2026",
+      "tweet_id": "2126458820532817938",
+      "ctx_done": 1,
+      "text_zh": "RT @model3yokohama：Tescas 将在 2026 年 TOCJ 全国会议上展出！\n\n不过，我没东西卖，所以我就举办“我太爱特斯拉展”了！\n\n我们将收集并展示您的“特斯拉爱情故事”。引用并转发这篇文章并写一集......"
+    },
+    {
+      "text": "Headed to @theXtakeover Japan with @TeslaOwners_JP @kgee https://t.co/ueCMllBVWp",
+      "link": "https://x.com/teslaownersSV/status/2126457586799317493",
+      "date": "Fri Nov 27 23:26:11 +0000 2026",
+      "tweet_id": "2126457586799317493",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126457420323119104/vid/avc1/2160x3840/IcITfrCBs4fgqoPz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126457420323119104/img/uqbJUA7bYgeGWb-n.jpg",
+          "local": "2126457586799317493_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2126457420323119104/vid/avc1/2160x3840/IcITfrCBs4fgqoPz.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126457420323119104/img/uqbJUA7bYgeGWb-n.jpg",
+          "local": "2126457586799317493_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "与 @TeslaOwners_JP @kgee 前往 @theXtakeover 日本 https://t.co/ueCMllBVWp"
+    },
+    {
+      "text": "FCC Chair Brendan Carr on SpaceX:\n\n\"SpaceX obviously is out front early. They have a lot of advantages that come from that. We want them to continue to go full steam ahead.\"\n\n\"The launch capacity they've opened up has been a huge unlock for economic opportunity... They're helping https://t.co/B2ckCFCPhV",
+      "link": "https://x.com/teslaownersSV/status/2126454635938365808",
+      "date": "Fri Nov 27 23:14:27 +0000 2026",
+      "tweet_id": "2126454635938365808",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126454615772143618/pu/vid/avc1/1280x720/pT9rgf-rhoNLxfWl.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126454615772143618/pu/img/j5jZnNAJUgySrtn6.jpg",
+          "local": "2126454635938365808_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126454615772143618/pu/vid/avc1/1280x720/pT9rgf-rhoNLxfWl.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126454615772143618/pu/img/j5jZnNAJUgySrtn6.jpg",
+          "local": "2126454635938365808_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "SquawkStreet",
+        "text": "Judge got facts and law wrong in ABC license review case, FCC Chairman @BrendanCarrFCC told us.\nHe also discussed the FCC's landmark approval of SpaceX's 1M orbital data center satellite deployment:\n\nhttps://t.co/mklYIXFFvz",
+        "text_zh": "FCC 主席 @BrendanCarrFCC 告诉我们，法官在 ABC 许可证审查案件中的事实和法律都是错误的。\n他还讨论了 FCC 对 SpaceX 1M 轨道数据中心卫星部署的里程碑式批准：\n\nhttps://t.co/mklYIXFFvz"
+      },
+      "ctx_done": 1,
+      "text_zh": "FCC 主席布伦丹·卡尔 (Brendan Carr) 谈 SpaceX：\n\n“SpaceX 显然很早就走在了前面。他们由此拥有很多优势。我们希望他们继续全速前进。”\n\n“他们开放的发射能力释放了巨大的经济机会......他们正在帮助 https://t.co/B2ckCFCPhV"
+    },
+    {
+      "text": "Clam Chowder https://t.co/5P63jGSyYQ",
+      "link": "https://x.com/teslaownersSV/status/2126449986594558106",
+      "date": "Fri Nov 27 22:55:58 +0000 2026",
+      "tweet_id": "2126449986594558106",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYKq_c3bQAA4BMb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYKq_c3bQAA4BMb.jpg?format=jpg&name=large",
+          "local": "2126449986594558106_0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HYKq_c3bQAA4BMb.jpg?format=jpg&name=medium",
+          "full": "https://pbs.twimg.com/media/HYKq_c3bQAA4BMb.jpg?format=jpg&name=large",
+          "local": "2126449986594558106_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "蛤蜊浓汤 https://t.co/5P63jGSyYQ"
+    },
+    {
+      "text": "Elon Musk on AI: \"AI is a fundamental existential risk for human civilization, and I don't think people fully appreciate that.\"\n\n@elonmusk at the National Governors Association, July 15, 2017. Video: National Governors Association https://t.co/EFgErJtpe4",
+      "link": "https://x.com/teslaownersSV/status/2126435958526537769",
+      "date": "Fri Nov 27 22:00:14 +0000 2026",
+      "tweet_id": "2126435958526537769",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126435936732884992/pu/vid/avc1/1280x720/28NZSHA2ioxtdwsL.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126435936732884992/pu/img/QWC1K1fHF425N_Ok.jpg",
+          "local": "2126435958526537769_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126435936732884992/pu/vid/avc1/1280x720/28NZSHA2ioxtdwsL.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126435936732884992/pu/img/QWC1K1fHF425N_Ok.jpg",
+          "local": "2126435958526537769_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 谈人工智能：“人工智能是人类文明面临的根本性风险，我认为人们并没有充分认识到这一点。”\n\n@elonmusk 在全国州长协会，2017 年 7 月 15 日。视频：全国州长协会 https://t.co/EFgErJtpe4"
+    },
+    {
+      "text": "Elon Musk on how the Super Heavy booster will be caught, restacked and ready to fly again within an hour:\n\n\"It literally gets caught by the same arms that placed it in the launch ring, and then it is placed back in the launch ring immediately. So in principle, the Super Heavy https://t.co/WmOg7kyIfs",
+      "link": "https://x.com/teslaownersSV/status/2126428074442948748",
+      "date": "Fri Nov 27 21:28:54 +0000 2026",
+      "tweet_id": "2126428074442948748",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126428054079627264/pu/vid/avc1/1280x720/B0bKt9k2NSCvgyV4.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126428054079627264/pu/img/_m4NhmpKd8RxkzXC.jpg",
+          "local": "2126428074442948748_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/ext_tw_video/2126428054079627264/pu/vid/avc1/1280x720/B0bKt9k2NSCvgyV4.mp4?tag=12",
+          "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2126428054079627264/pu/img/_m4NhmpKd8RxkzXC.jpg",
+          "local": "2126428074442948748_1.jpg"
+        }
+      ],
+      "quoted": {
+        "user": "elonmusk",
+        "text": "This will be fully automated and sped up to be &lt;5 mins",
+        "text_zh": "这将完全自动化，速度加快至 <5 分钟"
+      },
+      "ctx_done": 1,
+      "text_zh": "埃隆·马斯克 (Elon Musk) 讲述了超重型助推器如何在一小时内被捕获、重新堆叠并准备好再次飞行：\n\n“它确实被放置在发射环中的同一臂抓住，然后立即放回发射环中。所以原则上，超重型 https://t.co/WmOg7kyIfs"
+    },
     {
       "text": "Elon Musk on Grok Bot: \"We're seeing the fastest growth of a product that I've ever seen in my life. I've never seen anything grow this fast.\"\n\n@elonmusk at the SpaceX Q3 2026 earnings call, Oct 20, 2026. Video: @SpaceX https://t.co/VjvswyDml1",
       "link": "https://x.com/teslaownersSV/status/2126414367042457885",
@@ -51,6 +552,27 @@
       ],
       "ctx_done": 1,
       "text_zh": "湾区的 Robotaxi https://t.co/guHrHCiBAf"
+    },
+    {
+      "text": "This will be fully automated and sped up to be &lt;5 mins",
+      "link": "https://x.com/elonmusk/status/2126404709628129388",
+      "date": "Fri Nov 27 19:56:04 +0000 2026",
+      "tweet_id": "2126404709628129388",
+      "quoted": {
+        "user": "Stellarixorine",
+        "text": "🚀 Starship stacking is an incredible sight. 🤩\n\nA time-lapse captures Ship 42 being stacked onto Booster 22 at Starbase.\n\nThe main lift reportedly takes just around 30 minutes, while the final alignment and precise docking process takes considerably longer.\n\nImagine the engineering and coordination required to assemble the world's largest orbital rocket.\n\n📸 Credit: awphotographyofficial\n\nThank you awphotographyofficial for this amazing view 🥰 🥰",
+        "media": [
+          {
+            "type": "video",
+            "url": "",
+            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2126186549553639424/img/Tj1tZIYAW3Q176kL.jpg",
+            "local": "2126404709628129388q_0.jpg"
+          }
+        ],
+        "text_zh": "🚀 星舰堆叠的景象令人难以置信。 🤩\n\n延时摄影捕捉到了 42 号船被堆放在 Starbase 的 22 号助推器上的画面。\n\n据报道，主升降机只需要大约 30 分钟，而最终的对准和精确对接过程则需要更长的时间。\n\n想象一下组装世界上最大的轨道火箭所需的工程和协调。\n\n📸 图片来源：awphotographyofficial\n\n谢谢 awphotographyofficial 带来的这个令人惊叹的景色🥰🥰"
+      },
+      "ctx_done": 1,
+      "text_zh": "这将完全自动化，速度加快至 <5 分钟"
     },
     {
       "text": "Elon Musk on Grok Bot: \"It can be used effectively in teams by companies as though it were a virtual human. I think Grok Bot may end up being what uses most of our superintelligence compute.\"\n\n@elonmusk https://t.co/hap43TSUpg",
@@ -310,6 +832,14 @@
       "text_zh": "新闻：Starlink 正在为海地偏远的瓦什岛的 13 所学校提供免费互联网，并计划扩展到所有 18 所学校。\n\n- 该计划将支持在线学习，并允许教师从太子港等地点提供远程教学。\n- 项目 https://t.co/r1myCXjaRv"
     },
     {
+      "text": "Judge got facts and law wrong in ABC license review case, FCC Chairman @BrendanCarrFCC told us.\nHe also discussed the FCC's landmark approval of SpaceX's 1M orbital data center satellite deployment:\n\nhttps://t.co/mklYIXFFvz",
+      "link": "https://x.com/SquawkStreet/status/2126348199241929128",
+      "date": "Fri Nov 27 16:11:30 +0000 2026",
+      "tweet_id": "2126348199241929128",
+      "ctx_done": 1,
+      "text_zh": "FCC 主席 @BrendanCarrFCC 告诉我们，法官在 ABC 许可证审查案件中的事实和法律都是错误的。\n他还讨论了 FCC 对 SpaceX 1M 轨道数据中心卫星部署的里程碑式批准：\n\nhttps://t.co/mklYIXFFvz"
+    },
+    {
       "text": "RT @TeslaOwners_JP: 日本最大級のEVイベント\nTOCJ全国ミーティングが、世界へ。\n\n　【X-Takeover Japan 2026】\n\n📅 11/28(土) 前夜祭 → 11/29(日) 本祭\n📍 パシフィコ横浜\n\n昨年1500人が来場\n今年の会場規模は2…",
       "link": "https://x.com/teslaownersSV/status/2126334313751060567",
       "date": "Fri Nov 27 15:16:20 +0000 2026",
@@ -529,6 +1059,19 @@
       "text_zh": "@stevenmarkryan 我每年都会向美国所有孩子捐赠另一份 SpaceX 股份"
     },
     {
+      "text": "Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers.",
+      "link": "https://x.com/elonmusk/status/2126064330022265197",
+      "date": "Thu Nov 26 21:23:31 +0000 2026",
+      "tweet_id": "2126064330022265197",
+      "quoted": {
+        "user": "Tesla",
+        "text": "Happy Thanksgiving to all of our owners, employees & advocates ❤️🇺🇸",
+        "text_zh": "祝我们所有的业主、员工和倡导者感恩节快乐❤️🇺🇸"
+      },
+      "ctx_done": 1,
+      "text_zh": "超级感谢您的支持。如果没有我们出色的客户，特斯拉就不会取得现在的成就。"
+    },
+    {
       "text": "Never deleting this app 🤪 https://t.co/SaOPOX0ymk",
       "link": "https://x.com/teslaownersSV/status/2126049731319398814",
       "date": "Thu Nov 26 20:25:30 +0000 2026",
@@ -659,6 +1202,28 @@
       ],
       "ctx_done": 1,
       "text_zh": "联合航空广告星链 https://t.co/pRUfYOjwid"
+    },
+    {
+      "text": "Just a few of our favorite moments with our Passionistas this year! ❤️\n\nWe're so thankful for each and every one of you and your continued love and support. We wouldn't be here without you, and we can't wait to share what's next!\n\nWith love,\nThe Passionflix Family https://t.co/6YFw7b96Y5",
+      "link": "https://x.com/PassionFlix/status/2125998018554130845",
+      "date": "Thu Nov 26 17:00:01 +0000 2026",
+      "tweet_id": "2125998018554130845",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123522686278090752/vid/avc1/1080x1920/JHiXt-HTsgMw-OSb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123522686278090752/img/Wgf6ZrL1XLOLuorf.jpg",
+          "local": "2125998018554130845_0.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2123522686278090752/vid/avc1/1080x1920/JHiXt-HTsgMw-OSb.mp4",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2123522686278090752/img/Wgf6ZrL1XLOLuorf.jpg",
+          "local": "2125998018554130845_1.jpg"
+        }
+      ],
+      "ctx_done": 1,
+      "text_zh": "这只是我们今年与我们的热情主义者最喜欢的一些时刻！ ❤️\n\n我们非常感谢你们每一个人以及你们持续的爱和支持。没有您，我们就不会在这里，我们迫不及待地想分享接下来的内容！\n\n带着爱，\nPassionflix 家族 https://t.co/6YFw7b96Y5"
     },
     {
       "text": "RT @ALScyborg: Elon on X, this week 🚀 My ranked top 8 @elonmusk posts:\n\n1️⃣ 🎁 Two @SpaceX shares for every child in America\n2️⃣ 🤝 @nvidia b…",
@@ -3580,638 +4145,6 @@
       },
       "ctx_done": 1,
       "text_zh": "RT @AlSultan_Meriam：嘿@teslaownersSV \n\n感谢您将这个社区聚集在一起，并感谢您的妻子对这个社区的支持……"
-    },
-    {
-      "text": "RT @MstrHappyJustin: John… All of us are here for you every step of the way through this tough season you, your wife and family are going t…",
-      "link": "https://x.com/teslaownersSV/status/2124598872983101927",
-      "date": "Sun Nov 22 20:20:19 +0000 2026",
-      "tweet_id": "2124598872983101927",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124598872983101927q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @MstrHappyJustin：约翰……在这个艰难的赛季中，我们所有人都在这里为您提供帮助，您、您的妻子和家人将……"
-    },
-    {
-      "text": "RT @TruthTom: You won't see anything more beautiful than this anywhere on any platform ever. God bless everyone who did this and thoughts a…",
-      "link": "https://x.com/teslaownersSV/status/2124598799750570001",
-      "date": "Sun Nov 22 20:20:01 +0000 2026",
-      "tweet_id": "2124598799750570001",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124598799750570001q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @TruthTom：您在任何平台上的任何地方都不会看到比这更美丽的东西。上帝保佑所有这样做并有想法的人……"
-    },
-    {
-      "text": "Elon Musk on why Tesla is building Terafab: \"We either build the Terafab, or we don't have the chips.\" https://t.co/cVTYtyIGwX",
-      "link": "https://x.com/teslaownersSV/status/2124598278935429278",
-      "date": "Sun Nov 22 20:17:57 +0000 2026",
-      "tweet_id": "2124598278935429278",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124598025570205696/vid/avc1/1920x1080/QjbJHZcOc59NWAPy.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124598025570205696/img/kNfoUQ-0Jhgaw6tk.jpg",
-          "local": "2124598278935429278_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124598025570205696/vid/avc1/1920x1080/QjbJHZcOc59NWAPy.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124598025570205696/img/kNfoUQ-0Jhgaw6tk.jpg",
-          "local": "2124598278935429278_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "埃隆·马斯克 (Elon Musk) 谈到特斯拉为何建造 Terafab 时表示：“我们要么建造 Terafab，要么就没有芯片。” https://t.co/cVTYtyIGwX"
-    },
-    {
-      "text": "\"@elonmusk's just an idea factory.\"\nGarrett Reisman https://t.co/2MpBDnGGRr",
-      "link": "https://x.com/teslaownersSV/status/2124597841834455188",
-      "date": "Sun Nov 22 20:16:13 +0000 2026",
-      "tweet_id": "2124597841834455188",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124597775652503552/vid/avc1/1280x720/jCWGwBKp9vwPyEsU.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124597775652503552/img/9a0SouNS7ZUyRSxn.jpg",
-          "local": "2124597841834455188_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124597775652503552/vid/avc1/1280x720/jCWGwBKp9vwPyEsU.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124597775652503552/img/9a0SouNS7ZUyRSxn.jpg",
-          "local": "2124597841834455188_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "“@elonmusk 只是一个创意工厂。”\n加勒特·赖斯曼 https://t.co/2MpBDnGGRr"
-    },
-    {
-      "text": "FSD v15, feature by feature.\n\n25x better handling of safety-critical cases. Tesla Reality View, a live visualization that lets you see and control what FSD is planning to do. Tap any point and your car goes there. Better detection of debris, potholes and standing water. Speed https://t.co/hkH84SHmjh",
-      "link": "https://x.com/teslaownersSV/status/2124597473868132679",
-      "date": "Sun Nov 22 20:14:45 +0000 2026",
-      "tweet_id": "2124597473868132679",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124597185270734849/vid/avc1/1920x1080/EIGuHiR-_Nia85Yt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124597185270734849/img/2J55u7aeo8sbemnZ.jpg",
-          "local": "2124597473868132679_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124597185270734849/vid/avc1/1920x1080/EIGuHiR-_Nia85Yt.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124597185270734849/img/2J55u7aeo8sbemnZ.jpg",
-          "local": "2124597473868132679_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "FSD v15，逐个功能。\n\n对安全关键案例的处理效果提高了 25 倍。 Tesla Reality View，一种实时可视化，可让您查看和控制 FSD 计划执行的操作。点击任意一点，你的车就会开到那里。更好地检测碎片、坑洼和积水。速度 https://t.co/hkH84SHmjh"
-    },
-    {
-      "text": "RT @IowaTesla: Sending love and support from Iowa to @teslaownersSV",
-      "link": "https://x.com/teslaownersSV/status/2124596947764068527",
-      "date": "Sun Nov 22 20:12:40 +0000 2026",
-      "tweet_id": "2124596947764068527",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124596947764068527q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @IowaTesla：将爱荷华州的爱和支持发送给@teslaownersSV"
-    },
-    {
-      "text": "RT @SYQCON95: This is why I love being in the Tesla community. We’re all one family, loving and supporting each other. Great job to Jay and…",
-      "link": "https://x.com/teslaownersSV/status/2124596507106275535",
-      "date": "Sun Nov 22 20:10:55 +0000 2026",
-      "tweet_id": "2124596507106275535",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124596507106275535q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @SYQCON95：这就是我喜欢加入特斯拉社区的原因。我们都是一家人，彼此相爱、互相支持。杰伊干得好，而且……"
-    },
-    {
-      "text": "This is why I love being in the Tesla community. We’re all one family, loving and supporting each other. Great job to Jay and crew. We’re all here for you @teslaownersSV and your family 💕❤️",
-      "link": "https://x.com/SYQCON95/status/2124595977281773779",
-      "date": "Sun Nov 22 20:08:48 +0000 2026",
-      "tweet_id": "2124595977281773779",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124595977281773779q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "这就是我喜欢加入特斯拉社区的原因。我们都是一家人，彼此相爱、互相支持。杰伊和工作人员干得好。我们都在这里为你@teslaownersSV 和你的家人💕❤️"
-    },
-    {
-      "text": "Sending love and support from Iowa to @teslaownersSV",
-      "link": "https://x.com/IowaTesla/status/2124593775871762547",
-      "date": "Sun Nov 22 20:00:03 +0000 2026",
-      "tweet_id": "2124593775871762547",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124593775871762547q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "将爱荷华州的爱和支持发送给@teslaownersSV"
-    },
-    {
-      "text": "John… All of us are here for you every step of the way through this tough season you, your wife and family are going through. You are such a light for Christ and all of us see it day after day. \n\nOne of my passages I cling to is “But he said to me, “My grace is sufficient for",
-      "link": "https://x.com/MstrHappyJustin/status/2124591112132129212",
-      "date": "Sun Nov 22 19:49:28 +0000 2026",
-      "tweet_id": "2124591112132129212",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124591112132129212q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "约翰……在您、您的妻子和家人正在经历的这个艰难的季节，我们所有人都在这里为您提供支持。你是基督的光，我们所有人日复一日地看到它。 \n\n我坚持的其中一段话是“但他对我说：“我的恩典足够"
-    },
-    {
-      "text": "Hey @teslaownersSV \n\nThank you for putting this community together, and thanks to your wife for being supportive of this crazy mission.\nPlease do let me know if there’s anything I could do to make this easier for you and your family, would love to offer your family a free magic",
-      "link": "https://x.com/AlSultan_Meriam/status/2124588841558475067",
-      "date": "Sun Nov 22 19:40:27 +0000 2026",
-      "tweet_id": "2124588841558475067",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124588841558475067q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "嘿@teslaownersSV \n\n感谢您将这个社区聚集在一起，并感谢您的妻子对这一疯狂使命的支持。\n如果我可以做些什么来让您和您的家人更轻松，请告诉我，我很乐意为您的家人提供免费的魔法"
-    },
-    {
-      "text": "You won't see anything more beautiful than this anywhere on any platform ever. God bless everyone who did this and thoughts and prayers to the Stringer Family. I believe in Miracles ❤️🙏",
-      "link": "https://x.com/TruthTom/status/2124588008082911638",
-      "date": "Sun Nov 22 19:37:08 +0000 2026",
-      "tweet_id": "2124588008082911638",
-      "quoted": {
-        "user": "that1evguyjay",
-        "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-            "local": "2124588008082911638q_0.jpg"
-          }
-        ],
-        "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。"
-      },
-      "ctx_done": 1,
-      "text_zh": "您在任何平台上的任何地方都不会看到比这更美丽的东西。上帝保佑所有这样做的人，并向斯金格家族表达思念和祈祷。我相信奇迹❤️🙏"
-    },
-    {
-      "text": "@stevemarkryan joins myself and @kgee  to break down a wild month for Elon's companies. \n\nWe get his reaction to Starship being caught, how Starlink and data centers in space could change the game, what private Cybercab ownership means for Tesla, the math behind robotaxi profits, https://t.co/yyE6nccw9M",
-      "link": "https://x.com/teslaownersSV/status/2124580064348217518",
-      "date": "Sun Nov 22 19:05:34 +0000 2026",
-      "tweet_id": "2124580064348217518",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124563178390732800/vid/avc1/1920x1080/oP8aFnOkpMprdVAN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124563178390732800/img/EbmqRqRzjIJ3M7qj.jpg",
-          "local": "2124580064348217518_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124563178390732800/vid/avc1/1920x1080/oP8aFnOkpMprdVAN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124563178390732800/img/EbmqRqRzjIJ3M7qj.jpg",
-          "local": "2124580064348217518_1.jpg"
-        }
-      ],
-      "text_zh": "@stevemarkryan 与我和 @kgee 一起回顾 Elon 公司疯狂的一个月。 \n\n我们了解他对 Starship 被抓的反应、Starlink 和太空数据中心如何改变游戏规则、私人 Cyber​​cab 所有权对特斯拉意味着什么、机器人出租车利润背后的数学，https://t.co/yyE6nccw9M",
-      "reply_to": "stevemarkryan",
-      "ctx_done": 1
-    },
-    {
-      "text": "https://t.co/jMGcQvGt1v",
-      "link": "https://x.com/teslaownersSV/status/2124575280249577697",
-      "date": "Sun Nov 22 18:46:34 +0000 2026",
-      "tweet_id": "2124575280249577697",
-      "ctx_done": 1,
-      "text_zh": "https://t.co/jMGcQvGt1v"
-    },
-    {
-      "text": "RT @teslaownersSV: Top 5 reasons the Rokid AI Glasses Style are the perfect holiday gift this year (or a gift to yourself) 🎁\n\n🔥 Holiday Sal…",
-      "link": "https://x.com/teslaownersSV/status/2124574651846468001",
-      "date": "Sun Nov 22 18:44:04 +0000 2026",
-      "tweet_id": "2124574651846468001",
-      "ctx_done": 1,
-      "text_zh": "RT @teslaownersSV：Rokid AI 眼镜风格成为今年完美节日礼物（或给自己的礼物）的 5 大理由🎁\n\n🔥 假日销售…"
-    },
-    {
-      "text": "To the Stringer family, this one is for you.\n\nThe Tesla community came together to send you love. You are not alone in this fight. We are with you every step of the way.\n\n@teslaownersSV we love you brother. https://t.co/rlA4F00A0k",
-      "link": "https://x.com/that1evguyjay/status/2124568990966308908",
-      "date": "Sun Nov 22 18:21:34 +0000 2026",
-      "tweet_id": "2124568990966308908",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124564492323594240/vid/avc1/1080x1920/u4Zkgc4gMPeZyUiN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-          "local": "2124568990966308908_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124564492323594240/vid/avc1/1080x1920/u4Zkgc4gMPeZyUiN.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124564492323594240/img/GxJ6UUa-gRW8gDHV.jpg",
-          "local": "2124568990966308908_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "对于斯金格家族来说，这是给你的。\n\n特斯拉社区齐心协力，向您表达爱意。在这场战斗中你并不孤单。我们将全程陪伴您。\n\n@teslaownersSV 我们爱你兄弟。 https://t.co/rlA4F00A0k"
-    },
-    {
-      "text": "X IS THE #1 NEWS APP IN THE UNITED STATES! https://t.co/XqlOYf0ncW",
-      "link": "https://x.com/teslaownersSV/status/2124564251591557429",
-      "date": "Sun Nov 22 18:02:44 +0000 2026",
-      "tweet_id": "2124564251591557429",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXv3490asAA2-12.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXv3490asAA2-12.jpg?format=jpg&name=large",
-          "local": "2124564251591557429_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXv3490asAA2-12.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXv3490asAA2-12.jpg?format=jpg&name=large",
-          "local": "2124564251591557429_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "X 是美国排名第一的新闻应用程序！ https://t.co/XqlOYf0ncW"
-    },
-    {
-      "text": "NEWS: Tesla is celebrating 10 years in Spain, becoming the country’s leading EV brand by cumulative registrations.\n\n- Since opening orders in December 2016, Tesla has delivered more than 78,000 vehicles.\n- The Model 3 and Model Y are among Spain’s top-selling electric cars in https://t.co/l25OO8QyMV",
-      "link": "https://x.com/teslaownersSV/status/2124538369179029883",
-      "date": "Sun Nov 22 16:19:53 +0000 2026",
-      "tweet_id": "2124538369179029883",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXvgYzYacAAerHZ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXvgYzYacAAerHZ.jpg?format=jpg&name=large",
-          "local": "2124538369179029883_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXvgYzYacAAerHZ.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXvgYzYacAAerHZ.jpg?format=jpg&name=large",
-          "local": "2124538369179029883_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：特斯拉正在庆祝进入西班牙十周年，以累计注册量成为该国领先的电动汽车品牌。\n\n- 自 2016 年 12 月开放订单以来，特斯拉已交付超过 78,000 辆汽车。\n- Model 3 和 Model Y 跻身西班牙最畅销电动汽车之列 https://t.co/l25OO8QyMV"
-    },
-    {
-      "text": "NEWS: Starlink helped an injured hiker in Japan send his exact GPS location to his wife after losing mobile signal in the mountains.\n\n- The hiker fell 6 meters, suffering heavy bleeding and a broken finger.\n- Using Starlink, he sent his GPS coordinates from a hiking app, which https://t.co/MjAMr2LrOx",
-      "link": "https://x.com/teslaownersSV/status/2124533677443125307",
-      "date": "Sun Nov 22 16:01:15 +0000 2026",
-      "tweet_id": "2124533677443125307",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXvcHt9aYAAcvgD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXvcHt9aYAAcvgD.jpg?format=jpg&name=large",
-          "local": "2124533677443125307_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXvcHt9aYAAcvgD.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXvcHt9aYAAcvgD.jpg?format=jpg&name=large",
-          "local": "2124533677443125307_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "新闻：星链帮助日本一名受伤的徒步旅行者在山区失去移动信号后将他的准确 GPS 位置发送给他的妻子。\n\n- 徒步旅行者从 6 米高处坠落，严重流血，手指骨折。\n- 使用 Starlink，他从徒步旅行应用程序发送了 GPS 坐标，该应用程序 https://t.co/MjAMr2LrOx"
-    },
-    {
-      "text": "JUST IN: SpaceX Falcon 9 launched the NRO's NROL-136 mission from California this morning, and the first stage landed back on LZ-4.\n\nLiftoff 4:24 AM PT from pad 4E at Vandenberg, landing about 11 minutes later. https://t.co/Ts2yGZe54l",
-      "link": "https://x.com/teslaownersSV/status/2124525344648781963",
-      "date": "Sun Nov 22 15:28:08 +0000 2026",
-      "tweet_id": "2124525344648781963",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124525295676076032/vid/avc1/1920x1080/MLrh5ASmTDavLzj4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124525295676076032/img/5oIWxiqO-kPDOEdP.jpg",
-          "local": "2124525344648781963_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124525295676076032/vid/avc1/1920x1080/MLrh5ASmTDavLzj4.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124525295676076032/img/5oIWxiqO-kPDOEdP.jpg",
-          "local": "2124525344648781963_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "刚刚：SpaceX 猎鹰 9 号火箭今天早上从加利福尼亚州发射了 NRO 的 NROL-136 任务，第一级着陆在 LZ-4 上。\n\n太平洋时间凌晨 4:24 从范登堡 4E 号发射台起飞，约 11 分钟后着陆。 https://t.co/Ts2yGZe54l"
-    },
-    {
-      "text": "Sunset on the pad at Starbase, then the view from directly above at liftoff.\n\nBoth views are from Flight 13 this summer, launching from Pad 2. Flight 16 is next. https://t.co/HzwEIdMlro",
-      "link": "https://x.com/teslaownersSV/status/2124406687767679403",
-      "date": "Sun Nov 22 07:36:38 +0000 2026",
-      "tweet_id": "2124406687767679403",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124406653701492736/vid/avc1/1920x1080/szhurx1IkJfXSdUV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124406653701492736/img/lG77NEpt-rrZXQTy.jpg",
-          "local": "2124406687767679403_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124406653701492736/vid/avc1/1920x1080/szhurx1IkJfXSdUV.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124406653701492736/img/lG77NEpt-rrZXQTy.jpg",
-          "local": "2124406687767679403_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "Starbase 平台上的日落，然后是升空时从正上方看到的景色。\n\n这两个视图均取自今年夏天从 2 号发射台发射的 13 号航班。接下来是 16 号航班。 https://t.co/HzwEIdMlro"
-    },
-    {
-      "text": "JUST IN: The Boring Company's third Nashville tunnel boring machine, Prufrock-MB3, is up and running.\n\nIt gets about one week of commissioning and close-out, then starts tunneling by the end of this month. Two of its four grippers are visible on the right; each pushes sideways https://t.co/QEG6ErU5p7",
-      "link": "https://x.com/teslaownersSV/status/2124403853953319186",
-      "date": "Sun Nov 22 07:25:22 +0000 2026",
-      "tweet_id": "2124403853953319186",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124403834898538496/vid/avc1/636x1238/LB5J-nIcCnUlkWcE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124403834898538496/img/yhru8tDZpIq7c6mz.jpg",
-          "local": "2124403853953319186_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124403834898538496/vid/avc1/636x1238/LB5J-nIcCnUlkWcE.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124403834898538496/img/yhru8tDZpIq7c6mz.jpg",
-          "local": "2124403853953319186_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "刚刚：The Boring Company 的第三台纳什维尔隧道掘进机 Prufrock-MB3 已启动并运行。\n\n它需要大约一周的调试和收尾，然后在本月底开始挖掘隧道。右侧可以看到四个夹具中的两个。每个都向侧面推 https://t.co/QEG6ErU5p7"
-    },
-    {
-      "text": "Power goes out. Only one of these needs a gas can.\n\nWith Powershare, a fully charged Cybertruck can back up your home with up to 11.5 kW for over three days, per Tesla. Model 3 and Model Y ordered on or after Oct 1, 2026 can now help back up a home too, paired with Powerwall 3. https://t.co/2a0KDB2lZy",
-      "link": "https://x.com/teslaownersSV/status/2124375695367528619",
-      "date": "Sun Nov 22 05:33:29 +0000 2026",
-      "tweet_id": "2124375695367528619",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124375673213210624/vid/avc1/1078x1920/BX2HeWZ98Jul5qs_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124375673213210624/img/jqMtPhbi8IiRCKO8.jpg",
-          "local": "2124375695367528619_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124375673213210624/vid/avc1/1078x1920/BX2HeWZ98Jul5qs_.mp4",
-          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2124375673213210624/img/jqMtPhbi8IiRCKO8.jpg",
-          "local": "2124375695367528619_1.jpg"
-        }
-      ],
-      "ctx_done": 1,
-      "text_zh": "停电了。其中只有一个需要煤气罐。\n\n根据 Tesla 的说法，借助 Powershare，一辆充满电的 Cyber​​truck 可为您的房屋提供高达 11.5 kW 的电力，持续三天以上。 2026 年 10 月 1 日或之后订购的 Model 3 和 Model Y 现在也可以与 Powerwall 3 配合使用来帮助备份房屋。https://t.co/2a0KDB2lZy"
-    },
-    {
-      "text": "RT @TesLatino: I’d like to give a special shout out to our friend John @teslaownersSV for supporting the TesLatino channel and playing an i…",
-      "link": "https://x.com/teslaownersSV/status/2124342910791688546",
-      "date": "Sun Nov 22 03:23:12 +0000 2026",
-      "tweet_id": "2124342910791688546",
-      "quoted": {
-        "user": "TesLatino",
-        "text": "Take a break and enjoy a fun video I made, ripping through a few Moab trails with Stephen @kneubuehl and his @cybertrexevents crew.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/media/HXshNI9XIAAYqXv.jpg",
-            "local": "2124342910791688546q_0.jpg"
-          }
-        ],
-        "text_zh": "休息一下，欣赏我制作的有趣视频，与 Stephen @kneubuehl 和他的 @cybertrexevents 团队一起穿越几条摩押小径。"
-      },
-      "ctx_done": 1,
-      "text_zh": "RT @TesLatino：我想特别感谢我们的朋友 John @teslaownersSV，感谢他支持 TesLatino 频道并玩了一个 i…"
-    },
-    {
-      "text": "I’d like to give a special shout out to our friend John @teslaownersSV for supporting the TesLatino channel and playing an important part behind the scenes supporting our drive to Moab.\n\nAlso special thanks to all our monthly subscribers for supporting the channel. We can’t do https://t.co/dT7s19AXXq",
-      "link": "https://x.com/TesLatino/status/2124337800308809970",
-      "date": "Sun Nov 22 03:02:54 +0000 2026",
-      "tweet_id": "2124337800308809970",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87aXcAAPlpy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87aXcAAPlpy.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_0.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp871XAAAwTmB.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp871XAAAwTmB.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_1.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp873WsAAyAbz.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp873WsAAyAbz.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_2.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87dWYAALI15.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87dWYAALI15.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_3.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87dW4AAoCsH.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87dW4AAoCsH.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_4.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp870XkAEisc3.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp870XkAEisc3.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_5.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87sXEAAF_SG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87sXEAAF_SG.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_6.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87mWgAAjXWG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87mWgAAjXWG.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_7.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87aXcAAPlpy.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87aXcAAPlpy.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_8.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp871XAAAwTmB.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp871XAAAwTmB.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_9.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp873WsAAyAbz.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp873WsAAyAbz.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_10.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87dWYAALI15.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87dWYAALI15.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_11.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87dW4AAoCsH.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87dW4AAoCsH.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_12.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp870XkAEisc3.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp870XkAEisc3.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_13.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87sXEAAF_SG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87sXEAAF_SG.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_14.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HXsp87mWgAAjXWG.jpg?format=jpg&name=medium",
-          "full": "https://pbs.twimg.com/media/HXsp87mWgAAjXWG.jpg?format=jpg&name=large",
-          "local": "2124337800308809970_15.jpg"
-        }
-      ],
-      "quoted": {
-        "user": "TesLatino",
-        "text": "Take a break and enjoy a fun video I made, ripping through a few Moab trails with Stephen @kneubuehl and his @cybertrexevents crew.",
-        "media": [
-          {
-            "type": "video",
-            "url": "",
-            "thumb": "https://pbs.twimg.com/media/HXshNI9XIAAYqXv.jpg",
-            "local": "2124337800308809970q_0.jpg"
-          }
-        ],
-        "text_zh": "休息一下，欣赏我制作的有趣视频，与 Stephen @kneubuehl 和他的 @cybertrexevents 团队一起穿越几条摩押小径。"
-      },
-      "ctx_done": 1,
-      "text_zh": "我要特别感谢我们的朋友 John @teslaownersSV，他支持 TesLatino 频道，并在支持我们前往摩押的幕后发挥了重要作用。\n\n还要特别感谢我们所有每月订阅者支持该频道。我们做不到 https://t.co/dT7s19AXXq"
-    },
-    {
-      "text": "Take a break and enjoy a fun video I made, ripping through a few Moab trails with Stephen @kneubuehl and his @cybertrexevents crew. https://t.co/Ceu9b2H1fS",
-      "link": "https://x.com/TesLatino/status/2124329478654726376",
-      "date": "Sun Nov 22 02:29:50 +0000 2026",
-      "tweet_id": "2124329478654726376",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124326809676259328/vid/avc1/3840x2160/tSzmqpEQiH7imQFH.mp4",
-          "thumb": "https://pbs.twimg.com/media/HXshNI9XIAAYqXv.jpg",
-          "local": "2124329478654726376_0.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2124326809676259328/vid/avc1/3840x2160/tSzmqpEQiH7imQFH.mp4",
-          "thumb": "https://pbs.twimg.com/media/HXshNI9XIAAYqXv.jpg",
-          "local": "2124329478654726376_1.jpg"
-        }
-      ],
-      "text_zh": "休息一下，欣赏我制作的有趣视频，与 Stephen @kneubuehl 和他的 @cybertrexevents 团队一起穿越几条摩押小径。 https://t.co/Ceu9b2H1fS",
-      "ctx_done": 1
     }
   ]
 }
